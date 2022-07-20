@@ -1,0 +1,58 @@
+name: Create Documentation
+
+on:
+  schedule:
+    - cron: 0 3 * * *
+  workflow_dispatch:
+
+jobs:
+  deploy:
+    runs-on: ubuntu-20.04
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v2
+
+      - name: Clone Lean
+        run: |
+          git clone --depth 1 https://github.com/QuantConnect/Lean.git
+          cd Lean
+          git fetch
+          echo "::set-output name=TAG::$(git describe --tags --abbrev=0)"
+        id: lean
+
+      # If Release already exists, this action will fail
+      - name: Create Release
+        uses: actions/create-release@v1
+        id: create_release
+        with:
+          draft: false
+          prerelease: false
+          release_name: ${{steps.lean.outputs.TAG}}
+          tag_name: ${{steps.lean.outputs.TAG}}
+        env:
+          GITHUB_TOKEN: ${{ github.token }}
+
+      - name: Install Doxygen and Graphviz
+        run: sudo apt-get install -y doxygen graphviz
+
+      - name: Generate Footer
+        run: doxygen -w html _.html footer.html _.css
+
+      - name: Generate Documentation
+        run: |
+          cp Doxyfile MAIN_PAGE.md *.css *.html ./Lean
+          cd Lean
+          doxygen
+          zip -r documentation.zip ./_docs/
+          echo $The latest LEAN Tag is ${{steps.lean.outputs.TAG}}
+
+      - name: Publish the Zipped Doxygen Docs to GH Releases
+        uses: actions/upload-release-asset@v1
+        env:
+          GITHUB_TOKEN: ${{ github.token }}
+        with:
+          upload_url: ${{ steps.create_release.outputs.upload_url }}
+          asset_path: ./Lean/documentation.zip
+          asset_name: documentation.zip
+          asset_content_type: application/zip
