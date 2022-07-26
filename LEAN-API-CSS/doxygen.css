@@ -7,6 +7,10 @@
         --panel-bg-color: #FBFCFD
 }
 
+#titlearea {
+        display: none;
+}
+
 body, table, div, p, dl {
         font-family: 'Inter',Helvetica,Arial,sans-serif;
         font-weight: 400;
