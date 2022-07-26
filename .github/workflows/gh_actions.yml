@@ -36,14 +36,15 @@ jobs:
       - name: Install Doxygen and Graphviz
         run: sudo apt-get install -y doxygen graphviz
 
-      - name: Generate Footer
-        run: doxygen -w html _.html footer.html _.css
-
       - name: Generate Documentation
         run: |
-          cp Doxyfile MAIN_PAGE.md *.css *.html ./Lean
+          cp Doxyfile MAIN_PAGE.md ./Lean
           cd Lean
           doxygen
+          cp ../*.png ./_docs/
+          cp ../*.svs ./_docs/
+          cp ../LEAN-API-CSS/*.css ./_docs/
+          cp -f ./_docs/search.css ./_docs/search/
           zip -r documentation.zip ./_docs/
           echo $The latest LEAN Tag is ${{steps.lean.outputs.TAG}}
 
