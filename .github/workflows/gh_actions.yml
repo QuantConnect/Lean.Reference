@@ -33,12 +33,14 @@ jobs:
           mv -f ./_docs/search.css ./_docs/search/
           mv -f ./_docs/close.png ./_docs/search/
           mv -f ./_docs/mag_sel.png ./_docs/search/
+          rm -r Lean
 
       - name: Commit and Push
         run: |-
           git config --global user.email "actions@users.noreply.github.com"
           git config --global user.name "GitHub Actions"
-          git checkout published
+          git fetch origin
+          git checkout -f published
           git add -A
           git commit --allow-empty -m "Updates Documentation"
-          git push origin published
+          git push origin published -f
