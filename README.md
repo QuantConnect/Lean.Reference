@@ -1,2 +1,2 @@
 # Lean.Reference
-Formatted LEAN Class/API Reference by Doxygen
+Formatted LEAN Class/API Reference by Doxygen 
