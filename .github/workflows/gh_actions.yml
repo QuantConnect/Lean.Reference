@@ -38,13 +38,15 @@ jobs:
 
       - name: Generate Documentation
         run: |
-          cp Doxyfile MAIN_PAGE.md style.css ./Lean
+          cp Doxyfile MAIN_PAGE.md ./Lean
           cd Lean
           doxygen
-          cp ../*.png ./_docs/
-          cp ../*.svg ./_docs/
-          cp ../LEAN-API-CSS/*.css ./_docs/
+          cp ../images/*.png ./_docs/
+          cp ../images/*.svg ./_docs/
+          cp ../custom-styles/*.css ./_docs/
           mv -f ./_docs/search.css ./_docs/search/
+          mv -f ./_docs/close.png ./_docs/search/
+          mv -f ./_docs/mag_sel.png ./_docs/search/
           zip -r documentation.zip ./_docs/
           echo $The latest LEAN Tag is ${{steps.lean.outputs.TAG}}
 
