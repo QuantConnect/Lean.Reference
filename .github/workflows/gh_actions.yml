@@ -23,7 +23,7 @@ jobs:
 
       - name: Generate Documentation
         run: |
-          cp Doxyfile MAIN_PAGE.md ./Lean
+          cp Doxyfile MAIN_PAGE.md ./custom-styles/style.css ./Lean
           cd Lean
           doxygen
           cd ..
@@ -35,12 +35,15 @@ jobs:
           mv -f ./_docs/mag_sel.png ./_docs/search/
           rm -r Lean
 
-      - name: Commit and Push
+      - name: Delete Current "published" Branch
         run: |-
           git config --global user.email "actions@users.noreply.github.com"
           git config --global user.name "GitHub Actions"
-          git fetch origin
-          git checkout -f published
+          git push origin --delete published
+
+      - name: Commit and Push
+        run: |-
+          git checkout -b published
           git add -A
           git commit --allow-empty -m "Updates Documentation"
           git push origin published -f
