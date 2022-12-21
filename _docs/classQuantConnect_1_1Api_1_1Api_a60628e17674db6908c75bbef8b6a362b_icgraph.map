@@ -1,0 +1,5 @@
+<map id="QuantConnect.Api.Api.DownloadData" name="QuantConnect.Api.Api.DownloadData">
+<area shape="rect" id="node1" title="Method to purchase and download data from QuantConnect" alt="" coords="640,13,904,39"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Lean_1_1Engine_1_1DataFeeds_1_1ApiDataProvider.html#a64ac6ab055506a450fcfba7d9a4242d3" title="Attempt to download data using the Api for and return a FileStream of that data." alt="" coords="292,5,592,47"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Lean_1_1Engine_1_1DataFeeds_1_1ApiDataProvider.html#a4a3b792abb8244bb0fa3a6be2f9d1fd9" title="Retrieves data to be used in an algorithm. If file does not exist, an attempt is made to download the..." alt="" coords="5,5,244,47"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="QuantConnect.Lean.Engine.DataFeeds.Enumerators.FillForwardEnumerator" name="QuantConnect.Lean.Engine.DataFeeds.Enumerators.FillForwardEnumerator">
+<area shape="rect" id="node1" title="The FillForwardEnumerator wraps an existing base data enumerator and inserts extra &#39;base data&#39; instan..." alt="" coords="5,80,259,136"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Lean_1_1Engine_1_1DataFeeds_1_1Enumerators_1_1LiveFillForwardEnumerator.html" title="An implementation of the FillForwardEnumerator that uses an ITimeProvider to determine if a fill forw..." alt="" coords="18,184,246,240"/>
+<area shape="rect" id="node2" title=" " alt="" coords="35,5,229,32"/>
+</map>

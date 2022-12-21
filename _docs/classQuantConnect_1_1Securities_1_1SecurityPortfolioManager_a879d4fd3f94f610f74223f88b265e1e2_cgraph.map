@@ -1,0 +1,5 @@
+<map id="QuantConnect.Securities.SecurityPortfolioManager.GetMarginRemaining" name="QuantConnect.Securities.SecurityPortfolioManager.GetMarginRemaining">
+<area shape="rect" id="node1" title="Gets the margin available for trading a specific symbol in a specific direction." alt="" coords="5,5,219,61"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Securities_1_1Positions_1_1PositionManager.html#a5bc4ec6a7048106a42ec4cd765a626cc" title="Gets or creates the default position group for the specified security" alt="" coords="267,5,487,61"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Securities_1_1Positions_1_1PositionManager.html#a6cd4f628427cacf14b7990fb884d51ae" title="Creates a PositionGroupKey for the security&#39;s default position group" alt="" coords="535,5,775,61"/>
+</map>

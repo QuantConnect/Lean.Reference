@@ -1,0 +1,4 @@
+<map id="QuantConnect.Extensions.RequiresMapping" name="QuantConnect.Extensions.RequiresMapping">
+<area shape="rect" id="node1" title="Determine if this SecurityType requires mapping" alt="" coords="5,5,199,47"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Symbol.html#a1f3c25223fd9a7b753a4f84ece6469ab" title="Method returns true, if symbol is a derivative canonical symbol" alt="" coords="247,13,493,39"/>
+</map>

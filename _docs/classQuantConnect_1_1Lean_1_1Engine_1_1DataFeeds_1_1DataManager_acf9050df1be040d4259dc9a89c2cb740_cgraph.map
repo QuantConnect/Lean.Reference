@@ -1,0 +1,18 @@
+<map id="QuantConnect.Lean.Engine.DataFeeds.DataManager.DataManager" name="QuantConnect.Lean.Engine.DataFeeds.DataManager.DataManager">
+<area shape="rect" id="node1" title="Creates a new instance of the DataManager" alt="" coords="5,378,280,419"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Lean_1_1Engine_1_1DataFeeds_1_1DataManager.html#a8c9d8428b36caced3c728a037a425114" title="Adds a new Subscription to provide data for the specified security." alt="" coords="328,189,619,230"/>
+<area shape="rect" id="node10" href="$classQuantConnect_1_1Data_1_1SubscriptionManager.html#a40bc120ef05e872a3cdfe43f33ede6e3" title="Hard code the set of default available data feeds" alt="" coords="357,313,590,354"/>
+<area shape="rect" id="node11" href="$classQuantConnect_1_1Securities_1_1SymbolProperties.html#ad148190d1dfce7109d38d3107b7b8fbf" title="Gets a default instance of the SymbolProperties class for the specified quoteCurrency" alt="" coords="367,378,579,419"/>
+<area shape="rect" id="node13" href="$classQuantConnect_1_1Lean_1_1Engine_1_1DataFeeds_1_1UniverseSelection.html#a8aa15e1826e592c93ada3b2a5336f257" title="Sets the data manager" alt="" coords="354,444,593,500"/>
+<area shape="rect" id="node16" href="$classQuantConnect_1_1Securities_1_1SecurityManager.html#af3ad97e370ceec706ac1afe70f7fbb42" title="Try and get this security object with matching symbol and return true on success." alt="" coords="367,525,580,566"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Lean_1_1Engine_1_1DataFeeds_1_1Subscription.html#a779f4621a695157c7e3f5ac7bd5261af" title="Adds a SubscriptionRequest for this subscription" alt="" coords="667,5,951,61"/>
+<area shape="rect" id="node4" href="$classQuantConnect_1_1Logging_1_1Log.html#ad908daef9d61532d7d60c9dcfb9a3e0c" title="Output to the console" alt="" coords="709,86,909,127"/>
+<area shape="rect" id="node6" href="$classQuantConnect_1_1Logging_1_1Log.html#a4e55477fbc790846b74550a57198cea9" title="Log trace" alt="" coords="709,151,909,193"/>
+<area shape="rect" id="node8" href="$classQuantConnect_1_1Lean_1_1Engine_1_1DataFeeds_1_1SubscriptionCollection.html#aad06e6f21b74a96086f3854c9cc0d840" title="Attempts to add the specified subscription to the collection. If another subscription exists with the..." alt="" coords="687,217,931,273"/>
+<area shape="rect" id="node9" href="$classQuantConnect_1_1Lean_1_1Engine_1_1DataFeeds_1_1SubscriptionCollection.html#a94f680d4afc90d445f57af1034be7c45" title="Attempts to retrieve the subscription with the specified configuration" alt="" coords="687,297,931,353"/>
+<area shape="rect" id="node5" href="$interfaceQuantConnect_1_1Logging_1_1ILogHandler.html#a2c738b8e78dd5b54244bc68b969ba91d" title="Write debug message to log" alt="" coords="999,86,1199,127"/>
+<area shape="rect" id="node7" href="$interfaceQuantConnect_1_1Logging_1_1ILogHandler.html#a3fb71a33ac66129240b63f12b6fcda3b" title="Write debug message to log" alt="" coords="999,151,1199,193"/>
+<area shape="rect" id="node12" href="$classQuantConnect_1_1Securities_1_1SymbolProperties.html#a484c9f2f6fc4a269beb7b6c88c1907f0" title="Creates an instance of the SymbolProperties class" alt="" coords="681,378,937,419"/>
+<area shape="rect" id="node14" href="$interfaceQuantConnect_1_1Lean_1_1Engine_1_1DataFeeds_1_1IDataFeedSubscriptionManager.html#a5d3bf0c3a3cda192ac4e78da3869cdcc" title="Adds a new Subscription to provide data for the specified security." alt="" coords="688,444,929,500"/>
+<area shape="rect" id="node15" href="$interfaceQuantConnect_1_1Lean_1_1Engine_1_1DataFeeds_1_1IDataFeedSubscriptionManager.html#a4493f7c8b00050ea6c53897497636cdf" title="Removes the Subscription, if it exists" alt="" coords="688,524,929,580"/>
+</map>

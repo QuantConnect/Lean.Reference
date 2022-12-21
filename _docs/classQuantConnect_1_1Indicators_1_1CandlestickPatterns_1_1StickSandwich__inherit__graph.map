@@ -1,0 +1,5 @@
+<map id="QuantConnect.Indicators.CandlestickPatterns.StickSandwich" name="QuantConnect.Indicators.CandlestickPatterns.StickSandwich">
+<area shape="rect" id="node1" title="Stick Sandwich candlestick pattern indicator" alt="" coords="5,169,255,211"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Indicators_1_1CandlestickPatterns_1_1CandlestickPattern.html" title="Abstract base class for a candlestick pattern indicator" alt="" coords="58,95,202,121"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Indicators_1_1WindowIndicator.html" title=" " alt="" coords="23,5,237,47"/>
+</map>

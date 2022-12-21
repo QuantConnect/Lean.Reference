@@ -1,0 +1,5 @@
+<map id="QuantConnect.Lean.Engine.Alphas.DefaultAlphaHandler.AlphaResultPacketSender" name="QuantConnect.Lean.Engine.Alphas.DefaultAlphaHandler.AlphaResultPacketSender">
+<area shape="rect" id="node1" title="Encapsulates routing finalized insights to the messaging handler" alt="" coords="61,80,308,136"/>
+<area shape="rect" id="node2" href="$interfaceQuantConnect_1_1Algorithm_1_1Framework_1_1Alphas_1_1IInsightManagerExtension.html" title="Abstraction point to handle the various concerns from a common api. At the time of writing,..." alt="" coords="5,5,196,32"/>
+<area shape="rect" id="node3" title=" " alt="" coords="221,5,319,32"/>
+</map>

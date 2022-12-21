@@ -1,0 +1,4 @@
+<map id="QuantConnect.Time.TradeableDates" name="QuantConnect.Time.TradeableDates">
+<area shape="rect" id="node1" title="Could of the number of tradeable dates within this period." alt="" coords="300,13,519,54"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Lean_1_1Engine_1_1Results_1_1BacktestingResultHandler.html#a187cf964394ce96cafca9a1048e9b143" title="Set the Algorithm instance for ths result." alt="" coords="5,5,252,61"/>
+</map>

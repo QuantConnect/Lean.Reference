@@ -1,0 +1,7 @@
+<map id="QuantConnect.Data.SubscriptionManager.AddConsolidator" name="QuantConnect.Data.SubscriptionManager.AddConsolidator">
+<area shape="rect" id="node1" title="Add a custom python consolidator for the symbol" alt="" coords="5,39,239,80"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Data_1_1SubscriptionManager.html#a3970e39d984fe8dd05db26d5413a14ac" title="Add a consolidator for the symbol" alt="" coords="287,39,520,80"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Data_1_1SubscriptionManager.html#a1db2d9657ee5ecc85607653a46220de2" title="Checks if the subscription is valid for the consolidator" alt="" coords="568,39,875,80"/>
+<area shape="rect" id="node4" href="$classQuantConnect_1_1Util_1_1LeanData.html#adf1799b921849e0643385e6794ec2471" title="Get the TickType for common Lean data types. If not a Lean common data type, return a TickType of Tra..." alt="" coords="923,5,1231,47"/>
+<area shape="rect" id="node5" href="$classQuantConnect_1_1Util_1_1LeanData.html#af07561616d971cbd08adb7847eafb7f6" title="Determines if the Type is a &#39;common&#39; type used throughout lean This method is helpful in creating Sub..." alt="" coords="971,71,1182,112"/>
+</map>

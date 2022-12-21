@@ -1,0 +1,9 @@
+<map id="QuantConnect.Orders.Fills.FillModel" name="QuantConnect.Orders.Fills.FillModel">
+<area shape="rect" id="node1" title="Provides a base class for all fill models" alt="" coords="139,71,333,112"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Orders_1_1Fills_1_1ImmediateFillModel.html" title="Represents the default fill model used to simulate order fills" alt="" coords="381,37,576,79"/>
+<area shape="rect" id="node7" href="$classQuantConnect_1_1Python_1_1FillModelPythonWrapper.html" title="Wraps a PyObject object that represents a model that simulates order fill events" alt="" coords="385,103,572,144"/>
+<area shape="rect" id="node2" href="$interfaceQuantConnect_1_1Orders_1_1Fills_1_1IFillModel.html" title="Represents a model that simulates order fill events" alt="" coords="5,78,91,105"/>
+<area shape="rect" id="node4" href="$classQuantConnect_1_1Orders_1_1Fills_1_1FutureFillModel.html" title="Represents the fill model used to simulate order fills for futures" alt="" coords="624,5,819,47"/>
+<area shape="rect" id="node6" href="$classQuantConnect_1_1Orders_1_1Fills_1_1LatestPriceFillModel.html" title="This fill model is provided for cases where the trade/quote distinction should be ignored and the fil..." alt="" coords="624,71,819,112"/>
+<area shape="rect" id="node5" href="$classQuantConnect_1_1Orders_1_1Fills_1_1FutureOptionFillModel.html" title="Represents the default fill model used to simulate order fills for future options" alt="" coords="867,5,1061,47"/>
+</map>

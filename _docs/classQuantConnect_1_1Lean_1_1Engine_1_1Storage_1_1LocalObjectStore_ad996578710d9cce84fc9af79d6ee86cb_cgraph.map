@@ -1,0 +1,7 @@
+<map id="QuantConnect.Lean.Engine.Storage.LocalObjectStore.PersistData" name="QuantConnect.Lean.Engine.Storage.LocalObjectStore.PersistData">
+<area shape="rect" id="node1" title="Overridable persistence function" alt="" coords="5,79,271,120"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Logging_1_1Log.html#af0e7955911bc7664b37661b2a303a9e3" title="Log error" alt="" coords="350,5,550,47"/>
+<area shape="rect" id="node4" href="$classQuantConnect_1_1Lean_1_1Engine_1_1Storage_1_1LocalObjectStore.html#afa028c51997b389b10f3d33ec455c74d" title="Event invocator for the ErrorRaised event" alt="" coords="331,71,569,127"/>
+<area shape="rect" id="node5" href="$classQuantConnect_1_1Lean_1_1Engine_1_1Storage_1_1LocalObjectStore.html#a401003a1ad65a8cb163d7aa1162e98c0" title="Get&#39;s a file path for a given path. Internal use only because it does not guarantee the existence of ..." alt="" coords="319,152,581,193"/>
+<area shape="rect" id="node3" href="$interfaceQuantConnect_1_1Logging_1_1ILogHandler.html#a35373a0c5d76031fa5ccf5dc39e5c25d" title="Write error message to log" alt="" coords="629,5,829,47"/>
+</map>

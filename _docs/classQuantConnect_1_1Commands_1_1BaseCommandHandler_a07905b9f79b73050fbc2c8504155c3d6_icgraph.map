@@ -1,0 +1,4 @@
+<map id="QuantConnect.Commands.BaseCommandHandler.Acknowledge" name="QuantConnect.Commands.BaseCommandHandler.Acknowledge">
+<area shape="rect" id="node1" title="Acknowledge a command that has been executed" alt="" coords="320,5,551,47"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Commands_1_1BaseCommandHandler.html#a42c962525bf97988e04ee3673adf8876" title="Will consumer and execute any command in the queue" alt="" coords="5,5,272,47"/>
+</map>

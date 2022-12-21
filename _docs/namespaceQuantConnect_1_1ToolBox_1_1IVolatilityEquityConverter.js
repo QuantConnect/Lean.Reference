@@ -1,0 +1,4 @@
+var namespaceQuantConnect_1_1ToolBox_1_1IVolatilityEquityConverter =
+[
+    [ "IVolatilityEquityConverterProgram", "classQuantConnect_1_1ToolBox_1_1IVolatilityEquityConverter_1_1IVolatilityEquityConverterProgram.html", "classQuantConnect_1_1ToolBox_1_1IVolatilityEquityConverter_1_1IVolatilityEquityConverterProgram" ]
+];

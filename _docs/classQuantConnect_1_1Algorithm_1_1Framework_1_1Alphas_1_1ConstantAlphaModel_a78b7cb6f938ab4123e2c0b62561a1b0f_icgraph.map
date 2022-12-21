@@ -1,0 +1,4 @@
+<map id="QuantConnect.Algorithm.Framework.Alphas.ConstantAlphaModel.ShouldEmitInsight" name="QuantConnect.Algorithm.Framework.Alphas.ConstantAlphaModel.ShouldEmitInsight">
+<area shape="rect" id="node1" title="Determine if its time to emit insight for this symbol" alt="" coords="316,5,599,61"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Algorithm_1_1Framework_1_1Alphas_1_1ConstantAlphaModel.html#a624ca7df79e388efd206d0b21296a27c" title="Creates a constant insight for each security as specified via the constructor" alt="" coords="5,13,268,54"/>
+</map>

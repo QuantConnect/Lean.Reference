@@ -1,0 +1,4 @@
+<map id="QuantConnect.Util.LeanData.GenerateRelativeZipFilePath" name="QuantConnect.Util.LeanData.GenerateRelativeZipFilePath">
+<area shape="rect" id="node1" title="Generates the relative zip file path rooted in the /Data directory" alt="" coords="264,5,475,47"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Util_1_1LeanData.html#a892da8b7098345ba3da2f996d407e75f" title="Generates the full zip file path rooted in the dataDirectory" alt="" coords="5,5,216,47"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="QuantConnect.Indicators.PythonIndicator.SetIndicator" name="QuantConnect.Indicators.PythonIndicator.SetIndicator">
+<area shape="rect" id="node1" title="Sets the python implementation of the indicator" alt="" coords="283,5,488,47"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Indicators_1_1PythonIndicator.html#a47c06bfcffed60642613f148bf5a6461" title="Initializes a new instance of the PythonIndicator class using the specified name." alt="" coords="5,5,235,47"/>
+</map>

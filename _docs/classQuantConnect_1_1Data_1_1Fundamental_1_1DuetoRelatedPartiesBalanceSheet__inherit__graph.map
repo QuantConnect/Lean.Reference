@@ -1,0 +1,4 @@
+<map id="QuantConnect.Data.Fundamental.DuetoRelatedPartiesBalanceSheet" name="QuantConnect.Data.Fundamental.DuetoRelatedPartiesBalanceSheet">
+<area shape="rect" id="node1" title="Amounts owed by the company to a non&#45;arm&#39;s length entity." alt="" coords="5,80,249,121"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Data_1_1Fundamental_1_1MultiPeriodField.html" title="Abstract base class for multi&#45;period fields" alt="" coords="64,5,191,32"/>
+</map>

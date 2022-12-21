@@ -1,0 +1,9 @@
+<map id="QuantConnect.ToolBox.AlgoSeekOptionsConverter.AlgoSeekOptionsConverter.Convert" name="QuantConnect.ToolBox.AlgoSeekOptionsConverter.AlgoSeekOptionsConverter.Convert">
+<area shape="rect" id="node1" title="Give the reference date and source directory, convert the algoseek options data into n&#45;resolutions LE..." alt="" coords="5,71,288,127"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Logging_1_1Log.html#af0e7955911bc7664b37661b2a303a9e3" title="Log error" alt="" coords="377,5,577,47"/>
+<area shape="rect" id="node4" href="$classQuantConnect_1_1ToolBox_1_1AlgoSeekOptionsConverter_1_1AlgoSeekOptionsProcessor.html#a723c1b651126fdab44cb5ad6cf2ca2df" title="Process the tick; add to the con" alt="" coords="336,71,619,127"/>
+<area shape="rect" id="node6" href="$classQuantConnect_1_1Logging_1_1Log.html#a4e55477fbc790846b74550a57198cea9" title="Log trace" alt="" coords="377,152,577,193"/>
+<area shape="rect" id="node3" href="$interfaceQuantConnect_1_1Logging_1_1ILogHandler.html#a35373a0c5d76031fa5ccf5dc39e5c25d" title="Write error message to log" alt="" coords="690,5,890,47"/>
+<area shape="rect" id="node5" href="$interfaceQuantConnect_1_1Data_1_1Consolidators_1_1IDataConsolidator.html#a3264316f60148fcf40f83dfcd92dbd67" title="Updates this consolidator with the specified data" alt="" coords="667,79,913,120"/>
+<area shape="rect" id="node7" href="$interfaceQuantConnect_1_1Logging_1_1ILogHandler.html#a3fb71a33ac66129240b63f12b6fcda3b" title="Write debug message to log" alt="" coords="690,152,890,193"/>
+</map>

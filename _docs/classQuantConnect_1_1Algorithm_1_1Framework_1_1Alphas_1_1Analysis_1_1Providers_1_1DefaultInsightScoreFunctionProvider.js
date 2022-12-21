@@ -1,0 +1,4 @@
+var classQuantConnect_1_1Algorithm_1_1Framework_1_1Alphas_1_1Analysis_1_1Providers_1_1DefaultInsightScoreFunctionProvider =
+[
+    [ "GetScoreFunction", "classQuantConnect_1_1Algorithm_1_1Framework_1_1Alphas_1_1Analysis_1_1Providers_1_1DefaultInsightScoreFunctionProvider.html#af03a3bc34005d21d8eccdb90fb8e28e2", null ]
+];

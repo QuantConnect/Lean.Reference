@@ -1,0 +1,4 @@
+<map id="QuantConnect.Lean.Engine.TransactionHandlers.BrokerageTransactionHandler.HandleOrderRequest" name="QuantConnect.Lean.Engine.TransactionHandlers.BrokerageTransactionHandler.HandleOrderRequest">
+<area shape="rect" id="node1" title="Handles a generic order request" alt="" coords="5,5,304,61"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Orders_1_1OrderRequest.html#aed73f8f311c9224866211078cd6caef1" title="Sets the Response for this request" alt="" coords="352,13,553,54"/>
+</map>

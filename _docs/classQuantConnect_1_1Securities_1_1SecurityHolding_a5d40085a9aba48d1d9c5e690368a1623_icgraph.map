@@ -1,0 +1,4 @@
+<map id="QuantConnect.Securities.SecurityHolding.AddNewFee" name="QuantConnect.Securities.SecurityHolding.AddNewFee">
+<area shape="rect" id="node1" title="Adds a fee to the running total of total fees in units of the account&#39;s currency." alt="" coords="296,5,503,47"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Securities_1_1SecurityPortfolioModel.html#a5fec18e0e959a173c5fbb6187ab56f7c" title="Performs application of an OrderEvent to the portfolio" alt="" coords="5,5,248,47"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="QuantConnect.Securities.Positions.SecurityPositionGroupResolver" name="QuantConnect.Securities.Positions.SecurityPositionGroupResolver">
+<area shape="rect" id="node1" title="Provides an implementation of IPositionGroupResolver that places all positions into a default group o..." alt="" coords="5,80,235,136"/>
+<area shape="rect" id="node2" href="$interfaceQuantConnect_1_1Securities_1_1Positions_1_1IPositionGroupResolver.html" title="Resolves position groups from a collection of positions." alt="" coords="33,5,207,32"/>
+</map>

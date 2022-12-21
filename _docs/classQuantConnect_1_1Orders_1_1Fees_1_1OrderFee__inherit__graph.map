@@ -1,0 +1,4 @@
+<map id="QuantConnect.Orders.Fees.OrderFee" name="QuantConnect.Orders.Fees.OrderFee">
+<area shape="rect" id="node1" title="Defines the result for IFeeModel.GetOrderFee" alt="" coords="12,5,211,47"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Orders_1_1Fees_1_1ModifiedFillQuantityOrderFee.html" title="An order fee where the fee quantity has already been subtracted from the filled quantity so instead w..." alt="" coords="5,95,217,136"/>
+</map>

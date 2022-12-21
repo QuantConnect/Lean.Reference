@@ -1,0 +1,5 @@
+<map id="QuantConnect.Algorithm.Framework.Alphas.InsightCollection.TryGetValue" name="QuantConnect.Algorithm.Framework.Alphas.InsightCollection.TryGetValue">
+<area shape="rect" id="node1" title="Attempts to get the list of insights with the specified symbol key" alt="" coords="664,13,927,54"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Algorithm_1_1Framework_1_1Alphas_1_1InsightCollection.html#aa330bd5096f9fd4c42c0cf5d966aac11" title="Returns true if there are active insights for a given symbol and time" alt="" coords="316,13,616,54"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Algorithm_1_1Framework_1_1Portfolio_1_1PortfolioConstructionModel.html#aa8b9e58e326811434356b8b918a38d89" title="Create portfolio targets from the specified insights" alt="" coords="5,5,268,61"/>
+</map>

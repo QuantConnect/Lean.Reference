@@ -1,0 +1,4 @@
+<map id="QuantConnect.ToolBox.IQFeed.IQLevel1Client.Contains" name="QuantConnect.ToolBox.IQFeed.IQLevel1Client.Contains">
+<area shape="rect" id="node1" title="Check if the storage contains this symbol" alt="" coords="328,5,551,47"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1ToolBox_1_1IQFeed_1_1IQFeedDataQueueHandler.html#aa937cf9529e0444fe1511201814c102e" title="Removes the specified symbols to the subscription" alt="" coords="5,5,280,47"/>
+</map>

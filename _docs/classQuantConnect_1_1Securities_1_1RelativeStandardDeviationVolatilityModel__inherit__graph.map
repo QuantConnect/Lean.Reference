@@ -1,0 +1,5 @@
+<map id="QuantConnect.Securities.RelativeStandardDeviationVolatilityModel" name="QuantConnect.Securities.RelativeStandardDeviationVolatilityModel">
+<area shape="rect" id="node1" title="Provides an implementation of IVolatilityModel that computes the relative standard deviation as the v..." alt="" coords="5,155,300,196"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Securities_1_1Volatility_1_1BaseVolatilityModel.html" title="Represents a base model that computes the volatility of a security" alt="" coords="77,80,229,107"/>
+<area shape="rect" id="node3" href="$interfaceQuantConnect_1_1Securities_1_1IVolatilityModel.html" title="Represents a model that computes the volatility of a security" alt="" coords="91,5,215,32"/>
+</map>

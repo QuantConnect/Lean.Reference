@@ -1,0 +1,6 @@
+<map id="QuantConnect.ToolBox.IQFeed.Level1TextLineEventArgs" name="QuantConnect.ToolBox.IQFeed.Level1TextLineEventArgs">
+<area shape="rect" id="node1" title=" " alt="" coords="141,39,364,80"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1ToolBox_1_1IQFeed_1_1Level1ServerDisconnectedArgs.html" title=" " alt="" coords="421,5,645,47"/>
+<area shape="rect" id="node4" href="$classQuantConnect_1_1ToolBox_1_1IQFeed_1_1Level1ServerReconnectFailedArgs.html" title=" " alt="" coords="412,71,655,112"/>
+<area shape="rect" id="node2" title=" " alt="" coords="5,46,93,73"/>
+</map>

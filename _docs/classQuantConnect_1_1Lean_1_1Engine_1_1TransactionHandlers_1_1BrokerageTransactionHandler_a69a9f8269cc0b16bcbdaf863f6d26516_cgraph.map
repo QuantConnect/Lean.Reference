@@ -1,0 +1,4 @@
+<map id="QuantConnect.Lean.Engine.TransactionHandlers.BrokerageTransactionHandler.RoundOffOrder" name="QuantConnect.Lean.Engine.TransactionHandlers.BrokerageTransactionHandler.RoundOffOrder">
+<area shape="rect" id="node1" title="Rounds off the order towards 0 to the nearest multiple of Lot Size" alt="" coords="5,5,304,61"/>
+<area shape="rect" id="node2" href="$interfaceQuantConnect_1_1Interfaces_1_1IAlgorithm.html#a7b8af1af90d91f0702ae39686c073dce" title="Send an error message for the algorithm" alt="" coords="352,13,539,54"/>
+</map>

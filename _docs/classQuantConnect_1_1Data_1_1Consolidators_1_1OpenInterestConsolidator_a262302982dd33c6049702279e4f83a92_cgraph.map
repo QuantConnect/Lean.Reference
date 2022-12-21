@@ -1,0 +1,4 @@
+<map id="QuantConnect.Data.Consolidators.OpenInterestConsolidator.FromResolution" name="QuantConnect.Data.Consolidators.OpenInterestConsolidator.FromResolution">
+<area shape="rect" id="node1" title="Create a new OpenInterestConsolidator for the desired resolution" alt="" coords="5,13,299,54"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Data_1_1Consolidators_1_1OpenInterestConsolidator.html#a1258abccdc00eb16407ae1fde59e7a75" title="Creates a consolidator to produce a new &#39;OpenInterest&#39; representing the period" alt="" coords="347,5,621,61"/>
+</map>

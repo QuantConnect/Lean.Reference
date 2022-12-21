@@ -1,0 +1,4 @@
+<map id="QuantConnect.ToolBox.RandomDataGenerator.OptionSymbolGenerator" name="QuantConnect.ToolBox.RandomDataGenerator.OptionSymbolGenerator">
+<area shape="rect" id="node1" title="Generates a new random option Symbol." alt="" coords="5,80,284,121"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1ToolBox_1_1RandomDataGenerator_1_1BaseSymbolGenerator.html" title="Provide the base symbol generator implementation" alt="" coords="61,5,229,32"/>
+</map>

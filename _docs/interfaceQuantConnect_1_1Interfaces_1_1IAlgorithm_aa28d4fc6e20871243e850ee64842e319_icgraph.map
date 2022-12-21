@@ -1,0 +1,4 @@
+<map id="QuantConnect.Interfaces.IAlgorithm.AddChart" name="QuantConnect.Interfaces.IAlgorithm.AddChart">
+<area shape="rect" id="node1" title="Add a Chart object to algorithm collection" alt="" coords="376,5,563,47"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Lean_1_1Engine_1_1Alphas_1_1ChartingInsightManagerExtension.html#a283a911640ac2c606e0da5aa18237666" title="Invokes the manager at the end of the time step. Samples and plots insight counts and population scor..." alt="" coords="5,5,328,47"/>
+</map>

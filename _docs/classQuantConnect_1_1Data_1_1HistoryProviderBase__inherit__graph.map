@@ -1,0 +1,15 @@
+<map id="QuantConnect.Data.HistoryProviderBase" name="QuantConnect.Data.HistoryProviderBase">
+<area shape="rect" id="node1" title="Provides a base type for all history providers" alt="" coords="383,152,583,193"/>
+<area shape="rect" id="node4" href="$classQuantConnect_1_1Lean_1_1Engine_1_1HistoricalData_1_1FakeHistoryProvider.html" title="Provides FAKE implementation of IHistoryProvider used for testing. FakeDataQueue" alt="" coords="635,5,884,47"/>
+<area shape="rect" id="node5" href="$classQuantConnect_1_1Lean_1_1Engine_1_1HistoricalData_1_1HistoryProviderManager.html" title="Provides an implementation of IHistoryProvider which acts as a wrapper to use multiple history provid..." alt="" coords="649,71,869,127"/>
+<area shape="rect" id="node6" href="$classQuantConnect_1_1Lean_1_1Engine_1_1HistoricalData_1_1SineHistoryProvider.html" title="Implements a History provider that always return a IEnumerable of Slice with prices following a sine ..." alt="" coords="635,152,883,193"/>
+<area shape="rect" id="node7" href="$classQuantConnect_1_1Lean_1_1Engine_1_1HistoricalData_1_1SynchronizingHistoryProvider.html" title="Provides an abstract implementation of IHistoryProvider which provides synchronization of multiple hi..." alt="" coords="631,218,888,274"/>
+<area shape="rect" id="node13" href="$classQuantConnect_1_1ToolBox_1_1IQFeed_1_1IQFeedDataQueueHandler.html" title="IQFeedDataQueueHandler is an implementation of IDataQueueHandler and IHistoryProvider" alt="" coords="648,299,871,340"/>
+<area shape="rect" id="node2" href="$interfaceQuantConnect_1_1Interfaces_1_1IHistoryProvider.html" title="Provides historical data to an algorithm at runtime" alt="" coords="208,159,335,186"/>
+<area shape="rect" id="node3" href="$interfaceQuantConnect_1_1Interfaces_1_1IDataProviderEvents.html" title="Events related to data providers" alt="" coords="5,159,160,186"/>
+<area shape="rect" id="node8" href="$classQuantConnect_1_1Lean_1_1Engine_1_1HistoricalData_1_1BrokerageHistoryProvider.html" title="Provides an implementation of IHistoryProvider that relies on a brokerage connection to retrieve hist..." alt="" coords="936,65,1168,121"/>
+<area shape="rect" id="node9" href="$classQuantConnect_1_1Lean_1_1Engine_1_1HistoricalData_1_1SubscriptionDataReaderHistoryProvider.html" title="Provides an implementation of IHistoryProvider that uses BaseData instances to retrieve historical da..." alt="" coords="937,145,1167,201"/>
+<area shape="rect" id="node10" href="$classQuantConnect_1_1ToolBox_1_1CoinApi_1_1CoinApiDataQueueHandler.html" title="An implementation of IDataQueueHandler for CoinAPI" alt="" coords="941,225,1163,267"/>
+<area shape="rect" id="node11" href="$classQuantConnect_1_1ToolBox_1_1IEX_1_1IEXDataQueueHandler.html" title="IEX live data handler. See more at https://iexcloud.io/docs/api/" alt="" coords="953,291,1151,332"/>
+<area shape="rect" id="node12" href="$classQuantConnect_1_1ToolBox_1_1Polygon_1_1PolygonDataQueueHandler.html" title="An implementation of IDataQueueHandler and IHistoryProvider for Polygon.io" alt="" coords="937,356,1167,397"/>
+</map>

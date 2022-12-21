@@ -1,0 +1,4 @@
+<map id="QuantConnect.Data.Fundamental.ProvisionandWriteOffofAssetsCashFlowStatement" name="QuantConnect.Data.Fundamental.ProvisionandWriteOffofAssetsCashFlowStatement">
+<area shape="rect" id="node1" title="A non&#45;cash adjustment for total provision and write off on assets &amp; liabilities." alt="" coords="5,80,253,136"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Data_1_1Fundamental_1_1MultiPeriodField.html" title="Abstract base class for multi&#45;period fields" alt="" coords="66,5,193,32"/>
+</map>

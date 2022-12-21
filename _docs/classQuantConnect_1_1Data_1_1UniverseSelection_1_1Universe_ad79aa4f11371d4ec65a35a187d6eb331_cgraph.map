@@ -1,0 +1,4 @@
+<map id="QuantConnect.Data.UniverseSelection.Universe.CanRemoveMember" name="QuantConnect.Data.UniverseSelection.Universe.CanRemoveMember">
+<area shape="rect" id="node1" title="Determines whether or not the specified security can be removed from this universe...." alt="" coords="5,5,287,47"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Securities_1_1SecurityCache.html#a2e22a721cbad979accb38e91dd640b8e" title="Get last data packet received for this security if any else null" alt="" coords="335,5,521,47"/>
+</map>

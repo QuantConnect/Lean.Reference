@@ -1,0 +1,5 @@
+<map id="QuantConnect.Lean.Engine.DataFeeds.DataManager.LookupSubscriptionConfigDataTypes" name="QuantConnect.Lean.Engine.DataFeeds.DataManager.LookupSubscriptionConfigDataTypes">
+<area shape="rect" id="node1" title="Get the data feed types for a given SecurityType Resolution" alt="" coords="5,31,317,87"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Util_1_1LeanData.html#a77cc921eacb5e88e8575272f1a87280d" title="Gets the data type required for the specified combination of resolution and tick type" alt="" coords="365,5,576,47"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Util_1_1LeanData.html#a38b8fae83d8a3ceef1812e30a4d71844" title="Helper method to determine if a configuration set is valid" alt="" coords="365,71,576,112"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="QuantConnect.Algorithm.Framework.Selection.OpenInterestFutureUniverseSelectionModel.OpenInterestFutureUniverseSelectionModel" name="QuantConnect.Algorithm.Framework.Selection.OpenInterestFutureUniverseSelectionModel.OpenInterestFutureUniverseSelectionModel">
+<area shape="rect" id="node1" title="Creates a new instance of OpenInterestFutureUniverseSelectionModel" alt="" coords="5,5,415,61"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Securities_1_1MarketHoursDatabase.html#aa01232d91c17c556b18ea8f1f7fabcd0" title="Gets the instance of the MarketHoursDatabase class produced by reading in the market hours data found..." alt="" coords="463,5,697,61"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="QuantConnect.Algorithm.Framework.Alphas.Analysis.Providers.DefaultInsightScoreFunctionProvider" name="QuantConnect.Algorithm.Framework.Alphas.Analysis.Providers.DefaultInsightScoreFunctionProvider">
+<area shape="rect" id="node1" title="Default implementation of IInsightScoreFunctionProvider always returns the BinaryInsightScoreFunction" alt="" coords="5,80,292,136"/>
+<area shape="rect" id="node2" href="$interfaceQuantConnect_1_1Algorithm_1_1Framework_1_1Alphas_1_1Analysis_1_1IInsightScoreFunctionProvider.html" title="Retrieves the registered scoring function for the specified insight/score type" alt="" coords="41,5,256,32"/>
+</map>

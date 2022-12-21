@@ -1,0 +1,7 @@
+<map id="QuantConnect.Securities.IBuyingPowerModel.GetInitialMarginRequirement" name="QuantConnect.Securities.IBuyingPowerModel.GetInitialMarginRequirement">
+<area shape="rect" id="node1" title="The margin that must be held in order to increase the position by the provided quantity" alt="" coords="995,45,1209,101"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Securities_1_1BuyingPowerModelExtensions.html#adecc3ccbaa197cbacbfb4c6e9cba9b0d" title="Helper method to determine if the requested quantity is above the algorithm minimum order margin port..." alt="" coords="653,5,947,61"/>
+<area shape="rect" id="node5" href="$classQuantConnect_1_1Securities_1_1BuyingPowerModelExtensions.html#ac7b9f262de78df9b780045fbf6728d9f" title="Gets the margin currently allocated to the specified holding" alt="" coords="677,85,923,141"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Securities_1_1BuyingPowerModel.html#ac77dd32649e7d51e54d52b2d3b695afc" title="Get the maximum market order quantity to obtain a position with a given buying power percentage...." alt="" coords="329,5,605,61"/>
+<area shape="rect" id="node4" href="$classQuantConnect_1_1Securities_1_1BuyingPowerModel.html#a47123e9eef707732a20838c29a8bee69" title="Get the maximum market order quantity to obtain a delta in the buying power used by a security...." alt="" coords="5,5,281,61"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="QuantConnect.Algorithm.Framework.Portfolio.AccumulativeInsightPortfolioConstructionModel.AccumulativeInsightPortfolioConstructionModel" name="QuantConnect.Algorithm.Framework.Portfolio.AccumulativeInsightPortfolioConstructionModel.AccumulativeInsightPortfolioConstructionModel">
+<area shape="rect" id="node1" title="Initialize a new instance of AccumulativeInsightPortfolioConstructionModel" alt="" coords="5,5,341,76"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Algorithm_1_1Framework_1_1Portfolio_1_1PortfolioConstructionModel.html#a304ec226955ce89ef7a32d24ece19f18" title="Python helper method to set the rebalancing function. This is required due to a python net limitation..." alt="" coords="389,13,652,69"/>
+</map>

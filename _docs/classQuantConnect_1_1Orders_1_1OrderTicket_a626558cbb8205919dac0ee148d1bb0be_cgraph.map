@@ -1,0 +1,5 @@
+<map id="QuantConnect.Orders.OrderTicket.operator int" name="QuantConnect.Orders.OrderTicket.operator int">
+<area shape="rect" id="node1" title="This is provided for API backward compatibility and will resolve to the order ID, except during an er..." alt="" coords="5,5,207,47"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Orders_1_1OrderTicket.html#a29d615470769d3fa9289f198f27c83a0" title="Gets the most recent OrderResponse for this ticket" alt="" coords="255,5,519,47"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Orders_1_1OrderTicket.html#acb067d920d867c31251654b1040db6a5" title="Gets the most recent OrderRequest for this ticket" alt="" coords="567,5,821,47"/>
+</map>

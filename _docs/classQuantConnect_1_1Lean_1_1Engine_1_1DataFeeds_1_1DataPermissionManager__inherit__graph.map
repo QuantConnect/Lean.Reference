@@ -1,0 +1,4 @@
+<map id="QuantConnect.Lean.Engine.DataFeeds.DataPermissionManager" name="QuantConnect.Lean.Engine.DataFeeds.DataPermissionManager">
+<area shape="rect" id="node1" title="Entity in charge of handling data permissions" alt="" coords="5,80,260,121"/>
+<area shape="rect" id="node2" href="$interfaceQuantConnect_1_1Interfaces_1_1IDataPermissionManager.html" title="Entity in charge of handling data permissions" alt="" coords="39,5,226,32"/>
+</map>

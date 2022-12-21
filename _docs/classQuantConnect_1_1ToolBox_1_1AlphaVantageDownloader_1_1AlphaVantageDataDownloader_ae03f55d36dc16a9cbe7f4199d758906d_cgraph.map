@@ -1,0 +1,4 @@
+<map id="QuantConnect.ToolBox.AlphaVantageDownloader.AlphaVantageDataDownloader.AlphaVantageDataDownloader" name="QuantConnect.ToolBox.AlphaVantageDownloader.AlphaVantageDataDownloader.AlphaVantageDataDownloader">
+<area shape="rect" id="node1" title="Dependency injection constructor" alt="" coords="5,5,339,61"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Securities_1_1MarketHoursDatabase.html#aa01232d91c17c556b18ea8f1f7fabcd0" title="Gets the instance of the MarketHoursDatabase class produced by reading in the market hours data found..." alt="" coords="387,5,621,61"/>
+</map>

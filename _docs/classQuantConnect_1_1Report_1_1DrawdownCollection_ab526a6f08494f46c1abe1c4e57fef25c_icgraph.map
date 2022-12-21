@@ -1,0 +1,4 @@
+<map id="QuantConnect.Report.DrawdownCollection.NormalizeResults" name="QuantConnect.Report.DrawdownCollection.NormalizeResults">
+<area shape="rect" id="node1" title="Normalizes the Series used to calculate the drawdown plots and charts" alt="" coords="288,5,523,47"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Report_1_1DrawdownCollection.html#a94d44ac8b94a7ddc4c9ad2f772f55827" title="Generate a new instance of DrawdownCollection from backtest and live Result derived instances" alt="" coords="5,5,240,47"/>
+</map>

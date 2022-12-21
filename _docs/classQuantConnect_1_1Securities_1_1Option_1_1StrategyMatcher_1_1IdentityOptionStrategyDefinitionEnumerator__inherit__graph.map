@@ -1,0 +1,4 @@
+<map id="QuantConnect.Securities.Option.StrategyMatcher.IdentityOptionStrategyDefinitionEnumerator" name="QuantConnect.Securities.Option.StrategyMatcher.IdentityOptionStrategyDefinitionEnumerator">
+<area shape="rect" id="node1" title="Provides a default implementation of IOptionStrategyDefinitionEnumerator that enumerates definitions ..." alt="" coords="5,95,264,151"/>
+<area shape="rect" id="node2" href="$interfaceQuantConnect_1_1Securities_1_1Option_1_1StrategyMatcher_1_1IOptionStrategyDefinitionEnumerator.html" title="Enumerates OptionStrategyDefinition for the purposes of providing a bias towards definitions that are..." alt="" coords="41,5,228,47"/>
+</map>

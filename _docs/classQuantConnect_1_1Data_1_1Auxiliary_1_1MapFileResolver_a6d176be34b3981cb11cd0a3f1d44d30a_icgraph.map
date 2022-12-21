@@ -1,0 +1,5 @@
+<map id="QuantConnect.Data.Auxiliary.MapFileResolver.ResolveMapFile" name="QuantConnect.Data.Auxiliary.MapFileResolver.ResolveMapFile">
+<area shape="rect" id="node1" title="Resolves the map file path containing the mapping information for the symbol defined at date" alt="" coords="309,50,545,91"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Lean_1_1Engine_1_1DataFeeds_1_1BacktestingOptionChainProvider.html#a5b140615fad8e3c0f8d08597a7ca1509" title="Gets the list of option contracts for a given underlying symbol" alt="" coords="7,5,259,61"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Data_1_1Auxiliary_1_1MappingExtensions.html#aa30b0eaaacab51ed94c6839b7da0d216" title="Helper method to resolve the mapping file to use." alt="" coords="5,86,261,127"/>
+</map>

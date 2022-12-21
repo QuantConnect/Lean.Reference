@@ -1,0 +1,4 @@
+<map id="QuantConnect.Indicators.RollingWindow&lt; T &gt;" name="QuantConnect.Indicators.RollingWindow&lt; T &gt;">
+<area shape="rect" id="node1" title="This is a window that allows for list access semantics, where this[0] refers to the most recent item ..." alt="" coords="5,80,192,121"/>
+<area shape="rect" id="node2" href="$interfaceQuantConnect_1_1Indicators_1_1IReadOnlyWindow.html" title=" " alt="" coords="9,5,188,32"/>
+</map>

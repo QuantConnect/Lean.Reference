@@ -1,0 +1,4 @@
+<map id="QuantConnect.Lean.Engine.DataFeeds.Enumerators.SynchronizingBaseDataEnumerator" name="QuantConnect.Lean.Engine.DataFeeds.Enumerators.SynchronizingBaseDataEnumerator">
+<area shape="rect" id="node1" title="Represents an enumerator capable of synchronizing other base data enumerators in time...." alt="" coords="5,95,279,151"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Lean_1_1Engine_1_1DataFeeds_1_1Enumerators_1_1SynchronizingEnumerator.html" title=" " alt="" coords="47,5,237,47"/>
+</map>

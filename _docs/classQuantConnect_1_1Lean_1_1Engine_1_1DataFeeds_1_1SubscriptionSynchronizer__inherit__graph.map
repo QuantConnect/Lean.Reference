@@ -1,0 +1,5 @@
+<map id="QuantConnect.Lean.Engine.DataFeeds.SubscriptionSynchronizer" name="QuantConnect.Lean.Engine.DataFeeds.SubscriptionSynchronizer">
+<area shape="rect" id="node1" title="Provides the ability to synchronize subscriptions into time slices" alt="" coords="59,80,318,121"/>
+<area shape="rect" id="node2" href="$interfaceQuantConnect_1_1Lean_1_1Engine_1_1DataFeeds_1_1ISubscriptionSynchronizer.html" title="Provides the ability to synchronize subscriptions into time slices" alt="" coords="5,5,196,32"/>
+<area shape="rect" id="node3" href="$interfaceQuantConnect_1_1ITimeProvider.html" title="Provides access to the current time in UTC. This doesn&#39;t necessarily need to be wall&#45;clock time,..." alt="" coords="220,5,333,32"/>
+</map>

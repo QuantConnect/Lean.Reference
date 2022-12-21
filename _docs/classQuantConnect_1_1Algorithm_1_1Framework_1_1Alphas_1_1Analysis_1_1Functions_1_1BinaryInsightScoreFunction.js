@@ -1,0 +1,4 @@
+var classQuantConnect_1_1Algorithm_1_1Framework_1_1Alphas_1_1Analysis_1_1Functions_1_1BinaryInsightScoreFunction =
+[
+    [ "Evaluate", "classQuantConnect_1_1Algorithm_1_1Framework_1_1Alphas_1_1Analysis_1_1Functions_1_1BinaryInsightScoreFunction.html#a0f65f894022fe223126fbcb9f143a1f8", null ]
+];

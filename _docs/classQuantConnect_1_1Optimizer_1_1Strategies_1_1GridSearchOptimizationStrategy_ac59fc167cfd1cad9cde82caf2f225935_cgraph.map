@@ -1,0 +1,5 @@
+<map id="QuantConnect.Optimizer.Strategies.GridSearchOptimizationStrategy.PushNewResults" name="QuantConnect.Optimizer.Strategies.GridSearchOptimizationStrategy.PushNewResults">
+<area shape="rect" id="node1" title="Checks whether new lean compute job better than previous and run new iteration if necessary." alt="" coords="5,31,271,87"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Optimizer_1_1Strategies_1_1StepBaseOptimizationStrategy.html#a2f07d1888e92b818ce97d59b98c847f9" title="Handles new parameter set" alt="" coords="319,5,677,47"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Optimizer_1_1Strategies_1_1StepBaseOptimizationStrategy.html#a35efe9f2e0f2d108d36e45cd92e0b60f" title="Enumerate all possible arrangements" alt="" coords="371,71,625,112"/>
+</map>

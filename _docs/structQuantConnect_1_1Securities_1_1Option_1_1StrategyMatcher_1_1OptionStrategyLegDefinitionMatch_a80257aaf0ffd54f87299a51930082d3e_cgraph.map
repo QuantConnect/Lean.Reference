@@ -1,0 +1,6 @@
+<map id="QuantConnect.Securities.Option.StrategyMatcher.OptionStrategyLegDefinitionMatch.GetHashCode" name="QuantConnect.Securities.Option.StrategyMatcher.OptionStrategyLegDefinitionMatch.GetHashCode">
+<area shape="rect" id="node1" title="Returns the hash code for this instance." alt="" coords="5,5,301,61"/>
+<area shape="rect" id="node2" href="$structQuantConnect_1_1Securities_1_1Option_1_1StrategyMatcher_1_1OptionPosition.html#ab9562fdc8ede99d4bee0d6c29a9bccf7" title="Returns the hash code for this instance." alt="" coords="349,5,572,61"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Symbol.html#af4057becb1916a5eeb81f8b22ee2919d" title="Serves as a hash function for a particular type." alt="" coords="620,20,880,47"/>
+<area shape="rect" id="node4" href="$classQuantConnect_1_1SecurityIdentifier.html#a65a0f6a692872c6532dd6f8e95f1de44" title="Serves as a hash function for a particular type." alt="" coords="928,13,1160,54"/>
+</map>

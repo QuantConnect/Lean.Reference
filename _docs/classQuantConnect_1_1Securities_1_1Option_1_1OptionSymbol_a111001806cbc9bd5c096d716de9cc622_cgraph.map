@@ -1,0 +1,4 @@
+<map id="QuantConnect.Securities.Option.OptionSymbol.IsStandardContract" name="QuantConnect.Securities.Option.OptionSymbol.IsStandardContract">
+<area shape="rect" id="node1" title="Returns true if the option is a standard contract that expires 3rd Friday of the month" alt="" coords="5,5,240,61"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Securities_1_1Option_1_1OptionSymbol.html#a67479caa555c9b1c103efabf3e7e038c" title="Returns true if the option is a standard contract that expires 3rd Friday of the month" alt="" coords="288,13,523,54"/>
+</map>

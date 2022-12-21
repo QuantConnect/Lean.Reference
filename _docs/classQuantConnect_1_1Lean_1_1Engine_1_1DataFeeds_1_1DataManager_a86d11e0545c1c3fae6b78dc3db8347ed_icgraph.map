@@ -1,0 +1,5 @@
+<map id="QuantConnect.Lean.Engine.DataFeeds.DataManager.RemoveSubscription" name="QuantConnect.Lean.Engine.DataFeeds.DataManager.RemoveSubscription">
+<area shape="rect" id="node1" title="Removes the Subscription, if it exists" alt="" coords="579,13,899,54"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Lean_1_1Engine_1_1DataFeeds_1_1DataManager.html#acc57c2bcef3f6e091e59f71f1fdd596c" title="Will remove all current Subscription" alt="" coords="273,5,531,61"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Report_1_1PortfolioLooper.html#a90007a98bf0f9dae1c45a9b99ffe3c34" title="Performs application&#45;defined tasks associated with freeing, releasing, or resetting unmanaged resourc..." alt="" coords="5,13,225,54"/>
+</map>

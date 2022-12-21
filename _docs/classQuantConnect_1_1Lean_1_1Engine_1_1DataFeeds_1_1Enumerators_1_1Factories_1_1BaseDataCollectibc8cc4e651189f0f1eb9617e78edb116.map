@@ -1,0 +1,4 @@
+<map id="QuantConnect.Lean.Engine.DataFeeds.Enumerators.Factories.BaseDataCollectionSubscriptionEnumeratorFactory" name="QuantConnect.Lean.Engine.DataFeeds.Enumerators.Factories.BaseDataCollectionSubscriptionEnumeratorFactory">
+<area shape="rect" id="node1" title="Provides an implementation of ISubscriptionEnumeratorFactory that reads an entire SubscriptionDataSou..." alt="" coords="5,80,312,151"/>
+<area shape="rect" id="node2" href="$interfaceQuantConnect_1_1Data_1_1ISubscriptionEnumeratorFactory.html" title="Create an IEnumerator&lt;BaseData&gt;" alt="" coords="44,5,273,32"/>
+</map>

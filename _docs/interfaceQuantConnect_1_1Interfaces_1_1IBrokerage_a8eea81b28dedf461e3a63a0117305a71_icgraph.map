@@ -1,0 +1,4 @@
+<map id="QuantConnect.Interfaces.IBrokerage.GetHistory" name="QuantConnect.Interfaces.IBrokerage.GetHistory">
+<area shape="rect" id="node1" title="Gets the history for the requested security" alt="" coords="285,13,472,54"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Lean_1_1Engine_1_1HistoricalData_1_1BrokerageHistoryProvider.html#a9cf173b48c88a0a8568f1bf9dbdd2573" title="Gets the history for the requested securities" alt="" coords="5,5,237,61"/>
+</map>

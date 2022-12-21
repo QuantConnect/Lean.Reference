@@ -1,0 +1,6 @@
+<map id="QuantConnect.Brokerages.BinanceBrokerageModel" name="QuantConnect.Brokerages.BinanceBrokerageModel">
+<area shape="rect" id="node1" title="Provides Binance specific properties" alt="" coords="7,155,202,196"/>
+<area shape="rect" id="node4" href="$classQuantConnect_1_1Brokerages_1_1BinanceUSBrokerageModel.html" title="Provides Binance.US specific properties" alt="" coords="5,244,204,285"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Brokerages_1_1DefaultBrokerageModel.html" title="Provides a default implementation of IBrokerageModel that allows all orders and uses the default tran..." alt="" coords="17,80,193,107"/>
+<area shape="rect" id="node3" href="$interfaceQuantConnect_1_1Brokerages_1_1IBrokerageModel.html" title="Models brokerage transactions, fees, and order" alt="" coords="39,5,171,32"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="QuantConnect.Securities.EquityPriceVariationModel" name="QuantConnect.Securities.EquityPriceVariationModel">
+<area shape="rect" id="node1" title="Provides an implementation of IPriceVariationModel for use in defining the minimum price variation fo..." alt="" coords="11,155,205,196"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Securities_1_1SecurityPriceVariationModel.html" title="Provides default implementation of IPriceVariationModel for use in defining the minimum price variati..." alt="" coords="5,80,211,107"/>
+<area shape="rect" id="node3" href="$interfaceQuantConnect_1_1Securities_1_1IPriceVariationModel.html" title="Gets the minimum price variation of a given security" alt="" coords="30,5,186,32"/>
+</map>

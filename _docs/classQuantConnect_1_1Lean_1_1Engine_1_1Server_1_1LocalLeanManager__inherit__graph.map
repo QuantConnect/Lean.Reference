@@ -1,0 +1,5 @@
+<map id="QuantConnect.Lean.Engine.Server.LocalLeanManager" name="QuantConnect.Lean.Engine.Server.LocalLeanManager">
+<area shape="rect" id="node1" title="NOP implementation of the ILeanManager interface" alt="" coords="5,155,207,196"/>
+<area shape="rect" id="node2" href="$interfaceQuantConnect_1_1Lean_1_1Engine_1_1Server_1_1ILeanManager.html" title="Provides scope into Lean that is convenient for managing a lean instance" alt="" coords="49,80,163,107"/>
+<area shape="rect" id="node3" title=" " alt="" coords="57,5,155,32"/>
+</map>

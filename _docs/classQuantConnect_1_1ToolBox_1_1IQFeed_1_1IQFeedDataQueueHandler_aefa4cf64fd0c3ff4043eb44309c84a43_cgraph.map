@@ -1,0 +1,4 @@
+<map id="QuantConnect.ToolBox.IQFeed.IQFeedDataQueueHandler.CanPerformSelection" name="QuantConnect.ToolBox.IQFeed.IQFeedDataQueueHandler.CanPerformSelection">
+<area shape="rect" id="node1" title="Returns whether selection can take place or not." alt="" coords="5,5,276,61"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1ToolBox_1_1IQFeed_1_1IQFeedDataQueueUniverseProvider.html#aa5c1c17c4fee2322ab92323e575ae04f" title="Returns whether selection can take place or not." alt="" coords="324,5,579,61"/>
+</map>

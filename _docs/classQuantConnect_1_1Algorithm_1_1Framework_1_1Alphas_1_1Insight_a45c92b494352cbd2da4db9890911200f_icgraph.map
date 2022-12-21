@@ -1,0 +1,4 @@
+<map id="QuantConnect.Algorithm.Framework.Alphas.Insight.FromSerializedInsight" name="QuantConnect.Algorithm.Framework.Alphas.Insight.FromSerializedInsight">
+<area shape="rect" id="node1" title="Creates a new Insight object from the specified serialized form" alt="" coords="347,13,609,54"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Algorithm_1_1Framework_1_1Alphas_1_1Serialization_1_1InsightJsonConverter.html#af2dd7ec283dc30929df11534ca3cc274" title="Converts the input value to be deserialized" alt="" coords="5,5,299,61"/>
+</map>

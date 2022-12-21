@@ -1,0 +1,4 @@
+<map id="QuantConnect.Orders.Fees.GDAXFeeModel.GetOrderFee" name="QuantConnect.Orders.Fees.GDAXFeeModel.GetOrderFee">
+<area shape="rect" id="node1" title="Get the fee for this order in quote currency" alt="" coords="5,5,215,47"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Orders_1_1Fees_1_1GDAXFeeModel.html#a0573bbd070502b5f250191b3cfe117ea" title="Returns the maker/taker fee percentage effective at the requested date." alt="" coords="263,5,509,47"/>
+</map>

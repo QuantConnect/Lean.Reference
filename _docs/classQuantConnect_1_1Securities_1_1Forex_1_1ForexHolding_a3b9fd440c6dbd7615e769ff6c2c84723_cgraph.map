@@ -1,0 +1,4 @@
+<map id="QuantConnect.Securities.Forex.ForexHolding.TotalCloseProfitPips" name="QuantConnect.Securities.Forex.ForexHolding.TotalCloseProfitPips">
+<area shape="rect" id="node1" title="Profit in pips if we closed the holdings right now including the approximate fees" alt="" coords="5,5,224,61"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Securities_1_1SecurityHolding.html#affd0beeddc008f6f6cc1732a1e6b3908" title="Profit if we closed the holdings right now including the approximate fees in units of the account&#39;s c..." alt="" coords="272,13,503,54"/>
+</map>

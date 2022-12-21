@@ -1,0 +1,8 @@
+<map id="QuantConnect.Data.Auxiliary.AuxiliaryDataKey.Create" name="QuantConnect.Data.Auxiliary.AuxiliaryDataKey.Create">
+<area shape="rect" id="node1" title="Helper method to create a new instance from a Symbol" alt="" coords="309,144,523,185"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Data_1_1Auxiliary_1_1LocalDiskFactorFileProvider.html#a0d172e96ef70a1de44090cf9416d511d" title="Gets a FactorFile instance for the specified symbol, or null if not found" alt="" coords="20,5,247,47"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Data_1_1Auxiliary_1_1LocalZipFactorFileProvider.html#a9e143df01cda297402d7e66597079fe1" title="Gets a FactorFile instance for the specified symbol, or null if not found" alt="" coords="24,71,243,112"/>
+<area shape="rect" id="node4" href="$classQuantConnect_1_1Lean_1_1Engine_1_1DataFeeds_1_1BacktestingOptionChainProvider.html#a5b140615fad8e3c0f8d08597a7ca1509" title="Gets the list of option contracts for a given underlying symbol" alt="" coords="7,137,259,193"/>
+<area shape="rect" id="node5" href="$classQuantConnect_1_1Data_1_1Auxiliary_1_1MapFilePrimaryExchangeProvider.html#ae2cdd8227eac189ebb5cacbc813ec0c6" title="Gets the primary exchange for a given security identifier" alt="" coords="11,217,255,273"/>
+<area shape="rect" id="node6" href="$classQuantConnect_1_1Data_1_1Auxiliary_1_1MappingExtensions.html#a394cfd348051f6a5122830cb1c2f3284" title="Helper method to resolve the mapping file to use." alt="" coords="5,297,261,339"/>
+</map>

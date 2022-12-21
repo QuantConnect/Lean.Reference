@@ -1,0 +1,4 @@
+<map id="QuantConnect.Securities.Option.OptionStrategyPositionGroupBuyingPowerModel.GetInitialMarginRequirement" name="QuantConnect.Securities.Option.OptionStrategyPositionGroupBuyingPowerModel.GetInitialMarginRequirement">
+<area shape="rect" id="node1" title="The margin that must be held in order to increase the position by the provided quantity" alt="" coords="348,5,643,76"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Securities_1_1Option_1_1OptionStrategyPositionGroupBuyingPowerModel.html#a2d9855757dd79a4cfa4705183e96f2b9" title="Gets the total margin required to execute the specified order in units of the account currency includ..." alt="" coords="5,5,300,76"/>
+</map>

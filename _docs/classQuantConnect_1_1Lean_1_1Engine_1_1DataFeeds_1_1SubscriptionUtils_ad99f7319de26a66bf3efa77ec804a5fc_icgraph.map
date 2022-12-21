@@ -1,0 +1,4 @@
+<map id="QuantConnect.Lean.Engine.DataFeeds.SubscriptionUtils.CreateAndScheduleWorker" name="QuantConnect.Lean.Engine.DataFeeds.SubscriptionUtils.CreateAndScheduleWorker">
+<area shape="rect" id="node1" title="Setups a new Subscription which will consume a blocking EnqueueableEnumerator&lt;T&gt; that will be feed by..." alt="" coords="329,5,581,61"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Lean_1_1Engine_1_1DataFeeds_1_1FileSystemDataFeed.html#ac148e78fc814fca88c70a1835be51a25" title="Creates a new subscription to provide data for the specified security." alt="" coords="5,5,281,61"/>
+</map>

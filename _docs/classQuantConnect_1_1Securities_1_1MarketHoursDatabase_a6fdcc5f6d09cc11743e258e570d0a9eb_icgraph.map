@@ -1,0 +1,4 @@
+<map id="QuantConnect.Securities.MarketHoursDatabase.FromFile" name="QuantConnect.Securities.MarketHoursDatabase.FromFile">
+<area shape="rect" id="node1" title="Reads the specified file as a market hours database instance" alt="" coords="288,13,515,54"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Securities_1_1MarketHoursDatabase.html#aef552b6784f463a0e59e8dd53b8c4be7" title="Gets the instance of the MarketHoursDatabase class produced by reading in the market hours data found..." alt="" coords="5,5,240,61"/>
+</map>

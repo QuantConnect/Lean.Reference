@@ -1,0 +1,4 @@
+<map id="QuantConnect.Securities.InitialMarginParameters.ForUnderlying" name="QuantConnect.Securities.InitialMarginParameters.ForUnderlying">
+<area shape="rect" id="node1" title="Creates a new instance of InitialMarginParameters for the security&#39;s underlying" alt="" coords="5,13,279,54"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Securities_1_1InitialMarginParameters.html#a0d2b73f6d9c3ac0ada55544abfd881eb" title="Initializes a new instance of the InitialMarginParameters class" alt="" coords="327,5,545,61"/>
+</map>

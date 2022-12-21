@@ -1,0 +1,5 @@
+<map id="QuantConnect.Indicators.CandlestickPatterns.ThreeWhiteSoldiers" name="QuantConnect.Indicators.CandlestickPatterns.ThreeWhiteSoldiers">
+<area shape="rect" id="node1" title="Three Advancing White Soldiers candlestick pattern" alt="" coords="5,169,236,225"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Indicators_1_1CandlestickPatterns_1_1CandlestickPattern.html" title="Abstract base class for a candlestick pattern indicator" alt="" coords="49,95,193,121"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Indicators_1_1WindowIndicator.html" title=" " alt="" coords="14,5,227,47"/>
+</map>

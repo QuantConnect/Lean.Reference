@@ -1,0 +1,5 @@
+<map id="QuantConnect.Algorithm.QCAlgorithm.Consolidate" name="QuantConnect.Algorithm.QCAlgorithm.Consolidate">
+<area shape="rect" id="node1" title="Registers the handler &#160;to receive consolidated data for the specified symbol" alt="" coords="327,39,600,80"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Algorithm_1_1QCAlgorithm.html#af9b6d63642a12ed4492767aa74b85038" title="Registers the handler &#160;to receive consolidated data for the specified symbol" alt="" coords="5,5,279,47"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Algorithm_1_1QCAlgorithm.html#af4c1b1818c4213b7a4890e0e3ef20a48" title="Registers the handler &#160;to receive consolidated data for the specified symbol and tick type...." alt="" coords="5,71,279,112"/>
+</map>

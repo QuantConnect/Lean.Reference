@@ -1,0 +1,5 @@
+<map id="QuantConnect.Data.Auxiliary.MappingExtensions.ResolveMapFile" name="QuantConnect.Data.Auxiliary.MappingExtensions.ResolveMapFile">
+<area shape="rect" id="node1" title="Helper method to resolve the mapping file to use." alt="" coords="5,39,261,80"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Data_1_1Auxiliary_1_1AuxiliaryDataKey.html#a581149f0149fb793872935e0d46f0eed" title="Helper method to create a new instance from a Symbol" alt="" coords="309,5,523,47"/>
+<area shape="rect" id="node3" href="$interfaceQuantConnect_1_1Interfaces_1_1IMapFileProvider.html#af101e9f85e8c2beafb76f586f35a3833" title="Gets a MapFileResolver representing all the map files for the specified market" alt="" coords="323,71,509,112"/>
+</map>

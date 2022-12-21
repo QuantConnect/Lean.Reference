@@ -1,0 +1,5 @@
+<map id="QuantConnect.Result" name="QuantConnect.Result">
+<area shape="rect" id="node1" title="Base class for backtesting and live results that packages result data. LiveResult BacktestResult" alt="" coords="159,5,317,32"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Packets_1_1BacktestResult.html" title="Backtest results object class &#45; result specific items from the packet." alt="" coords="5,80,233,121"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Packets_1_1LiveResult.html" title="Live results object class for packaging live result data." alt="" coords="257,80,456,121"/>
+</map>

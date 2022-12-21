@@ -1,0 +1,4 @@
+<map id="QuantConnect.Data.Consolidators.IdentityDataConsolidator.Update" name="QuantConnect.Data.Consolidators.IdentityDataConsolidator.Update">
+<area shape="rect" id="node1" title="Updates this consolidator with the specified data" alt="" coords="5,5,252,47"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Data_1_1Consolidators_1_1DataConsolidator.html#a733e17882da52ac4528d3cb559db47c6" title="Event invocator for the DataConsolidated event. This should be invoked by derived classes when they h..." alt="" coords="300,5,615,47"/>
+</map>

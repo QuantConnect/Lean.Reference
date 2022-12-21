@@ -1,0 +1,21 @@
+<map id="QuantConnect.Data.UniverseSelection.Universe" name="QuantConnect.Data.UniverseSelection.Universe">
+<area shape="rect" id="node1" title="Provides a base class for all universes to derive from." alt="" coords="152,300,363,341"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Data_1_1UniverseSelection_1_1CoarseFundamentalUniverse.html" title="Defines a universe that reads coarse us equity data" alt="" coords="411,5,685,47"/>
+<area shape="rect" id="node4" href="$classQuantConnect_1_1Data_1_1UniverseSelection_1_1ContinuousContractUniverse.html" title="Continuous contract universe selection that based on the requested mapping mode will select each symb..." alt="" coords="412,71,684,112"/>
+<area shape="rect" id="node5" href="$classQuantConnect_1_1Data_1_1UniverseSelection_1_1FineFundamentalUniverse.html" title="Defines a universe that reads fine us equity data" alt="" coords="420,136,676,177"/>
+<area shape="rect" id="node6" href="$classQuantConnect_1_1Data_1_1UniverseSelection_1_1FuncUniverse.html" title="Provides a functional implementation of Universe" alt="" coords="442,201,654,243"/>
+<area shape="rect" id="node8" href="$classQuantConnect_1_1Data_1_1UniverseSelection_1_1FuturesChainUniverse.html" title="Defines a universe for a single futures chain" alt="" coords="433,267,663,308"/>
+<area shape="rect" id="node9" href="$classQuantConnect_1_1Data_1_1UniverseSelection_1_1OptionChainUniverse.html" title="Defines a universe for a single option chain" alt="" coords="436,332,660,373"/>
+<area shape="rect" id="node10" href="$classQuantConnect_1_1Data_1_1UniverseSelection_1_1ScheduledUniverse.html" title="Defines a user that is fired based on a specified IDateRule and ITimeRule" alt="" coords="443,397,653,439"/>
+<area shape="rect" id="node11" href="$classQuantConnect_1_1Data_1_1UniverseSelection_1_1UniverseDecorator.html" title="Provides an implementation of UniverseSelection.Universe that redirects all calls to a wrapped (or de..." alt="" coords="443,463,653,504"/>
+<area shape="rect" id="node15" href="$classQuantConnect_1_1Data_1_1UniverseSelection_1_1UniversePythonWrapper.html" title="Provides an implementation of Universe that wraps a PyObject object" alt="" coords="426,528,670,569"/>
+<area shape="rect" id="node16" href="$classQuantConnect_1_1Data_1_1UniverseSelection_1_1UserDefinedUniverse.html" title="Represents the universe defined by the user&#39;s algorithm. This is the default universe where manually ..." alt="" coords="436,597,660,639"/>
+<area shape="rect" id="node2" title=" " alt="" coords="5,307,104,334"/>
+<area shape="rect" id="node7" href="$classQuantConnect_1_1Data_1_1UniverseSelection_1_1ConstituentsUniverse.html" title="ConstituentsUniverse allows to perform universe selection based on an already preselected set of Symb..." alt="" coords="761,194,969,250"/>
+<area shape="rect" id="node12" href="$classQuantConnect_1_1Data_1_1UniverseSelection_1_1GetSubscriptionRequestsUniverseDecorator.html" title="Provides a universe decoration that replaces the implementation of GetSubscriptionRequests" alt="" coords="740,375,989,431"/>
+<area shape="rect" id="node13" href="$classQuantConnect_1_1Data_1_1UniverseSelection_1_1SelectSymbolsUniverseDecorator.html" title="Provides a univese decoration that replaces the implementation of SelectSymbols" alt="" coords="745,455,985,511"/>
+<area shape="rect" id="node14" href="$classQuantConnect_1_1Data_1_1UniverseSelection_1_1FineFundamentalFilteredUniverse.html" title="Provides a universe that can be filtered with a FineFundamental selection function" alt="" coords="1044,455,1291,511"/>
+<area shape="rect" id="node17" href="$classQuantConnect_1_1Algorithm_1_1Framework_1_1Selection_1_1CustomUniverse.html" title="Defines a universe as a set of dynamically set symbols." alt="" coords="733,536,996,577"/>
+<area shape="rect" id="node18" href="$classQuantConnect_1_1Algorithm_1_1Framework_1_1Selection_1_1ManualUniverse.html" title="Defines a universe as a set of manually set symbols. This differs from UserDefinedUniverse in that th..." alt="" coords="733,601,996,643"/>
+<area shape="rect" id="node19" href="$classQuantConnect_1_1Algorithm_1_1Selection_1_1OptionContractUniverse.html" title="This universe will hold single option contracts and their underlying, managing removals and additions" alt="" coords="739,667,990,708"/>
+</map>

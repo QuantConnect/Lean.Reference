@@ -1,0 +1,4 @@
+<map id="QuantConnect.Securities.FutureOption.FutureOptionSymbol.GetLastDayOfTrading" name="QuantConnect.Securities.FutureOption.FutureOptionSymbol.GetLastDayOfTrading">
+<area shape="rect" id="node1" title="Gets the last day of trading, aliased to be the Futures options&#39; expiry" alt="" coords="247,5,493,61"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Extensions.html#a0ffdbe5701923c4217f90dd5fbe87641" title="Gets the delisting date for the provided Symbol" alt="" coords="5,13,199,54"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="QuantConnect.Orders.OrderTicket.InvalidUpdateOrderId" name="QuantConnect.Orders.OrderTicket.InvalidUpdateOrderId">
+<area shape="rect" id="node1" title="Creates a new OrderTicket that represents trying to update an order for which no ticket exists" alt="" coords="699,13,903,54"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Lean_1_1Engine_1_1TransactionHandlers_1_1BrokerageTransactionHandler.html#a1a38e71d6ea75fe654d365cb6b7501d2" title="Update an order yet to be filled such as stop or limit orders." alt="" coords="352,5,651,61"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Lean_1_1Engine_1_1TransactionHandlers_1_1BrokerageTransactionHandler.html#ad7914edfb9b6e24fcbcd637e2c468cd5" title="Adds the specified order to be processed" alt="" coords="5,5,304,61"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="QuantConnect.Securities.IDerivativeSecurityFilter" name="QuantConnect.Securities.IDerivativeSecurityFilter">
+<area shape="rect" id="node1" title="Filters a set of derivative symbols using the underlying price data." alt="" coords="15,5,202,47"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Securities_1_1FuncSecurityDerivativeFilter.html" title="Provides a functional implementation of IDerivativeSecurityFilter" alt="" coords="5,95,212,136"/>
+</map>

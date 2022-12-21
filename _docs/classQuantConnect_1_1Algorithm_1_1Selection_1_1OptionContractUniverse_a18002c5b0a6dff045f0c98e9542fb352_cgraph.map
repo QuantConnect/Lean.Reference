@@ -1,0 +1,5 @@
+<map id="QuantConnect.Algorithm.Selection.OptionContractUniverse.OnCollectionChanged" name="QuantConnect.Algorithm.Selection.OptionContractUniverse.OnCollectionChanged">
+<area shape="rect" id="node1" title="Event invocator for the UserDefinedUniverse.CollectionChanged event" alt="" coords="5,5,271,61"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Data_1_1UniverseSelection_1_1UserDefinedUniverse.html#ac2073fa727ed83f897d6b52fc8485b5b" title="Removes the specified Symbol from this universe" alt="" coords="319,5,547,61"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Data_1_1UniverseSelection_1_1UserDefinedUniverse.html#a143d427b0db8ba8fec29f3612d72073a" title="Event invocator for the CollectionChanged event" alt="" coords="595,5,823,61"/>
+</map>

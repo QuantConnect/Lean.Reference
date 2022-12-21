@@ -1,0 +1,5 @@
+<map id="QuantConnect.Report.ReportElements.EstimatedCapacityReportElement.Render" name="QuantConnect.Report.ReportElements.EstimatedCapacityReportElement.Render">
+<area shape="rect" id="node1" title="Render element" alt="" coords="5,5,259,61"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Currencies.html#ac25d70952411dac69aff50e16b2680f2" title="Converts the string representation of number with currency in the format {currency}{value} to its dec..." alt="" coords="307,13,497,54"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Currencies.html#adfe5757a88698f504c556254db30a240" title="Converts the string representation of number with currency in the format {currency}{value} to its dec..." alt="" coords="545,13,736,54"/>
+</map>

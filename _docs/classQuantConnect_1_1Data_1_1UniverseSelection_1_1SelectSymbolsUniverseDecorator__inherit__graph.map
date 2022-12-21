@@ -1,0 +1,7 @@
+<map id="QuantConnect.Data.UniverseSelection.SelectSymbolsUniverseDecorator" name="QuantConnect.Data.UniverseSelection.SelectSymbolsUniverseDecorator">
+<area shape="rect" id="node1" title="Provides a univese decoration that replaces the implementation of SelectSymbols" alt="" coords="9,229,249,285"/>
+<area shape="rect" id="node5" href="$classQuantConnect_1_1Data_1_1UniverseSelection_1_1FineFundamentalFilteredUniverse.html" title="Provides a universe that can be filtered with a FineFundamental selection function" alt="" coords="5,333,252,389"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Data_1_1UniverseSelection_1_1UniverseDecorator.html" title="Provides an implementation of UniverseSelection.Universe that redirects all calls to a wrapped (or de..." alt="" coords="57,155,201,181"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Data_1_1UniverseSelection_1_1Universe.html" title="Provides a base class for all universes to derive from." alt="" coords="89,80,169,107"/>
+<area shape="rect" id="node4" title=" " alt="" coords="79,5,178,32"/>
+</map>

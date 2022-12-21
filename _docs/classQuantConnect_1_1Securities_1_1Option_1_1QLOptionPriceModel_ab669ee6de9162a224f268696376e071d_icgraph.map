@@ -1,0 +1,4 @@
+<map id="QuantConnect.Securities.Option.QLOptionPriceModel.ImpliedVolatilityEstimation" name="QuantConnect.Securities.Option.QLOptionPriceModel.ImpliedVolatilityEstimation">
+<area shape="rect" id="node1" title="An implied volatility approximation by Newton&#45;Raphson method. Return 0 if result is not converged" alt="" coords="316,5,571,61"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Securities_1_1Option_1_1QLOptionPriceModel.html#ab0982efb5a6320df608fb6bf03b5dc7e" title="Evaluates the specified option contract to compute a theoretical price, IV and greeks" alt="" coords="5,13,268,54"/>
+</map>

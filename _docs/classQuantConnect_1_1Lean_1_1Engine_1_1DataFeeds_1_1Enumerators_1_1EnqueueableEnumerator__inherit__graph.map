@@ -1,0 +1,4 @@
+<map id="QuantConnect.Lean.Engine.DataFeeds.Enumerators.EnqueueableEnumerator&lt; T &gt;" name="QuantConnect.Lean.Engine.DataFeeds.Enumerators.EnqueueableEnumerator&lt; T &gt;">
+<area shape="rect" id="node1" title="An implementation of IEnumerator&lt;T&gt; that relies on the Enqueue method being called and only ends when..." alt="" coords="5,80,272,136"/>
+<area shape="rect" id="node2" title=" " alt="" coords="69,5,209,32"/>
+</map>

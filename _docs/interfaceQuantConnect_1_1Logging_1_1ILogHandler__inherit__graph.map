@@ -1,0 +1,11 @@
+<map id="QuantConnect.Logging.ILogHandler" name="QuantConnect.Logging.ILogHandler">
+<area shape="rect" id="node1" title="Interface for redirecting log output" alt="" coords="152,136,352,177"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Logging_1_1CompositeLogHandler.html" title="Provides an ILogHandler implementation that composes multiple handlers" alt="" coords="400,5,643,47"/>
+<area shape="rect" id="node4" href="$classQuantConnect_1_1Logging_1_1ConsoleLogHandler.html" title="ILogHandler implementation that writes log output to console." alt="" coords="409,71,634,112"/>
+<area shape="rect" id="node6" href="$classQuantConnect_1_1Logging_1_1FileLogHandler.html" title="Provides an implementation of ILogHandler that writes all log messages to a file on disk." alt="" coords="423,136,619,177"/>
+<area shape="rect" id="node8" href="$classQuantConnect_1_1Logging_1_1FunctionalLogHandler.html" title="ILogHandler implementation that writes log output to result handler" alt="" coords="401,201,641,243"/>
+<area shape="rect" id="node9" href="$classQuantConnect_1_1Logging_1_1QueueLogHandler.html" title="ILogHandler implementation that queues all logs and writes them when instructed." alt="" coords="414,267,629,308"/>
+<area shape="rect" id="node2" title=" " alt="" coords="5,143,104,170"/>
+<area shape="rect" id="node5" href="$classQuantConnect_1_1Logging_1_1ConsoleErrorLogHandler.html" title="Subclass of ConsoleLogHandler that only logs error messages" alt="" coords="701,71,926,112"/>
+<area shape="rect" id="node7" href="$classQuantConnect_1_1Logging_1_1RegressionFileLogHandler.html" title="Provides an implementation of ILogHandler that writes all log messages to a file on disk without time..." alt="" coords="691,136,936,177"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="QuantConnect.Data.LeanDataWriter.Write" name="QuantConnect.Data.LeanDataWriter.Write">
+<area shape="rect" id="node1" title="Given the constructor parameters, write out the data in LEAN format." alt="" coords="339,13,553,54"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1ToolBox_1_1IQFeedDownloader_1_1IQFeedDownloaderProgram.html#af64ad2574981db107ba25450d67a64f5" title="Primary entry point to the program. This program only supports EQUITY for now." alt="" coords="5,5,291,61"/>
+</map>

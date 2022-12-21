@@ -1,0 +1,12 @@
+<map id="QuantConnect.Data.Fundamental.MultiPeriodField.SetPeriodValue" name="QuantConnect.Data.Fundamental.MultiPeriodField.SetPeriodValue">
+<area shape="rect" id="node1" title="Sets the value of the field for the specified period" alt="" coords="1179,137,1421,179"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Data_1_1Fundamental_1_1MultiPeriodField.html#a838bad18f26df20cc69e43387bdd58c3" title="Applies updated values from update &#160;to this instance" alt="" coords="888,137,1131,179"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Data_1_1Fundamental_1_1EarningRatios.html#a2ced403ec9ee969878e42f9c8bba20f5" title="Applies updated values from update &#160;to this instance" alt="" coords="299,17,542,59"/>
+<area shape="rect" id="node5" href="$classQuantConnect_1_1Data_1_1Fundamental_1_1FinancialStatements.html#a0c1c85acacb98a3908ac1cd40456e11b" title="Applies updated values from update &#160;to this instance" alt="" coords="296,137,545,179"/>
+<area shape="rect" id="node6" href="$classQuantConnect_1_1Data_1_1Fundamental_1_1EarningReports.html#a0a12d6cfe5b2d709a754cfaffc6240bf" title="Applies updated values from update &#160;to this instance" alt="" coords="299,213,542,255"/>
+<area shape="rect" id="node7" href="$classQuantConnect_1_1Data_1_1Fundamental_1_1OperationRatios.html#a7b9c76072db198e9118b46d1d8a7a11d" title="Applies updated values from update &#160;to this instance" alt="" coords="299,300,542,341"/>
+<area shape="rect" id="node8" href="$classQuantConnect_1_1Data_1_1Fundamental_1_1IncomeStatement.html#a29914eac4ed13a7004bab7e7f3c878c9" title="Applies updated values from update &#160;to this instance" alt="" coords="595,72,838,113"/>
+<area shape="rect" id="node9" href="$classQuantConnect_1_1Data_1_1Fundamental_1_1CashFlowStatement.html#a72863c09b44feace9ba3214b9bd04795" title="Applies updated values from update &#160;to this instance" alt="" coords="593,137,840,179"/>
+<area shape="rect" id="node10" href="$classQuantConnect_1_1Data_1_1Fundamental_1_1BalanceSheet.html#a7b800107275d50203d08cb6d830f0a8f" title="Applies updated values from update &#160;to this instance" alt="" coords="595,203,838,244"/>
+<area shape="rect" id="node4" href="$classQuantConnect_1_1Data_1_1Fundamental_1_1FineFundamental.html#af68025c95be331aa84700c33db569812" title="Applies updated values from update &#160;to this instance" alt="" coords="5,181,248,223"/>
+</map>

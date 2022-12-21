@@ -1,0 +1,4 @@
+<map id="QuantConnect.Lean.Engine.Alphas.DefaultAlphaHandler.AddInsightManagerCustomExtensions" name="QuantConnect.Lean.Engine.Alphas.DefaultAlphaHandler.AddInsightManagerCustomExtensions">
+<area shape="rect" id="node1" title="Allows each alpha handler implementation to add there own optional extensions" alt="" coords="5,5,249,61"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Algorithm_1_1Framework_1_1Alphas_1_1Analysis_1_1InsightManager.html#a4ed24d192a951bd8beb989a41c017eee" title="Add an extension to this manager" alt="" coords="297,13,620,54"/>
+</map>

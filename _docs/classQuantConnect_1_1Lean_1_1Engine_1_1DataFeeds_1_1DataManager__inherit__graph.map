@@ -1,0 +1,8 @@
+<map id="QuantConnect.Lean.Engine.DataFeeds.DataManager" name="QuantConnect.Lean.Engine.DataFeeds.DataManager">
+<area shape="rect" id="node1" title="DataManager will manage the subscriptions for both the DataFeeds and the SubscriptionManager" alt="" coords="271,229,473,271"/>
+<area shape="rect" id="node2" href="$interfaceQuantConnect_1_1Interfaces_1_1IAlgorithmSubscriptionManager.html" title="AlgorithmSubscriptionManager interface will manage the subscriptions for the SubscriptionManager" alt="" coords="8,155,235,181"/>
+<area shape="rect" id="node3" href="$interfaceQuantConnect_1_1Interfaces_1_1ISubscriptionDataConfigService.html" title="This interface exposes methods for creating a list of SubscriptionDataConfig for a given configuratio..." alt="" coords="8,80,235,107"/>
+<area shape="rect" id="node4" href="$interfaceQuantConnect_1_1Interfaces_1_1ISubscriptionDataConfigProvider.html" title="Reduced interface which provides access to registered SubscriptionDataConfig" alt="" coords="5,5,237,32"/>
+<area shape="rect" id="node5" href="$interfaceQuantConnect_1_1Lean_1_1Engine_1_1DataFeeds_1_1IDataFeedSubscriptionManager.html" title="DataFeedSubscriptionManager interface will manage the subscriptions for the Data Feed" alt="" coords="259,155,485,181"/>
+<area shape="rect" id="node6" href="$interfaceQuantConnect_1_1Lean_1_1Engine_1_1DataFeeds_1_1IDataManager.html" title="IDataManager is the engines view of the Data Manager." alt="" coords="509,155,624,181"/>
+</map>

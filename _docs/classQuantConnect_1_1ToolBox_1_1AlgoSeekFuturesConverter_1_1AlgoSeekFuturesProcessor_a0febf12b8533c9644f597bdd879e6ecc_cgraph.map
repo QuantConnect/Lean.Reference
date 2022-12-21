@@ -1,0 +1,4 @@
+<map id="QuantConnect.ToolBox.AlgoSeekFuturesConverter.AlgoSeekFuturesProcessor.Process" name="QuantConnect.ToolBox.AlgoSeekFuturesConverter.AlgoSeekFuturesProcessor.Process">
+<area shape="rect" id="node1" title="Process the tick; add to the con" alt="" coords="5,5,284,61"/>
+<area shape="rect" id="node2" href="$interfaceQuantConnect_1_1Data_1_1Consolidators_1_1IDataConsolidator.html#a3264316f60148fcf40f83dfcd92dbd67" title="Updates this consolidator with the specified data" alt="" coords="332,13,579,54"/>
+</map>

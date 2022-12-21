@@ -1,0 +1,11 @@
+<map id="QuantConnect.Securities.BuyingPowerModel" name="QuantConnect.Securities.BuyingPowerModel">
+<area shape="rect" id="node1" title="Provides a base class for all buying power models" alt="" coords="204,71,391,112"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Securities_1_1CashBuyingPowerModel.html" title="Represents a buying power model for cash accounts" alt="" coords="448,5,635,47"/>
+<area shape="rect" id="node4" href="$classQuantConnect_1_1Securities_1_1ConstantBuyingPowerModel.html" title="Provides an implementation of IBuyingPowerModel that uses an absurdly low margin requirement to ensur..." alt="" coords="439,71,644,112"/>
+<area shape="rect" id="node5" href="$classQuantConnect_1_1Securities_1_1SecurityMarginModel.html" title="Represents a simple, constant margin model by specifying the percentages of required margin." alt="" coords="448,136,635,177"/>
+<area shape="rect" id="node2" href="$interfaceQuantConnect_1_1Securities_1_1IBuyingPowerModel.html" title="Represents a security&#39;s model of buying power" alt="" coords="5,78,156,105"/>
+<area shape="rect" id="node6" href="$classQuantConnect_1_1Securities_1_1Future_1_1FutureMarginModel.html" title="Represents a simple margin model for margin futures. Margin file contains Initial and Maintenance mar..." alt="" coords="709,71,902,112"/>
+<area shape="rect" id="node8" href="$classQuantConnect_1_1Securities_1_1Option_1_1OptionMarginModel.html" title="Represents a simple option margin model." alt="" coords="707,136,904,177"/>
+<area shape="rect" id="node9" href="$classQuantConnect_1_1Securities_1_1PatternDayTradingMarginModel.html" title="Represents a simple margining model where margin/leverage depends on market state (open or close)...." alt="" coords="692,201,919,243"/>
+<area shape="rect" id="node7" href="$classQuantConnect_1_1Securities_1_1Option_1_1FuturesOptionsMarginModel.html" title="Defines a margin model for future options (an option with a future as its underlying)...." alt="" coords="967,71,1219,112"/>
+</map>

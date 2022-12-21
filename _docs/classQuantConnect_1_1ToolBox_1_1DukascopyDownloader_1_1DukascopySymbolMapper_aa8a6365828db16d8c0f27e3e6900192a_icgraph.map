@@ -1,0 +1,6 @@
+<map id="QuantConnect.ToolBox.DukascopyDownloader.DukascopySymbolMapper.GetBrokerageSecurityType" name="QuantConnect.ToolBox.DukascopyDownloader.DukascopySymbolMapper.GetBrokerageSecurityType">
+<area shape="rect" id="node1" title="Returns the security type for a Dukascopy symbol" alt="" coords="328,85,603,141"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1ToolBox_1_1DukascopyDownloader_1_1DukascopySymbolMapper.html#a121ded6cf33c4ff94e5af717fb31b414" title="Returns the security type for a Lean symbol" alt="" coords="5,5,280,61"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1ToolBox_1_1DukascopyDownloader_1_1DukascopySymbolMapper.html#a04180577f5f0ae2ae0c4ba995e9cb365" title="Converts a Dukascopy symbol to a Lean symbol instance" alt="" coords="5,85,280,141"/>
+<area shape="rect" id="node4" href="$classQuantConnect_1_1ToolBox_1_1DukascopyDownloader_1_1DukascopySymbolMapper.html#a655f8c70265d2df4208610a009ef643f" title="Checks if the symbol is supported by Dukascopy" alt="" coords="5,165,280,221"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="QuantConnect.Brokerages.TradingTechnologiesBrokerageModel" name="QuantConnect.Brokerages.TradingTechnologiesBrokerageModel">
+<area shape="rect" id="node1" title="Provides properties specific to Trading Technologies" alt="" coords="5,155,264,196"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Brokerages_1_1DefaultBrokerageModel.html" title="Provides a default implementation of IBrokerageModel that allows all orders and uses the default tran..." alt="" coords="47,80,223,107"/>
+<area shape="rect" id="node3" href="$interfaceQuantConnect_1_1Brokerages_1_1IBrokerageModel.html" title="Models brokerage transactions, fees, and order" alt="" coords="69,5,201,32"/>
+</map>

@@ -1,0 +1,8 @@
+<map id="QuantConnect.ToolBox.IStreamProvider" name="QuantConnect.ToolBox.IStreamProvider">
+<area shape="rect" id="node1" title="Defines how to open/close a source file" alt="" coords="152,104,376,145"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1ToolBox_1_1Bz2StreamProvider.html" title=" " alt="" coords="427,5,624,47"/>
+<area shape="rect" id="node4" href="$classQuantConnect_1_1ToolBox_1_1FileStreamProvider.html" title="Provides an implementation of IStreamProvider that just returns a file stream" alt="" coords="427,71,623,112"/>
+<area shape="rect" id="node5" href="$classQuantConnect_1_1ToolBox_1_1GzipStreamProvider.html" title=" " alt="" coords="424,136,627,177"/>
+<area shape="rect" id="node6" href="$classQuantConnect_1_1ToolBox_1_1ZipStreamProvider.html" title="Provides an implementation of IStreamProvider that opens zip files" alt="" coords="428,201,623,243"/>
+<area shape="rect" id="node2" title=" " alt="" coords="5,111,104,138"/>
+</map>

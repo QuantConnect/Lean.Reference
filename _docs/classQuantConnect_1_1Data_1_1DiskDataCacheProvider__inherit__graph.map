@@ -1,0 +1,5 @@
+<map id="QuantConnect.Data.DiskDataCacheProvider" name="QuantConnect.Data.DiskDataCacheProvider">
+<area shape="rect" id="node1" title="Simple data cache provider, writes and reads directly from disk Used as default for LeanDataWriter" alt="" coords="5,155,219,196"/>
+<area shape="rect" id="node2" href="$interfaceQuantConnect_1_1Interfaces_1_1IDataCacheProvider.html" title="Defines a cache for data" alt="" coords="37,80,187,107"/>
+<area shape="rect" id="node3" title=" " alt="" coords="63,5,161,32"/>
+</map>

@@ -1,0 +1,10 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$classQuantConnect_1_1Api_1_1BaseLiveAlgorithmSettings.html" title="Base class for settings that must be configured per Brokerage to create new algorithms via the API." alt="" coords="5,201,208,243"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Api_1_1BitfinexLiveAlgorithmSettings.html" title="Live algorithm settings for trading with Bitfinex" alt="" coords="267,5,460,47"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Api_1_1DefaultLiveAlgorithmSettings.html" title="Default live algorithm settings" alt="" coords="268,71,459,112"/>
+<area shape="rect" id="node4" href="$classQuantConnect_1_1Api_1_1FXCMLiveAlgorithmSettings.html" title="Algorithm setting for trading with FXCM" alt="" coords="260,136,467,177"/>
+<area shape="rect" id="node5" href="$classQuantConnect_1_1Api_1_1GDAXLiveAlgorithmSettings.html" title="Live algorithm settings for trading with GDAX (Coinbase)" alt="" coords="259,201,467,243"/>
+<area shape="rect" id="node6" href="$classQuantConnect_1_1Api_1_1InteractiveBrokersLiveAlgorithmSettings.html" title="Live algorithm settings for trading with Interactive Brokers" alt="" coords="256,267,471,308"/>
+<area shape="rect" id="node7" href="$classQuantConnect_1_1Api_1_1OandaLiveAlgorithmSettings.html" title="Live algorithm settings for trading with Oanda" alt="" coords="257,332,469,373"/>
+<area shape="rect" id="node8" href="$classQuantConnect_1_1Api_1_1TradierLiveAlgorithmSettings.html" title="Live algorithm settings for trading with Tradier" alt="" coords="270,397,457,439"/>
+</map>

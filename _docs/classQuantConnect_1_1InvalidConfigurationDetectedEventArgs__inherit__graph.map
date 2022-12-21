@@ -1,0 +1,5 @@
+<map id="QuantConnect.InvalidConfigurationDetectedEventArgs" name="QuantConnect.InvalidConfigurationDetectedEventArgs">
+<area shape="rect" id="node1" title="Event arguments for the IDataProviderEvents.InvalidConfigurationDetected event" alt="" coords="5,155,255,196"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1DataProviderEventArgs.html" title="Defines a base class for IDataProviderEvents" alt="" coords="43,80,217,107"/>
+<area shape="rect" id="node3" title=" " alt="" coords="86,5,174,32"/>
+</map>

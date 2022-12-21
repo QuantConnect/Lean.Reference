@@ -1,0 +1,4 @@
+<map id="QuantConnect.Orders.SubmitOrderRequest.ToString" name="QuantConnect.Orders.SubmitOrderRequest.ToString">
+<area shape="rect" id="node1" title="Returns a string that represents the current object." alt="" coords="5,5,216,47"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Orders_1_1Order.html#afbc537575c31e60fcda07aba2e1368e9" title="Creates an Order to match the specified request" alt="" coords="264,5,468,47"/>
+</map>

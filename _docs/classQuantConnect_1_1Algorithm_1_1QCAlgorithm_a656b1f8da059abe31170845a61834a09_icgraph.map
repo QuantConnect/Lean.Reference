@@ -1,0 +1,5 @@
+<map id="QuantConnect.Algorithm.QCAlgorithm.CreateConsolidator" name="QuantConnect.Algorithm.QCAlgorithm.CreateConsolidator">
+<area shape="rect" id="node1" title="Creates a new consolidator for the specified period, generating the requested output type." alt="" coords="327,39,600,80"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Algorithm_1_1QCAlgorithm.html#a91abca2f104ab1fa9f7584c65a3179ab" title="Registers the handler &#160;to receive consolidated data for the specified symbol and tick type...." alt="" coords="5,5,279,47"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Algorithm_1_1QCAlgorithm.html#ade0c0698b6151eab82e5d2fdd5128b5a" title="Gets the default consolidator for the specified symbol and resolution" alt="" coords="5,71,279,112"/>
+</map>

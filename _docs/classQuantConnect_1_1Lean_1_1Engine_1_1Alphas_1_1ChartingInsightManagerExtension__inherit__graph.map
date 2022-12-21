@@ -1,0 +1,4 @@
+<map id="QuantConnect.Lean.Engine.Alphas.ChartingInsightManagerExtension" name="QuantConnect.Lean.Engine.Alphas.ChartingInsightManagerExtension">
+<area shape="rect" id="node1" title="Manages alpha charting responsibilities." alt="" coords="5,80,296,121"/>
+<area shape="rect" id="node2" href="$interfaceQuantConnect_1_1Algorithm_1_1Framework_1_1Alphas_1_1IInsightManagerExtension.html" title="Abstraction point to handle the various concerns from a common api. At the time of writing,..." alt="" coords="55,5,246,32"/>
+</map>

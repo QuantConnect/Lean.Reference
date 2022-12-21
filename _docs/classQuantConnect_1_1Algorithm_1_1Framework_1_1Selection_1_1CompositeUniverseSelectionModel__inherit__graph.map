@@ -1,0 +1,5 @@
+<map id="QuantConnect.Algorithm.Framework.Selection.CompositeUniverseSelectionModel" name="QuantConnect.Algorithm.Framework.Selection.CompositeUniverseSelectionModel">
+<area shape="rect" id="node1" title="Provides an implementation of IUniverseSelectionModel that combines multiple universe selection model..." alt="" coords="5,155,320,196"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Algorithm_1_1Framework_1_1Selection_1_1UniverseSelectionModel.html" title="Provides a base class for universe selection models." alt="" coords="73,80,253,107"/>
+<area shape="rect" id="node3" href="$interfaceQuantConnect_1_1Algorithm_1_1Framework_1_1Selection_1_1IUniverseSelectionModel.html" title="Algorithm framework model that defines the universes to be used by an algorithm" alt="" coords="71,5,255,32"/>
+</map>

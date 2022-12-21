@@ -1,0 +1,5 @@
+<map id="QuantConnect.Indicators.WindowIndicator.Reset" name="QuantConnect.Indicators.WindowIndicator.Reset">
+<area shape="rect" id="node1" title="Resets this indicator to its initial state" alt="" coords="240,39,427,80"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Indicators_1_1SharpeRatio.html#a57cc5bc419b39e3f7089a5891ba0a657" title="Resets this indicator to its initial state" alt="" coords="5,5,192,47"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Indicators_1_1IchimokuKinkoHyo.html#a0196a5c1ab660d256d496b9bd7e029e8" title="Resets this indicator to its initial state" alt="" coords="5,71,192,112"/>
+</map>

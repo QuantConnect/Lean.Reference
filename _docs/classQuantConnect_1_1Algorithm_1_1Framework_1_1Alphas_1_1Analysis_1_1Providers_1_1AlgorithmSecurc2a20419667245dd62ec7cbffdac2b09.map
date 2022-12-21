@@ -1,0 +1,4 @@
+<map id="QuantConnect.Algorithm.Framework.Alphas.Analysis.Providers.AlgorithmSecurityValuesProvider" name="QuantConnect.Algorithm.Framework.Alphas.Analysis.Providers.AlgorithmSecurityValuesProvider">
+<area shape="rect" id="node1" title="Provides an implementation of ISecurityProvider that uses the SecurityManager to get the price for th..." alt="" coords="5,80,268,136"/>
+<area shape="rect" id="node2" href="$interfaceQuantConnect_1_1Algorithm_1_1Framework_1_1Alphas_1_1Analysis_1_1ISecurityValuesProvider.html" title="Provides a simple abstraction that returns a security&#39;s current price and volatility...." alt="" coords="49,5,225,32"/>
+</map>

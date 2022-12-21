@@ -1,0 +1,4 @@
+<map id="QuantConnect.Securities.Option.IQLDividendYieldEstimator" name="QuantConnect.Securities.Option.IQLDividendYieldEstimator">
+<area shape="rect" id="node1" title="Defines QuantLib dividend yield estimator for option pricing model. User may define his own estimator..." alt="" coords="5,5,248,47"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Securities_1_1Option_1_1ConstantQLDividendYieldEstimator.html" title="Class implements default flat dividend yield curve estimator, implementing IQLDividendYieldEstimator." alt="" coords="9,95,244,151"/>
+</map>

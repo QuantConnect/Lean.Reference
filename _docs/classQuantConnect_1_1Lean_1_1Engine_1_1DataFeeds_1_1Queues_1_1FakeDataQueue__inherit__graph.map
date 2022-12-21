@@ -1,0 +1,6 @@
+<map id="QuantConnect.Lean.Engine.DataFeeds.Queues.FakeDataQueue" name="QuantConnect.Lean.Engine.DataFeeds.Queues.FakeDataQueue">
+<area shape="rect" id="node1" title="This is an implementation of IDataQueueHandler used for testing. FakeHistoryProvider" alt="" coords="58,155,309,196"/>
+<area shape="rect" id="node2" href="$interfaceQuantConnect_1_1Interfaces_1_1IDataQueueHandler.html" title="Task requestor interface with cloud system" alt="" coords="5,80,156,107"/>
+<area shape="rect" id="node3" title=" " alt="" coords="31,5,130,32"/>
+<area shape="rect" id="node4" href="$interfaceQuantConnect_1_1Interfaces_1_1IDataQueueUniverseProvider.html" title="This interface allows interested parties to lookup or enumerate the available symbols...." alt="" coords="181,80,391,107"/>
+</map>

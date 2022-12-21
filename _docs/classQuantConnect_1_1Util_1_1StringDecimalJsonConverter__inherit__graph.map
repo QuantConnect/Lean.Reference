@@ -1,0 +1,4 @@
+<map id="QuantConnect.Util.StringDecimalJsonConverter" name="QuantConnect.Util.StringDecimalJsonConverter">
+<area shape="rect" id="node1" title="Allows for conversion of string numeric values from JSON to the decimal type" alt="" coords="10,95,193,136"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Util_1_1TypeChangeJsonConverter.html" title=" " alt="" coords="5,5,197,47"/>
+</map>

@@ -1,0 +1,9 @@
+<map id="QuantConnect.StringExtensions.Invariant" name="QuantConnect.StringExtensions.Invariant">
+<area shape="rect" id="node1" title="Non&#45;extension method alias for FormattableString.Invariant This supports the" alt="" coords="357,185,588,227"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Brokerages_1_1WolverineBrokerageModel.html#a9170c2b6bd35d0c825407a68d2ee22cd" title="Returns true if the brokerage could accept this order. This takes into account order type,..." alt="" coords="5,5,309,47"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Brokerages_1_1TDAmeritradeBrokerageModel.html#ab8d95519106607a7f184cbafeb10e2bd" title="Returns true if the brokerage could accept this order. This takes into account order type,..." alt="" coords="33,71,281,127"/>
+<area shape="rect" id="node4" href="$classQuantConnect_1_1Brokerages_1_1KrakenBrokerageModel.html#a37692d0d24f80c27c244a226333edbc5" title="Returns true if the brokerage could accept this order. This takes into account order type,..." alt="" coords="15,152,299,193"/>
+<area shape="rect" id="node5" href="$classQuantConnect_1_1Brokerages_1_1FTXBrokerageModel.html#a0986a3547ce500de8dd64cfecb1ee51a" title="Returns true if the brokerage could accept this order. This takes into account order type,..." alt="" coords="26,217,289,259"/>
+<area shape="rect" id="node6" href="$classQuantConnect_1_1Brokerages_1_1BinanceBrokerageModel.html#af507b6758cdf1e40f10c71a2518d0ad7" title="Returns true if the brokerage could accept this order. This takes into account order type,..." alt="" coords="12,283,303,324"/>
+<area shape="rect" id="node7" href="$classQuantConnect_1_1Brokerages_1_1BitfinexBrokerageModel.html#ac68c621edc8a0ad68f91131c269d0cef" title="Returns true if the brokerage could accept this order. This takes into account order type,..." alt="" coords="13,348,302,389"/>
+</map>

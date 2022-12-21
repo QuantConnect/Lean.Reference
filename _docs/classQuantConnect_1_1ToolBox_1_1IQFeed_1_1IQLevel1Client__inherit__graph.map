@@ -1,0 +1,6 @@
+<map id="QuantConnect.ToolBox.IQFeed.IQLevel1Client" name="QuantConnect.ToolBox.IQFeed.IQLevel1Client">
+<area shape="rect" id="node1" title=" " alt="" coords="156,50,379,91"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1ToolBox_1_1IQFeed_1_1IQFeedDataQueueUniverseProvider_1_1SymbolFundamentalData.html" title="Private class that helps requesting IQFeed fundamental data" alt="" coords="427,5,681,61"/>
+<area shape="rect" id="node4" href="$classQuantConnect_1_1ToolBox_1_1IQFeed_1_1Level1Port.html" title="Level 1 Data Request:" alt="" coords="443,86,665,127"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1ToolBox_1_1IQFeed_1_1SocketClient.html" title=" " alt="" coords="5,57,108,84"/>
+</map>

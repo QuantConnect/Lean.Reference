@@ -1,0 +1,4 @@
+<map id="QuantConnect.Lean.Engine.DataFeeds.IDataFeedSubscriptionManager" name="QuantConnect.Lean.Engine.DataFeeds.IDataFeedSubscriptionManager">
+<area shape="rect" id="node1" title="DataFeedSubscriptionManager interface will manage the subscriptions for the Data Feed" alt="" coords="5,5,247,61"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Lean_1_1Engine_1_1DataFeeds_1_1DataManager.html" title="DataManager will manage the subscriptions for both the DataFeeds and the SubscriptionManager" alt="" coords="25,109,227,151"/>
+</map>

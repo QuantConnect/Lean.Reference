@@ -1,0 +1,4 @@
+<map id="QuantConnect.Algorithm.QCAlgorithm.Order" name="QuantConnect.Algorithm.QCAlgorithm.Order">
+<area shape="rect" id="node1" title="Obsolete implementation of Order method accepting a OrderType. This was deprecated since it was impos..." alt="" coords="5,5,279,47"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Algorithm_1_1QCAlgorithm.html#addc408ce5bfb42cbe76d7098fbe7375f" title="Issue an order/trade for asset: Alias wrapper for Order(string, int);" alt="" coords="327,5,600,47"/>
+</map>

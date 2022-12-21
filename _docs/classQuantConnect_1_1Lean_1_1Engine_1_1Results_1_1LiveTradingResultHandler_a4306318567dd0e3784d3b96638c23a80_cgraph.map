@@ -1,0 +1,5 @@
+<map id="QuantConnect.Lean.Engine.Results.LiveTradingResultHandler.LiveTradingResultHandler" name="QuantConnect.Lean.Engine.Results.LiveTradingResultHandler.LiveTradingResultHandler">
+<area shape="rect" id="node1" title="Creates a new instance" alt="" coords="5,35,248,91"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Configuration_1_1Config.html#a7e8e4f537e349a84b9a2b0f7d3153a0b" title="Get the int value of a config string." alt="" coords="313,5,522,47"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Lean_1_1Engine_1_1Results_1_1LiveTradingResultHandler.html#a9f38b5e0e6ceb1825bbf0fb8267dab51" title="Assigns the next earliest status update time" alt="" coords="296,71,539,127"/>
+</map>

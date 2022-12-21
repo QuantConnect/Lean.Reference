@@ -1,0 +1,4 @@
+<map id="QuantConnect.Algorithm.Framework.Alphas.Analysis.InsightManager.InitializeExtensionsForRange" name="QuantConnect.Algorithm.Framework.Alphas.Analysis.InsightManager.InitializeExtensionsForRange">
+<area shape="rect" id="node1" title="Initializes any extensions for the specified backtesting range" alt="" coords="312,5,601,61"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Lean_1_1Engine_1_1Alphas_1_1DefaultAlphaHandler.html#a90f6a079ebfff35dd87ea5806173d8b8" title="Invoked after the algorithm&#39;s Initialize method was called allowing the alpha handler to check other ..." alt="" coords="5,5,264,61"/>
+</map>

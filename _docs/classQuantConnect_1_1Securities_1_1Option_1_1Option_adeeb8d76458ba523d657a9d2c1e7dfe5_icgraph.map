@@ -1,0 +1,4 @@
+<map id="QuantConnect.Securities.Option.Option.GetExerciseQuantity" name="QuantConnect.Securities.Option.Option.GetExerciseQuantity">
+<area shape="rect" id="node1" title="Returns the directional quantity of underlying shares that are going to change hands on exercise/assi..." alt="" coords="280,13,529,54"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Orders_1_1OptionExercise_1_1DefaultExerciseModel.html#a927741ce8e9a87b6ebb43a42cb1761d0" title="Default option exercise model for the basic equity/index option security class." alt="" coords="5,5,232,61"/>
+</map>

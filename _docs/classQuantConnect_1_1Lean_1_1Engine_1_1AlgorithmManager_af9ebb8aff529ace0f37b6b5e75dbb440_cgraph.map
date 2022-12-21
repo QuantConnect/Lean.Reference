@@ -1,0 +1,22 @@
+<map id="QuantConnect.Lean.Engine.AlgorithmManager.Run" name="QuantConnect.Lean.Engine.AlgorithmManager.Run">
+<area shape="rect" id="node1" title="Launch the algorithm manager to run this strategy" alt="" coords="5,404,207,445"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Logging_1_1Log.html#af0e7955911bc7664b37661b2a303a9e3" title="Log error" alt="" coords="283,83,483,124"/>
+<area shape="rect" id="node4" href="$classQuantConnect_1_1Lean_1_1Engine_1_1AlgorithmManager.html#a02a0ac8ada5d5bae842b39947cad34e6" title="Helper method to apply a dividend to an algorithm instance" alt="" coords="255,244,512,285"/>
+<area shape="rect" id="node10" href="$classQuantConnect_1_1Logging_1_1Log.html#a4e55477fbc790846b74550a57198cea9" title="Log trace" alt="" coords="588,511,788,552"/>
+<area shape="rect" id="node13" href="$classQuantConnect_1_1Lean_1_1Engine_1_1AlgorithmManager.html#ab1723b951a86a876c7ae3cc7281365f3" title="Helper method to apply a split to an algorithm instance" alt="" coords="269,345,497,387"/>
+<area shape="rect" id="node17" href="$classQuantConnect_1_1Lean_1_1Engine_1_1AlgorithmManager.html#aea414b7cf4533a4295fa7c8b1deb7eff" title="Set the quit state." alt="" coords="279,463,487,504"/>
+<area shape="rect" id="node19" href="$classQuantConnect_1_1Lean_1_1Engine_1_1AlgorithmTimeLimitManager.html#ac2a6503a2e10bbe596e497eb7e156191" title="Invoked by the algorithm at the start of each time loop. This resets the current time step elapsed ti..." alt="" coords="262,529,505,585"/>
+<area shape="rect" id="node20" href="$classQuantConnect_1_1Securities_1_1SecurityCache.html#ad09a4e89a3ce0df01d5f8042e02e74c5" title="Stores the specified data list in the cache WITHOUT updating any of the cache properties,..." alt="" coords="290,609,477,651"/>
+<area shape="rect" id="node3" href="$interfaceQuantConnect_1_1Logging_1_1ILogHandler.html#a35373a0c5d76031fa5ccf5dc39e5c25d" title="Write error message to log" alt="" coords="588,5,788,47"/>
+<area shape="rect" id="node5" href="$classQuantConnect_1_1Securities_1_1SecurityPortfolioManager.html#a3035964265c42089a834731e13c19a54" title="Applies a dividend to the portfolio" alt="" coords="575,71,801,127"/>
+<area shape="rect" id="node7" href="$classQuantConnect_1_1Logging_1_1Log.html#ad908daef9d61532d7d60c9dcfb9a3e0c" title="Output to the console" alt="" coords="588,299,788,340"/>
+<area shape="rect" id="node9" href="$interfaceQuantConnect_1_1Interfaces_1_1ISubscriptionDataConfigProvider.html#a38160779e60c783450e66c7e2f81e941" title="Gets a list of all registered SubscriptionDataConfig for a given Symbol" alt="" coords="571,218,805,274"/>
+<area shape="rect" id="node12" href="$classQuantConnect_1_1Securities_1_1SecurityManager.html#af3ad97e370ceec706ac1afe70f7fbb42" title="Try and get this security object with matching symbol and return true on success." alt="" coords="581,152,795,193"/>
+<area shape="rect" id="node6" href="$classQuantConnect_1_1Securities_1_1Cash.html#af5a7561893cf6fa38c3ee83d434fe32d" title="Adds the specified amount of currency to this Cash instance and returns the new total...." alt="" coords="898,328,1085,369"/>
+<area shape="rect" id="node8" href="$interfaceQuantConnect_1_1Logging_1_1ILogHandler.html#a2c738b8e78dd5b54244bc68b969ba91d" title="Write debug message to log" alt="" coords="891,263,1091,304"/>
+<area shape="rect" id="node11" href="$interfaceQuantConnect_1_1Logging_1_1ILogHandler.html#a3fb71a33ac66129240b63f12b6fcda3b" title="Write debug message to log" alt="" coords="891,511,1091,552"/>
+<area shape="rect" id="node14" href="$classQuantConnect_1_1Securities_1_1SecurityPortfolioManager.html#ae72fb9e5643e4196ddb8180e744927b0" title="Applies a split to the portfolio" alt="" coords="560,364,816,405"/>
+<area shape="rect" id="node16" href="$classQuantConnect_1_1Securities_1_1SecurityTransactionManager.html#a40a5adc0c964d6f0f472f93fc56d4d53" title="Get an enumerable of open OrderTicket for the specified symbol" alt="" coords="572,430,804,486"/>
+<area shape="rect" id="node15" href="$classQuantConnect_1_1Securities_1_1SecurityPortfolioManager.html#a752342997e11998f5c14f238c2ad4b5d" title="Will flag the current TotalPortfolioValue as invalid so it is recalculated when gotten" alt="" coords="864,394,1119,450"/>
+<area shape="rect" id="node18" href="$interfaceQuantConnect_1_1Interfaces_1_1IAlgorithm.html#adc5f10f52ad021f6bfc12ef9db8e0f5d" title="Set the state of a live deployment" alt="" coords="595,576,781,617"/>
+</map>

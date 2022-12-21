@@ -1,0 +1,4 @@
+<map id="QuantConnect.Indicators.Beta.Reset" name="QuantConnect.Indicators.Beta.Reset">
+<area shape="rect" id="node1" title="Resets this indicator to its initial state" alt="" coords="5,5,192,47"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Indicators_1_1RollingWindow.html#a35b0ed79d7c9260a0927560efdadce48" title="Clears this window of all data" alt="" coords="240,5,427,47"/>
+</map>

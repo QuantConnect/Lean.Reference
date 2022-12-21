@@ -1,0 +1,4 @@
+<map id="QuantConnect.Securities.Forex.Forex.Forex" name="QuantConnect.Securities.Forex.Forex.Forex">
+<area shape="rect" id="node1" title="Constructor for the forex security" alt="" coords="5,5,192,47"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Securities_1_1Forex_1_1Forex.html#af7fbd660dcbbc46527c61baafe2549bb" title="Decomposes the specified currency pair into a base and quote currency provided as out parameters" alt="" coords="240,5,501,47"/>
+</map>

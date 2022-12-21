@@ -1,0 +1,5 @@
+<map id="QuantConnect.Lean.Engine.DataFeeds.AggregationManager.Remove" name="QuantConnect.Lean.Engine.DataFeeds.AggregationManager.Remove">
+<area shape="rect" id="node1" title="Removes the handler with the specified identifier" alt="" coords="5,5,293,47"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Logging_1_1Log.html#ad908daef9d61532d7d60c9dcfb9a3e0c" title="Output to the console" alt="" coords="341,5,541,47"/>
+<area shape="rect" id="node3" href="$interfaceQuantConnect_1_1Logging_1_1ILogHandler.html#a2c738b8e78dd5b54244bc68b969ba91d" title="Write debug message to log" alt="" coords="589,5,789,47"/>
+</map>

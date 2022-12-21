@@ -1,0 +1,4 @@
+<map id="QuantConnect.Data.Fundamental.SocialSecurityCostsIncomeStatement" name="QuantConnect.Data.Fundamental.SocialSecurityCostsIncomeStatement">
+<area shape="rect" id="node1" title="Benefits paid to the employees in respect of their work." alt="" coords="5,80,272,121"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Data_1_1Fundamental_1_1MultiPeriodField.html" title="Abstract base class for multi&#45;period fields" alt="" coords="75,5,202,32"/>
+</map>

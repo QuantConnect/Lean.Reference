@@ -1,0 +1,6 @@
+var classQuantConnect_1_1Data_1_1Fundamental_1_1CashAdvancesandLoansMadetoOtherPartiesCashFlowStatement =
+[
+    [ "CashAdvancesandLoansMadetoOtherPartiesCashFlowStatement", "classQuantConnect_1_1Data_1_1Fundamental_1_1CashAdvancesandLoansMadetoOtherPartiesCashFlowStatement.html#af30953e332926d4338e2d865a38cac3e", null ],
+    [ "DefaultPeriod", "classQuantConnect_1_1Data_1_1Fundamental_1_1CashAdvancesandLoansMadetoOtherPartiesCashFlowStatement.html#a0e455971997cd29413f508796731b892", null ],
+    [ "TwelveMonths", "classQuantConnect_1_1Data_1_1Fundamental_1_1CashAdvancesandLoansMadetoOtherPartiesCashFlowStatement.html#ae5a9622ac84e985e77672626cbfbbf27", null ]
+];

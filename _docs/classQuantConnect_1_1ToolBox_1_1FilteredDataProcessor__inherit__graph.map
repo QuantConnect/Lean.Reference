@@ -1,0 +1,5 @@
+<map id="QuantConnect.ToolBox.FilteredDataProcessor" name="QuantConnect.ToolBox.FilteredDataProcessor">
+<area shape="rect" id="node1" title="Provides an implementation of IDataProcessor that filters the incoming stream of data before passing ..." alt="" coords="5,155,228,196"/>
+<area shape="rect" id="node2" href="$interfaceQuantConnect_1_1ToolBox_1_1IDataProcessor.html" title="Specifies a piece of processing that should be performed against a source file" alt="" coords="57,80,177,107"/>
+<area shape="rect" id="node3" title=" " alt="" coords="67,5,166,32"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="QuantConnect.Data.Fundamental.ReinsuranceandOtherRecoveriesReceivedCashFlowStatement" name="QuantConnect.Data.Fundamental.ReinsuranceandOtherRecoveriesReceivedCashFlowStatement">
+<area shape="rect" id="node1" title="Cash received from reinsurance income or other recoveries income in operating cash flow,..." alt="" coords="5,80,300,136"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Data_1_1Fundamental_1_1MultiPeriodField.html" title="Abstract base class for multi&#45;period fields" alt="" coords="89,5,216,32"/>
+</map>

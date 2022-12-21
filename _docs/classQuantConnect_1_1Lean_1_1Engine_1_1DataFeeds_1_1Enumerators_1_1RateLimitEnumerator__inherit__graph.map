@@ -1,0 +1,4 @@
+<map id="QuantConnect.Lean.Engine.DataFeeds.Enumerators.RateLimitEnumerator&lt; T &gt;" name="QuantConnect.Lean.Engine.DataFeeds.Enumerators.RateLimitEnumerator&lt; T &gt;">
+<area shape="rect" id="node1" title="Provides augmentation of how often an enumerator can be called. Time is measured using an ITimeProvid..." alt="" coords="5,80,251,136"/>
+<area shape="rect" id="node2" title=" " alt="" coords="58,5,198,32"/>
+</map>

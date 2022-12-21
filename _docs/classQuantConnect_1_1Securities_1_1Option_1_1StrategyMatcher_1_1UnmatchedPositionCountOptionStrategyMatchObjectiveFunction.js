@@ -1,0 +1,4 @@
+var classQuantConnect_1_1Securities_1_1Option_1_1StrategyMatcher_1_1UnmatchedPositionCountOptionStrategyMatchObjectiveFunction =
+[
+    [ "ComputeScore", "classQuantConnect_1_1Securities_1_1Option_1_1StrategyMatcher_1_1UnmatchedPositionCountOptionStrategyMatchObjectiveFunction.html#a42e22f1ffcd1c3975b68bc98f5e2f137", null ]
+];

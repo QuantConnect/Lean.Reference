@@ -1,0 +1,4 @@
+<map id="QuantConnect.Securities.Option.OptionPriceModels.BlackScholes" name="QuantConnect.Securities.Option.OptionPriceModels.BlackScholes">
+<area shape="rect" id="node1" title="Pricing engine for European vanilla options using analytical formula. QuantLib reference: http://quan..." alt="" coords="240,5,471,61"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Securities_1_1Option_1_1Option.html#ae39ce21662f04ff4ba26c754e0b33c23" title="Constructor for the option security" alt="" coords="5,13,192,54"/>
+</map>

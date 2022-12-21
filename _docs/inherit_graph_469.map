@@ -1,0 +1,5 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$classQuantConnect_1_1Securities_1_1SymbolProperties.html" title="Represents common properties for a specific security, uniquely identified by market,..." alt="" coords="5,13,192,54"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Securities_1_1Option_1_1OptionSymbolProperties.html" title="Represents common properties for a specific option contract" alt="" coords="240,13,467,54"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Securities_1_1IndexOption_1_1IndexOptionSymbolProperties.html" title="Index Option Symbol Properties" alt="" coords="515,5,748,61"/>
+</map>

@@ -1,0 +1,8 @@
+<map id="QuantConnect.Time.EachDay" name="QuantConnect.Time.EachDay">
+<area shape="rect" id="node1" title="Define an enumerable date range and return each date as a datetime object in the date range" alt="" coords="663,111,875,138"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Scheduling_1_1DateRules.html#a96da1217828682719aa151331ee10137" title="Specifies an event should fire on each of the specified days of week" alt="" coords="361,5,554,47"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Scheduling_1_1DateRules.html#a50ef0351aa84d629ccb3d6f850f8b2f8" title="Specifies an event should fire every day" alt="" coords="361,71,554,112"/>
+<area shape="rect" id="node4" href="$classQuantConnect_1_1Lean_1_1Engine_1_1RealTime_1_1LiveTradingRealTimeHandler.html#a1b3eae56614996b86125cbd7c28cbe42" title="Initializes the real time handler for the specified algorithm and job" alt="" coords="300,136,615,177"/>
+<area shape="rect" id="node5" href="$classQuantConnect_1_1Time.html#a5d72b5ccc603db0d8cf79df21b2f28bf" title="Could of the number of tradeable dates within this period." alt="" coords="348,201,567,243"/>
+<area shape="rect" id="node6" href="$classQuantConnect_1_1Lean_1_1Engine_1_1Results_1_1BacktestingResultHandler.html#a187cf964394ce96cafca9a1048e9b143" title="Set the Algorithm instance for ths result." alt="" coords="5,194,252,250"/>
+</map>

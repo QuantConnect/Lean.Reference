@@ -1,0 +1,8 @@
+<map id="QuantConnect.Orders.Fills.ImmediateFillModel" name="QuantConnect.Orders.Fills.ImmediateFillModel">
+<area shape="rect" id="node1" title="Represents the default fill model used to simulate order fills" alt="" coords="268,39,463,80"/>
+<area shape="rect" id="node4" href="$classQuantConnect_1_1Orders_1_1Fills_1_1FutureFillModel.html" title="Represents the fill model used to simulate order fills for futures" alt="" coords="511,5,705,47"/>
+<area shape="rect" id="node6" href="$classQuantConnect_1_1Orders_1_1Fills_1_1LatestPriceFillModel.html" title="This fill model is provided for cases where the trade/quote distinction should be ignored and the fil..." alt="" coords="511,71,705,112"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Orders_1_1Fills_1_1FillModel.html" title="Provides a base class for all fill models" alt="" coords="139,46,220,73"/>
+<area shape="rect" id="node3" href="$interfaceQuantConnect_1_1Orders_1_1Fills_1_1IFillModel.html" title="Represents a model that simulates order fill events" alt="" coords="5,46,91,73"/>
+<area shape="rect" id="node5" href="$classQuantConnect_1_1Orders_1_1Fills_1_1FutureOptionFillModel.html" title="Represents the default fill model used to simulate order fills for future options" alt="" coords="753,5,948,47"/>
+</map>

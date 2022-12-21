@@ -1,0 +1,4 @@
+<map id="QuantConnect.Securities.BuyingPowerModel.GetMarginRemaining" name="QuantConnect.Securities.BuyingPowerModel.GetMarginRemaining">
+<area shape="rect" id="node1" title="Gets the margin cash available for a trade" alt="" coords="312,5,601,47"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Securities_1_1BuyingPowerModel.html#a7b18b0d8ef69d3097f4fd1694cd5c260" title="Gets the buying power available for a trade" alt="" coords="5,5,264,47"/>
+</map>

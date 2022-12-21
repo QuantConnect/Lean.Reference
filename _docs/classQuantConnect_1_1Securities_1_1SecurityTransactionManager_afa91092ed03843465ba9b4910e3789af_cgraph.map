@@ -1,0 +1,5 @@
+<map id="QuantConnect.Securities.SecurityTransactionManager.GetOpenOrders" name="QuantConnect.Securities.SecurityTransactionManager.GetOpenOrders">
+<area shape="rect" id="node1" title="Gets open orders matching the specified filter. However, this method can be confused with the overrid..." alt="" coords="5,35,237,91"/>
+<area shape="rect" id="node2" href="$interfaceQuantConnect_1_1Securities_1_1IOrderProvider.html#a29effa032a6c7fe508853e8a55c7a7c2" title="Gets open orders matching the specified filter. Specifying null will return an enumerable of all open..." alt="" coords="292,5,511,47"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Securities_1_1SecurityTransactionManager.html#a09717090ee95e9f5cc1c655e3793c070" title="Get a list of all open orders for a symbol." alt="" coords="285,71,517,127"/>
+</map>

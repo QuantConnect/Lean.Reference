@@ -1,0 +1,8 @@
+<map id="QuantConnect.Algorithm.Framework.Execution.VolumeWeightedAveragePriceExecutionModel.Execute" name="QuantConnect.Algorithm.Framework.Execution.VolumeWeightedAveragePriceExecutionModel.Execute">
+<area shape="rect" id="node1" title="Submit orders for the specified portfolio targets. This model is free to delay or spread out these or..." alt="" coords="5,97,289,153"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Orders_1_1OrderSizing.html#a7330ef57815b43091812652a2ca8eba9" title="Adjust the provided order size to respect maximum order size based on a percentage of current volume." alt="" coords="345,5,614,47"/>
+<area shape="rect" id="node4" href="$classQuantConnect_1_1Orders_1_1OrderSizing.html#a842c9dd8cdb14899938bf6b75b159f24" title="Gets the remaining quantity to be ordered to reach the specified target quantity." alt="" coords="373,71,585,112"/>
+<area shape="rect" id="node5" href="$classQuantConnect_1_1Algorithm_1_1QCAlgorithm.html#ad9061f61a3835394d616c79d7e602cc8" title="Market order implementation: Send a market order and wait for it to be filled." alt="" coords="343,136,616,177"/>
+<area shape="rect" id="node6" href="$classQuantConnect_1_1Algorithm_1_1Framework_1_1Execution_1_1VolumeWeightedAveragePriceExecutionModel.html#a4175d665a209c9db7b8e8a4ec881833f" title="Determines if the current price is better than VWAP" alt="" coords="337,202,621,258"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Orders_1_1OrderSizing.html#aef2d6370075548b8f4d8a8dcb15062b7" title="Adjusts the provided order quantity to respect the securities lot size. If the quantity is missing 1M..." alt="" coords="669,5,871,47"/>
+</map>

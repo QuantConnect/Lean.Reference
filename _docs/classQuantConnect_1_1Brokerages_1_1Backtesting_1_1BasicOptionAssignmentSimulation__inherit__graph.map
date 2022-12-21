@@ -1,0 +1,4 @@
+<map id="QuantConnect.Brokerages.Backtesting.BasicOptionAssignmentSimulation" name="QuantConnect.Brokerages.Backtesting.BasicOptionAssignmentSimulation">
+<area shape="rect" id="node1" title="This market conditions simulator emulates exercising of short option positions in the portfolio...." alt="" coords="5,80,264,136"/>
+<area shape="rect" id="node2" href="$interfaceQuantConnect_1_1Brokerages_1_1Backtesting_1_1IBacktestingMarketSimulation.html" title="Backtesting Market Simulation interface, that must be implemented by all simulators of market conditi..." alt="" coords="25,5,244,32"/>
+</map>

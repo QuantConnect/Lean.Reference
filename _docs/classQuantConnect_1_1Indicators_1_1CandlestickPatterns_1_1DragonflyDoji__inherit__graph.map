@@ -1,0 +1,5 @@
+<map id="QuantConnect.Indicators.CandlestickPatterns.DragonflyDoji" name="QuantConnect.Indicators.CandlestickPatterns.DragonflyDoji">
+<area shape="rect" id="node1" title="Dragonfly Doji candlestick pattern indicator" alt="" coords="5,169,249,211"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Indicators_1_1CandlestickPatterns_1_1CandlestickPattern.html" title="Abstract base class for a candlestick pattern indicator" alt="" coords="55,95,199,121"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Indicators_1_1WindowIndicator.html" title=" " alt="" coords="21,5,234,47"/>
+</map>

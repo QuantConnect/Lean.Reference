@@ -1,0 +1,6 @@
+<map id="QuantConnect.Statistics.Statistics.CompoundingAnnualPerformance" name="QuantConnect.Statistics.Statistics.CompoundingAnnualPerformance">
+<area shape="rect" id="node1" title="Annual compounded returns statistic based on the final&#45;starting capital and years." alt="" coords="615,43,836,99"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Statistics_1_1PortfolioStatistics.html#a79ae499a417dd08f97f401fc9bdf086b" title="Initializes a new instance of the PortfolioStatistics class" alt="" coords="341,5,537,61"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Statistics_1_1FitnessScoreManager.html#a408eda4ac04ce367941683f98ef838cb" title="Gets the fitness score value for the algorithms current state" alt="" coords="312,86,567,127"/>
+<area shape="rect" id="node4" href="$classQuantConnect_1_1Lean_1_1Engine_1_1Alphas_1_1DefaultAlphaHandler.html#a187676fcfcdbd19bd271ca34afb09a46" title="Performs processing in sync with the algorithm&#39;s time loop to provide consisten reading of data" alt="" coords="5,79,264,135"/>
+</map>

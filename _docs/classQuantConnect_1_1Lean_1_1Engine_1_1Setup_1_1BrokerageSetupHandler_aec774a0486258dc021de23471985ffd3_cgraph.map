@@ -1,0 +1,6 @@
+<map id="QuantConnect.Lean.Engine.Setup.BrokerageSetupHandler.Dispose" name="QuantConnect.Lean.Engine.Setup.BrokerageSetupHandler.Dispose">
+<area shape="rect" id="node1" title="Performs application&#45;defined tasks associated with freeing, releasing, or resetting unmanaged resourc..." alt="" coords="5,39,277,80"/>
+<area shape="rect" id="node2" href="$interfaceQuantConnect_1_1Interfaces_1_1IBrokerage.html#a731ea9b34c2e2d3322f5d72358f6ba21" title="Disconnects the client from the broker&#39;s remote servers" alt="" coords="332,5,519,47"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Logging_1_1Log.html#a4e55477fbc790846b74550a57198cea9" title="Log trace" alt="" coords="325,71,525,112"/>
+<area shape="rect" id="node4" href="$interfaceQuantConnect_1_1Logging_1_1ILogHandler.html#a3fb71a33ac66129240b63f12b6fcda3b" title="Write debug message to log" alt="" coords="573,71,773,112"/>
+</map>

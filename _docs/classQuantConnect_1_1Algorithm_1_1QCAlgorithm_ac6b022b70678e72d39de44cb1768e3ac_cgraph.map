@@ -1,0 +1,4 @@
+<map id="QuantConnect.Algorithm.QCAlgorithm.ROCP" name="QuantConnect.Algorithm.QCAlgorithm.ROCP">
+<area shape="rect" id="node1" title="Creates a new RateOfChangePercent indicator. This will compute the n&#45;period percentage rate of change..." alt="" coords="5,13,315,39"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Algorithm_1_1QCAlgorithm.html#a46d89a30b7e0513cf7a4ac77f3ca3fe5" title="Creates a new name for an indicator created with the convenience functions (SMA, EMA,..." alt="" coords="363,5,636,47"/>
+</map>

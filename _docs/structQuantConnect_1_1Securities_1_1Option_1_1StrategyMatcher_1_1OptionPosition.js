@@ -1,0 +1,26 @@
+var structQuantConnect_1_1Securities_1_1Option_1_1StrategyMatcher_1_1OptionPosition =
+[
+    [ "OptionPosition", "structQuantConnect_1_1Securities_1_1Option_1_1StrategyMatcher_1_1OptionPosition.html#a9176892195863bf2182eabb3d9941262", null ],
+    [ "Empty", "structQuantConnect_1_1Securities_1_1Option_1_1StrategyMatcher_1_1OptionPosition.html#a66ee39bd985f59ba9bb0822b9b600640", null ],
+    [ "Negate", "structQuantConnect_1_1Securities_1_1Option_1_1StrategyMatcher_1_1OptionPosition.html#ad51fe2a0a6720a620321665eae64cfe8", null ],
+    [ "WithQuantity", "structQuantConnect_1_1Securities_1_1Option_1_1StrategyMatcher_1_1OptionPosition.html#a3ed2e3c59be8319eb2ebccf6f53211cd", null ],
+    [ "Equals", "structQuantConnect_1_1Securities_1_1Option_1_1StrategyMatcher_1_1OptionPosition.html#aa548260191f32555c5e36abe671b59e9", null ],
+    [ "Equals", "structQuantConnect_1_1Securities_1_1Option_1_1StrategyMatcher_1_1OptionPosition.html#a5dba2e04618d232d696b9b8f03f1b292", null ],
+    [ "GetHashCode", "structQuantConnect_1_1Securities_1_1Option_1_1StrategyMatcher_1_1OptionPosition.html#ab9562fdc8ede99d4bee0d6c29a9bccf7", null ],
+    [ "ToString", "structQuantConnect_1_1Securities_1_1Option_1_1StrategyMatcher_1_1OptionPosition.html#a27acd9639da5fee23cdb400d7d39ccba", null ],
+    [ "operator*", "structQuantConnect_1_1Securities_1_1Option_1_1StrategyMatcher_1_1OptionPosition.html#a5a190918138bec41c07d0d0d333e07cd", null ],
+    [ "operator*", "structQuantConnect_1_1Securities_1_1Option_1_1StrategyMatcher_1_1OptionPosition.html#a1f4b447eb359d4e0b7422e7b91400efd", null ],
+    [ "operator+", "structQuantConnect_1_1Securities_1_1Option_1_1StrategyMatcher_1_1OptionPosition.html#ae10b4a81852547d7ecb6a43d7d62729b", null ],
+    [ "operator-", "structQuantConnect_1_1Securities_1_1Option_1_1StrategyMatcher_1_1OptionPosition.html#a1f7b3a652aefa20ea2e854cd5a5937ad", null ],
+    [ "operator==", "structQuantConnect_1_1Securities_1_1Option_1_1StrategyMatcher_1_1OptionPosition.html#a6d682f37b8a52f91d2cf281fa8464c0f", null ],
+    [ "operator!=", "structQuantConnect_1_1Securities_1_1Option_1_1StrategyMatcher_1_1OptionPosition.html#a060de300816c942431e01dc3e3c492aa", null ],
+    [ "HasQuantity", "structQuantConnect_1_1Securities_1_1Option_1_1StrategyMatcher_1_1OptionPosition.html#a5d1d437f76346cea4505f1b66b86758c", null ],
+    [ "IsUnderlying", "structQuantConnect_1_1Securities_1_1Option_1_1StrategyMatcher_1_1OptionPosition.html#abb4893d082e3099f75c4833ab49d83a3", null ],
+    [ "Underlying", "structQuantConnect_1_1Securities_1_1Option_1_1StrategyMatcher_1_1OptionPosition.html#a72f8a6f831ec26ff4e4dfb7b4a9831a5", null ],
+    [ "Side", "structQuantConnect_1_1Securities_1_1Option_1_1StrategyMatcher_1_1OptionPosition.html#a4d60ec403bddd7a44d8d18b522fa315c", null ],
+    [ "Quantity", "structQuantConnect_1_1Securities_1_1Option_1_1StrategyMatcher_1_1OptionPosition.html#a4df2ccdf44851ded02f0ee177acfe1c0", null ],
+    [ "Symbol", "structQuantConnect_1_1Securities_1_1Option_1_1StrategyMatcher_1_1OptionPosition.html#acafc8fdab4c578f5ab614abe768be7e8", null ],
+    [ "Expiration", "structQuantConnect_1_1Securities_1_1Option_1_1StrategyMatcher_1_1OptionPosition.html#a071232ffaa81a3e9b3da1ac2ecde19d3", null ],
+    [ "Strike", "structQuantConnect_1_1Securities_1_1Option_1_1StrategyMatcher_1_1OptionPosition.html#af1a72971202dde888c0538b0545f33df", null ],
+    [ "Right", "structQuantConnect_1_1Securities_1_1Option_1_1StrategyMatcher_1_1OptionPosition.html#a4325e0407c9198ae9602f93d5c99dcf0", null ]
+];

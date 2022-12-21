@@ -1,0 +1,5 @@
+<map id="QuantConnect.ToolBox.IQFeed.HistoryPort" name="QuantConnect.ToolBox.IQFeed.HistoryPort">
+<area shape="rect" id="node1" title=" " alt="" coords="5,155,228,196"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1ToolBox_1_1IQFeed_1_1IQLookupHistorySymbolClient.html" title=" " alt="" coords="9,80,225,107"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1ToolBox_1_1IQFeed_1_1SocketClient.html" title=" " alt="" coords="65,5,168,32"/>
+</map>

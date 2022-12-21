@@ -1,0 +1,9 @@
+<map id="QuantConnect.ToolBox.KrakenDownloader.KrakenDataDownloader.Get" name="QuantConnect.ToolBox.KrakenDownloader.KrakenDataDownloader.Get">
+<area shape="rect" id="node1" title="Get historical data enumerable for a single symbol, type and resolution given this start and end time..." alt="" coords="5,89,288,131"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Time.html#a0b4fec367fb0ce33080eacb62a83336b" title="Convert a Datetime to Unix Timestamp" alt="" coords="336,5,555,47"/>
+<area shape="rect" id="node5" href="$classQuantConnect_1_1Parse.html#aac0a89458d90280d2b3b04afa9e197a2" title="Parses the provided value as a decimal using CultureInfo.InvariantCulture" alt="" coords="340,71,551,98"/>
+<area shape="rect" id="node6" href="$classQuantConnect_1_1Parse.html#a4b0fee1ea1d75266a297e42eaf235539" title="Parses the provided value as a double using CultureInfo.InvariantCulture" alt="" coords="344,122,547,149"/>
+<area shape="rect" id="node7" href="$classQuantConnect_1_1Time.html#a8cfbdb6709b3fff2bcf96207bbd5a718" title="Create a C# DateTime from a UnixTimestamp" alt="" coords="336,173,555,215"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Logging_1_1Log.html#af0e7955911bc7664b37661b2a303a9e3" title="Log error" alt="" coords="603,89,803,131"/>
+<area shape="rect" id="node4" href="$interfaceQuantConnect_1_1Logging_1_1ILogHandler.html#a35373a0c5d76031fa5ccf5dc39e5c25d" title="Write error message to log" alt="" coords="851,89,1051,131"/>
+</map>

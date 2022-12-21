@@ -1,0 +1,4 @@
+<map id="QuantConnect.Data.Fundamental.AccountsReceivableBalanceSheet" name="QuantConnect.Data.Fundamental.AccountsReceivableBalanceSheet">
+<area shape="rect" id="node1" title="Accounts owed to a company by customers within a year as a result of exchanging goods or services on ..." alt="" coords="5,80,248,121"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Data_1_1Fundamental_1_1MultiPeriodField.html" title="Abstract base class for multi&#45;period fields" alt="" coords="63,5,190,32"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="QuantConnect.Securities.CashBook.Add" name="QuantConnect.Securities.CashBook.Add">
+<area shape="rect" id="node1" title="Adds a new cash of the specified symbol and quantity" alt="" coords="320,71,507,112"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Securities_1_1CashBook.html#a323d9abe841cc7135b4cb00ba519e695" title="Add the specified item to this CashBook." alt="" coords="45,5,232,47"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Securities_1_1DelayedSettlementModel.html#a5800114942c1083b74ba92bf8324f5d7" title="Applies cash settlement rules" alt="" coords="5,71,272,112"/>
+<area shape="rect" id="node4" href="$classQuantConnect_1_1Securities_1_1SecurityPortfolioManager.html#a55b863e75dab8682d97486256fe303e0" title="Set the cash for the specified symbol" alt="" coords="17,136,260,177"/>
+</map>

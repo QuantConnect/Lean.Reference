@@ -1,0 +1,7 @@
+<map id="QuantConnect.Lean.Engine.DataFeeds.ApiDataProvider" name="QuantConnect.Lean.Engine.DataFeeds.ApiDataProvider">
+<area shape="rect" id="node1" title="An instance of the IDataProvider that will download and update data files as needed via QC&#39;s Api." alt="" coords="24,229,225,271"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Lean_1_1Engine_1_1DataFeeds_1_1BaseDownloaderDataProvider.html" title="Base downloader implementation with some helper methods" alt="" coords="16,155,233,181"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Lean_1_1Engine_1_1DataFeeds_1_1DefaultDataProvider.html" title="Default file provider functionality that retrieves data from disc to be used in an algorithm" alt="" coords="47,80,202,107"/>
+<area shape="rect" id="node4" href="$interfaceQuantConnect_1_1Interfaces_1_1IDataProvider.html" title="Fetches a remote file for a security. Must save the file to Globals.DataFolder." alt="" coords="5,5,116,32"/>
+<area shape="rect" id="node5" title=" " alt="" coords="141,5,239,32"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="QuantConnect.Securities.Future.Future.SetFilter" name="QuantConnect.Securities.Future.Future.SetFilter">
+<area shape="rect" id="node1" title="Sets the ContractFilter to a new instance of the filter using the specified expiration range values" alt="" coords="240,39,427,80"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Securities_1_1Future_1_1Future.html#aac63737b9742cdbf7f94b9d30642fcf7" title="Constructor for the Future security" alt="" coords="5,5,192,47"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Securities_1_1Future_1_1Future.html#a493fd4bdf0eeda4923cdae566390d41a" title="Sets the ContractFilter to a new instance of the filter using the specified expiration range values" alt="" coords="5,71,192,112"/>
+</map>

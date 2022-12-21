@@ -1,0 +1,8 @@
+<map id="QuantConnect.Securities.FutureOption.FutureOption" name="QuantConnect.Securities.FutureOption.FutureOption">
+<area shape="rect" id="node1" title="Futures Options security" alt="" coords="57,229,252,271"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Securities_1_1Option_1_1Option.html" title="Option Security Object Implementation for Option Assets" alt="" coords="97,155,213,181"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Securities_1_1Security.html" title="A base vehicle properties class for providing a common interface to all assets in QuantConnect." alt="" coords="5,80,80,107"/>
+<area shape="rect" id="node4" href="$interfaceQuantConnect_1_1Interfaces_1_1ISecurityPrice.html" title="Reduced interface which allows setting and accessing price properties for a Security" alt="" coords="43,5,154,32"/>
+<area shape="rect" id="node6" href="$interfaceQuantConnect_1_1Interfaces_1_1IOptionPrice.html" title="Reduced interface for accessing Option specific price properties and methods" alt="" coords="104,80,205,107"/>
+<area shape="rect" id="node5" href="$interfaceQuantConnect_1_1Securities_1_1IDerivativeSecurity.html" title="Defines a security as a derivative of another security" alt="" coords="229,80,376,107"/>
+</map>

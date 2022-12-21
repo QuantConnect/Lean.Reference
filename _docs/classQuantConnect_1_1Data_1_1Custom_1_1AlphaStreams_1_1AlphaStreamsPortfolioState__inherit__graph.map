@@ -1,0 +1,5 @@
+<map id="QuantConnect.Data.Custom.AlphaStreams.AlphaStreamsPortfolioState" name="QuantConnect.Data.Custom.AlphaStreams.AlphaStreamsPortfolioState">
+<area shape="rect" id="node1" title="Snapshot of an algorithms portfolio state" alt="" coords="5,155,303,196"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Data_1_1BaseData.html" title="Abstract base data class of QuantConnect. It is intended to be extended to define generic user custom..." alt="" coords="111,80,197,107"/>
+<area shape="rect" id="node3" href="$interfaceQuantConnect_1_1Data_1_1IBaseData.html" title="Base Data Class: Type, Timestamp, Key – Base Features." alt="" coords="109,5,199,32"/>
+</map>

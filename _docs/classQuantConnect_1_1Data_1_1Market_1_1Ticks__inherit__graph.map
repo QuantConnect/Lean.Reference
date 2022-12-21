@@ -1,0 +1,4 @@
+<map id="QuantConnect.Data.Market.Ticks" name="QuantConnect.Data.Market.Ticks">
+<area shape="rect" id="node1" title="Ticks collection which implements an IDictionary&#45;string&#45;list of ticks. This way users can iterate ove..." alt="" coords="5,95,208,136"/>
+<area shape="rect" id="node2" title=" " alt="" coords="27,5,186,47"/>
+</map>

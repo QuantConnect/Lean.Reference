@@ -1,0 +1,4 @@
+<map id="QuantConnect.Data.Fundamental.InterestExpenseForDepositIncomeStatement" name="QuantConnect.Data.Fundamental.InterestExpenseForDepositIncomeStatement">
+<area shape="rect" id="node1" title="Includes interest expense on the following deposit accounts: Interest&#45;bearing Demand deposit; Checkin..." alt="" coords="5,80,319,121"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Data_1_1Fundamental_1_1MultiPeriodField.html" title="Abstract base class for multi&#45;period fields" alt="" coords="99,5,225,32"/>
+</map>

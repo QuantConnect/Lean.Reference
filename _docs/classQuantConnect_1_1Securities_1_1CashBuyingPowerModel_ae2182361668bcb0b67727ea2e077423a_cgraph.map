@@ -1,0 +1,9 @@
+<map id="QuantConnect.Securities.CashBuyingPowerModel.HasSufficientBuyingPowerForOrder" name="QuantConnect.Securities.CashBuyingPowerModel.HasSufficientBuyingPowerForOrder">
+<area shape="rect" id="node1" title="Check if there is sufficient buying power to execute this order." alt="" coords="5,128,275,184"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Securities_1_1CashBook.html#a3a2cfc4aac92b0740a9bad6c94b42d3b" title="Converts a quantity of source currency units into the specified destination currency" alt="" coords="957,15,1144,57"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Securities_1_1CashBook.html#a439b770734d62b9b60bd06a56fbdbb1c" title="Converts a quantity of source currency units into the account currency" alt="" coords="643,45,909,86"/>
+<area shape="rect" id="node4" href="$classQuantConnect_1_1Securities_1_1CashBuyingPowerModel.html#a3098b5ecbdc50ae031e8d5716f036724" title="Get the maximum market order quantity to obtain a position with a given buying power percentage...." alt="" coords="323,95,595,151"/>
+<area shape="rect" id="node5" href="$interfaceQuantConnect_1_1Orders_1_1Fees_1_1IFeeModel.html#ab0bf50e204c8c07f1d37fd7680f23e59" title="Gets the order fee associated with the specified order." alt="" coords="677,138,875,179"/>
+<area shape="rect" id="node6" href="$classQuantConnect_1_1Securities_1_1HasSufficientBuyingPowerForOrderParameters.html#a94952b6ad33cd9c8fa3d0680661bb3ec" title="Creates a new result indicating that there is insufficient buying power for the contemplated order" alt="" coords="334,225,583,281"/>
+<area shape="rect" id="node7" href="$classQuantConnect_1_1Securities_1_1HasSufficientBuyingPowerForOrderParameters.html#a2b0dea2c9139dfc1d306246ead60b028" title="Creates a new result indicating that there is sufficient buying power for the contemplated order" alt="" coords="334,305,583,361"/>
+</map>

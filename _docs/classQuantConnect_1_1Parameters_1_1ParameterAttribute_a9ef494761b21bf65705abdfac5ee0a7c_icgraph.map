@@ -1,0 +1,4 @@
+<map id="QuantConnect.Parameters.ParameterAttribute.ApplyAttributes" name="QuantConnect.Parameters.ParameterAttribute.ApplyAttributes">
+<area shape="rect" id="node1" title="Uses reflections to inspect the instance for any parameter attributes. If a value is found in the par..." alt="" coords="327,5,577,47"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Algorithm_1_1QCAlgorithm.html#a362b787753575a04c394fbfcb88b0a0f" title="Sets the parameters from the dictionary" alt="" coords="5,5,279,47"/>
+</map>

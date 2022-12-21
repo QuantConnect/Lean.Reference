@@ -1,0 +1,4 @@
+<map id="QuantConnect.Data.Fundamental.FineFundamental.CreateUniverseSymbol" name="QuantConnect.Data.Fundamental.FineFundamental.CreateUniverseSymbol">
+<area shape="rect" id="node1" title="Creates the universe symbol used for fine fundamental data" alt="" coords="5,5,293,47"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1SecurityIdentifier.html#a0c21d7880c9fdd260883d11ea0c99a00" title="Helper overload that will search the mapfiles to resolve the first date. This implementation uses the..." alt="" coords="341,5,573,47"/>
+</map>

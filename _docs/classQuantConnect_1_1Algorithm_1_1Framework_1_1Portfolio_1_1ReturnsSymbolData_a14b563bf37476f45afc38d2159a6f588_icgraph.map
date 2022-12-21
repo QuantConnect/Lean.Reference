@@ -1,0 +1,4 @@
+<map id="QuantConnect.Algorithm.Framework.Portfolio.ReturnsSymbolData.Update" name="QuantConnect.Algorithm.Framework.Portfolio.ReturnsSymbolData.Update">
+<area shape="rect" id="node1" title="Updates the state of the RateOfChange with the given value and returns true if this indicator is read..." alt="" coords="396,13,659,54"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Algorithm_1_1Framework_1_1Portfolio_1_1BlackLittermanOptimizationPortfolioConstructionModel.html#a4910ebe8690da8c745ddb9eb7d885ce6" title="Event fired each time the we add/remove securities from the data feed" alt="" coords="5,5,348,61"/>
+</map>

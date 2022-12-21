@@ -1,0 +1,10 @@
+<map id="QuantConnect.Securities.Positions.PositionManager.CreateDefaultKey" name="QuantConnect.Securities.Positions.PositionManager.CreateDefaultKey">
+<area shape="rect" id="node1" title="Creates a PositionGroupKey for the security&#39;s default position group" alt="" coords="931,125,1171,181"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Securities_1_1Positions_1_1PositionManager.html#a5bc4ec6a7048106a42ec4cd765a626cc" title="Gets or creates the default position group for the specified security" alt="" coords="663,125,883,181"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Securities_1_1DefaultMarginCallModel.html#a8a6b59aac5cae79756d127f9aefdf76f" title="Generates a new order for the specified security taking into account the total margin used by the acc..." alt="" coords="361,5,605,61"/>
+<area shape="rect" id="node5" href="$classQuantConnect_1_1Securities_1_1SecurityPortfolioManager.html#a879d4fd3f94f610f74223f88b265e1e2" title="Gets the margin available for trading a specific symbol in a specific direction." alt="" coords="377,85,590,141"/>
+<area shape="rect" id="node6" href="$classQuantConnect_1_1Securities_1_1SecurityPortfolioManager.html#a7eb96c8a566ea8780edbbad71794af25" title="Logs margin information for debugging" alt="" coords="377,165,590,221"/>
+<area shape="rect" id="node8" href="$classQuantConnect_1_1Algorithm_1_1Framework_1_1Portfolio_1_1PortfolioTarget.html#a411ca9e7e837893cba37cf579b36c31d" title="Creates a new target for the specified percent" alt="" coords="352,246,615,287"/>
+<area shape="rect" id="node4" href="$classQuantConnect_1_1Securities_1_1DefaultMarginCallModel.html#a9009415ee21ef27ddfd58b88bf6e48bf" title="Scan the portfolio and the updated data for a potential margin call situation which may get the holdi..." alt="" coords="29,5,281,61"/>
+<area shape="rect" id="node7" href="$classQuantConnect_1_1Lean_1_1Engine_1_1TransactionHandlers_1_1BrokerageTransactionHandler.html#ad7914edfb9b6e24fcbcd637e2c468cd5" title="Adds the specified order to be processed" alt="" coords="5,165,304,221"/>
+</map>

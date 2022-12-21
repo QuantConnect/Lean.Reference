@@ -1,0 +1,4 @@
+<map id="QuantConnect.Securities.Option.StrategyMatcher.OptionPositionCollection.HasPosition" name="QuantConnect.Securities.Option.StrategyMatcher.OptionPositionCollection.HasPosition">
+<area shape="rect" id="node1" title="Determines if a position is held in the specified symbol" alt="" coords="5,5,228,61"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Securities_1_1Option_1_1StrategyMatcher_1_1OptionPositionCollection.html#aeff79babce8938bf9cbfcc5dcd77514e" title="Retrieves the OptionPosition for the specified symbol &#160;if one exists in this collection." alt="" coords="276,5,513,61"/>
+</map>

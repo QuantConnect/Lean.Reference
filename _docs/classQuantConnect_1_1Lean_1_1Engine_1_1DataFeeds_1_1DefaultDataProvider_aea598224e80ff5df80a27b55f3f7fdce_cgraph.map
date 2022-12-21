@@ -1,0 +1,4 @@
+<map id="QuantConnect.Lean.Engine.DataFeeds.DefaultDataProvider.Fetch" name="QuantConnect.Lean.Engine.DataFeeds.DefaultDataProvider.Fetch">
+<area shape="rect" id="node1" title="Retrieves data from disc to be used in an algorithm" alt="" coords="5,13,272,54"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Lean_1_1Engine_1_1DataFeeds_1_1DefaultDataProvider.html#afe77ba2240996449553827f1061cf0a4" title="Event invocator for the NewDataRequest event" alt="" coords="320,5,551,61"/>
+</map>

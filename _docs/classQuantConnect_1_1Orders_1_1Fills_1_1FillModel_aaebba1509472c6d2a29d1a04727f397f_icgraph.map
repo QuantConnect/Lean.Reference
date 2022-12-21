@@ -1,0 +1,4 @@
+<map id="QuantConnect.Orders.Fills.FillModel.MarketOnCloseFill" name="QuantConnect.Orders.Fills.FillModel.MarketOnCloseFill">
+<area shape="rect" id="node1" title="Market on Close Fill Model. Return an order event with the fill details" alt="" coords="248,5,451,47"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Orders_1_1Fills_1_1FillModel.html#ab2919d2ee3ef2bd42013884458871c85" title="Return an order event with the fill details" alt="" coords="5,5,200,47"/>
+</map>

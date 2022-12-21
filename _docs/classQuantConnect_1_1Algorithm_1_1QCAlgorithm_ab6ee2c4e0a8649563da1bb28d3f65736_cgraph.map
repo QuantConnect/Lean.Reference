@@ -1,0 +1,10 @@
+<map id="QuantConnect.Algorithm.QCAlgorithm.SetBenchmark" name="QuantConnect.Algorithm.QCAlgorithm.SetBenchmark">
+<area shape="rect" id="node1" title="Sets the benchmark used for computing statistics of the algorithm to the specified symbol" alt="" coords="5,61,279,102"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Benchmarks_1_1SecurityBenchmark.html#a40c97e12584a0fc70ffb48f9aead3287" title="Helper function that will create a security with the given SecurityManager for a specific symbol and ..." alt="" coords="327,61,577,102"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Securities_1_1SecurityManager.html#a0aa9a5d066fcba5dfcc7ae10ac22b550" title="Creates a new security" alt="" coords="650,27,881,69"/>
+<area shape="rect" id="node8" href="$classQuantConnect_1_1Benchmarks_1_1SecurityBenchmark.html#a45a12b43bac87b210770258630e56622" title="Initializes a new instance of the SecurityBenchmark class" alt="" coords="625,93,905,134"/>
+<area shape="rect" id="node4" href="$classQuantConnect_1_1Securities_1_1SecurityService.html#af780bf1407ad8952b51a2db9be9ddb55" title="Creates a new security" alt="" coords="953,27,1176,69"/>
+<area shape="rect" id="node5" href="$classQuantConnect_1_1SymbolCache.html#a481bb0c8f2b52aa8f19b509aec5bf91f" title="Adds a mapping for the specified ticker" alt="" coords="1224,5,1456,32"/>
+<area shape="rect" id="node6" href="$classQuantConnect_1_1Securities_1_1Security.html#a63075daed818cf10cda2296e8ecc43ac" title="Set the leverage parameter for this security" alt="" coords="1247,57,1433,98"/>
+<area shape="rect" id="node7" href="$classQuantConnect_1_1Securities_1_1BuyingPowerModel.html#a44ce05fdd67c9c4230e4dfb91cfd5e6b" title="Sets the leverage for the applicable securities, i.e, equities" alt="" coords="1504,57,1736,98"/>
+</map>

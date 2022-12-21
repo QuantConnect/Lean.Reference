@@ -1,0 +1,4 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$classQuantConnect_1_1Lean_1_1Engine_1_1DataFeeds_1_1Enumerators_1_1SynchronizingEnumerator.html" title=" " alt="" coords="5,5,279,61"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Lean_1_1Engine_1_1DataFeeds_1_1Enumerators_1_1SynchronizingBaseDataEnumerator.html" title="Represents an enumerator capable of synchronizing other base data enumerators in time...." alt="" coords="327,5,600,61"/>
+</map>

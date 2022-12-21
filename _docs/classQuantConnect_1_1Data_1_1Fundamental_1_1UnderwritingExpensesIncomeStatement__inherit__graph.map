@@ -1,0 +1,4 @@
+<map id="QuantConnect.Data.Fundamental.UnderwritingExpensesIncomeStatement" name="QuantConnect.Data.Fundamental.UnderwritingExpensesIncomeStatement">
+<area shape="rect" id="node1" title="Also known as Policy Acquisition Costs; and reported by insurance companies. The cost incurred by an ..." alt="" coords="5,80,289,121"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Data_1_1Fundamental_1_1MultiPeriodField.html" title="Abstract base class for multi&#45;period fields" alt="" coords="84,5,211,32"/>
+</map>

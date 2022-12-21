@@ -1,0 +1,4 @@
+<map id="QuantConnect.ToolBox.IdentityTickAggregator" name="QuantConnect.ToolBox.IdentityTickAggregator">
+<area shape="rect" id="node1" title="Use IdentityDataConsolidator&lt;T&gt; to yield ticks unmodified into the consolidated data collection" alt="" coords="5,80,228,121"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1ToolBox_1_1TickAggregator.html" title="Class that uses consolidators to aggregate tick data data" alt="" coords="56,5,177,32"/>
+</map>

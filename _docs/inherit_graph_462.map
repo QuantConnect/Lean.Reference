@@ -1,0 +1,4 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$classQuantConnect_1_1Securities_1_1SecurityEventArgs.html" title="Defines a base class for Security related events" alt="" coords="5,13,192,54"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Securities_1_1SecurityHoldingQuantityChangedEventArgs.html" title="Event arguments for the SecurityHolding.QuantityChanged event. The event data contains the previous q..." alt="" coords="240,5,479,61"/>
+</map>

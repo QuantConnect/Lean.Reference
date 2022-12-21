@@ -1,0 +1,4 @@
+<map id="QuantConnect.Data.Fundamental.CommonStockEquityBalanceSheet" name="QuantConnect.Data.Fundamental.CommonStockEquityBalanceSheet">
+<area shape="rect" id="node1" title="The portion of the Stockholders&#39; Equity that reflects the amount of common stock, which are units of ..." alt="" coords="5,80,252,121"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Data_1_1Fundamental_1_1MultiPeriodField.html" title="Abstract base class for multi&#45;period fields" alt="" coords="65,5,192,32"/>
+</map>

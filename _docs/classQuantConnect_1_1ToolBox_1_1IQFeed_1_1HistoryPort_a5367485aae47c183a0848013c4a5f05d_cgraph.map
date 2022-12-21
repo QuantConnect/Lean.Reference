@@ -1,0 +1,6 @@
+<map id="QuantConnect.ToolBox.IQFeed.HistoryPort.ProcessHistoryRequests" name="QuantConnect.ToolBox.IQFeed.HistoryPort.ProcessHistoryRequests">
+<area shape="rect" id="node1" title="Populate request data" alt="" coords="5,27,261,69"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Symbol.html#a1f3c25223fd9a7b753a4f84ece6469ab" title="Method returns true, if symbol is a derivative canonical symbol" alt="" coords="309,5,556,32"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Logging_1_1Log.html#a4e55477fbc790846b74550a57198cea9" title="Log trace" alt="" coords="333,57,533,98"/>
+<area shape="rect" id="node4" href="$interfaceQuantConnect_1_1Logging_1_1ILogHandler.html#a3fb71a33ac66129240b63f12b6fcda3b" title="Write debug message to log" alt="" coords="604,57,804,98"/>
+</map>

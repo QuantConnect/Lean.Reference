@@ -1,0 +1,4 @@
+<map id="QuantConnect.Data.Fundamental.GoodwillAndOtherIntangibleAssetsBalanceSheet" name="QuantConnect.Data.Fundamental.GoodwillAndOtherIntangibleAssetsBalanceSheet">
+<area shape="rect" id="node1" title="Rights or economic benefits, such as patents and goodwill, that is not physical in nature...." alt="" coords="5,80,253,136"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Data_1_1Fundamental_1_1MultiPeriodField.html" title="Abstract base class for multi&#45;period fields" alt="" coords="66,5,193,32"/>
+</map>

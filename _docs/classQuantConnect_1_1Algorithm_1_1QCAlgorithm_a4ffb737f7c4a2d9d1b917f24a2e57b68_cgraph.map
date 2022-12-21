@@ -1,0 +1,4 @@
+<map id="QuantConnect.Algorithm.QCAlgorithm.Download" name="QuantConnect.Algorithm.QCAlgorithm.Download">
+<area shape="rect" id="node1" title="Downloads the requested resource as a string. The resource to download is specified as a string conta..." alt="" coords="5,5,279,47"/>
+<area shape="rect" id="node2" href="$interfaceQuantConnect_1_1Interfaces_1_1IApi.html#a4ae8cf630ff413e93b06c5ac5169314c" title="Local implementation for downloading data to algorithms" alt="" coords="327,5,513,47"/>
+</map>

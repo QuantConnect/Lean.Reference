@@ -1,0 +1,9 @@
+var classQuantConnect_1_1Data_1_1Fundamental_1_1ProceedsPaymentFederalFundsSoldAndSecuritiesPurchasef7585eae84e15756b6b5315d27ebcf3d =
+[
+    [ "ProceedsPaymentFederalFundsSoldAndSecuritiesPurchasedUnderAgreementToResellCashFlowStatement", "classQuantConnect_1_1Data_1_1Fundamental_1_1ProceedsPaymentFederalFundsSoldAndSecuritiesPurchasef7585eae84e15756b6b5315d27ebcf3d.html#ab6b0c311b8caba1352d4e4e6f87a0ed9", null ],
+    [ "DefaultPeriod", "classQuantConnect_1_1Data_1_1Fundamental_1_1ProceedsPaymentFederalFundsSoldAndSecuritiesPurchasef7585eae84e15756b6b5315d27ebcf3d.html#a9cc1e9eccd74c1a8a51f792503a0dca8", null ],
+    [ "ThreeMonths", "classQuantConnect_1_1Data_1_1Fundamental_1_1ProceedsPaymentFederalFundsSoldAndSecuritiesPurchasef7585eae84e15756b6b5315d27ebcf3d.html#a7df76a5d132c42a401eb037114c0fc9a", null ],
+    [ "SixMonths", "classQuantConnect_1_1Data_1_1Fundamental_1_1ProceedsPaymentFederalFundsSoldAndSecuritiesPurchasef7585eae84e15756b6b5315d27ebcf3d.html#a247c3b4dd07f2fb6d2356923cde18e13", null ],
+    [ "NineMonths", "classQuantConnect_1_1Data_1_1Fundamental_1_1ProceedsPaymentFederalFundsSoldAndSecuritiesPurchasef7585eae84e15756b6b5315d27ebcf3d.html#a943e1b09d766a34d401fc8c7d503969e", null ],
+    [ "TwelveMonths", "classQuantConnect_1_1Data_1_1Fundamental_1_1ProceedsPaymentFederalFundsSoldAndSecuritiesPurchasef7585eae84e15756b6b5315d27ebcf3d.html#a59cfbd823969e470ba6e384a55402c2e", null ]
+];

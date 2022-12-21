@@ -1,0 +1,4 @@
+var interfaceQuantConnect_1_1Algorithm_1_1Framework_1_1Alphas_1_1Analysis_1_1IInsightScoreFunctionProvider =
+[
+    [ "GetScoreFunction", "interfaceQuantConnect_1_1Algorithm_1_1Framework_1_1Alphas_1_1Analysis_1_1IInsightScoreFunctionProvider.html#a3a4a6926839296ad2d20e45e71f508c4", null ]
+];

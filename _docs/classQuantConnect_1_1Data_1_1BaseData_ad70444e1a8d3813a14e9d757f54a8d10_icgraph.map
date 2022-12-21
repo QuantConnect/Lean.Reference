@@ -1,0 +1,7 @@
+<map id="QuantConnect.Data.BaseData.Update" name="QuantConnect.Data.BaseData.Update">
+<area shape="rect" id="node1" title="Update routine to build a bar/tick from a data update." alt="" coords="273,104,493,145"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Data_1_1BaseData.html#a7a42a5043c20dfa99b6af16588c1beed" title="Updates this base data with the new quote ask information" alt="" coords="5,5,225,47"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Data_1_1BaseData.html#add8b7ba672a8002ceb8103ebb12d2884" title="Updates this base data with the new quote bid information" alt="" coords="5,71,225,112"/>
+<area shape="rect" id="node4" href="$classQuantConnect_1_1Data_1_1BaseData.html#a15ddd451f8ab830aab34e707a16a85c1" title="Updates this base data with new quote information" alt="" coords="5,136,225,177"/>
+<area shape="rect" id="node5" href="$classQuantConnect_1_1Data_1_1BaseData.html#a9759d79285c0062149c7dbf5264afc49" title="Updates this base data with a new trade" alt="" coords="5,201,225,243"/>
+</map>

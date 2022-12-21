@@ -1,0 +1,4 @@
+<map id="QuantConnect.Data.Consolidators.PeriodCountConsolidatorBase.AggregateBar" name="QuantConnect.Data.Consolidators.PeriodCountConsolidatorBase.AggregateBar">
+<area shape="rect" id="node1" title="Aggregates the new &#39;data&#39; into the &#39;workingBar&#39;. The &#39;workingBar&#39; will be null following the event fi..." alt="" coords="300,13,608,54"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Data_1_1Consolidators_1_1PeriodCountConsolidatorBase.html#aeff0416a9da67387615725cd16ffefaf" title="Updates this consolidator with the specified data. This method is responsible for raising the DataCon..." alt="" coords="5,5,252,61"/>
+</map>

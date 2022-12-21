@@ -1,0 +1,9 @@
+<map id="QuantConnect.ToolBox.Polygon.PolygonDataQueueHandler.GetHistory" name="QuantConnect.ToolBox.Polygon.PolygonDataQueueHandler.GetHistory">
+<area shape="rect" id="node1" title="Gets the history for the requested securities" alt="" coords="5,53,276,94"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Lean_1_1Engine_1_1HistoricalData_1_1SynchronizingHistoryProvider.html#a103404ede972372c43d2522c3ff179ff" title="Enumerates the subscriptions into slices" alt="" coords="324,5,675,61"/>
+<area shape="rect" id="node4" href="$classQuantConnect_1_1Lean_1_1Engine_1_1HistoricalData_1_1SynchronizingHistoryProvider.html#a409b17176bc2f0a6d2209167f54fec7e" title="Creates a subscription to process the history request" alt="" coords="371,85,628,141"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Lean_1_1Engine_1_1DataFeeds_1_1DataFeedPacket.html#ab5152038a1554b2a0445c67fb8cb4e3f" title="Adds the specified data to this packet" alt="" coords="735,13,963,54"/>
+<area shape="rect" id="node5" href="$classQuantConnect_1_1Lean_1_1Engine_1_1DataFeeds_1_1SubscriptionUtils.html#af00eedac463677884ee685b4359a06fd" title="Creates a new Subscription which will directly consume the provided enumerator" alt="" coords="723,85,975,126"/>
+<area shape="rect" id="node6" href="$classQuantConnect_1_1Securities_1_1SymbolProperties.html#ad148190d1dfce7109d38d3107b7b8fbf" title="Gets a default instance of the SymbolProperties class for the specified quoteCurrency" alt="" coords="743,150,955,191"/>
+<area shape="rect" id="node7" href="$classQuantConnect_1_1Securities_1_1SymbolProperties.html#a484c9f2f6fc4a269beb7b6c88c1907f0" title="Creates an instance of the SymbolProperties class" alt="" coords="1023,150,1279,191"/>
+</map>

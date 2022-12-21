@@ -1,0 +1,4 @@
+var namespaceQuantConnect_1_1Algorithm_1_1Framework_1_1Alphas_1_1Analysis_1_1Functions =
+[
+    [ "BinaryInsightScoreFunction", "classQuantConnect_1_1Algorithm_1_1Framework_1_1Alphas_1_1Analysis_1_1Functions_1_1BinaryInsightScoreFunction.html", "classQuantConnect_1_1Algorithm_1_1Framework_1_1Alphas_1_1Analysis_1_1Functions_1_1BinaryInsightScoreFunction" ]
+];

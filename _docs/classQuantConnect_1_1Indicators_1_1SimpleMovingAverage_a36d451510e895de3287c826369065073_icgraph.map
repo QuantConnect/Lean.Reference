@@ -1,0 +1,4 @@
+<map id="QuantConnect.Indicators.SimpleMovingAverage.Reset" name="QuantConnect.Indicators.SimpleMovingAverage.Reset">
+<area shape="rect" id="node1" title="Resets this indicator to its initial state" alt="" coords="272,5,481,47"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Indicators_1_1RelativeMovingAverage.html#a14b85a1badcbdf01d9cb38d5e99994c8" title="Resets this indicator to its initial state" alt="" coords="5,5,224,47"/>
+</map>

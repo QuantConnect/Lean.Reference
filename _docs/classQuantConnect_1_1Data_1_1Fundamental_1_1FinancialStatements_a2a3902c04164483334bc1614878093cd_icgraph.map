@@ -1,0 +1,5 @@
+<map id="QuantConnect.Data.Fundamental.FinancialStatements.FinancialStatements" name="QuantConnect.Data.Fundamental.FinancialStatements.FinancialStatements">
+<area shape="rect" id="node1" title="Creates an instance of the FinancialStatements class" alt="" coords="344,57,636,98"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Lean_1_1Engine_1_1DataFeeds_1_1UniverseSelection.html#a7e4844c9b81427d9dbbd768efd24abff" title="Applies universe selection the the data feed and algorithm" alt="" coords="23,5,278,61"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Lean_1_1Engine_1_1DataFeeds_1_1Enumerators_1_1Factories_1_1FineFundamentalSubscriptionEnumeratorFactory.html#a7946e720547093167043a528ebe4edeb" title="Creates an enumerator to read the specified request" alt="" coords="5,86,296,157"/>
+</map>

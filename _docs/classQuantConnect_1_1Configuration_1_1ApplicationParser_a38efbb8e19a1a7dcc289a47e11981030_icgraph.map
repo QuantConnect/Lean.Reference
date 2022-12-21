@@ -1,0 +1,7 @@
+<map id="QuantConnect.Configuration.ApplicationParser.Parse" name="QuantConnect.Configuration.ApplicationParser.Parse">
+<area shape="rect" id="node1" title="This function will parse args based on options and will show application name, version,..." alt="" coords="352,104,561,145"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Configuration_1_1OptimizerArgumentParser.html#a970da7407fde1f3aaddf9fd7faa2807c" title="Parse and construct the args" alt="" coords="5,5,304,47"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Configuration_1_1ReportArgumentParser.html#a64ffa20082b3ae136cedf863fd5bc27d" title="Parse and construct the args." alt="" coords="15,71,294,112"/>
+<area shape="rect" id="node4" href="$classQuantConnect_1_1Configuration_1_1ToolboxArgumentParser.html#a7ac3d6e7556aee1379a6be03b545ad74" title="Argument parser contructor" alt="" coords="12,136,297,177"/>
+<area shape="rect" id="node5" href="$classQuantConnect_1_1Configuration_1_1LeanArgumentParser.html#aa1aeda77dcf54e9ea596c778d7fe61e1" title="Argument parser contructor" alt="" coords="21,201,288,243"/>
+</map>

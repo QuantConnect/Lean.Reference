@@ -1,0 +1,10 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$interfaceQuantConnect_1_1Orders_1_1Fills_1_1IFillModel.html" title="Represents a model that simulates order fill events" alt="" coords="5,39,200,80"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Orders_1_1Fills_1_1EquityFillModel.html" title="Provides a base class for all fill models" alt="" coords="248,5,443,47"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Orders_1_1Fills_1_1FillModel.html" title="Provides a base class for all fill models" alt="" coords="248,71,443,112"/>
+<area shape="rect" id="node4" href="$classQuantConnect_1_1Orders_1_1Fills_1_1ImmediateFillModel.html" title="Represents the default fill model used to simulate order fills" alt="" coords="491,37,685,79"/>
+<area shape="rect" id="node8" href="$classQuantConnect_1_1Python_1_1FillModelPythonWrapper.html" title="Wraps a PyObject object that represents a model that simulates order fill events" alt="" coords="495,103,681,144"/>
+<area shape="rect" id="node5" href="$classQuantConnect_1_1Orders_1_1Fills_1_1FutureFillModel.html" title="Represents the fill model used to simulate order fills for futures" alt="" coords="733,5,928,47"/>
+<area shape="rect" id="node7" href="$classQuantConnect_1_1Orders_1_1Fills_1_1LatestPriceFillModel.html" title="This fill model is provided for cases where the trade/quote distinction should be ignored and the fil..." alt="" coords="733,71,928,112"/>
+<area shape="rect" id="node6" href="$classQuantConnect_1_1Orders_1_1Fills_1_1FutureOptionFillModel.html" title="Represents the default fill model used to simulate order fills for future options" alt="" coords="976,5,1171,47"/>
+</map>

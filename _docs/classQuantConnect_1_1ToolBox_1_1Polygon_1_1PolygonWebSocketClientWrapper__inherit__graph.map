@@ -1,0 +1,5 @@
+<map id="QuantConnect.ToolBox.Polygon.PolygonWebSocketClientWrapper" name="QuantConnect.ToolBox.Polygon.PolygonWebSocketClientWrapper">
+<area shape="rect" id="node1" title="WebSocket client wrapper for Polygon.io" alt="" coords="5,155,244,196"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Brokerages_1_1WebSocketClientWrapper.html" title="Wrapper for System.Net.Websockets.ClientWebSocket to enhance testability" alt="" coords="31,80,218,107"/>
+<area shape="rect" id="node3" href="$interfaceQuantConnect_1_1Brokerages_1_1IWebSocket.html" title="Wrapper for WebSocket4Net to enhance testability" alt="" coords="76,5,173,32"/>
+</map>

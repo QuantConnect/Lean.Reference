@@ -1,0 +1,6 @@
+<map id="QuantConnect.Lean.Engine.DataFeeds.Enumerators.LiveAuxiliaryDataEnumerator.TryCreate" name="QuantConnect.Lean.Engine.DataFeeds.Enumerators.LiveAuxiliaryDataEnumerator.TryCreate">
+<area shape="rect" id="node1" title="Helper method to create a new instance. Knows which security types should create one and determines t..." alt="" coords="5,5,272,61"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Lean_1_1Engine_1_1DataFeeds_1_1Enumerators_1_1LiveAuxiliaryDataEnumerator.html#a76f2679360b42b1583c7109758fff625" title="Creates a new instance" alt="" coords="320,5,644,61"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Lean_1_1Engine_1_1DataFeeds_1_1Enumerators_1_1AuxiliaryDataEnumerator.html#a3b993c67a7eb48d17b18dfc36f6e5914" title="Initializes the underlying tradable data event providers" alt="" coords="692,5,932,61"/>
+<area shape="rect" id="node4" href="$interfaceQuantConnect_1_1Lean_1_1Engine_1_1DataFeeds_1_1Enumerators_1_1ITradableDateEventProvider.html#a78c0f016437047bf20f15acbfa45b483" title="Initializes the event provider instance" alt="" coords="980,5,1221,61"/>
+</map>

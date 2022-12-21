@@ -1,0 +1,4 @@
+<map id="QuantConnect.Util.ColorJsonConverter" name="QuantConnect.Util.ColorJsonConverter">
+<area shape="rect" id="node1" title="A JsonConverter implementation that serializes a Color as a string. If Color is empty,..." alt="" coords="5,95,212,136"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Util_1_1TypeChangeJsonConverter.html" title=" " alt="" coords="13,5,205,47"/>
+</map>

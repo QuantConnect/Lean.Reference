@@ -1,0 +1,5 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" title=" " alt="" coords="5,42,95,69"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Util_1_1FuncTextWriter.html" title="Provides an implementation of TextWriter that redirects Write(string) and WriteLine(string)" alt="" coords="155,5,357,47"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1ZipStreamWriter.html" title="Provides an implementation of TextWriter to write to a zip file" alt="" coords="143,71,369,98"/>
+</map>

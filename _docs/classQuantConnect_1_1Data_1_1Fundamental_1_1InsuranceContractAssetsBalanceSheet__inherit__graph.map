@@ -1,0 +1,4 @@
+<map id="QuantConnect.Data.Fundamental.InsuranceContractAssetsBalanceSheet" name="QuantConnect.Data.Fundamental.InsuranceContractAssetsBalanceSheet">
+<area shape="rect" id="node1" title="A contract under which one party (the insurer) accepts significant insurance risk from another party ..." alt="" coords="5,80,277,121"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Data_1_1Fundamental_1_1MultiPeriodField.html" title="Abstract base class for multi&#45;period fields" alt="" coords="78,5,205,32"/>
+</map>

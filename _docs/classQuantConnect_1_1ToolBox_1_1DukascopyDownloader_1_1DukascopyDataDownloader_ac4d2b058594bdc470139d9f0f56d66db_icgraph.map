@@ -1,0 +1,4 @@
+<map id="QuantConnect.ToolBox.DukascopyDownloader.DukascopyDataDownloader.GetSecurityType" name="QuantConnect.ToolBox.DukascopyDownloader.DukascopyDataDownloader.GetSecurityType">
+<area shape="rect" id="node1" title="Gets the security type for the specified symbol" alt="" coords="340,5,627,61"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1ToolBox_1_1DukascopyDownloader_1_1DukascopyDataDownloader.html#a8d122a18e6c27f3b73ae9cb5c784e0eb" title="Checks if downloader can get the data for the symbol" alt="" coords="5,5,292,61"/>
+</map>

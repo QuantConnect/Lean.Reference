@@ -1,0 +1,4 @@
+var classQuantConnect_1_1ToolBox_1_1IVolatilityEquityConverter_1_1IVolatilityEquityConverterProgram =
+[
+    [ "IVolatilityEquityConverter", "classQuantConnect_1_1ToolBox_1_1IVolatilityEquityConverter_1_1IVolatilityEquityConverterProgram.html#adc10f97dd7ed14999bb37bd75bba6928", null ]
+];

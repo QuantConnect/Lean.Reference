@@ -1,0 +1,5 @@
+<map id="QuantConnect.Lean.Engine.DataFeeds.UniverseSelection.SetDataManager" name="QuantConnect.Lean.Engine.DataFeeds.UniverseSelection.SetDataManager">
+<area shape="rect" id="node1" title="Sets the data manager" alt="" coords="5,45,244,101"/>
+<area shape="rect" id="node2" href="$interfaceQuantConnect_1_1Lean_1_1Engine_1_1DataFeeds_1_1IDataFeedSubscriptionManager.html#a5d3bf0c3a3cda192ac4e78da3869cdcc" title="Adds a new Subscription to provide data for the specified security." alt="" coords="292,5,533,61"/>
+<area shape="rect" id="node3" href="$interfaceQuantConnect_1_1Lean_1_1Engine_1_1DataFeeds_1_1IDataFeedSubscriptionManager.html#a4493f7c8b00050ea6c53897497636cdf" title="Removes the Subscription, if it exists" alt="" coords="292,85,533,141"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$classQuantConnect_1_1Data_1_1Consolidators_1_1DataConsolidator.html" title=" " alt="" coords="5,43,252,84"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Data_1_1Consolidators_1_1IdentityDataConsolidator.html" title="Represents the simplest DataConsolidator implementation, one that is defined by a straight pass throu..." alt="" coords="300,5,547,47"/>
+<area shape="rect" id="node4" href="$classQuantConnect_1_1Data_1_1Consolidators_1_1PeriodCountConsolidatorBase.html" title="Provides a base class for consolidators that emit data based on the passing of a period of time or af..." alt="" coords="300,71,547,127"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Data_1_1Consolidators_1_1FilteredIdentityDataConsolidator.html" title="Provides an implementation of IDataConsolidator that preserve the input data unmodified...." alt="" coords="595,5,867,47"/>
+</map>

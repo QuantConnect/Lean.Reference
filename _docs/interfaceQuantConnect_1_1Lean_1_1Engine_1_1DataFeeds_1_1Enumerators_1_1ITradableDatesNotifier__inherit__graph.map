@@ -1,0 +1,4 @@
+<map id="QuantConnect.Lean.Engine.DataFeeds.Enumerators.ITradableDatesNotifier" name="QuantConnect.Lean.Engine.DataFeeds.Enumerators.ITradableDatesNotifier">
+<area shape="rect" id="node1" title="Interface which will provide an event handler who will be fired with each new tradable day" alt="" coords="11,5,252,61"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Lean_1_1Engine_1_1DataFeeds_1_1SubscriptionDataReader.html" title="Subscription data reader is a wrapper on the stream reader class to download, unpack and iterate over..." alt="" coords="5,109,257,151"/>
+</map>

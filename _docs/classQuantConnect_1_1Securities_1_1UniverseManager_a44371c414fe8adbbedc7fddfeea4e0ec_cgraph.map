@@ -1,0 +1,4 @@
+<map id="QuantConnect.Securities.UniverseManager.Add" name="QuantConnect.Securities.UniverseManager.Add">
+<area shape="rect" id="node1" title="Adds an element with the provided key and value to the T:System.Collections.Generic...." alt="" coords="5,13,192,54"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Securities_1_1UniverseManager.html#aa10596cb0fc9f25ebd3ed9c6d0de5d4b" title="Event invocator for the CollectionChanged event" alt="" coords="240,5,463,61"/>
+</map>

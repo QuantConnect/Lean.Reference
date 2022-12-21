@@ -1,0 +1,4 @@
+<map id="QuantConnect.Lean.Engine.DataFeeds.Enumerators.Factories.LiveCustomDataSubscriptionEnumeratorFactory.CreateEnumerator" name="QuantConnect.Lean.Engine.DataFeeds.Enumerators.Factories.LiveCustomDataSubscriptionEnumeratorFactory.CreateEnumerator">
+<area shape="rect" id="node1" title="Creates an enumerator to read the specified request." alt="" coords="5,5,292,76"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Data_1_1UniverseSelection_1_1BaseDataCollection.html#a720df24719f562e7fbf18c0544cb1797" title="Returns an IEnumerator for this enumerable Object. The enumerator provides a simple way to access all..." alt="" coords="340,13,581,69"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="QuantConnect.Algorithm.QCAlgorithm.GetLastKnownPrices" name="QuantConnect.Algorithm.QCAlgorithm.GetLastKnownPrices">
+<area shape="rect" id="node1" title="Yields data to warmup a security for all it&#39;s subscribed data types" alt="" coords="327,5,600,47"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Algorithm_1_1QCAlgorithm.html#af1473762247e5265ec2ccbf43c50fc71" title="Get the last known price using the history provider. Useful for seeding securities with the correct p..." alt="" coords="5,5,279,47"/>
+</map>

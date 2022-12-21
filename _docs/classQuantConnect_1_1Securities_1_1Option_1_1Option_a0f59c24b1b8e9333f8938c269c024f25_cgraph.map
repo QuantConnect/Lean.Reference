@@ -1,0 +1,4 @@
+<map id="QuantConnect.Securities.Option.Option.SetFilter" name="QuantConnect.Securities.Option.Option.SetFilter">
+<area shape="rect" id="node1" title="Sets the ContractFilter to a new instance of the filter using the specified min and max strike and ex..." alt="" coords="5,5,192,47"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Securities_1_1Option_1_1Option.html#a4c0270c61d7201a975424f227f8a85f5" title="Sets the ContractFilter to a new instance of the filter using the specified min and max strike values..." alt="" coords="240,5,427,47"/>
+</map>

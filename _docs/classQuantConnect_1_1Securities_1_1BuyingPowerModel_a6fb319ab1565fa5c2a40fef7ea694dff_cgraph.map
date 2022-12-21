@@ -1,0 +1,4 @@
+<map id="QuantConnect.Securities.BuyingPowerModel.GetAmountToOrder" name="QuantConnect.Securities.BuyingPowerModel.GetAmountToOrder">
+<area shape="rect" id="node1" title="Helper function that determines the amount to order to get to a given target safely...." alt="" coords="5,13,280,54"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Securities_1_1BuyingPowerModel.html#a662d7e6905d1818ee738b142a05399af" title="The margin that must be held in order to increase the position by the provided quantity" alt="" coords="328,5,584,61"/>
+</map>

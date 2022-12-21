@@ -1,0 +1,4 @@
+<map id="QuantConnect.Util.CurrencyPairUtil.TryDecomposeCurrencyPair" name="QuantConnect.Util.CurrencyPairUtil.TryDecomposeCurrencyPair">
+<area shape="rect" id="node1" title="Tries to decomposes the specified currency pair into a base and quote currency provided as out parame..." alt="" coords="256,5,507,47"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Util_1_1CurrencyPairUtil.html#a945ca4091d51a13c43e584d3af4eff21" title="Returns how two currency pairs are related to each other" alt="" coords="5,5,208,47"/>
+</map>

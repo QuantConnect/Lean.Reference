@@ -1,0 +1,4 @@
+<map id="QuantConnect.Securities.Positions.OptionStrategyPositionGroupResolver" name="QuantConnect.Securities.Positions.OptionStrategyPositionGroupResolver">
+<area shape="rect" id="node1" title="Class in charge of resolving option strategy groups which will use the OptionStrategyPositionGroupBuy..." alt="" coords="5,80,240,136"/>
+<area shape="rect" id="node2" href="$interfaceQuantConnect_1_1Securities_1_1Positions_1_1IPositionGroupResolver.html" title="Resolves position groups from a collection of positions." alt="" coords="35,5,210,32"/>
+</map>

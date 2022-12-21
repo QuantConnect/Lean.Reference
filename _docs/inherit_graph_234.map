@@ -1,0 +1,11 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$interfaceQuantConnect_1_1Lean_1_1Engine_1_1DataFeeds_1_1ISubscriptionSynchronizer.html" title="Provides the ability to synchronize subscriptions into time slices" alt="" coords="5,5,268,47"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Lean_1_1Engine_1_1DataFeeds_1_1SubscriptionSynchronizer.html" title="Provides the ability to synchronize subscriptions into time slices" alt="" coords="316,5,575,47"/>
+<area shape="rect" id="node3" href="$interfaceQuantConnect_1_1ITimeProvider.html" title="Provides access to the current time in UTC. This doesn&#39;t necessarily need to be wall&#45;clock time,..." alt="" coords="32,209,241,235"/>
+<area shape="rect" id="node4" href="$classQuantConnect_1_1Lean_1_1Engine_1_1DataFeeds_1_1CompositeTimeProvider.html" title="The composite time provider will source it&#39;s current time using the smallest time from the given prov..." alt="" coords="319,71,571,112"/>
+<area shape="rect" id="node5" href="$classQuantConnect_1_1Lean_1_1Engine_1_1DataFeeds_1_1LiveTimeProvider.html" title="Live time provide which supports an initial warmup period using the given time provider SubscriptionF..." alt="" coords="341,136,550,177"/>
+<area shape="rect" id="node6" href="$classQuantConnect_1_1Lean_1_1Engine_1_1DataFeeds_1_1ManualTimeProvider.html" title="Provides an implementation of ITimeProvider that can be manually advanced through time" alt="" coords="330,201,561,243"/>
+<area shape="rect" id="node7" href="$classQuantConnect_1_1Lean_1_1Engine_1_1DataFeeds_1_1PredicateTimeProvider.html" title="Will generate time steps around the desired ITimeProvider Provided step evaluator should return true ..." alt="" coords="324,267,567,308"/>
+<area shape="rect" id="node8" href="$classQuantConnect_1_1Lean_1_1Engine_1_1DataFeeds_1_1SubscriptionFrontierTimeProvider.html" title="A time provider which updates &#39;now&#39; time based on the current data emit time of all subscriptions" alt="" coords="333,333,558,389"/>
+<area shape="rect" id="node9" href="$classQuantConnect_1_1RealTimeProvider.html" title="Provides an implementation of ITimeProvider that uses DateTime.UtcNow to provide the current time" alt="" coords="328,413,563,439"/>
+</map>

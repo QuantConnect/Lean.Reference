@@ -1,0 +1,6 @@
+<map id="QuantConnect.Data.UniverseSelection.FuncUniverse&lt; T &gt;" name="QuantConnect.Data.UniverseSelection.FuncUniverse&lt; T &gt;">
+<area shape="rect" id="node1" title="Provides a functional implementation of Universe" alt="" coords="5,155,217,196"/>
+<area shape="rect" id="node4" href="$classQuantConnect_1_1Data_1_1UniverseSelection_1_1ConstituentsUniverse.html" title="ConstituentsUniverse allows to perform universe selection based on an already preselected set of Symb..." alt="" coords="7,244,215,300"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Data_1_1UniverseSelection_1_1Universe.html" title="Provides a base class for all universes to derive from." alt="" coords="71,80,151,107"/>
+<area shape="rect" id="node3" title=" " alt="" coords="62,5,161,32"/>
+</map>

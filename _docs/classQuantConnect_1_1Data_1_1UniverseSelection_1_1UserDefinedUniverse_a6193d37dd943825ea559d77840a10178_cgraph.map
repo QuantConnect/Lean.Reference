@@ -1,0 +1,4 @@
+<map id="QuantConnect.Data.UniverseSelection.UserDefinedUniverse.GetTriggerTimes" name="QuantConnect.Data.UniverseSelection.UserDefinedUniverse.GetTriggerTimes">
+<area shape="rect" id="node1" title="Returns an enumerator that defines when this user defined universe will be invoked" alt="" coords="5,5,233,61"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Securities_1_1MarketHoursDatabase.html#ab10d5242b6fcbe4d9f7aacd800e0efea" title="Convenience method for retrieving exchange hours from market hours database using a subscription conf..." alt="" coords="281,13,576,54"/>
+</map>

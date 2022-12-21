@@ -1,0 +1,4 @@
+<map id="QuantConnect.Exceptions.ScheduledEventExceptionInterpreter" name="QuantConnect.Exceptions.ScheduledEventExceptionInterpreter">
+<area shape="rect" id="node1" title="Interprets ScheduledEventException instances" alt="" coords="5,80,264,121"/>
+<area shape="rect" id="node2" href="$interfaceQuantConnect_1_1Exceptions_1_1IExceptionInterpreter.html" title="Defines an exception interpreter. Interpretations are invoked on IAlgorithm.RunTimeError" alt="" coords="55,5,214,32"/>
+</map>

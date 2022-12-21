@@ -1,0 +1,5 @@
+<map id="QuantConnect.Util.ExpressionBuilder.MakePropertyOrFieldSelector" name="QuantConnect.Util.ExpressionBuilder.MakePropertyOrFieldSelector">
+<area shape="rect" id="node1" title="Constructs a selector of the form: x =&gt; x.propertyOrField where x is an instance of &#39;type&#39;" alt="" coords="313,43,573,84"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Data_1_1SliceExtensions.html#adae94cbd5cde53d877e398e3c80495e7" title="Gets an enumerable of decimals by accessing the specified field on data for the symbol" alt="" coords="6,5,265,47"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Util_1_1ExpressionBuilder.html#a80ccd7cdb00af87166be95a261bfe311" title="Constructs a selector of the form: x =&gt; x.propertyOrField where x is an instance of &#39;type&#39;" alt="" coords="5,71,265,127"/>
+</map>

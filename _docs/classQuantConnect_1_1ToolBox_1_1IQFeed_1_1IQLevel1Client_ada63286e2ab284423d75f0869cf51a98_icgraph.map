@@ -1,0 +1,5 @@
+<map id="QuantConnect.ToolBox.IQFeed.IQLevel1Client.Subscribe" name="QuantConnect.ToolBox.IQFeed.IQLevel1Client.Subscribe">
+<area shape="rect" id="node1" title="Add this symbol to our subscription list." alt="" coords="311,50,533,91"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1ToolBox_1_1IQFeed_1_1IQFeedDataQueueUniverseProvider_1_1SymbolFundamentalData.html#a122633be274da8ca3a684b72fd5ca447" title="Method returns two fields of the fundamental data that we need: expiration date (tuple field 1),..." alt="" coords="7,5,261,61"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1ToolBox_1_1IQFeed_1_1IQFeedDataQueueHandler.html#ad35120e03997310b068d3eef45c5d390" title="Adds the specified symbols to the subscription: new IQLevel1WatchItem(&quot;IBM&quot;, true)" alt="" coords="5,86,263,127"/>
+</map>

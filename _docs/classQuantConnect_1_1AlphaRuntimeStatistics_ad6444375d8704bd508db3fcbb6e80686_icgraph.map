@@ -1,0 +1,4 @@
+<map id="QuantConnect.AlphaRuntimeStatistics.ToDictionary" name="QuantConnect.AlphaRuntimeStatistics.ToDictionary">
+<area shape="rect" id="node1" title="Creates a dictionary containing the statistics" alt="" coords="295,13,505,54"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Lean_1_1Engine_1_1Results_1_1RegressionResultHandler.html#ab4dba773a0e7cc36c8f0e25d4129412f" title="Perform daily logging of the alpha runtime statistics" alt="" coords="5,5,247,61"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="QuantConnect.Algorithm.QCAlgorithm.OnFrameworkData" name="QuantConnect.Algorithm.QCAlgorithm.OnFrameworkData">
+<area shape="rect" id="node1" title="Used to send data updates to algorithm framework models" alt="" coords="5,123,279,165"/>
+<area shape="rect" id="node2" href="$interfaceQuantConnect_1_1Algorithm_1_1Framework_1_1Selection_1_1IUniverseSelectionModel.html#a06a427bb2e736a7ff364c978f2694246" title="Creates the universes for this algorithm. Called once after IAlgorithm.Initialize" alt="" coords="327,5,621,61"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Data_1_1UniverseSelection_1_1Universe.html#a4d532fbecdf9760efaac48f454c14de3" title="Marks this universe as disposed and ready to remove all child subscriptions" alt="" coords="369,86,579,127"/>
+<area shape="rect" id="node4" href="$interfaceQuantConnect_1_1Algorithm_1_1Framework_1_1Selection_1_1IUniverseSelectionModel.html#a14a96ff5037539e6e1ce7b319959a83a" title="Gets the next time the framework should invoke the CreateUniverses method to refresh the set of unive..." alt="" coords="337,152,611,208"/>
+<area shape="rect" id="node5" href="$interfaceQuantConnect_1_1Algorithm_1_1Framework_1_1Alphas_1_1IAlphaModel.html#a936c3ea84bb786f0b089d8939cf50b9f" title="Updates this alpha model with the latest data from the algorithm. This is called each time the algori..." alt="" coords="343,233,605,274"/>
+</map>

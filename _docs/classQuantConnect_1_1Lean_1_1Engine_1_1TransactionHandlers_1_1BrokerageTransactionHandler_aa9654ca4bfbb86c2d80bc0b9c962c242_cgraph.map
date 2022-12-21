@@ -1,0 +1,4 @@
+<map id="QuantConnect.Lean.Engine.TransactionHandlers.BrokerageTransactionHandler.RoundOrderPrices" name="QuantConnect.Lean.Engine.TransactionHandlers.BrokerageTransactionHandler.RoundOrderPrices">
+<area shape="rect" id="node1" title="Rounds the order prices to its security minimum price variation." alt="" coords="5,5,304,61"/>
+<area shape="rect" id="node2" href="$interfaceQuantConnect_1_1Securities_1_1IPriceVariationModel.html#af4bd73bf6adf35c303cdbb514019d407" title="Get the minimum price variation from a security" alt="" coords="352,5,597,61"/>
+</map>

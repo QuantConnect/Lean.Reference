@@ -1,0 +1,5 @@
+<map id="QuantConnect.Indicators.RollingWindow.Add" name="QuantConnect.Indicators.RollingWindow.Add">
+<area shape="rect" id="node1" title="Adds an item to this window and shifts all other elements" alt="" coords="320,43,507,84"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Indicators_1_1Beta.html#a3f9c830ae3b8a37d4ae4ee8b90d3faaa" title="Computes the next value for this indicator from the given state." alt="" coords="45,5,232,47"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Securities_1_1StandardDeviationOfReturnsVolatilityModel.html#a79b3aad6d8efc57dccbad7627d6e1f0f" title="Updates this model using the new price information in the specified security instance" alt="" coords="5,71,272,127"/>
+</map>

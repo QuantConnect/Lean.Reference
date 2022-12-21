@@ -1,0 +1,6 @@
+<map id="QuantConnect.Securities.Option.StrategyMatcher.OptionStrategyMatcher.MatchOnce" name="QuantConnect.Securities.Option.StrategyMatcher.OptionStrategyMatcher.MatchOnce">
+<area shape="rect" id="node1" title="Using the definitions provided in Options, attempts to match all positions . The resulting OptionStra..." alt="" coords="5,45,228,101"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Securities_1_1Option_1_1StrategyMatcher_1_1OptionPositionCollection.html#a06fa8f3ac9c5dd1bf10cb298b4f8b9d5" title="Creates a new collection that is the result of adding the specified position &#160;to this collection." alt="" coords="300,5,523,61"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Securities_1_1Option_1_1StrategyMatcher_1_1OptionStrategyDefinitionMatch.html#a462696b15f8917ac8187de03d5a89e69" title="Deducts the matched positions from the specified positions &#160;taking into account the multiplier" alt="" coords="276,85,547,141"/>
+<area shape="rect" id="node4" href="$classQuantConnect_1_1Securities_1_1Option_1_1StrategyMatcher_1_1OptionPositionCollection.html#a77bb3dfa80d0c3dae876401793e42f49" title="Creates a new collection that is the result of removing the specified positions" alt="" coords="595,85,833,141"/>
+</map>

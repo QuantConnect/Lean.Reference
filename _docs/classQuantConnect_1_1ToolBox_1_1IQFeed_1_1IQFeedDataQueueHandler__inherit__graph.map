@@ -1,0 +1,9 @@
+<map id="QuantConnect.ToolBox.IQFeed.IQFeedDataQueueHandler" name="QuantConnect.ToolBox.IQFeed.IQFeedDataQueueHandler">
+<area shape="rect" id="node1" title="IQFeedDataQueueHandler is an implementation of IDataQueueHandler and IHistoryProvider" alt="" coords="149,229,371,271"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Data_1_1HistoryProviderBase.html" title="Provides a base type for all history providers" alt="" coords="5,155,160,181"/>
+<area shape="rect" id="node3" href="$interfaceQuantConnect_1_1Interfaces_1_1IHistoryProvider.html" title="Provides historical data to an algorithm at runtime" alt="" coords="19,80,146,107"/>
+<area shape="rect" id="node4" href="$interfaceQuantConnect_1_1Interfaces_1_1IDataProviderEvents.html" title="Events related to data providers" alt="" coords="5,5,160,32"/>
+<area shape="rect" id="node5" href="$interfaceQuantConnect_1_1Interfaces_1_1IDataQueueHandler.html" title="Task requestor interface with cloud system" alt="" coords="185,155,335,181"/>
+<area shape="rect" id="node6" title=" " alt="" coords="211,80,309,107"/>
+<area shape="rect" id="node7" href="$interfaceQuantConnect_1_1Interfaces_1_1IDataQueueUniverseProvider.html" title="This interface allows interested parties to lookup or enumerate the available symbols...." alt="" coords="360,155,571,181"/>
+</map>

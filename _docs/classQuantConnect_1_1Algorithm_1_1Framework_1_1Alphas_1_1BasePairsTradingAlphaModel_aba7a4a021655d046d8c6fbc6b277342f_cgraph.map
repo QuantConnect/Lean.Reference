@@ -1,0 +1,5 @@
+<map id="QuantConnect.Algorithm.Framework.Alphas.BasePairsTradingAlphaModel.OnSecuritiesChanged" name="QuantConnect.Algorithm.Framework.Alphas.BasePairsTradingAlphaModel.OnSecuritiesChanged">
+<area shape="rect" id="node1" title="Event fired each time the we add/remove securities from the data feed" alt="" coords="5,5,284,61"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Algorithm_1_1Framework_1_1NotifiedSecurityChanges.html#a6b6766b327278d4264e6305cad32d189" title="Adds and removes the security changes to/from the collection" alt="" coords="332,13,631,54"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Algorithm_1_1Framework_1_1NotifiedSecurityChanges.html#a6f57a510560088d88b7b153bfca9f464" title="Invokes the provided add &#160;and remove &#160;functions for each" alt="" coords="679,13,941,54"/>
+</map>

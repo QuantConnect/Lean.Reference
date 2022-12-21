@@ -1,0 +1,5 @@
+<map id="QuantConnect.Securities.SecurityExchange.SetLocalDateTimeFrontier" name="QuantConnect.Securities.SecurityExchange.SetLocalDateTimeFrontier">
+<area shape="rect" id="node1" title="Set the current datetime in terms of the exchange&#39;s local time zone" alt="" coords="672,5,900,61"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Brokerages_1_1TradierBrokerageModel.html#a16fcd860e1d830e23658480625c26c2e" title="Returns true if the brokerage would be able to execute this order at this time assuming market prices..." alt="" coords="336,13,624,54"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Brokerages_1_1TradierBrokerageModel.html#a5cafb36dfeec2e93a72842cc12ee9ec3" title="Returns true if the brokerage could accept this order. This takes into account order type,..." alt="" coords="5,13,288,54"/>
+</map>

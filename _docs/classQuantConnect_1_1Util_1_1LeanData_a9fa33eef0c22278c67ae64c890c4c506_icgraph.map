@@ -1,0 +1,5 @@
+<map id="QuantConnect.Util.LeanData.AggregateTicks" name="QuantConnect.Util.LeanData.AggregateTicks">
+<area shape="rect" id="node1" title="Aggregates a list of ticks at the requested resolution" alt="" coords="364,50,575,91"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1ToolBox_1_1DukascopyDownloader_1_1DukascopyDownloaderProgram.html#a25a38e5241b8c5b76db95d31f76bda8e" title="Primary entry point to the program" alt="" coords="5,5,316,61"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1ToolBox_1_1DukascopyDownloader_1_1DukascopyDataDownloader.html#a7e2d13c3d5e516f6e0609d9fb5183689" title="Get historical data enumerable for a single symbol, type and resolution given this start and end time..." alt="" coords="6,86,315,127"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$interfaceQuantConnect_1_1Securities_1_1Option_1_1IQLDividendYieldEstimator.html" title="Defines QuantLib dividend yield estimator for option pricing model. User may define his own estimator..." alt="" coords="5,13,248,54"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Securities_1_1Option_1_1ConstantQLDividendYieldEstimator.html" title="Class implements default flat dividend yield curve estimator, implementing IQLDividendYieldEstimator." alt="" coords="296,5,531,61"/>
+</map>

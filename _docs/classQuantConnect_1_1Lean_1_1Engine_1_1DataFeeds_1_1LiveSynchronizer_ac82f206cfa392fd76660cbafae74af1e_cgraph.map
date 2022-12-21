@@ -1,0 +1,7 @@
+<map id="QuantConnect.Lean.Engine.DataFeeds.LiveSynchronizer.Initialize" name="QuantConnect.Lean.Engine.DataFeeds.LiveSynchronizer.Initialize">
+<area shape="rect" id="node1" title="Initializes the instance of the Synchronizer class" alt="" coords="5,93,271,134"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Lean_1_1Engine_1_1DataFeeds_1_1LiveSynchronizer.html#af54f207ee487131e2d4563c295e3f061" title="Gets the ITimeProvider to use. By default this will load the RealTimeProvider for live mode,..." alt="" coords="356,5,588,61"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Lean_1_1Engine_1_1DataFeeds_1_1LiveSynchronizer.html#a068b9b4aed5367333ed603814195bc1d" title="Trigger new data event" alt="" coords="319,85,625,141"/>
+<area shape="rect" id="node4" href="$classQuantConnect_1_1Lean_1_1Engine_1_1DataFeeds_1_1SubscriptionSynchronizer.html#aeefd2ea9ca7e83b20de07dce26270883" title="Sets the time provider. If already set will throw." alt="" coords="341,165,603,221"/>
+<area shape="rect" id="node5" href="$interfaceQuantConnect_1_1ITimeProvider.html#ae51737f869d879dfbb297496e4feb036" title="Gets the current time in UTC" alt="" coords="673,173,885,214"/>
+</map>

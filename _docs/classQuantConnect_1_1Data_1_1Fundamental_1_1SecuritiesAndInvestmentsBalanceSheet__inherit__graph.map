@@ -1,0 +1,4 @@
+<map id="QuantConnect.Data.Fundamental.SecuritiesAndInvestmentsBalanceSheet" name="QuantConnect.Data.Fundamental.SecuritiesAndInvestmentsBalanceSheet">
+<area shape="rect" id="node1" title="Asset, often applicable to Banks, which refers to the aggregate amount of all securities and investme..." alt="" coords="5,80,287,121"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Data_1_1Fundamental_1_1MultiPeriodField.html" title="Abstract base class for multi&#45;period fields" alt="" coords="83,5,209,32"/>
+</map>

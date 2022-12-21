@@ -1,0 +1,4 @@
+<map id="QuantConnect.Data.Fundamental.CurrentDeferredAssetsBalanceSheet" name="QuantConnect.Data.Fundamental.CurrentDeferredAssetsBalanceSheet">
+<area shape="rect" id="node1" title="Payments that will be assigned as expenses with one accounting period, but that are paid in advance a..." alt="" coords="5,80,264,121"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Data_1_1Fundamental_1_1MultiPeriodField.html" title="Abstract base class for multi&#45;period fields" alt="" coords="71,5,198,32"/>
+</map>

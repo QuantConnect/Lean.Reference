@@ -1,0 +1,4 @@
+<map id="QuantConnect.Algorithm.Framework.Portfolio.PortfolioConstructionModel.OnSecuritiesChanged" name="QuantConnect.Algorithm.Framework.Portfolio.PortfolioConstructionModel.OnSecuritiesChanged">
+<area shape="rect" id="node1" title="Event fired each time the we add/remove securities from the data feed" alt="" coords="5,5,268,61"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Algorithm_1_1Framework_1_1Alphas_1_1InsightCollection.html#ac4ca0f4d67d1011be71063bd23d3ccb2" title="Removes all items from the T:System.Collections.Generic.ICollection`1." alt="" coords="316,13,579,54"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="QuantConnect.Benchmarks.FuncBenchmark" name="QuantConnect.Benchmarks.FuncBenchmark">
+<area shape="rect" id="node1" title="Creates a benchmark defined by a function" alt="" coords="5,80,208,121"/>
+<area shape="rect" id="node2" href="$interfaceQuantConnect_1_1Benchmarks_1_1IBenchmark.html" title="Specifies how to compute a benchmark for an algorithm" alt="" coords="57,5,157,32"/>
+</map>

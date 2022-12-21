@@ -1,0 +1,4 @@
+<map id="QuantConnect.ToolBox.DukascopyDownloader.DukascopyDataDownloader.Get" name="QuantConnect.ToolBox.DukascopyDownloader.DukascopyDataDownloader.Get">
+<area shape="rect" id="node1" title="Get historical data enumerable for a single symbol, type and resolution given this start and end time..." alt="" coords="5,5,315,47"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Util_1_1LeanData.html#a9fa33eef0c22278c67ae64c890c4c506" title="Aggregates a list of ticks at the requested resolution" alt="" coords="363,5,573,47"/>
+</map>

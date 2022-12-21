@@ -1,0 +1,4 @@
+<map id="QuantConnect.Algorithm.Framework.Alphas.Analysis.SecurityValues.Get" name="QuantConnect.Algorithm.Framework.Alphas.Analysis.SecurityValues.Get">
+<area shape="rect" id="node1" title="Gets the security value corresponding to the specified insight type" alt="" coords="335,13,597,54"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Algorithm_1_1Framework_1_1Alphas_1_1Analysis_1_1Functions_1_1BinaryInsightScoreFunction.html#a0f65f894022fe223126fbcb9f143a1f8" title="Evaluates the score of the insight within the context" alt="" coords="5,5,287,61"/>
+</map>

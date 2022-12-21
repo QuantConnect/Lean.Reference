@@ -1,0 +1,12 @@
+<map id="QuantConnect.Lean.Engine.DataFeeds.Enumerators.Factories.BaseDataCollectionSubscriptionEnumeratorFactory.CreateEnumerator" name="QuantConnect.Lean.Engine.DataFeeds.Enumerators.Factories.BaseDataCollectionSubscriptionEnumeratorFactory.CreateEnumerator">
+<area shape="rect" id="node1" title="Creates an enumerator to read the specified request" alt="" coords="5,121,312,192"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Lean_1_1Engine_1_1DataFeeds_1_1SubscriptionDataSourceReader.html#a064d2a6890537b5bb51074b9063f24b3" title="Creates a new ISubscriptionDataSourceReader capable of handling the specified source" alt="" coords="362,55,613,111"/>
+<area shape="rect" id="node6" href="$classQuantConnect_1_1Time.html#a4ddb0f529e1af3d182ea19aaf12a4ae7" title="Determines the start time required to produce the requested number of bars and the given size" alt="" coords="383,136,592,177"/>
+<area shape="rect" id="node10" href="$interfaceQuantConnect_1_1Lean_1_1Engine_1_1DataFeeds_1_1ISubscriptionDataSourceReader.html#a42f973ca89a046a7032e3817424c3097" title="Reads the specified source" alt="" coords="360,202,615,258"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Logging_1_1Log.html#af0e7955911bc7664b37661b2a303a9e3" title="Log error" alt="" coords="675,5,875,47"/>
+<area shape="rect" id="node5" href="$classQuantConnect_1_1Data_1_1BaseData.html#acae87f280cdb0e488c01a0a7fcce912e" title="Indicates that the data set is expected to be sparse" alt="" coords="665,71,885,112"/>
+<area shape="rect" id="node4" href="$interfaceQuantConnect_1_1Logging_1_1ILogHandler.html#a35373a0c5d76031fa5ccf5dc39e5c25d" title="Write error message to log" alt="" coords="979,5,1179,47"/>
+<area shape="rect" id="node7" href="$classQuantConnect_1_1Securities_1_1SecurityExchangeHours.html#ad680493077edb2267e639615b3c672a7" title="Determines if the exchange is open at the specified local date time." alt="" coords="663,136,888,177"/>
+<area shape="rect" id="node8" href="$classQuantConnect_1_1Securities_1_1SecurityExchangeHours.html#a106e2dd187ab76452e14ac6a28f929aa" title="Helper to access the market hours field based on the day of week" alt="" coords="936,103,1223,144"/>
+<area shape="rect" id="node9" href="$classQuantConnect_1_1Securities_1_1LocalMarketHours.html#a8a898ad9f8fa0c41f4a04b8dfc513777" title="Determines if the exchange is open at the specified time" alt="" coords="985,168,1173,209"/>
+</map>

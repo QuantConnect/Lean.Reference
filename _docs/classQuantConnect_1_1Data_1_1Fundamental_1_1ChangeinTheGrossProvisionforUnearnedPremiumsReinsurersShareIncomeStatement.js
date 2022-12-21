@@ -1,0 +1,9 @@
+var classQuantConnect_1_1Data_1_1Fundamental_1_1ChangeinTheGrossProvisionforUnearnedPremiumsReinsurersShareIncomeStatement =
+[
+    [ "ChangeinTheGrossProvisionforUnearnedPremiumsReinsurersShareIncomeStatement", "classQuantConnect_1_1Data_1_1Fundamental_1_1ChangeinTheGrossProvisionforUnearnedPremiumsReinsurersShareIncomeStatement.html#a3cb657ed4a34f4fc62f018bc341a5dc0", null ],
+    [ "DefaultPeriod", "classQuantConnect_1_1Data_1_1Fundamental_1_1ChangeinTheGrossProvisionforUnearnedPremiumsReinsurersShareIncomeStatement.html#a61618bcca2120eefe38d5c670c17e567", null ],
+    [ "ThreeMonths", "classQuantConnect_1_1Data_1_1Fundamental_1_1ChangeinTheGrossProvisionforUnearnedPremiumsReinsurersShareIncomeStatement.html#a715b9349d6bed1712350a3f0d9d280c4", null ],
+    [ "SixMonths", "classQuantConnect_1_1Data_1_1Fundamental_1_1ChangeinTheGrossProvisionforUnearnedPremiumsReinsurersShareIncomeStatement.html#a281acd730a00a9c4f7618616f1b07243", null ],
+    [ "NineMonths", "classQuantConnect_1_1Data_1_1Fundamental_1_1ChangeinTheGrossProvisionforUnearnedPremiumsReinsurersShareIncomeStatement.html#ac9e88c39b72f1741e515a0c2905c36f9", null ],
+    [ "TwelveMonths", "classQuantConnect_1_1Data_1_1Fundamental_1_1ChangeinTheGrossProvisionforUnearnedPremiumsReinsurersShareIncomeStatement.html#a3a6ef2e232424949744e237a58b1236f", null ]
+];

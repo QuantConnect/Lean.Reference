@@ -1,0 +1,5 @@
+<map id="QuantConnect.Util.CurrencyPairUtil.IsDecomposable" name="QuantConnect.Util.CurrencyPairUtil.IsDecomposable">
+<area shape="rect" id="node1" title="Checks whether a symbol is decomposable into a base and a quote currency" alt="" coords="592,13,795,54"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Securities_1_1CurrencyConversion_1_1SecurityCurrencyConversion.html#a4906f295b9c94951f7aed815cfb254cf" title="Finds a conversion between two currencies by looking through all available 1 and 2&#45;leg options" alt="" coords="276,5,544,61"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Securities_1_1Cash.html#a8af2f228ffa12236fec72d5458a031fc" title="Ensures that we have a data feed to convert this currency into the base currency. This will add a Sub..." alt="" coords="5,13,228,54"/>
+</map>

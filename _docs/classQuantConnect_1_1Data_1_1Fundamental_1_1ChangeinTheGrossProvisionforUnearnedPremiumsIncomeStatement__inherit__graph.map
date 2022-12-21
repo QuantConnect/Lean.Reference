@@ -1,0 +1,4 @@
+<map id="QuantConnect.Data.Fundamental.ChangeinTheGrossProvisionforUnearnedPremiumsIncomeStatement" name="QuantConnect.Data.Fundamental.ChangeinTheGrossProvisionforUnearnedPremiumsIncomeStatement">
+<area shape="rect" id="node1" title="The change in the amount of the unearned premium reserves maintained by insurers." alt="" coords="5,80,291,136"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Data_1_1Fundamental_1_1MultiPeriodField.html" title="Abstract base class for multi&#45;period fields" alt="" coords="85,5,211,32"/>
+</map>

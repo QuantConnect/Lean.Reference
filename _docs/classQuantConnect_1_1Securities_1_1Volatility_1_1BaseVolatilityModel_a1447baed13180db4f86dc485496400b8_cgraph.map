@@ -1,0 +1,9 @@
+<map id="QuantConnect.Securities.Volatility.BaseVolatilityModel.GetHistoryRequirements" name="QuantConnect.Securities.Volatility.BaseVolatilityModel.GetHistoryRequirements">
+<area shape="rect" id="node1" title="Gets history requests required for warming up the greeks with the provided resolution" alt="" coords="5,63,221,119"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Util_1_1LeanData.html#adf1799b921849e0643385e6794ec2471" title="Get the TickType for common Lean data types. If not a Lean common data type, return a TickType of Tra..." alt="" coords="269,5,577,47"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Time.html#a4ddb0f529e1af3d182ea19aaf12a4ae7" title="Determines the start time required to produce the requested number of bars and the given size" alt="" coords="319,71,528,112"/>
+<area shape="rect" id="node7" href="$interfaceQuantConnect_1_1Interfaces_1_1ISubscriptionDataConfigProvider.html#a38160779e60c783450e66c7e2f81e941" title="Gets a list of all registered SubscriptionDataConfig for a given Symbol" alt="" coords="306,137,541,193"/>
+<area shape="rect" id="node4" href="$classQuantConnect_1_1Securities_1_1SecurityExchangeHours.html#ad680493077edb2267e639615b3c672a7" title="Determines if the exchange is open at the specified local date time." alt="" coords="625,71,851,112"/>
+<area shape="rect" id="node5" href="$classQuantConnect_1_1Securities_1_1SecurityExchangeHours.html#a106e2dd187ab76452e14ac6a28f929aa" title="Helper to access the market hours field based on the day of week" alt="" coords="899,37,1185,79"/>
+<area shape="rect" id="node6" href="$classQuantConnect_1_1Securities_1_1LocalMarketHours.html#a8a898ad9f8fa0c41f4a04b8dfc513777" title="Determines if the exchange is open at the specified time" alt="" coords="948,103,1136,144"/>
+</map>

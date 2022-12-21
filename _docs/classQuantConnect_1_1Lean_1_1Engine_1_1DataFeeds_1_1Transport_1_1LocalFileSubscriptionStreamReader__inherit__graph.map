@@ -1,0 +1,5 @@
+<map id="QuantConnect.Lean.Engine.DataFeeds.Transport.LocalFileSubscriptionStreamReader" name="QuantConnect.Lean.Engine.DataFeeds.Transport.LocalFileSubscriptionStreamReader">
+<area shape="rect" id="node1" title="Represents a stream reader capable of reading lines from disk" alt="" coords="5,155,301,211"/>
+<area shape="rect" id="node2" href="$interfaceQuantConnect_1_1Interfaces_1_1IStreamReader.html" title="Defines a transport mechanism for data from its source into various reader methods" alt="" coords="94,80,213,107"/>
+<area shape="rect" id="node3" title=" " alt="" coords="104,5,203,32"/>
+</map>

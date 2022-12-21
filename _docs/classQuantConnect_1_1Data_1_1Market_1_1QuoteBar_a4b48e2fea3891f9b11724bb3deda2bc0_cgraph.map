@@ -1,0 +1,4 @@
+<map id="QuantConnect.Data.Market.QuoteBar.Update" name="QuantConnect.Data.Market.QuoteBar.Update">
+<area shape="rect" id="node1" title="Update the quotebar &#45; build the bar from this pricing information:" alt="" coords="5,5,208,47"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Data_1_1Market_1_1Bar.html#ab3f5d262e9e5ce71c7d539e8c1439166" title="Updates the bar with a new value. This will aggregate the OHLC bar" alt="" coords="256,5,459,47"/>
+</map>

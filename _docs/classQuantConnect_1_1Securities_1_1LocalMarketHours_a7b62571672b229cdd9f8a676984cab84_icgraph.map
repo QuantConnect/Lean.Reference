@@ -1,0 +1,11 @@
+<map id="QuantConnect.Securities.LocalMarketHours.OpenAllDay" name="QuantConnect.Securities.LocalMarketHours.OpenAllDay">
+<area shape="rect" id="node1" title="Gets a LocalMarketHours instance that is always open" alt="" coords="900,185,1120,227"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Securities_1_1SecurityExchangeHours.html#af6f527fdfc92b5801026340fd4114a4a" title="Gets a SecurityExchangeHours instance that is always open" alt="" coords="591,185,852,227"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Data_1_1BaseDataRequest.html#a20e658cd58a98ce84779087c7d27de18" title="Initializes the base data request" alt="" coords="287,5,503,47"/>
+<area shape="rect" id="node4" href="$classQuantConnect_1_1Algorithm_1_1Framework_1_1Selection_1_1ManualUniverseSelectionModel.html#afab31f93eab86e8e9866bd124778366e" title="Creates the universes for this algorithm. Called at algorithm start." alt="" coords="247,71,543,127"/>
+<area shape="rect" id="node5" href="$classQuantConnect_1_1ToolBox_1_1IQFeedDownloader_1_1IQFeedDataDownloader.html#ad5935e9b2518a1432a5b3dc2bfea2623" title="Get historical data enumerable for a single symbol, type and resolution given this start and end time..." alt="" coords="253,152,536,193"/>
+<area shape="rect" id="node6" href="$classQuantConnect_1_1ToolBox_1_1Polygon_1_1PolygonDataDownloader.html#acad73c26d59d2e2bbe4d764a898c4d13" title="Get historical data enumerable for a single symbol, type and resolution given this start and end time..." alt="" coords="280,217,509,259"/>
+<area shape="rect" id="node7" href="$classQuantConnect_1_1ToolBox_1_1IEX_1_1IEXDataDownloader.html#a025966be917db9709ece2e05d86475c9" title="Get historical data enumerable for a single symbol, type and resolution given this start and end time..." alt="" coords="295,283,494,324"/>
+<area shape="rect" id="node8" href="$classQuantConnect_1_1Securities_1_1MarketHoursDatabase.html#a3668df8d1cc8dff6cb12a96c957c04b7" title="Convenience method for the common custom data case. Sets the entry for the specified symbol using Sec..." alt="" coords="281,349,508,405"/>
+<area shape="rect" id="node9" href="$classQuantConnect_1_1Extensions.html#a6e7b57a65d282b02a39d8232be71f4e0" title="Helper method to get a market hours entry" alt="" coords="5,356,199,397"/>
+</map>

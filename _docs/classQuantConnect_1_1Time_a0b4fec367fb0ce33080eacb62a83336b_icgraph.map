@@ -1,0 +1,14 @@
+<map id="QuantConnect.Time.DateTimeToUnixTimeStamp" name="QuantConnect.Time.DateTimeToUnixTimeStamp">
+<area shape="rect" id="node1" title="Convert a Datetime to Unix Timestamp" alt="" coords="643,267,861,308"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1ChartPoint.html#ab2ef5f3a9ecd5c205c9aea8d74206e3b" title="Constructor for datetime&#45;value arguements:" alt="" coords="349,5,540,47"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1ToolBox_1_1KrakenDownloader_1_1KrakenDataDownloader.html#acce7cae682f1c726942574f7dd1f5da5" title="Get historical data enumerable for a single symbol, type and resolution given this start and end time..." alt="" coords="303,71,586,112"/>
+<area shape="rect" id="node4" href="$classQuantConnect_1_1Api_1_1Api.html#a23ad4b44a409932c84e51e7c400c4057" title="Get a list of live running algorithms for user" alt="" coords="349,136,540,177"/>
+<area shape="rect" id="node5" href="$classQuantConnect_1_1Api_1_1Api.html#ad94ec3083f87a2d45fe969c3ffe04173" title="Gets the logs of a specific live algorithm" alt="" coords="344,201,545,243"/>
+<area shape="rect" id="node6" href="$classQuantConnect_1_1SeriesSampler.html#a0f2c6bab5e323e903463c534850bbfb0" title="Samples the given series" alt="" coords="337,267,552,308"/>
+<area shape="rect" id="node8" href="$classQuantConnect_1_1Algorithm_1_1Framework_1_1Alphas_1_1Serialization_1_1SerializedInsight.html#a1351eb402776a7711c31492680ed2c0d" title="Initializes a new instance of the SerializedInsight &#160;class by copying the specified insight" alt="" coords="311,333,578,389"/>
+<area shape="rect" id="node9" href="$classQuantConnect_1_1Orders_1_1Serialization_1_1SerializedOrder.html#acf0c03c935126176806be09b302dc948" title="Creates a new serialized order instance based on the provided order" alt="" coords="319,413,570,455"/>
+<area shape="rect" id="node10" href="$classQuantConnect_1_1Orders_1_1Serialization_1_1SerializedOrderEvent.html#ab778a830759f40e39bc5035b6aa1c145" title="Creates a new instances based on the provided order event and algorithm Id" alt="" coords="295,479,595,520"/>
+<area shape="rect" id="node11" href="$classQuantConnect_1_1Time.html#a8f3be0f6448ecbfa8b141ab5138abf3c" title="Get the current time as a unix timestamp" alt="" coords="329,545,560,571"/>
+<area shape="rect" id="node7" href="$classQuantConnect_1_1SeriesSampler.html#aff66bac198388ae131b4d6ca295fd05f" title="Samples the given charts" alt="" coords="19,267,233,308"/>
+<area shape="rect" id="node12" href="$classQuantConnect_1_1Api_1_1ApiConnection.html#ad584a71b83ddfe14c7e45849bc6c8ac3" title="Place a secure request and get back an object of type T." alt="" coords="5,537,247,579"/>
+</map>

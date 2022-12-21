@@ -1,0 +1,4 @@
+<map id="QuantConnect.Compression.UnzipStream" name="QuantConnect.Compression.UnzipStream">
+<area shape="rect" id="node1" title="Unzip a stream that represents a zip file and return the first entry as a stream" alt="" coords="293,13,500,54"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Lean_1_1Engine_1_1DataFeeds_1_1SingleEntryDataCacheProvider.html#a7e7ffcf59f44ba8bed833dd8a0a1edba" title="Fetch data from the cache" alt="" coords="5,5,245,61"/>
+</map>

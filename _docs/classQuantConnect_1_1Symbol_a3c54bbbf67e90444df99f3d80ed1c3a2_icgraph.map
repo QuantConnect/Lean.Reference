@@ -1,0 +1,10 @@
+<map id="QuantConnect.Symbol.ToString" name="QuantConnect.Symbol.ToString">
+<area shape="rect" id="node1" title="Returns a string that represents the current object." alt="" coords="328,246,551,273"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Algorithm_1_1QCAlgorithm.html#a9c7ada35b14342f6e65d869d482af918" title="Creates a new name for an indicator created with the convenience functions (SMA, EMA,..." alt="" coords="6,5,279,47"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Lean_1_1Engine_1_1RealTime_1_1ScheduledEventFactory.html#a2a548ebf5457bc6d9ae25dd28f2a3dcd" title="Creates a new ScheduledEvent that will fire before market close by the specified time" alt="" coords="22,71,263,127"/>
+<area shape="rect" id="node4" href="$classQuantConnect_1_1ToolBox_1_1Polygon_1_1PolygonSymbolMapper.html#a36105458d98cc6dbccdfaeb4ce9d2094" title="Converts a Lean symbol instance to a brokerage symbol" alt="" coords="11,151,275,207"/>
+<area shape="rect" id="node5" href="$classQuantConnect_1_1ToolBox_1_1DukascopyDownloader_1_1DukascopySymbolMapper.html#a2db1736e18ad859515ad29c58425f470" title="Converts a Lean symbol instance to a Dukascopy symbol" alt="" coords="5,231,280,287"/>
+<area shape="rect" id="node6" href="$classQuantConnect_1_1Algorithm_1_1QCAlgorithm.html#a162e101f2df8722dbb5788b504ec562a" title="End of a trading day event handler. This method is called at the end of the algorithm day (or multipl..." alt="" coords="6,312,279,353"/>
+<area shape="rect" id="node7" href="$classQuantConnect_1_1Symbol.html#a3105c014ff7c97c040d9af90a509cce0" title="Returns the symbol&#39;s string ticker" alt="" coords="29,377,256,419"/>
+<area shape="rect" id="node8" href="$classQuantConnect_1_1Securities_1_1Security.html#a9dfff4b4f8b5951f83589ede12d80c84" title="Returns a string that represents the current object." alt="" coords="49,443,236,484"/>
+</map>

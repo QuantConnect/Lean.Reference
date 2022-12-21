@@ -1,0 +1,6 @@
+<map id="QuantConnect.Brokerages.Backtesting.BacktestingBrokerage.UpdateOrder" name="QuantConnect.Brokerages.Backtesting.BacktestingBrokerage.UpdateOrder">
+<area shape="rect" id="node1" title="Updates the order with the same ID" alt="" coords="5,43,256,99"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Brokerages_1_1Backtesting_1_1BacktestingBrokerage.html#a9591330d2ce2fa8d0a3af1b765cfd66a" title="Event invocator for the OrderFilled event" alt="" coords="304,5,555,61"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Logging_1_1Log.html#a4e55477fbc790846b74550a57198cea9" title="Log trace" alt="" coords="329,86,529,127"/>
+<area shape="rect" id="node4" href="$interfaceQuantConnect_1_1Logging_1_1ILogHandler.html#a3fb71a33ac66129240b63f12b6fcda3b" title="Write debug message to log" alt="" coords="603,86,803,127"/>
+</map>

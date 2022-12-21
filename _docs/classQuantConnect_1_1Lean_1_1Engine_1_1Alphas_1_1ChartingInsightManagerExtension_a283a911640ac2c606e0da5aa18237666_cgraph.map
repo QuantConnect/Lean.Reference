@@ -1,0 +1,6 @@
+<map id="QuantConnect.Lean.Engine.Alphas.ChartingInsightManagerExtension.Step" name="QuantConnect.Lean.Engine.Alphas.ChartingInsightManagerExtension.Step">
+<area shape="rect" id="node1" title="Invokes the manager at the end of the time step. Samples and plots insight counts and population scor..." alt="" coords="5,39,328,80"/>
+<area shape="rect" id="node2" href="$interfaceQuantConnect_1_1Interfaces_1_1IAlgorithm.html#aa28d4fc6e20871243e850ee64842e319" title="Add a Chart object to algorithm collection" alt="" coords="383,5,569,47"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Logging_1_1Log.html#af0e7955911bc7664b37661b2a303a9e3" title="Log error" alt="" coords="376,71,576,112"/>
+<area shape="rect" id="node4" href="$interfaceQuantConnect_1_1Logging_1_1ILogHandler.html#a35373a0c5d76031fa5ccf5dc39e5c25d" title="Write error message to log" alt="" coords="624,71,824,112"/>
+</map>

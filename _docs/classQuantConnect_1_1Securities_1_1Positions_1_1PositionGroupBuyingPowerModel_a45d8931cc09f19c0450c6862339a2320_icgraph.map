@@ -1,0 +1,7 @@
+<map id="QuantConnect.Securities.Positions.PositionGroupBuyingPowerModel.GetInitialMarginRequirement" name="QuantConnect.Securities.Positions.PositionGroupBuyingPowerModel.GetInitialMarginRequirement">
+<area shape="rect" id="node1" title="The margin that must be held in order to increase the position by the provided quantity" alt="" coords="769,57,1064,113"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Securities_1_1Positions_1_1PositionGroupBuyingPowerModel.html#a6ffef28c266745b259088113c3b04459" title="Get the maximum position group order quantity to obtain a position with a given buying power percenta..." alt="" coords="427,5,710,76"/>
+<area shape="rect" id="node4" href="$classQuantConnect_1_1Securities_1_1Positions_1_1PositionGroupBuyingPowerModel.html#a53f72f99e03b8f529f64d92566a2e265" title="Gets the buying power available for a position group trade" alt="" coords="416,101,721,157"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Securities_1_1Positions_1_1PositionGroupBuyingPowerModel.html#abc9b4d24eebe829eda4d4fe1e4b10126" title="Get the maximum market position group order quantity to obtain a delta in the buying power used by a ..." alt="" coords="5,13,368,69"/>
+<area shape="rect" id="node5" href="$classQuantConnect_1_1Securities_1_1Positions_1_1PositionGroupBuyingPowerModel.html#a9443d3b032f7520dfe544b1542b005e8" title="Check if there is sufficient buying power for the position group to execute this order." alt="" coords="48,93,325,164"/>
+</map>

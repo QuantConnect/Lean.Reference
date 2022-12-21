@@ -1,0 +1,4 @@
+<map id="QuantConnect.Lean.Engine.DataFeeds.Subscription.MarkAsRemovedFromUniverse" name="QuantConnect.Lean.Engine.DataFeeds.Subscription.MarkAsRemovedFromUniverse">
+<area shape="rect" id="node1" title="Mark this subscription as having been removed from the universe. Data for this time step will be disc..." alt="" coords="367,5,657,61"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Lean_1_1Engine_1_1DataFeeds_1_1Subscription.html#a703424471eb1b284e54815348a13065e" title="Removes one or all SubscriptionRequest from this subscription" alt="" coords="5,5,319,61"/>
+</map>

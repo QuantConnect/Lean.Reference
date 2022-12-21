@@ -1,0 +1,11 @@
+<map id="QuantConnect.Data.Market.IBar" name="QuantConnect.Data.Market.IBar">
+<area shape="rect" id="node1" title="Generic bar interface with Open, High, Low and Close." alt="" coords="5,49,233,75"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Data_1_1Market_1_1Bar.html" title="Base Bar Class: Open, High, Low, Close and Period." alt="" coords="281,19,505,46"/>
+<area shape="rect" id="node3" href="$interfaceQuantConnect_1_1Data_1_1Market_1_1IBaseDataBar.html" title="Represents a type that is both a bar and base data" alt="" coords="292,71,495,112"/>
+<area shape="rect" id="node4" href="$classQuantConnect_1_1Data_1_1Market_1_1QuoteBar.html" title="QuoteBar class for second and minute resolution data: An OHLC implementation of the QuantConnect Base..." alt="" coords="553,5,756,47"/>
+<area shape="rect" id="node5" href="$classQuantConnect_1_1Data_1_1Market_1_1RenkoBar.html" title="Represents a bar sectioned not by time, but by some amount of movement in a value (for example,..." alt="" coords="553,71,756,112"/>
+<area shape="rect" id="node6" href="$classQuantConnect_1_1Data_1_1Market_1_1TradeBar.html" title="TradeBar class for second and minute resolution data: An OHLC implementation of the QuantConnect Base..." alt="" coords="553,136,756,177"/>
+<area shape="rect" id="node7" href="$classQuantConnect_1_1Data_1_1Custom_1_1IconicTypes_1_1UnlinkedDataTradeBar.html" title="Data source that is unlinked (no mapping) and takes any ticker when calling AddData" alt="" coords="804,103,1051,144"/>
+<area shape="rect" id="node8" href="$classQuantConnect_1_1Data_1_1Custom_1_1Tiingo_1_1TiingoPrice.html" title="Tiingo daily price data https://api.tiingo.com/docs/tiingo/daily" alt="" coords="824,168,1031,209"/>
+<area shape="rect" id="node9" href="$classQuantConnect_1_1Data_1_1Custom_1_1Tiingo_1_1TiingoDailyData.html" title="Tiingo daily price data https://api.tiingo.com/docs/tiingo/daily" alt="" coords="1099,168,1305,209"/>
+</map>

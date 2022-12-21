@@ -1,0 +1,4 @@
+<map id="QuantConnect.Lean.Engine.DataFeeds.DataManager.LookupSubscriptionConfigDataTypes" name="QuantConnect.Lean.Engine.DataFeeds.DataManager.LookupSubscriptionConfigDataTypes">
+<area shape="rect" id="node1" title="Get the data feed types for a given SecurityType Resolution" alt="" coords="264,5,576,61"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Lean_1_1Engine_1_1DataFeeds_1_1DataManager.html#ae3335b4baef65a2485d4c16a65067a2e" title="Creates and adds a list of SubscriptionDataConfig for a given symbol and configuration...." alt="" coords="5,13,216,54"/>
+</map>

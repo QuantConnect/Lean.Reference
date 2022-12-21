@@ -1,0 +1,9 @@
+<map id="QuantConnect.Algorithm.Framework.Selection.FutureUniverseSelectionModel.CreateFutureChainSecurity" name="QuantConnect.Algorithm.Framework.Selection.FutureUniverseSelectionModel.CreateFutureChainSecurity">
+<area shape="rect" id="node1" title="Creates the canonical Future chain security for a given symbol" alt="" coords="5,31,295,87"/>
+<area shape="rect" id="node2" href="$interfaceQuantConnect_1_1Interfaces_1_1ISubscriptionDataConfigService.html#a37d844a8ee78541da26b4732ed6a0a14" title="Creates and adds a list of SubscriptionDataConfig for a given symbol and configuration...." alt="" coords="343,5,597,47"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Securities_1_1SecurityManager.html#a0aa9a5d066fcba5dfcc7ae10ac22b550" title="Creates a new security" alt="" coords="355,71,585,112"/>
+<area shape="rect" id="node4" href="$classQuantConnect_1_1Securities_1_1SecurityService.html#af780bf1407ad8952b51a2db9be9ddb55" title="Creates a new security" alt="" coords="645,71,868,112"/>
+<area shape="rect" id="node5" href="$classQuantConnect_1_1SymbolCache.html#a481bb0c8f2b52aa8f19b509aec5bf91f" title="Adds a mapping for the specified ticker" alt="" coords="916,49,1148,75"/>
+<area shape="rect" id="node6" href="$classQuantConnect_1_1Securities_1_1Security.html#a63075daed818cf10cda2296e8ecc43ac" title="Set the leverage parameter for this security" alt="" coords="939,100,1125,141"/>
+<area shape="rect" id="node7" href="$classQuantConnect_1_1Securities_1_1BuyingPowerModel.html#a44ce05fdd67c9c4230e4dfb91cfd5e6b" title="Sets the leverage for the applicable securities, i.e, equities" alt="" coords="1196,100,1428,141"/>
+</map>

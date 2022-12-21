@@ -1,0 +1,4 @@
+var classQuantConnect_1_1Algorithm_1_1Framework_1_1Alphas_1_1Analysis_1_1SecurityValuesProviderExtensions =
+[
+    [ "GetValues", "classQuantConnect_1_1Algorithm_1_1Framework_1_1Alphas_1_1Analysis_1_1SecurityValuesProviderExtensions.html#ae046ce9890ae5ddfe3634793aff524d1", null ]
+];

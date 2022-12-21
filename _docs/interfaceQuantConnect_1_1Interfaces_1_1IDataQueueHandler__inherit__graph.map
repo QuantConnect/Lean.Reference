@@ -1,0 +1,11 @@
+<map id="QuantConnect.Interfaces.IDataQueueHandler" name="QuantConnect.Interfaces.IDataQueueHandler">
+<area shape="rect" id="node1" title="Task requestor interface with cloud system" alt="" coords="152,201,339,243"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Lean_1_1Engine_1_1DataFeeds_1_1DataQueueHandlerManager.html" title="This is an implementation of IDataQueueHandler used to handle multiple live datafeeds" alt="" coords="387,5,663,47"/>
+<area shape="rect" id="node4" href="$classQuantConnect_1_1Lean_1_1Engine_1_1DataFeeds_1_1Queues_1_1FakeDataQueue.html" title="This is an implementation of IDataQueueHandler used for testing. FakeHistoryProvider" alt="" coords="399,71,650,112"/>
+<area shape="rect" id="node5" href="$classQuantConnect_1_1Lean_1_1Engine_1_1DataFeeds_1_1Queues_1_1LiveDataQueue.html" title="Live Data Queue is the cut out implementation of how to bind a custom live data source" alt="" coords="401,136,649,177"/>
+<area shape="rect" id="node6" href="$classQuantConnect_1_1ToolBox_1_1CoinApi_1_1CoinApiDataQueueHandler.html" title="An implementation of IDataQueueHandler for CoinAPI" alt="" coords="414,201,635,243"/>
+<area shape="rect" id="node7" href="$classQuantConnect_1_1ToolBox_1_1IEX_1_1IEXDataQueueHandler.html" title="IEX live data handler. See more at https://iexcloud.io/docs/api/" alt="" coords="425,267,624,308"/>
+<area shape="rect" id="node8" href="$classQuantConnect_1_1ToolBox_1_1IQFeed_1_1IQFeedDataQueueHandler.html" title="IQFeedDataQueueHandler is an implementation of IDataQueueHandler and IHistoryProvider" alt="" coords="413,332,636,373"/>
+<area shape="rect" id="node9" href="$classQuantConnect_1_1ToolBox_1_1Polygon_1_1PolygonDataQueueHandler.html" title="An implementation of IDataQueueHandler and IHistoryProvider for Polygon.io" alt="" coords="410,397,639,439"/>
+<area shape="rect" id="node2" title=" " alt="" coords="5,209,104,235"/>
+</map>

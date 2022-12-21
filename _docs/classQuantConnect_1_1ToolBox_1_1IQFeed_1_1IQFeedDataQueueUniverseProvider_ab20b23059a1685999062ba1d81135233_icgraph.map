@@ -1,0 +1,5 @@
+<map id="QuantConnect.ToolBox.IQFeed.IQFeedDataQueueUniverseProvider.GetBrokerageSymbol" name="QuantConnect.ToolBox.IQFeed.IQFeedDataQueueUniverseProvider.GetBrokerageSymbol">
+<area shape="rect" id="node1" title="Converts a Lean symbol instance to IQFeed ticker" alt="" coords="328,31,583,87"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1ToolBox_1_1IQFeed_1_1IQFeedDataQueueHandler.html#ad35120e03997310b068d3eef45c5d390" title="Adds the specified symbols to the subscription: new IQLevel1WatchItem(&quot;IBM&quot;, true)" alt="" coords="14,5,271,47"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1ToolBox_1_1IQFeed_1_1IQFeedDataQueueHandler.html#aa937cf9529e0444fe1511201814c102e" title="Removes the specified symbols to the subscription" alt="" coords="5,71,280,112"/>
+</map>

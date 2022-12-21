@@ -1,0 +1,4 @@
+<map id="QuantConnect.Securities.Option.OptionSymbol.IsWeekly" name="QuantConnect.Securities.Option.OptionSymbol.IsWeekly">
+<area shape="rect" id="node1" title="Returns true if the option is a weekly contract that expires on Friday , except 3rd Friday of the mon..." alt="" coords="5,5,229,47"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Securities_1_1Option_1_1OptionSymbol.html#a67479caa555c9b1c103efabf3e7e038c" title="Returns true if the option is a standard contract that expires 3rd Friday of the month" alt="" coords="277,5,512,47"/>
+</map>

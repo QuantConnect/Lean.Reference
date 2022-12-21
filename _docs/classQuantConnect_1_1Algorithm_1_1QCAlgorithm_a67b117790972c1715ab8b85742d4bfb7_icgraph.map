@@ -1,0 +1,6 @@
+<map id="QuantConnect.Algorithm.QCAlgorithm.Log" name="QuantConnect.Algorithm.QCAlgorithm.Log">
+<area shape="rect" id="node1" title="Added another method for logging if user guessed." alt="" coords="671,71,967,98"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Algorithm_1_1QCAlgorithm.html#a975ad7e9fe2cf71b44d700d56305d0d4" title="Called by setup handlers after Initialize and allows the algorithm a chance to organize the data gath..." alt="" coords="338,5,611,47"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Algorithm_1_1QCAlgorithm.html#ad8a5d8d6d6fd62a8a3962f0649567804" title="Called by setup handlers after Initialize and allows the algorithm a chance to organize the data gath..." alt="" coords="5,35,279,76"/>
+<area shape="rect" id="node4" href="$classQuantConnect_1_1Algorithm_1_1QCAlgorithm.html#a4e48e31a8d9bdcabf89b05f535db942f" title="Added another method for logging if user guessed." alt="" coords="327,122,623,149"/>
+</map>

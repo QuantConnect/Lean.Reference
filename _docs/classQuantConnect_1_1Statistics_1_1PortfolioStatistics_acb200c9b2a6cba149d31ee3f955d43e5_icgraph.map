@@ -1,0 +1,5 @@
+<map id="QuantConnect.Statistics.PortfolioStatistics.GetRiskFreeRate" name="QuantConnect.Statistics.PortfolioStatistics.GetRiskFreeRate">
+<area shape="rect" id="node1" title="Gets the current defined risk free annual return rate" alt="" coords="580,13,831,54"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Statistics_1_1FitnessScoreManager.html#adb4879184a59851731cf9d07730d5ae8" title="Initializes the fitness score instance and sets the initial portfolio value" alt="" coords="312,13,532,54"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Lean_1_1Engine_1_1Alphas_1_1DefaultAlphaHandler.html#a90f6a079ebfff35dd87ea5806173d8b8" title="Invoked after the algorithm&#39;s Initialize method was called allowing the alpha handler to check other ..." alt="" coords="5,5,264,61"/>
+</map>

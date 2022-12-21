@@ -1,0 +1,4 @@
+<map id="QuantConnect.Orders.Fills.EquityFillModel.GetPrices" name="QuantConnect.Orders.Fills.EquityFillModel.GetPrices">
+<area shape="rect" id="node1" title="Get the minimum and maximum price for this security in the last bar:" alt="" coords="5,5,200,47"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Securities_1_1SecurityCache.html#a2e22a721cbad979accb38e91dd640b8e" title="Get last data packet received for this security if any else null" alt="" coords="248,5,435,47"/>
+</map>

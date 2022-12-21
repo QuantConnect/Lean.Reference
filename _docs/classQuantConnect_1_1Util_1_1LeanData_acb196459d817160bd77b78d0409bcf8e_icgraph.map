@@ -1,0 +1,4 @@
+<map id="QuantConnect.Util.LeanData.TryParseSecurityType" name="QuantConnect.Util.LeanData.TryParseSecurityType">
+<area shape="rect" id="node1" title="Parses file name into a Security and DateTime" alt="" coords="292,13,503,54"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Lean_1_1Engine_1_1DataFeeds_1_1ApiDataProvider.html#a533885bcb39ac76411a2d07301d2475e" title="Main filter to determine if this file needs to be downloaded" alt="" coords="5,5,244,61"/>
+</map>

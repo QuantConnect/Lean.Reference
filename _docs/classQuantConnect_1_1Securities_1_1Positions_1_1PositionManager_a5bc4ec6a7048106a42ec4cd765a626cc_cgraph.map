@@ -1,0 +1,4 @@
+<map id="QuantConnect.Securities.Positions.PositionManager.GetOrCreateDefaultGroup" name="QuantConnect.Securities.Positions.PositionManager.GetOrCreateDefaultGroup">
+<area shape="rect" id="node1" title="Gets or creates the default position group for the specified security" alt="" coords="5,5,225,61"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Securities_1_1Positions_1_1PositionManager.html#a6cd4f628427cacf14b7990fb884d51ae" title="Creates a PositionGroupKey for the security&#39;s default position group" alt="" coords="273,5,513,61"/>
+</map>

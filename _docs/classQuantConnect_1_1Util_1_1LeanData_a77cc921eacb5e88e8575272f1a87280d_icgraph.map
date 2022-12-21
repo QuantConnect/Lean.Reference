@@ -1,0 +1,12 @@
+<map id="QuantConnect.Util.LeanData.GetDataType" name="QuantConnect.Util.LeanData.GetDataType">
+<area shape="rect" id="node1" title="Gets the data type required for the specified combination of resolution and tick type" alt="" coords="709,136,920,177"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Data_1_1HistoryRequestFactory.html#a69a65bb2306dffc8c77ba290f4f2080e" title="Creates a new history request" alt="" coords="372,5,639,47"/>
+<area shape="rect" id="node4" href="$classQuantConnect_1_1Data_1_1LeanDataWriter.html#a84b23a2db3f964f4b90cdca539996aa1" title="Downloads historical data from the brokerage and saves it in LEAN format." alt="" coords="398,71,613,112"/>
+<area shape="rect" id="node5" href="$classQuantConnect_1_1ToolBox_1_1Polygon_1_1PolygonDataDownloader.html#acad73c26d59d2e2bbe4d764a898c4d13" title="Get historical data enumerable for a single symbol, type and resolution given this start and end time..." alt="" coords="391,136,620,177"/>
+<area shape="rect" id="node6" href="$classQuantConnect_1_1Lean_1_1Engine_1_1DataFeeds_1_1DataManager.html#a44a6ceb7e171992b862532e0f63b9aa7" title="Get the data feed types for a given SecurityType Resolution" alt="" coords="349,202,661,258"/>
+<area shape="rect" id="node8" href="$classQuantConnect_1_1Util_1_1LeanData.html#ac979a9bea9e3fabfda1872dbf4e6306b" title="Parses file name into a Security and DateTime" alt="" coords="400,283,611,324"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Algorithm_1_1QCAlgorithm.html#a4cb52293763a21a3638d93d26e307bae" title="Gets the historical data for the specified symbols. The exact number of bars will be returned for eac..." alt="" coords="17,5,290,47"/>
+<area shape="rect" id="node7" href="$classQuantConnect_1_1Lean_1_1Engine_1_1DataFeeds_1_1DataManager.html#ae3335b4baef65a2485d4c16a65067a2e" title="Creates and adds a list of SubscriptionDataConfig for a given symbol and configuration...." alt="" coords="48,209,259,251"/>
+<area shape="rect" id="node9" href="$classQuantConnect_1_1Lean_1_1Engine_1_1DataFeeds_1_1DownloaderDataProvider.html#a1c8b7b1808d3c60ba757a4f8fbafc5ba" title="Determines if it should downloads new data and retrieves data from disc" alt="" coords="5,279,301,320"/>
+<area shape="rect" id="node10" href="$classQuantConnect_1_1ToolBox_1_1LeanDataReader.html#ac23439fd286135eaf5c3047bf52eb517" title="Initialize a instance of LeanDataReader from a path to a zipped data file. It also supports declaring..." alt="" coords="48,344,259,385"/>
+</map>

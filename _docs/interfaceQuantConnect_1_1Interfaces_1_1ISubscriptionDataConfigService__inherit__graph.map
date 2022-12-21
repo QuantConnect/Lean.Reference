@@ -1,0 +1,6 @@
+<map id="QuantConnect.Interfaces.ISubscriptionDataConfigService" name="QuantConnect.Interfaces.ISubscriptionDataConfigService">
+<area shape="rect" id="node1" title="This interface exposes methods for creating a list of SubscriptionDataConfig for a given configuratio..." alt="" coords="8,80,235,121"/>
+<area shape="rect" id="node3" href="$interfaceQuantConnect_1_1Interfaces_1_1IAlgorithmSubscriptionManager.html" title="AlgorithmSubscriptionManager interface will manage the subscriptions for the SubscriptionManager" alt="" coords="8,169,235,211"/>
+<area shape="rect" id="node2" href="$interfaceQuantConnect_1_1Interfaces_1_1ISubscriptionDataConfigProvider.html" title="Reduced interface which provides access to registered SubscriptionDataConfig" alt="" coords="5,5,237,32"/>
+<area shape="rect" id="node4" href="$classQuantConnect_1_1Lean_1_1Engine_1_1DataFeeds_1_1DataManager.html" title="DataManager will manage the subscriptions for both the DataFeeds and the SubscriptionManager" alt="" coords="21,259,222,300"/>
+</map>

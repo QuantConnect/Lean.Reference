@@ -1,0 +1,5 @@
+<map id="QuantConnect.ToolBox.IQFeed.IQFeedDataQueueUniverseProvider.SymbolFundamentalData" name="QuantConnect.ToolBox.IQFeed.IQFeedDataQueueUniverseProvider.SymbolFundamentalData">
+<area shape="rect" id="node1" title="Private class that helps requesting IQFeed fundamental data" alt="" coords="5,155,260,211"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1ToolBox_1_1IQFeed_1_1IQLevel1Client.html" title=" " alt="" coords="74,80,191,107"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1ToolBox_1_1IQFeed_1_1SocketClient.html" title=" " alt="" coords="81,5,184,32"/>
+</map>

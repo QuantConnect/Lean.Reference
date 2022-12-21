@@ -1,0 +1,4 @@
+<map id="QuantConnect.Securities.SecurityHolding.SetHoldings" name="QuantConnect.Securities.SecurityHolding.SetHoldings">
+<area shape="rect" id="node1" title="Set the quantity of holdings and their average price after processing a portfolio fill." alt="" coords="5,5,212,47"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Securities_1_1SecurityHolding.html#afeaae77070c9ae242d332ff1cf798533" title="Event invocator for the QuantityChanged event" alt="" coords="260,5,520,47"/>
+</map>

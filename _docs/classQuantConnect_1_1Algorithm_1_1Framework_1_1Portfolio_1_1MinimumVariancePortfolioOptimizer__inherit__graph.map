@@ -1,0 +1,4 @@
+<map id="QuantConnect.Algorithm.Framework.Portfolio.MinimumVariancePortfolioOptimizer" name="QuantConnect.Algorithm.Framework.Portfolio.MinimumVariancePortfolioOptimizer">
+<area shape="rect" id="node1" title="Provides an implementation of a minimum variance portfolio optimizer that calculate the optimal weigh..." alt="" coords="5,80,324,121"/>
+<area shape="rect" id="node2" href="$interfaceQuantConnect_1_1Algorithm_1_1Framework_1_1Portfolio_1_1IPortfolioOptimizer.html" title="Interface for portfolio optimization algorithms" alt="" coords="92,5,237,32"/>
+</map>

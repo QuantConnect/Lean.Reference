@@ -1,0 +1,4 @@
+<map id="QuantConnect.Lean.Engine.DataFeeds.Enumerators.FillForwardEnumerator.RequiresFillForwardData" name="QuantConnect.Lean.Engine.DataFeeds.Enumerators.FillForwardEnumerator.RequiresFillForwardData">
+<area shape="rect" id="node1" title="Determines whether or not fill forward is required, and if true, will produce the new fill forward da..." alt="" coords="307,5,567,61"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Lean_1_1Engine_1_1DataFeeds_1_1Enumerators_1_1FillForwardEnumerator.html#a4806a742bf86adc4cd11801ef783a416" title="Advances the enumerator to the next element of the collection." alt="" coords="5,5,259,61"/>
+</map>

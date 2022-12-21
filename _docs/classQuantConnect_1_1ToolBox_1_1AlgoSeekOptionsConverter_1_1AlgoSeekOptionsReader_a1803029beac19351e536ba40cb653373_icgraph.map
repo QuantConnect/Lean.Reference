@@ -1,0 +1,4 @@
+<map id="QuantConnect.ToolBox.AlgoSeekOptionsConverter.AlgoSeekOptionsReader.MoveNext" name="QuantConnect.ToolBox.AlgoSeekOptionsConverter.AlgoSeekOptionsReader.MoveNext">
+<area shape="rect" id="node1" title="Parse the next line of the algoseek option file." alt="" coords="336,5,619,61"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1ToolBox_1_1AlgoSeekOptionsConverter_1_1AlgoSeekOptionsReader.html#a2c3dd57cd485f03a9c2a767cce245c13" title="Enumerate through the lines of the algoseek files." alt="" coords="5,5,288,61"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="QuantConnect.Algorithm.Framework.Portfolio.MeanReversionPortfolioConstructionModel.GetPriceRelatives" name="QuantConnect.Algorithm.Framework.Portfolio.MeanReversionPortfolioConstructionModel.GetPriceRelatives">
+<area shape="rect" id="node1" title="Get price relatives with reference level of SMA" alt="" coords="372,5,691,61"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Algorithm_1_1Framework_1_1Portfolio_1_1MeanReversionPortfolioConstructionModel.html#a0bfa3b78256270ed278d018e85efbe35" title="Will determine the target percent for each insight" alt="" coords="5,5,324,61"/>
+</map>

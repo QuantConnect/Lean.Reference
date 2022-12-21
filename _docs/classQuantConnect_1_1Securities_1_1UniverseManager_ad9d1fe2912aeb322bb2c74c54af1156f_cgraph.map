@@ -1,0 +1,5 @@
+<map id="QuantConnect.Securities.UniverseManager.Remove" name="QuantConnect.Securities.UniverseManager.Remove">
+<area shape="rect" id="node1" title="Removes the element with the specified key from the T:System.Collections.Generic.IDictionary`2." alt="" coords="5,43,200,84"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Data_1_1UniverseSelection_1_1Universe.html#a4d532fbecdf9760efaac48f454c14de3" title="Marks this universe as disposed and ready to remove all child subscriptions" alt="" coords="254,5,465,47"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Securities_1_1UniverseManager.html#aa10596cb0fc9f25ebd3ed9c6d0de5d4b" title="Event invocator for the CollectionChanged event" alt="" coords="248,71,471,127"/>
+</map>

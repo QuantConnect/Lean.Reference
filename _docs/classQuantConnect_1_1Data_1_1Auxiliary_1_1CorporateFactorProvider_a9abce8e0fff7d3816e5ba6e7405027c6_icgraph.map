@@ -1,0 +1,4 @@
+<map id="QuantConnect.Data.Auxiliary.CorporateFactorProvider.HasDividendEventOnNextTradingDay" name="QuantConnect.Data.Auxiliary.CorporateFactorProvider.HasDividendEventOnNextTradingDay">
+<area shape="rect" id="node1" title="Returns true if the specified date is the last trading day before a dividend event is to be fired" alt="" coords="293,5,559,61"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Lean_1_1Engine_1_1DataFeeds_1_1Enumerators_1_1DividendEventProvider.html#ac0faabb7ac460a13c4aaffca7fcae75f" title="Check for dividends and returns them" alt="" coords="5,5,245,61"/>
+</map>

@@ -1,0 +1,8 @@
+var classQuantConnect_1_1Lean_1_1Engine_1_1DataFeeds_1_1Enumerators_1_1DataQueueFuturesChainUniverseDataCollectionEnumerator =
+[
+    [ "DataQueueFuturesChainUniverseDataCollectionEnumerator", "classQuantConnect_1_1Lean_1_1Engine_1_1DataFeeds_1_1Enumerators_1_1DataQueueFuturesChainUniverseDataCollectionEnumerator.html#a6fc2741de2f990d6d6174fdbc16bae66", null ],
+    [ "Dispose", "classQuantConnect_1_1Lean_1_1Engine_1_1DataFeeds_1_1Enumerators_1_1DataQueueFuturesChainUniverseDataCollectionEnumerator.html#a32e547dee4d65de719ec7f640fe2e9ef", null ],
+    [ "MoveNext", "classQuantConnect_1_1Lean_1_1Engine_1_1DataFeeds_1_1Enumerators_1_1DataQueueFuturesChainUniverseDataCollectionEnumerator.html#a0aa590d746338d694f62c1330d4d54b6", null ],
+    [ "Reset", "classQuantConnect_1_1Lean_1_1Engine_1_1DataFeeds_1_1Enumerators_1_1DataQueueFuturesChainUniverseDataCollectionEnumerator.html#aedaa087b76a19444985f2689f1add411", null ],
+    [ "Current", "classQuantConnect_1_1Lean_1_1Engine_1_1DataFeeds_1_1Enumerators_1_1DataQueueFuturesChainUniverseDataCollectionEnumerator.html#aceeef08dcb3a1ccd82ea2eb4ee7a199c", null ]
+];

@@ -1,0 +1,6 @@
+<map id="QuantConnect.Lean.Engine.DataFeeds.TextSubscriptionDataSourceReader.Read" name="QuantConnect.Lean.Engine.DataFeeds.TextSubscriptionDataSourceReader.Read">
+<area shape="rect" id="node1" title="Reads the specified source" alt="" coords="5,43,239,99"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Lean_1_1Engine_1_1DataFeeds_1_1BaseSubscriptionDataSourceReader.html#a722a3e99039d7aa02b25df5dd54f8820" title="Creates a new IStreamReader for the specified subscriptionDataSource" alt="" coords="287,5,537,61"/>
+<area shape="rect" id="node4" href="$classQuantConnect_1_1Data_1_1BaseData.html#a03d7e32a72441b85521eb86d0f6cb127" title="Reader converts each line of the data source into BaseData objects. Each data type creates its own fa..." alt="" coords="302,86,522,127"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Lean_1_1Engine_1_1DataFeeds_1_1BaseSubscriptionDataSourceReader.html#a4f33151f5c236a60bcd78fa58e74503d" title="Event invocator for the InvalidSource event" alt="" coords="585,5,824,61"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="QuantConnect.Algorithm.Framework.Portfolio.BlackLittermanOptimizationPortfolioConstructionModel" name="QuantConnect.Algorithm.Framework.Portfolio.BlackLittermanOptimizationPortfolioConstructionModel">
+<area shape="rect" id="node1" title="Provides an implementation of Black&#45;Litterman portfolio optimization. The model adjusts equilibrium m..." alt="" coords="5,229,269,285"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Algorithm_1_1Framework_1_1Portfolio_1_1PortfolioConstructionModel.html" title="Provides a base class for portfolio construction models" alt="" coords="38,155,237,181"/>
+<area shape="rect" id="node3" href="$interfaceQuantConnect_1_1Algorithm_1_1Framework_1_1Portfolio_1_1IPortfolioConstructionModel.html" title="Algorithm framework model that" alt="" coords="36,80,239,107"/>
+<area shape="rect" id="node4" href="$interfaceQuantConnect_1_1Algorithm_1_1Framework_1_1INotifiedSecurityChanges.html" title="Types implementing this interface will be called when the algorithm&#39;s set of securities changes" alt="" coords="44,5,231,32"/>
+</map>

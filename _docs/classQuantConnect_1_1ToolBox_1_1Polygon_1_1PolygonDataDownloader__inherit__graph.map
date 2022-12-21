@@ -1,0 +1,5 @@
+<map id="QuantConnect.ToolBox.Polygon.PolygonDataDownloader" name="QuantConnect.ToolBox.Polygon.PolygonDataDownloader">
+<area shape="rect" id="node1" title="Data downloader class for pulling data from Polygon.io" alt="" coords="29,80,258,121"/>
+<area shape="rect" id="node2" href="$interfaceQuantConnect_1_1IDataDownloader.html" title="Data Downloader Interface for pulling data from a remote source." alt="" coords="5,5,140,32"/>
+<area shape="rect" id="node3" title=" " alt="" coords="165,5,263,32"/>
+</map>

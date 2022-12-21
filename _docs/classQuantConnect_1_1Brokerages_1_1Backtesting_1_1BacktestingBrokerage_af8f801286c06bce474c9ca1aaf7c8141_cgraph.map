@@ -1,0 +1,11 @@
+<map id="QuantConnect.Brokerages.Backtesting.BacktestingBrokerage.ActivateOptionAssignment" name="QuantConnect.Brokerages.Backtesting.BacktestingBrokerage.ActivateOptionAssignment">
+<area shape="rect" id="node1" title="This method is called by market simulator in order to launch an assignment event" alt="" coords="5,209,256,265"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Securities_1_1SecurityTransactionManager.html#a136cdc31b644e087e48f4f986e8c064b" title="Processes the order request" alt="" coords="304,144,563,200"/>
+<area shape="rect" id="node8" href="$classQuantConnect_1_1Logging_1_1Log.html#a4e55477fbc790846b74550a57198cea9" title="Log trace" alt="" coords="333,253,533,294"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Securities_1_1SecurityTransactionManager.html#a470623a731aa5e8e241518af157c9ffe" title="Get a new order id, and increment the internal counter." alt="" coords="611,5,843,61"/>
+<area shape="rect" id="node4" href="$interfaceQuantConnect_1_1Securities_1_1IOrderProcessor.html#a153e85c4defb70ea096de8e35c340f4e" title="Adds the specified order to be processed" alt="" coords="633,86,820,127"/>
+<area shape="rect" id="node5" href="$classQuantConnect_1_1Orders_1_1OrderResponse.html#aee85b2e31d5c1887ec0cfa15568777c9" title="Returns a string that represents the current object." alt="" coords="626,151,827,193"/>
+<area shape="rect" id="node6" href="$classQuantConnect_1_1Orders_1_1OrderResponse.html#af8bdc5b0fd7d8e5929a659099d1d939f" title="Helper method to create an error response due to algorithm still in warmup mode" alt="" coords="626,217,827,258"/>
+<area shape="rect" id="node7" href="$classQuantConnect_1_1Orders_1_1OrderResponse.html#a14ded2753785926becc5e7f8e5a02a09" title="Helper method to create an error response from a request" alt="" coords="891,217,1092,258"/>
+<area shape="rect" id="node9" href="$interfaceQuantConnect_1_1Logging_1_1ILogHandler.html#a3fb71a33ac66129240b63f12b6fcda3b" title="Write debug message to log" alt="" coords="627,282,827,323"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="QuantConnect.Logging.Log.Trace" name="QuantConnect.Logging.Log.Trace">
+<area shape="rect" id="node1" title="Writes the message in normal text" alt="" coords="5,5,205,47"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Logging_1_1Log.html#a4e55477fbc790846b74550a57198cea9" title="Log trace" alt="" coords="253,5,453,47"/>
+<area shape="rect" id="node3" href="$interfaceQuantConnect_1_1Logging_1_1ILogHandler.html#a3fb71a33ac66129240b63f12b6fcda3b" title="Write debug message to log" alt="" coords="501,5,701,47"/>
+</map>

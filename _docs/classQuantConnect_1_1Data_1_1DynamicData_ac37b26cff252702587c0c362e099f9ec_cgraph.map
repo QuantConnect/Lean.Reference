@@ -1,0 +1,5 @@
+<map id="QuantConnect.Data.DynamicData.SetProperty" name="QuantConnect.Data.DynamicData.SetProperty">
+<area shape="rect" id="node1" title="Sets the property with the specified name to the value. This is a case&#45;insensitve search." alt="" coords="5,5,216,47"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1SymbolCache.html#a16ba0efea4bf17d7a83e417a86beb1b5" title="Gets the Symbol object that is mapped to the specified string ticker symbol" alt="" coords="264,5,475,47"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1SymbolCache.html#a131a5bb015b9a603328d0eddfe90c610" title="Gets the Symbol object that is mapped to the specified string ticker symbol" alt="" coords="523,5,733,47"/>
+</map>

@@ -1,0 +1,11 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$classQuantConnect_1_1Orders_1_1Order.html" title="Order struct for placing new trade" alt="" coords="5,242,207,269"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Orders_1_1LimitIfTouchedOrder.html" title="In effect, a LimitIfTouchedOrder behaves opposite to the StopLimitOrder; after a trigger price is tou..." alt="" coords="261,5,459,47"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Orders_1_1LimitOrder.html" title="Limit order type definition" alt="" coords="261,71,459,112"/>
+<area shape="rect" id="node4" href="$classQuantConnect_1_1Orders_1_1MarketOnCloseOrder.html" title="Market on close order type &#45; submits a market order on exchange close" alt="" coords="255,136,465,177"/>
+<area shape="rect" id="node5" href="$classQuantConnect_1_1Orders_1_1MarketOnOpenOrder.html" title="Market on Open order type, submits a market order when the exchange opens" alt="" coords="255,201,465,243"/>
+<area shape="rect" id="node6" href="$classQuantConnect_1_1Orders_1_1MarketOrder.html" title="Market order type definition" alt="" coords="255,267,465,308"/>
+<area shape="rect" id="node7" href="$classQuantConnect_1_1Orders_1_1OptionExerciseOrder.html" title="Option exercise order type definition" alt="" coords="256,332,464,373"/>
+<area shape="rect" id="node8" href="$classQuantConnect_1_1Orders_1_1StopLimitOrder.html" title="Stop Market Order Type Definition" alt="" coords="263,397,457,439"/>
+<area shape="rect" id="node9" href="$classQuantConnect_1_1Orders_1_1StopMarketOrder.html" title="Stop Market Order Type Definition" alt="" coords="263,463,457,504"/>
+</map>

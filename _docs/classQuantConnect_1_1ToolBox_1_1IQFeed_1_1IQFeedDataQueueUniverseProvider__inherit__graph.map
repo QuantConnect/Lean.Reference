@@ -1,0 +1,6 @@
+<map id="QuantConnect.ToolBox.IQFeed.IQFeedDataQueueUniverseProvider" name="QuantConnect.ToolBox.IQFeed.IQFeedDataQueueUniverseProvider">
+<area shape="rect" id="node1" title="Class implements several interfaces to support IQFeed symbol mapping to LEAN and symbol lookup Refer ..." alt="" coords="175,80,427,121"/>
+<area shape="rect" id="node2" href="$interfaceQuantConnect_1_1Interfaces_1_1IDataQueueUniverseProvider.html" title="This interface allows interested parties to lookup or enumerate the available symbols...." alt="" coords="5,5,216,32"/>
+<area shape="rect" id="node3" href="$interfaceQuantConnect_1_1Brokerages_1_1ISymbolMapper.html" title="Provides the mapping between Lean symbols and brokerage specific symbols." alt="" coords="239,5,363,32"/>
+<area shape="rect" id="node4" title=" " alt="" coords="388,5,487,32"/>
+</map>

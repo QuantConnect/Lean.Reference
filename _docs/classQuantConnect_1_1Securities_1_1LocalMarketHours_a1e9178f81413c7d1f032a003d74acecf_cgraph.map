@@ -1,0 +1,4 @@
+<map id="QuantConnect.Securities.LocalMarketHours.ClosedAllDay" name="QuantConnect.Securities.LocalMarketHours.ClosedAllDay">
+<area shape="rect" id="node1" title="Gets a LocalMarketHours instance that is always closed" alt="" coords="5,5,236,47"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Securities_1_1LocalMarketHours.html#af735a7f5215c72259ab040336e2220b9" title="Initializes a new instance of the LocalMarketHours class" alt="" coords="284,5,544,47"/>
+</map>

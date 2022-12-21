@@ -1,0 +1,6 @@
+<map id="QuantConnect.Securities.Option.StrategyMatcher.IOptionPositionCollectionEnumerator" name="QuantConnect.Securities.Option.StrategyMatcher.IOptionPositionCollectionEnumerator">
+<area shape="rect" id="node1" title="Enumerates an OptionPositionCollection. The intent is to evaluate positions that may be more importan..." alt="" coords="5,85,232,141"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Securities_1_1Option_1_1StrategyMatcher_1_1AbsoluteRiskOptionPositionCollectionEnumerator.html" title="Stub class providing an idea towards an optimal IOptionPositionCollectionEnumerator implementation th..." alt="" coords="280,5,567,61"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Securities_1_1Option_1_1StrategyMatcher_1_1DefaultOptionPositionCollectionEnumerator.html" title="Provides a default implementation of the IOptionPositionCollectionEnumerator abstraction." alt="" coords="294,85,553,141"/>
+<area shape="rect" id="node4" href="$classQuantConnect_1_1Securities_1_1Option_1_1StrategyMatcher_1_1FunctionalOptionPositionCollectionEnumerator.html" title="Provides a functional implementation of IOptionPositionCollectionEnumerator" alt="" coords="294,165,553,221"/>
+</map>

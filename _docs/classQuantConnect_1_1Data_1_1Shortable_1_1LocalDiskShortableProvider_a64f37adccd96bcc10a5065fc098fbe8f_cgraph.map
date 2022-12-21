@@ -1,0 +1,5 @@
+<map id="QuantConnect.Data.Shortable.LocalDiskShortableProvider.ShortableQuantity" name="QuantConnect.Data.Shortable.LocalDiskShortableProvider.ShortableQuantity">
+<area shape="rect" id="node1" title="Gets the quantity shortable for the Symbol at the given date." alt="" coords="5,27,272,83"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Parse.html#a059d312ae5ffeb051e50a1464236116c" title="Parses the provided value as a System.DateTime using System.DateTime.ParseExact(string,..." alt="" coords="320,5,541,47"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Parse.html#a1f34ac1d8f4831faa80fd67d2ab5b85d" title="Parses the provided value as a long using CultureInfo.InvariantCulture" alt="" coords="337,71,525,98"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="QuantConnect.Securities.Positions.IPositionGroupBuyingPowerModel.GetPositionGroupBuyingPower" name="QuantConnect.Securities.Positions.IPositionGroupBuyingPowerModel.GetPositionGroupBuyingPower">
+<area shape="rect" id="node1" title="Gets the buying power available for a position group trade" alt="" coords="344,13,649,69"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Securities_1_1Positions_1_1PositionGroupBuyingPowerModelExtensions.html#a5e8172922fc5db3a76766993179f96d0" title="Gets the buying power available for a position group trade" alt="" coords="5,5,296,76"/>
+</map>

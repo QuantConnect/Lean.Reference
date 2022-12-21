@@ -1,0 +1,6 @@
+<map id="QuantConnect.Statistics.PortfolioStatistics.PortfolioStatistics" name="QuantConnect.Statistics.PortfolioStatistics.PortfolioStatistics">
+<area shape="rect" id="node1" title="Initializes a new instance of the PortfolioStatistics class" alt="" coords="5,79,201,135"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Statistics_1_1Statistics.html#a9559a5800e45650ccdb5f8938ffdacfa" title="Annual compounded returns statistic based on the final&#45;starting capital and years." alt="" coords="261,5,483,61"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Statistics_1_1Statistics.html#add146facefce7b834fb50706dcee9a2d" title="Helper method to calculate the probabilistic sharpe ratio" alt="" coords="249,86,495,127"/>
+<area shape="rect" id="node4" href="$classQuantConnect_1_1Statistics_1_1Statistics.html#a22459faadd83ae1de5c824ab775dde38" title="Tracking error volatility (TEV) statistic &#45; a measure of how closely a portfolio follows the index to..." alt="" coords="281,151,463,193"/>
+</map>

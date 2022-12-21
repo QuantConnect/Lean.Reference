@@ -1,0 +1,5 @@
+<map id="QuantConnect.ToolBox.RandomDataGenerator.DefaultSymbolGenerator.GetAvailableSymbolCount" name="QuantConnect.ToolBox.RandomDataGenerator.DefaultSymbolGenerator.GetAvailableSymbolCount">
+<area shape="rect" id="node1" title="Returns the number of symbols with the specified parameters can be generated. Returns int...." alt="" coords="5,35,292,91"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Securities_1_1SymbolPropertiesDatabase.html#a3b4d0360c1a785aaaa3a440ce1e91204" title="Check whether symbol properties exists for the specified market/symbol/security&#45;type" alt="" coords="340,5,624,47"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Securities_1_1SymbolPropertiesDatabase.html#a13409909230e8a82ee9d64fa2caa3b89" title="Gets a list of symbol properties for the specified market/security&#45;type" alt="" coords="369,71,595,127"/>
+</map>

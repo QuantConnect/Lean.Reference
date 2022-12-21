@@ -1,0 +1,9 @@
+var classQuantConnect_1_1Data_1_1Fundamental_1_1GainLossonFinancialInstrumentsDesignatedasCashFlowHedgesIncomeStatement =
+[
+    [ "GainLossonFinancialInstrumentsDesignatedasCashFlowHedgesIncomeStatement", "classQuantConnect_1_1Data_1_1Fundamental_1_1GainLossonFinancialInstrumentsDesignatedasCashFlowHedgesIncomeStatement.html#a80af18a7cfd1022aa717254026c2b747", null ],
+    [ "DefaultPeriod", "classQuantConnect_1_1Data_1_1Fundamental_1_1GainLossonFinancialInstrumentsDesignatedasCashFlowHedgesIncomeStatement.html#a83cd216f49871eabcfd5d6f4dae4c1d0", null ],
+    [ "ThreeMonths", "classQuantConnect_1_1Data_1_1Fundamental_1_1GainLossonFinancialInstrumentsDesignatedasCashFlowHedgesIncomeStatement.html#a70f52e8e1e1820654e991978b1aa5acf", null ],
+    [ "SixMonths", "classQuantConnect_1_1Data_1_1Fundamental_1_1GainLossonFinancialInstrumentsDesignatedasCashFlowHedgesIncomeStatement.html#aefff92c08021064a1c18d86b79bf8608", null ],
+    [ "NineMonths", "classQuantConnect_1_1Data_1_1Fundamental_1_1GainLossonFinancialInstrumentsDesignatedasCashFlowHedgesIncomeStatement.html#a76b0f0fef4462896eb20d521eba5f18f", null ],
+    [ "TwelveMonths", "classQuantConnect_1_1Data_1_1Fundamental_1_1GainLossonFinancialInstrumentsDesignatedasCashFlowHedgesIncomeStatement.html#a2ee769a053a12b11ade10ba27b791c0f", null ]
+];

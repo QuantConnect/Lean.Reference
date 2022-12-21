@@ -1,0 +1,4 @@
+<map id="QuantConnect.Interfaces.IBrokerage.Disconnect" name="QuantConnect.Interfaces.IBrokerage.Disconnect">
+<area shape="rect" id="node1" title="Disconnects the client from the broker&#39;s remote servers" alt="" coords="325,5,512,47"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Lean_1_1Engine_1_1Setup_1_1BrokerageSetupHandler.html#aec774a0486258dc021de23471985ffd3" title="Performs application&#45;defined tasks associated with freeing, releasing, or resetting unmanaged resourc..." alt="" coords="5,5,277,47"/>
+</map>

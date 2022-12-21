@@ -1,0 +1,6 @@
+<map id="QuantConnect.ToolBox.CoinApi.Messages.BaseMessage" name="QuantConnect.ToolBox.CoinApi.Messages.BaseMessage">
+<area shape="rect" id="node1" title=" " alt="" coords="5,71,212,112"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1ToolBox_1_1CoinApi_1_1Messages_1_1ErrorMessage.html" title=" " alt="" coords="264,5,469,47"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1ToolBox_1_1CoinApi_1_1Messages_1_1QuoteMessage.html" title=" " alt="" coords="260,71,473,112"/>
+<area shape="rect" id="node4" href="$classQuantConnect_1_1ToolBox_1_1CoinApi_1_1Messages_1_1TradeMessage.html" title=" " alt="" coords="262,136,471,177"/>
+</map>

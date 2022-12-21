@@ -1,0 +1,4 @@
+<map id="QuantConnect.Data.Market.Tick.SetValue" name="QuantConnect.Data.Market.Tick.SetValue">
+<area shape="rect" id="node1" title="Sets the tick Value based on ask and bid price" alt="" coords="256,5,459,47"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Data_1_1Market_1_1Tick.html#af2af2a29c01910d26e1680d316d68f1d" title="Parse a tick data line from quantconnect zip source files." alt="" coords="5,5,208,47"/>
+</map>

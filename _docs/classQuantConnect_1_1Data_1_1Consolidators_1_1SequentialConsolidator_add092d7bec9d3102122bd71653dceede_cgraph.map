@@ -1,0 +1,4 @@
+<map id="QuantConnect.Data.Consolidators.SequentialConsolidator.Scan" name="QuantConnect.Data.Consolidators.SequentialConsolidator.Scan">
+<area shape="rect" id="node1" title="Scans this consolidator to see if it should emit a bar due to time passing" alt="" coords="5,5,252,47"/>
+<area shape="rect" id="node2" href="$interfaceQuantConnect_1_1Data_1_1Consolidators_1_1IDataConsolidator.html#af6eb1305b4c3fdee605386ee16474145" title="Scans this consolidator to see if it should emit a bar due to time passing" alt="" coords="300,5,547,47"/>
+</map>

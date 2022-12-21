@@ -1,0 +1,6 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$interfaceQuantConnect_1_1Scheduling_1_1IFluentSchedulingDateSpecifier.html" title="Specifies the date rule component of a scheduled event" alt="" coords="280,5,505,47"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Scheduling_1_1FluentScheduledEventBuilder.html" title="Provides a builder class to allow for fluent syntax when constructing new events" alt="" coords="553,39,767,80"/>
+<area shape="rect" id="node3" href="$interfaceQuantConnect_1_1Scheduling_1_1IFluentSchedulingTimeSpecifier.html" title="Specifies the time rule component of a scheduled event" alt="" coords="5,71,232,112"/>
+<area shape="rect" id="node4" href="$interfaceQuantConnect_1_1Scheduling_1_1IFluentSchedulingRunnable.html" title="Specifies the callback component of a scheduled event, as well as final filters" alt="" coords="293,71,492,112"/>
+</map>

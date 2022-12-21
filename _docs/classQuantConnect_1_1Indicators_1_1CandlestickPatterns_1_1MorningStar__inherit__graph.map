@@ -1,0 +1,5 @@
+<map id="QuantConnect.Indicators.CandlestickPatterns.MorningStar" name="QuantConnect.Indicators.CandlestickPatterns.MorningStar">
+<area shape="rect" id="node1" title="Morning Star candlestick pattern" alt="" coords="5,169,240,211"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Indicators_1_1CandlestickPatterns_1_1CandlestickPattern.html" title="Abstract base class for a candlestick pattern indicator" alt="" coords="51,95,195,121"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Indicators_1_1WindowIndicator.html" title=" " alt="" coords="16,5,229,47"/>
+</map>

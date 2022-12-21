@@ -1,0 +1,4 @@
+<map id="QuantConnect.Lean.Engine.DataFeeds.Enumerators.FrontierAwareEnumerator" name="QuantConnect.Lean.Engine.DataFeeds.Enumerators.FrontierAwareEnumerator">
+<area shape="rect" id="node1" title="Provides an implementation of IEnumerator&lt;BaseData&gt; that will not emit data ahead of the frontier as ..." alt="" coords="5,80,237,136"/>
+<area shape="rect" id="node2" title=" " alt="" coords="24,5,219,32"/>
+</map>

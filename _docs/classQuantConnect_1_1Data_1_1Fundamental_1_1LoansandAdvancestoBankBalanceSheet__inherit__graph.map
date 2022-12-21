@@ -1,0 +1,4 @@
+<map id="QuantConnect.Data.Fundamental.LoansandAdvancestoBankBalanceSheet" name="QuantConnect.Data.Fundamental.LoansandAdvancestoBankBalanceSheet">
+<area shape="rect" id="node1" title="The aggregate amount of loans and advances made to a bank or financial institution." alt="" coords="5,80,288,121"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Data_1_1Fundamental_1_1MultiPeriodField.html" title="Abstract base class for multi&#45;period fields" alt="" coords="83,5,210,32"/>
+</map>

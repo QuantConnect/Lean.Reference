@@ -1,0 +1,11 @@
+<map id="QuantConnect.Lean.Engine.HistoricalData.SynchronizingHistoryProvider" name="QuantConnect.Lean.Engine.HistoricalData.SynchronizingHistoryProvider">
+<area shape="rect" id="node1" title="Provides an abstract implementation of IHistoryProvider which provides synchronization of multiple hi..." alt="" coords="585,159,843,215"/>
+<area shape="rect" id="node5" href="$classQuantConnect_1_1Lean_1_1Engine_1_1HistoricalData_1_1BrokerageHistoryProvider.html" title="Provides an implementation of IHistoryProvider that relies on a brokerage connection to retrieve hist..." alt="" coords="891,5,1123,61"/>
+<area shape="rect" id="node6" href="$classQuantConnect_1_1Lean_1_1Engine_1_1HistoricalData_1_1SubscriptionDataReaderHistoryProvider.html" title="Provides an implementation of IHistoryProvider that uses BaseData instances to retrieve historical da..." alt="" coords="891,85,1122,141"/>
+<area shape="rect" id="node7" href="$classQuantConnect_1_1ToolBox_1_1CoinApi_1_1CoinApiDataQueueHandler.html" title="An implementation of IDataQueueHandler for CoinAPI" alt="" coords="896,166,1117,207"/>
+<area shape="rect" id="node8" href="$classQuantConnect_1_1ToolBox_1_1IEX_1_1IEXDataQueueHandler.html" title="IEX live data handler. See more at https://iexcloud.io/docs/api/" alt="" coords="907,231,1106,273"/>
+<area shape="rect" id="node9" href="$classQuantConnect_1_1ToolBox_1_1Polygon_1_1PolygonDataQueueHandler.html" title="An implementation of IDataQueueHandler and IHistoryProvider for Polygon.io" alt="" coords="892,297,1121,338"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Data_1_1HistoryProviderBase.html" title="Provides a base type for all history providers" alt="" coords="383,173,537,200"/>
+<area shape="rect" id="node3" href="$interfaceQuantConnect_1_1Interfaces_1_1IHistoryProvider.html" title="Provides historical data to an algorithm at runtime" alt="" coords="208,173,335,200"/>
+<area shape="rect" id="node4" href="$interfaceQuantConnect_1_1Interfaces_1_1IDataProviderEvents.html" title="Events related to data providers" alt="" coords="5,173,160,200"/>
+</map>

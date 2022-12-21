@@ -1,0 +1,4 @@
+<map id="QuantConnect.Data.Fundamental.ConvertibleLoansNonCurrentBalanceSheet" name="QuantConnect.Data.Fundamental.ConvertibleLoansNonCurrentBalanceSheet">
+<area shape="rect" id="node1" title="A long term loan with a warrant attached that gives the debt holder the option to exchange all or a p..." alt="" coords="5,80,304,121"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Data_1_1Fundamental_1_1MultiPeriodField.html" title="Abstract base class for multi&#45;period fields" alt="" coords="91,5,218,32"/>
+</map>

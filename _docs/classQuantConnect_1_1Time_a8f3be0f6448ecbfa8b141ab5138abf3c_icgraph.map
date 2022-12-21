@@ -1,0 +1,4 @@
+<map id="QuantConnect.Time.TimeStamp" name="QuantConnect.Time.TimeStamp">
+<area shape="rect" id="node1" title="Get the current time as a unix timestamp" alt="" coords="295,13,525,39"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Api_1_1ApiConnection.html#ad584a71b83ddfe14c7e45849bc6c8ac3" title="Place a secure request and get back an object of type T." alt="" coords="5,5,247,47"/>
+</map>

@@ -1,0 +1,13 @@
+<map id="QuantConnect.Lean.Engine.AlgorithmManager.HandleSplits" name="QuantConnect.Lean.Engine.AlgorithmManager.HandleSplits">
+<area shape="rect" id="node1" title="Helper method to apply a split to an algorithm instance" alt="" coords="5,261,233,303"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Securities_1_1SecurityPortfolioManager.html#ae72fb9e5643e4196ddb8180e744927b0" title="Applies a split to the portfolio" alt="" coords="281,79,537,120"/>
+<area shape="rect" id="node5" href="$classQuantConnect_1_1Logging_1_1Log.html#ad908daef9d61532d7d60c9dcfb9a3e0c" title="Output to the console" alt="" coords="309,148,509,189"/>
+<area shape="rect" id="node7" href="$classQuantConnect_1_1Securities_1_1SecurityTransactionManager.html#a40a5adc0c964d6f0f472f93fc56d4d53" title="Get an enumerable of open OrderTicket for the specified symbol" alt="" coords="293,214,525,270"/>
+<area shape="rect" id="node8" href="$interfaceQuantConnect_1_1Interfaces_1_1ISubscriptionDataConfigProvider.html#a38160779e60c783450e66c7e2f81e941" title="Gets a list of all registered SubscriptionDataConfig for a given Symbol" alt="" coords="292,294,527,350"/>
+<area shape="rect" id="node9" href="$classQuantConnect_1_1Logging_1_1Log.html#a4e55477fbc790846b74550a57198cea9" title="Log trace" alt="" coords="309,375,509,416"/>
+<area shape="rect" id="node11" href="$classQuantConnect_1_1Securities_1_1SecurityManager.html#af3ad97e370ceec706ac1afe70f7fbb42" title="Try and get this security object with matching symbol and return true on success." alt="" coords="303,440,516,481"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Securities_1_1Cash.html#af5a7561893cf6fa38c3ee83d434fe32d" title="Adds the specified amount of currency to this Cash instance and returns the new total...." alt="" coords="619,5,806,47"/>
+<area shape="rect" id="node4" href="$classQuantConnect_1_1Securities_1_1SecurityPortfolioManager.html#a752342997e11998f5c14f238c2ad4b5d" title="Will flag the current TotalPortfolioValue as invalid so it is recalculated when gotten" alt="" coords="585,71,840,127"/>
+<area shape="rect" id="node6" href="$interfaceQuantConnect_1_1Logging_1_1ILogHandler.html#a2c738b8e78dd5b54244bc68b969ba91d" title="Write debug message to log" alt="" coords="613,152,813,193"/>
+<area shape="rect" id="node10" href="$interfaceQuantConnect_1_1Logging_1_1ILogHandler.html#a3fb71a33ac66129240b63f12b6fcda3b" title="Write debug message to log" alt="" coords="613,375,813,416"/>
+</map>

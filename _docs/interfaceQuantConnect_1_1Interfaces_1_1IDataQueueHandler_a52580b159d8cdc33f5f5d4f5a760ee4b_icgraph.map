@@ -1,0 +1,4 @@
+<map id="QuantConnect.Interfaces.IDataQueueHandler.Subscribe" name="QuantConnect.Interfaces.IDataQueueHandler.Subscribe">
+<area shape="rect" id="node1" title="Subscribe to the specified configuration" alt="" coords="247,5,463,47"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Extensions.html#aa017d6eff582a07c0c8942395c5456bf" title="Helper method to subscribe a given configuration, handling any required mapping" alt="" coords="5,5,199,47"/>
+</map>

@@ -1,0 +1,9 @@
+<map id="QuantConnect.Data.Custom.Tiingo.TiingoPrice" name="QuantConnect.Data.Custom.Tiingo.TiingoPrice">
+<area shape="rect" id="node1" title="Tiingo daily price data https://api.tiingo.com/docs/tiingo/daily" alt="" coords="6,229,213,271"/>
+<area shape="rect" id="node7" href="$classQuantConnect_1_1Data_1_1Custom_1_1Tiingo_1_1TiingoDailyData.html" title="Tiingo daily price data https://api.tiingo.com/docs/tiingo/daily" alt="" coords="6,319,213,360"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Data_1_1Market_1_1TradeBar.html" title="TradeBar class for second and minute resolution data: An OHLC implementation of the QuantConnect Base..." alt="" coords="70,155,149,181"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Data_1_1BaseData.html" title="Abstract base data class of QuantConnect. It is intended to be extended to define generic user custom..." alt="" coords="5,80,91,107"/>
+<area shape="rect" id="node4" href="$interfaceQuantConnect_1_1Data_1_1IBaseData.html" title="Base Data Class: Type, Timestamp, Key – Base Features." alt="" coords="18,5,107,32"/>
+<area shape="rect" id="node5" href="$interfaceQuantConnect_1_1Data_1_1Market_1_1IBaseDataBar.html" title="Represents a type that is both a bar and base data" alt="" coords="115,80,226,107"/>
+<area shape="rect" id="node6" href="$interfaceQuantConnect_1_1Data_1_1Market_1_1IBar.html" title="Generic bar interface with Open, High, Low and Close." alt="" coords="147,5,195,32"/>
+</map>

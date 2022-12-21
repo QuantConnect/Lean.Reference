@@ -1,0 +1,4 @@
+<map id="QuantConnect.Data.Fundamental.CommonStockIssuanceCashFlowStatement" name="QuantConnect.Data.Fundamental.CommonStockIssuanceCashFlowStatement">
+<area shape="rect" id="node1" title="The cash inflow from offering common stock, which is the additional capital contribution to the entit..." alt="" coords="5,80,311,121"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Data_1_1Fundamental_1_1MultiPeriodField.html" title="Abstract base class for multi&#45;period fields" alt="" coords="95,5,221,32"/>
+</map>

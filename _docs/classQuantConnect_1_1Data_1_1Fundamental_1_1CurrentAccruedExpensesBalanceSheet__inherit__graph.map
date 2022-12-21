@@ -1,0 +1,4 @@
+<map id="QuantConnect.Data.Fundamental.CurrentAccruedExpensesBalanceSheet" name="QuantConnect.Data.Fundamental.CurrentAccruedExpensesBalanceSheet">
+<area shape="rect" id="node1" title="An expense recognized before it is paid for. Includes compensation, interest, pensions and all other ..." alt="" coords="5,80,279,121"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Data_1_1Fundamental_1_1MultiPeriodField.html" title="Abstract base class for multi&#45;period fields" alt="" coords="79,5,205,32"/>
+</map>

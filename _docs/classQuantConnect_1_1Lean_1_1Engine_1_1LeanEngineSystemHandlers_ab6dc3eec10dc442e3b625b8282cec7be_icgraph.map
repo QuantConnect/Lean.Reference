@@ -1,0 +1,5 @@
+<map id="QuantConnect.Lean.Engine.LeanEngineSystemHandlers.FromConfiguration" name="QuantConnect.Lean.Engine.LeanEngineSystemHandlers.FromConfiguration">
+<area shape="rect" id="node1" title="Creates a new instance of the LeanEngineSystemHandlers class from the specified composer using type n..." alt="" coords="275,39,603,80"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Lean_1_1Engine_1_1Initializer.html#a7524eafaf359e6e12cc30b9ade9a193f" title="Get and initializes System Handler" alt="" coords="8,5,224,47"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Research_1_1QuantBook.html#a239bcca3c726a8cc25b9a6a3cd0c244f" title="QuantBook constructor. Provides access to data for quantitative analysis" alt="" coords="5,71,227,112"/>
+</map>

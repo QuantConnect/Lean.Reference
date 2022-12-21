@@ -1,0 +1,4 @@
+<map id="QuantConnect.Indicators.TimeSeriesIndicator.InverseDifferencedSeries" name="QuantConnect.Indicators.TimeSeriesIndicator.InverseDifferencedSeries">
+<area shape="rect" id="node1" title="Undoes the differencing of a time series which has been differenced using DifferenceSeries...." alt="" coords="292,5,571,61"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Indicators_1_1AutoRegressiveIntegratedMovingAverage.html#a5ffa7e781ebe89455aa990709c4a8dfb" title="Forecasts the series of the fitted model one point ahead." alt="" coords="5,5,244,61"/>
+</map>

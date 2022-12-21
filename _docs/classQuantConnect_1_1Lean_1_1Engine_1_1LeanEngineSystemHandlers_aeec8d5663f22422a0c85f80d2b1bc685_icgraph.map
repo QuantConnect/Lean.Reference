@@ -1,0 +1,5 @@
+<map id="QuantConnect.Lean.Engine.LeanEngineSystemHandlers.Initialize" name="QuantConnect.Lean.Engine.LeanEngineSystemHandlers.Initialize">
+<area shape="rect" id="node1" title="Initializes the Api, Messaging, and JobQueue components" alt="" coords="275,39,539,80"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Lean_1_1Engine_1_1Initializer.html#a7524eafaf359e6e12cc30b9ade9a193f" title="Get and initializes System Handler" alt="" coords="8,5,224,47"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Research_1_1QuantBook.html#a239bcca3c726a8cc25b9a6a3cd0c244f" title="QuantBook constructor. Provides access to data for quantitative analysis" alt="" coords="5,71,227,112"/>
+</map>

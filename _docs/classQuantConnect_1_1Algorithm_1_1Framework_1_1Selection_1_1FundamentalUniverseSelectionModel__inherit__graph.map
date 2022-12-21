@@ -1,0 +1,9 @@
+<map id="QuantConnect.Algorithm.Framework.Selection.FundamentalUniverseSelectionModel" name="QuantConnect.Algorithm.Framework.Selection.FundamentalUniverseSelectionModel">
+<area shape="rect" id="node1" title="Provides a base class for defining equity coarse/fine fundamental selection models" alt="" coords="465,119,795,161"/>
+<area shape="rect" id="node4" href="$classQuantConnect_1_1Algorithm_1_1Framework_1_1Selection_1_1CoarseFundamentalUniverseSelectionModel.html" title="Portfolio selection model that uses coarse selectors. For US equities only." alt="" coords="883,5,1158,61"/>
+<area shape="rect" id="node5" href="$classQuantConnect_1_1Algorithm_1_1Framework_1_1Selection_1_1EmaCrossUniverseSelectionModel.html" title="Provides an implementation of FundamentalUniverseSelectionModel that subscribes to symbols with the l..." alt="" coords="866,86,1175,127"/>
+<area shape="rect" id="node6" href="$classQuantConnect_1_1Algorithm_1_1Framework_1_1Selection_1_1FineFundamentalUniverseSelectionModel.html" title="Portfolio selection model that uses coarse/fine selectors. For US equities only." alt="" coords="843,151,1199,193"/>
+<area shape="rect" id="node7" href="$classQuantConnect_1_1Algorithm_1_1Framework_1_1Selection_1_1QC500UniverseSelectionModel.html" title="Defines the QC500 universe as a universe selection model for framework algorithm For details: https:/..." alt="" coords="877,217,1164,258"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Algorithm_1_1Framework_1_1Selection_1_1UniverseSelectionModel.html" title="Provides a base class for universe selection models." alt="" coords="237,127,417,153"/>
+<area shape="rect" id="node3" href="$interfaceQuantConnect_1_1Algorithm_1_1Framework_1_1Selection_1_1IUniverseSelectionModel.html" title="Algorithm framework model that defines the universes to be used by an algorithm" alt="" coords="5,127,189,153"/>
+</map>

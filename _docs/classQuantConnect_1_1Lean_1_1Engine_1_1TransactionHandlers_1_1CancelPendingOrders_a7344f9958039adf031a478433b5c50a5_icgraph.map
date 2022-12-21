@@ -1,0 +1,5 @@
+<map id="QuantConnect.Lean.Engine.TransactionHandlers.CancelPendingOrders.Set" name="QuantConnect.Lean.Engine.TransactionHandlers.CancelPendingOrders.Set">
+<area shape="rect" id="node1" title="Adds an order which will be canceled and we want to keep track of it Status in case of fallback" alt="" coords="699,5,953,61"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Lean_1_1Engine_1_1TransactionHandlers_1_1BrokerageTransactionHandler.html#afb049bcccdaba6992bd31bf91280d9a9" title="Remove this order from outstanding queue: user is requesting a cancel." alt="" coords="352,5,651,61"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Lean_1_1Engine_1_1TransactionHandlers_1_1BrokerageTransactionHandler.html#ad7914edfb9b6e24fcbcd637e2c468cd5" title="Adds the specified order to be processed" alt="" coords="5,5,304,61"/>
+</map>

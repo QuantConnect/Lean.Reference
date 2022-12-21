@@ -1,0 +1,6 @@
+<map id="QuantConnect.Data.Market.DataDictionary&lt; T &gt;" name="QuantConnect.Data.Market.DataDictionary&lt; T &gt;">
+<area shape="rect" id="node1" title="Provides a base class for types holding base data instances keyed by symbol" alt="" coords="103,169,306,211"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1ExtendedDictionary.html" title="Provides a base class for types holding instances keyed by Symbol" alt="" coords="5,95,193,121"/>
+<area shape="rect" id="node3" href="$interfaceQuantConnect_1_1Interfaces_1_1IExtendedDictionary.html" title=" " alt="" coords="22,5,177,47"/>
+<area shape="rect" id="node4" title=" " alt="" coords="217,95,405,121"/>
+</map>

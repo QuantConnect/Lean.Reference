@@ -1,0 +1,4 @@
+<map id="QuantConnect.Securities.Option.QLOptionPriceModel" name="QuantConnect.Securities.Option.QLOptionPriceModel">
+<area shape="rect" id="node1" title="Provides QuantLib(QL) implementation of IOptionPriceModel to support major option pricing models,..." alt="" coords="5,80,207,121"/>
+<area shape="rect" id="node2" href="$interfaceQuantConnect_1_1Securities_1_1Option_1_1IOptionPriceModel.html" title="Defines a model used to calculate the theoretical price of an option contract." alt="" coords="35,5,177,32"/>
+</map>

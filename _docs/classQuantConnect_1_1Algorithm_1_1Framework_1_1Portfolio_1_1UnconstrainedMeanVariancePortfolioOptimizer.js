@@ -1,0 +1,4 @@
+var classQuantConnect_1_1Algorithm_1_1Framework_1_1Portfolio_1_1UnconstrainedMeanVariancePortfolioOptimizer =
+[
+    [ "Optimize", "classQuantConnect_1_1Algorithm_1_1Framework_1_1Portfolio_1_1UnconstrainedMeanVariancePortfolioOptimizer.html#acd8fcf18144c0c7f025b96fe171f9bad", null ]
+];

@@ -1,0 +1,4 @@
+<map id="QuantConnect.Interfaces.IAlgorithm.SetCash" name="QuantConnect.Interfaces.IAlgorithm.SetCash">
+<area shape="rect" id="node1" title="Set the starting capital for the strategy" alt="" coords="328,13,515,54"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Lean_1_1Engine_1_1Setup_1_1BaseSetupHandler.html#a60df2522664a966c90bf77355685c554" title="Sets the initial cash for the algorithm if set in the job packet." alt="" coords="5,5,280,61"/>
+</map>

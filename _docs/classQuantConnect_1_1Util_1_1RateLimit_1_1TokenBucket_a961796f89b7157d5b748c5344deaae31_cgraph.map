@@ -1,0 +1,4 @@
+<map id="QuantConnect.Util.RateLimit.TokenBucket.Consume" name="QuantConnect.Util.RateLimit.TokenBucket.Consume">
+<area shape="rect" id="node1" title="Provides an overload of ITokenBucket.Consume that accepts a TimeSpan timeout" alt="" coords="5,5,217,47"/>
+<area shape="rect" id="node2" href="$interfaceQuantConnect_1_1Util_1_1RateLimit_1_1ITokenBucket.html#a81a78bec34363645845d6691f3e3ceea" title="Blocks until the specified number of tokens are available for consumption and then consumes that numb..." alt="" coords="265,5,477,47"/>
+</map>

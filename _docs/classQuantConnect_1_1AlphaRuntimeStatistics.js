@@ -1,0 +1,25 @@
+var classQuantConnect_1_1AlphaRuntimeStatistics =
+[
+    [ "AlphaRuntimeStatistics", "classQuantConnect_1_1AlphaRuntimeStatistics.html#a5e59fe272dd1a79e4e1a720f8874b9ad", null ],
+    [ "AlphaRuntimeStatistics", "classQuantConnect_1_1AlphaRuntimeStatistics.html#ab2279e797c87b861775fc8bdb545d564", null ],
+    [ "ToDictionary", "classQuantConnect_1_1AlphaRuntimeStatistics.html#ad6444375d8704bd508db3fcbb6e80686", null ],
+    [ "SetDate", "classQuantConnect_1_1AlphaRuntimeStatistics.html#ae4833635b601ce40d511246c367f6825", null ],
+    [ "SetStartDate", "classQuantConnect_1_1AlphaRuntimeStatistics.html#a4b36d02cc56bf09ec195a303e64847b9", null ],
+    [ "LongShortRatio", "classQuantConnect_1_1AlphaRuntimeStatistics.html#a11d30c54ad4151ffa7831dd2939e8e52", null ],
+    [ "MeanPopulationEstimatedInsightValue", "classQuantConnect_1_1AlphaRuntimeStatistics.html#ab57644ffc946203a847f308b0e18f06b", null ],
+    [ "MeanPopulationScore", "classQuantConnect_1_1AlphaRuntimeStatistics.html#ad9a47bca6fbd4ea04dd994b5178cc986", null ],
+    [ "RollingAveragedPopulationScore", "classQuantConnect_1_1AlphaRuntimeStatistics.html#a1918a4b2919cd357c8062b1996f213e9", null ],
+    [ "LongCount", "classQuantConnect_1_1AlphaRuntimeStatistics.html#a531c3e12cac448a0fd79b8bbdca2c73d", null ],
+    [ "ShortCount", "classQuantConnect_1_1AlphaRuntimeStatistics.html#a4b8c8793b092857fc52e1583c6c3166a", null ],
+    [ "TotalAccumulatedEstimatedAlphaValue", "classQuantConnect_1_1AlphaRuntimeStatistics.html#a6b57930c2c7d71aafef8410b7216b1ea", null ],
+    [ "KellyCriterionEstimate", "classQuantConnect_1_1AlphaRuntimeStatistics.html#a0ce6bcb14810177158b3e09089dae71c", null ],
+    [ "KellyCriterionProbabilityValue", "classQuantConnect_1_1AlphaRuntimeStatistics.html#af6678f7caa829a22acf3eec515178d12", null ],
+    [ "FitnessScore", "classQuantConnect_1_1AlphaRuntimeStatistics.html#af92656ab81a16ea4ae540c60b5215a67", null ],
+    [ "PortfolioTurnover", "classQuantConnect_1_1AlphaRuntimeStatistics.html#a9c212a47a66b36c859725a51f38c2c15", null ],
+    [ "ReturnOverMaxDrawdown", "classQuantConnect_1_1AlphaRuntimeStatistics.html#a39fa0b56edef1a63e0ff45e8d1604f1a", null ],
+    [ "SortinoRatio", "classQuantConnect_1_1AlphaRuntimeStatistics.html#a1154bc259415944325d58f95af01bab1", null ],
+    [ "EstimatedMonthlyAlphaValue", "classQuantConnect_1_1AlphaRuntimeStatistics.html#ac2f046b6f6fc6f16f5971da901844ba6", null ],
+    [ "TotalInsightsGenerated", "classQuantConnect_1_1AlphaRuntimeStatistics.html#a6eb9eae99b09e3946166667e783c1653", null ],
+    [ "TotalInsightsClosed", "classQuantConnect_1_1AlphaRuntimeStatistics.html#ac0bf6d7cfdb873ee629a845776263b10", null ],
+    [ "TotalInsightsAnalysisCompleted", "classQuantConnect_1_1AlphaRuntimeStatistics.html#a200c6d9e89aa1805e3269f6ecf9dc034", null ]
+];

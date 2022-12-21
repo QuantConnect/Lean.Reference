@@ -1,0 +1,4 @@
+<map id="QuantConnect.Data.Auxiliary.CorporateFactorProvider.HasSplitEventOnNextTradingDay" name="QuantConnect.Data.Auxiliary.CorporateFactorProvider.HasSplitEventOnNextTradingDay">
+<area shape="rect" id="node1" title="Returns true if the specified date is the last trading day before a split event is to be fired" alt="" coords="301,5,537,61"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Lean_1_1Engine_1_1DataFeeds_1_1Enumerators_1_1SplitEventProvider.html#a34efad3d30189138713b4c7b4cfb3f0c" title="Check for new splits" alt="" coords="5,5,253,61"/>
+</map>

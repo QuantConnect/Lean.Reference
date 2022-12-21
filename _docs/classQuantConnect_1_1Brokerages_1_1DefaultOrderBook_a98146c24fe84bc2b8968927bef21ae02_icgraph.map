@@ -1,0 +1,4 @@
+<map id="QuantConnect.Brokerages.DefaultOrderBook.RemoveBidRow" name="QuantConnect.Brokerages.DefaultOrderBook.RemoveBidRow">
+<area shape="rect" id="node1" title="Removes a bid price level from the order book" alt="" coords="317,5,564,47"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Brokerages_1_1DefaultOrderBook.html#ae3ce112fbdbd489c0af88292595dd3c9" title="Common price level removal method" alt="" coords="5,5,269,47"/>
+</map>

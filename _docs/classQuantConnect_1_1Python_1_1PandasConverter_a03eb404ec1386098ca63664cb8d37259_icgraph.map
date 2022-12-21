@@ -1,0 +1,5 @@
+<map id="QuantConnect.Python.PandasConverter.ToString" name="QuantConnect.Python.PandasConverter.ToString">
+<area shape="rect" id="node1" title="Returns a string that represent the current object" alt="" coords="279,39,492,80"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Research_1_1FutureHistory.html#a3268b6cf2f6ee8e123ce0704844b07a4" title="Returns a string that represent the current object" alt="" coords="7,5,229,47"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Research_1_1OptionHistory.html#a13eef8c1939c1a47a5aec81c970e0cca" title="Returns a string that represent the current object" alt="" coords="5,71,231,112"/>
+</map>

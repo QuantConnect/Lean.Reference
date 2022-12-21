@@ -1,0 +1,4 @@
+<map id="QuantConnect.Data.Fundamental.ChangeInDeferredChargesCashFlowStatement" name="QuantConnect.Data.Fundamental.ChangeInDeferredChargesCashFlowStatement">
+<area shape="rect" id="node1" title="The net change during the reporting period in the value of expenditures made during the current repor..." alt="" coords="5,80,329,121"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Data_1_1Fundamental_1_1MultiPeriodField.html" title="Abstract base class for multi&#45;period fields" alt="" coords="104,5,231,32"/>
+</map>

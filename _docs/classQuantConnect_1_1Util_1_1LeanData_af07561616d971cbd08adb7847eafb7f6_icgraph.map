@@ -1,0 +1,11 @@
+<map id="QuantConnect.Util.LeanData.IsCommonLeanDataType" name="QuantConnect.Util.LeanData.IsCommonLeanDataType">
+<area shape="rect" id="node1" title="Determines if the Type is a &#39;common&#39; type used throughout lean This method is helpful in creating Sub..." alt="" coords="1003,71,1213,112"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Data_1_1HistoryRequestFactory.html#a69a65bb2306dffc8c77ba290f4f2080e" title="Creates a new history request" alt="" coords="668,5,935,47"/>
+<area shape="rect" id="node4" href="$classQuantConnect_1_1Data_1_1SubscriptionManager.html#a1db2d9657ee5ecc85607653a46220de2" title="Checks if the subscription is valid for the consolidator" alt="" coords="648,71,955,112"/>
+<area shape="rect" id="node9" href="$classQuantConnect_1_1Data_1_1SubscriptionDataConfigExtensions.html#a9fe4bd812f79ac7c0a6734dd974ada3b" title="Will determine if price scaling should be used for this subscription configuration" alt="" coords="675,137,927,193"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Algorithm_1_1QCAlgorithm.html#a4cb52293763a21a3638d93d26e307bae" title="Gets the historical data for the specified symbols. The exact number of bars will be returned for eac..." alt="" coords="327,5,600,47"/>
+<area shape="rect" id="node5" href="$classQuantConnect_1_1Data_1_1SubscriptionManager.html#a3970e39d984fe8dd05db26d5413a14ac" title="Add a consolidator for the symbol" alt="" coords="347,71,580,112"/>
+<area shape="rect" id="node6" href="$classQuantConnect_1_1Data_1_1SubscriptionManager.html#aa2034d1091ab4ad767a309464627d8fc" title="Add a custom python consolidator for the symbol" alt="" coords="25,5,259,47"/>
+<area shape="rect" id="node7" href="$classQuantConnect_1_1Algorithm_1_1QCAlgorithm.html#a742dc65ba03d21969a1691431ec0cd50" title="Registers the consolidator to receive automatic updates as well as configures the indicator to receiv..." alt="" coords="5,71,279,112"/>
+<area shape="rect" id="node8" href="$classQuantConnect_1_1Algorithm_1_1QCAlgorithm.html#a84aeb9d947c2cf8f275b9524f4c5b830" title="Registers the consolidator to receive automatic updates as well as configures the indicator to receiv..." alt="" coords="5,136,279,177"/>
+</map>

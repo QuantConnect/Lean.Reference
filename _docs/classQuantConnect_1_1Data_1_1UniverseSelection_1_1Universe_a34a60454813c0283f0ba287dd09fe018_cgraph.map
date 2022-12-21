@@ -1,0 +1,5 @@
+<map id="QuantConnect.Data.UniverseSelection.Universe.PerformSelection" name="QuantConnect.Data.UniverseSelection.Universe.PerformSelection">
+<area shape="rect" id="node1" title="Performs universe selection using the data specified" alt="" coords="5,50,265,91"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Data_1_1UniverseSelection_1_1Universe.html#a567d9f5a05e310cbd91e68299ef7f1d6" title="Event invocator for the SelectionChanged event" alt="" coords="322,5,549,61"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Data_1_1UniverseSelection_1_1Universe.html#abe22506a629447a0182d69dbc98c8644" title="Performs universe selection using the data specified" alt="" coords="313,86,557,127"/>
+</map>

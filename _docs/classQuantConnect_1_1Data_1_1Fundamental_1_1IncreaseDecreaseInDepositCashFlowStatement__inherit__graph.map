@@ -1,0 +1,4 @@
+<map id="QuantConnect.Data.Fundamental.IncreaseDecreaseInDepositCashFlowStatement" name="QuantConnect.Data.Fundamental.IncreaseDecreaseInDepositCashFlowStatement">
+<area shape="rect" id="node1" title="The aggregate net change during the reporting period in moneys given as security, collateral,..." alt="" coords="5,80,268,136"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Data_1_1Fundamental_1_1MultiPeriodField.html" title="Abstract base class for multi&#45;period fields" alt="" coords="73,5,200,32"/>
+</map>

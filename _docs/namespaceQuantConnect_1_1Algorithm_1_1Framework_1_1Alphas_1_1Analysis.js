@@ -1,0 +1,14 @@
+var namespaceQuantConnect_1_1Algorithm_1_1Framework_1_1Alphas_1_1Analysis =
+[
+    [ "Functions", "namespaceQuantConnect_1_1Algorithm_1_1Framework_1_1Alphas_1_1Analysis_1_1Functions.html", "namespaceQuantConnect_1_1Algorithm_1_1Framework_1_1Alphas_1_1Analysis_1_1Functions" ],
+    [ "Providers", "namespaceQuantConnect_1_1Algorithm_1_1Framework_1_1Alphas_1_1Analysis_1_1Providers.html", "namespaceQuantConnect_1_1Algorithm_1_1Framework_1_1Alphas_1_1Analysis_1_1Providers" ],
+    [ "IInsightManager", "interfaceQuantConnect_1_1Algorithm_1_1Framework_1_1Alphas_1_1Analysis_1_1IInsightManager.html", "interfaceQuantConnect_1_1Algorithm_1_1Framework_1_1Alphas_1_1Analysis_1_1IInsightManager" ],
+    [ "IInsightScoreFunction", "interfaceQuantConnect_1_1Algorithm_1_1Framework_1_1Alphas_1_1Analysis_1_1IInsightScoreFunction.html", "interfaceQuantConnect_1_1Algorithm_1_1Framework_1_1Alphas_1_1Analysis_1_1IInsightScoreFunction" ],
+    [ "IInsightScoreFunctionProvider", "interfaceQuantConnect_1_1Algorithm_1_1Framework_1_1Alphas_1_1Analysis_1_1IInsightScoreFunctionProvider.html", "interfaceQuantConnect_1_1Algorithm_1_1Framework_1_1Alphas_1_1Analysis_1_1IInsightScoreFunctionProvider" ],
+    [ "InsightAnalysisContext", "classQuantConnect_1_1Algorithm_1_1Framework_1_1Alphas_1_1Analysis_1_1InsightAnalysisContext.html", "classQuantConnect_1_1Algorithm_1_1Framework_1_1Alphas_1_1Analysis_1_1InsightAnalysisContext" ],
+    [ "InsightManager", "classQuantConnect_1_1Algorithm_1_1Framework_1_1Alphas_1_1Analysis_1_1InsightManager.html", "classQuantConnect_1_1Algorithm_1_1Framework_1_1Alphas_1_1Analysis_1_1InsightManager" ],
+    [ "ISecurityValuesProvider", "interfaceQuantConnect_1_1Algorithm_1_1Framework_1_1Alphas_1_1Analysis_1_1ISecurityValuesProvider.html", "interfaceQuantConnect_1_1Algorithm_1_1Framework_1_1Alphas_1_1Analysis_1_1ISecurityValuesProvider" ],
+    [ "ReadOnlySecurityValuesCollection", "classQuantConnect_1_1Algorithm_1_1Framework_1_1Alphas_1_1Analysis_1_1ReadOnlySecurityValuesCollection.html", "classQuantConnect_1_1Algorithm_1_1Framework_1_1Alphas_1_1Analysis_1_1ReadOnlySecurityValuesCollection" ],
+    [ "SecurityValues", "classQuantConnect_1_1Algorithm_1_1Framework_1_1Alphas_1_1Analysis_1_1SecurityValues.html", "classQuantConnect_1_1Algorithm_1_1Framework_1_1Alphas_1_1Analysis_1_1SecurityValues" ],
+    [ "SecurityValuesProviderExtensions", "classQuantConnect_1_1Algorithm_1_1Framework_1_1Alphas_1_1Analysis_1_1SecurityValuesProviderExtensions.html", "classQuantConnect_1_1Algorithm_1_1Framework_1_1Alphas_1_1Analysis_1_1SecurityValuesProviderExtensions" ]
+];

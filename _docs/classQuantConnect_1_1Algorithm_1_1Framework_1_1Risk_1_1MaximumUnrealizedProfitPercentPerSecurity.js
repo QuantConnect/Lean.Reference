@@ -1,0 +1,5 @@
+var classQuantConnect_1_1Algorithm_1_1Framework_1_1Risk_1_1MaximumUnrealizedProfitPercentPerSecurity =
+[
+    [ "MaximumUnrealizedProfitPercentPerSecurity", "classQuantConnect_1_1Algorithm_1_1Framework_1_1Risk_1_1MaximumUnrealizedProfitPercentPerSecurity.html#ac7081e05474951154628a59ace7f3962", null ],
+    [ "ManageRisk", "classQuantConnect_1_1Algorithm_1_1Framework_1_1Risk_1_1MaximumUnrealizedProfitPercentPerSecurity.html#af9110f9d0ed785d9c4c98fe807dfa1ed", null ]
+];

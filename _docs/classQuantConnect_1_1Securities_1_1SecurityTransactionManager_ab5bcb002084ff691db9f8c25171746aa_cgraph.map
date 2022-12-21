@@ -1,0 +1,4 @@
+<map id="QuantConnect.Securities.SecurityTransactionManager.GetOpenOrders" name="QuantConnect.Securities.SecurityTransactionManager.GetOpenOrders">
+<area shape="rect" id="node1" title="Gets open orders matching the specified filter. Specifying null will return an enumerable of all open..." alt="" coords="5,5,237,61"/>
+<area shape="rect" id="node2" href="$interfaceQuantConnect_1_1Securities_1_1IOrderProvider.html#a29effa032a6c7fe508853e8a55c7a7c2" title="Gets open orders matching the specified filter. Specifying null will return an enumerable of all open..." alt="" coords="285,13,504,54"/>
+</map>

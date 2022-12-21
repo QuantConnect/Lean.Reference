@@ -1,0 +1,6 @@
+<map id="QuantConnect.Securities.Option.Option.SetFilter" name="QuantConnect.Securities.Option.Option.SetFilter">
+<area shape="rect" id="node1" title="Sets the ContractFilter to a new instance of the filter using the specified min and max strike values..." alt="" coords="247,71,433,112"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Extensions.html#a3136540dfa1d7ca50c7d3e95ca5da928" title="Creates a OptionChainUniverse for a given symbol" alt="" coords="5,5,199,47"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Securities_1_1Option_1_1Option.html#ae39ce21662f04ff4ba26c754e0b33c23" title="Constructor for the option security" alt="" coords="9,71,195,112"/>
+<area shape="rect" id="node4" href="$classQuantConnect_1_1Securities_1_1Option_1_1Option.html#aaad50cf68c04b0688b92e1047ec6d57f" title="Sets the ContractFilter to a new instance of the filter using the specified min and max strike and ex..." alt="" coords="9,136,195,177"/>
+</map>

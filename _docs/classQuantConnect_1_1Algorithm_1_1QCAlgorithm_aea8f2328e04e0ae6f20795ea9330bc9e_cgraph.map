@@ -1,0 +1,4 @@
+<map id="QuantConnect.Algorithm.QCAlgorithm.SEDOL" name="QuantConnect.Algorithm.QCAlgorithm.SEDOL">
+<area shape="rect" id="node1" title="Converts a SEDOL identifier into a Symbol" alt="" coords="5,5,279,47"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Securities_1_1SecurityDefinitionSymbolResolver.html#a1bc14cfdd0578a6ba85f2093cee60c20" title="Converts SEDOL into a Lean Symbol" alt="" coords="327,5,617,47"/>
+</map>

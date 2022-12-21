@@ -1,0 +1,6 @@
+<map id="QuantConnect.Parse.Long" name="QuantConnect.Parse.Long">
+<area shape="rect" id="node1" title="Parses the provided value as a long using CultureInfo.InvariantCulture" alt="" coords="336,93,524,120"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Data_1_1Shortable_1_1LocalDiskShortableProvider.html#af2005f27df6f392dac51c01a6ffec482" title="Gets a list of all shortable Symbols, including the quantity shortable as a Dictionary." alt="" coords="5,5,288,61"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Data_1_1Custom_1_1FxcmVolume.html#a509354c7f32d1e25a4e38ff2fcb9e2fb" title="Reader converts each line of the data source into BaseData objects. Each data type creates its own fa..." alt="" coords="43,86,250,127"/>
+<area shape="rect" id="node4" href="$classQuantConnect_1_1Data_1_1Shortable_1_1LocalDiskShortableProvider.html#a64f37adccd96bcc10a5065fc098fbe8f" title="Gets the quantity shortable for the Symbol at the given date." alt="" coords="13,152,280,208"/>
+</map>

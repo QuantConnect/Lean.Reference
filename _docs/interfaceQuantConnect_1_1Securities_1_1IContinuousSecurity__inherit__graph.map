@@ -1,0 +1,4 @@
+<map id="QuantConnect.Securities.IContinuousSecurity" name="QuantConnect.Securities.IContinuousSecurity">
+<area shape="rect" id="node1" title="A continuous security that get&#39;s mapped during his life" alt="" coords="5,5,192,47"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Securities_1_1Future_1_1Future.html" title="Futures Security Object Implementation for Futures Assets" alt="" coords="5,95,192,136"/>
+</map>

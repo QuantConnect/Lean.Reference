@@ -1,0 +1,4 @@
+<map id="QuantConnect.Data.Custom.AlphaStreams.PositionState" name="QuantConnect.Data.Custom.AlphaStreams.PositionState">
+<area shape="rect" id="node1" title="Snapshot of a position state" alt="" coords="5,80,212,121"/>
+<area shape="rect" id="node2" href="$interfaceQuantConnect_1_1Securities_1_1Positions_1_1IPosition.html" title="Defines a position for inclusion in a group" alt="" coords="69,5,148,32"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="QuantConnect.Securities.Positions.OptionStrategyPositionGroupResolver.TryGroup" name="QuantConnect.Securities.Positions.OptionStrategyPositionGroupResolver.TryGroup">
+<area shape="rect" id="node1" title="Attempts to group the specified positions into a new IPositionGroup using an appropriate IPositionGro..." alt="" coords="5,5,240,61"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Securities_1_1Positions_1_1OptionStrategyPositionGroupResolver.html#a333866b9ac88df8f18fc2081383faa78" title="Determines the position groups that would be evaluated for grouping of the specified positions were p..." alt="" coords="288,5,539,61"/>
+</map>

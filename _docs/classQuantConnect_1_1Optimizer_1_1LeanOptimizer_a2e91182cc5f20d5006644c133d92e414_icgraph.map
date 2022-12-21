@@ -1,0 +1,4 @@
+<map id="QuantConnect.Optimizer.LeanOptimizer.NewResult" name="QuantConnect.Optimizer.LeanOptimizer.NewResult">
+<area shape="rect" id="node1" title="Handles a new backtest json result matching a requested backtest id" alt="" coords="300,5,516,47"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Optimizer_1_1Launcher_1_1ConsoleLeanOptimizer.html#a07a8cac3be3d32928af953ec29e3bda9" title="Handles starting Lean for a given parameter set" alt="" coords="5,5,252,47"/>
+</map>

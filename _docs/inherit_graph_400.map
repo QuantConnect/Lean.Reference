@@ -1,0 +1,4 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$interfaceQuantConnect_1_1Securities_1_1IRegisteredSecurityDataTypesProvider.html" title="Provides the set of base data types registered in the algorithm" alt="" coords="5,5,223,61"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Securities_1_1RegisteredSecurityDataTypesProvider.html" title="Provides an implementation of IRegisteredSecurityDataTypesProvider that permits the consumer to modif..." alt="" coords="271,13,537,54"/>
+</map>

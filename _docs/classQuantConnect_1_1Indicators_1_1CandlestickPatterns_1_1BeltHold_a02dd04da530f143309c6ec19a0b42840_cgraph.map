@@ -1,0 +1,11 @@
+<map id="QuantConnect.Indicators.CandlestickPatterns.BeltHold.ComputeNextValue" name="QuantConnect.Indicators.CandlestickPatterns.BeltHold.ComputeNextValue">
+<area shape="rect" id="node1" title="Computes the next value of this indicator from the given state" alt="" coords="5,200,220,256"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Indicators_1_1CandlestickPatterns_1_1CandlestickPattern.html#abfef9cee8cff1859d77bb2c54ded7322" title="Returns the average range of the previous candles" alt="" coords="268,109,499,165"/>
+<area shape="rect" id="node4" href="$classQuantConnect_1_1Indicators_1_1CandlestickPatterns_1_1CandlestickPattern.html#a05b2e39af6efdc4ef734663b1c31d61e" title="Returns the range of a candle" alt="" coords="547,152,777,208"/>
+<area shape="rect" id="node6" href="$classQuantConnect_1_1Indicators_1_1CandlestickPatterns_1_1CandlestickPattern.html#ae57bf84c9247ead2c32aab56c2e4ecac" title="Returns the range of the candle&#39;s lower shadow" alt="" coords="850,5,1081,61"/>
+<area shape="rect" id="node7" href="$classQuantConnect_1_1Indicators_1_1CandlestickPatterns_1_1CandlestickPattern.html#a47cb6b45c58d94689f6233487e981d10" title="Returns the distance between the close and the open of a candle" alt="" coords="850,232,1081,288"/>
+<area shape="rect" id="node8" href="$classQuantConnect_1_1Indicators_1_1CandlestickPatterns_1_1CandlestickPattern.html#ab499aa69437c2a6e83b2f1c05421c203" title="Returns the range of the candle&#39;s upper shadow" alt="" coords="850,312,1081,368"/>
+<area shape="rect" id="node9" href="$classQuantConnect_1_1Indicators_1_1CandlestickPatterns_1_1CandlestickPattern.html#a4ffcf1c3b910415989e6d399b917f499" title="Returns the candle color of a candle" alt="" coords="268,341,499,397"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Indicators_1_1CandlestickPatterns_1_1CandleSettings.html#a1e65d2caf61e018e94574519fee75620" title="Returns the candle setting for the requested type" alt="" coords="825,86,1105,127"/>
+<area shape="rect" id="node5" href="$classQuantConnect_1_1Indicators_1_1CandlestickPatterns_1_1CandlestickPattern.html#ae61e2032511d5338a48f8d5b8be906b7" title="Returns the full range of the candle" alt="" coords="850,152,1081,208"/>
+</map>

@@ -1,0 +1,9 @@
+<map id="QuantConnect.Orders.Fills.EquityFillModel.IsExchangeOpen" name="QuantConnect.Orders.Fills.EquityFillModel.IsExchangeOpen">
+<area shape="rect" id="node1" title="Determines if the exchange is open using the current time of the asset" alt="" coords="5,71,240,112"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Securities_1_1SecurityExchange.html#a0cb909c2d8b9da2709749846b313e3bb" title="Check if this DateTime is open." alt="" coords="289,5,539,47"/>
+<area shape="rect" id="node6" href="$classQuantConnect_1_1Securities_1_1Security.html#ab93a58a84a4aa1b19d0972faf6c056c4" title="Get the last price update set to the security if any else null" alt="" coords="321,71,507,112"/>
+<area shape="rect" id="node7" href="$classQuantConnect_1_1Securities_1_1SecurityExchange.html#a17daa159794484b17946fc540864800c" title="Determines if the exchange was open at any time between start and stop" alt="" coords="288,136,540,177"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Securities_1_1SecurityExchangeHours.html#ad680493077edb2267e639615b3c672a7" title="Determines if the exchange is open at the specified local date time." alt="" coords="588,71,813,112"/>
+<area shape="rect" id="node4" href="$classQuantConnect_1_1Securities_1_1SecurityExchangeHours.html#a106e2dd187ab76452e14ac6a28f929aa" title="Helper to access the market hours field based on the day of week" alt="" coords="861,37,1148,79"/>
+<area shape="rect" id="node5" href="$classQuantConnect_1_1Securities_1_1LocalMarketHours.html#a8a898ad9f8fa0c41f4a04b8dfc513777" title="Determines if the exchange is open at the specified time" alt="" coords="911,103,1099,144"/>
+</map>

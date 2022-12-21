@@ -1,0 +1,7 @@
+<map id="QuantConnect.Interfaces.IDataQueueUniverseProvider" name="QuantConnect.Interfaces.IDataQueueUniverseProvider">
+<area shape="rect" id="node1" title="This interface allows interested parties to lookup or enumerate the available symbols...." alt="" coords="5,104,216,145"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Lean_1_1Engine_1_1DataFeeds_1_1DataQueueHandlerManager.html" title="This is an implementation of IDataQueueHandler used to handle multiple live datafeeds" alt="" coords="264,5,540,47"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Lean_1_1Engine_1_1DataFeeds_1_1Queues_1_1FakeDataQueue.html" title="This is an implementation of IDataQueueHandler used for testing. FakeHistoryProvider" alt="" coords="277,71,527,112"/>
+<area shape="rect" id="node4" href="$classQuantConnect_1_1ToolBox_1_1IQFeed_1_1IQFeedDataQueueHandler.html" title="IQFeedDataQueueHandler is an implementation of IDataQueueHandler and IHistoryProvider" alt="" coords="291,136,513,177"/>
+<area shape="rect" id="node5" href="$classQuantConnect_1_1ToolBox_1_1IQFeed_1_1IQFeedDataQueueUniverseProvider.html" title="Class implements several interfaces to support IQFeed symbol mapping to LEAN and symbol lookup Refer ..." alt="" coords="276,201,528,243"/>
+</map>

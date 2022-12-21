@@ -1,0 +1,4 @@
+<map id="QuantConnect.Orders.Order.FromSerialized" name="QuantConnect.Orders.Order.FromSerialized">
+<area shape="rect" id="node1" title="Creates a new Order instance from a SerializedOrder instance" alt="" coords="320,5,524,47"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Orders_1_1Serialization_1_1SerializedOrderJsonConverter.html#a6cfaeafcc6f3697d680ed0cf2dfa6a47" title="Converts the input value to be deserialized" alt="" coords="5,5,272,47"/>
+</map>

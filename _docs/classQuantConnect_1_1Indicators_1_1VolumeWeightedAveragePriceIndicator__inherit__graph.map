@@ -1,0 +1,6 @@
+<map id="QuantConnect.Indicators.VolumeWeightedAveragePriceIndicator" name="QuantConnect.Indicators.VolumeWeightedAveragePriceIndicator">
+<area shape="rect" id="node1" title="Volume Weighted Average Price (VWAP) Indicator: It is calculated by adding up the dollars traded for ..." alt="" coords="71,155,346,196"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Indicators_1_1TradeBarIndicator.html" title="The TradeBarIndicator is an indicator that accepts TradeBar data as its input." alt="" coords="37,80,173,107"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Indicators_1_1IndicatorBase.html" title=" " alt="" coords="5,5,204,32"/>
+<area shape="rect" id="node4" href="$interfaceQuantConnect_1_1Indicators_1_1IIndicatorWarmUpPeriodProvider.html" title="Represents an indicator with a warm up period provider." alt="" coords="197,80,431,107"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="QuantConnect.Securities.CashBuyingPowerModel.GetBuyingPower" name="QuantConnect.Securities.CashBuyingPowerModel.GetBuyingPower">
+<area shape="rect" id="node1" title="Gets the buying power available for a trade" alt="" coords="5,71,296,112"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Orders_1_1Order.html#a40febbe1f74f0fe4dbe109c48e8131f2" title="Gets the value of this order at the given market price in units of the account currency NOTE: Some or..." alt="" coords="355,5,559,47"/>
+<area shape="rect" id="node4" href="$classQuantConnect_1_1Securities_1_1BuyingPowerParameters.html#ae292009079964f26f4df6e43cf176ca3" title="Creates the result using the specified buying power" alt="" coords="344,71,571,112"/>
+<area shape="rect" id="node5" href="$classQuantConnect_1_1Securities_1_1BuyingPowerParameters.html#adddffe381bc8344f9f1a1d9403f4a5c5" title="Creates the result using the specified buying power in units of the account currency" alt="" coords="344,137,571,193"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Orders_1_1Order.html#ae27a9479cf20671d6583328f5c22bfb6" title="Gets the order value in units of the security&#39;s quote currency for a single unit. A single unit here ..." alt="" coords="619,5,823,47"/>
+</map>

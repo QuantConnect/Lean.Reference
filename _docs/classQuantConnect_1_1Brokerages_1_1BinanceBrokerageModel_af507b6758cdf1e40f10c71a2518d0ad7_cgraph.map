@@ -1,0 +1,4 @@
+<map id="QuantConnect.Brokerages.BinanceBrokerageModel.CanSubmitOrder" name="QuantConnect.Brokerages.BinanceBrokerageModel.CanSubmitOrder">
+<area shape="rect" id="node1" title="Returns true if the brokerage could accept this order. This takes into account order type,..." alt="" coords="5,5,296,47"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1StringExtensions.html#ac811f94d814b299daefecb076e0a0bf0" title="Non&#45;extension method alias for FormattableString.Invariant This supports the" alt="" coords="344,5,575,47"/>
+</map>

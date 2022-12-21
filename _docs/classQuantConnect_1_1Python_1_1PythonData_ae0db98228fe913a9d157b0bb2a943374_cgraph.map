@@ -1,0 +1,5 @@
+<map id="QuantConnect.Python.PythonData.IsOfType" name="QuantConnect.Python.PythonData.IsOfType">
+<area shape="rect" id="node1" title="Helper method to determine if the current instance is of the provided type" alt="" coords="5,39,217,80"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Data_1_1DynamicData.html#a4b4de6e9be8b595f6171d07d9e613169" title="Gets the property&#39;s value with the specified name. This is a case&#45;insensitve search." alt="" coords="265,5,476,47"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Data_1_1DynamicData.html#ac7b467901edda688a66bf0ecfaaaa1e9" title="Gets whether or not this dynamic data instance has a property with the specified name...." alt="" coords="265,71,476,112"/>
+</map>

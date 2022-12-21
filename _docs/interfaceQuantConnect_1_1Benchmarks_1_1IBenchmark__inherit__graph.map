@@ -1,0 +1,5 @@
+<map id="QuantConnect.Benchmarks.IBenchmark" name="QuantConnect.Benchmarks.IBenchmark">
+<area shape="rect" id="node1" title="Specifies how to compute a benchmark for an algorithm" alt="" coords="119,5,321,47"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Benchmarks_1_1FuncBenchmark.html" title="Creates a benchmark defined by a function" alt="" coords="5,95,208,136"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Benchmarks_1_1SecurityBenchmark.html" title="Creates a benchmark defined by the closing price of a Security instance" alt="" coords="232,95,435,136"/>
+</map>

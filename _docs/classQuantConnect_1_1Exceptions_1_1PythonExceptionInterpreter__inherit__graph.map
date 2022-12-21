@@ -1,0 +1,8 @@
+<map id="QuantConnect.Exceptions.PythonExceptionInterpreter" name="QuantConnect.Exceptions.PythonExceptionInterpreter">
+<area shape="rect" id="node1" title="Interprets PythonExceptionInterpreter instances" alt="" coords="212,108,412,149"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Exceptions_1_1InvalidTokenPythonExceptionInterpreter.html" title="Interprets InvalidTokenPythonExceptionInterpreter instances" alt="" coords="460,5,741,47"/>
+<area shape="rect" id="node4" href="$classQuantConnect_1_1Exceptions_1_1KeyErrorPythonExceptionInterpreter.html" title="Interprets KeyErrorPythonExceptionInterpreter instances" alt="" coords="473,71,728,112"/>
+<area shape="rect" id="node5" href="$classQuantConnect_1_1Exceptions_1_1NoMethodMatchPythonExceptionInterpreter.html" title="Interprets NoMethodMatchPythonExceptionInterpreter instances" alt="" coords="481,137,720,193"/>
+<area shape="rect" id="node6" href="$classQuantConnect_1_1Exceptions_1_1UnsupportedOperandPythonExceptionInterpreter.html" title="Interprets UnsupportedOperandPythonExceptionInterpreter instances" alt="" coords="466,217,735,273"/>
+<area shape="rect" id="node2" href="$interfaceQuantConnect_1_1Exceptions_1_1IExceptionInterpreter.html" title="Defines an exception interpreter. Interpretations are invoked on IAlgorithm.RunTimeError" alt="" coords="5,115,164,142"/>
+</map>

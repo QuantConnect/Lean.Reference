@@ -1,0 +1,5 @@
+<map id="QuantConnect.Data.UniverseSelection.ConstituentsUniverseData.Reader" name="QuantConnect.Data.UniverseSelection.ConstituentsUniverseData.Reader">
+<area shape="rect" id="node1" title="Reader converts each line of the data source into BaseData objects. Each data type creates its own fa..." alt="" coords="5,5,232,61"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1SecurityIdentifier.html#a89ccb2161613f17d18ca3dc1e9eb3872" title="Parses the specified string into a SecurityIdentifier The string must be a 40 digit number...." alt="" coords="280,13,512,54"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1SecurityIdentifier.html#a59bd74be4ec55a0e4631af9e10f65d7c" title="Attempts to parse the specified &#160;as a SecurityIdentifier." alt="" coords="560,13,792,54"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="QuantConnect.Data.UniverseSelection.ScheduledUniverse" name="QuantConnect.Data.UniverseSelection.ScheduledUniverse">
+<area shape="rect" id="node1" title="Defines a user that is fired based on a specified IDateRule and ITimeRule" alt="" coords="25,155,236,196"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Data_1_1UniverseSelection_1_1Universe.html" title="Provides a base class for all universes to derive from." alt="" coords="15,80,95,107"/>
+<area shape="rect" id="node3" title=" " alt="" coords="5,5,104,32"/>
+<area shape="rect" id="node4" href="$interfaceQuantConnect_1_1Data_1_1UniverseSelection_1_1ITimeTriggeredUniverse.html" title="A universe implementing this interface will NOT use it&#39;s SubscriptionDataConfig to generate data that..." alt="" coords="119,80,297,107"/>
+</map>

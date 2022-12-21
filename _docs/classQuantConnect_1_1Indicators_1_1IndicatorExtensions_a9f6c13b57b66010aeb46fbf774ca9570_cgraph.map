@@ -1,0 +1,4 @@
+<map id="QuantConnect.Indicators.IndicatorExtensions.Minus" name="QuantConnect.Indicators.IndicatorExtensions.Minus">
+<area shape="rect" id="node1" title="Creates a new CompositeIndicator such that the result will be the difference of the left and constant" alt="" coords="5,5,199,47"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Indicators_1_1IndicatorExtensions.html#aea52ea3c796c1dbcaa6b96fb047ff804" title="Creates a new CompositeIndicator such that the result will be the difference of the left and constant" alt="" coords="247,5,440,47"/>
+</map>

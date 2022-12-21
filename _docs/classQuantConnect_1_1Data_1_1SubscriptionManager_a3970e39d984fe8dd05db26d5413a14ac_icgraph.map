@@ -1,0 +1,6 @@
+<map id="QuantConnect.Data.SubscriptionManager.AddConsolidator" name="QuantConnect.Data.SubscriptionManager.AddConsolidator">
+<area shape="rect" id="node1" title="Add a consolidator for the symbol" alt="" coords="327,71,560,112"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Data_1_1SubscriptionManager.html#aa2034d1091ab4ad767a309464627d8fc" title="Add a custom python consolidator for the symbol" alt="" coords="25,5,259,47"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Algorithm_1_1QCAlgorithm.html#a742dc65ba03d21969a1691431ec0cd50" title="Registers the consolidator to receive automatic updates as well as configures the indicator to receiv..." alt="" coords="5,71,279,112"/>
+<area shape="rect" id="node4" href="$classQuantConnect_1_1Algorithm_1_1QCAlgorithm.html#a84aeb9d947c2cf8f275b9524f4c5b830" title="Registers the consolidator to receive automatic updates as well as configures the indicator to receiv..." alt="" coords="5,136,279,177"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="QuantConnect.Data.Custom.IconicTypes.IndexedLinkedData" name="QuantConnect.Data.Custom.IconicTypes.IndexedLinkedData">
+<area shape="rect" id="node1" title="Data type that is indexed, i.e. a file that points to another file containing the contents we&#39;re look..." alt="" coords="5,229,231,271"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Data_1_1IndexedBaseData.html" title="Abstract indexed base data class of QuantConnect. It is intended to be extended to define customizabl..." alt="" coords="50,155,186,181"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Data_1_1BaseData.html" title="Abstract base data class of QuantConnect. It is intended to be extended to define generic user custom..." alt="" coords="75,80,161,107"/>
+<area shape="rect" id="node4" href="$interfaceQuantConnect_1_1Data_1_1IBaseData.html" title="Base Data Class: Type, Timestamp, Key – Base Features." alt="" coords="73,5,163,32"/>
+</map>

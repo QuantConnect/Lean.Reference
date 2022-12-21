@@ -1,0 +1,7 @@
+<map id="QuantConnect.Algorithm.QCAlgorithm.MAX" name="QuantConnect.Algorithm.QCAlgorithm.MAX">
+<area shape="rect" id="node1" title="Creates a new Maximum indicator to compute the maximum value" alt="" coords="5,107,308,134"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Algorithm_1_1QCAlgorithm.html#a46d89a30b7e0513cf7a4ac77f3ca3fe5" title="Creates a new name for an indicator created with the convenience functions (SMA, EMA,..." alt="" coords="356,5,629,47"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Algorithm_1_1QCAlgorithm.html#a918f318ce76cdc3ed9efad235ff7481e" title="Creates and registers a new consolidator to receive automatic updates at the specified resolution as ..." alt="" coords="356,71,629,112"/>
+<area shape="rect" id="node4" href="$classQuantConnect_1_1Algorithm_1_1QCAlgorithm.html#ade17e71e20d320dc9a1efa3ddf8aa3cd" title="Gets the default consolidator for the specified symbol and resolution" alt="" coords="677,100,951,141"/>
+<area shape="rect" id="node5" href="$classQuantConnect_1_1Algorithm_1_1QCAlgorithm.html#a03dc8e8813beefe706843968a059f132" title="Warms up a given indicator with historical data" alt="" coords="356,188,629,229"/>
+</map>

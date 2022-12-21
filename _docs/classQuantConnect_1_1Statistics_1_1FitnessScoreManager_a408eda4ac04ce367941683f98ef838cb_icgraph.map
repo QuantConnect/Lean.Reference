@@ -1,0 +1,4 @@
+<map id="QuantConnect.Statistics.FitnessScoreManager.UpdateScores" name="QuantConnect.Statistics.FitnessScoreManager.UpdateScores">
+<area shape="rect" id="node1" title="Gets the fitness score value for the algorithms current state" alt="" coords="312,13,567,54"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Lean_1_1Engine_1_1Alphas_1_1DefaultAlphaHandler.html#a187676fcfcdbd19bd271ca34afb09a46" title="Performs processing in sync with the algorithm&#39;s time loop to provide consisten reading of data" alt="" coords="5,5,264,61"/>
+</map>

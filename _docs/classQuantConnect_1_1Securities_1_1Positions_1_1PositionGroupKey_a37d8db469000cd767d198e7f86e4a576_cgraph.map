@@ -1,0 +1,4 @@
+<map id="QuantConnect.Securities.Positions.PositionGroupKey.CreateUnitGroup" name="QuantConnect.Securities.Positions.PositionGroupKey.CreateUnitGroup">
+<area shape="rect" id="node1" title="Creates a new IPositionGroup with each position&#39;s quantity equaling it&#39;s unit quantity" alt="" coords="5,5,251,61"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Securities_1_1Positions_1_1PositionGroupKey.html#a89774d64763bb2892224d99812173367" title="Creates a new array of positions with each position quantity equaling its unit quantity" alt="" coords="299,5,544,61"/>
+</map>

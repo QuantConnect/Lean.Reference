@@ -1,0 +1,11 @@
+<map id="QuantConnect.Orders.Fills.FillModel.MarketOnOpenFill" name="QuantConnect.Orders.Fills.FillModel.MarketOnOpenFill">
+<area shape="rect" id="node1" title="Market on Open Fill Model. Return an order event with the fill details" alt="" coords="5,103,207,144"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Securities_1_1SecurityExchange.html#a0cb909c2d8b9da2709749846b313e3bb" title="Check if this DateTime is open." alt="" coords="255,37,506,79"/>
+<area shape="rect" id="node6" href="$classQuantConnect_1_1Securities_1_1Security.html#ab93a58a84a4aa1b19d0972faf6c056c4" title="Get the last price update set to the security if any else null" alt="" coords="287,103,474,144"/>
+<area shape="rect" id="node7" href="$classQuantConnect_1_1Orders_1_1Fills_1_1FillModel.html#a0928cf64fcc49b129663bb9647fe23a0" title="This is required due to a limitation in PythonNet to resolved overriden methods. GetPrices" alt="" coords="255,169,507,225"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Securities_1_1SecurityExchangeHours.html#ad680493077edb2267e639615b3c672a7" title="Determines if the exchange is open at the specified local date time." alt="" coords="555,37,780,79"/>
+<area shape="rect" id="node4" href="$classQuantConnect_1_1Securities_1_1SecurityExchangeHours.html#a106e2dd187ab76452e14ac6a28f929aa" title="Helper to access the market hours field based on the day of week" alt="" coords="828,5,1115,47"/>
+<area shape="rect" id="node5" href="$classQuantConnect_1_1Securities_1_1LocalMarketHours.html#a8a898ad9f8fa0c41f4a04b8dfc513777" title="Determines if the exchange is open at the specified time" alt="" coords="877,71,1065,112"/>
+<area shape="rect" id="node8" href="$classQuantConnect_1_1Orders_1_1Fills_1_1FillModel.html#afa84c82a93805830970d5a4c15ed646c" title="Get the minimum and maximum price for this security in the last bar:" alt="" coords="570,176,765,217"/>
+<area shape="rect" id="node9" href="$classQuantConnect_1_1Securities_1_1SecurityCache.html#a2e22a721cbad979accb38e91dd640b8e" title="Get last data packet received for this security if any else null" alt="" coords="878,176,1065,217"/>
+</map>

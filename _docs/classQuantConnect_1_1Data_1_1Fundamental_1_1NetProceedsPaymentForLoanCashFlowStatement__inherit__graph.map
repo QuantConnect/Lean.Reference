@@ -1,0 +1,4 @@
+<map id="QuantConnect.Data.Fundamental.NetProceedsPaymentForLoanCashFlowStatement" name="QuantConnect.Data.Fundamental.NetProceedsPaymentForLoanCashFlowStatement">
+<area shape="rect" id="node1" title="The net value of proceeds or payments of loans." alt="" coords="5,80,280,136"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Data_1_1Fundamental_1_1MultiPeriodField.html" title="Abstract base class for multi&#45;period fields" alt="" coords="79,5,206,32"/>
+</map>

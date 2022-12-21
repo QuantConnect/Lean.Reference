@@ -1,0 +1,6 @@
+<map id="QuantConnect.ToolBox.AlgoSeekOptionsConverter.AlgoSeekOptionsReader.AlgoSeekOptionsReader" name="QuantConnect.ToolBox.AlgoSeekOptionsConverter.AlgoSeekOptionsReader.AlgoSeekOptionsReader">
+<area shape="rect" id="node1" title="Enumerate through the lines of the algoseek files." alt="" coords="5,71,288,127"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1ToolBox_1_1StreamProvider.html#ab2142b3de2daf1719d898e88990190cc" title="Creates a new IStreamProvider capable of reading a file with the specified extenson" alt="" coords="367,5,587,47"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1ToolBox_1_1AlgoSeekOptionsConverter_1_1AlgoSeekOptionsReader.html#a1803029beac19351e536ba40cb653373" title="Parse the next line of the algoseek option file." alt="" coords="336,71,619,127"/>
+<area shape="rect" id="node4" href="$interfaceQuantConnect_1_1ToolBox_1_1IStreamProvider.html#a2b10fc2bc135909dea9bf4dde05dea33" title="Opens the specified source as read to be consumed stream" alt="" coords="365,152,589,193"/>
+</map>

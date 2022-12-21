@@ -1,0 +1,5 @@
+<map id="QuantConnect.ToolBox.NseMarketDataConverter.NseMarketDataConverterProgram.NseMarketDataConverter" name="QuantConnect.ToolBox.NseMarketDataConverter.NseMarketDataConverterProgram.NseMarketDataConverter">
+<area shape="rect" id="node1" title="Supports data from http://TrueData.in" alt="" coords="5,20,283,91"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Parse.html#a059d312ae5ffeb051e50a1464236116c" title="Parses the provided value as a System.DateTime using System.DateTime.ParseExact(string,..." alt="" coords="331,5,552,47"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Parse.html#aac0a89458d90280d2b3b04afa9e197a2" title="Parses the provided value as a decimal using CultureInfo.InvariantCulture" alt="" coords="336,71,547,98"/>
+</map>

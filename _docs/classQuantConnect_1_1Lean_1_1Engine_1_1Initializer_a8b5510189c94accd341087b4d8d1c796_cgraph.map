@@ -1,0 +1,12 @@
+<map id="QuantConnect.Lean.Engine.Initializer.GetAlgorithmHandlers" name="QuantConnect.Lean.Engine.Initializer.GetAlgorithmHandlers">
+<area shape="rect" id="node1" title="Get and initializes Algorithm Handler" alt="" coords="5,136,236,177"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Lean_1_1Engine_1_1LeanEngineAlgorithmHandlers.html#a9737f33c09743080ebc70bcd06241110" title="Creates a new instance of the LeanEngineAlgorithmHandlers class from the specified composer using typ..." alt="" coords="284,129,540,185"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Configuration_1_1Config.html#aaabf1286e33a675b2e116f3289981839" title="Get the matching config setting from the file searching for this key." alt="" coords="611,71,820,112"/>
+<area shape="rect" id="node8" href="$classQuantConnect_1_1Configuration_1_1Config.html#a1b3f6bb930cb6c34d2ce7dffcdd2605c" title="Get a boolean value configuration setting by a configuration key." alt="" coords="611,136,820,177"/>
+<area shape="rect" id="node9" href="$classQuantConnect_1_1Lean_1_1Engine_1_1LeanEngineAlgorithmHandlers.html#a801bf25656db04bb546039a17c44c778" title="Initializes a new instance of the LeanEngineAlgorithmHandlers class from the specified handlers" alt="" coords="588,202,843,258"/>
+<area shape="rect" id="node4" href="$classQuantConnect_1_1Configuration_1_1Config.html#a1504ca19b3759d008b090375ddf4ad10" title="Gets the currently selected environment. If sub&#45;environments are defined, they&#39;ll be returned as {env..." alt="" coords="905,5,1114,47"/>
+<area shape="rect" id="node5" href="$classQuantConnect_1_1Configuration_1_1Config.html#a9ed01bc116e8181a7557f3e668f34691" title="Gets the underlying JToken for the specified key" alt="" coords="905,71,1114,112"/>
+<area shape="rect" id="node6" href="$classQuantConnect_1_1Logging_1_1Log.html#a4e55477fbc790846b74550a57198cea9" title="Log trace" alt="" coords="909,136,1109,177"/>
+<area shape="rect" id="node7" href="$interfaceQuantConnect_1_1Logging_1_1ILogHandler.html#a3fb71a33ac66129240b63f12b6fcda3b" title="Write debug message to log" alt="" coords="1176,136,1376,177"/>
+<area shape="rect" id="node10" href="$classQuantConnect_1_1Data_1_1DataMonitor.html#a2b093a9e2f75233489a1a2a842683340" title="Event handler for the IDataProvider.NewDataRequest event" alt="" coords="891,209,1128,251"/>
+</map>

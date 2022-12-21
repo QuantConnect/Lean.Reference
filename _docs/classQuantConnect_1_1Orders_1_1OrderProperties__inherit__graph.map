@@ -1,0 +1,13 @@
+<map id="QuantConnect.Orders.OrderProperties" name="QuantConnect.Orders.OrderProperties">
+<area shape="rect" id="node1" title="Contains additional properties and settings for an order" alt="" coords="181,267,383,308"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Orders_1_1BinanceOrderProperties.html" title="Contains additional properties and settings for an order submitted to Binance brokerage" alt="" coords="450,5,667,47"/>
+<area shape="rect" id="node4" href="$classQuantConnect_1_1Orders_1_1BitfinexOrderProperties.html" title="Contains additional properties and settings for an order submitted to Bitfinex brokerage" alt="" coords="451,71,666,112"/>
+<area shape="rect" id="node5" href="$classQuantConnect_1_1Orders_1_1FTXOrderProperties.html" title="Contains additional properties and settings for an order submitted to FTX brokerage" alt="" coords="447,136,671,177"/>
+<area shape="rect" id="node6" href="$classQuantConnect_1_1Orders_1_1GDAXOrderProperties.html" title="Contains additional properties and settings for an order submitted to GDAX brokerage" alt="" coords="439,201,678,243"/>
+<area shape="rect" id="node7" href="$classQuantConnect_1_1Orders_1_1IndiaOrderProperties.html" title="Contains additional properties and settings for an order submitted to Indian Brokerages" alt="" coords="460,267,657,308"/>
+<area shape="rect" id="node8" href="$classQuantConnect_1_1Orders_1_1InteractiveBrokersOrderProperties.html" title="Contains additional properties and settings for an order submitted to Interactive Brokers" alt="" coords="441,332,676,373"/>
+<area shape="rect" id="node9" href="$classQuantConnect_1_1Orders_1_1KrakenOrderProperties.html" title="Kraken order properties" alt="" coords="453,397,664,439"/>
+<area shape="rect" id="node10" href="$classQuantConnect_1_1Orders_1_1TDAmeritradeOrderProperties.html" title="TDAmeritrade order properties" alt="" coords="431,463,687,504"/>
+<area shape="rect" id="node11" href="$classQuantConnect_1_1Orders_1_1WolverineOrderProperties.html" title="Wolverine order properties" alt="" coords="443,528,674,569"/>
+<area shape="rect" id="node2" href="$interfaceQuantConnect_1_1Interfaces_1_1IOrderProperties.html" title="Contains additional properties and settings for an order" alt="" coords="5,274,133,301"/>
+</map>

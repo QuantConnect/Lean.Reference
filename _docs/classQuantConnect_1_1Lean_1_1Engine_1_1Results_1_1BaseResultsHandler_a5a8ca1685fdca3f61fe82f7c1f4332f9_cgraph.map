@@ -1,0 +1,4 @@
+<map id="QuantConnect.Lean.Engine.Results.BaseResultsHandler.GetServerStatistics" name="QuantConnect.Lean.Engine.Results.BaseResultsHandler.GetServerStatistics">
+<area shape="rect" id="node1" title="Gets the current Server statistics" alt="" coords="5,5,236,61"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1OS.html#a30455728a7db15fbb12cc0a9a733da85" title="Gets the statistics of the machine, including CPU% and RAM" alt="" coords="284,13,489,54"/>
+</map>

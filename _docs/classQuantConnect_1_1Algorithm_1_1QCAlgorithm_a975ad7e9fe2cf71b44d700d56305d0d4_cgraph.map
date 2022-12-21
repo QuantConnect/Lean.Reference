@@ -1,0 +1,5 @@
+<map id="QuantConnect.Algorithm.QCAlgorithm.FrameworkPostInitialize" name="QuantConnect.Algorithm.QCAlgorithm.FrameworkPostInitialize">
+<area shape="rect" id="node1" title="Called by setup handlers after Initialize and allows the algorithm a chance to organize the data gath..." alt="" coords="5,46,279,87"/>
+<area shape="rect" id="node2" href="$interfaceQuantConnect_1_1Algorithm_1_1Framework_1_1Selection_1_1IUniverseSelectionModel.html#a06a427bb2e736a7ff364c978f2694246" title="Creates the universes for this algorithm. Called once after IAlgorithm.Initialize" alt="" coords="327,5,622,61"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Algorithm_1_1QCAlgorithm.html#a67b117790972c1715ab8b85742d4bfb7" title="Added another method for logging if user guessed." alt="" coords="327,85,623,112"/>
+</map>

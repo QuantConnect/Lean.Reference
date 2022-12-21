@@ -1,0 +1,4 @@
+<map id="QuantConnect.Data.Fundamental.ChangeinCashSupplementalAsReportedCashFlowStatement" name="QuantConnect.Data.Fundamental.ChangeinCashSupplementalAsReportedCashFlowStatement">
+<area shape="rect" id="node1" title="The change in cash flow from the previous period to the current, as reported by the company,..." alt="" coords="5,80,285,136"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Data_1_1Fundamental_1_1MultiPeriodField.html" title="Abstract base class for multi&#45;period fields" alt="" coords="82,5,209,32"/>
+</map>

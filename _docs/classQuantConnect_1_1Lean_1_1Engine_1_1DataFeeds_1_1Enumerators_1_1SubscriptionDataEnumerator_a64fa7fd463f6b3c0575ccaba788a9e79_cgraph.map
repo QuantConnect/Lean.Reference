@@ -1,0 +1,10 @@
+<map id="QuantConnect.Lean.Engine.DataFeeds.Enumerators.SubscriptionDataEnumerator.MoveNext" name="QuantConnect.Lean.Engine.DataFeeds.Enumerators.SubscriptionDataEnumerator.MoveNext">
+<area shape="rect" id="node1" title="Advances the enumerator to the next element of the collection." alt="" coords="5,63,268,119"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Lean_1_1Engine_1_1DataFeeds_1_1SubscriptionData.html#af428c63e5ddb26c657ae99caf153db59" title="Clones the data, computes the utc emit time and performs exchange round down behavior,..." alt="" coords="316,71,569,112"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Data_1_1BaseData.html#af8622cdfef34470fda9fd08d2f4c02b7" title="Return a new instance clone of this object, used in fill forward" alt="" coords="668,5,888,47"/>
+<area shape="rect" id="node6" href="$classQuantConnect_1_1TimeZoneOffsetProvider.html#a9d630077c5043b0ed30219686cf60338" title="Converts the specified local time to UTC. This function will advance this offset provider" alt="" coords="667,71,889,112"/>
+<area shape="rect" id="node8" href="$classQuantConnect_1_1Lean_1_1Engine_1_1DataFeeds_1_1SubscriptionData.html#a37b6b43caa475f27a3775a3b3241a8de" title="Initializes a new instance of the SubscriptionData class" alt="" coords="617,136,939,177"/>
+<area shape="rect" id="node4" href="$classQuantConnect_1_1Data_1_1BaseData.html#af973f9d8b7c0726fed42fa03ccd5f963" title="Return a new instance clone of this object, used in fill forward" alt="" coords="988,5,1208,47"/>
+<area shape="rect" id="node5" href="$classQuantConnect_1_1Util_1_1ObjectActivator.html#abcd1c91f67b9d78743601743d663cd10" title="Clones the specified instance using reflection" alt="" coords="1257,5,1444,47"/>
+<area shape="rect" id="node7" href="$classQuantConnect_1_1TimeZoneOffsetProvider.html#a0fa8c04313b1edd87eb5908e7cca1b5a" title="Gets the offset in ticks from this time zone to UTC, such that UTC time + offset = local time" alt="" coords="987,71,1209,112"/>
+</map>

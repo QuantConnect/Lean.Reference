@@ -1,0 +1,4 @@
+<map id="QuantConnect.Securities.Positions.PositionGroupBuyingPowerModel.GetReservedBuyingPowerImpact" name="QuantConnect.Securities.Positions.PositionGroupBuyingPowerModel.GetReservedBuyingPowerImpact">
+<area shape="rect" id="node1" title="Computes the impact on the portfolio&#39;s buying power from adding the position group to the portfolio...." alt="" coords="5,5,325,61"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Orders_1_1Order.html#a8324286f8545c74a96c48fe95df34e4c" title="Creates an enumerable containing each position resulting from executing this order." alt="" coords="373,13,577,54"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="QuantConnect.Data.Fundamental.AssetsHeldForSaleNonCurrentBalanceSheet" name="QuantConnect.Data.Fundamental.AssetsHeldForSaleNonCurrentBalanceSheet">
+<area shape="rect" id="node1" title="Long term assets set apart for sale to liquidate in the future and are measured at the lower of carry..." alt="" coords="5,80,312,121"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Data_1_1Fundamental_1_1MultiPeriodField.html" title="Abstract base class for multi&#45;period fields" alt="" coords="95,5,222,32"/>
+</map>

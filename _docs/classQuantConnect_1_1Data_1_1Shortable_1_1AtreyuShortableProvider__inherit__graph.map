@@ -1,0 +1,5 @@
+<map id="QuantConnect.Data.Shortable.AtreyuShortableProvider" name="QuantConnect.Data.Shortable.AtreyuShortableProvider">
+<area shape="rect" id="node1" title="Defines the default Atreyu Shortable Provider" alt="" coords="5,155,224,196"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Data_1_1Shortable_1_1LocalDiskShortableProvider.html" title="Sources easy&#45;to&#45;borrow (ETB) data from the local disk for the given brokerage" alt="" coords="14,80,215,107"/>
+<area shape="rect" id="node3" href="$interfaceQuantConnect_1_1Interfaces_1_1IShortableProvider.html" title="Defines a short list/easy&#45;to&#45;borrow provider" alt="" coords="43,5,186,32"/>
+</map>

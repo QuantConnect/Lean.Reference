@@ -1,0 +1,4 @@
+<map id="QuantConnect.Data.Fundamental.RestructuringAndMergernAcquisitionIncomeStatement" name="QuantConnect.Data.Fundamental.RestructuringAndMergernAcquisitionIncomeStatement">
+<area shape="rect" id="node1" title="Expenses are related to restructuring, merger, or acquisitions. Restructuring expenses are charges as..." alt="" coords="5,80,265,136"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Data_1_1Fundamental_1_1MultiPeriodField.html" title="Abstract base class for multi&#45;period fields" alt="" coords="72,5,199,32"/>
+</map>

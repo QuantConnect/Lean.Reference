@@ -1,0 +1,4 @@
+<map id="QuantConnect.Orders.Fills.FillModel.MarketFill" name="QuantConnect.Orders.Fills.FillModel.MarketFill">
+<area shape="rect" id="node1" title="Default market fill model for the base security class. Fills at the last traded price." alt="" coords="248,5,443,47"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Orders_1_1Fills_1_1FillModel.html#ab2919d2ee3ef2bd42013884458871c85" title="Return an order event with the fill details" alt="" coords="5,5,200,47"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="QuantConnect.Algorithm.Framework.Selection.ETFConstituentsUniverseSelectionModel" name="QuantConnect.Algorithm.Framework.Selection.ETFConstituentsUniverseSelectionModel">
+<area shape="rect" id="node1" title="Universe selection model that selects the constituents of an ETF." alt="" coords="5,155,356,196"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Algorithm_1_1Framework_1_1Selection_1_1UniverseSelectionModel.html" title="Provides a base class for universe selection models." alt="" coords="91,80,271,107"/>
+<area shape="rect" id="node3" href="$interfaceQuantConnect_1_1Algorithm_1_1Framework_1_1Selection_1_1IUniverseSelectionModel.html" title="Algorithm framework model that defines the universes to be used by an algorithm" alt="" coords="89,5,273,32"/>
+</map>

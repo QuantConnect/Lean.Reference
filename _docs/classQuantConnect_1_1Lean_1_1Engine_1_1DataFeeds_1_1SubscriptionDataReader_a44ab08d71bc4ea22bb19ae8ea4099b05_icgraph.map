@@ -1,0 +1,4 @@
+<map id="QuantConnect.Lean.Engine.DataFeeds.SubscriptionDataReader.Initialize" name="QuantConnect.Lean.Engine.DataFeeds.SubscriptionDataReader.Initialize">
+<area shape="rect" id="node1" title="Initializes the SubscriptionDataReader instance" alt="" coords="308,5,563,61"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Lean_1_1Engine_1_1DataFeeds_1_1SubscriptionDataReader.html#a4fa83c28c502b16107397fe40dcae389" title="Advances the enumerator to the next element of the collection." alt="" coords="5,5,260,61"/>
+</map>

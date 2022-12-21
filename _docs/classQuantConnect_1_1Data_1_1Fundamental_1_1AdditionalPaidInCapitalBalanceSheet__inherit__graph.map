@@ -1,0 +1,4 @@
+<map id="QuantConnect.Data.Fundamental.AdditionalPaidInCapitalBalanceSheet" name="QuantConnect.Data.Fundamental.AdditionalPaidInCapitalBalanceSheet">
+<area shape="rect" id="node1" title="Excess of issue price over par or stated value of the entity&#39;s capital stock and amounts received fro..." alt="" coords="5,80,268,121"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Data_1_1Fundamental_1_1MultiPeriodField.html" title="Abstract base class for multi&#45;period fields" alt="" coords="73,5,200,32"/>
+</map>

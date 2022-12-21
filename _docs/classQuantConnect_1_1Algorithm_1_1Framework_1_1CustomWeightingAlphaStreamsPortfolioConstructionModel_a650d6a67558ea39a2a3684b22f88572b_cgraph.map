@@ -1,0 +1,5 @@
+<map id="QuantConnect.Algorithm.Framework.CustomWeightingAlphaStreamsPortfolioConstructionModel.SetAlphaWeights" name="QuantConnect.Algorithm.Framework.CustomWeightingAlphaStreamsPortfolioConstructionModel.SetAlphaWeights">
+<area shape="rect" id="node1" title="Specify a custom set of alpha portfolio weights to use" alt="" coords="5,5,288,61"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Logging_1_1Log.html#a4e55477fbc790846b74550a57198cea9" title="Log trace" alt="" coords="336,13,536,54"/>
+<area shape="rect" id="node3" href="$interfaceQuantConnect_1_1Logging_1_1ILogHandler.html#a3fb71a33ac66129240b63f12b6fcda3b" title="Write debug message to log" alt="" coords="584,13,784,54"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="QuantConnect.Data.BaseData.RequiresMapping" name="QuantConnect.Data.BaseData.RequiresMapping">
+<area shape="rect" id="node1" title="Indicates if there is support for mapping" alt="" coords="611,13,831,54"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Lean_1_1Engine_1_1DataFeeds_1_1SubscriptionDataReader.html#a44ab08d71bc4ea22bb19ae8ea4099b05" title="Initializes the SubscriptionDataReader instance" alt="" coords="308,5,563,61"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Lean_1_1Engine_1_1DataFeeds_1_1SubscriptionDataReader.html#a4fa83c28c502b16107397fe40dcae389" title="Advances the enumerator to the next element of the collection." alt="" coords="5,5,260,61"/>
+</map>

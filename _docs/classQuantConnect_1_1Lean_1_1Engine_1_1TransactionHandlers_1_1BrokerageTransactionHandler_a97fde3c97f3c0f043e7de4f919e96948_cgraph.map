@@ -1,0 +1,4 @@
+<map id="QuantConnect.Lean.Engine.TransactionHandlers.BrokerageTransactionHandler.GetOrderById" name="QuantConnect.Lean.Engine.TransactionHandlers.BrokerageTransactionHandler.GetOrderById">
+<area shape="rect" id="node1" title="Get the order by its id" alt="" coords="5,5,304,61"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Orders_1_1Order.html#afb04cd87c536e71565e1c5e437f7d73b" title="Creates a deep&#45;copy clone of this order" alt="" coords="352,13,556,54"/>
+</map>

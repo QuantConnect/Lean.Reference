@@ -1,0 +1,4 @@
+<map id="QuantConnect.Lean.Engine.DataFeeds.SubscriptionSynchronizer.SetTimeProvider" name="QuantConnect.Lean.Engine.DataFeeds.SubscriptionSynchronizer.SetTimeProvider">
+<area shape="rect" id="node1" title="Sets the time provider. If already set will throw." alt="" coords="5,5,268,61"/>
+<area shape="rect" id="node2" href="$interfaceQuantConnect_1_1ITimeProvider.html#ae51737f869d879dfbb297496e4feb036" title="Gets the current time in UTC" alt="" coords="316,13,528,54"/>
+</map>

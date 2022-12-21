@@ -1,0 +1,4 @@
+<map id="QuantConnect.Exceptions.SystemExceptionInterpreter" name="QuantConnect.Exceptions.SystemExceptionInterpreter">
+<area shape="rect" id="node1" title="Base handler that will try get an exception file and line" alt="" coords="5,80,209,121"/>
+<area shape="rect" id="node2" href="$interfaceQuantConnect_1_1Exceptions_1_1IExceptionInterpreter.html" title="Defines an exception interpreter. Interpretations are invoked on IAlgorithm.RunTimeError" alt="" coords="28,5,187,32"/>
+</map>

@@ -1,0 +1,9 @@
+var classQuantConnect_1_1Data_1_1Fundamental_1_1InterestIncomeFromFederalFundsSoldAndSecuritiesPurche4dd87e5236dbf36b102153a7fecc168 =
+[
+    [ "InterestIncomeFromFederalFundsSoldAndSecuritiesPurchaseUnderAgreementsToResellIncomeStatement", "classQuantConnect_1_1Data_1_1Fundamental_1_1InterestIncomeFromFederalFundsSoldAndSecuritiesPurche4dd87e5236dbf36b102153a7fecc168.html#a806bdc95d0ce55192a400ba4796cd7ad", null ],
+    [ "DefaultPeriod", "classQuantConnect_1_1Data_1_1Fundamental_1_1InterestIncomeFromFederalFundsSoldAndSecuritiesPurche4dd87e5236dbf36b102153a7fecc168.html#a41fddac441405ff82a9249820e8add4d", null ],
+    [ "ThreeMonths", "classQuantConnect_1_1Data_1_1Fundamental_1_1InterestIncomeFromFederalFundsSoldAndSecuritiesPurche4dd87e5236dbf36b102153a7fecc168.html#ac78141563d451a8382e782829bb11a47", null ],
+    [ "SixMonths", "classQuantConnect_1_1Data_1_1Fundamental_1_1InterestIncomeFromFederalFundsSoldAndSecuritiesPurche4dd87e5236dbf36b102153a7fecc168.html#abbd18ac1ac40ff0975b543013ec476c9", null ],
+    [ "NineMonths", "classQuantConnect_1_1Data_1_1Fundamental_1_1InterestIncomeFromFederalFundsSoldAndSecuritiesPurche4dd87e5236dbf36b102153a7fecc168.html#aab04a1d79a891246399eab2e675f4a4d", null ],
+    [ "TwelveMonths", "classQuantConnect_1_1Data_1_1Fundamental_1_1InterestIncomeFromFederalFundsSoldAndSecuritiesPurche4dd87e5236dbf36b102153a7fecc168.html#a59dae7930cb4a209c038cbd351dc44e9", null ]
+];

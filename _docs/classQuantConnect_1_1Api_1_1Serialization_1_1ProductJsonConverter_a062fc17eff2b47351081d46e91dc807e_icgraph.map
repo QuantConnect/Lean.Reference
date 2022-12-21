@@ -1,0 +1,4 @@
+<map id="QuantConnect.Api.Serialization.ProductJsonConverter.CreateProductFromJObject" name="QuantConnect.Api.Serialization.ProductJsonConverter.CreateProductFromJObject">
+<area shape="rect" id="node1" title="Create an order from a simple JObject" alt="" coords="281,5,539,61"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Api_1_1Serialization_1_1ProductJsonConverter.html#a2e08d10a6706b6e4d35c1d9fb9b53a7d" title="Reads the JSON representation of the object." alt="" coords="5,13,233,54"/>
+</map>

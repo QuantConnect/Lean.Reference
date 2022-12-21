@@ -1,0 +1,11 @@
+<map id="QuantConnect.Lean.Engine.DataFeeds.SubscriptionSynchronizer.Sync" name="QuantConnect.Lean.Engine.DataFeeds.SubscriptionSynchronizer.Sync">
+<area shape="rect" id="node1" title="Syncs the specified subscriptions. The frontier time used for synchronization is managed internally a..." alt="" coords="5,209,299,251"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Lean_1_1Engine_1_1DataFeeds_1_1DataFeedPacket.html#ab5152038a1554b2a0445c67fb8cb4e3f" title="Adds the specified data to this packet" alt="" coords="375,5,603,47"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Data_1_1UniverseSelection_1_1BaseDataCollection.html#a337cf5dfae1e988fe7b2dc97ad451fd0" title="Adds a new data points to this collection" alt="" coords="347,71,631,112"/>
+<area shape="rect" id="node4" href="$classQuantConnect_1_1Lean_1_1Engine_1_1DataFeeds_1_1TimeSliceFactory.html#a0273de034fbc83dd32312df594f4e368" title="Creates a new TimeSlice for the specified time using the specified data" alt="" coords="363,136,614,177"/>
+<area shape="rect" id="node6" href="$classQuantConnect_1_1Lean_1_1Engine_1_1DataFeeds_1_1TimeSliceFactory.html#ad8b06d82b429b116be5fce6e07dfe09d" title="Creates a new empty TimeSlice to be used as a time pulse" alt="" coords="363,202,614,258"/>
+<area shape="rect" id="node7" href="$interfaceQuantConnect_1_1ITimeProvider.html#ae51737f869d879dfbb297496e4feb036" title="Gets the current time in UTC" alt="" coords="383,283,595,324"/>
+<area shape="rect" id="node8" href="$classQuantConnect_1_1Lean_1_1Engine_1_1DataFeeds_1_1SubscriptionSynchronizer.html#a023ed3728f2ce16289124c234e382ee3" title="Event invocator for the SubscriptionFinished event" alt="" coords="357,349,620,405"/>
+<area shape="rect" id="node9" href="$classQuantConnect_1_1Lean_1_1Engine_1_1DataFeeds_1_1ManualTimeProvider.html#a9ca7e753dda537af1a5b984d7e2ca14c" title="Sets the current time interpreting the specified time as a UTC time" alt="" coords="361,429,616,485"/>
+<area shape="rect" id="node5" href="$classQuantConnect_1_1Data_1_1Market_1_1Tick.html#aa87eb73c9e44564041a7ec8b48e786c8" title="Initialize tick class with a default constructor." alt="" coords="679,136,881,177"/>
+</map>

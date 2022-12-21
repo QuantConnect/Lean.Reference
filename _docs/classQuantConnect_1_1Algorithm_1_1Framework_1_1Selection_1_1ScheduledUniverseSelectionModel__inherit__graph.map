@@ -1,0 +1,5 @@
+<map id="QuantConnect.Algorithm.Framework.Selection.ScheduledUniverseSelectionModel" name="QuantConnect.Algorithm.Framework.Selection.ScheduledUniverseSelectionModel">
+<area shape="rect" id="node1" title="Defines a universe selection model that invokes a selector function on a specific scheduled given by ..." alt="" coords="5,155,316,196"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Algorithm_1_1Framework_1_1Selection_1_1UniverseSelectionModel.html" title="Provides a base class for universe selection models." alt="" coords="71,80,251,107"/>
+<area shape="rect" id="node3" href="$interfaceQuantConnect_1_1Algorithm_1_1Framework_1_1Selection_1_1IUniverseSelectionModel.html" title="Algorithm framework model that defines the universes to be used by an algorithm" alt="" coords="69,5,253,32"/>
+</map>

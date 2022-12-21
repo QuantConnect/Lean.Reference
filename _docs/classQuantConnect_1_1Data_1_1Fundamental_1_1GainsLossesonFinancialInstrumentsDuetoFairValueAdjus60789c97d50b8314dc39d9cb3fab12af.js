@@ -1,0 +1,9 @@
+var classQuantConnect_1_1Data_1_1Fundamental_1_1GainsLossesonFinancialInstrumentsDuetoFairValueAdjus60789c97d50b8314dc39d9cb3fab12af =
+[
+    [ "GainsLossesonFinancialInstrumentsDuetoFairValueAdjustmentsinHedgeAccountingTotalIncomeStatement", "classQuantConnect_1_1Data_1_1Fundamental_1_1GainsLossesonFinancialInstrumentsDuetoFairValueAdjus60789c97d50b8314dc39d9cb3fab12af.html#acd4e0cf43c954cb104829eaa83295a76", null ],
+    [ "DefaultPeriod", "classQuantConnect_1_1Data_1_1Fundamental_1_1GainsLossesonFinancialInstrumentsDuetoFairValueAdjus60789c97d50b8314dc39d9cb3fab12af.html#a8f24895f4356290379af76e14fab78ae", null ],
+    [ "ThreeMonths", "classQuantConnect_1_1Data_1_1Fundamental_1_1GainsLossesonFinancialInstrumentsDuetoFairValueAdjus60789c97d50b8314dc39d9cb3fab12af.html#a81b7c83d4db9237eba35bf182eb8d49b", null ],
+    [ "SixMonths", "classQuantConnect_1_1Data_1_1Fundamental_1_1GainsLossesonFinancialInstrumentsDuetoFairValueAdjus60789c97d50b8314dc39d9cb3fab12af.html#abf31952d7c64befb670cd99433675710", null ],
+    [ "NineMonths", "classQuantConnect_1_1Data_1_1Fundamental_1_1GainsLossesonFinancialInstrumentsDuetoFairValueAdjus60789c97d50b8314dc39d9cb3fab12af.html#a4b307911046ec4468d208118053e16ab", null ],
+    [ "TwelveMonths", "classQuantConnect_1_1Data_1_1Fundamental_1_1GainsLossesonFinancialInstrumentsDuetoFairValueAdjus60789c97d50b8314dc39d9cb3fab12af.html#aad37b33711d69f6e30cd43825e2c1249", null ]
+];

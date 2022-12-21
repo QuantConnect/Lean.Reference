@@ -1,0 +1,4 @@
+<map id="QuantConnect.Algorithm.QCAlgorithm.Sell" name="QuantConnect.Algorithm.QCAlgorithm.Sell">
+<area shape="rect" id="node1" title="Sell stock (alias of Order)" alt="" coords="5,13,303,39"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Algorithm_1_1QCAlgorithm.html#addc408ce5bfb42cbe76d7098fbe7375f" title="Issue an order/trade for asset: Alias wrapper for Order(string, int);" alt="" coords="351,5,624,47"/>
+</map>

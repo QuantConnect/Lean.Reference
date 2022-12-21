@@ -1,0 +1,4 @@
+<map id="QuantConnect.Securities.SecurityPortfolioManager.ContainsKey" name="QuantConnect.Securities.SecurityPortfolioManager.ContainsKey">
+<area shape="rect" id="node1" title="Check if the portfolio contains this symbol string." alt="" coords="5,5,276,47"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Securities_1_1SecurityManager.html#ac53ed019a68266ecfa144ab91162b6cb" title="Check if this collection contains this symbol." alt="" coords="324,5,540,47"/>
+</map>

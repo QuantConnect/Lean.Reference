@@ -1,0 +1,9 @@
+var classQuantConnect_1_1Data_1_1Fundamental_1_1ChangeInReinsuranceRecoverableOnPaidAndUnpaidLossesCashFlowStatement =
+[
+    [ "ChangeInReinsuranceRecoverableOnPaidAndUnpaidLossesCashFlowStatement", "classQuantConnect_1_1Data_1_1Fundamental_1_1ChangeInReinsuranceRecoverableOnPaidAndUnpaidLossesCashFlowStatement.html#afe4886f936cd9e50b31351d48aaae27d", null ],
+    [ "DefaultPeriod", "classQuantConnect_1_1Data_1_1Fundamental_1_1ChangeInReinsuranceRecoverableOnPaidAndUnpaidLossesCashFlowStatement.html#a4c3606de441ca3716db38d3155c097bd", null ],
+    [ "ThreeMonths", "classQuantConnect_1_1Data_1_1Fundamental_1_1ChangeInReinsuranceRecoverableOnPaidAndUnpaidLossesCashFlowStatement.html#a34d8ba68585388ec0274b702a07650ab", null ],
+    [ "SixMonths", "classQuantConnect_1_1Data_1_1Fundamental_1_1ChangeInReinsuranceRecoverableOnPaidAndUnpaidLossesCashFlowStatement.html#a82da09e8e83d7a9a61d4d46f11809949", null ],
+    [ "NineMonths", "classQuantConnect_1_1Data_1_1Fundamental_1_1ChangeInReinsuranceRecoverableOnPaidAndUnpaidLossesCashFlowStatement.html#a71347b976a6fb2a2bd16d2a327d4b65e", null ],
+    [ "TwelveMonths", "classQuantConnect_1_1Data_1_1Fundamental_1_1ChangeInReinsuranceRecoverableOnPaidAndUnpaidLossesCashFlowStatement.html#a82a964906f3715b08b01aff8cbc1e154", null ]
+];

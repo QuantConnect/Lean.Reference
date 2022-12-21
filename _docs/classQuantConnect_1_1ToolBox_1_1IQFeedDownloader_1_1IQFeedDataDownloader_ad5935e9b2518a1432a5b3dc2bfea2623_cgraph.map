@@ -1,0 +1,7 @@
+<map id="QuantConnect.ToolBox.IQFeedDownloader.IQFeedDataDownloader.Get" name="QuantConnect.ToolBox.IQFeedDownloader.IQFeedDataDownloader.Get">
+<area shape="rect" id="node1" title="Get historical data enumerable for a single symbol, type and resolution given this start and end time..." alt="" coords="5,43,288,84"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Securities_1_1SecurityExchangeHours.html#af6f527fdfc92b5801026340fd4114a4a" title="Gets a SecurityExchangeHours instance that is always open" alt="" coords="336,43,597,84"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Securities_1_1LocalMarketHours.html#a7b62571672b229cdd9f8a676984cab84" title="Gets a LocalMarketHours instance that is always open" alt="" coords="652,5,872,47"/>
+<area shape="rect" id="node5" href="$classQuantConnect_1_1Securities_1_1SecurityExchangeHours.html#aed92048099642bb11d8962cb7cdaf752" title="Initializes a new instance of the SecurityExchangeHours class" alt="" coords="645,71,879,127"/>
+<area shape="rect" id="node4" href="$classQuantConnect_1_1Securities_1_1LocalMarketHours.html#af735a7f5215c72259ab040336e2220b9" title="Initializes a new instance of the LocalMarketHours class" alt="" coords="927,5,1187,47"/>
+</map>

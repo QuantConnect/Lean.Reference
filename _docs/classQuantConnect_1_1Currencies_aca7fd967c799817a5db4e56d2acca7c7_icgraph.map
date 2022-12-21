@@ -1,0 +1,5 @@
+<map id="QuantConnect.Currencies.IsStableCoinWithoutPair" name="QuantConnect.Currencies.IsStableCoinWithoutPair">
+<area shape="rect" id="node1" title="Checks whether or not certain symbol is a StableCoin without pair in a given market" alt="" coords="276,39,467,80"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Util_1_1CurrencyPairUtil.html#a945ca4091d51a13c43e584d3af4eff21" title="Returns how two currency pairs are related to each other" alt="" coords="15,5,218,47"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Securities_1_1Cash.html#a8af2f228ffa12236fec72d5458a031fc" title="Ensures that we have a data feed to convert this currency into the base currency. This will add a Sub..." alt="" coords="5,71,228,112"/>
+</map>

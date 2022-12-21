@@ -1,0 +1,4 @@
+<map id="QuantConnect.Python.PythonInitializer.AddPythonPaths" name="QuantConnect.Python.PythonInitializer.AddPythonPaths">
+<area shape="rect" id="node1" title="Adds directories to the python path at runtime" alt="" coords="312,5,524,47"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Python_1_1PythonInitializer.html#aaa182d8fe3b02554dd1a9b52b25500db" title="Adds the algorithm location to the python path. This will make sure that AddPythonPaths keeps the alg..." alt="" coords="5,5,264,47"/>
+</map>

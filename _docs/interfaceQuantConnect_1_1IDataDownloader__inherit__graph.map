@@ -1,0 +1,11 @@
+<map id="QuantConnect.IDataDownloader" name="QuantConnect.IDataDownloader">
+<area shape="rect" id="node1" title="Data Downloader Interface for pulling data from a remote source." alt="" coords="5,257,236,284"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1ToolBox_1_1AlphaVantageDownloader_1_1AlphaVantageDataDownloader.html" title="Alpha Vantage data downloader" alt="" coords="302,5,549,61"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1ToolBox_1_1CryptoiqDownloader_1_1CryptoiqDownloader.html" title="Cryptoiq Data Downloader class" alt="" coords="307,86,543,127"/>
+<area shape="rect" id="node4" href="$classQuantConnect_1_1ToolBox_1_1DukascopyDownloader_1_1DukascopyDataDownloader.html" title="Dukascopy Data Downloader class" alt="" coords="284,151,567,193"/>
+<area shape="rect" id="node5" href="$classQuantConnect_1_1ToolBox_1_1IEX_1_1IEXDataDownloader.html" title=" " alt="" coords="326,217,525,258"/>
+<area shape="rect" id="node6" href="$classQuantConnect_1_1ToolBox_1_1IQFeedDownloader_1_1IQFeedDataDownloader.html" title="IQFeed Data Downloader class" alt="" coords="297,282,554,323"/>
+<area shape="rect" id="node7" href="$classQuantConnect_1_1ToolBox_1_1KrakenDownloader_1_1KrakenDataDownloader.html" title="Kraken Data Downloader class" alt="" coords="297,347,554,389"/>
+<area shape="rect" id="node8" href="$classQuantConnect_1_1ToolBox_1_1Polygon_1_1PolygonDataDownloader.html" title="Data downloader class for pulling data from Polygon.io" alt="" coords="311,413,540,454"/>
+<area shape="rect" id="node9" href="$classQuantConnect_1_1ToolBox_1_1YahooDownloader_1_1YahooDataDownloader.html" title="Yahoo Data Downloader class" alt="" coords="300,478,551,519"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="QuantConnect.Lean.Engine.DataFeeds.SubscriptionSynchronizer.SetTimeProvider" name="QuantConnect.Lean.Engine.DataFeeds.SubscriptionSynchronizer.SetTimeProvider">
+<area shape="rect" id="node1" title="Sets the time provider. If already set will throw." alt="" coords="319,31,581,87"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Lean_1_1Engine_1_1DataFeeds_1_1LiveSynchronizer.html#ac82f206cfa392fd76660cbafae74af1e" title="Initializes the instance of the Synchronizer class" alt="" coords="5,5,271,47"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Lean_1_1Engine_1_1DataFeeds_1_1Synchronizer.html#a1ec5e796dd6d363541a45e88cbf773e5" title="Returns an enumerable which provides the data to stream to the algorithm" alt="" coords="8,71,268,112"/>
+</map>

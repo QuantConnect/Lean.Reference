@@ -1,0 +1,5 @@
+<map id="QuantConnect.ToolBox.YahooDownloader.Historical.GetRaw" name="QuantConnect.ToolBox.YahooDownloader.Historical.GetRaw">
+<area shape="rect" id="node1" title="Get raw stock historical price from Yahoo Finance" alt="" coords="307,50,527,91"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1ToolBox_1_1YahooDownloader_1_1YahooDataDownloader.html#a46208b48b6236bb27e9f6f22cf4a17e4" title="Download Dividend and Split data from Yahoo" alt="" coords="5,5,259,61"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1ToolBox_1_1YahooDownloader_1_1Historical.html#a96db539d596cf62523749587e14f6acb" title="Get stock historical price from Yahoo Finance" alt="" coords="27,86,237,127"/>
+</map>

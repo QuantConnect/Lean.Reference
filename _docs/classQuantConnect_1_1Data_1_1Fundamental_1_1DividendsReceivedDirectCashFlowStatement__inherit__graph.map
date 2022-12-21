@@ -1,0 +1,4 @@
+<map id="QuantConnect.Data.Fundamental.DividendsReceivedDirectCashFlowStatement" name="QuantConnect.Data.Fundamental.DividendsReceivedDirectCashFlowStatement">
+<area shape="rect" id="node1" title="Dividend received on the investment, for the direct cash flow." alt="" coords="5,80,323,121"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Data_1_1Fundamental_1_1MultiPeriodField.html" title="Abstract base class for multi&#45;period fields" alt="" coords="101,5,227,32"/>
+</map>

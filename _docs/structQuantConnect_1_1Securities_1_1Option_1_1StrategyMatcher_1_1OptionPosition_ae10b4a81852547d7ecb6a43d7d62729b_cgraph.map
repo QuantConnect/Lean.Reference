@@ -1,0 +1,5 @@
+<map id="QuantConnect.Securities.Option.StrategyMatcher.OptionPosition.operator+" name="QuantConnect.Securities.Option.StrategyMatcher.OptionPosition.operator+">
+<area shape="rect" id="node1" title="OptionPosition + Operator, will add quantities together if they are for the same symbol." alt="" coords="5,45,228,101"/>
+<area shape="rect" id="node2" href="$structQuantConnect_1_1Securities_1_1Option_1_1StrategyMatcher_1_1OptionPosition.html#aa548260191f32555c5e36abe671b59e9" title="Indicates whether the current object is equal to another object of the same type." alt="" coords="276,5,499,61"/>
+<area shape="rect" id="node3" href="$structQuantConnect_1_1Securities_1_1Option_1_1StrategyMatcher_1_1OptionPosition.html#a9176892195863bf2182eabb3d9941262" title="Initializes a new instance of the OptionPosition structure" alt="" coords="276,85,499,141"/>
+</map>

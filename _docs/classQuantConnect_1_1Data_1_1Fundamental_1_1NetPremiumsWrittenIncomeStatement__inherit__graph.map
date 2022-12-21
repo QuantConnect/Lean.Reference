@@ -1,0 +1,4 @@
+<map id="QuantConnect.Data.Fundamental.NetPremiumsWrittenIncomeStatement" name="QuantConnect.Data.Fundamental.NetPremiumsWrittenIncomeStatement">
+<area shape="rect" id="node1" title="Net premiums written are gross premiums written less ceded premiums. This item is usually only availa..." alt="" coords="5,80,280,121"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Data_1_1Fundamental_1_1MultiPeriodField.html" title="Abstract base class for multi&#45;period fields" alt="" coords="79,5,206,32"/>
+</map>

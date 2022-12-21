@@ -1,0 +1,5 @@
+<map id="QuantConnect.Commands.AddSecurityCommand" name="QuantConnect.Commands.AddSecurityCommand">
+<area shape="rect" id="node1" title="Represents a command to add a security to the algorithm" alt="" coords="5,155,227,196"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Commands_1_1BaseCommand.html" title="Base command implementation" alt="" coords="55,80,177,107"/>
+<area shape="rect" id="node3" href="$interfaceQuantConnect_1_1Commands_1_1ICommand.html" title="Represents a command that can be run against a single algorithm" alt="" coords="69,5,163,32"/>
+</map>

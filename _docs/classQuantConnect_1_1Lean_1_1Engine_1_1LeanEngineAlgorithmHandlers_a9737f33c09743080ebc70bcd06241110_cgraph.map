@@ -1,0 +1,11 @@
+<map id="QuantConnect.Lean.Engine.LeanEngineAlgorithmHandlers.FromConfiguration" name="QuantConnect.Lean.Engine.LeanEngineAlgorithmHandlers.FromConfiguration">
+<area shape="rect" id="node1" title="Creates a new instance of the LeanEngineAlgorithmHandlers class from the specified composer using typ..." alt="" coords="5,129,261,185"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Configuration_1_1Config.html#aaabf1286e33a675b2e116f3289981839" title="Get the matching config setting from the file searching for this key." alt="" coords="332,71,541,112"/>
+<area shape="rect" id="node7" href="$classQuantConnect_1_1Configuration_1_1Config.html#a1b3f6bb930cb6c34d2ce7dffcdd2605c" title="Get a boolean value configuration setting by a configuration key." alt="" coords="332,136,541,177"/>
+<area shape="rect" id="node8" href="$classQuantConnect_1_1Lean_1_1Engine_1_1LeanEngineAlgorithmHandlers.html#a801bf25656db04bb546039a17c44c778" title="Initializes a new instance of the LeanEngineAlgorithmHandlers class from the specified handlers" alt="" coords="309,202,564,258"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Configuration_1_1Config.html#a1504ca19b3759d008b090375ddf4ad10" title="Gets the currently selected environment. If sub&#45;environments are defined, they&#39;ll be returned as {env..." alt="" coords="626,5,835,47"/>
+<area shape="rect" id="node4" href="$classQuantConnect_1_1Configuration_1_1Config.html#a9ed01bc116e8181a7557f3e668f34691" title="Gets the underlying JToken for the specified key" alt="" coords="626,71,835,112"/>
+<area shape="rect" id="node5" href="$classQuantConnect_1_1Logging_1_1Log.html#a4e55477fbc790846b74550a57198cea9" title="Log trace" alt="" coords="631,136,831,177"/>
+<area shape="rect" id="node6" href="$interfaceQuantConnect_1_1Logging_1_1ILogHandler.html#a3fb71a33ac66129240b63f12b6fcda3b" title="Write debug message to log" alt="" coords="897,136,1097,177"/>
+<area shape="rect" id="node9" href="$classQuantConnect_1_1Data_1_1DataMonitor.html#a2b093a9e2f75233489a1a2a842683340" title="Event handler for the IDataProvider.NewDataRequest event" alt="" coords="612,209,849,251"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="QuantConnect.Time.GetNumberOfTradeBarsInInterval" name="QuantConnect.Time.GetNumberOfTradeBarsInInterval">
+<area shape="rect" id="node1" title="Gets the number of trade bars of the specified barSize &#160;that fit between the start &#160;and end" alt="" coords="316,5,547,47"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Algorithm_1_1Framework_1_1Alphas_1_1Insight.html#a5e139a3ea6818855684c98ab54eaa1e4" title="Computes the insight period from the given generated and close times" alt="" coords="5,5,268,47"/>
+</map>

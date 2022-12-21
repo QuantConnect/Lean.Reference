@@ -1,0 +1,4 @@
+<map id="QuantConnect.Util.FuncTextWriter" name="QuantConnect.Util.FuncTextWriter">
+<area shape="rect" id="node1" title="Provides an implementation of TextWriter that redirects Write(string) and WriteLine(string)" alt="" coords="5,80,208,121"/>
+<area shape="rect" id="node2" title=" " alt="" coords="62,5,151,32"/>
+</map>

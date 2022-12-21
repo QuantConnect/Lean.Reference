@@ -1,0 +1,4 @@
+<map id="QuantConnect.RealTimeProvider" name="QuantConnect.RealTimeProvider">
+<area shape="rect" id="node1" title="Provides an implementation of ITimeProvider that uses DateTime.UtcNow to provide the current time" alt="" coords="5,80,240,107"/>
+<area shape="rect" id="node2" href="$interfaceQuantConnect_1_1ITimeProvider.html" title="Provides access to the current time in UTC. This doesn&#39;t necessarily need to be wall&#45;clock time,..." alt="" coords="66,5,179,32"/>
+</map>

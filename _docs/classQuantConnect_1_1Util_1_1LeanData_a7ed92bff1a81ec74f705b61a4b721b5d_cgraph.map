@@ -1,0 +1,4 @@
+<map id="QuantConnect.Util.LeanData.GenerateLine" name="QuantConnect.Util.LeanData.GenerateLine">
+<area shape="rect" id="node1" title="Converts the specified base data instance into a lean data file csv line. This method takes into acco..." alt="" coords="5,5,216,47"/>
+<area shape="rect" id="node2" href="$interfaceQuantConnect_1_1Data_1_1IBaseData.html#a3373b19abcdda9f0fb7571d4cecff7b8" title="Return a new instance clone of this object" alt="" coords="264,5,488,47"/>
+</map>

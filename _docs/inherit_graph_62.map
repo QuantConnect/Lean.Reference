@@ -1,0 +1,46 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" title=" " alt="" coords="5,795,93,822"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Brokerages_1_1BestBidAskUpdatedEventArgs.html" title="Event arguments class for the DefaultOrderBook.BestBidAskUpdated event" alt="" coords="184,5,401,47"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Brokerages_1_1OptionNotificationEventArgs.html" title="Event arguments class for the IBrokerage.OptionNotification event" alt="" coords="189,71,396,112"/>
+<area shape="rect" id="node4" href="$classQuantConnect_1_1Data_1_1SubscriptionDataConfig_1_1NewSymbolEventArgs.html" title=" " alt="" coords="171,136,414,177"/>
+<area shape="rect" id="node5" href="$classQuantConnect_1_1Data_1_1UniverseSelection_1_1Universe_1_1SelectionEventArgs.html" title="Event fired when the universe selection changes" alt="" coords="155,201,430,243"/>
+<area shape="rect" id="node6" href="$classQuantConnect_1_1DataProviderEventArgs.html" title="Defines a base class for IDataProviderEvents" alt="" coords="191,267,394,308"/>
+<area shape="rect" id="node13" href="$classQuantConnect_1_1Indicators_1_1PivotPointsEventArgs.html" title="Event arguments class for the PivotPointsHighLow.NewPivotPointFormed event" alt="" coords="199,332,386,373"/>
+<area shape="rect" id="node14" href="$classQuantConnect_1_1Interfaces_1_1DataProviderNewDataRequestEventArgs.html" title="Event arguments for the IDataProvider.NewDataRequest event" alt="" coords="149,397,436,439"/>
+<area shape="rect" id="node15" href="$classQuantConnect_1_1Interfaces_1_1ObjectStoreErrorRaisedEventArgs.html" title="Event arguments for the IObjectStore.ErrorRaised event" alt="" coords="173,463,412,504"/>
+<area shape="rect" id="node16" href="$classQuantConnect_1_1Lean_1_1Engine_1_1DataFeeds_1_1CreateStreamReaderErrorEventArgs.html" title="Event arguments for the TextSubscriptionDataSourceReader&#39;s CreateStreamReader event" alt="" coords="161,529,424,585"/>
+<area shape="rect" id="node17" href="$classQuantConnect_1_1Lean_1_1Engine_1_1DataFeeds_1_1Enumerators_1_1NewDataAvailableEventArgs.html" title="Event args for when a new data point is ready to be emitted" alt="" coords="141,609,444,665"/>
+<area shape="rect" id="node18" href="$classQuantConnect_1_1Lean_1_1Engine_1_1DataFeeds_1_1InvalidSourceEventArgs.html" title="Event arguments for the ISubscriptionDataSourceReader.InvalidSource event" alt="" coords="168,689,417,731"/>
+<area shape="rect" id="node19" href="$classQuantConnect_1_1Lean_1_1Engine_1_1DataFeeds_1_1ReaderErrorEventArgs.html" title="Event arguments for the TextSubscriptionDataSourceReader.ReaderError event." alt="" coords="173,755,412,796"/>
+<area shape="rect" id="node20" href="$classQuantConnect_1_1Securities_1_1SecurityCacheDataStoredEventArgs.html" title="Event args for SecurityCache&#39;s DataStored event" alt="" coords="165,820,420,861"/>
+<area shape="rect" id="node21" href="$classQuantConnect_1_1TimeUpdatedEventArgs.html" title="Event arguments class for the LocalTimeKeeper.TimeUpdated event" alt="" coords="189,885,396,927"/>
+<area shape="rect" id="node22" href="$classQuantConnect_1_1ToolBox_1_1IQFeed_1_1ClientStatsEventArgs.html" title=" " alt="" coords="181,951,404,992"/>
+<area shape="rect" id="node23" href="$classQuantConnect_1_1ToolBox_1_1IQFeed_1_1ConnectedEventArgs.html" title=" " alt="" coords="181,1016,404,1057"/>
+<area shape="rect" id="node24" href="$classQuantConnect_1_1ToolBox_1_1IQFeed_1_1DisconnectedEventArgs.html" title=" " alt="" coords="181,1081,404,1123"/>
+<area shape="rect" id="node25" href="$classQuantConnect_1_1ToolBox_1_1IQFeed_1_1Level1FundamentalEventArgs.html" title=" " alt="" coords="181,1147,404,1188"/>
+<area shape="rect" id="node26" href="$classQuantConnect_1_1ToolBox_1_1IQFeed_1_1Level1NewsEventArgs.html" title=" " alt="" coords="181,1212,404,1253"/>
+<area shape="rect" id="node27" href="$classQuantConnect_1_1ToolBox_1_1IQFeed_1_1Level1RegionalEventArgs.html" title=" " alt="" coords="181,1277,404,1319"/>
+<area shape="rect" id="node28" href="$classQuantConnect_1_1ToolBox_1_1IQFeed_1_1Level1SummaryUpdateEventArgs.html" title=" " alt="" coords="172,1343,413,1384"/>
+<area shape="rect" id="node29" href="$classQuantConnect_1_1ToolBox_1_1IQFeed_1_1Level1TextLineEventArgs.html" title=" " alt="" coords="181,1408,404,1449"/>
+<area shape="rect" id="node32" href="$classQuantConnect_1_1ToolBox_1_1IQFeed_1_1Level1TimerEventArgs.html" title=" " alt="" coords="181,1473,404,1515"/>
+<area shape="rect" id="node33" href="$classQuantConnect_1_1ToolBox_1_1IQFeed_1_1LookupEventArgs.html" title=" " alt="" coords="181,1767,404,1808"/>
+<area shape="rect" id="node7" href="$classQuantConnect_1_1DownloadFailedEventArgs.html" title="Event arguments for the IDataProviderEvents.DownloadFailed event" alt="" coords="509,104,731,145"/>
+<area shape="rect" id="node8" href="$classQuantConnect_1_1InvalidConfigurationDetectedEventArgs.html" title="Event arguments for the IDataProviderEvents.InvalidConfigurationDetected event" alt="" coords="495,169,745,211"/>
+<area shape="rect" id="node9" href="$classQuantConnect_1_1NewTradableDateEventArgs.html" title="Event arguments for the NewTradableDate event" alt="" coords="519,235,721,276"/>
+<area shape="rect" id="node10" href="$classQuantConnect_1_1NumericalPrecisionLimitedEventArgs.html" title="Event arguments for the IDataProviderEvents.NumericalPrecisionLimited event" alt="" coords="498,300,742,341"/>
+<area shape="rect" id="node11" href="$classQuantConnect_1_1ReaderErrorDetectedEventArgs.html" title="Event arguments for the IDataProviderEvents.ReaderErrorDetected event" alt="" coords="523,365,717,407"/>
+<area shape="rect" id="node12" href="$classQuantConnect_1_1StartDateLimitedEventArgs.html" title="Event arguments for the IDataProviderEvents.StartDateLimited event" alt="" coords="505,431,735,472"/>
+<area shape="rect" id="node30" href="$classQuantConnect_1_1ToolBox_1_1IQFeed_1_1Level1ServerDisconnectedArgs.html" title=" " alt="" coords="508,1343,732,1384"/>
+<area shape="rect" id="node31" href="$classQuantConnect_1_1ToolBox_1_1IQFeed_1_1Level1ServerReconnectFailedArgs.html" title=" " alt="" coords="499,1408,741,1449"/>
+<area shape="rect" id="node34" href="$classQuantConnect_1_1ToolBox_1_1IQFeed_1_1LookupDayWeekMonthEventArgs.html" title=" " alt="" coords="501,1473,739,1515"/>
+<area shape="rect" id="node35" href="$classQuantConnect_1_1ToolBox_1_1IQFeed_1_1LookupIntervalEventArgs.html" title=" " alt="" coords="509,1539,731,1580"/>
+<area shape="rect" id="node36" href="$classQuantConnect_1_1ToolBox_1_1IQFeed_1_1LookupNaicSymbolEventArgs.html" title=" " alt="" coords="509,1604,731,1645"/>
+<area shape="rect" id="node37" href="$classQuantConnect_1_1ToolBox_1_1IQFeed_1_1LookupSicSymbolEventArgs.html" title=" " alt="" coords="509,1669,731,1711"/>
+<area shape="rect" id="node38" href="$classQuantConnect_1_1ToolBox_1_1IQFeed_1_1LookupSymbolEventArgs.html" title=" " alt="" coords="509,1735,731,1776"/>
+<area shape="rect" id="node39" href="$classQuantConnect_1_1ToolBox_1_1IQFeed_1_1LookupTableMarketCenterEventArgs.html" title=" " alt="" coords="492,1800,748,1841"/>
+<area shape="rect" id="node40" href="$classQuantConnect_1_1ToolBox_1_1IQFeed_1_1LookupTableMarketEventArgs.html" title=" " alt="" coords="509,1865,731,1907"/>
+<area shape="rect" id="node41" href="$classQuantConnect_1_1ToolBox_1_1IQFeed_1_1LookupTableNaicEventArgs.html" title=" " alt="" coords="509,1931,731,1972"/>
+<area shape="rect" id="node42" href="$classQuantConnect_1_1ToolBox_1_1IQFeed_1_1LookupTableSecurityTypeEventArgs.html" title=" " alt="" coords="495,1996,745,2037"/>
+<area shape="rect" id="node43" href="$classQuantConnect_1_1ToolBox_1_1IQFeed_1_1LookupTableSicEventArgs.html" title=" " alt="" coords="509,2061,731,2103"/>
+<area shape="rect" id="node44" href="$classQuantConnect_1_1ToolBox_1_1IQFeed_1_1LookupTickEventArgs.html" title=" " alt="" coords="509,2127,731,2168"/>
+</map>

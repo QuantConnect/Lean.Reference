@@ -1,0 +1,5 @@
+<map id="QuantConnect.Optimizer.Launcher.ConsoleLeanOptimizer" name="QuantConnect.Optimizer.Launcher.ConsoleLeanOptimizer">
+<area shape="rect" id="node1" title="Optimizer implementation that launches Lean as a local process" alt="" coords="5,155,252,196"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Optimizer_1_1LeanOptimizer.html" title="Base Lean optimizer class in charge of handling an optimization job packet" alt="" coords="70,80,187,107"/>
+<area shape="rect" id="node3" title=" " alt="" coords="79,5,178,32"/>
+</map>

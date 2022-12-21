@@ -1,0 +1,4 @@
+<map id="QuantConnect.Data.Market.Bar" name="QuantConnect.Data.Market.Bar">
+<area shape="rect" id="node1" title="Base Bar Class: Open, High, Low, Close and Period." alt="" coords="5,80,229,107"/>
+<area shape="rect" id="node2" href="$interfaceQuantConnect_1_1Data_1_1Market_1_1IBar.html" title="Generic bar interface with Open, High, Low and Close." alt="" coords="93,5,141,32"/>
+</map>

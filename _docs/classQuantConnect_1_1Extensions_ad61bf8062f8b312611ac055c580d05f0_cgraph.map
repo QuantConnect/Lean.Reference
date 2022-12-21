@@ -1,0 +1,5 @@
+<map id="QuantConnect.Extensions.OrderTargetsByMarginImpact" name="QuantConnect.Extensions.OrderTargetsByMarginImpact">
+<area shape="rect" id="node1" title="Returns an ordered enumerable where position reducing orders are executed first and the remaining ord..." alt="" coords="5,43,217,84"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Orders_1_1OrderSizing.html#aef2d6370075548b8f4d8a8dcb15062b7" title="Adjusts the provided order quantity to respect the securities lot size. If the quantity is missing 1M..." alt="" coords="281,5,482,47"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Securities_1_1SecurityTransactionManager.html#a40a5adc0c964d6f0f472f93fc56d4d53" title="Get an enumerable of open OrderTicket for the specified symbol" alt="" coords="265,71,497,127"/>
+</map>

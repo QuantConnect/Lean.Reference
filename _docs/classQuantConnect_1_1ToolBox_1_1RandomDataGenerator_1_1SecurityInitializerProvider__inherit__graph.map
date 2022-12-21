@@ -1,0 +1,4 @@
+<map id="QuantConnect.ToolBox.RandomDataGenerator.SecurityInitializerProvider" name="QuantConnect.ToolBox.RandomDataGenerator.SecurityInitializerProvider">
+<area shape="rect" id="node1" title=" " alt="" coords="5,80,240,136"/>
+<area shape="rect" id="node2" href="$interfaceQuantConnect_1_1Interfaces_1_1ISecurityInitializerProvider.html" title="Reduced interface which provides an instance which implements ISecurityInitializer" alt="" coords="25,5,220,32"/>
+</map>

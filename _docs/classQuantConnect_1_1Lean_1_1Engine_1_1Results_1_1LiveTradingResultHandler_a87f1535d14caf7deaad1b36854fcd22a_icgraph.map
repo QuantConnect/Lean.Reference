@@ -1,0 +1,4 @@
+<map id="QuantConnect.Lean.Engine.Results.LiveTradingResultHandler.SendFinalResult" name="QuantConnect.Lean.Engine.Results.LiveTradingResultHandler.SendFinalResult">
+<area shape="rect" id="node1" title="Send a final analysis result back to the IDE." alt="" coords="321,5,564,61"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Lean_1_1Engine_1_1Results_1_1LiveTradingResultHandler.html#a1dbddef89eec0b724268ecdaa7c211ff" title="Terminate the result thread and apply any required exit procedures like sending final results" alt="" coords="5,13,273,54"/>
+</map>

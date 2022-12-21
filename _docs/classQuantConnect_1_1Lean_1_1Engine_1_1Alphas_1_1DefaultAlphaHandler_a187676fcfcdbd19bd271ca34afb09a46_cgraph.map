@@ -1,0 +1,9 @@
+<map id="QuantConnect.Lean.Engine.Alphas.DefaultAlphaHandler.ProcessSynchronousEvents" name="QuantConnect.Lean.Engine.Alphas.DefaultAlphaHandler.ProcessSynchronousEvents">
+<area shape="rect" id="node1" title="Performs processing in sync with the algorithm&#39;s time loop to provide consisten reading of data" alt="" coords="5,79,264,135"/>
+<area shape="rect" id="node2" href="$interfaceQuantConnect_1_1Algorithm_1_1Framework_1_1Alphas_1_1Analysis_1_1ISecurityValuesProvider.html#a4389f9adcd7a19a51b493444c8f3c513" title="Gets the current values for all the algorithm securities (price/volatility)" alt="" coords="312,5,599,61"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Algorithm_1_1Framework_1_1Alphas_1_1Analysis_1_1InsightManager.html#ae521b8556f1fb3b8245f21e667bdf49e" title="Steps the manager forward in time, accepting new state information and potentialy newly generated ins..." alt="" coords="324,86,587,127"/>
+<area shape="rect" id="node6" href="$classQuantConnect_1_1Statistics_1_1FitnessScoreManager.html#a408eda4ac04ce367941683f98ef838cb" title="Gets the fitness score value for the algorithms current state" alt="" coords="328,151,583,193"/>
+<area shape="rect" id="node4" href="$classQuantConnect_1_1Logging_1_1Log.html#af0e7955911bc7664b37661b2a303a9e3" title="Log error" alt="" coords="657,86,857,127"/>
+<area shape="rect" id="node5" href="$interfaceQuantConnect_1_1Logging_1_1ILogHandler.html#a35373a0c5d76031fa5ccf5dc39e5c25d" title="Write error message to log" alt="" coords="916,86,1116,127"/>
+<area shape="rect" id="node7" href="$classQuantConnect_1_1Statistics_1_1Statistics.html#a9559a5800e45650ccdb5f8938ffdacfa" title="Annual compounded returns statistic based on the final&#45;starting capital and years." alt="" coords="647,152,868,208"/>
+</map>

@@ -1,0 +1,8 @@
+<map id="QuantConnect.Report.PortfolioLooperAlgorithm.FromOrders" name="QuantConnect.Report.PortfolioLooperAlgorithm.FromOrders">
+<area shape="rect" id="node1" title="Initializes all the proper Securities from the orders provided by the user" alt="" coords="5,27,225,69"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Securities_1_1SecurityManager.html#a0aa9a5d066fcba5dfcc7ae10ac22b550" title="Creates a new security" alt="" coords="273,27,504,69"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Securities_1_1SecurityService.html#af780bf1407ad8952b51a2db9be9ddb55" title="Creates a new security" alt="" coords="552,27,775,69"/>
+<area shape="rect" id="node4" href="$classQuantConnect_1_1SymbolCache.html#a481bb0c8f2b52aa8f19b509aec5bf91f" title="Adds a mapping for the specified ticker" alt="" coords="823,5,1055,32"/>
+<area shape="rect" id="node5" href="$classQuantConnect_1_1Securities_1_1Security.html#a63075daed818cf10cda2296e8ecc43ac" title="Set the leverage parameter for this security" alt="" coords="845,57,1032,98"/>
+<area shape="rect" id="node6" href="$classQuantConnect_1_1Securities_1_1BuyingPowerModel.html#a44ce05fdd67c9c4230e4dfb91cfd5e6b" title="Sets the leverage for the applicable securities, i.e, equities" alt="" coords="1103,57,1335,98"/>
+</map>

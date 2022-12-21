@@ -1,0 +1,5 @@
+<map id="QuantConnect.ToolBox.IQFeed.AdminPort" name="QuantConnect.ToolBox.IQFeed.AdminPort">
+<area shape="rect" id="node1" title="Admin class type" alt="" coords="5,155,228,196"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1ToolBox_1_1IQFeed_1_1IQAdminSocketClient.html" title=" " alt="" coords="37,80,196,107"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1ToolBox_1_1IQFeed_1_1SocketClient.html" title=" " alt="" coords="65,5,168,32"/>
+</map>

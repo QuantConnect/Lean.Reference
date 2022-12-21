@@ -1,0 +1,4 @@
+<map id="QuantConnect.Brokerages.Backtesting.BacktestingBrokerage.SimulateMarket" name="QuantConnect.Brokerages.Backtesting.BacktestingBrokerage.SimulateMarket">
+<area shape="rect" id="node1" title="Runs market simulation" alt="" coords="5,5,256,61"/>
+<area shape="rect" id="node2" href="$interfaceQuantConnect_1_1Brokerages_1_1Backtesting_1_1IBacktestingMarketSimulation.html#a1e4b86a2858ab26a859da8faa6840033" title="Method is called by backtesting brokerage to simulate market conditions." alt="" coords="304,5,572,61"/>
+</map>

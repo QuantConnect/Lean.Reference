@@ -1,0 +1,6 @@
+<map id="QuantConnect.Lean.Engine.HistoricalData.SineHistoryProvider" name="QuantConnect.Lean.Engine.HistoricalData.SineHistoryProvider">
+<area shape="rect" id="node1" title="Implements a History provider that always return a IEnumerable of Slice with prices following a sine ..." alt="" coords="5,229,253,271"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Data_1_1HistoryProviderBase.html" title="Provides a base type for all history providers" alt="" coords="52,155,207,181"/>
+<area shape="rect" id="node3" href="$interfaceQuantConnect_1_1Interfaces_1_1IHistoryProvider.html" title="Provides historical data to an algorithm at runtime" alt="" coords="66,80,193,107"/>
+<area shape="rect" id="node4" href="$interfaceQuantConnect_1_1Interfaces_1_1IDataProviderEvents.html" title="Events related to data providers" alt="" coords="52,5,207,32"/>
+</map>

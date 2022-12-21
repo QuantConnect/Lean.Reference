@@ -1,0 +1,9 @@
+<map id="QuantConnect.Algorithm.Framework.Alphas.Analysis.InsightAnalysisContext.InsightAnalysisContext" name="QuantConnect.Algorithm.Framework.Alphas.Analysis.InsightAnalysisContext.InsightAnalysisContext">
+<area shape="rect" id="node1" title="Initializes a new instance of the InsightAnalysisContext class" alt="" coords="5,61,288,117"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Time.html#a18b31437302a5918b76a15ecb0bd56d1" title="Determines the end time at which the requested number of bars of the given will have elapsed...." alt="" coords="336,39,539,80"/>
+<area shape="rect" id="node7" href="$classQuantConnect_1_1Time.html#ae020a4095bb20dba096ab0fc681adabe" title="Returns the timespan with the larger value" alt="" coords="346,105,529,131"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Securities_1_1SecurityExchangeHours.html#aeea5ca309a445fa3a7cb85bd995af45a" title="Determines if the exchange will be open on the date specified by the local date time" alt="" coords="587,5,843,47"/>
+<area shape="rect" id="node5" href="$classQuantConnect_1_1Securities_1_1SecurityExchangeHours.html#ad680493077edb2267e639615b3c672a7" title="Determines if the exchange is open at the specified local date time." alt="" coords="602,71,827,112"/>
+<area shape="rect" id="node4" href="$classQuantConnect_1_1Securities_1_1SecurityExchangeHours.html#a106e2dd187ab76452e14ac6a28f929aa" title="Helper to access the market hours field based on the day of week" alt="" coords="891,5,1177,47"/>
+<area shape="rect" id="node6" href="$classQuantConnect_1_1Securities_1_1LocalMarketHours.html#a8a898ad9f8fa0c41f4a04b8dfc513777" title="Determines if the exchange is open at the specified time" alt="" coords="940,71,1128,112"/>
+</map>

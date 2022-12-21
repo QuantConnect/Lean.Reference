@@ -1,0 +1,4 @@
+<map id="QuantConnect.ToolBox.AlgoSeekFuturesConverter.AlgoSeekFuturesReader" name="QuantConnect.ToolBox.AlgoSeekFuturesConverter.AlgoSeekFuturesReader">
+<area shape="rect" id="node1" title="Enumerator for converting AlgoSeek futures files into Ticks." alt="" coords="5,80,284,136"/>
+<area shape="rect" id="node2" title=" " alt="" coords="65,5,224,32"/>
+</map>

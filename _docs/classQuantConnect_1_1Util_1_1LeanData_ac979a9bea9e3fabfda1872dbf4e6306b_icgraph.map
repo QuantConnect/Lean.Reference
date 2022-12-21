@@ -1,0 +1,5 @@
+<map id="QuantConnect.Util.LeanData.TryParsePath" name="QuantConnect.Util.LeanData.TryParsePath">
+<area shape="rect" id="node1" title="Parses file name into a Security and DateTime" alt="" coords="349,39,560,80"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Lean_1_1Engine_1_1DataFeeds_1_1DownloaderDataProvider.html#a1c8b7b1808d3c60ba757a4f8fbafc5ba" title="Determines if it should downloads new data and retrieves data from disc" alt="" coords="5,5,301,47"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1ToolBox_1_1LeanDataReader.html#ac23439fd286135eaf5c3047bf52eb517" title="Initialize a instance of LeanDataReader from a path to a zipped data file. It also supports declaring..." alt="" coords="48,71,259,112"/>
+</map>

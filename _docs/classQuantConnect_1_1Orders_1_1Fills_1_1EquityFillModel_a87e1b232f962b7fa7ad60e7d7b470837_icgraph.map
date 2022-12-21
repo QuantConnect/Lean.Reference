@@ -1,0 +1,11 @@
+<map id="QuantConnect.Orders.Fills.EquityFillModel.IsExchangeOpen" name="QuantConnect.Orders.Fills.EquityFillModel.IsExchangeOpen">
+<area shape="rect" id="node1" title="Determines if the exchange is open using the current time of the asset" alt="" coords="540,201,775,243"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Orders_1_1Fills_1_1EquityFillModel.html#a653da20ed65bb7b4382d30cd396e9130" title="Default limit order fill model in the base security class." alt="" coords="273,5,467,47"/>
+<area shape="rect" id="node4" href="$classQuantConnect_1_1Orders_1_1Fills_1_1EquityFillModel.html#ab7eea07dfbecf0356da3646d59a31507" title="Default limit if touched fill model implementation in base class security." alt="" coords="250,71,490,112"/>
+<area shape="rect" id="node5" href="$classQuantConnect_1_1Orders_1_1Fills_1_1EquityFillModel.html#acf743632ccc6f9aea370c337c7bb0d19" title="Default market fill model for the base security class. Fills at the last traded price." alt="" coords="273,136,467,177"/>
+<area shape="rect" id="node6" href="$classQuantConnect_1_1Orders_1_1Fills_1_1EquityFillModel.html#a9b4ba32261f92a062f56a2ff094bee3e" title="Market on Close Fill Model. Return an order event with the fill details" alt="" coords="248,201,492,243"/>
+<area shape="rect" id="node7" href="$classQuantConnect_1_1Orders_1_1Fills_1_1EquityFillModel.html#a8a8e143f24a53d63d165cad1de30c677" title="Market on Open Fill Model. Return an order event with the fill details" alt="" coords="249,267,491,308"/>
+<area shape="rect" id="node8" href="$classQuantConnect_1_1Orders_1_1Fills_1_1EquityFillModel.html#a903b81a4df5a2a7466214bb23eedcab5" title="Default stop limit fill model implementation in base class security. (Stop Limit Order Type)" alt="" coords="267,332,473,373"/>
+<area shape="rect" id="node9" href="$classQuantConnect_1_1Orders_1_1Fills_1_1EquityFillModel.html#a8732a050ce2be5d379d7894d82df3d4c" title="Default stop fill model implementation in base class security. (Stop Market Order Type)" alt="" coords="261,397,479,439"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Orders_1_1Fills_1_1EquityFillModel.html#ab823627c1fff8cca155ab45b414d21f9" title="Return an order event with the fill details" alt="" coords="5,201,200,243"/>
+</map>

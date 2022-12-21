@@ -1,0 +1,6 @@
+<map id="QuantConnect.Securities.SecurityDatabaseKey.Equals" name="QuantConnect.Securities.SecurityDatabaseKey.Equals">
+<area shape="rect" id="node1" title="Indicates whether the current object is equal to another object of the same type." alt="" coords="293,71,500,112"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Securities_1_1SecurityDatabaseKey.html#a25a12cabf88130f88d1ca4541b5ba27b" title="Determines whether the specified object is equal to the current object." alt="" coords="22,5,229,47"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Securities_1_1SecurityDatabaseKey.html#adf525c3cba93aa8b0ade6b229a8d4285" title="Security Database Key != operator" alt="" coords="8,71,243,112"/>
+<area shape="rect" id="node4" href="$classQuantConnect_1_1Securities_1_1SecurityDatabaseKey.html#ab28fd42323f512e583088f184b0a1d98" title="Security Database Key == operator" alt="" coords="5,136,245,177"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="QuantConnect.Data.Consolidators.PeriodCountConsolidatorBase.OnDataConsolidated" name="QuantConnect.Data.Consolidators.PeriodCountConsolidatorBase.OnDataConsolidated">
+<area shape="rect" id="node1" title="Event invocator for the DataConsolidated event" alt="" coords="300,45,568,101"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Data_1_1Consolidators_1_1PeriodCountConsolidatorBase.html#a3f5f2e1c69f87dad89255a4c1f3331d4" title="Scans this consolidator to see if it should emit a bar due to time passing" alt="" coords="5,5,252,61"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Data_1_1Consolidators_1_1PeriodCountConsolidatorBase.html#aeff0416a9da67387615725cd16ffefaf" title="Updates this consolidator with the specified data. This method is responsible for raising the DataCon..." alt="" coords="5,85,252,141"/>
+</map>

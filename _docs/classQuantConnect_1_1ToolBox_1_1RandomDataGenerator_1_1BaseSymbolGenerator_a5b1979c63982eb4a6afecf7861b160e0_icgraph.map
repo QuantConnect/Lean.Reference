@@ -1,0 +1,5 @@
+<map id="QuantConnect.ToolBox.RandomDataGenerator.BaseSymbolGenerator.GetRandomExpiration" name="QuantConnect.ToolBox.RandomDataGenerator.BaseSymbolGenerator.GetRandomExpiration">
+<area shape="rect" id="node1" title="Generates random expiration date on a friday within specified time range" alt="" coords="335,45,605,101"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1ToolBox_1_1RandomDataGenerator_1_1FutureSymbolGenerator.html#a0bc25d09e57c89876c4f45c4b9affd76" title="Generates a new random future Symbol. The generates future contract Symbol will have an expiry betwee..." alt="" coords="7,5,285,61"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1ToolBox_1_1RandomDataGenerator_1_1OptionSymbolGenerator.html#a3d7c3b9a03ea16e0eb7d53fda1102986" title="Generates a new random option Symbol. The generated option contract Symbol will have an expiry betwee..." alt="" coords="5,85,287,141"/>
+</map>

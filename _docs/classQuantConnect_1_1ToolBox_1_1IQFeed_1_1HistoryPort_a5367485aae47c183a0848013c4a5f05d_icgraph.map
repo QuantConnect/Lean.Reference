@@ -1,0 +1,4 @@
+<map id="QuantConnect.ToolBox.IQFeed.HistoryPort.ProcessHistoryRequests" name="QuantConnect.ToolBox.IQFeed.HistoryPort.ProcessHistoryRequests">
+<area shape="rect" id="node1" title="Populate request data" alt="" coords="317,5,573,47"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1ToolBox_1_1IQFeed_1_1IQFeedDataQueueHandler.html#af9c46805a5e67e389d13088220a24ec8" title="Gets the history for the requested securities" alt="" coords="5,5,269,47"/>
+</map>

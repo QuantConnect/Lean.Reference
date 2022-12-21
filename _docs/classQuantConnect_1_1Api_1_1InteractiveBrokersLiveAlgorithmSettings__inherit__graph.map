@@ -1,0 +1,4 @@
+<map id="QuantConnect.Api.InteractiveBrokersLiveAlgorithmSettings" name="QuantConnect.Api.InteractiveBrokersLiveAlgorithmSettings">
+<area shape="rect" id="node1" title="Live algorithm settings for trading with Interactive Brokers" alt="" coords="5,80,220,121"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Api_1_1BaseLiveAlgorithmSettings.html" title="Base class for settings that must be configured per Brokerage to create new algorithms via the API." alt="" coords="13,5,212,32"/>
+</map>

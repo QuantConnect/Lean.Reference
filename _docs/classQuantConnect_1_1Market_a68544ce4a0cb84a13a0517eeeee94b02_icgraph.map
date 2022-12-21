@@ -1,0 +1,5 @@
+<map id="QuantConnect.Market.SupportedMarkets" name="QuantConnect.Market.SupportedMarkets">
+<area shape="rect" id="node1" title="Returns a list of the supported markets" alt="" coords="551,13,784,54"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Util_1_1LeanData.html#acb196459d817160bd77b78d0409bcf8e" title="Parses file name into a Security and DateTime" alt="" coords="292,13,503,54"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Lean_1_1Engine_1_1DataFeeds_1_1ApiDataProvider.html#a533885bcb39ac76411a2d07301d2475e" title="Main filter to determine if this file needs to be downloaded" alt="" coords="5,5,244,61"/>
+</map>

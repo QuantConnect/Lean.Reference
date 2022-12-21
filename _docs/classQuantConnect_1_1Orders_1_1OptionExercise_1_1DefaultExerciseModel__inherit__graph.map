@@ -1,0 +1,4 @@
+<map id="QuantConnect.Orders.OptionExercise.DefaultExerciseModel" name="QuantConnect.Orders.OptionExercise.DefaultExerciseModel">
+<area shape="rect" id="node1" title="Represents the default option exercise model (physical, cash settlement)" alt="" coords="5,80,228,121"/>
+<area shape="rect" id="node2" href="$interfaceQuantConnect_1_1Orders_1_1OptionExercise_1_1IOptionExerciseModel.html" title="Represents a model that simulates option exercise and lapse events" alt="" coords="35,5,198,32"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="QuantConnect.Report.PortfolioLooperAlgorithm" name="QuantConnect.Report.PortfolioLooperAlgorithm">
+<area shape="rect" id="node1" title="Fake algorithm that initializes portfolio and algorithm securities. Never ran." alt="" coords="46,155,266,196"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Algorithm_1_1QCAlgorithm.html" title="QC Algorithm Base Class &#45; Handle the basic requirements of a trading algorithm, allowing user to focu..." alt="" coords="103,80,209,107"/>
+<area shape="rect" id="node3" title=" " alt="" coords="5,5,160,32"/>
+<area shape="rect" id="node4" title=" " alt="" coords="184,5,275,32"/>
+</map>

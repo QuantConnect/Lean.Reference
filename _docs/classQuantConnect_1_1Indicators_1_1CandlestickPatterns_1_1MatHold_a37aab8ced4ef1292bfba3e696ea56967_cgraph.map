@@ -1,0 +1,12 @@
+<map id="QuantConnect.Indicators.CandlestickPatterns.MatHold.ComputeNextValue" name="QuantConnect.Indicators.CandlestickPatterns.MatHold.ComputeNextValue">
+<area shape="rect" id="node1" title="Computes the next value of this indicator from the given state" alt="" coords="5,242,220,298"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Indicators_1_1CandlestickPatterns_1_1CandlestickPattern.html#abfef9cee8cff1859d77bb2c54ded7322" title="Returns the average range of the previous candles" alt="" coords="268,126,499,182"/>
+<area shape="rect" id="node4" href="$classQuantConnect_1_1Indicators_1_1CandlestickPatterns_1_1CandlestickPattern.html#a05b2e39af6efdc4ef734663b1c31d61e" title="Returns the range of a candle" alt="" coords="547,151,777,207"/>
+<area shape="rect" id="node7" href="$classQuantConnect_1_1Indicators_1_1CandlestickPatterns_1_1CandlestickPattern.html#a47cb6b45c58d94689f6233487e981d10" title="Returns the distance between the close and the open of a candle" alt="" coords="850,311,1081,367"/>
+<area shape="rect" id="node9" href="$classQuantConnect_1_1Indicators_1_1CandlestickPatterns_1_1CandlestickPattern.html#a4ffcf1c3b910415989e6d399b917f499" title="Returns the candle color of a candle" alt="" coords="268,307,499,363"/>
+<area shape="rect" id="node10" href="$classQuantConnect_1_1Indicators_1_1CandlestickPatterns_1_1CandlestickPattern.html#ab847cbc489177a641b6039eab2ff21b3" title="Returns true if the candle is higher than the previous one (with no body overlap)" alt="" coords="268,387,499,443"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Indicators_1_1CandlestickPatterns_1_1CandleSettings.html#a1e65d2caf61e018e94574519fee75620" title="Returns the candle setting for the requested type" alt="" coords="825,5,1105,47"/>
+<area shape="rect" id="node5" href="$classQuantConnect_1_1Indicators_1_1CandlestickPatterns_1_1CandlestickPattern.html#ae61e2032511d5338a48f8d5b8be906b7" title="Returns the full range of the candle" alt="" coords="850,71,1081,127"/>
+<area shape="rect" id="node6" href="$classQuantConnect_1_1Indicators_1_1CandlestickPatterns_1_1CandlestickPattern.html#ae57bf84c9247ead2c32aab56c2e4ecac" title="Returns the range of the candle&#39;s lower shadow" alt="" coords="850,151,1081,207"/>
+<area shape="rect" id="node8" href="$classQuantConnect_1_1Indicators_1_1CandlestickPatterns_1_1CandlestickPattern.html#ab499aa69437c2a6e83b2f1c05421c203" title="Returns the range of the candle&#39;s upper shadow" alt="" coords="850,231,1081,287"/>
+</map>

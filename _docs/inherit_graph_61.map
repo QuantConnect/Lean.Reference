@@ -1,0 +1,4 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$interfaceQuantConnect_1_1Brokerages_1_1Backtesting_1_1IBacktestingMarketSimulation.html" title="Backtesting Market Simulation interface, that must be implemented by all simulators of market conditi..." alt="" coords="5,5,235,61"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Brokerages_1_1Backtesting_1_1BasicOptionAssignmentSimulation.html" title="This market conditions simulator emulates exercising of short option positions in the portfolio...." alt="" coords="283,5,541,61"/>
+</map>

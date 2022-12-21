@@ -1,0 +1,4 @@
+<map id="QuantConnect.Lean.Engine.RealTime.BacktestingRealTimeHandler.SetTime" name="QuantConnect.Lean.Engine.RealTime.BacktestingRealTimeHandler.SetTime">
+<area shape="rect" id="node1" title="Set the time for the realtime event handler." alt="" coords="5,5,287,61"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Lean_1_1Engine_1_1RealTime_1_1BacktestingRealTimeHandler.html#a77236800ce1e0bbe276e32fc212be441" title="Sorts the first element of the provided list and supposes the rest of the collection is sorted...." alt="" coords="335,5,616,61"/>
+</map>

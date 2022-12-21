@@ -1,0 +1,4 @@
+<map id="QuantConnect.Securities.ISettlementModel.ApplyFunds" name="QuantConnect.Securities.ISettlementModel.ApplyFunds">
+<area shape="rect" id="node1" title="Applies cash settlement rules" alt="" coords="296,5,513,47"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Securities_1_1SecurityPortfolioModel.html#a5fec18e0e959a173c5fbb6187ab56f7c" title="Performs application of an OrderEvent to the portfolio" alt="" coords="5,5,248,47"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="QuantConnect.ToolBox.IStreamProvider.Open" name="QuantConnect.ToolBox.IStreamProvider.Open">
+<area shape="rect" id="node1" title="Opens the specified source as read to be consumed stream" alt="" coords="336,53,560,94"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1ToolBox_1_1AlgoSeekFuturesConverter_1_1AlgoSeekFuturesReader.html#aeb99989977e00531fb51168b2621f9d0" title="Enumerate through the lines of the algoseek files." alt="" coords="7,5,286,61"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1ToolBox_1_1AlgoSeekOptionsConverter_1_1AlgoSeekOptionsReader.html#a2c3dd57cd485f03a9c2a767cce245c13" title="Enumerate through the lines of the algoseek files." alt="" coords="5,85,288,141"/>
+</map>

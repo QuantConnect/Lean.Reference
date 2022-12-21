@@ -1,0 +1,5 @@
+<map id="QuantConnect.Algorithm.QCAlgorithm.Consolidate&lt; T &gt;" name="QuantConnect.Algorithm.QCAlgorithm.Consolidate&lt; T &gt;">
+<area shape="rect" id="node1" title="Registers the handler &#160;to receive consolidated data for the specified symbol and tick type...." alt="" coords="5,39,279,80"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Algorithm_1_1QCAlgorithm.html#a62c84a05ee9e555916e3e3a3c32bf51c" title="Registers the handler &#160;to receive consolidated data for the specified symbol" alt="" coords="344,5,617,47"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Util_1_1LeanData.html#adf1799b921849e0643385e6794ec2471" title="Get the TickType for common Lean data types. If not a Lean common data type, return a TickType of Tra..." alt="" coords="327,71,635,112"/>
+</map>

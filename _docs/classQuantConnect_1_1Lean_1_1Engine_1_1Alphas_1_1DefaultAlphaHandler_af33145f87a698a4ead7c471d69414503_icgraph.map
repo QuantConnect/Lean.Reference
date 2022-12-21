@@ -1,0 +1,5 @@
+<map id="QuantConnect.Lean.Engine.Alphas.DefaultAlphaHandler.StoreInsights" name="QuantConnect.Lean.Engine.Alphas.DefaultAlphaHandler.StoreInsights">
+<area shape="rect" id="node1" title="Save insight results to persistent storage" alt="" coords="312,35,555,91"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Lean_1_1Engine_1_1Alphas_1_1DefaultAlphaHandler.html#a0b7fac5223c7b66d928f8ddb047e84e0" title="Stops processing and stores insights" alt="" coords="17,5,252,47"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Lean_1_1Engine_1_1Alphas_1_1DefaultAlphaHandler.html#a90f6a079ebfff35dd87ea5806173d8b8" title="Invoked after the algorithm&#39;s Initialize method was called allowing the alpha handler to check other ..." alt="" coords="5,71,264,127"/>
+</map>

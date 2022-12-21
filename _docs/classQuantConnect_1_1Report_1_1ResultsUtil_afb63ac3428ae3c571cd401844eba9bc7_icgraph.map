@@ -1,0 +1,6 @@
+<map id="QuantConnect.Report.ResultsUtil.EquityPoints" name="QuantConnect.Report.ResultsUtil.EquityPoints">
+<area shape="rect" id="node1" title="Get the equity chart points" alt="" coords="571,39,784,80"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Report_1_1DrawdownCollection.html#ab526a6f08494f46c1abe1c4e57fef25c" title="Normalizes the Series used to calculate the drawdown plots and charts" alt="" coords="288,5,523,47"/>
+<area shape="rect" id="node4" href="$classQuantConnect_1_1Report_1_1Report.html#a55bfb8f6c42061a887d4b2a3369f20ac" title="Create beautiful HTML and PDF Reports based on backtest and live data." alt="" coords="299,71,511,112"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Report_1_1DrawdownCollection.html#a94d44ac8b94a7ddc4c9ad2f772f55827" title="Generate a new instance of DrawdownCollection from backtest and live Result derived instances" alt="" coords="5,5,240,47"/>
+</map>

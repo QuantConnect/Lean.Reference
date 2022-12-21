@@ -1,0 +1,14 @@
+<map id="QuantConnect.Interfaces.ISecurityPrice" name="QuantConnect.Interfaces.ISecurityPrice">
+<area shape="rect" id="node1" title="Reduced interface which allows setting and accessing price properties for a Security" alt="" coords="5,169,192,211"/>
+<area shape="rect" id="node2" href="$interfaceQuantConnect_1_1Interfaces_1_1IOptionPrice.html" title="Reduced interface for accessing Option specific price properties and methods" alt="" coords="240,87,427,128"/>
+<area shape="rect" id="node6" href="$classQuantConnect_1_1Securities_1_1Security.html" title="A base vehicle properties class for providing a common interface to all assets in QuantConnect." alt="" coords="240,201,427,243"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Securities_1_1Option_1_1Option.html" title="Option Security Object Implementation for Option Assets" alt="" coords="475,37,661,79"/>
+<area shape="rect" id="node4" href="$classQuantConnect_1_1Securities_1_1FutureOption_1_1FutureOption.html" title="Futures Options security" alt="" coords="709,5,904,47"/>
+<area shape="rect" id="node5" href="$classQuantConnect_1_1Securities_1_1IndexOption_1_1IndexOption.html" title="Index Options security" alt="" coords="713,71,900,112"/>
+<area shape="rect" id="node7" href="$classQuantConnect_1_1Securities_1_1Cfd_1_1Cfd.html" title="CFD Security Object Implementation for CFD Assets" alt="" coords="475,103,661,144"/>
+<area shape="rect" id="node8" href="$classQuantConnect_1_1Securities_1_1Crypto_1_1Crypto.html" title="Crypto Security Object Implementation for Crypto Assets" alt="" coords="475,168,661,209"/>
+<area shape="rect" id="node9" href="$classQuantConnect_1_1Securities_1_1Equity_1_1Equity.html" title="Equity Security Type : Extension of the underlying Security class for equity specific behaviours." alt="" coords="475,233,661,275"/>
+<area shape="rect" id="node10" href="$classQuantConnect_1_1Securities_1_1Forex_1_1Forex.html" title="FOREX Security Object Implementation for FOREX Assets" alt="" coords="475,299,661,340"/>
+<area shape="rect" id="node11" href="$classQuantConnect_1_1Securities_1_1Future_1_1Future.html" title="Futures Security Object Implementation for Futures Assets" alt="" coords="475,364,661,405"/>
+<area shape="rect" id="node12" href="$classQuantConnect_1_1Securities_1_1Index_1_1Index.html" title="INDEX Security Object Implementation for INDEX Assets" alt="" coords="475,429,661,471"/>
+</map>

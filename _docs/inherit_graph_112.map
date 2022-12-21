@@ -1,0 +1,4 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$classQuantConnect_1_1Data_1_1Consolidators_1_1TradeBarConsolidatorBase.html" title=" " alt="" coords="5,5,252,61"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Data_1_1Consolidators_1_1BaseDataConsolidator.html" title="Type capable of consolidating trade bars from any base data instance" alt="" coords="300,13,547,54"/>
+</map>

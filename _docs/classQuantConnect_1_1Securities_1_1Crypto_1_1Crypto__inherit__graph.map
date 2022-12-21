@@ -1,0 +1,6 @@
+<map id="QuantConnect.Securities.Crypto.Crypto" name="QuantConnect.Securities.Crypto.Crypto">
+<area shape="rect" id="node1" title="Crypto Security Object Implementation for Crypto Assets" alt="" coords="39,155,226,196"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Securities_1_1Security.html" title="A base vehicle properties class for providing a common interface to all assets in QuantConnect." alt="" coords="23,80,98,107"/>
+<area shape="rect" id="node3" href="$interfaceQuantConnect_1_1Interfaces_1_1ISecurityPrice.html" title="Reduced interface which allows setting and accessing price properties for a Security" alt="" coords="5,5,116,32"/>
+<area shape="rect" id="node4" href="$interfaceQuantConnect_1_1Securities_1_1IBaseCurrencySymbol.html" title="Interface for various currency symbols" alt="" coords="122,80,287,107"/>
+</map>

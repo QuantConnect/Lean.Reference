@@ -1,0 +1,4 @@
+<map id="QuantConnect.Scheduling.ScheduleManager.Add" name="QuantConnect.Scheduling.ScheduleManager.Add">
+<area shape="rect" id="node1" title="Adds the specified event to the schedule" alt="" coords="5,5,199,47"/>
+<area shape="rect" id="node2" href="$interfaceQuantConnect_1_1Scheduling_1_1IEventSchedule.html#a5e23772f76b442b9aac22acca77d1823" title="Adds the specified event to the schedule" alt="" coords="247,5,440,47"/>
+</map>

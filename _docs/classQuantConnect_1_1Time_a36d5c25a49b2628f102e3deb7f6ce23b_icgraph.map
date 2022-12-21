@@ -1,0 +1,9 @@
+<map id="QuantConnect.Time.GetSecondUnevenWait" name="QuantConnect.Time.GetSecondUnevenWait">
+<area shape="rect" id="node1" title="Helper method to adjust a waiting time, in milliseconds, so it&#39;s uneven with the second turn around" alt="" coords="628,108,853,149"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Brokerages_1_1DefaultConnectionHandler.html#a741233b19b5f305f405018a7b24f4600" title="Initializes the connection handler" alt="" coords="319,5,573,47"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Lean_1_1Engine_1_1Results_1_1LiveTradingResultHandler.html#a50f62a662e8a77e1c0fbf1720aa1716f" title="Live trading result handler thread." alt="" coords="312,71,580,112"/>
+<area shape="rect" id="node4" href="$classQuantConnect_1_1Lean_1_1Engine_1_1Alphas_1_1DefaultAlphaHandler.html#af33145f87a698a4ead7c471d69414503" title="Save insight results to persistent storage" alt="" coords="325,137,567,193"/>
+<area shape="rect" id="node7" href="$classQuantConnect_1_1Scheduling_1_1TimeMonitor.html#a4b1e73743eb0a2739a90f74ef21df533" title="Creates a new instance" alt="" coords="349,217,543,259"/>
+<area shape="rect" id="node5" href="$classQuantConnect_1_1Lean_1_1Engine_1_1Alphas_1_1DefaultAlphaHandler.html#a0b7fac5223c7b66d928f8ddb047e84e0" title="Stops processing and stores insights" alt="" coords="17,107,252,148"/>
+<area shape="rect" id="node6" href="$classQuantConnect_1_1Lean_1_1Engine_1_1Alphas_1_1DefaultAlphaHandler.html#a90f6a079ebfff35dd87ea5806173d8b8" title="Invoked after the algorithm&#39;s Initialize method was called allowing the alpha handler to check other ..." alt="" coords="5,173,264,229"/>
+</map>

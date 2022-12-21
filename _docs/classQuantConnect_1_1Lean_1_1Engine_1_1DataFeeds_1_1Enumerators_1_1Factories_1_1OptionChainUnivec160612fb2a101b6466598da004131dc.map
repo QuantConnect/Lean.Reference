@@ -1,0 +1,4 @@
+<map id="QuantConnect.Lean.Engine.DataFeeds.Enumerators.Factories.OptionChainUniverseSubscriptionEnumeratorFactory" name="QuantConnect.Lean.Engine.DataFeeds.Enumerators.Factories.OptionChainUniverseSubscriptionEnumeratorFactory">
+<area shape="rect" id="node1" title="Provides an implementation of ISubscriptionEnumeratorFactory for the OptionChainUniverse" alt="" coords="5,80,321,151"/>
+<area shape="rect" id="node2" href="$interfaceQuantConnect_1_1Data_1_1ISubscriptionEnumeratorFactory.html" title="Create an IEnumerator&lt;BaseData&gt;" alt="" coords="49,5,278,32"/>
+</map>

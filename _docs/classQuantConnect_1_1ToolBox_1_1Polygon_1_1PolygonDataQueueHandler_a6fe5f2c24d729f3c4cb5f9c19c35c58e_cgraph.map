@@ -1,0 +1,5 @@
+<map id="QuantConnect.ToolBox.Polygon.PolygonDataQueueHandler.PolygonDataQueueHandler" name="QuantConnect.ToolBox.Polygon.PolygonDataQueueHandler.PolygonDataQueueHandler">
+<area shape="rect" id="node1" title="Initializes a new instance of the PolygonDataQueueHandler class" alt="" coords="5,31,289,87"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1ToolBox_1_1Polygon_1_1PolygonDataQueueHandler.html#ab6db1a89b0ca3c44d582fe6fb6821b6d" title="Subscribe to the specified configuration" alt="" coords="346,5,610,47"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1ToolBox_1_1Polygon_1_1PolygonDataQueueHandler.html#a20c581f2f8dc623c2788ee88aa67a104" title="Removes the specified configuration" alt="" coords="337,71,619,112"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="QuantConnect.Securities.SecurityTransactionManager.GetOrderByBrokerageId" name="QuantConnect.Securities.SecurityTransactionManager.GetOrderByBrokerageId">
+<area shape="rect" id="node1" title="Gets the order by its brokerage id" alt="" coords="5,5,237,61"/>
+<area shape="rect" id="node2" href="$interfaceQuantConnect_1_1Securities_1_1IOrderProvider.html#ab3e70750e0f98c4fce8f1d08237b6471" title="Gets the order by its brokerage id" alt="" coords="285,13,559,54"/>
+</map>

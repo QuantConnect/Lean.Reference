@@ -1,0 +1,8 @@
+<map id="QuantConnect.Securities.SecurityDefinition.TryRead" name="QuantConnect.Securities.SecurityDefinition.TryRead">
+<area shape="rect" id="node1" title="Attempts to read data from the specified file and convert it into a list of SecurityDefinition" alt="" coords="5,39,200,80"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Securities_1_1SecurityDefinition.html#a82de6b15f6e510abee79feeeb133a3e1" title="Reads data from the specified file and converts it to a list of SecurityDefinition" alt="" coords="248,39,435,80"/>
+<area shape="rect" id="node3" href="$interfaceQuantConnect_1_1Interfaces_1_1IDataProvider.html#af46a001c562e580e1a2b0965bf68c864" title="Retrieves data to be used in an algorithm" alt="" coords="503,5,689,47"/>
+<area shape="rect" id="node4" href="$classQuantConnect_1_1Securities_1_1SecurityDefinition.html#afeaaba888400d043436e7e093306ccac" title="Parses a single line of CSV and converts it into an instance" alt="" coords="483,71,709,112"/>
+<area shape="rect" id="node5" href="$classQuantConnect_1_1SecurityIdentifier.html#a89ccb2161613f17d18ca3dc1e9eb3872" title="Parses the specified string into a SecurityIdentifier The string must be a 40 digit number...." alt="" coords="757,71,989,112"/>
+<area shape="rect" id="node6" href="$classQuantConnect_1_1SecurityIdentifier.html#a59bd74be4ec55a0e4631af9e10f65d7c" title="Attempts to parse the specified &#160;as a SecurityIdentifier." alt="" coords="1037,71,1269,112"/>
+</map>

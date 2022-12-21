@@ -1,0 +1,4 @@
+<map id="QuantConnect.Brokerages.Backtesting.BasicOptionAssignmentSimulation.IsReadyToSimulate" name="QuantConnect.Brokerages.Backtesting.BasicOptionAssignmentSimulation.IsReadyToSimulate">
+<area shape="rect" id="node1" title="We generate a list of time points when we would like to run our simulation. we then return true if th..." alt="" coords="321,5,580,61"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Brokerages_1_1Backtesting_1_1BasicOptionAssignmentSimulation.html#a35c4cb9140b9a39e5da5dfcc89a05018" title="We simulate activity of market makers on expiration. Trying to get profit close to expiration dates i..." alt="" coords="5,5,273,61"/>
+</map>

@@ -1,0 +1,9 @@
+<map id="QuantConnect.Currencies.GetCurrencySymbol" name="QuantConnect.Currencies.GetCurrencySymbol">
+<area shape="rect" id="node1" title="Gets the currency symbol for the specified currency code" alt="" coords="589,129,780,171"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Securities_1_1Cash.html#a2aa111689a480307cc3926c6aaa358cd" title="Initializes a new instance of the Cash class" alt="" coords="325,5,511,47"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Holding.html#a2d74ab2463d9dbf428deeb0737af7fb5" title="Create a simple JSON holdings from a Security holding class." alt="" coords="307,71,529,98"/>
+<area shape="rect" id="node4" href="$classQuantConnect_1_1Lean_1_1Engine_1_1Results_1_1BacktestingResultHandler.html#a187cf964394ce96cafca9a1048e9b143" title="Set the Algorithm instance for ths result." alt="" coords="295,122,541,178"/>
+<area shape="rect" id="node5" href="$classQuantConnect_1_1Lean_1_1Engine_1_1Results_1_1LiveTradingResultHandler.html#afc6bdfeeb94a6a5f8dbebd730153d16e" title="Set the algorithm of the result handler after its been initialized." alt="" coords="297,202,539,258"/>
+<area shape="rect" id="node6" href="$classQuantConnect_1_1AlphaRuntimeStatistics.html#ad6444375d8704bd508db3fcbb6e80686" title="Creates a dictionary containing the statistics" alt="" coords="313,283,523,324"/>
+<area shape="rect" id="node7" href="$classQuantConnect_1_1Lean_1_1Engine_1_1Results_1_1RegressionResultHandler.html#ab4dba773a0e7cc36c8f0e25d4129412f" title="Perform daily logging of the alpha runtime statistics" alt="" coords="5,275,247,331"/>
+</map>

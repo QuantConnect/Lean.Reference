@@ -1,0 +1,5 @@
+<map id="QuantConnect.Brokerages.BrokerageMultiWebSocketSubscriptionManager.BrokerageMultiWebSocketSubscriptionManager" name="QuantConnect.Brokerages.BrokerageMultiWebSocketSubscriptionManager.BrokerageMultiWebSocketSubscriptionManager">
+<area shape="rect" id="node1" title="Initializes a new instance of the BrokerageMultiWebSocketSubscriptionManager class" alt="" coords="5,5,337,76"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Logging_1_1Log.html#a4e55477fbc790846b74550a57198cea9" title="Log trace" alt="" coords="385,20,585,61"/>
+<area shape="rect" id="node3" href="$interfaceQuantConnect_1_1Logging_1_1ILogHandler.html#a3fb71a33ac66129240b63f12b6fcda3b" title="Write debug message to log" alt="" coords="633,20,833,61"/>
+</map>

@@ -1,0 +1,8 @@
+<map id="QuantConnect.Data.Market.OpenInterest.GetSource" name="QuantConnect.Data.Market.OpenInterest.GetSource">
+<area shape="rect" id="node1" title="Get source for OI data feed &#45; not used with QuantConnect data sources implementation." alt="" coords="5,54,208,95"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Util_1_1LeanData.html#a3614005931e0b85e86179d828e7bfca1" title="Generate&#39;s the zip entry name to hold the specified data." alt="" coords="256,17,467,58"/>
+<area shape="rect" id="node4" href="$classQuantConnect_1_1Util_1_1LeanData.html#a6c106a884e3c8562732737244a1fc45d" title="Generates the full zip file path rooted in the dataDirectory" alt="" coords="256,86,467,127"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Securities_1_1Future_1_1FuturesExpiryUtilityFunctions.html#a4ccb1e2f2fe40ff09785a74a02f26df1" title="Gets the number of months between the contract month and the expiry date." alt="" coords="515,5,869,61"/>
+<area shape="rect" id="node5" href="$classQuantConnect_1_1Util_1_1LeanData.html#a7a375e870b2ab7451dba45e61c7135df" title="Generates the relative zip directory for the specified symbol/resolution" alt="" coords="572,86,812,127"/>
+<area shape="rect" id="node6" href="$classQuantConnect_1_1Util_1_1LeanData.html#ae798d44930bdd36039812c9390e33af9" title="Generates the zip file name for the specified date of data." alt="" coords="587,151,797,193"/>
+</map>

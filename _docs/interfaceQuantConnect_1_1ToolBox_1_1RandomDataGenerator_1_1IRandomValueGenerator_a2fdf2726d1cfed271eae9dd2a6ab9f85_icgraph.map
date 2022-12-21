@@ -1,0 +1,4 @@
+<map id="QuantConnect.ToolBox.RandomDataGenerator.IRandomValueGenerator.NextPrice" name="QuantConnect.ToolBox.RandomDataGenerator.IRandomValueGenerator.NextPrice">
+<area shape="rect" id="node1" title="Generates a random decimal suitable as a price. This should observe minimum price variations if avail..." alt="" coords="335,5,617,61"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1ToolBox_1_1RandomDataGenerator_1_1OptionSymbolGenerator.html#a3d7c3b9a03ea16e0eb7d53fda1102986" title="Generates a new random option Symbol. The generated option contract Symbol will have an expiry betwee..." alt="" coords="5,5,287,61"/>
+</map>

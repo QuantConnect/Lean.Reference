@@ -1,0 +1,8 @@
+<map id="QuantConnect.Lean.Engine.Storage.LocalObjectStore.OnErrorRaised" name="QuantConnect.Lean.Engine.Storage.LocalObjectStore.OnErrorRaised">
+<area shape="rect" id="node1" title="Event invocator for the ErrorRaised event" alt="" coords="1225,43,1464,99"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Lean_1_1Engine_1_1Storage_1_1LocalObjectStore.html#a97abc3229c26b0c287cdb79018ae4f89" title="Validates storage limits are respected on a new save operation" alt="" coords="923,5,1166,61"/>
+<area shape="rect" id="node6" href="$classQuantConnect_1_1Lean_1_1Engine_1_1Storage_1_1LocalObjectStore.html#ad996578710d9cce84fc9af79d6ee86cb" title="Overridable persistence function" alt="" coords="912,86,1177,127"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Lean_1_1Engine_1_1Storage_1_1LocalObjectStore.html#a093750ac2ce0b349d77f3a80f4d5e2e7" title="Won&#39;t trigger persist nor will check storage write permissions, useful on initialization since it all..." alt="" coords="624,5,864,61"/>
+<area shape="rect" id="node4" href="$classQuantConnect_1_1Lean_1_1Engine_1_1Storage_1_1LocalObjectStore.html#a0bae70bb60e5691f9d65f7e981d9c9b0" title="Saves the object data for the specified path" alt="" coords="317,13,576,54"/>
+<area shape="rect" id="node5" href="$classQuantConnect_1_1Lean_1_1Engine_1_1Storage_1_1LocalObjectStore.html#ad1b6b2c77674a74df56288750a0450ec" title="Returns the file path for the specified path" alt="" coords="5,13,269,54"/>
+</map>

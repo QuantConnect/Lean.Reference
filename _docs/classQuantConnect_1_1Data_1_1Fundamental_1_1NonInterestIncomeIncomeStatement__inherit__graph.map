@@ -1,0 +1,4 @@
+<map id="QuantConnect.Data.Fundamental.NonInterestIncomeIncomeStatement" name="QuantConnect.Data.Fundamental.NonInterestIncomeIncomeStatement">
+<area shape="rect" id="node1" title="The total amount of non&#45;interest income which may be derived from: (1) fees and commissions; (2) prem..." alt="" coords="5,80,268,121"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Data_1_1Fundamental_1_1MultiPeriodField.html" title="Abstract base class for multi&#45;period fields" alt="" coords="73,5,200,32"/>
+</map>

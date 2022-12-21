@@ -1,0 +1,4 @@
+<map id="QuantConnect.Indicators.Beta.ComputeNextValue" name="QuantConnect.Indicators.Beta.ComputeNextValue">
+<area shape="rect" id="node1" title="Computes the next value for this indicator from the given state." alt="" coords="5,5,192,47"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Indicators_1_1RollingWindow.html#aeda810a70ae103ede4f753b6704cd1e9" title="Adds an item to this window and shifts all other elements" alt="" coords="240,5,427,47"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="QuantConnect.ToolBox.RandomDataGenerator.BaseSymbolGenerator.NextUpperCaseString" name="QuantConnect.ToolBox.RandomDataGenerator.BaseSymbolGenerator.NextUpperCaseString">
+<area shape="rect" id="node1" title="Generates a random string within the specified lengths." alt="" coords="5,5,276,61"/>
+<area shape="rect" id="node2" href="$interfaceQuantConnect_1_1ToolBox_1_1RandomDataGenerator_1_1IRandomValueGenerator.html#a615be809fb0e058c362a8575be83337e" title="Returns a random integer that is within a specified range." alt="" coords="324,5,607,61"/>
+</map>

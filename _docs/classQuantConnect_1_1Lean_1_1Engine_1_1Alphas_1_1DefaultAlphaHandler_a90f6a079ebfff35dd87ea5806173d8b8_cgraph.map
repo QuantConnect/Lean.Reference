@@ -1,0 +1,10 @@
+<map id="QuantConnect.Lean.Engine.Alphas.DefaultAlphaHandler.OnAfterAlgorithmInitialized" name="QuantConnect.Lean.Engine.Alphas.DefaultAlphaHandler.OnAfterAlgorithmInitialized">
+<area shape="rect" id="node1" title="Invoked after the algorithm&#39;s Initialize method was called allowing the alpha handler to check other ..." alt="" coords="5,103,264,159"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Statistics_1_1FitnessScoreManager.html#adb4879184a59851731cf9d07730d5ae8" title="Initializes the fitness score instance and sets the initial portfolio value" alt="" coords="347,37,567,79"/>
+<area shape="rect" id="node6" href="$classQuantConnect_1_1Algorithm_1_1Framework_1_1Alphas_1_1Analysis_1_1InsightManager.html#aa10cb5534cb2262669a655e786ce8c2b" title="Initializes any extensions for the specified backtesting range" alt="" coords="312,103,601,159"/>
+<area shape="rect" id="node7" href="$classQuantConnect_1_1Lean_1_1Engine_1_1Alphas_1_1DefaultAlphaHandler.html#af33145f87a698a4ead7c471d69414503" title="Save insight results to persistent storage" alt="" coords="335,183,578,239"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Logging_1_1Log.html#af0e7955911bc7664b37661b2a303a9e3" title="Log error" alt="" coords="675,5,875,47"/>
+<area shape="rect" id="node5" href="$classQuantConnect_1_1Statistics_1_1PortfolioStatistics.html#acb200c9b2a6cba149d31ee3f955d43e5" title="Gets the current defined risk free annual return rate" alt="" coords="649,71,900,112"/>
+<area shape="rect" id="node4" href="$interfaceQuantConnect_1_1Logging_1_1ILogHandler.html#a35373a0c5d76031fa5ccf5dc39e5c25d" title="Write error message to log" alt="" coords="948,5,1148,47"/>
+<area shape="rect" id="node8" href="$classQuantConnect_1_1Time.html#a36d5c25a49b2628f102e3deb7f6ce23b" title="Helper method to adjust a waiting time, in milliseconds, so it&#39;s uneven with the second turn around" alt="" coords="662,191,887,232"/>
+</map>

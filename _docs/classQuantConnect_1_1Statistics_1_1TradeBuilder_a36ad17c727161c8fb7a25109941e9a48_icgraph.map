@@ -1,0 +1,5 @@
+<map id="QuantConnect.Statistics.TradeBuilder.SetLiveMode" name="QuantConnect.Statistics.TradeBuilder.SetLiveMode">
+<area shape="rect" id="node1" title="Sets the live mode flag" alt="" coords="327,39,517,80"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Algorithm_1_1QCAlgorithm.html#a9901b7d411298d0b1b7ccc480477d99c" title="Set live mode state of the algorithm run: Public setter for the algorithm property LiveMode." alt="" coords="5,5,279,47"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Algorithm_1_1QCAlgorithm.html#a3896f06fcdbb98b982fb39c963b8a939" title="Set the ITradeBuilder implementation to generate trades from executions and market price updates" alt="" coords="5,71,279,112"/>
+</map>

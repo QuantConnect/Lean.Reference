@@ -1,0 +1,6 @@
+<map id="QuantConnect.Logging.ConsoleErrorLogHandler" name="QuantConnect.Logging.ConsoleErrorLogHandler">
+<area shape="rect" id="node1" title="Subclass of ConsoleLogHandler that only logs error messages" alt="" coords="5,229,231,271"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Logging_1_1ConsoleLogHandler.html" title="ILogHandler implementation that writes log output to console." alt="" coords="44,155,192,181"/>
+<area shape="rect" id="node3" href="$interfaceQuantConnect_1_1Logging_1_1ILogHandler.html" title="Interface for redirecting log output" alt="" coords="68,80,168,107"/>
+<area shape="rect" id="node4" title=" " alt="" coords="69,5,167,32"/>
+</map>

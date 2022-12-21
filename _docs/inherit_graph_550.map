@@ -1,0 +1,5 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$interfaceQuantConnect_1_1ToolBox_1_1RandomDataGenerator_1_1IPriceGenerator.html" title="Defines a type capable of producing random prices" alt="" coords="5,50,232,91"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1ToolBox_1_1RandomDataGenerator_1_1OptionPriceModelPriceGenerator.html" title="Pricing model used to determine the fair price or theoretical value for a call or a put option price ..." alt="" coords="282,5,550,61"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1ToolBox_1_1RandomDataGenerator_1_1RandomPriceGenerator.html" title="Random pricing model used to determine the fair price or theoretical value for a call or a put option" alt="" coords="280,86,552,127"/>
+</map>

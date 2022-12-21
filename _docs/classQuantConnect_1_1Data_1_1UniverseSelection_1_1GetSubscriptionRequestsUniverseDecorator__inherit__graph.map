@@ -1,0 +1,6 @@
+<map id="QuantConnect.Data.UniverseSelection.GetSubscriptionRequestsUniverseDecorator" name="QuantConnect.Data.UniverseSelection.GetSubscriptionRequestsUniverseDecorator">
+<area shape="rect" id="node1" title="Provides a universe decoration that replaces the implementation of GetSubscriptionRequests" alt="" coords="5,229,255,285"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Data_1_1UniverseSelection_1_1UniverseDecorator.html" title="Provides an implementation of UniverseSelection.Universe that redirects all calls to a wrapped (or de..." alt="" coords="58,155,202,181"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Data_1_1UniverseSelection_1_1Universe.html" title="Provides a base class for all universes to derive from." alt="" coords="90,80,170,107"/>
+<area shape="rect" id="node4" title=" " alt="" coords="81,5,179,32"/>
+</map>

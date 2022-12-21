@@ -1,0 +1,9 @@
+<map id="QuantConnect.Data.Consolidators.IDataConsolidator.Update" name="QuantConnect.Data.Consolidators.IDataConsolidator.Update">
+<area shape="rect" id="node1" title="Updates this consolidator with the specified data" alt="" coords="711,166,957,207"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1ToolBox_1_1AlgoSeekOptionsConverter_1_1AlgoSeekOptionsProcessor.html#a723c1b651126fdab44cb5ad6cf2ca2df" title="Process the tick; add to the con" alt="" coords="358,5,641,61"/>
+<area shape="rect" id="node4" href="$classQuantConnect_1_1ToolBox_1_1AlgoSeekFuturesConverter_1_1AlgoSeekFuturesProcessor.html#a0febf12b8533c9644f597bdd879e6ecc" title="Process the tick; add to the con" alt="" coords="360,85,639,141"/>
+<area shape="rect" id="node5" href="$classQuantConnect_1_1Data_1_1Consolidators_1_1SequentialConsolidator.html#aad1044676f058aea343ef20d90f2b159" title="Creates a new consolidator that will pump date through the first, and then the output of the first in..." alt="" coords="336,166,663,207"/>
+<area shape="rect" id="node6" href="$classQuantConnect_1_1ToolBox_1_1TickAggregator.html#a5c1c3756a78e6b125f83b1a95e46291d" title="Updates the consolidator with the specified bar." alt="" coords="399,231,599,273"/>
+<area shape="rect" id="node7" href="$classQuantConnect_1_1Data_1_1Consolidators_1_1SequentialConsolidator.html#a1b2999c893aa7d70b37a69eac64835e7" title="Updates this consolidator with the specified data" alt="" coords="376,297,623,338"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1ToolBox_1_1AlgoSeekOptionsConverter_1_1AlgoSeekOptionsConverter.html#a864f504f61986bb169dd34eb22339a91" title="Give the reference date and source directory, convert the algoseek options data into n&#45;resolutions LE..." alt="" coords="5,5,288,61"/>
+</map>

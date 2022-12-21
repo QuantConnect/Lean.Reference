@@ -1,0 +1,8 @@
+<map id="QuantConnect.Securities.Future.FuturesOptionsSymbolMappings.MapFromOption" name="QuantConnect.Securities.Future.FuturesOptionsSymbolMappings.MapFromOption">
+<area shape="rect" id="node1" title="Maps a futures options ticker to its underlying future&#39;s ticker" alt="" coords="632,112,913,168"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Securities_1_1FutureOption_1_1FuturesOptionsUnderlyingMapper.html#ae2c92cb1e17d9457a9408cf7799964fd" title="Gets the FOP&#39;s underlying Future. The underlying Future&#39;s contract month might not match the contract..." alt="" coords="257,5,584,61"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Util_1_1LeanDataPathComponents.html#a0d24d06405609c2f8b3107c6b41ba57d" title="Parses the specified path into a new instance of the LeanDataPathComponents class" alt="" coords="317,86,524,127"/>
+<area shape="rect" id="node5" href="$classQuantConnect_1_1SymbolRepresentation.html#adae87b321b11822d3fa9b641c0b2c2ab" title="Creates a future option Symbol from the provided ticker" alt="" coords="285,151,556,193"/>
+<area shape="rect" id="node6" href="$classQuantConnect_1_1Securities_1_1MarketHoursDatabase.html#a67b49ffdf1317fda8cbc895849478203" title="Tries to get the entry for the specified market/symbol/security&#45;type" alt="" coords="297,217,544,258"/>
+<area shape="rect" id="node4" href="$classQuantConnect_1_1ToolBox_1_1LeanParser.html#abd1bb9fca7f05ea516d50523b8218593" title="Parses the specified input stream into an enumerable of data" alt="" coords="5,86,209,127"/>
+</map>

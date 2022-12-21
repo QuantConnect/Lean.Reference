@@ -1,0 +1,6 @@
+<map id="QuantConnect.Securities.Security.SetMarketPrice" name="QuantConnect.Securities.Security.SetMarketPrice">
+<area shape="rect" id="node1" title="Update any security properties based on the latest market data and time" alt="" coords="5,39,192,80"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Securities_1_1SecurityCache.html#a306a1a4267b478aae7ddcbea69a16dcb" title="Add a new market data point to the local security cache for the current market price...." alt="" coords="284,5,471,47"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Securities_1_1Security.html#a565517f8d373561bf0260b91153ce2cc" title="Update market price of this Security" alt="" coords="240,71,515,112"/>
+<area shape="rect" id="node4" href="$classQuantConnect_1_1Securities_1_1SecurityHolding.html#a1a001b85c4c5ba7b15f80016a3873b43" title="Update local copy of closing price value." alt="" coords="563,71,816,112"/>
+</map>

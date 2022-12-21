@@ -1,0 +1,4 @@
+<map id="QuantConnect.Util.Validate.EmailAddress" name="QuantConnect.Util.Validate.EmailAddress">
+<area shape="rect" id="node1" title="Validates the provided email address" alt="" coords="304,5,507,47"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Notifications_1_1NotificationEmail.html#a0d0707cff8be762e63c70c56707a63c7" title="Default constructor for sending an email notification" alt="" coords="5,5,256,47"/>
+</map>

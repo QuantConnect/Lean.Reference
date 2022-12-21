@@ -1,0 +1,5 @@
+<map id="QuantConnect.Commands.UpdateOrderCommand" name="QuantConnect.Commands.UpdateOrderCommand">
+<area shape="rect" id="node1" title="Represents a command to update an order by id" alt="" coords="5,155,248,196"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Commands_1_1BaseCommand.html" title="Base command implementation" alt="" coords="66,80,187,107"/>
+<area shape="rect" id="node3" href="$interfaceQuantConnect_1_1Commands_1_1ICommand.html" title="Represents a command that can be run against a single algorithm" alt="" coords="80,5,173,32"/>
+</map>

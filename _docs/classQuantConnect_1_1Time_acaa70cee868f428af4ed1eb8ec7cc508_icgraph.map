@@ -1,0 +1,4 @@
+<map id="QuantConnect.Time.UnixMillisecondTimeStampToDateTime" name="QuantConnect.Time.UnixMillisecondTimeStampToDateTime">
+<area shape="rect" id="node1" title="Create a C# DateTime from a UnixTimestamp" alt="" coords="272,5,531,47"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Time.html#a81b3ae4d796245dc759b1995a4909d12" title="Create a C# DateTime from a UnixTimestamp" alt="" coords="5,5,224,47"/>
+</map>

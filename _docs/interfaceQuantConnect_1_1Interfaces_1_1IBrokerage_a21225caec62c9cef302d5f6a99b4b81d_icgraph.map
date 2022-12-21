@@ -1,0 +1,4 @@
+<map id="QuantConnect.Interfaces.IBrokerage.Connect" name="QuantConnect.Interfaces.IBrokerage.Connect">
+<area shape="rect" id="node1" title="Connects the client to the broker&#39;s remote servers" alt="" coords="285,13,472,54"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Lean_1_1Engine_1_1HistoricalData_1_1BrokerageHistoryProvider.html#aa390ccc4f6c75967539e1c82747ebaa1" title="Initializes this history provider to work for the specified job" alt="" coords="5,5,237,61"/>
+</map>

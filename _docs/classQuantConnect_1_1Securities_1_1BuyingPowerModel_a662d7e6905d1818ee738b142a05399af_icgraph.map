@@ -1,0 +1,9 @@
+<map id="QuantConnect.Securities.BuyingPowerModel.GetInitialMarginRequirement" name="QuantConnect.Securities.BuyingPowerModel.GetInitialMarginRequirement">
+<area shape="rect" id="node1" title="The margin that must be held in order to increase the position by the provided quantity" alt="" coords="991,90,1247,146"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Securities_1_1BuyingPowerModel.html#a6fb319ab1565fa5c2a40fef7ea694dff" title="Helper function that determines the amount to order to get to a given target safely...." alt="" coords="661,5,935,47"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Securities_1_1BuyingPowerModel.html#ac77dd32649e7d51e54d52b2d3b695afc" title="Get the maximum market order quantity to obtain a position with a given buying power percentage...." alt="" coords="329,27,605,83"/>
+<area shape="rect" id="node5" href="$classQuantConnect_1_1Securities_1_1BuyingPowerModel.html#a590d798fb26334523c44a600e08d85f3" title="Gets the total margin required to execute the specified order in units of the account currency includ..." alt="" coords="670,122,926,178"/>
+<area shape="rect" id="node6" href="$classQuantConnect_1_1Securities_1_1BuyingPowerModel.html#acee98f5dcfa62192bbc96f94824dbe50" title="Gets the margin cash available for a trade" alt="" coords="653,203,943,244"/>
+<area shape="rect" id="node4" href="$classQuantConnect_1_1Securities_1_1BuyingPowerModel.html#a47123e9eef707732a20838c29a8bee69" title="Get the maximum market order quantity to obtain a delta in the buying power used by a security...." alt="" coords="5,27,281,83"/>
+<area shape="rect" id="node7" href="$classQuantConnect_1_1Securities_1_1BuyingPowerModel.html#a7b18b0d8ef69d3097f4fd1694cd5c260" title="Gets the buying power available for a trade" alt="" coords="338,203,597,244"/>
+</map>

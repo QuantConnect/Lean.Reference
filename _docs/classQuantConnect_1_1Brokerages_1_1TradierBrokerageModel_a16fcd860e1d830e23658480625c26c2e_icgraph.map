@@ -1,0 +1,4 @@
+<map id="QuantConnect.Brokerages.TradierBrokerageModel.CanExecuteOrder" name="QuantConnect.Brokerages.TradierBrokerageModel.CanExecuteOrder">
+<area shape="rect" id="node1" title="Returns true if the brokerage would be able to execute this order at this time assuming market prices..." alt="" coords="336,5,624,47"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Brokerages_1_1TradierBrokerageModel.html#a5cafb36dfeec2e93a72842cc12ee9ec3" title="Returns true if the brokerage could accept this order. This takes into account order type,..." alt="" coords="5,5,288,47"/>
+</map>

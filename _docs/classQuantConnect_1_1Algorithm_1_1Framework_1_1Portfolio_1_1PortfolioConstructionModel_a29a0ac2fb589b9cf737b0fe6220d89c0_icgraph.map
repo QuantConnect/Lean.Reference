@@ -1,0 +1,5 @@
+<map id="QuantConnect.Algorithm.Framework.Portfolio.PortfolioConstructionModel.FilterInvalidInsightMagnitude" name="QuantConnect.Algorithm.Framework.Portfolio.PortfolioConstructionModel.FilterInvalidInsightMagnitude">
+<area shape="rect" id="node1" title="Helper class that can be used by the different IPortfolioConstructionModel implementations to filter ..." alt="" coords="392,49,655,105"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Algorithm_1_1Framework_1_1Portfolio_1_1MeanVarianceOptimizationPortfolioConstructionModel.html#a03fe77e9e8e939b5bae19a213af52917" title="Method that will determine if the portfolio construction model should create a target for this insigh..." alt="" coords="5,5,344,61"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Algorithm_1_1Framework_1_1Portfolio_1_1BlackLittermanOptimizationPortfolioConstructionModel.html#a6278ae1d7029f84a106f7a977c0a53aa" title="Method that will determine if the portfolio construction model should create a target for this insigh..." alt="" coords="9,86,340,157"/>
+</map>

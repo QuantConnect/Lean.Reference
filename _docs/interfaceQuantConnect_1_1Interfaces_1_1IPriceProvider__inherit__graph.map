@@ -1,0 +1,4 @@
+<map id="QuantConnect.Interfaces.IPriceProvider" name="QuantConnect.Interfaces.IPriceProvider">
+<area shape="rect" id="node1" title="Provides access to price data for a given asset" alt="" coords="9,5,196,47"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Brokerages_1_1ApiPriceProvider.html" title="An implementation of IPriceProvider which uses QC API to fetch price data" alt="" coords="5,95,200,136"/>
+</map>

@@ -1,0 +1,9 @@
+<map id="QuantConnect.ToolBox.RandomDataGenerator.IRandomValueGenerator.NextInt" name="QuantConnect.ToolBox.RandomDataGenerator.IRandomValueGenerator.NextInt">
+<area shape="rect" id="node1" title="Returns a random integer that is within a specified range." alt="" coords="1017,45,1300,101"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1ToolBox_1_1RandomDataGenerator_1_1BaseSymbolGenerator.html#aaa2b8cebd6792453b08e7aca486cc60a" title="Return a Ticker matching an entry in the Symbol properties database" alt="" coords="667,5,969,61"/>
+<area shape="rect" id="node7" href="$classQuantConnect_1_1ToolBox_1_1RandomDataGenerator_1_1BaseSymbolGenerator.html#a92467b066fe4f00938ff6a0ae41ef6e9" title="Generates a random string within the specified lengths." alt="" coords="683,85,953,141"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1ToolBox_1_1RandomDataGenerator_1_1FutureSymbolGenerator.html#a0bc25d09e57c89876c4f45c4b9affd76" title="Generates a new random future Symbol. The generates future contract Symbol will have an expiry betwee..." alt="" coords="340,5,619,61"/>
+<area shape="rect" id="node4" href="$classQuantConnect_1_1ToolBox_1_1RandomDataGenerator_1_1BaseSymbolGenerator.html#a81261a4e15b1946f9da42203bc7e3aa6" title="Generates random symbol, used further down for asset" alt="" coords="344,85,615,141"/>
+<area shape="rect" id="node5" href="$classQuantConnect_1_1ToolBox_1_1RandomDataGenerator_1_1DefaultSymbolGenerator.html#ad1f746bdf33e7ee292aa9576073f1c74" title="Generates a single&#45;item list at a time using base random implementation" alt="" coords="5,45,292,101"/>
+<area shape="rect" id="node6" href="$classQuantConnect_1_1ToolBox_1_1RandomDataGenerator_1_1OptionSymbolGenerator.html#a3d7c3b9a03ea16e0eb7d53fda1102986" title="Generates a new random option Symbol. The generated option contract Symbol will have an expiry betwee..." alt="" coords="8,125,289,181"/>
+</map>

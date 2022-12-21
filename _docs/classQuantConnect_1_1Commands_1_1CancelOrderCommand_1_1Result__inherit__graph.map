@@ -1,0 +1,5 @@
+<map id="QuantConnect.Commands.CancelOrderCommand.Result" name="QuantConnect.Commands.CancelOrderCommand.Result">
+<area shape="rect" id="node1" title="Result packet type for the CancelOrderCommand command" alt="" coords="5,155,245,196"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Commands_1_1CommandResultPacket.html" title="Contains data held as the result of executing a command" alt="" coords="39,80,211,107"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Packets_1_1Packet.html" title="Base class for packet messaging system" alt="" coords="93,5,157,32"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="QuantConnect.SymbolRepresentation.ParseFutureTicker" name="QuantConnect.SymbolRepresentation.ParseFutureTicker">
+<area shape="rect" id="node1" title="Function returns underlying name, expiration year, expiration month, expiration day for the future co..." alt="" coords="324,39,595,80"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1SymbolRepresentation.html#adae87b321b11822d3fa9b641c0b2c2ab" title="Creates a future option Symbol from the provided ticker" alt="" coords="5,5,276,47"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1SymbolRepresentation.html#a66267400b44af2828d3622f28000eba5" title="Helper method to parse and generate a future symbol from a given user friendly representation" alt="" coords="5,71,276,112"/>
+</map>

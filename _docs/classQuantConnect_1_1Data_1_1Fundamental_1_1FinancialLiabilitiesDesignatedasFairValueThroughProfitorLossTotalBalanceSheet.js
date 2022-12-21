@@ -1,0 +1,7 @@
+var classQuantConnect_1_1Data_1_1Fundamental_1_1FinancialLiabilitiesDesignatedasFairValueThroughProfitorLossTotalBalanceSheet =
+[
+    [ "FinancialLiabilitiesDesignatedasFairValueThroughProfitorLossTotalBalanceSheet", "classQuantConnect_1_1Data_1_1Fundamental_1_1FinancialLiabilitiesDesignatedasFairValueThroughProfitorLossTotalBalanceSheet.html#a5d5fda6335eea6d82943a0d5a028797f", null ],
+    [ "DefaultPeriod", "classQuantConnect_1_1Data_1_1Fundamental_1_1FinancialLiabilitiesDesignatedasFairValueThroughProfitorLossTotalBalanceSheet.html#a1ae183657d6d34d1e064e02d6d05a8c4", null ],
+    [ "ThreeMonths", "classQuantConnect_1_1Data_1_1Fundamental_1_1FinancialLiabilitiesDesignatedasFairValueThroughProfitorLossTotalBalanceSheet.html#a864ff5d8138476930a8c4b3ed7c6f205", null ],
+    [ "TwelveMonths", "classQuantConnect_1_1Data_1_1Fundamental_1_1FinancialLiabilitiesDesignatedasFairValueThroughProfitorLossTotalBalanceSheet.html#a84813d28afa934f38220294f670b4013", null ]
+];

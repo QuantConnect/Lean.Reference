@@ -1,0 +1,4 @@
+<map id="QuantConnect.Interfaces.IHistoryProvider.GetHistory" name="QuantConnect.Interfaces.IHistoryProvider.GetHistory">
+<area shape="rect" id="node1" title="Gets the history for the requested securities" alt="" coords="308,13,508,54"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Lean_1_1Engine_1_1AlgorithmManager.html#aed875eddfe17ebc6946335c6ca11000a" title="Helper method used to process securities volatility history requirements" alt="" coords="5,5,260,61"/>
+</map>

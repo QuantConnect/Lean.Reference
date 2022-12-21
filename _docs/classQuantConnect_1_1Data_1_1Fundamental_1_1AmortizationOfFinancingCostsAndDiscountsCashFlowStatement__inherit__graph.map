@@ -1,0 +1,4 @@
+<map id="QuantConnect.Data.Fundamental.AmortizationOfFinancingCostsAndDiscountsCashFlowStatement" name="QuantConnect.Data.Fundamental.AmortizationOfFinancingCostsAndDiscountsCashFlowStatement">
+<area shape="rect" id="node1" title="The component of interest expense representing the non&#45;cash expenses charged against earnings in the ..." alt="" coords="5,80,313,136"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Data_1_1Fundamental_1_1MultiPeriodField.html" title="Abstract base class for multi&#45;period fields" alt="" coords="96,5,223,32"/>
+</map>

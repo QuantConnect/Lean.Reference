@@ -1,0 +1,5 @@
+<map id="QuantConnect.Data.Auxiliary.IFactorProvider" name="QuantConnect.Data.Auxiliary.IFactorProvider">
+<area shape="rect" id="node1" title="Providers price scaling factors for a permanent tick" alt="" coords="5,80,219,121"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Data_1_1Auxiliary_1_1FactorFile.html" title="Represents an entire factor file for a specified symbol" alt="" coords="5,169,219,211"/>
+<area shape="rect" id="node2" title=" " alt="" coords="9,5,215,32"/>
+</map>

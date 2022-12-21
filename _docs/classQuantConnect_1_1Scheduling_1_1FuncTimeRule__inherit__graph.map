@@ -1,0 +1,4 @@
+<map id="QuantConnect.Scheduling.FuncTimeRule" name="QuantConnect.Scheduling.FuncTimeRule">
+<area shape="rect" id="node1" title="Uses a function to define a time rule as a projection of date times to date times" alt="" coords="5,80,199,121"/>
+<area shape="rect" id="node2" href="$interfaceQuantConnect_1_1Scheduling_1_1ITimeRule.html" title="Specifies times times on dates for events, used in conjunction with IDateRule" alt="" coords="58,5,146,32"/>
+</map>

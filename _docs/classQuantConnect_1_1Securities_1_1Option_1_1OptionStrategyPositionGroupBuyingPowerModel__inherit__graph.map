@@ -1,0 +1,6 @@
+<map id="QuantConnect.Securities.Option.OptionStrategyPositionGroupBuyingPowerModel" name="QuantConnect.Securities.Option.OptionStrategyPositionGroupBuyingPowerModel">
+<area shape="rect" id="node1" title="Option strategy buying power model" alt="" coords="5,273,224,329"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Securities_1_1Positions_1_1PositionGroupBuyingPowerModel.html" title="Provides a base class for implementations of IPositionGroupBuyingPowerModel" alt="" coords="15,184,214,225"/>
+<area shape="rect" id="node3" href="$interfaceQuantConnect_1_1Securities_1_1Positions_1_1IPositionGroupBuyingPowerModel.html" title="Represents a position group&#39;s model of buying power" alt="" coords="13,95,216,136"/>
+<area shape="rect" id="node4" title=" " alt="" coords="14,5,215,47"/>
+</map>

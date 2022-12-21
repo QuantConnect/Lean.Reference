@@ -1,0 +1,4 @@
+<map id="QuantConnect.Lean.Engine.AlgorithmTimeLimitManager" name="QuantConnect.Lean.Engine.AlgorithmTimeLimitManager">
+<area shape="rect" id="node1" title="Provides an implementation of IIsolatorLimitResultProvider that tracks the algorithm manager&#39;s time l..." alt="" coords="5,80,215,121"/>
+<area shape="rect" id="node2" href="$interfaceQuantConnect_1_1IIsolatorLimitResultProvider.html" title="Provides an abstraction for managing isolator limit results. This is originally intended to be used b..." alt="" coords="9,5,211,32"/>
+</map>

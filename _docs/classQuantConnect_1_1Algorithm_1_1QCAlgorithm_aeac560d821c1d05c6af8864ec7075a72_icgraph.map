@@ -1,0 +1,9 @@
+<map id="QuantConnect.Algorithm.QCAlgorithm.AddUniverse" name="QuantConnect.Algorithm.QCAlgorithm.AddUniverse">
+<area shape="rect" id="node1" title="Creates a new universe and adds it to the algorithm. This is for coarse fundamental US Equity data an..." alt="" coords="648,163,921,204"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Algorithm_1_1QCAlgorithm.html#a4fa5ed76877c0a7738c7ea8fb9f38ded" title="Creates and adds a new single Option contract to the algorithm" alt="" coords="327,72,600,113"/>
+<area shape="rect" id="node5" href="$classQuantConnect_1_1Algorithm_1_1QCAlgorithm.html#a514fd5e3fd90031297a8954419ea9c3f" title="Set a required SecurityType&#45;symbol and resolution for algorithm" alt="" coords="5,136,279,177"/>
+<area shape="rect" id="node6" href="$classQuantConnect_1_1Algorithm_1_1QCAlgorithm.html#a0975c880f61504fffaf9f1554bda2d4d" title="Creates a new universe and adds it to the algorithm. This is for coarse and fine fundamental US Equit..." alt="" coords="327,192,600,233"/>
+<area shape="rect" id="node7" href="$classQuantConnect_1_1Algorithm_1_1QCAlgorithm.html#ad5d1106303bda0c7b0b31356be116497" title="Creates a new universe and adds it to the algorithm. This will use the default universe settings spec..." alt="" coords="327,257,600,299"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Algorithm_1_1QCAlgorithm.html#a67794a3732b2f686e5e88f68288abb7b" title="Adds a future option contract to the algorithm." alt="" coords="5,5,279,47"/>
+<area shape="rect" id="node4" href="$classQuantConnect_1_1Algorithm_1_1QCAlgorithm.html#a1f5b1192dee39eadffb9b599f375b6ae" title="Adds an index option contract to the algorithm." alt="" coords="5,71,279,112"/>
+</map>

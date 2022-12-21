@@ -1,0 +1,5 @@
+<map id="QuantConnect.Data.Auxiliary.ZipEntryName" name="QuantConnect.Data.Auxiliary.ZipEntryName">
+<area shape="rect" id="node1" title="Defines a data type that just produces data points from the zip entry names in a zip file" alt="" coords="5,155,219,196"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Data_1_1BaseData.html" title="Abstract base data class of QuantConnect. It is intended to be extended to define generic user custom..." alt="" coords="69,80,155,107"/>
+<area shape="rect" id="node3" href="$interfaceQuantConnect_1_1Data_1_1IBaseData.html" title="Base Data Class: Type, Timestamp, Key – Base Features." alt="" coords="67,5,157,32"/>
+</map>

@@ -1,0 +1,9 @@
+var classQuantConnect_1_1Data_1_1Fundamental_1_1ExplorationDevelopmentAndMineralPropertyLeaseExpensesIncomeStatement =
+[
+    [ "ExplorationDevelopmentAndMineralPropertyLeaseExpensesIncomeStatement", "classQuantConnect_1_1Data_1_1Fundamental_1_1ExplorationDevelopmentAndMineralPropertyLeaseExpensesIncomeStatement.html#a9eb7171f924f64d2a4e2414fd018b991", null ],
+    [ "DefaultPeriod", "classQuantConnect_1_1Data_1_1Fundamental_1_1ExplorationDevelopmentAndMineralPropertyLeaseExpensesIncomeStatement.html#ab3ed6b69e1b360b8164618fcaa2e279a", null ],
+    [ "ThreeMonths", "classQuantConnect_1_1Data_1_1Fundamental_1_1ExplorationDevelopmentAndMineralPropertyLeaseExpensesIncomeStatement.html#a659db5a919ae6ed85d026719c7ed9d72", null ],
+    [ "SixMonths", "classQuantConnect_1_1Data_1_1Fundamental_1_1ExplorationDevelopmentAndMineralPropertyLeaseExpensesIncomeStatement.html#ac84320c2b0a051df865378692dd99fa1", null ],
+    [ "NineMonths", "classQuantConnect_1_1Data_1_1Fundamental_1_1ExplorationDevelopmentAndMineralPropertyLeaseExpensesIncomeStatement.html#aee031387a42edab03a5d6bfddc16062a", null ],
+    [ "TwelveMonths", "classQuantConnect_1_1Data_1_1Fundamental_1_1ExplorationDevelopmentAndMineralPropertyLeaseExpensesIncomeStatement.html#ad579ed8fd982641d3bb494ac74664526", null ]
+];

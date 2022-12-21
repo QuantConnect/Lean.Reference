@@ -1,0 +1,4 @@
+<map id="QuantConnect.Data.Fundamental.LongTermCapitalLeaseObligationBalanceSheet" name="QuantConnect.Data.Fundamental.LongTermCapitalLeaseObligationBalanceSheet">
+<area shape="rect" id="node1" title="Represents the total liability for long&#45;term leases lasting over one year. Amount equal to the presen..." alt="" coords="5,80,331,121"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Data_1_1Fundamental_1_1MultiPeriodField.html" title="Abstract base class for multi&#45;period fields" alt="" coords="105,5,231,32"/>
+</map>

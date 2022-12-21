@@ -1,0 +1,4 @@
+<map id="QuantConnect.Algorithm.Framework.Selection.UniverseSelectionModelPythonWrapper.UniverseSelectionModelPythonWrapper" name="QuantConnect.Algorithm.Framework.Selection.UniverseSelectionModelPythonWrapper.UniverseSelectionModelPythonWrapper">
+<area shape="rect" id="node1" title="Constructor for initialising the IUniverseSelectionModel class with wrapped PyObject object" alt="" coords="5,5,344,61"/>
+<area shape="rect" id="node2" href="$interfaceQuantConnect_1_1Algorithm_1_1Framework_1_1Selection_1_1IUniverseSelectionModel.html#a14a96ff5037539e6e1ce7b319959a83a" title="Gets the next time the framework should invoke the CreateUniverses method to refresh the set of unive..." alt="" coords="392,5,667,61"/>
+</map>

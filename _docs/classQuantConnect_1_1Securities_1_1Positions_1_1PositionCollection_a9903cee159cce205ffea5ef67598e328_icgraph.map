@@ -1,0 +1,4 @@
+<map id="QuantConnect.Securities.Positions.PositionCollection.Remove" name="QuantConnect.Securities.Positions.PositionCollection.Remove">
+<area shape="rect" id="node1" title="Removes the quantities in the provided groups from this position collection. This should be called fo..." alt="" coords="288,5,495,61"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Securities_1_1Positions_1_1OptionStrategyPositionGroupResolver.html#aa64a8bae85e0bd1463a7c502153977f2" title="Resolves the position groups that exist within the specified collection of positions." alt="" coords="5,5,240,61"/>
+</map>

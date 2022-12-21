@@ -1,0 +1,4 @@
+<map id="QuantConnect.Util.PythonUtil.PythonExceptionParser" name="QuantConnect.Util.PythonUtil.PythonExceptionParser">
+<area shape="rect" id="node1" title="Parsers PythonException into a readable message" alt="" coords="312,5,511,47"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Exceptions_1_1PythonExceptionInterpreter.html#a7a6e9dc98df11bc2a56f5e68a3e2aca1" title="Interprets the specified exception into a new exception" alt="" coords="5,5,264,47"/>
+</map>

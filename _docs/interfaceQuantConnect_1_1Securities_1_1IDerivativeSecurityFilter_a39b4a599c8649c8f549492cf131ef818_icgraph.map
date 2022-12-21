@@ -1,0 +1,5 @@
+<map id="QuantConnect.Securities.IDerivativeSecurityFilter.Filter" name="QuantConnect.Securities.IDerivativeSecurityFilter.Filter">
+<area shape="rect" id="node1" title="Filters the input set of symbols represented by the universe" alt="" coords="287,53,503,94"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Data_1_1UniverseSelection_1_1FuturesChainUniverse.html#a4eb8c7724c30bec9de7346b336dc5d59" title="Performs universe selection using the data specified" alt="" coords="5,5,239,61"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Data_1_1UniverseSelection_1_1OptionChainUniverse.html#a92d97ba79abfd6c036b55cb35cd9044e" title="Performs universe selection using the data specified" alt="" coords="8,85,236,141"/>
+</map>

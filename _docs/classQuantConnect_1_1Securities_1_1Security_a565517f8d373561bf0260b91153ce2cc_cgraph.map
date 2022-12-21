@@ -1,0 +1,4 @@
+<map id="QuantConnect.Securities.Security.UpdateConsumersMarketPrice" name="QuantConnect.Securities.Security.UpdateConsumersMarketPrice">
+<area shape="rect" id="node1" title="Update market price of this Security" alt="" coords="5,5,280,47"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Securities_1_1SecurityHolding.html#a1a001b85c4c5ba7b15f80016a3873b43" title="Update local copy of closing price value." alt="" coords="328,5,581,47"/>
+</map>

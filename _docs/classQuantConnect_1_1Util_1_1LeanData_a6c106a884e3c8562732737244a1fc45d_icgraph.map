@@ -1,0 +1,12 @@
+<map id="QuantConnect.Util.LeanData.GenerateZipFilePath" name="QuantConnect.Util.LeanData.GenerateZipFilePath">
+<area shape="rect" id="node1" title="Generates the full zip file path rooted in the dataDirectory" alt="" coords="620,201,831,243"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Data_1_1Auxiliary_1_1ZipEntryName.html#ad3dbff5382f46a5081ce2eaee32444ae" title="Return the URL string source of the file. This will be converted to a stream" alt="" coords="332,5,545,47"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Data_1_1Market_1_1OpenInterest.html#aafb78016544eaaa168ef73af68930616" title="Get source for OI data feed &#45; not used with QuantConnect data sources implementation." alt="" coords="337,71,540,112"/>
+<area shape="rect" id="node4" href="$classQuantConnect_1_1Data_1_1Market_1_1Tick.html#a7ef70f16b4918674442d8725ce300fa0" title="Get source for tick data feed &#45; not used with QuantConnect data sources implementation." alt="" coords="337,136,540,177"/>
+<area shape="rect" id="node5" href="$classQuantConnect_1_1Data_1_1Market_1_1QuoteBar.html#ae92c1900dfa9531f357eefb2ecd89db1" title="Get Source for Custom Data File What source file location would you prefer for each type of usage:" alt="" coords="337,201,540,243"/>
+<area shape="rect" id="node6" href="$classQuantConnect_1_1Data_1_1Market_1_1TradeBar.html#adf7b8d14a635064df37828922c88f50b" title="Get Source for Custom Data File What source file location would you prefer for each type of usage:" alt="" coords="337,267,540,308"/>
+<area shape="rect" id="node7" href="$classQuantConnect_1_1Lean_1_1Engine_1_1DataFeeds_1_1BacktestingChainProvider.html#a903ec0b9ee074f1a7ee6d1eccc5f712b" title="Get the contract symbols associated with the given canonical symbol and date" alt="" coords="305,333,572,389"/>
+<area shape="rect" id="node10" href="$classQuantConnect_1_1ToolBox_1_1LeanDataReader.html#af3457899551e778506b2e1898eed1b8a" title="The LeanDataReader constructor" alt="" coords="333,413,544,455"/>
+<area shape="rect" id="node8" href="$classQuantConnect_1_1Lean_1_1Engine_1_1DataFeeds_1_1BacktestingFutureChainProvider.html#ad95ac9ea6895b03fa51209aa7e9c2fb4" title="Gets the list of future contracts for a given underlying symbol" alt="" coords="6,293,257,349"/>
+<area shape="rect" id="node9" href="$classQuantConnect_1_1Lean_1_1Engine_1_1DataFeeds_1_1BacktestingOptionChainProvider.html#a5b140615fad8e3c0f8d08597a7ca1509" title="Gets the list of option contracts for a given underlying symbol" alt="" coords="5,373,257,429"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="QuantConnect.Securities.ErrorCurrencyConverter" name="QuantConnect.Securities.ErrorCurrencyConverter">
+<area shape="rect" id="node1" title="Provides an implementation of ICurrencyConverter for use in tests that don&#39;t depend on this behavior." alt="" coords="5,80,192,121"/>
+<area shape="rect" id="node2" href="$interfaceQuantConnect_1_1Securities_1_1ICurrencyConverter.html" title="Provides the ability to convert cash amounts to the account currency" alt="" coords="25,5,173,32"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="QuantConnect.ToolBox.RawFileProcessor.Process" name="QuantConnect.ToolBox.RawFileProcessor.Process">
+<area shape="rect" id="node1" title="Perform processing on the specified source file" alt="" coords="5,5,207,47"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Logging_1_1Log.html#a4e55477fbc790846b74550a57198cea9" title="Log trace" alt="" coords="255,5,455,47"/>
+<area shape="rect" id="node3" href="$interfaceQuantConnect_1_1Logging_1_1ILogHandler.html#a3fb71a33ac66129240b63f12b6fcda3b" title="Write debug message to log" alt="" coords="503,5,703,47"/>
+</map>

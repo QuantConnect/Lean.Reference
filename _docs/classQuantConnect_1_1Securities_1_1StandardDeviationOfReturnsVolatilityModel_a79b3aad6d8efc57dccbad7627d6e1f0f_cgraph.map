@@ -1,0 +1,4 @@
+<map id="QuantConnect.Securities.StandardDeviationOfReturnsVolatilityModel.Update" name="QuantConnect.Securities.StandardDeviationOfReturnsVolatilityModel.Update">
+<area shape="rect" id="node1" title="Updates this model using the new price information in the specified security instance" alt="" coords="5,5,272,61"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Indicators_1_1RollingWindow.html#aeda810a70ae103ede4f753b6704cd1e9" title="Adds an item to this window and shifts all other elements" alt="" coords="320,13,507,54"/>
+</map>

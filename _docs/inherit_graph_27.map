@@ -1,0 +1,8 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" title=" " alt="" coords="37,42,128,69"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Algorithm_1_1QCAlgorithm.html" title="QC Algorithm Base Class &#45; Handle the basic requirements of a trading algorithm, allowing user to focu..." alt="" coords="208,42,477,69"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Report_1_1PortfolioLooperAlgorithm.html" title="Fake algorithm that initializes portfolio and algorithm securities. Never ran." alt="" coords="543,5,763,47"/>
+<area shape="rect" id="node4" href="$classQuantConnect_1_1Research_1_1QuantBook.html" title="Provides access to data for quantitative analysis" alt="" coords="525,71,780,98"/>
+<area shape="rect" id="node5" title=" " alt="" coords="5,97,160,123"/>
+<area shape="rect" id="node6" href="$classQuantConnect_1_1AlgorithmFactory_1_1Loader.html" title="Loader creates and manages the memory and exception space of the algorithm, ensuring if it explodes t..." alt="" coords="227,93,458,135"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="QuantConnect.Storage.ObjectStore.Read" name="QuantConnect.Storage.ObjectStore.Read">
+<area shape="rect" id="node1" title="Returns the string object data for the specified path" alt="" coords="268,71,483,112"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Storage_1_1ObjectStore.html#ac145813d35e4ba76df26e06c1a0458f0" title="Returns the JSON deserialized object data for the specified path" alt="" coords="5,5,220,47"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Storage_1_1ObjectStore.html#a32db154e4fd1ad4fc3886c020cbf40ed" title="Returns the string object data for the specified path" alt="" coords="5,71,220,112"/>
+<area shape="rect" id="node4" href="$classQuantConnect_1_1Storage_1_1ObjectStore.html#aee77d24bfbc5166209058406572e0ec7" title="Returns the XML deserialized object data for the specified path" alt="" coords="5,136,220,177"/>
+</map>

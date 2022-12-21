@@ -1,0 +1,5 @@
+<map id="QuantConnect.Algorithm.QCAlgorithm.SetSecurityInitializer" name="QuantConnect.Algorithm.QCAlgorithm.SetSecurityInitializer">
+<area shape="rect" id="node1" title="Sets the security initializer function, used to initialize/configure securities after creation...." alt="" coords="5,5,279,47"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Algorithm_1_1QCAlgorithm.html#ae09c72c306776c472827d3e8d87c1bf4" title="Sets the security initializer, used to initialize/configure securities after creation...." alt="" coords="327,5,600,47"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Algorithm_1_1QCAlgorithm.html#a16bd52d937ab647c889e8d5f6577f744" title="Send a debug message to the web console:" alt="" coords="648,5,921,47"/>
+</map>

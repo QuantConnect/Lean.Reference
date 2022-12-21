@@ -1,0 +1,5 @@
+<map id="QuantConnect.Securities.SecurityPortfolioManager.ApplySplit" name="QuantConnect.Securities.SecurityPortfolioManager.ApplySplit">
+<area shape="rect" id="node1" title="Applies a split to the portfolio" alt="" coords="5,43,261,84"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Securities_1_1Cash.html#af5a7561893cf6fa38c3ee83d434fe32d" title="Adds the specified amount of currency to this Cash instance and returns the new total...." alt="" coords="343,5,530,47"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Securities_1_1SecurityPortfolioManager.html#a752342997e11998f5c14f238c2ad4b5d" title="Will flag the current TotalPortfolioValue as invalid so it is recalculated when gotten" alt="" coords="309,71,564,127"/>
+</map>

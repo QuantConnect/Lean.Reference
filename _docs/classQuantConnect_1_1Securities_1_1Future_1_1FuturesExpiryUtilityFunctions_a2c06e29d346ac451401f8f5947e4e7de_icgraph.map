@@ -1,0 +1,6 @@
+<map id="QuantConnect.Securities.Future.FuturesExpiryUtilityFunctions.NotHoliday" name="QuantConnect.Securities.Future.FuturesExpiryUtilityFunctions.NotHoliday">
+<area shape="rect" id="node1" title="Method to check whether a given time is holiday or not" alt="" coords="316,85,579,141"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Securities_1_1Future_1_1FuturesExpiryUtilityFunctions.html#ac2bd12224e0253858511a2a22a8c6561" title="This function takes Thursday as input and returns true if four weekdays preceding it are not Holidays" alt="" coords="5,5,268,61"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Securities_1_1Future_1_1FuturesExpiryUtilityFunctions.html#a2c97af36fb99c571bdc6a6330effdf69" title="Calculates the n^th business day of the month (includes checking for holidays)" alt="" coords="5,85,268,141"/>
+<area shape="rect" id="node4" href="$classQuantConnect_1_1Securities_1_1Future_1_1FuturesExpiryUtilityFunctions.html#a47d0a288c1459f0392c03b0cec02f85f" title="Method to retrieve the n^th last business day of the delivery month." alt="" coords="5,165,268,221"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="QuantConnect.Data.Fundamental.ChangeInReceivablesCashFlowStatement" name="QuantConnect.Data.Fundamental.ChangeInReceivablesCashFlowStatement">
+<area shape="rect" id="node1" title="The increase or decrease between periods of the receivables. Receivables are amounts due to be paid t..." alt="" coords="5,80,299,121"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Data_1_1Fundamental_1_1MultiPeriodField.html" title="Abstract base class for multi&#45;period fields" alt="" coords="89,5,215,32"/>
+</map>

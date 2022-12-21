@@ -1,0 +1,6 @@
+<map id="QuantConnect.Data.Slice.GetImpl" name="QuantConnect.Data.Slice.GetImpl">
+<area shape="rect" id="node1" title="Gets the data of the specified type." alt="" coords="265,64,453,105"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Python_1_1PythonSlice.html#a57e6608e43201e321f4569924507ed8d" title="Gets the data of the specified symbol and type." alt="" coords="5,5,217,47"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Data_1_1Slice.html#a8855014b38a903318a2dba1badfcccc7" title="Gets the data of the specified type." alt="" coords="6,71,217,98"/>
+<area shape="rect" id="node4" href="$classQuantConnect_1_1Data_1_1Slice.html#a7b5aa64db562e38e93618fa062bd0cb1" title="Gets the DataDictionary&lt;T&gt; for all data of the specified type" alt="" coords="17,123,205,164"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="QuantConnect.Data.Slice.MergeSlice" name="QuantConnect.Data.Slice.MergeSlice">
+<area shape="rect" id="node1" title="Merge two slice with same Time" alt="" coords="273,13,461,54"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Lean_1_1Engine_1_1HistoricalData_1_1HistoryProviderManager.html#ad91cafeb01fa71465564282c6492c6e8" title="Gets the history for the requested securities" alt="" coords="5,5,225,61"/>
+</map>

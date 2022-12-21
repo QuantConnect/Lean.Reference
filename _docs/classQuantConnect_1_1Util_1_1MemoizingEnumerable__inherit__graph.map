@@ -1,0 +1,4 @@
+<map id="QuantConnect.Util.MemoizingEnumerable&lt; T &gt;" name="QuantConnect.Util.MemoizingEnumerable&lt; T &gt;">
+<area shape="rect" id="node1" title="Defines an enumerable that can be enumerated many times while only performing a single enumeration of..." alt="" coords="5,80,223,121"/>
+<area shape="rect" id="node2" title=" " alt="" coords="43,5,185,32"/>
+</map>

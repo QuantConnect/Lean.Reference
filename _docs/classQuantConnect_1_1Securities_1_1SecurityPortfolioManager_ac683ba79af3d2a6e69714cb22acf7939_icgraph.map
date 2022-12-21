@@ -1,0 +1,4 @@
+<map id="QuantConnect.Securities.SecurityPortfolioManager.ContainsKey" name="QuantConnect.Securities.SecurityPortfolioManager.ContainsKey">
+<area shape="rect" id="node1" title="Check if the portfolio contains this symbol string." alt="" coords="327,5,597,47"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Algorithm_1_1QCAlgorithm.html#a5828fab6ede5ba1b19321d5fcb7ca22d" title="Determines if the Symbol is shortable at the brokerage" alt="" coords="5,5,279,47"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="QuantConnect.Optimizer.LeanOptimizer.TriggerOnEndEvent" name="QuantConnect.Optimizer.LeanOptimizer.TriggerOnEndEvent">
+<area shape="rect" id="node1" title="Triggers the optimization job end event" alt="" coords="5,39,221,80"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Optimizer_1_1LeanOptimizer.html#a83cee6f3b7bdafe24a0013cdaf6dd012" title="Sets the current optimization status" alt="" coords="269,5,504,47"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Logging_1_1Log.html#a4e55477fbc790846b74550a57198cea9" title="Log trace" alt="" coords="287,71,487,112"/>
+<area shape="rect" id="node4" href="$interfaceQuantConnect_1_1Logging_1_1ILogHandler.html#a3fb71a33ac66129240b63f12b6fcda3b" title="Write debug message to log" alt="" coords="552,71,752,112"/>
+</map>

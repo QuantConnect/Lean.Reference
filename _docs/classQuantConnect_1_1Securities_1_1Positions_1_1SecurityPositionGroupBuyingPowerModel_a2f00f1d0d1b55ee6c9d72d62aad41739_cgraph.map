@@ -1,0 +1,4 @@
+<map id="QuantConnect.Securities.Positions.SecurityPositionGroupBuyingPowerModel.GetMaximumLotsForDeltaBuyingPower" name="QuantConnect.Securities.Positions.SecurityPositionGroupBuyingPowerModel.GetMaximumLotsForDeltaBuyingPower">
+<area shape="rect" id="node1" title="Get the maximum market position group order quantity to obtain a delta in the buying power used by a ..." alt="" coords="5,5,328,76"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Securities_1_1Positions_1_1GetMaximumLotsForDeltaBuyingPowerParameters.html#a19b08396964e83fa21b49e11bb92e3f8" title="Creates a new GetMaximumLotsResult with zero quantity and an error message." alt="" coords="376,13,632,69"/>
+</map>

@@ -1,0 +1,11 @@
+<map id="QuantConnect.Algorithm.Framework.Execution.ExecutionModel" name="QuantConnect.Algorithm.Framework.Execution.ExecutionModel">
+<area shape="rect" id="node1" title="Provides a base class for execution models" alt="" coords="417,169,680,211"/>
+<area shape="rect" id="node4" href="$classQuantConnect_1_1Algorithm_1_1Framework_1_1Execution_1_1ExecutionModelPythonWrapper.html" title="Provides an implementation of IExecutionModel that wraps a PyObject object" alt="" coords="739,5,1031,47"/>
+<area shape="rect" id="node5" href="$classQuantConnect_1_1Algorithm_1_1Framework_1_1Execution_1_1ImmediateExecutionModel.html" title="Provides an implementation of IExecutionModel that immediately submits market orders to achieve the d..." alt="" coords="753,71,1016,112"/>
+<area shape="rect" id="node6" href="$classQuantConnect_1_1Algorithm_1_1Framework_1_1Execution_1_1NullExecutionModel.html" title="Provides an implementation of IExecutionModel that does nothing" alt="" coords="753,136,1016,177"/>
+<area shape="rect" id="node7" href="$classQuantConnect_1_1Algorithm_1_1Framework_1_1Execution_1_1SpreadExecutionModel.html" title="Execution model that submits orders while the current spread is in desirably tight extent." alt="" coords="753,201,1016,243"/>
+<area shape="rect" id="node8" href="$classQuantConnect_1_1Algorithm_1_1Framework_1_1Execution_1_1StandardDeviationExecutionModel.html" title="Execution model that submits orders while the current market prices is at least the configured number..." alt="" coords="728,267,1041,308"/>
+<area shape="rect" id="node9" href="$classQuantConnect_1_1Algorithm_1_1Framework_1_1Execution_1_1VolumeWeightedAveragePriceExecutionModel.html" title="Execution model that submits orders while the current market price is more favorable that the current..." alt="" coords="743,333,1027,389"/>
+<area shape="rect" id="node2" href="$interfaceQuantConnect_1_1Algorithm_1_1Framework_1_1Execution_1_1IExecutionModel.html" title="Algorithm framework model that executes portfolio targets" alt="" coords="240,177,369,203"/>
+<area shape="rect" id="node3" href="$interfaceQuantConnect_1_1Algorithm_1_1Framework_1_1INotifiedSecurityChanges.html" title="Types implementing this interface will be called when the algorithm&#39;s set of securities changes" alt="" coords="5,177,192,203"/>
+</map>

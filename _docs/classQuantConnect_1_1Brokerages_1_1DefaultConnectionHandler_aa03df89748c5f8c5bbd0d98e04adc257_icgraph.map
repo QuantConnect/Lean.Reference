@@ -1,0 +1,4 @@
+<map id="QuantConnect.Brokerages.DefaultConnectionHandler.KeepAlive" name="QuantConnect.Brokerages.DefaultConnectionHandler.KeepAlive">
+<area shape="rect" id="node1" title="Notifies the connection handler that new data was received" alt="" coords="295,13,557,54"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Brokerages_1_1DefaultConnectionHandler.html#a1442d444c603fda5612b3596e045e216" title="Enables/disables monitoring of the connection" alt="" coords="5,5,247,61"/>
+</map>

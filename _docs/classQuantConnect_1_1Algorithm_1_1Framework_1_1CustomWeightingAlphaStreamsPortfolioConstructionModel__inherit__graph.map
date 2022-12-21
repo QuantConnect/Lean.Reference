@@ -1,0 +1,7 @@
+<map id="QuantConnect.Algorithm.Framework.CustomWeightingAlphaStreamsPortfolioConstructionModel" name="QuantConnect.Algorithm.Framework.CustomWeightingAlphaStreamsPortfolioConstructionModel">
+<area shape="rect" id="node1" title="Custom weighting alpha streams portfolio construction model that will generate aggregated security ta..." alt="" coords="5,333,288,389"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Algorithm_1_1Framework_1_1Portfolio_1_1EqualWeightingAlphaStreamsPortfolioConstructionModel.html" title="Equal weighting alpha streams portfolio construction model that will generate aggregated security tar..." alt="" coords="39,244,254,285"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Algorithm_1_1Framework_1_1Portfolio_1_1AlphaStreamsPortfolioConstructionModel.html" title="Base alpha streams portfolio construction model" alt="" coords="21,155,272,196"/>
+<area shape="rect" id="node4" href="$interfaceQuantConnect_1_1Algorithm_1_1Framework_1_1Portfolio_1_1IPortfolioConstructionModel.html" title="Algorithm framework model that" alt="" coords="45,80,248,107"/>
+<area shape="rect" id="node5" href="$interfaceQuantConnect_1_1Algorithm_1_1Framework_1_1INotifiedSecurityChanges.html" title="Types implementing this interface will be called when the algorithm&#39;s set of securities changes" alt="" coords="53,5,240,32"/>
+</map>

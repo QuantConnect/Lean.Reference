@@ -1,0 +1,4 @@
+<map id="QuantConnect.Algorithm.Framework.Alphas.Analysis.Functions.BinaryInsightScoreFunction" name="QuantConnect.Algorithm.Framework.Alphas.Analysis.Functions.BinaryInsightScoreFunction">
+<area shape="rect" id="node1" title="Defines a scoring function that always returns 1 or 0. You&#39;re either right or you&#39;re wrong with this ..." alt="" coords="5,80,287,136"/>
+<area shape="rect" id="node2" href="$interfaceQuantConnect_1_1Algorithm_1_1Framework_1_1Alphas_1_1Analysis_1_1IInsightScoreFunction.html" title="Defines a function used to determine how correct a particular insight is. The result of calling Evalu..." alt="" coords="65,5,227,32"/>
+</map>

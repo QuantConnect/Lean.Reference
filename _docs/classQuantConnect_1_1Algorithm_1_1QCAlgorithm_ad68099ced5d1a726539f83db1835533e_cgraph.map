@@ -1,0 +1,4 @@
+<map id="QuantConnect.Algorithm.QCAlgorithm.CompositeFIGI" name="QuantConnect.Algorithm.QCAlgorithm.CompositeFIGI">
+<area shape="rect" id="node1" title="Converts a composite FIGI identifier into a Symbol" alt="" coords="5,13,279,54"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Securities_1_1SecurityDefinitionSymbolResolver.html#af7ef699c51a49b420b4a7b2f4214dd65" title="Converts an asset&#39;s composite FIGI into a Lean Symbol" alt="" coords="327,5,573,61"/>
+</map>

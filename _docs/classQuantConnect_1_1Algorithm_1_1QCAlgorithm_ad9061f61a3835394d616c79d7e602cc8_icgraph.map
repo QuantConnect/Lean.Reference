@@ -1,0 +1,9 @@
+<map id="QuantConnect.Algorithm.QCAlgorithm.MarketOrder" name="QuantConnect.Algorithm.QCAlgorithm.MarketOrder">
+<area shape="rect" id="node1" title="Market order implementation: Send a market order and wait for it to be filled." alt="" coords="372,184,645,225"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Algorithm_1_1Framework_1_1Execution_1_1ImmediateExecutionModel.html#a511a5ee5cfad871573562de5a723f595" title="Immediately submits orders for the specified portfolio targets." alt="" coords="5,5,324,47"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Algorithm_1_1Framework_1_1Execution_1_1SpreadExecutionModel.html#a5859d83fe3cc3b257b6336a4577aeccf" title="Submit orders for the specified portfolio targets if the spread is tighter/equal to preset level" alt="" coords="19,71,311,112"/>
+<area shape="rect" id="node4" href="$classQuantConnect_1_1Algorithm_1_1Framework_1_1Execution_1_1VolumeWeightedAveragePriceExecutionModel.html#ae0bd79cb99f23a4180fce80f263ec671" title="Submit orders for the specified portfolio targets. This model is free to delay or spread out these or..." alt="" coords="23,137,307,193"/>
+<area shape="rect" id="node5" href="$classQuantConnect_1_1Algorithm_1_1Framework_1_1Execution_1_1StandardDeviationExecutionModel.html#a7b2f5bc880cedfe6ed0c30cdc5c9df17" title="Executes market orders if the standard deviation of price is more than the configured number of devia..." alt="" coords="28,217,301,273"/>
+<area shape="rect" id="node6" href="$classQuantConnect_1_1Algorithm_1_1QCAlgorithm.html#afa5635b423fd4a676665b7832d611d9f" title="Market order implementation: Send a market order and wait for it to be filled." alt="" coords="28,297,301,339"/>
+<area shape="rect" id="node7" href="$classQuantConnect_1_1Algorithm_1_1QCAlgorithm.html#ae002040981e48fefbf6367cfefc83734" title="Issue an order/trade for asset" alt="" coords="28,363,301,404"/>
+</map>

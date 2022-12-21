@@ -1,0 +1,6 @@
+<map id="QuantConnect.Commands.AlgorithmStatusCommand" name="QuantConnect.Commands.AlgorithmStatusCommand">
+<area shape="rect" id="node1" title="Represents a command that will change the algorithm&#39;s status" alt="" coords="5,155,265,196"/>
+<area shape="rect" id="node4" href="$classQuantConnect_1_1Commands_1_1QuitCommand.html" title="Represents a command that will terminate the algorithm" alt="" coords="24,244,247,285"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Commands_1_1BaseCommand.html" title="Base command implementation" alt="" coords="75,80,196,107"/>
+<area shape="rect" id="node3" href="$interfaceQuantConnect_1_1Commands_1_1ICommand.html" title="Represents a command that can be run against a single algorithm" alt="" coords="89,5,182,32"/>
+</map>

@@ -1,0 +1,13 @@
+<map id="QuantConnect.Orders.Fills.FillModel.GetPrices" name="QuantConnect.Orders.Fills.FillModel.GetPrices">
+<area shape="rect" id="node1" title="Get the minimum and maximum price for this security in the last bar:" alt="" coords="799,235,993,276"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Orders_1_1Fills_1_1FillModel.html#a0928cf64fcc49b129663bb9647fe23a0" title="This is required due to a limitation in PythonNet to resolved overriden methods. GetPrices" alt="" coords="499,227,751,283"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Orders_1_1Fills_1_1FillModel.html#a65ca61ef8b462f58155599370318afc6" title="Default limit order fill model in the base security class." alt="" coords="252,5,447,47"/>
+<area shape="rect" id="node5" href="$classQuantConnect_1_1Orders_1_1Fills_1_1FillModel.html#a03f85d58af5d7d59f31711cb0e610469" title="Default limit if touched fill model implementation in base class security. (Limit If Touched Order Ty..." alt="" coords="250,71,449,112"/>
+<area shape="rect" id="node6" href="$classQuantConnect_1_1Orders_1_1Fills_1_1FutureFillModel.html#a7bc1214a98a1f4ef4920db58e1d3af15" title="Default market fill model for the base security class. Fills at the last traded price." alt="" coords="252,136,447,177"/>
+<area shape="rect" id="node7" href="$classQuantConnect_1_1Orders_1_1Fills_1_1FillModel.html#ae5a94a4470b2567a06a895cd7d34df7b" title="Default market fill model for the base security class. Fills at the last traded price." alt="" coords="252,201,447,243"/>
+<area shape="rect" id="node8" href="$classQuantConnect_1_1Orders_1_1Fills_1_1FillModel.html#aaebba1509472c6d2a29d1a04727f397f" title="Market on Close Fill Model. Return an order event with the fill details" alt="" coords="248,267,451,308"/>
+<area shape="rect" id="node9" href="$classQuantConnect_1_1Orders_1_1Fills_1_1FillModel.html#ad6b2c831ede0fe9358c0310ba05e1290" title="Market on Open Fill Model. Return an order event with the fill details" alt="" coords="249,332,450,373"/>
+<area shape="rect" id="node10" href="$classQuantConnect_1_1Orders_1_1Fills_1_1FillModel.html#a1ab527801299a1e2667ff1a983685217" title="Default stop limit fill model implementation in base class security. (Stop Limit Order Type)" alt="" coords="252,397,447,439"/>
+<area shape="rect" id="node11" href="$classQuantConnect_1_1Orders_1_1Fills_1_1FillModel.html#ae06620d63879e22f772f5ce6516b2e23" title="Default stop fill model implementation in base class security. (Stop Market Order Type)" alt="" coords="252,463,447,504"/>
+<area shape="rect" id="node4" href="$classQuantConnect_1_1Orders_1_1Fills_1_1FillModel.html#ab2919d2ee3ef2bd42013884458871c85" title="Return an order event with the fill details" alt="" coords="5,267,200,308"/>
+</map>

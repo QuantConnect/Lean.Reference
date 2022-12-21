@@ -1,0 +1,4 @@
+<map id="QuantConnect.Securities.Option.IOptionPriceModel.Evaluate" name="QuantConnect.Securities.Option.IOptionPriceModel.Evaluate">
+<area shape="rect" id="node1" title="Evaluates the specified option contract to compute a theoretical price, IV and greeks" alt="" coords="299,5,548,47"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Securities_1_1Option_1_1Option.html#aa47be026ac4322f8465aa408b3c75263" title="For this option security object, evaluates the specified option contract to compute a theoretical pri..." alt="" coords="5,5,251,47"/>
+</map>

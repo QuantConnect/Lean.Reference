@@ -1,0 +1,4 @@
+<map id="QuantConnect.Lean.Engine.Alphas.DefaultAlphaHandler.StoreInsights" name="QuantConnect.Lean.Engine.Alphas.DefaultAlphaHandler.StoreInsights">
+<area shape="rect" id="node1" title="Save insight results to persistent storage" alt="" coords="5,5,248,61"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Time.html#a36d5c25a49b2628f102e3deb7f6ce23b" title="Helper method to adjust a waiting time, in milliseconds, so it&#39;s uneven with the second turn around" alt="" coords="296,13,521,54"/>
+</map>

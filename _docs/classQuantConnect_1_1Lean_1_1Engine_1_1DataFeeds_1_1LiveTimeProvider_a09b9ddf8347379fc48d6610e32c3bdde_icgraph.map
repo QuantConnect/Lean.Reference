@@ -1,0 +1,5 @@
+<map id="QuantConnect.Lean.Engine.DataFeeds.LiveTimeProvider.Initialize" name="QuantConnect.Lean.Engine.DataFeeds.LiveTimeProvider.Initialize">
+<area shape="rect" id="node1" title="Fully initializes this instance providing the initial warmup time provider to use" alt="" coords="625,13,893,54"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Lean_1_1Engine_1_1DataFeeds_1_1LiveSynchronizer.html#a5ee24214e3a43d3aa8d65f9e64e62f4d" title="Performs additional initialization steps after algorithm initialization" alt="" coords="340,5,577,61"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Lean_1_1Engine_1_1DataFeeds_1_1LiveSynchronizer.html#aacd62be7b0b00fd14204f99b2f0b734c" title="Returns an enumerable which provides the data to stream to the algorithm" alt="" coords="5,13,292,54"/>
+</map>

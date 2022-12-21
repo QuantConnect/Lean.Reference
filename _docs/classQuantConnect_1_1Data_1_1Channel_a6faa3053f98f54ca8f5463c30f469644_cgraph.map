@@ -1,0 +1,5 @@
+<map id="QuantConnect.Data.Channel.GetHashCode" name="QuantConnect.Data.Channel.GetHashCode">
+<area shape="rect" id="node1" title="Serves as the default hash function." alt="" coords="5,5,216,47"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Symbol.html#af4057becb1916a5eeb81f8b22ee2919d" title="Serves as a hash function for a particular type." alt="" coords="264,13,524,39"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1SecurityIdentifier.html#a65a0f6a692872c6532dd6f8e95f1de44" title="Serves as a hash function for a particular type." alt="" coords="572,5,804,47"/>
+</map>

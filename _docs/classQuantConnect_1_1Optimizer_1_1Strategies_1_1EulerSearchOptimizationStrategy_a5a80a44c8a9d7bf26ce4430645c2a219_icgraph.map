@@ -1,0 +1,4 @@
+<map id="QuantConnect.Optimizer.Strategies.EulerSearchOptimizationStrategy.OnNewParameterSet" name="QuantConnect.Optimizer.Strategies.EulerSearchOptimizationStrategy.OnNewParameterSet">
+<area shape="rect" id="node1" title="Handles new parameter set" alt="" coords="324,5,611,61"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Optimizer_1_1Strategies_1_1EulerSearchOptimizationStrategy.html#a0a3ed91355ee72fc5ff97a547fbf8066" title="Checks whether new lean compute job better than previous and run new iteration if necessary." alt="" coords="5,5,276,61"/>
+</map>

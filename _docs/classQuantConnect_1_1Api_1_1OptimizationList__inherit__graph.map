@@ -1,0 +1,4 @@
+<map id="QuantConnect.Api.OptimizationList" name="QuantConnect.Api.OptimizationList">
+<area shape="rect" id="node1" title="Collection container for a list of summarized optimizations for a project" alt="" coords="5,80,256,107"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Api_1_1RestResponse.html" title="Base API response class for the QuantConnect API." alt="" coords="73,5,188,32"/>
+</map>

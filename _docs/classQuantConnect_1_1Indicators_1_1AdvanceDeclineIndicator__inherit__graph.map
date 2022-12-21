@@ -1,0 +1,8 @@
+<map id="QuantConnect.Indicators.AdvanceDeclineIndicator" name="QuantConnect.Indicators.AdvanceDeclineIndicator">
+<area shape="rect" id="node1" title="The advance&#45;decline indicator compares the number of stocks that closed higher against the number of ..." alt="" coords="535,39,721,80"/>
+<area shape="rect" id="node5" href="$classQuantConnect_1_1Indicators_1_1AdvanceDeclineRatio.html" title="The advance&#45;decline ratio (ADR) compares the number of stocks that closed higher against the number o..." alt="" coords="781,5,968,47"/>
+<area shape="rect" id="node6" href="$classQuantConnect_1_1Indicators_1_1AdvanceDeclineVolumeRatio.html" title="The Advance Decline Volume Ratio is a Breadth indicator calculated as ratio of summary volume of adva..." alt="" coords="769,71,980,112"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Indicators_1_1TradeBarIndicator.html" title="The TradeBarIndicator is an indicator that accepts TradeBar data as its input." alt="" coords="301,21,437,47"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Indicators_1_1IndicatorBase.html" title=" " alt="" coords="5,21,204,47"/>
+<area shape="rect" id="node4" href="$interfaceQuantConnect_1_1Indicators_1_1IIndicatorWarmUpPeriodProvider.html" title="Represents an indicator with a warm up period provider." alt="" coords="252,71,487,98"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="QuantConnect.Parse.Double" name="QuantConnect.Parse.Double">
+<area shape="rect" id="node1" title="Parses the provided value as a double using CultureInfo.InvariantCulture" alt="" coords="336,13,539,39"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1ToolBox_1_1KrakenDownloader_1_1KrakenDataDownloader.html#acce7cae682f1c726942574f7dd1f5da5" title="Get historical data enumerable for a single symbol, type and resolution given this start and end time..." alt="" coords="5,5,288,47"/>
+</map>

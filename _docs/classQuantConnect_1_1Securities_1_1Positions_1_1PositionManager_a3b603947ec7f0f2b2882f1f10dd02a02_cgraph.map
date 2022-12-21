@@ -1,0 +1,4 @@
+<map id="QuantConnect.Securities.Positions.PositionManager.CreatePositionGroup" name="QuantConnect.Securities.Positions.PositionManager.CreatePositionGroup">
+<area shape="rect" id="node1" title="Creates a position group for the specified order, pulling" alt="" coords="5,5,245,61"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Orders_1_1Order.html#a8324286f8545c74a96c48fe95df34e4c" title="Creates an enumerable containing each position resulting from executing this order." alt="" coords="293,13,497,54"/>
+</map>

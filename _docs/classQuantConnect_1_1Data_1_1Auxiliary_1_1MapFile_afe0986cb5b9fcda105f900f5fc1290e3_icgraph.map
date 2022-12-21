@@ -1,0 +1,4 @@
+<map id="QuantConnect.Data.Auxiliary.MapFile.ToCsvLines" name="QuantConnect.Data.Auxiliary.MapFile.ToCsvLines">
+<area shape="rect" id="node1" title="Reads and writes each MapFileRow" alt="" coords="267,5,480,47"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Data_1_1Auxiliary_1_1MapFile.html#aa56e7a591daa78d79ba602a9a606a23a" title="Writes the map file to a CSV file" alt="" coords="5,5,219,47"/>
+</map>

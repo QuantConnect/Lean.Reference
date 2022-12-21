@@ -1,0 +1,4 @@
+<map id="QuantConnect.Algorithm.QCAlgorithm.AddFutureContract" name="QuantConnect.Algorithm.QCAlgorithm.AddFutureContract">
+<area shape="rect" id="node1" title="Creates and adds a new single Future contract to the algorithm" alt="" coords="275,5,548,47"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Research_1_1QuantBook.html#a9ba0e797af73cc6bd19e240abe7b6911" title="Gets OptionHistory object for a given symbol, date and resolution" alt="" coords="5,5,227,47"/>
+</map>

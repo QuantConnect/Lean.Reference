@@ -1,0 +1,13 @@
+<map id="QuantConnect.Orders.Fills.EquityFillModel.MarketOnOpenFill" name="QuantConnect.Orders.Fills.EquityFillModel.MarketOnOpenFill">
+<area shape="rect" id="node1" title="Market on Open Fill Model. Return an order event with the fill details" alt="" coords="5,129,248,171"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Securities_1_1SecurityExchange.html#a0cb909c2d8b9da2709749846b313e3bb" title="Check if this DateTime is open." alt="" coords="590,181,841,223"/>
+<area shape="rect" id="node4" href="$classQuantConnect_1_1Securities_1_1SecurityExchangeHours.html#a106e2dd187ab76452e14ac6a28f929aa" title="Helper to access the market hours field based on the day of week" alt="" coords="1163,60,1449,101"/>
+<area shape="rect" id="node6" href="$classQuantConnect_1_1Securities_1_1SecurityCache.html#a2e22a721cbad979accb38e91dd640b8e" title="Get last data packet received for this security if any else null" alt="" coords="325,129,512,171"/>
+<area shape="rect" id="node7" href="$classQuantConnect_1_1Securities_1_1LocalMarketHours.html#a5832a8c096b109d0d83ecd6b7c6c8a06" title="Gets the market opening time of day" alt="" coords="296,64,541,105"/>
+<area shape="rect" id="node9" href="$classQuantConnect_1_1Orders_1_1Fills_1_1EquityFillModel.html#a87e1b232f962b7fa7ad60e7d7b470837" title="Determines if the exchange is open using the current time of the asset" alt="" coords="301,247,536,288"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Securities_1_1SecurityExchangeHours.html#ad680493077edb2267e639615b3c672a7" title="Determines if the exchange is open at the specified local date time." alt="" coords="889,181,1115,223"/>
+<area shape="rect" id="node5" href="$classQuantConnect_1_1Securities_1_1LocalMarketHours.html#a8a898ad9f8fa0c41f4a04b8dfc513777" title="Determines if the exchange is open at the specified time" alt="" coords="1212,181,1400,223"/>
+<area shape="rect" id="node8" href="$classQuantConnect_1_1Securities_1_1LocalMarketHours.html#a64d0be4e83db8aca6d9d3d158a56ef8c" title="Check the given segment is not part of the current previous segment" alt="" coords="602,63,829,119"/>
+<area shape="rect" id="node10" href="$classQuantConnect_1_1Securities_1_1Security.html#ab93a58a84a4aa1b19d0972faf6c056c4" title="Get the last price update set to the security if any else null" alt="" coords="622,312,809,353"/>
+<area shape="rect" id="node11" href="$classQuantConnect_1_1Securities_1_1SecurityExchange.html#a17daa159794484b17946fc540864800c" title="Determines if the exchange was open at any time between start and stop" alt="" coords="589,247,841,288"/>
+</map>

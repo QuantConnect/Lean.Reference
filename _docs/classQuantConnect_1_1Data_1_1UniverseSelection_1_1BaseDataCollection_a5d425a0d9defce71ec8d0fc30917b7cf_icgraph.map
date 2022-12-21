@@ -1,0 +1,5 @@
+<map id="QuantConnect.Data.UniverseSelection.BaseDataCollection.BaseDataCollection" name="QuantConnect.Data.UniverseSelection.BaseDataCollection.BaseDataCollection">
+<area shape="rect" id="node1" title="Initializes a new default instance of the BaseDataCollection c;ass" alt="" coords="691,13,941,69"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Data_1_1UniverseSelection_1_1BaseDataCollection.html#ad659123c7e77ca68b033cc5ce9ba81e1" title="Return a new instance clone of this object, used in fill forward" alt="" coords="388,20,643,61"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Lean_1_1Engine_1_1DataFeeds_1_1Enumerators_1_1DataQueueOptionChainUniverseDataCollectionEnumerator.html#adfffe3d1c177d2840b911b3151f953cc" title="Advances the enumerator to the next element of the collection." alt="" coords="5,5,340,76"/>
+</map>

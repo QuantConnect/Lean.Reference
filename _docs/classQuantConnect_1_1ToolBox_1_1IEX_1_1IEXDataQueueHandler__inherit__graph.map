@@ -1,0 +1,9 @@
+<map id="QuantConnect.ToolBox.IEX.IEXDataQueueHandler" name="QuantConnect.ToolBox.IEX.IEXDataQueueHandler">
+<area shape="rect" id="node1" title="IEX live data handler. See more at https://iexcloud.io/docs/api/" alt="" coords="116,304,315,345"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Lean_1_1Engine_1_1HistoricalData_1_1SynchronizingHistoryProvider.html" title="Provides an abstract implementation of IHistoryProvider which provides synchronization of multiple hi..." alt="" coords="5,229,220,256"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Data_1_1HistoryProviderBase.html" title="Provides a base type for all history providers" alt="" coords="35,155,190,181"/>
+<area shape="rect" id="node4" href="$interfaceQuantConnect_1_1Interfaces_1_1IHistoryProvider.html" title="Provides historical data to an algorithm at runtime" alt="" coords="49,80,176,107"/>
+<area shape="rect" id="node5" href="$interfaceQuantConnect_1_1Interfaces_1_1IDataProviderEvents.html" title="Events related to data providers" alt="" coords="35,5,190,32"/>
+<area shape="rect" id="node6" href="$interfaceQuantConnect_1_1Interfaces_1_1IDataQueueHandler.html" title="Task requestor interface with cloud system" alt="" coords="244,229,395,256"/>
+<area shape="rect" id="node7" title=" " alt="" coords="270,155,369,181"/>
+</map>

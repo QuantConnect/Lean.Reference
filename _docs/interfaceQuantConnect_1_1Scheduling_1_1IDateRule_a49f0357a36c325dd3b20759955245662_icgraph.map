@@ -1,0 +1,4 @@
+<map id="QuantConnect.Scheduling.IDateRule.GetDates" name="QuantConnect.Scheduling.IDateRule.GetDates">
+<area shape="rect" id="node1" title="Gets the dates produced by this date rule between the specified times" alt="" coords="247,5,440,47"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Extensions.html#a32c2afd6782045cba603ab70bbcba29e" title="Converts a date rule into a function that receives current time and returns the next date." alt="" coords="5,5,199,47"/>
+</map>

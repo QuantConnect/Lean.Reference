@@ -1,0 +1,4 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$interfaceQuantConnect_1_1Algorithm_1_1Framework_1_1Alphas_1_1Analysis_1_1IInsightScoreFunctionProvider.html" title="Retrieves the registered scoring function for the specified insight/score type" alt="" coords="5,5,273,61"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Algorithm_1_1Framework_1_1Alphas_1_1Analysis_1_1Providers_1_1DefaultInsightScoreFunctionProvider.html" title="Default implementation of IInsightScoreFunctionProvider always returns the BinaryInsightScoreFunction" alt="" coords="321,5,608,61"/>
+</map>

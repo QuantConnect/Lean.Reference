@@ -1,0 +1,5 @@
+<map id="QuantConnect.ToolBox.DukascopyDownloader.DukascopySymbolMapper.IsKnownBrokerageSymbol" name="QuantConnect.ToolBox.DukascopyDownloader.DukascopySymbolMapper.IsKnownBrokerageSymbol">
+<area shape="rect" id="node1" title="Checks if the symbol is supported by Dukascopy" alt="" coords="328,45,603,101"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1ToolBox_1_1DukascopyDownloader_1_1DukascopySymbolMapper.html#a2db1736e18ad859515ad29c58425f470" title="Converts a Lean symbol instance to a Dukascopy symbol" alt="" coords="5,5,280,61"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1ToolBox_1_1DukascopyDownloader_1_1DukascopySymbolMapper.html#a04180577f5f0ae2ae0c4ba995e9cb365" title="Converts a Dukascopy symbol to a Lean symbol instance" alt="" coords="5,85,280,141"/>
+</map>

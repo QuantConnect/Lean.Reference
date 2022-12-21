@@ -1,0 +1,6 @@
+<map id="QuantConnect.Orders.Fees.IndiaFeeModel" name="QuantConnect.Orders.Fees.IndiaFeeModel">
+<area shape="rect" id="node1" title="Provides the default implementation of IFeeModel Refer to https://www.samco.in/technology/brokerage_c..." alt="" coords="116,80,315,121"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Orders_1_1Fees_1_1SamcoFeeModel.html" title="Provides the default implementation of IFeeModel Refer to https://www.samco.in/technology/brokerage_c..." alt="" coords="5,169,204,211"/>
+<area shape="rect" id="node4" href="$classQuantConnect_1_1Orders_1_1Fees_1_1ZerodhaFeeModel.html" title="Provides the default implementation of IFeeModel Refer to https://www.samco.in/technology/brokerage_c..." alt="" coords="228,169,427,211"/>
+<area shape="rect" id="node2" href="$interfaceQuantConnect_1_1Orders_1_1Fees_1_1IFeeModel.html" title="Represents a model the simulates order fees" alt="" coords="171,5,260,32"/>
+</map>

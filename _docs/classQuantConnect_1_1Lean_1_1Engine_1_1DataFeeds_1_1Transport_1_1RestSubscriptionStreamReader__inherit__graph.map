@@ -1,0 +1,5 @@
+<map id="QuantConnect.Lean.Engine.DataFeeds.Transport.RestSubscriptionStreamReader" name="QuantConnect.Lean.Engine.DataFeeds.Transport.RestSubscriptionStreamReader">
+<area shape="rect" id="node1" title="Represents a stream reader capable of polling a rest client" alt="" coords="5,155,273,211"/>
+<area shape="rect" id="node2" href="$interfaceQuantConnect_1_1Interfaces_1_1IStreamReader.html" title="Defines a transport mechanism for data from its source into various reader methods" alt="" coords="80,80,199,107"/>
+<area shape="rect" id="node3" title=" " alt="" coords="90,5,189,32"/>
+</map>

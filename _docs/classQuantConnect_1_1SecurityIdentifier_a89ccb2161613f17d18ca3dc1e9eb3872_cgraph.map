@@ -1,0 +1,4 @@
+<map id="QuantConnect.SecurityIdentifier.Parse" name="QuantConnect.SecurityIdentifier.Parse">
+<area shape="rect" id="node1" title="Parses the specified string into a SecurityIdentifier The string must be a 40 digit number...." alt="" coords="5,5,237,47"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1SecurityIdentifier.html#a59bd74be4ec55a0e4631af9e10f65d7c" title="Attempts to parse the specified &#160;as a SecurityIdentifier." alt="" coords="285,5,517,47"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="QuantConnect.Securities.SymbolPropertiesDatabase.FromDataFolder" name="QuantConnect.Securities.SymbolPropertiesDatabase.FromDataFolder">
+<area shape="rect" id="node1" title="Gets the instance of the SymbolPropertiesDatabase class produced by reading in the symbol properties ..." alt="" coords="5,5,241,61"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Securities_1_1SymbolPropertiesDatabase.html#a1658f93bf0dce7022bb7584e1a95cc7a" title="Initialize a new instance of SymbolPropertiesDatabase using the given file" alt="" coords="289,5,541,61"/>
+</map>

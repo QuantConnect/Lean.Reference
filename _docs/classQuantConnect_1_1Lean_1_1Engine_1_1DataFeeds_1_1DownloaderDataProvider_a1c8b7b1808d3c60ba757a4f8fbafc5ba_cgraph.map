@@ -1,0 +1,12 @@
+<map id="QuantConnect.Lean.Engine.DataFeeds.DownloaderDataProvider.Fetch" name="QuantConnect.Lean.Engine.DataFeeds.DownloaderDataProvider.Fetch">
+<area shape="rect" id="node1" title="Determines if it should downloads new data and retrieves data from disc" alt="" coords="5,86,301,127"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Lean_1_1Engine_1_1DataFeeds_1_1BaseDownloaderDataProvider.html#a54edacc384d897c71b64bb4544257530" title="Helper method which guarantees each requested key is downloaded only once concurrently if required ba..." alt="" coords="349,5,643,61"/>
+<area shape="rect" id="node4" href="$classQuantConnect_1_1Logging_1_1Log.html#af0e7955911bc7664b37661b2a303a9e3" title="Log error" alt="" coords="396,86,596,127"/>
+<area shape="rect" id="node6" href="$classQuantConnect_1_1Util_1_1LeanData.html#ac979a9bea9e3fabfda1872dbf4e6306b" title="Parses file name into a Security and DateTime" alt="" coords="391,183,601,225"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Lean_1_1Engine_1_1DataFeeds_1_1BaseDownloaderDataProvider.html#a78871e11048546c514f3a35b83d61fab" title="Main filter to determine if this file needs to be downloaded" alt="" coords="691,5,984,61"/>
+<area shape="rect" id="node5" href="$interfaceQuantConnect_1_1Logging_1_1ILogHandler.html#a35373a0c5d76031fa5ccf5dc39e5c25d" title="Write error message to log" alt="" coords="737,86,937,127"/>
+<area shape="rect" id="node7" href="$classQuantConnect_1_1Logging_1_1Log.html#ad908daef9d61532d7d60c9dcfb9a3e0c" title="Output to the console" alt="" coords="737,151,937,193"/>
+<area shape="rect" id="node9" href="$classQuantConnect_1_1Util_1_1LeanData.html#a24869ac4b029b3f2d468596baab6d72d" title="Gets the tick type most commonly associated with the specified security type" alt="" coords="732,217,943,258"/>
+<area shape="rect" id="node10" href="$classQuantConnect_1_1Util_1_1LeanData.html#a77cc921eacb5e88e8575272f1a87280d" title="Gets the data type required for the specified combination of resolution and tick type" alt="" coords="732,282,943,323"/>
+<area shape="rect" id="node8" href="$interfaceQuantConnect_1_1Logging_1_1ILogHandler.html#a2c738b8e78dd5b54244bc68b969ba91d" title="Write debug message to log" alt="" coords="1032,151,1232,193"/>
+</map>

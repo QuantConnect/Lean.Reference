@@ -1,0 +1,4 @@
+var namespaceQuantConnect_1_1ToolBox_1_1NseMarketDataConverter =
+[
+    [ "NseMarketDataConverterProgram", "classQuantConnect_1_1ToolBox_1_1NseMarketDataConverter_1_1NseMarketDataConverterProgram.html", "classQuantConnect_1_1ToolBox_1_1NseMarketDataConverter_1_1NseMarketDataConverterProgram" ]
+];

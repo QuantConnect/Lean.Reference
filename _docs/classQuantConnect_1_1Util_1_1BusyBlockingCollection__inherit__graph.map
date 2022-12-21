@@ -1,0 +1,5 @@
+<map id="QuantConnect.Util.BusyBlockingCollection&lt; T &gt;" name="QuantConnect.Util.BusyBlockingCollection&lt; T &gt;">
+<area shape="rect" id="node1" title="A small wrapper around BlockingCollection&lt;T&gt; used to communicate busy state of the items being proces..." alt="" coords="5,155,239,196"/>
+<area shape="rect" id="node2" href="$interfaceQuantConnect_1_1Interfaces_1_1IBusyCollection.html" title="Interface used to handle items being processed and communicate busy state" alt="" coords="41,80,203,107"/>
+<area shape="rect" id="node3" title=" " alt="" coords="73,5,171,32"/>
+</map>

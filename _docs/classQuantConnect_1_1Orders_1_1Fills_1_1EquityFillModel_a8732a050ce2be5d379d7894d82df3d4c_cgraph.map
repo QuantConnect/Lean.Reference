@@ -1,0 +1,10 @@
+<map id="QuantConnect.Orders.Fills.EquityFillModel.StopMarketFill" name="QuantConnect.Orders.Fills.EquityFillModel.StopMarketFill">
+<area shape="rect" id="node1" title="Default stop fill model implementation in base class security. (Stop Market Order Type)" alt="" coords="5,71,224,112"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Orders_1_1Fills_1_1EquityFillModel.html#a87e1b232f962b7fa7ad60e7d7b470837" title="Determines if the exchange is open using the current time of the asset" alt="" coords="272,71,507,112"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Securities_1_1SecurityExchange.html#a0cb909c2d8b9da2709749846b313e3bb" title="Check if this DateTime is open." alt="" coords="555,5,806,47"/>
+<area shape="rect" id="node7" href="$classQuantConnect_1_1Securities_1_1Security.html#ab93a58a84a4aa1b19d0972faf6c056c4" title="Get the last price update set to the security if any else null" alt="" coords="587,71,774,112"/>
+<area shape="rect" id="node8" href="$classQuantConnect_1_1Securities_1_1SecurityExchange.html#a17daa159794484b17946fc540864800c" title="Determines if the exchange was open at any time between start and stop" alt="" coords="555,136,807,177"/>
+<area shape="rect" id="node4" href="$classQuantConnect_1_1Securities_1_1SecurityExchangeHours.html#ad680493077edb2267e639615b3c672a7" title="Determines if the exchange is open at the specified local date time." alt="" coords="855,71,1080,112"/>
+<area shape="rect" id="node5" href="$classQuantConnect_1_1Securities_1_1SecurityExchangeHours.html#a106e2dd187ab76452e14ac6a28f929aa" title="Helper to access the market hours field based on the day of week" alt="" coords="1128,37,1415,79"/>
+<area shape="rect" id="node6" href="$classQuantConnect_1_1Securities_1_1LocalMarketHours.html#a8a898ad9f8fa0c41f4a04b8dfc513777" title="Determines if the exchange is open at the specified time" alt="" coords="1177,103,1365,144"/>
+</map>

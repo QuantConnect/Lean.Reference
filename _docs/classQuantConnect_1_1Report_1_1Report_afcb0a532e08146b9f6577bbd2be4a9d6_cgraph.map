@@ -1,0 +1,5 @@
+<map id="QuantConnect.Report.Report.Compile" name="QuantConnect.Report.Report.Compile">
+<area shape="rect" id="node1" title="Compile the backtest data into a report" alt="" coords="5,5,217,47"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Logging_1_1Log.html#a4e55477fbc790846b74550a57198cea9" title="Log trace" alt="" coords="265,5,465,47"/>
+<area shape="rect" id="node3" href="$interfaceQuantConnect_1_1Logging_1_1ILogHandler.html#a3fb71a33ac66129240b63f12b6fcda3b" title="Write debug message to log" alt="" coords="513,5,713,47"/>
+</map>

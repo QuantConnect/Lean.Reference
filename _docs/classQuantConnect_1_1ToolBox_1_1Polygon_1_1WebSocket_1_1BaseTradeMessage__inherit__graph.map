@@ -1,0 +1,6 @@
+<map id="QuantConnect.ToolBox.Polygon.WebSocket.BaseTradeMessage" name="QuantConnect.ToolBox.Polygon.WebSocket.BaseTradeMessage">
+<area shape="rect" id="node1" title=" " alt="" coords="165,39,395,80"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1ToolBox_1_1Polygon_1_1WebSocket_1_1CryptoTradeMessage.html" title=" " alt="" coords="443,5,676,47"/>
+<area shape="rect" id="node4" href="$classQuantConnect_1_1ToolBox_1_1Polygon_1_1WebSocket_1_1EquityTradeMessage.html" title=" " alt="" coords="444,71,675,112"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1ToolBox_1_1Polygon_1_1WebSocket_1_1BaseMessage.html" title=" " alt="" coords="5,46,117,73"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="QuantConnect.Data.Market.OptionContract.Create" name="QuantConnect.Data.Market.OptionContract.Create">
+<area shape="rect" id="node1" title="Creates a OptionContract" alt="" coords="321,13,524,54"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1ToolBox_1_1RandomDataGenerator_1_1OptionPriceModelPriceGenerator.html#a5a85b94eb9d143f5b69d0c9ec4cbd4bc" title="For Black&#45;Scholes&#45;Merton model price calculation relies IOptionPriceModel of the security" alt="" coords="5,5,273,61"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="QuantConnect.Securities.Option.Option.IsAutoExercised" name="QuantConnect.Securities.Option.Option.IsAutoExercised">
+<area shape="rect" id="node1" title="Checks if option is eligible for automatic exercise on expiration" alt="" coords="5,5,224,47"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Securities_1_1Option_1_1Option.html#a6038a942fd8a3b859a771b5269224208" title="Intrinsic value function of the option" alt="" coords="272,5,499,47"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Securities_1_1Option_1_1Option.html#a9b490f060d7907e61a59e49b0349bc89" title="Option payoff function at expiration time" alt="" coords="547,5,733,47"/>
+</map>

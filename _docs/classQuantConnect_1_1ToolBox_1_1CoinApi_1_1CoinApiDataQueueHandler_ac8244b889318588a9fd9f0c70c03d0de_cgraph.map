@@ -1,0 +1,10 @@
+<map id="QuantConnect.ToolBox.CoinApi.CoinApiDataQueueHandler.CoinApiDataQueueHandler" name="QuantConnect.ToolBox.CoinApi.CoinApiDataQueueHandler.CoinApiDataQueueHandler">
+<area shape="rect" id="node1" title="Initializes a new instance of the CoinApiDataQueueHandler class" alt="" coords="5,155,259,211"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Configuration_1_1Config.html#aaabf1286e33a675b2e116f3289981839" title="Get the matching config setting from the file searching for this key." alt="" coords="354,72,563,113"/>
+<area shape="rect" id="node5" href="$classQuantConnect_1_1Logging_1_1Log.html#a4e55477fbc790846b74550a57198cea9" title="Log trace" alt="" coords="663,136,863,177"/>
+<area shape="rect" id="node7" href="$classQuantConnect_1_1ToolBox_1_1CoinApi_1_1CoinApiDataQueueHandler.html#af6fb914ba616573d4db217e681c97b18" title="Subscribe to the specified configuration" alt="" coords="315,192,602,233"/>
+<area shape="rect" id="node8" href="$classQuantConnect_1_1ToolBox_1_1CoinApi_1_1CoinApiDataQueueHandler.html#a0d69587d992a575e97d434979c259d58" title="Removes the specified configuration" alt="" coords="307,257,611,299"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Configuration_1_1Config.html#a1504ca19b3759d008b090375ddf4ad10" title="Gets the currently selected environment. If sub&#45;environments are defined, they&#39;ll be returned as {env..." alt="" coords="659,5,868,47"/>
+<area shape="rect" id="node4" href="$classQuantConnect_1_1Configuration_1_1Config.html#a9ed01bc116e8181a7557f3e668f34691" title="Gets the underlying JToken for the specified key" alt="" coords="659,71,868,112"/>
+<area shape="rect" id="node6" href="$interfaceQuantConnect_1_1Logging_1_1ILogHandler.html#a3fb71a33ac66129240b63f12b6fcda3b" title="Write debug message to log" alt="" coords="916,136,1116,177"/>
+</map>

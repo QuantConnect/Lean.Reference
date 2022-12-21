@@ -1,0 +1,4 @@
+<map id="QuantConnect.Lean.Engine.DataFeeds.BacktestingFutureChainProvider.GetSymbol" name="QuantConnect.Lean.Engine.DataFeeds.BacktestingFutureChainProvider.GetSymbol">
+<area shape="rect" id="node1" title="Helper method to get the symbol to use" alt="" coords="304,5,555,61"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Lean_1_1Engine_1_1DataFeeds_1_1BacktestingFutureChainProvider.html#ad95ac9ea6895b03fa51209aa7e9c2fb4" title="Gets the list of future contracts for a given underlying symbol" alt="" coords="5,5,256,61"/>
+</map>

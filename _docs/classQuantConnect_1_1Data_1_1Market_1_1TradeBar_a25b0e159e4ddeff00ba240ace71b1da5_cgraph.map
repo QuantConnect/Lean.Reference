@@ -1,0 +1,4 @@
+<map id="QuantConnect.Data.Market.TradeBar.ParseEquity" name="QuantConnect.Data.Market.TradeBar.ParseEquity">
+<area shape="rect" id="node1" title="Parses equity trade bar data into the specified tradebar type, useful for custom types with OHLCV dat..." alt="" coords="5,5,208,47"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Data_1_1Market_1_1TradeBar.html#a1024a2dc9ee173bc50d23cf62067a304" title="Parses equity trade bar data into the specified tradebar type, useful for custom types with OHLCV dat..." alt="" coords="256,5,459,47"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="QuantConnect.Lean.Engine.Results.RegressionResultHandler.OrderEvent" name="QuantConnect.Lean.Engine.Results.RegressionResultHandler.OrderEvent">
+<area shape="rect" id="node1" title="Log the order and order event to the dedicated log file for this regression algorithm" alt="" coords="5,45,247,101"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Securities_1_1SecurityTransactionManager.html#a4d0d724ca30fc6e1b35ab18e4d691cc9" title="Get the order by its id" alt="" coords="295,5,527,61"/>
+<area shape="rect" id="node4" href="$classQuantConnect_1_1Securities_1_1SecurityPortfolioManager.html#a7c27a763913abc35c3fe43d0f1d3e4c6" title="Attempt to get the value of the securities holding class if this symbol exists." alt="" coords="306,85,515,141"/>
+<area shape="rect" id="node3" href="$interfaceQuantConnect_1_1Securities_1_1IOrderProvider.html#a72aac909fa6b539d309c1d29ebc3fa94" title="Get the order by its id" alt="" coords="578,13,785,54"/>
+<area shape="rect" id="node5" href="$classQuantConnect_1_1Securities_1_1SecurityManager.html#af3ad97e370ceec706ac1afe70f7fbb42" title="Try and get this security object with matching symbol and return true on success." alt="" coords="575,93,788,134"/>
+</map>

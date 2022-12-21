@@ -1,0 +1,4 @@
+<map id="QuantConnect.Indicators.TimeSeriesIndicator.InverseDifferencedSeries" name="QuantConnect.Indicators.TimeSeriesIndicator.InverseDifferencedSeries">
+<area shape="rect" id="node1" title="Undoes the differencing of a time series which has been differenced using DifferenceSeries...." alt="" coords="5,5,284,61"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Indicators_1_1TimeSeriesIndicator.html#ae9cfab2b6d30a3cbb90ddf78734e012c" title="Returns a series where each spot is taken by the cumulative sum of all points up to and including the..." alt="" coords="332,13,591,54"/>
+</map>

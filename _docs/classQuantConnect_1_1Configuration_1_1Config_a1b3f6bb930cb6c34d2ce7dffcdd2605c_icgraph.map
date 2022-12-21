@@ -1,0 +1,12 @@
+<map id="QuantConnect.Configuration.Config.GetBool" name="QuantConnect.Configuration.Config.GetBool">
+<area shape="rect" id="node1" title="Get a boolean value configuration setting by a configuration key." alt="" coords="604,199,813,240"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Queues_1_1JobQueue.html#a567de7b1f71a467b86bcd2639c70c659" title="Desktop/Local acknowledge the task processed. Nothing to do." alt="" coords="309,5,547,47"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Lean_1_1Engine_1_1Results_1_1RegressionResultHandler.html#ade656801b5499dab8c205dd6a57cf236" title="We want to make algorithm messages end up in both the standard regression log file {algorithm}...." alt="" coords="307,71,549,127"/>
+<area shape="rect" id="node4" href="$classQuantConnect_1_1Lean_1_1Engine_1_1Results_1_1BacktestingResultHandler.html#a3d67960a346455c56df5a6bc8aca0d9d" title="Configures the Console.Out and Console.Error TextWriter instances. By default, we forward Console...." alt="" coords="305,151,551,207"/>
+<area shape="rect" id="node6" href="$classQuantConnect_1_1Lean_1_1Engine_1_1Setup_1_1BacktestingSetupHandler.html#abf6f082a6ab52726b44468da7ca26d96" title="Create a new instance of an algorithm from a physical dll path." alt="" coords="313,231,543,287"/>
+<area shape="rect" id="node7" href="$classQuantConnect_1_1Lean_1_1Engine_1_1LeanEngineAlgorithmHandlers.html#a9737f33c09743080ebc70bcd06241110" title="Creates a new instance of the LeanEngineAlgorithmHandlers class from the specified composer using typ..." alt="" coords="300,311,556,367"/>
+<area shape="rect" id="node10" href="$classQuantConnect_1_1Lean_1_1Engine_1_1Initializer.html#a9bf25f03ea7c7f01843b04ca0845a2e5" title="Basic common Lean initialization" alt="" coords="327,392,529,433"/>
+<area shape="rect" id="node5" href="$classQuantConnect_1_1Lean_1_1Engine_1_1Results_1_1BacktestingResultHandler.html#a187cf964394ce96cafca9a1048e9b143" title="Set the Algorithm instance for ths result." alt="" coords="5,151,252,207"/>
+<area shape="rect" id="node8" href="$classQuantConnect_1_1Lean_1_1Engine_1_1Initializer.html#a8b5510189c94accd341087b4d8d1c796" title="Get and initializes Algorithm Handler" alt="" coords="13,287,244,328"/>
+<area shape="rect" id="node9" href="$classQuantConnect_1_1Research_1_1QuantBook.html#a239bcca3c726a8cc25b9a6a3cd0c244f" title="QuantBook constructor. Provides access to data for quantitative analysis" alt="" coords="18,352,239,393"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="QuantConnect.Interfaces.ISecurityService" name="QuantConnect.Interfaces.ISecurityService">
+<area shape="rect" id="node1" title="This interface exposes methods for creating a new Security" alt="" coords="5,5,192,47"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Securities_1_1SecurityService.html" title="This class implements interface ISecurityService providing methods for creating new Security" alt="" coords="5,95,192,136"/>
+</map>

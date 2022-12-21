@@ -1,0 +1,12 @@
+<map id="QuantConnect.Lean.Engine.LeanEngineSystemHandlers.Initialize" name="QuantConnect.Lean.Engine.LeanEngineSystemHandlers.Initialize">
+<area shape="rect" id="node1" title="Initializes the Api, Messaging, and JobQueue components" alt="" coords="5,201,269,243"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Configuration_1_1Config.html#aaabf1286e33a675b2e116f3289981839" title="Get the matching config setting from the file searching for this key." alt="" coords="317,71,527,112"/>
+<area shape="rect" id="node7" href="$classQuantConnect_1_1Configuration_1_1Config.html#a7e8e4f537e349a84b9a2b0f7d3153a0b" title="Get the int value of a config string." alt="" coords="317,136,527,177"/>
+<area shape="rect" id="node8" href="$interfaceQuantConnect_1_1Interfaces_1_1IJobQueueHandler.html#ab9aa1d09e0f00f4a7b1e8c886a5a2c4a" title="Initialize the internal state" alt="" coords="323,201,521,243"/>
+<area shape="rect" id="node9" href="$interfaceQuantConnect_1_1Interfaces_1_1IApi.html#a7f5731bba89575737daa2bb9ff87d5b9" title="Initialize the control system" alt="" coords="329,267,515,308"/>
+<area shape="rect" id="node10" href="$interfaceQuantConnect_1_1Interfaces_1_1IMessagingHandler.html#a7c0cef35d1c7867687097e2987c47640" title="Initialize the Messaging System Plugin." alt="" coords="319,332,525,373"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Configuration_1_1Config.html#a1504ca19b3759d008b090375ddf4ad10" title="Gets the currently selected environment. If sub&#45;environments are defined, they&#39;ll be returned as {env..." alt="" coords="575,5,784,47"/>
+<area shape="rect" id="node4" href="$classQuantConnect_1_1Configuration_1_1Config.html#a9ed01bc116e8181a7557f3e668f34691" title="Gets the underlying JToken for the specified key" alt="" coords="575,71,784,112"/>
+<area shape="rect" id="node5" href="$classQuantConnect_1_1Logging_1_1Log.html#a4e55477fbc790846b74550a57198cea9" title="Log trace" alt="" coords="579,136,779,177"/>
+<area shape="rect" id="node6" href="$interfaceQuantConnect_1_1Logging_1_1ILogHandler.html#a3fb71a33ac66129240b63f12b6fcda3b" title="Write debug message to log" alt="" coords="832,136,1032,177"/>
+</map>

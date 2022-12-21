@@ -1,0 +1,11 @@
+<map id="QuantConnect.Securities.SecurityTransactionManager.GetOrderTicket" name="QuantConnect.Securities.SecurityTransactionManager.GetOrderTicket">
+<area shape="rect" id="node1" title="Gets the order ticket for the specified order id. Returns null if not found" alt="" coords="969,79,1201,135"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Securities_1_1BuyingPowerModel.html#a0140983f8f8ab4d126538464a6e24bb1" title="Check if there is sufficient buying power to execute this order." alt="" coords="666,5,903,61"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Algorithm_1_1QCAlgorithm.html#a508fd4e5eb28d4280af51f647994d6ee" title="Liquidate all holdings and cancel open orders. Called at the end of day for tick&#45;strategies." alt="" coords="648,86,921,127"/>
+<area shape="rect" id="node6" href="$classQuantConnect_1_1Securities_1_1SecurityTransactionManager.html#a40e8a75a6dcac71544bc9a88037cca5d" title="Wait for a specific order to be either Filled, Invalid or Canceled" alt="" coords="665,171,904,227"/>
+<area shape="rect" id="node4" href="$classQuantConnect_1_1Algorithm_1_1QCAlgorithm.html#a6ece1896dff33aafccfb1707a83a77c3" title="Removes the security with the specified symbol. This will cancel all open orders and then liquidate a..." alt="" coords="327,67,600,109"/>
+<area shape="rect" id="node5" href="$classQuantConnect_1_1Algorithm_1_1QCAlgorithm.html#aaa03fad6a4f4df5db3a0273d94df6436" title="Removes the security with the specified symbol. This will cancel all open orders and then liquidate a..." alt="" coords="5,67,279,109"/>
+<area shape="rect" id="node7" href="$classQuantConnect_1_1Securities_1_1DefaultMarginCallModel.html#a7c489c9899a3685a318889925b306812" title="Executes synchronous orders to bring the account within margin requirements." alt="" coords="346,133,581,189"/>
+<area shape="rect" id="node8" href="$classQuantConnect_1_1Algorithm_1_1QCAlgorithm.html#a11352466438b0832f09b224722815e72" title="Send an exercise order to the transaction handler" alt="" coords="327,214,600,255"/>
+<area shape="rect" id="node9" href="$classQuantConnect_1_1Algorithm_1_1QCAlgorithm.html#a741fed77f0c320fdec734f00457634f4" title="Market order implementation: Send a market order and wait for it to be filled." alt="" coords="327,279,600,321"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="QuantConnect.Data.InterestRateProvider.TryParse" name="QuantConnect.Data.InterestRateProvider.TryParse">
+<area shape="rect" id="node1" title="Parse the string into the interest rate date and value" alt="" coords="869,5,1072,47"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Data_1_1InterestRateProvider.html#a22c0854558b3e2356e7dc828b9a067ff" title="Reads Fed primary credit rate file and returns a dictionary of historical rate changes" alt="" coords="619,5,821,47"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Data_1_1InterestRateProvider.html#afe3cfe6453b243dbc48095c78ed2bc7b" title="Generate the daily historical US primary credit rate" alt="" coords="296,5,571,47"/>
+<area shape="rect" id="node4" href="$classQuantConnect_1_1Data_1_1InterestRateProvider.html#a9b76b4d85d9796563362c1bf6fca3d39" title="Create class instance of interest rate provider" alt="" coords="5,5,248,47"/>
+</map>

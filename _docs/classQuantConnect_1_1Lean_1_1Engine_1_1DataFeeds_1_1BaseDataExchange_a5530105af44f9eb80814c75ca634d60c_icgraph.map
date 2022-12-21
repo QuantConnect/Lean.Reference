@@ -1,0 +1,4 @@
+<map id="QuantConnect.Lean.Engine.DataFeeds.BaseDataExchange.Stop" name="QuantConnect.Lean.Engine.DataFeeds.BaseDataExchange.Stop">
+<area shape="rect" id="node1" title="Ends consumption of the wrapped IDataQueueHandler" alt="" coords="313,5,568,47"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Lean_1_1Engine_1_1DataFeeds_1_1LiveTradingDataFeed.html#ad1e6e3e7149f98d149a55e379a097537" title="External controller calls to signal a terminate of the thread." alt="" coords="5,5,265,47"/>
+</map>

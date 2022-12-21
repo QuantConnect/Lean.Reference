@@ -1,0 +1,8 @@
+<map id="QuantConnect.Interfaces.IAlgorithm.Debug" name="QuantConnect.Interfaces.IAlgorithm.Debug">
+<area shape="rect" id="node1" title="Send debug message" alt="" coords="595,133,781,174"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Lean_1_1Engine_1_1Results_1_1RegressionResultHandler.html#ade656801b5499dab8c205dd6a57cf236" title="We want to make algorithm messages end up in both the standard regression log file {algorithm}...." alt="" coords="303,5,544,61"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Lean_1_1Engine_1_1Results_1_1BacktestingResultHandler.html#a3d67960a346455c56df5a6bc8aca0d9d" title="Configures the Console.Out and Console.Error TextWriter instances. By default, we forward Console...." alt="" coords="300,85,547,141"/>
+<area shape="rect" id="node5" href="$classQuantConnect_1_1Lean_1_1Engine_1_1RealTime_1_1ScheduledEventFactory.html#a2cb626793d1a0a1ca03f3c2dab340865" title="Creates a new ScheduledEvent that will fire before market close by the specified time" alt="" coords="303,165,544,221"/>
+<area shape="rect" id="node6" href="$classQuantConnect_1_1Commands_1_1OrderCommand.html#a9076463d1b93e18f452219182b25f721" title="Runs this command against the specified algorithm instance" alt="" coords="307,246,539,287"/>
+<area shape="rect" id="node4" href="$classQuantConnect_1_1Lean_1_1Engine_1_1Results_1_1BacktestingResultHandler.html#a187cf964394ce96cafca9a1048e9b143" title="Set the Algorithm instance for ths result." alt="" coords="5,85,252,141"/>
+</map>

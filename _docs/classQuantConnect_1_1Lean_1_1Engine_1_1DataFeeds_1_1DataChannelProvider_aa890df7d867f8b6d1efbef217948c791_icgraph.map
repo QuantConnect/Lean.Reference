@@ -1,0 +1,4 @@
+<map id="QuantConnect.Lean.Engine.DataFeeds.DataChannelProvider.Initialize" name="QuantConnect.Lean.Engine.DataFeeds.DataChannelProvider.Initialize">
+<area shape="rect" id="node1" title="Initializes the instance with an algorithm node packet" alt="" coords="312,5,548,61"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Lean_1_1Engine_1_1DataFeeds_1_1DataPermissionManager.html#a864f7656a19ae6d20ab9d55ba7272e36" title="Initialize the data permission manager" alt="" coords="5,5,264,61"/>
+</map>

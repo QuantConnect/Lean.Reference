@@ -1,0 +1,5 @@
+<map id="QuantConnect.Securities.Cfd.Cfd" name="QuantConnect.Securities.Cfd.Cfd">
+<area shape="rect" id="node1" title="CFD Security Object Implementation for CFD Assets" alt="" coords="5,155,192,196"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Securities_1_1Security.html" title="A base vehicle properties class for providing a common interface to all assets in QuantConnect." alt="" coords="61,80,136,107"/>
+<area shape="rect" id="node3" href="$interfaceQuantConnect_1_1Interfaces_1_1ISecurityPrice.html" title="Reduced interface which allows setting and accessing price properties for a Security" alt="" coords="43,5,154,32"/>
+</map>

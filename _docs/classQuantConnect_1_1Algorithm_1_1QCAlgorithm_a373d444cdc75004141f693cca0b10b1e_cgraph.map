@@ -1,0 +1,12 @@
+<map id="QuantConnect.Algorithm.QCAlgorithm.QCAlgorithm" name="QuantConnect.Algorithm.QCAlgorithm.QCAlgorithm">
+<area shape="rect" id="node1" title="QCAlgorithm Base Class Constructor &#45; Initialize the underlying QCAlgorithm components...." alt="" coords="5,265,279,306"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Securities_1_1MarketHoursDatabase.html#aa01232d91c17c556b18ea8f1f7fabcd0" title="Gets the instance of the MarketHoursDatabase class produced by reading in the market hours data found..." alt="" coords="346,5,581,61"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Securities_1_1SymbolPropertiesDatabase.html#aee26fb588793fd311c44eb8b2909cc33" title="Gets the instance of the SymbolPropertiesDatabase class produced by reading in the symbol properties ..." alt="" coords="345,85,581,141"/>
+<area shape="rect" id="node5" href="$classQuantConnect_1_1Algorithm_1_1QCAlgorithm.html#a6540dc5c1433dbe68358339ea41cfbcb" title="Sets the alpha model" alt="" coords="327,166,600,207"/>
+<area shape="rect" id="node6" href="$classQuantConnect_1_1Algorithm_1_1QCAlgorithm.html#a943d15c5639b738612e96a146fde7fce" title="Set the end date for a backtest run" alt="" coords="327,231,600,273"/>
+<area shape="rect" id="node7" href="$classQuantConnect_1_1Algorithm_1_1QCAlgorithm.html#ac22a1e42e0e1f2f9815525d020294e79" title="Sets the execution model" alt="" coords="327,297,600,338"/>
+<area shape="rect" id="node8" href="$classQuantConnect_1_1Algorithm_1_1QCAlgorithm.html#a388e494398c0a685cca0c73dc8fe0986" title="Sets the portfolio construction model" alt="" coords="327,362,600,403"/>
+<area shape="rect" id="node9" href="$classQuantConnect_1_1Algorithm_1_1QCAlgorithm.html#ae04a91364c08f558df2974342cc3f99e" title="Sets the risk management model" alt="" coords="327,427,600,469"/>
+<area shape="rect" id="node10" href="$classQuantConnect_1_1Algorithm_1_1QCAlgorithm.html#ad353b51a9430d72fbe2f4c81ed1ecf95" title="Sets the universe selection model" alt="" coords="327,493,600,534"/>
+<area shape="rect" id="node4" href="$classQuantConnect_1_1Securities_1_1SymbolPropertiesDatabase.html#a1658f93bf0dce7022bb7584e1a95cc7a" title="Initialize a new instance of SymbolPropertiesDatabase using the given file" alt="" coords="648,85,900,141"/>
+</map>

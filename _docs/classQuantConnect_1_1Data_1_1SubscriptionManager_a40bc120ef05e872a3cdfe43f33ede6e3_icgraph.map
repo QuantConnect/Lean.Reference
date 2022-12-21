@@ -1,0 +1,6 @@
+<map id="QuantConnect.Data.SubscriptionManager.DefaultDataTypes" name="QuantConnect.Data.SubscriptionManager.DefaultDataTypes">
+<area shape="rect" id="node1" title="Hard code the set of default available data feeds" alt="" coords="352,79,585,120"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Lean_1_1Engine_1_1DataFeeds_1_1DataManager.html#acf9050df1be040d4259dc9a89c2cb740" title="Creates a new instance of the DataManager" alt="" coords="17,5,292,47"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1ToolBox_1_1Polygon_1_1PolygonDownloaderProgram.html#a9d0c66689cf02767bc7285cebf3e1df8" title="Primary entry point to the program. This program only supports SecurityType.Equity" alt="" coords="23,71,286,127"/>
+<area shape="rect" id="node4" href="$classQuantConnect_1_1ToolBox_1_1RandomDataGenerator_1_1RandomDataGenerator.html#ada63eccf46a461c8a094c51c75eb0a28" title="Starts data generation" alt="" coords="5,152,304,193"/>
+</map>

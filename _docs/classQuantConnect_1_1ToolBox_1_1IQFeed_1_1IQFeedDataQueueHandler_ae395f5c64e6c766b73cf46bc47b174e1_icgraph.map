@@ -1,0 +1,4 @@
+<map id="QuantConnect.ToolBox.IQFeed.IQFeedDataQueueHandler.LookupSymbols" name="QuantConnect.ToolBox.IQFeed.IQFeedDataQueueHandler.LookupSymbols">
+<area shape="rect" id="node1" title="Method returns a collection of Symbols that are available at the data source." alt="" coords="349,5,645,47"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1ToolBox_1_1IQFeed_1_1IQFeedDataQueueHandler.html#a74e32f584973e86e25c4d9258a2c0a40" title="Method returns a collection of Symbols that are available at the data source." alt="" coords="5,5,301,47"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="QuantConnect.Data.DynamicData.HasProperty" name="QuantConnect.Data.DynamicData.HasProperty">
+<area shape="rect" id="node1" title="Gets whether or not this dynamic data instance has a property with the specified name...." alt="" coords="339,39,549,80"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Data_1_1Consolidators_1_1DynamicDataConsolidator.html#a141340c9b8028dbeb3449435b231d2b4" title="Aggregates the new &#39;data&#39; into the &#39;workingBar&#39;. The &#39;workingBar&#39; will be null following the event fi..." alt="" coords="5,5,291,47"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Python_1_1PythonData.html#ae0db98228fe913a9d157b0bb2a943374" title="Helper method to determine if the current instance is of the provided type" alt="" coords="42,71,254,112"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="QuantConnect.Indicators.Minimum.Reset" name="QuantConnect.Indicators.Minimum.Reset">
+<area shape="rect" id="node1" title="Resets this indicator to its initial state" alt="" coords="240,5,427,47"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Indicators_1_1WilliamsPercentR.html#a098d0aae10836dbfc7cdf0b36ebb45fe" title="Resets this indicator and both sub&#45;indicators (Max and Min)" alt="" coords="5,5,192,47"/>
+</map>

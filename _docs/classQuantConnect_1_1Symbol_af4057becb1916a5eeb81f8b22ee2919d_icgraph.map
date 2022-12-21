@@ -1,0 +1,6 @@
+<map id="QuantConnect.Symbol.GetHashCode" name="QuantConnect.Symbol.GetHashCode">
+<area shape="rect" id="node1" title="Serves as a hash function for a particular type." alt="" coords="620,50,880,77"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Data_1_1Channel.html#a6faa3053f98f54ca8f5463c30f469644" title="Serves as the default hash function." alt="" coords="355,5,566,47"/>
+<area shape="rect" id="node3" href="$structQuantConnect_1_1Securities_1_1Option_1_1StrategyMatcher_1_1OptionPosition.html#ab9562fdc8ede99d4bee0d6c29a9bccf7" title="Returns the hash code for this instance." alt="" coords="349,71,572,127"/>
+<area shape="rect" id="node4" href="$structQuantConnect_1_1Securities_1_1Option_1_1StrategyMatcher_1_1OptionStrategyLegDefinitionMatch.html#a80257aaf0ffd54f87299a51930082d3e" title="Returns the hash code for this instance." alt="" coords="5,71,301,127"/>
+</map>

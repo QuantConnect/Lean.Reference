@@ -1,0 +1,4 @@
+<map id="QuantConnect.Securities.SecurityPortfolioManager.AddUnsettledCashAmount" name="QuantConnect.Securities.SecurityPortfolioManager.AddUnsettledCashAmount">
+<area shape="rect" id="node1" title="Adds an item to the list of unsettled cash amounts" alt="" coords="320,5,535,61"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Securities_1_1DelayedSettlementModel.html#a5800114942c1083b74ba92bf8324f5d7" title="Applies cash settlement rules" alt="" coords="5,13,272,54"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="QuantConnect.Configuration.Config.GetDouble" name="QuantConnect.Configuration.Config.GetDouble">
+<area shape="rect" id="node1" title="Get the double value of a config string." alt="" coords="320,5,529,47"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Lean_1_1Engine_1_1AlgorithmManager.html#ae19e9e4fecad2642c26aaf1ed3d9635f" title="Initializes a new instance of the AlgorithmManager class" alt="" coords="5,5,272,47"/>
+</map>

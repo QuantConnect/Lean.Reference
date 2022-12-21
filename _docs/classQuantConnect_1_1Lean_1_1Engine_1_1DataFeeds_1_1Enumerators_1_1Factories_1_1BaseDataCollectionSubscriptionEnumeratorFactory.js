@@ -1,0 +1,4 @@
+var classQuantConnect_1_1Lean_1_1Engine_1_1DataFeeds_1_1Enumerators_1_1Factories_1_1BaseDataCollectionSubscriptionEnumeratorFactory =
+[
+    [ "CreateEnumerator", "classQuantConnect_1_1Lean_1_1Engine_1_1DataFeeds_1_1Enumerators_1_1Factories_1_1BaseDataCollectionSubscriptionEnumeratorFactory.html#aea4833b465fe3e59cfe765cb62c62317", null ]
+];

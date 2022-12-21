@@ -1,0 +1,6 @@
+<map id="QuantConnect.Brokerages.BrokerageMultiWebSocketSubscriptionManager" name="QuantConnect.Brokerages.BrokerageMultiWebSocketSubscriptionManager">
+<area shape="rect" id="node1" title="Handles brokerage data subscriptions with multiple websocket connections, with optional symbol weight..." alt="" coords="5,259,277,315"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Data_1_1EventBasedDataQueueHandlerSubscriptionManager.html" title="Overrides DataQueueHandlerSubscriptionManager methods using events" alt="" coords="105,169,327,211"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Data_1_1DataQueueHandlerSubscriptionManager.html" title="Count number of subscribers for each channel (Symbol, Socket) pair" alt="" coords="104,80,331,121"/>
+<area shape="rect" id="node4" title=" " alt="" coords="92,5,191,32"/>
+</map>

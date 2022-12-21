@@ -1,0 +1,4 @@
+<map id="QuantConnect.Data.Auxiliary.CorporateFactorRow.CorporateFactorRow" name="QuantConnect.Data.Auxiliary.CorporateFactorRow.CorporateFactorRow">
+<area shape="rect" id="node1" title="Initializes a new instance of the CorporateFactorRow class" alt="" coords="267,5,553,47"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Data_1_1Auxiliary_1_1CorporateFactorRow.html#a192755fd93088aa5714655082bda1420" title="Applies the split to this factor file row. This split date must be on or before the factor file row d..." alt="" coords="5,5,219,47"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="QuantConnect.Securities.IPriceVariationModel.GetMinimumPriceVariation" name="QuantConnect.Securities.IPriceVariationModel.GetMinimumPriceVariation">
+<area shape="rect" id="node1" title="Get the minimum price variation from a security" alt="" coords="352,5,597,61"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Lean_1_1Engine_1_1TransactionHandlers_1_1BrokerageTransactionHandler.html#aa9654ca4bfbb86c2d80bc0b9c962c242" title="Rounds the order prices to its security minimum price variation." alt="" coords="5,5,304,61"/>
+</map>

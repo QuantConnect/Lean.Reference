@@ -1,0 +1,6 @@
+<map id="QuantConnect.Algorithm.Framework.Risk.CompositeRiskManagementModel" name="QuantConnect.Algorithm.Framework.Risk.CompositeRiskManagementModel">
+<area shape="rect" id="node1" title="Provides an implementation of IRiskManagementModel that combines multiple risk models into a single r..." alt="" coords="5,229,284,271"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Algorithm_1_1Framework_1_1Risk_1_1RiskManagementModel.html" title="Provides a base class for risk management models" alt="" coords="57,155,233,181"/>
+<area shape="rect" id="node3" href="$interfaceQuantConnect_1_1Algorithm_1_1Framework_1_1Risk_1_1IRiskManagementModel.html" title="Algorithm framework model that manages an algorithm&#39;s risk/downside" alt="" coords="55,80,235,107"/>
+<area shape="rect" id="node4" href="$interfaceQuantConnect_1_1Algorithm_1_1Framework_1_1INotifiedSecurityChanges.html" title="Types implementing this interface will be called when the algorithm&#39;s set of securities changes" alt="" coords="51,5,238,32"/>
+</map>

@@ -1,0 +1,8 @@
+<map id="QuantConnect.Lean.Engine.Results.IResultHandler.RuntimeError" name="QuantConnect.Lean.Engine.Results.IResultHandler.RuntimeError">
+<area shape="rect" id="node1" title="Send a runtime error message back to the browser highlighted with in red" alt="" coords="959,93,1217,134"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Lean_1_1Engine_1_1RealTime_1_1ScheduledEventFactory.html#a2cb626793d1a0a1ca03f3c2dab340865" title="Creates a new ScheduledEvent that will fire before market close by the specified time" alt="" coords="659,5,900,61"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Lean_1_1Engine_1_1RealTime_1_1ScheduledEventFactory.html#a2a548ebf5457bc6d9ae25dd28f2a3dcd" title="Creates a new ScheduledEvent that will fire before market close by the specified time" alt="" coords="659,85,900,141"/>
+<area shape="rect" id="node4" href="$classQuantConnect_1_1Lean_1_1Engine_1_1DataFeeds_1_1Enumerators_1_1SubscriptionFilterEnumerator.html#a489162658ae5cb3ea3b12e66b104a3f2" title="Convenience method to wrap the enumerator and attach the data filter event to log and alery users of ..." alt="" coords="648,165,911,221"/>
+<area shape="rect" id="node5" href="$classQuantConnect_1_1Lean_1_1Engine_1_1DataFeeds_1_1FileSystemDataFeed.html#a20c2620568ee71bc174cf83f0fb45ac1" title="Configure the enumerator with aggregation/fill&#45;forward/filter behaviors. Returns new instance if re&#45;c..." alt="" coords="305,165,600,221"/>
+<area shape="rect" id="node6" href="$classQuantConnect_1_1Lean_1_1Engine_1_1DataFeeds_1_1FileSystemDataFeed.html#a8b10a0ccb5a8884f80c527cf25c992f5" title="If required will add a new enumerator for the underlying symbol" alt="" coords="5,165,257,221"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="QuantConnect.Data.BaseData.UpdateBid" name="QuantConnect.Data.BaseData.UpdateBid">
+<area shape="rect" id="node1" title="Updates this base data with the new quote bid information" alt="" coords="5,5,225,47"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Data_1_1BaseData.html#ad70444e1a8d3813a14e9d757f54a8d10" title="Update routine to build a bar/tick from a data update." alt="" coords="273,5,493,47"/>
+</map>

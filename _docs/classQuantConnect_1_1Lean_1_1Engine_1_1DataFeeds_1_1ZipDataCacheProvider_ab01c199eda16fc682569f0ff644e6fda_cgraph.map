@@ -1,0 +1,7 @@
+<map id="QuantConnect.Lean.Engine.DataFeeds.ZipDataCacheProvider.Store" name="QuantConnect.Lean.Engine.DataFeeds.ZipDataCacheProvider.Store">
+<area shape="rect" id="node1" title="Store the data in the cache." alt="" coords="5,26,284,67"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Logging_1_1Log.html#af0e7955911bc7664b37661b2a303a9e3" title="Log error" alt="" coords="591,30,791,71"/>
+<area shape="rect" id="node4" href="$classQuantConnect_1_1Util_1_1LeanData.html#aa0422b9219f3a9b439f75df1c071142d" title="Helper to separate filename and entry from a given key for DataProviders" alt="" coords="332,26,543,67"/>
+<area shape="rect" id="node5" href="$classQuantConnect_1_1Compression.html#a160f19bcfee9ed0e336e712f523c63b3" title="Append the zip data to the file&#45;entry specified." alt="" coords="334,91,541,133"/>
+<area shape="rect" id="node3" href="$interfaceQuantConnect_1_1Logging_1_1ILogHandler.html#a35373a0c5d76031fa5ccf5dc39e5c25d" title="Write error message to log" alt="" coords="839,30,1039,71"/>
+</map>

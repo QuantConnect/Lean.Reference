@@ -1,0 +1,5 @@
+<map id="QuantConnect.Python.FeeModelPythonWrapper" name="QuantConnect.Python.FeeModelPythonWrapper">
+<area shape="rect" id="node1" title="Provides an order fee model that wraps a PyObject object that represents a model that simulates order..." alt="" coords="5,155,236,196"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Orders_1_1Fees_1_1FeeModel.html" title="Base class for any order fee model" alt="" coords="78,80,163,107"/>
+<area shape="rect" id="node3" href="$interfaceQuantConnect_1_1Orders_1_1Fees_1_1IFeeModel.html" title="Represents a model the simulates order fees" alt="" coords="76,5,165,32"/>
+</map>

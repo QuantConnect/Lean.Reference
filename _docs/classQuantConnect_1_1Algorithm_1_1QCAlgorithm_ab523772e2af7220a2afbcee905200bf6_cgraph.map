@@ -1,0 +1,4 @@
+<map id="QuantConnect.Algorithm.QCAlgorithm.TDD" name="QuantConnect.Algorithm.QCAlgorithm.TDD">
+<area shape="rect" id="node1" title="Creates a new TargetDownsideDeviation indicator. The target downside deviation is defined as the root..." alt="" coords="5,13,307,39"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Algorithm_1_1QCAlgorithm.html#a46d89a30b7e0513cf7a4ac77f3ca3fe5" title="Creates a new name for an indicator created with the convenience functions (SMA, EMA,..." alt="" coords="355,5,628,47"/>
+</map>

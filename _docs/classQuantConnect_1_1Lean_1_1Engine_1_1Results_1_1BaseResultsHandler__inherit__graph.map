@@ -1,0 +1,6 @@
+<map id="QuantConnect.Lean.Engine.Results.BaseResultsHandler" name="QuantConnect.Lean.Engine.Results.BaseResultsHandler">
+<area shape="rect" id="node1" title="Provides base functionality to the implementations of IResultHandler" alt="" coords="5,39,211,80"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Lean_1_1Engine_1_1Results_1_1BacktestingResultHandler.html" title="Backtesting result handler passes messages back from the Lean to the User." alt="" coords="259,5,501,47"/>
+<area shape="rect" id="node4" href="$classQuantConnect_1_1Lean_1_1Engine_1_1Results_1_1LiveTradingResultHandler.html" title="Live trading result handler implementation passes the messages to the QC live trading interface." alt="" coords="260,71,500,112"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Lean_1_1Engine_1_1Results_1_1RegressionResultHandler.html" title="Provides a wrapper over the BacktestingResultHandler that logs all order events to a separate file" alt="" coords="549,5,788,47"/>
+</map>

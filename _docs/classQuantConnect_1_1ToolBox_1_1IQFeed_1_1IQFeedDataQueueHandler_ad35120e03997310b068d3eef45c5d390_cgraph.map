@@ -1,0 +1,9 @@
+<map id="QuantConnect.ToolBox.IQFeed.IQFeedDataQueueHandler.Subscribe" name="QuantConnect.ToolBox.IQFeed.IQFeedDataQueueHandler.Subscribe">
+<area shape="rect" id="node1" title="Adds the specified symbols to the subscription: new IQLevel1WatchItem(&quot;IBM&quot;, true)" alt="" coords="5,116,263,157"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Logging_1_1Log.html#af0e7955911bc7664b37661b2a303a9e3" title="Log error" alt="" coords="338,5,538,47"/>
+<area shape="rect" id="node4" href="$classQuantConnect_1_1ToolBox_1_1IQFeed_1_1IQFeedDataQueueUniverseProvider.html#ab20b23059a1685999062ba1d81135233" title="Converts a Lean symbol instance to IQFeed ticker" alt="" coords="311,71,565,127"/>
+<area shape="rect" id="node5" href="$classQuantConnect_1_1ToolBox_1_1IQFeed_1_1IQLevel1Client.html#ada63286e2ab284423d75f0869cf51a98" title="Add this symbol to our subscription list." alt="" coords="327,152,549,193"/>
+<area shape="rect" id="node6" href="$classQuantConnect_1_1Logging_1_1Log.html#a4e55477fbc790846b74550a57198cea9" title="Log trace" alt="" coords="338,217,538,259"/>
+<area shape="rect" id="node3" href="$interfaceQuantConnect_1_1Logging_1_1ILogHandler.html#a35373a0c5d76031fa5ccf5dc39e5c25d" title="Write error message to log" alt="" coords="613,5,813,47"/>
+<area shape="rect" id="node7" href="$interfaceQuantConnect_1_1Logging_1_1ILogHandler.html#a3fb71a33ac66129240b63f12b6fcda3b" title="Write debug message to log" alt="" coords="613,217,813,259"/>
+</map>

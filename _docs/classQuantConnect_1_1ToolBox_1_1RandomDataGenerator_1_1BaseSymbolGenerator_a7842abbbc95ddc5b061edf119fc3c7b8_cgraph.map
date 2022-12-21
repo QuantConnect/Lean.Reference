@@ -1,0 +1,6 @@
+<map id="QuantConnect.ToolBox.RandomDataGenerator.BaseSymbolGenerator.BaseSymbolGenerator" name="QuantConnect.ToolBox.RandomDataGenerator.BaseSymbolGenerator.BaseSymbolGenerator">
+<area shape="rect" id="node1" title="Base constructor implementation for Symbol generator" alt="" coords="5,45,276,101"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Securities_1_1MarketHoursDatabase.html#aa01232d91c17c556b18ea8f1f7fabcd0" title="Gets the instance of the MarketHoursDatabase class produced by reading in the market hours data found..." alt="" coords="325,5,559,61"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Securities_1_1SymbolPropertiesDatabase.html#aee26fb588793fd311c44eb8b2909cc33" title="Gets the instance of the SymbolPropertiesDatabase class produced by reading in the symbol properties ..." alt="" coords="324,85,560,141"/>
+<area shape="rect" id="node4" href="$classQuantConnect_1_1Securities_1_1SymbolPropertiesDatabase.html#a1658f93bf0dce7022bb7584e1a95cc7a" title="Initialize a new instance of SymbolPropertiesDatabase using the given file" alt="" coords="608,85,860,141"/>
+</map>

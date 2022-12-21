@@ -1,0 +1,7 @@
+var searchData=
+[
+  ['open_17346',['Open',['../interfaceQuantConnect_1_1Brokerages_1_1IWebSocket.html#af5cd8ed80142126b850931d49801c1b4',1,'QuantConnect.Brokerages.IWebSocket.Open()'],['../classQuantConnect_1_1Brokerages_1_1WebSocketClientWrapper.html#a40115db7156832c346a3de2db7abc48c',1,'QuantConnect.Brokerages.WebSocketClientWrapper.Open()']]],
+  ['optionnotification_17347',['OptionNotification',['../classQuantConnect_1_1Brokerages_1_1Brokerage.html#a7da96a9d350ffaa9598a35d5b0030124',1,'QuantConnect.Brokerages.Brokerage.OptionNotification()'],['../interfaceQuantConnect_1_1Interfaces_1_1IBrokerage.html#a1845b257224f9991e586ab373ecbff47',1,'QuantConnect.Interfaces.IBrokerage.OptionNotification()']]],
+  ['optionpositionassigned_17348',['OptionPositionAssigned',['../classQuantConnect_1_1Brokerages_1_1Brokerage.html#a172f6db35c94c2b7343cda7dc84c85b7',1,'QuantConnect.Brokerages.Brokerage.OptionPositionAssigned()'],['../interfaceQuantConnect_1_1Interfaces_1_1IBrokerage.html#aaa6e9520ab42e99cbccbfb20bf695cab',1,'QuantConnect.Interfaces.IBrokerage.OptionPositionAssigned()']]],
+  ['orderstatuschanged_17349',['OrderStatusChanged',['../classQuantConnect_1_1Brokerages_1_1Brokerage.html#af420940ed1946e7ee89001ad87cf22f5',1,'QuantConnect.Brokerages.Brokerage.OrderStatusChanged()'],['../interfaceQuantConnect_1_1Interfaces_1_1IBrokerage.html#a70ec8dd63a5a67a2a0aa3466a5faa423',1,'QuantConnect.Interfaces.IBrokerage.OrderStatusChanged()']]]
+];

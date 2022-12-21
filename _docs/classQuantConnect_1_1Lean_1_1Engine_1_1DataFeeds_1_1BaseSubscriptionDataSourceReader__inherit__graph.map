@@ -1,0 +1,8 @@
+<map id="QuantConnect.Lean.Engine.DataFeeds.BaseSubscriptionDataSourceReader" name="QuantConnect.Lean.Engine.DataFeeds.BaseSubscriptionDataSourceReader">
+<area shape="rect" id="node1" title="A base class for implementations of the ISubscriptionDataSourceReader" alt="" coords="280,85,519,141"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Lean_1_1Engine_1_1DataFeeds_1_1CollectionSubscriptionDataSourceReader.html" title="Collection Subscription Factory takes a BaseDataCollection from BaseData factories and yields it one ..." alt="" coords="568,5,808,61"/>
+<area shape="rect" id="node4" href="$classQuantConnect_1_1Lean_1_1Engine_1_1DataFeeds_1_1IndexSubscriptionDataSourceReader.html" title="This ISubscriptionDataSourceReader implementation supports the FileFormat.Index and IndexedBaseData t..." alt="" coords="567,85,809,141"/>
+<area shape="rect" id="node5" href="$classQuantConnect_1_1Lean_1_1Engine_1_1DataFeeds_1_1TextSubscriptionDataSourceReader.html" title="Provides an implementations of ISubscriptionDataSourceReader that uses the BaseData...." alt="" coords="571,165,805,221"/>
+<area shape="rect" id="node2" href="$interfaceQuantConnect_1_1Lean_1_1Engine_1_1DataFeeds_1_1ISubscriptionDataSourceReader.html" title="Represents a type responsible for accepting an input SubscriptionDataSource and returning an enumerab..." alt="" coords="5,100,232,127"/>
+<area shape="rect" id="node6" href="$classQuantConnect_1_1Lean_1_1Engine_1_1DataFeeds_1_1BaseDataCollectionAggregatorReader.html" title="Data source reader that will aggregate data points into a base data collection" alt="" coords="857,165,1152,221"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="QuantConnect.Time.GetEndTimeForTradeBars" name="QuantConnect.Time.GetEndTimeForTradeBars">
+<area shape="rect" id="node1" title="Determines the end time at which the requested number of bars of the given will have elapsed...." alt="" coords="647,71,849,112"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Algorithm_1_1Framework_1_1Alphas_1_1Insight.html#a9b0d98e6ada41f28b42e52f36b7f9f44" title="Computes the insight closing time from the given generated time, resolution and bar count...." alt="" coords="326,5,589,47"/>
+<area shape="rect" id="node4" href="$classQuantConnect_1_1Algorithm_1_1Framework_1_1Alphas_1_1Insight.html#a5e139a3ea6818855684c98ab54eaa1e4" title="Computes the insight period from the given generated and close times" alt="" coords="326,71,589,112"/>
+<area shape="rect" id="node5" href="$classQuantConnect_1_1Algorithm_1_1Framework_1_1Alphas_1_1Analysis_1_1InsightAnalysisContext.html#a2f28e51cd6848dd76874942ff3928088" title="Initializes a new instance of the InsightAnalysisContext class" alt="" coords="316,137,599,193"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Algorithm_1_1Framework_1_1Alphas_1_1Insight.html#ac78ab1ab756a3e78a9ee46c5ed1752ff" title="computs the insight closing time from the given generated time and period" alt="" coords="5,5,268,47"/>
+</map>

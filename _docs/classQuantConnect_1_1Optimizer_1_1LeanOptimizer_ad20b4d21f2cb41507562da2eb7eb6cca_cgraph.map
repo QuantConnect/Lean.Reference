@@ -1,0 +1,4 @@
+<map id="QuantConnect.Optimizer.LeanOptimizer.GetCurrentEstimate" name="QuantConnect.Optimizer.LeanOptimizer.GetCurrentEstimate">
+<area shape="rect" id="node1" title="Returns the current optimization status and strategy estimates" alt="" coords="5,13,224,54"/>
+<area shape="rect" id="node2" href="$interfaceQuantConnect_1_1Optimizer_1_1Strategies_1_1IOptimizationStrategy.html#abeb252a544973ec602811693f11a79e9" title="Estimates amount of parameter sets that can be run" alt="" coords="272,5,551,61"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="QuantConnect.Data.Fundamental.StockBasedCompensationCashFlowStatement" name="QuantConnect.Data.Fundamental.StockBasedCompensationCashFlowStatement">
+<area shape="rect" id="node1" title="Value of stock issued during the period as a result of any share&#45;based compensation plan other than a..." alt="" coords="5,80,328,121"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Data_1_1Fundamental_1_1MultiPeriodField.html" title="Abstract base class for multi&#45;period fields" alt="" coords="103,5,230,32"/>
+</map>

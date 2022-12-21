@@ -1,0 +1,9 @@
+<map id="QuantConnect.Configuration.Config.MergeCommandLineArgumentsWithConfiguration" name="QuantConnect.Configuration.Config.MergeCommandLineArgumentsWithConfiguration">
+<area shape="rect" id="node1" title="Merge CLI arguments with configuration file + load custom config file via CLI arg" alt="" coords="5,31,279,87"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Configuration_1_1Config.html#af1a3c386f7c01ad9df460302abb7336d" title="Resets the config settings to their default values. Called in regression tests where multiple algorit..." alt="" coords="327,5,536,47"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Configuration_1_1Config.html#ac6bdf0964af21396c2db841ae9b7cc81" title="Set configuration file on&#45;fly" alt="" coords="327,71,536,112"/>
+<area shape="rect" id="node4" href="$classQuantConnect_1_1Logging_1_1Log.html#af0e7955911bc7664b37661b2a303a9e3" title="Log error" alt="" coords="584,37,784,79"/>
+<area shape="rect" id="node6" href="$classQuantConnect_1_1Logging_1_1Log.html#a4e55477fbc790846b74550a57198cea9" title="Log trace" alt="" coords="584,103,784,144"/>
+<area shape="rect" id="node5" href="$interfaceQuantConnect_1_1Logging_1_1ILogHandler.html#a35373a0c5d76031fa5ccf5dc39e5c25d" title="Write error message to log" alt="" coords="832,37,1032,79"/>
+<area shape="rect" id="node7" href="$interfaceQuantConnect_1_1Logging_1_1ILogHandler.html#a3fb71a33ac66129240b63f12b6fcda3b" title="Write debug message to log" alt="" coords="832,103,1032,144"/>
+</map>

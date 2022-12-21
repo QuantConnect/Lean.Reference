@@ -1,0 +1,5 @@
+<map id="QuantConnect.ToolBox.IQFeed.IQLevel1Client.Unsubscribe" name="QuantConnect.ToolBox.IQFeed.IQLevel1Client.Unsubscribe">
+<area shape="rect" id="node1" title="Remove this symbol from our subscriptions." alt="" coords="328,50,551,91"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1ToolBox_1_1IQFeed_1_1IQFeedDataQueueUniverseProvider_1_1SymbolFundamentalData.html#a122633be274da8ca3a684b72fd5ca447" title="Method returns two fields of the fundamental data that we need: expiration date (tuple field 1),..." alt="" coords="15,5,270,61"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1ToolBox_1_1IQFeed_1_1IQFeedDataQueueHandler.html#aa937cf9529e0444fe1511201814c102e" title="Removes the specified symbols to the subscription" alt="" coords="5,86,280,127"/>
+</map>

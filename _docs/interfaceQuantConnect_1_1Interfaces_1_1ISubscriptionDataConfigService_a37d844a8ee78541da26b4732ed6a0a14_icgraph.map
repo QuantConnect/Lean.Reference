@@ -1,0 +1,12 @@
+<map id="QuantConnect.Interfaces.ISubscriptionDataConfigService.Add" name="QuantConnect.Interfaces.ISubscriptionDataConfigService.Add">
+<area shape="rect" id="node1" title="Creates and adds a list of SubscriptionDataConfig for a given symbol and configuration...." alt="" coords="664,197,919,239"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Data_1_1SubscriptionManager.html#a4139b41b22c5b7168d6e7542d007dac5" title="Add Market Data Required &#45; generic data typing support as long as Type implements BaseData." alt="" coords="355,8,588,49"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Algorithm_1_1QCAlgorithm.html#a4fa5ed76877c0a7738c7ea8fb9f38ded" title="Creates and adds a new single Option contract to the algorithm" alt="" coords="335,73,608,115"/>
+<area shape="rect" id="node6" href="$classQuantConnect_1_1Algorithm_1_1QCAlgorithm.html#a514fd5e3fd90031297a8954419ea9c3f" title="Set a required SecurityType&#45;symbol and resolution for algorithm" alt="" coords="5,136,279,177"/>
+<area shape="rect" id="node7" href="$classQuantConnect_1_1Algorithm_1_1Framework_1_1Selection_1_1FutureUniverseSelectionModel.html#ad26ddadc8b4076ef108246119138ab53" title="Creates the canonical Future chain security for a given symbol" alt="" coords="327,190,616,246"/>
+<area shape="rect" id="node8" href="$classQuantConnect_1_1Extensions.html#a3136540dfa1d7ca50c7d3e95ca5da928" title="Creates a OptionChainUniverse for a given symbol" alt="" coords="375,271,568,312"/>
+<area shape="rect" id="node9" href="$classQuantConnect_1_1Securities_1_1Cash.html#a8af2f228ffa12236fec72d5458a031fc" title="Ensures that we have a data feed to convert this currency into the base currency. This will add a Sub..." alt="" coords="360,336,583,377"/>
+<area shape="rect" id="node10" href="$classQuantConnect_1_1Data_1_1UniverseSelection_1_1Universe.html#a74ac39846d09cd3952352afd1fa325a3" title="Gets the subscription requests to be added for the specified security" alt="" coords="346,402,597,458"/>
+<area shape="rect" id="node4" href="$classQuantConnect_1_1Algorithm_1_1QCAlgorithm.html#a67794a3732b2f686e5e88f68288abb7b" title="Adds a future option contract to the algorithm." alt="" coords="5,5,279,47"/>
+<area shape="rect" id="node5" href="$classQuantConnect_1_1Algorithm_1_1QCAlgorithm.html#a1f5b1192dee39eadffb9b599f375b6ae" title="Adds an index option contract to the algorithm." alt="" coords="5,71,279,112"/>
+</map>

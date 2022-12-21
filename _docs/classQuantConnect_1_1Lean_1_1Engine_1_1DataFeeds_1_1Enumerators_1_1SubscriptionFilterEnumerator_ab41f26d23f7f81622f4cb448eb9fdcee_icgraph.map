@@ -1,0 +1,6 @@
+<map id="QuantConnect.Lean.Engine.DataFeeds.Enumerators.SubscriptionFilterEnumerator.SubscriptionFilterEnumerator" name="QuantConnect.Lean.Engine.DataFeeds.Enumerators.SubscriptionFilterEnumerator.SubscriptionFilterEnumerator">
+<area shape="rect" id="node1" title="Initializes a new instance of the SubscriptionFilterEnumerator class" alt="" coords="959,5,1281,61"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Lean_1_1Engine_1_1DataFeeds_1_1Enumerators_1_1SubscriptionFilterEnumerator.html#a489162658ae5cb3ea3b12e66b104a3f2" title="Convenience method to wrap the enumerator and attach the data filter event to log and alery users of ..." alt="" coords="648,5,911,61"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Lean_1_1Engine_1_1DataFeeds_1_1FileSystemDataFeed.html#a20c2620568ee71bc174cf83f0fb45ac1" title="Configure the enumerator with aggregation/fill&#45;forward/filter behaviors. Returns new instance if re&#45;c..." alt="" coords="305,5,600,61"/>
+<area shape="rect" id="node4" href="$classQuantConnect_1_1Lean_1_1Engine_1_1DataFeeds_1_1FileSystemDataFeed.html#a8b10a0ccb5a8884f80c527cf25c992f5" title="If required will add a new enumerator for the underlying symbol" alt="" coords="5,5,257,61"/>
+</map>

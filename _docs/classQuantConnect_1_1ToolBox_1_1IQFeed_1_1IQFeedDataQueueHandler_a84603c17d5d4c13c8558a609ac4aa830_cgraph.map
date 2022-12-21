@@ -1,0 +1,5 @@
+<map id="QuantConnect.ToolBox.IQFeed.IQFeedDataQueueHandler.IQFeedDataQueueHandler" name="QuantConnect.ToolBox.IQFeed.IQFeedDataQueueHandler.IQFeedDataQueueHandler">
+<area shape="rect" id="node1" title="IQFeedDataQueueHandler is an implementation of IDataQueueHandler:" alt="" coords="5,31,276,87"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1ToolBox_1_1IQFeed_1_1IQFeedDataQueueHandler.html#ab1b68156d16798fba6a1c44dacbb7ca4" title="Subscribe to the specified configuration" alt="" coords="333,5,590,47"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1ToolBox_1_1IQFeed_1_1IQFeedDataQueueHandler.html#a22ee88f6beac0c741a501bd31bc346d3" title="Removes the specified configuration" alt="" coords="324,71,599,112"/>
+</map>

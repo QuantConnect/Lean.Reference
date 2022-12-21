@@ -1,0 +1,4 @@
+<map id="QuantConnect.Securities.Positions.PositionGroupBuyingPowerModel.GetReservedBuyingPowerForPositionGroup" name="QuantConnect.Securities.Positions.PositionGroupBuyingPowerModel.GetReservedBuyingPowerForPositionGroup">
+<area shape="rect" id="node1" title="Computes the amount of buying power reserved by the provided position group" alt="" coords="5,5,300,76"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Securities_1_1Positions_1_1PositionGroupBuyingPowerModel.html#aa57ef304761075bc00ed73b068d9e131" title="Gets the margin currently allocated to the specified holding" alt="" coords="348,13,607,69"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="QuantConnect.Lean.Engine.DataFeeds.Enumerators.SplitEventProvider.GetEvents" name="QuantConnect.Lean.Engine.DataFeeds.Enumerators.SplitEventProvider.GetEvents">
+<area shape="rect" id="node1" title="Check for new splits" alt="" coords="5,35,253,91"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Data_1_1Auxiliary_1_1MapFile.html#a0450eb9556a318d62727d594e8570e25" title="Determines if there&#39;s data for the requested date" alt="" coords="313,5,526,47"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Data_1_1Auxiliary_1_1CorporateFactorProvider.html#af2bc346817f1180ff7a80a4c17d2f279" title="Returns true if the specified date is the last trading day before a split event is to be fired" alt="" coords="301,71,537,127"/>
+</map>

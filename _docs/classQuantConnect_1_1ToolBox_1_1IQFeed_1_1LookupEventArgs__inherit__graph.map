@@ -1,0 +1,15 @@
+<map id="QuantConnect.ToolBox.IQFeed.LookupEventArgs" name="QuantConnect.ToolBox.IQFeed.LookupEventArgs">
+<area shape="rect" id="node1" title=" " alt="" coords="199,332,421,373"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1ToolBox_1_1IQFeed_1_1LookupDayWeekMonthEventArgs.html" title=" " alt="" coords="479,5,716,47"/>
+<area shape="rect" id="node4" href="$classQuantConnect_1_1ToolBox_1_1IQFeed_1_1LookupIntervalEventArgs.html" title=" " alt="" coords="486,71,709,112"/>
+<area shape="rect" id="node5" href="$classQuantConnect_1_1ToolBox_1_1IQFeed_1_1LookupNaicSymbolEventArgs.html" title=" " alt="" coords="486,136,709,177"/>
+<area shape="rect" id="node6" href="$classQuantConnect_1_1ToolBox_1_1IQFeed_1_1LookupSicSymbolEventArgs.html" title=" " alt="" coords="486,201,709,243"/>
+<area shape="rect" id="node7" href="$classQuantConnect_1_1ToolBox_1_1IQFeed_1_1LookupSymbolEventArgs.html" title=" " alt="" coords="486,267,709,308"/>
+<area shape="rect" id="node8" href="$classQuantConnect_1_1ToolBox_1_1IQFeed_1_1LookupTableMarketCenterEventArgs.html" title=" " alt="" coords="469,332,725,373"/>
+<area shape="rect" id="node9" href="$classQuantConnect_1_1ToolBox_1_1IQFeed_1_1LookupTableMarketEventArgs.html" title=" " alt="" coords="486,397,709,439"/>
+<area shape="rect" id="node10" href="$classQuantConnect_1_1ToolBox_1_1IQFeed_1_1LookupTableNaicEventArgs.html" title=" " alt="" coords="486,463,709,504"/>
+<area shape="rect" id="node11" href="$classQuantConnect_1_1ToolBox_1_1IQFeed_1_1LookupTableSecurityTypeEventArgs.html" title=" " alt="" coords="472,528,723,569"/>
+<area shape="rect" id="node12" href="$classQuantConnect_1_1ToolBox_1_1IQFeed_1_1LookupTableSicEventArgs.html" title=" " alt="" coords="486,593,709,635"/>
+<area shape="rect" id="node13" href="$classQuantConnect_1_1ToolBox_1_1IQFeed_1_1LookupTickEventArgs.html" title=" " alt="" coords="486,659,709,700"/>
+<area shape="rect" id="node2" title=" " alt="" coords="5,339,151,366"/>
+</map>

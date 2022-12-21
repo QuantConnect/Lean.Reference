@@ -1,0 +1,4 @@
+<map id="QuantConnect.Data.Consolidators.TradeBarConsolidator" name="QuantConnect.Data.Consolidators.TradeBarConsolidator">
+<area shape="rect" id="node1" title="A data consolidator that can make bigger bars from smaller ones over a given time span or a count of ..." alt="" coords="5,95,252,136"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Data_1_1Consolidators_1_1TradeBarConsolidatorBase.html" title=" " alt="" coords="32,5,225,47"/>
+</map>

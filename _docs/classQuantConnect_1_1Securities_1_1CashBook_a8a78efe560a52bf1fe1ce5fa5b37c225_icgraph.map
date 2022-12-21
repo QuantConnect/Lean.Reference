@@ -1,0 +1,4 @@
+<map id="QuantConnect.Securities.CashBook.TryGetValue" name="QuantConnect.Securities.CashBook.TryGetValue">
+<area shape="rect" id="node1" title="Try to get the value." alt="" coords="296,5,483,47"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Securities_1_1SecurityPortfolioManager.html#a55b863e75dab8682d97486256fe303e0" title="Set the cash for the specified symbol" alt="" coords="5,5,248,47"/>
+</map>

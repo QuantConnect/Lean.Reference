@@ -1,0 +1,5 @@
+<map id="QuantConnect.Brokerages.BitfinexBrokerageModel.CanSubmitOrder" name="QuantConnect.Brokerages.BitfinexBrokerageModel.CanSubmitOrder">
+<area shape="rect" id="node1" title="Returns true if the brokerage could accept this order. This takes into account order type,..." alt="" coords="5,43,295,84"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1StringExtensions.html#ac811f94d814b299daefecb076e0a0bf0" title="Non&#45;extension method alias for FormattableString.Invariant This supports the" alt="" coords="343,5,573,47"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Brokerages_1_1DefaultBrokerageModel.html#aab045cb269fc0ddda72e6c05c280c2d3" title="Checks if the order quantity is valid, it means, the order size is bigger than the minimum size allow..." alt="" coords="347,71,569,127"/>
+</map>

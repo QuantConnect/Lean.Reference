@@ -1,0 +1,4 @@
+<map id="QuantConnect.Lean.Engine.Results.RegressionResultHandler.SaveResults" name="QuantConnect.Lean.Engine.Results.RegressionResultHandler.SaveResults">
+<area shape="rect" id="node1" title="Save the results to disk" alt="" coords="5,5,247,61"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Lean_1_1Engine_1_1Results_1_1BaseResultsHandler.html#a29c14fd3525bf7327191bcd890304660" title="Gets the full path for a results file" alt="" coords="295,5,525,61"/>
+</map>

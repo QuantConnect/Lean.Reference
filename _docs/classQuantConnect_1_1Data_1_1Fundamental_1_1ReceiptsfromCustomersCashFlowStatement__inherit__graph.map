@@ -1,0 +1,4 @@
+<map id="QuantConnect.Data.Fundamental.ReceiptsfromCustomersCashFlowStatement" name="QuantConnect.Data.Fundamental.ReceiptsfromCustomersCashFlowStatement">
+<area shape="rect" id="node1" title="Payment received from customers in the Direct Cash Flow." alt="" coords="5,80,316,121"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Data_1_1Fundamental_1_1MultiPeriodField.html" title="Abstract base class for multi&#45;period fields" alt="" coords="97,5,224,32"/>
+</map>

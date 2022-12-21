@@ -1,0 +1,8 @@
+<map id="QuantConnect.Securities.UniverseManager.TryGetValue" name="QuantConnect.Securities.UniverseManager.TryGetValue">
+<area shape="rect" id="node1" title="Gets the value associated with the specified key." alt="" coords="648,135,867,176"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Algorithm_1_1QCAlgorithm.html#a4fa5ed76877c0a7738c7ea8fb9f38ded" title="Creates and adds a new single Option contract to the algorithm" alt="" coords="327,73,600,115"/>
+<area shape="rect" id="node5" href="$classQuantConnect_1_1Algorithm_1_1QCAlgorithm.html#a514fd5e3fd90031297a8954419ea9c3f" title="Set a required SecurityType&#45;symbol and resolution for algorithm" alt="" coords="5,136,279,177"/>
+<area shape="rect" id="node6" href="$classQuantConnect_1_1Algorithm_1_1QCAlgorithm.html#ad83209d9da7b1bf084694f3f9092f0ad" title="Adds a new universe that creates options of the security by monitoring any changes in the Universe th..." alt="" coords="327,193,600,235"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Algorithm_1_1QCAlgorithm.html#a67794a3732b2f686e5e88f68288abb7b" title="Adds a future option contract to the algorithm." alt="" coords="5,5,279,47"/>
+<area shape="rect" id="node4" href="$classQuantConnect_1_1Algorithm_1_1QCAlgorithm.html#a1f5b1192dee39eadffb9b599f375b6ae" title="Adds an index option contract to the algorithm." alt="" coords="5,71,279,112"/>
+</map>

@@ -1,0 +1,8 @@
+<map id="QuantConnect.Securities.Option.StrategyMatcher.OptionStrategyLegPredicate.Create" name="QuantConnect.Securities.Option.StrategyMatcher.OptionStrategyLegPredicate.Create">
+<area shape="rect" id="node1" title="Creates a new OptionStrategyLegPredicate from the specified predicate expression" alt="" coords="572,125,795,181"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Securities_1_1Option_1_1StrategyMatcher_1_1OptionStrategyLegDefinition.html#a3ca73dcf45522a73a594f8a11147ae4d" title="Creates a new OptionStrategyLegDefinition matching the specified parameters" alt="" coords="301,125,524,181"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Securities_1_1Option_1_1StrategyMatcher_1_1OptionStrategyDefinition.html#a78a025add903caf1761edd70cad1c492" title="Factory function for creating a call leg definition" alt="" coords="18,5,241,61"/>
+<area shape="rect" id="node4" href="$classQuantConnect_1_1Securities_1_1Option_1_1StrategyMatcher_1_1OptionStrategyDefinition.html#a023ef481dcf3d7c2e304c21b24b4e44c" title="Factory function for creating a put leg definition" alt="" coords="18,85,241,141"/>
+<area shape="rect" id="node5" href="$classQuantConnect_1_1Securities_1_1Option_1_1StrategyMatcher_1_1OptionStrategyDefinition_1_1Builder.html#a0061f7fb999cdc5ccdc58887fb3b9ef4" title="Adds a call leg" alt="" coords="5,165,253,221"/>
+<area shape="rect" id="node6" href="$classQuantConnect_1_1Securities_1_1Option_1_1StrategyMatcher_1_1OptionStrategyDefinition_1_1Builder.html#a10c3529b06156994dcb736ef5fcfac41" title="Adds a put leg" alt="" coords="7,245,251,301"/>
+</map>

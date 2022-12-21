@@ -1,0 +1,7 @@
+<map id="QuantConnect.Algorithm.Framework.Alphas.InsightCollection.GetActiveInsights" name="QuantConnect.Algorithm.Framework.Alphas.InsightCollection.GetActiveInsights">
+<area shape="rect" id="node1" title="Gets the last generated active insight" alt="" coords="681,93,980,134"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Algorithm_1_1Framework_1_1Portfolio_1_1AccumulativeInsightPortfolioConstructionModel.html#add6a6270b91319ead31f7bf27cc5b123" title="Gets the target insights to calculate a portfolio target percent for" alt="" coords="340,5,609,61"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Algorithm_1_1Framework_1_1Portfolio_1_1PortfolioConstructionModel.html#a31dd8e94b6712caa957268183dbe9969" title="Gets the target insights to calculate a portfolio target percent for" alt="" coords="343,85,606,141"/>
+<area shape="rect" id="node5" href="$classQuantConnect_1_1Algorithm_1_1Framework_1_1Portfolio_1_1BlackLittermanOptimizationPortfolioConstructionModel.html#a3ccbbdc9c49bab59873310db659eaf0a" title="Gets the target insights to calculate a portfolio target percent for" alt="" coords="316,165,633,221"/>
+<area shape="rect" id="node4" href="$classQuantConnect_1_1Algorithm_1_1Framework_1_1Portfolio_1_1PortfolioConstructionModel.html#aa8b9e58e326811434356b8b918a38d89" title="Create portfolio targets from the specified insights" alt="" coords="5,85,268,141"/>
+</map>

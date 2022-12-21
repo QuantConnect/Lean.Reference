@@ -1,0 +1,6 @@
+var classQuantConnect_1_1Data_1_1Custom_1_1Intrinio_1_1IntrinioEconomicDataSources_1_1TradeWeightedUsDollarIndex =
+[
+    [ "Broad", "classQuantConnect_1_1Data_1_1Custom_1_1Intrinio_1_1IntrinioEconomicDataSources_1_1TradeWeightedUsDollarIndex.html#a9935fbd19756324685ddddbeaf647027", null ],
+    [ "MajorCurrencies", "classQuantConnect_1_1Data_1_1Custom_1_1Intrinio_1_1IntrinioEconomicDataSources_1_1TradeWeightedUsDollarIndex.html#a8cd4af5644963567a4aa17414aaf0cb3", null ],
+    [ "OtherImportantTradingPartners", "classQuantConnect_1_1Data_1_1Custom_1_1Intrinio_1_1IntrinioEconomicDataSources_1_1TradeWeightedUsDollarIndex.html#a25bbf75dff259a5852239425a3fee9d0", null ]
+];

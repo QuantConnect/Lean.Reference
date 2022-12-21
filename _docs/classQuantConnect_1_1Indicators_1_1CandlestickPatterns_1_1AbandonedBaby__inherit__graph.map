@@ -1,0 +1,5 @@
+<map id="QuantConnect.Indicators.CandlestickPatterns.AbandonedBaby" name="QuantConnect.Indicators.CandlestickPatterns.AbandonedBaby">
+<area shape="rect" id="node1" title="Abandoned Baby candlestick pattern" alt="" coords="5,169,267,211"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Indicators_1_1CandlestickPatterns_1_1CandlestickPattern.html" title="Abstract base class for a candlestick pattern indicator" alt="" coords="64,95,208,121"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Indicators_1_1WindowIndicator.html" title=" " alt="" coords="29,5,243,47"/>
+</map>

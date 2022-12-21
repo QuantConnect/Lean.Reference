@@ -1,0 +1,5 @@
+<map id="QuantConnect.Lean.Engine.HistoricalData.SynchronizingHistoryProvider.CreateSubscription" name="QuantConnect.Lean.Engine.HistoricalData.SynchronizingHistoryProvider.CreateSubscription">
+<area shape="rect" id="node1" title="Creates a subscription to process the history request" alt="" coords="324,43,581,99"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Lean_1_1Engine_1_1HistoricalData_1_1BrokerageHistoryProvider.html#a9cf173b48c88a0a8568f1bf9dbdd2573" title="Gets the history for the requested securities" alt="" coords="25,5,257,61"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1ToolBox_1_1Polygon_1_1PolygonDataQueueHandler.html#a7eebc6d5e6b81722fd34cf869eac34b1" title="Gets the history for the requested securities" alt="" coords="5,86,276,127"/>
+</map>
