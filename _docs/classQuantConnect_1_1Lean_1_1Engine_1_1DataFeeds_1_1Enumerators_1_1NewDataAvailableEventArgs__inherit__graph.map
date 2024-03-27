@@ -1,0 +1,4 @@
+<map id="QuantConnect.Lean.Engine.DataFeeds.Enumerators.NewDataAvailableEventArgs" name="QuantConnect.Lean.Engine.DataFeeds.Enumerators.NewDataAvailableEventArgs">
+<area shape="rect" id="node1" title="Event args for when a new data point is ready to be emitted" alt="" coords="5,80,308,136"/>
+<area shape="rect" id="node2" title=" " alt="" coords="113,5,201,32"/>
+</map>

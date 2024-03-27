@@ -1,0 +1,5 @@
+var classQuantConnect_1_1Algorithm_1_1Framework_1_1Portfolio_1_1SignalExports_1_1Collective2SignalExport_1_1Collective2Position =
+[
+    [ "C2Symbol", "classQuantConnect_1_1Algorithm_1_1Framework_1_1Portfolio_1_1SignalExports_1_1Collective2SignalExport_1_1Collective2Position.html#add836c48b6df87566321a41a28f08b89", null ],
+    [ "Quantity", "classQuantConnect_1_1Algorithm_1_1Framework_1_1Portfolio_1_1SignalExports_1_1Collective2SignalExport_1_1Collective2Position.html#abd9b5a741d432b60e1bc14cd89923a47", null ]
+];

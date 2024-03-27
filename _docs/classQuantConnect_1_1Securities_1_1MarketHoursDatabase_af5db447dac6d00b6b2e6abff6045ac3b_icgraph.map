@@ -1,0 +1,7 @@
+<map id="QuantConnect.Securities.MarketHoursDatabase.Reset" name="QuantConnect.Securities.MarketHoursDatabase.Reset">
+<area shape="rect" id="node1" title="Resets the market hours database, forcing a reload when reused. Called in tests where multiple algori..." alt="" coords="1331,13,1539,54"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Securities_1_1MarketHoursDatabase.html#adc61fecd8e1a8aa311cc60bc159220d1" title="Reload entries dictionary from MHDB file and merge them with previous custom ones" alt="" coords="1021,13,1283,54"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Lean_1_1Engine_1_1RealTime_1_1LiveTradingRealTimeHandler.html#ae4db5652de58d7c7a5f6e182cba561d7" title="Resets the market hours database, forcing a reload when reused. Called in tests where multiple algori..." alt="" coords="695,5,973,61"/>
+<area shape="rect" id="node4" href="$classQuantConnect_1_1Lean_1_1Engine_1_1RealTime_1_1LiveTradingRealTimeHandler.html#a51442cfa23877834a03e10bb21a7a5a9" title="Refresh the market hours for each security in the given date" alt="" coords="368,5,647,61"/>
+<area shape="rect" id="node5" href="$classQuantConnect_1_1Lean_1_1Engine_1_1RealTime_1_1LiveTradingRealTimeHandler.html#a1b3eae56614996b86125cbd7c28cbe42" title="Initializes the real time handler for the specified algorithm and job" alt="" coords="5,13,320,54"/>
+</map>

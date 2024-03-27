@@ -1,0 +1,4 @@
+<map id="QuantConnect.Orders.MarketOnCloseOrder.MarketOnCloseOrder" name="QuantConnect.Orders.MarketOnCloseOrder.MarketOnCloseOrder">
+<area shape="rect" id="node1" title="Intiializes a new instance of the MarketOnCloseOrder class." alt="" coords="264,5,515,47"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Orders_1_1MarketOnCloseOrder.html#a8d6c51b2c54ab42c99630558daf3bf15" title="Creates a deep&#45;copy clone of this order" alt="" coords="5,5,216,47"/>
+</map>

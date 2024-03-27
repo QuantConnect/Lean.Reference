@@ -1,0 +1,6 @@
+<map id="QuantConnect.Securities.SecurityPortfolioManager.HasSufficientBuyingPowerForOrder" name="QuantConnect.Securities.SecurityPortfolioManager.HasSufficientBuyingPowerForOrder">
+<area shape="rect" id="node1" title="Will determine if the algorithms portfolio has enough buying power to fill the given orders" alt="" coords="717,45,941,101"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Brokerages_1_1Backtesting_1_1BacktestingBrokerage.html#a6edb48357fd0f0e43cf45047e789b038" title="Scans all the outstanding orders and applies the algorithm model fills to generate the order events" alt="" coords="388,53,669,94"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Lean_1_1Engine_1_1TransactionHandlers_1_1BacktestingTransactionHandler.html#a1bae6462aec26517d0766f5f3cd74145" title="Processes asynchronous events on the transaction handler&#39;s thread" alt="" coords="5,5,340,61"/>
+<area shape="rect" id="node4" href="$classQuantConnect_1_1Lean_1_1Engine_1_1TransactionHandlers_1_1BacktestingTransactionHandler.html#a1ed7cbf05aa34f41fd3ba79655e3b1b2" title="Processes all synchronous events that must take place before the next time loop for the algorithm" alt="" coords="9,85,336,141"/>
+</map>

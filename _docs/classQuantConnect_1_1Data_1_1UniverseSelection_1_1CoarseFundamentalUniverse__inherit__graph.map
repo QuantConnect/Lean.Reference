@@ -1,0 +1,5 @@
+<map id="QuantConnect.Data.UniverseSelection.CoarseFundamentalUniverse" name="QuantConnect.Data.UniverseSelection.CoarseFundamentalUniverse">
+<area shape="rect" id="node1" title="Defines a universe that reads coarse us equity data" alt="" coords="5,155,280,196"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Data_1_1UniverseSelection_1_1Universe.html" title="Provides a base class for all universes to derive from." alt="" coords="103,80,183,107"/>
+<area shape="rect" id="node3" title=" " alt="" coords="93,5,192,32"/>
+</map>

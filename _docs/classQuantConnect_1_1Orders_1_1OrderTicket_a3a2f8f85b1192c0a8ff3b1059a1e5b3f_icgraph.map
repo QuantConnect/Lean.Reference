@@ -1,0 +1,9 @@
+<map id="QuantConnect.Orders.OrderTicket.Update" name="QuantConnect.Orders.OrderTicket.Update">
+<area shape="rect" id="node1" title="Submits an UpdateOrderRequest with the SecurityTransactionManager to update the ticket with data spec..." alt="" coords="292,169,493,211"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Orders_1_1OrderTicket.html#a2c8a10632d4ab037e51264b5e1cc5e2d" title="Submits an UpdateOrderRequest with the SecurityTransactionManager to update the ticker with limit pri..." alt="" coords="24,5,225,47"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Orders_1_1OrderTicket.html#af5d1e35f469798d439728b10b16429fd" title="Submits an UpdateOrderRequest with the SecurityTransactionManager to update the ticket with quantity ..." alt="" coords="24,71,225,112"/>
+<area shape="rect" id="node4" href="$classQuantConnect_1_1Orders_1_1OrderTicket.html#ab7edfaab2aa04cb93629333e6704c80d" title="Submits an UpdateOrderRequest with the SecurityTransactionManager to update the ticker with stop pric..." alt="" coords="24,136,225,177"/>
+<area shape="rect" id="node5" href="$classQuantConnect_1_1Orders_1_1OrderTicket.html#a988671bee6d2e59863df67d8d2209bb2" title="Submits an UpdateOrderRequest with the SecurityTransactionManager to update the ticker with stop trai..." alt="" coords="5,201,244,243"/>
+<area shape="rect" id="node6" href="$classQuantConnect_1_1Orders_1_1OrderTicket.html#a0436ac8776d085478cca30b58e989aca" title="Submits an UpdateOrderRequest with the SecurityTransactionManager to update the ticket with tag speci..." alt="" coords="24,267,225,308"/>
+<area shape="rect" id="node7" href="$classQuantConnect_1_1Orders_1_1OrderTicket.html#a0583b928582d24065bff40ac89f57e62" title="Submits an UpdateOrderRequest with the SecurityTransactionManager to update the ticker with trigger p..." alt="" coords="24,332,225,373"/>
+</map>

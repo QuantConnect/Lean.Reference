@@ -1,0 +1,4 @@
+<map id="QuantConnect.Symbol.HasCanonical" name="QuantConnect.Symbol.HasCanonical">
+<area shape="rect" id="node1" title="Determines whether the symbol has a canonical representation" alt="" coords="5,5,265,32"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Symbol.html#a1f3c25223fd9a7b753a4f84ece6469ab" title="Method returns true, if symbol is a derivative canonical symbol" alt="" coords="313,5,560,32"/>
+</map>

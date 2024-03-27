@@ -1,0 +1,8 @@
+<map id="QuantConnect.Data.Custom.IconicTypes.UnlinkedDataTradeBar" name="QuantConnect.Data.Custom.IconicTypes.UnlinkedDataTradeBar">
+<area shape="rect" id="node1" title="Data source that is unlinked (no mapping) and takes any ticker when calling AddData" alt="" coords="5,229,252,271"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Data_1_1Market_1_1TradeBar.html" title="TradeBar class for second and minute resolution data: An OHLC implementation of the QuantConnect Base..." alt="" coords="89,155,168,181"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Data_1_1BaseData.html" title="Abstract base data class of QuantConnect. It is intended to be extended to define generic user custom..." alt="" coords="25,80,110,107"/>
+<area shape="rect" id="node4" href="$interfaceQuantConnect_1_1Data_1_1IBaseData.html" title="Base Data Class: Type, Timestamp, Key – Base Features." alt="" coords="37,5,127,32"/>
+<area shape="rect" id="node5" href="$interfaceQuantConnect_1_1Data_1_1Market_1_1IBaseDataBar.html" title="Represents a type that is both a bar and base data" alt="" coords="135,80,245,107"/>
+<area shape="rect" id="node6" href="$interfaceQuantConnect_1_1Data_1_1Market_1_1IBar.html" title="Generic bar interface with Open, High, Low and Close." alt="" coords="166,5,214,32"/>
+</map>

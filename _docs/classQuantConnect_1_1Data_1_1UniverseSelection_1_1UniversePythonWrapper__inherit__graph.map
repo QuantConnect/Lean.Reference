@@ -1,0 +1,5 @@
+<map id="QuantConnect.Data.UniverseSelection.UniversePythonWrapper" name="QuantConnect.Data.UniverseSelection.UniversePythonWrapper">
+<area shape="rect" id="node1" title="Provides an implementation of Universe that wraps a PyObject object" alt="" coords="5,155,249,196"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Data_1_1UniverseSelection_1_1Universe.html" title="Provides a base class for all universes to derive from." alt="" coords="87,80,167,107"/>
+<area shape="rect" id="node3" title=" " alt="" coords="78,5,177,32"/>
+</map>

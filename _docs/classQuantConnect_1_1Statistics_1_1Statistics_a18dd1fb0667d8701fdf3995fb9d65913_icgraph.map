@@ -1,0 +1,5 @@
+<map id="QuantConnect.Statistics.Statistics.AnnualDownsideStandardDeviation" name="QuantConnect.Statistics.Statistics.AnnualDownsideStandardDeviation">
+<area shape="rect" id="node1" title="Annualized downside standard deviation" alt="" coords="249,43,503,99"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Statistics_1_1PortfolioStatistics.html#af38dcd6519a76dade550dc80e92d228f" title="Initializes a new instance of the PortfolioStatistics class" alt="" coords="5,5,201,61"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Statistics_1_1Statistics.html#abf0b4352ba9c1bfede7a4f9ccb99ce84" title="Sortino ratio with respect to risk free rate: measures excess of return per unit of downside risk." alt="" coords="12,86,195,127"/>
+</map>

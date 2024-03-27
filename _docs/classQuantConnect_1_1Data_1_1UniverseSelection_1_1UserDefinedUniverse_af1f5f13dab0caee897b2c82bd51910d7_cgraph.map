@@ -1,0 +1,4 @@
+<map id="QuantConnect.Data.UniverseSelection.UserDefinedUniverse.Add" name="QuantConnect.Data.UniverseSelection.UserDefinedUniverse.Add">
+<area shape="rect" id="node1" title="Adds the specified Symbol to this universe" alt="" coords="5,13,259,54"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Data_1_1UniverseSelection_1_1UserDefinedUniverse.html#a143d427b0db8ba8fec29f3612d72073a" title="Event invocator for the CollectionChanged event" alt="" coords="307,5,535,61"/>
+</map>

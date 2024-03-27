@@ -1,0 +1,4 @@
+<map id="QuantConnect.Algorithm.Framework.Portfolio.SignalExports.NumeraiSignalExport.ConvertTargetsToNumerai" name="QuantConnect.Algorithm.Framework.Portfolio.SignalExports.NumeraiSignalExport.ConvertTargetsToNumerai">
+<area shape="rect" id="node1" title="Verifies each holding&#39;s signal is between 0 and 1 (exclusive)" alt="" coords="5,5,276,61"/>
+<area shape="rect" id="node2" href="$interfaceQuantConnect_1_1Interfaces_1_1IAlgorithm.html#a7b8af1af90d91f0702ae39686c073dce" title="Send an error message for the algorithm" alt="" coords="324,13,511,54"/>
+</map>

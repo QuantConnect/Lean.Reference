@@ -1,0 +1,4 @@
+<map id="QuantConnect.Algorithm.QCAlgorithm.SetRiskFreeInterestRateModel" name="QuantConnect.Algorithm.QCAlgorithm.SetRiskFreeInterestRateModel">
+<area shape="rect" id="node1" title="Sets the risk free interest rate model to be used in the algorithm" alt="" coords="327,5,600,47"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Algorithm_1_1QCAlgorithm.html#a01ebef6e6fba212b01fe747b8a77499f" title="Sets the risk free interest rate model to be used in the algorithm" alt="" coords="5,5,279,47"/>
+</map>

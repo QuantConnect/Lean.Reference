@@ -1,0 +1,5 @@
+<map id="QuantConnect.Data.UniverseSelection.CoarseFundamentalDataProvider" name="QuantConnect.Data.UniverseSelection.CoarseFundamentalDataProvider">
+<area shape="rect" id="node1" title="Coarse base fundamental data provider" alt="" coords="5,155,252,211"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Data_1_1UniverseSelection_1_1BaseFundamentalDataProvider.html" title="Base fundamental data provider" alt="" coords="17,80,241,107"/>
+<area shape="rect" id="node3" href="$interfaceQuantConnect_1_1Data_1_1UniverseSelection_1_1IFundamentalDataProvider.html" title=" " alt="" coords="31,5,227,32"/>
+</map>

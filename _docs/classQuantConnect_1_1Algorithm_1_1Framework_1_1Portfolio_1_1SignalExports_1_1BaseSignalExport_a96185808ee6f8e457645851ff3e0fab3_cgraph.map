@@ -1,0 +1,4 @@
+<map id="QuantConnect.Algorithm.Framework.Portfolio.SignalExports.BaseSignalExport.Send" name="QuantConnect.Algorithm.Framework.Portfolio.SignalExports.BaseSignalExport.Send">
+<area shape="rect" id="node1" title="Sends positions to different 3rd party API&#39;s" alt="" coords="5,5,329,47"/>
+<area shape="rect" id="node2" href="$interfaceQuantConnect_1_1Interfaces_1_1IAlgorithm.html#a63cc959667fa0f4dfd13048a9b7dac94" title="Send debug message" alt="" coords="377,5,564,47"/>
+</map>

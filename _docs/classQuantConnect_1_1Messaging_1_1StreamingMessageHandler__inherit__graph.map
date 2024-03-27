@@ -1,0 +1,5 @@
+<map id="QuantConnect.Messaging.StreamingMessageHandler" name="QuantConnect.Messaging.StreamingMessageHandler">
+<area shape="rect" id="node1" title="Message handler that sends messages over tcp using NetMQ." alt="" coords="5,155,264,196"/>
+<area shape="rect" id="node2" href="$interfaceQuantConnect_1_1Interfaces_1_1IMessagingHandler.html" title="Messaging System Plugin Interface. Provides a common messaging pattern between desktop and cloud impl..." alt="" coords="61,80,208,107"/>
+<area shape="rect" id="node3" title=" " alt="" coords="85,5,184,32"/>
+</map>

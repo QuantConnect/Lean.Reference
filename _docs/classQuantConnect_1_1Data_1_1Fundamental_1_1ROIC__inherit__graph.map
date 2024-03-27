@@ -1,0 +1,5 @@
+<map id="QuantConnect.Data.Fundamental.ROIC" name="QuantConnect.Data.Fundamental.ROIC">
+<area shape="rect" id="node1" title="Net Income / (Total Equity + Long&#45;term Debt and Capital Lease Obligation + Short&#45;term Debt and Capita..." alt="" coords="5,155,280,181"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Data_1_1Fundamental_1_1MultiPeriodField.html" title="Abstract base class for multi&#45;period fields" alt="" coords="79,80,206,107"/>
+<area shape="rect" id="node3" title=" " alt="" coords="64,5,221,32"/>
+</map>

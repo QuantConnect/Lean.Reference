@@ -1,0 +1,7 @@
+<map id="QuantConnect.Orders.MarketOnOpenOrder.Clone" name="QuantConnect.Orders.MarketOnOpenOrder.Clone">
+<area shape="rect" id="node1" title="Creates a deep&#45;copy clone of this order" alt="" coords="5,71,216,112"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Orders_1_1Order.html#a7e89368b886aff5b24cd3e5b42d7a103" title="Copies base Order properties to the specified order" alt="" coords="285,37,489,79"/>
+<area shape="rect" id="node5" href="$classQuantConnect_1_1Orders_1_1MarketOnOpenOrder.html#aeebe4ad19d37b081030b4f91b3c3c59c" title="Intiializes a new instance of the MarketOnOpenOrder class." alt="" coords="264,103,511,144"/>
+<area shape="rect" id="node3" href="$interfaceQuantConnect_1_1Interfaces_1_1IOrderProperties.html#a683b82212fc9f952e098f8eb4e634643" title="Returns a new instance clone of this object" alt="" coords="566,5,753,47"/>
+<area shape="rect" id="node4" href="$classQuantConnect_1_1Orders_1_1OrderSubmissionData.html#a98b3dd7d7d7198d062b6b005b45c0161" title="Return a new instance clone of this object" alt="" coords="559,71,760,112"/>
+</map>

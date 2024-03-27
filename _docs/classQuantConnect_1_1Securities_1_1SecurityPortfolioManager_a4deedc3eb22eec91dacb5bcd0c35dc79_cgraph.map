@@ -1,0 +1,6 @@
+<map id="QuantConnect.Securities.SecurityPortfolioManager.SecurityPortfolioManager" name="QuantConnect.Securities.SecurityPortfolioManager.SecurityPortfolioManager">
+<area shape="rect" id="node1" title="Initialise security portfolio manager." alt="" coords="5,71,248,127"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Securities_1_1CashBook.html#a89ddd1f0bbd2c8c4e2c8df5abff22d9a" title="Adds a new cash of the specified symbol and quantity" alt="" coords="330,5,517,47"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Securities_1_1SecurityPortfolioManager.html#a752342997e11998f5c14f238c2ad4b5d" title="Will flag the current TotalPortfolioValue as invalid so it is recalculated when gotten" alt="" coords="296,71,551,127"/>
+<area shape="rect" id="node4" href="$classQuantConnect_1_1Securities_1_1Cash.html#a10f484f2c0fa7902c2c1db937a929978" title="Sets the Quantity to the specified amount" alt="" coords="330,152,517,193"/>
+</map>

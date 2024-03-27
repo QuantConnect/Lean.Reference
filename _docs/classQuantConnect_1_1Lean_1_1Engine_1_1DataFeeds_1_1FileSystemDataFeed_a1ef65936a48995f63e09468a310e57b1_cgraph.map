@@ -1,0 +1,6 @@
+<map id="QuantConnect.Lean.Engine.DataFeeds.FileSystemDataFeed.Initialize" name="QuantConnect.Lean.Engine.DataFeeds.FileSystemDataFeed.Initialize">
+<area shape="rect" id="node1" title="Initializes the data feed for the specified job and algorithm" alt="" coords="5,39,295,80"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Securities_1_1MarketHoursDatabase.html#aa01232d91c17c556b18ea8f1f7fabcd0" title="Gets the instance of the MarketHoursDatabase class produced by reading in the market hours data found..." alt="" coords="343,31,577,87"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Securities_1_1MarketHoursDatabase.html#a6fdcc5f6d09cc11743e258e570d0a9eb" title="Reads the specified file as a market hours database instance" alt="" coords="625,5,852,47"/>
+<area shape="rect" id="node4" href="$classQuantConnect_1_1Globals.html#ae01b5c94ef475a21ab1a62fe1b04ea5c" title="Helper method that will build a data folder path checking if it exists on the cache folder else will ..." alt="" coords="641,71,836,112"/>
+</map>

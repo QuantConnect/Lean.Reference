@@ -1,0 +1,5 @@
+<map id="QuantConnect.Interfaces.IHistoryProvider.Initialize" name="QuantConnect.Interfaces.IHistoryProvider.Initialize">
+<area shape="rect" id="node1" title="Initializes this history provider to work for the specified job" alt="" coords="275,50,461,91"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Lean_1_1Engine_1_1HistoricalData_1_1HistoryProviderManager.html#a8a9a7a7c37fb03207bcee5283fe4301a" title="Initializes this history provider to work for the specified job" alt="" coords="6,5,226,61"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Research_1_1QuantBook.html#a239bcca3c726a8cc25b9a6a3cd0c244f" title="QuantBook constructor. Provides access to data for quantitative analysis" alt="" coords="5,86,227,127"/>
+</map>

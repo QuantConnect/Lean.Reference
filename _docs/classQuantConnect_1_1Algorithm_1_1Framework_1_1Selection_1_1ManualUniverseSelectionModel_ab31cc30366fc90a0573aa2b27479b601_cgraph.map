@@ -1,0 +1,4 @@
+<map id="QuantConnect.Algorithm.Framework.Selection.ManualUniverseSelectionModel.ManualUniverseSelectionModel" name="QuantConnect.Algorithm.Framework.Selection.ManualUniverseSelectionModel.ManualUniverseSelectionModel">
+<area shape="rect" id="node1" title="Initializes a new instance of the ManualUniverseSelectionModel class" alt="" coords="5,5,301,61"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1SymbolCache.html#a481bb0c8f2b52aa8f19b509aec5bf91f" title="Adds a mapping for the specified ticker" alt="" coords="349,20,581,47"/>
+</map>

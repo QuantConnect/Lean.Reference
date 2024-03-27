@@ -1,0 +1,7 @@
+<map id="QuantConnect.Statistics.IStatisticsService" name="QuantConnect.Statistics.IStatisticsService">
+<area shape="rect" id="node1" title="This interface exposes methods for accessing algorithm statistics results at runtime." alt="" coords="5,39,188,80"/>
+<area shape="rect" id="node2" href="$interfaceQuantConnect_1_1Lean_1_1Engine_1_1Results_1_1IResultHandler.html" title="Handle the results of the backtest: where should we send the profit, portfolio updates: Backtester or..." alt="" coords="236,39,437,80"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Lean_1_1Engine_1_1Results_1_1BacktestingResultHandler.html" title="Backtesting result handler passes messages back from the Lean to the User." alt="" coords="485,5,728,47"/>
+<area shape="rect" id="node5" href="$classQuantConnect_1_1Lean_1_1Engine_1_1Results_1_1LiveTradingResultHandler.html" title="Live trading result handler implementation passes the messages to the QC live trading interface." alt="" coords="487,71,727,112"/>
+<area shape="rect" id="node4" href="$classQuantConnect_1_1Lean_1_1Engine_1_1Results_1_1RegressionResultHandler.html" title="Provides a wrapper over the BacktestingResultHandler that logs all order events to a separate file" alt="" coords="776,5,1015,47"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="QuantConnect.Algorithm.QCAlgorithm.SetStartDate" name="QuantConnect.Algorithm.QCAlgorithm.SetStartDate">
+<area shape="rect" id="node1" title="Set the start date for the backtest" alt="" coords="5,5,279,47"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Algorithm_1_1QCAlgorithm.html#aba2db914b00bbdc25368ee154f931fc0" title="Update the internal algorithm time frontier." alt="" coords="327,5,600,47"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Algorithm_1_1QCAlgorithm.html#a241dc95c0b1bc8926c4fde785c30c29d" title="Sets IAlgorithm.IsWarmingUp to false to indicate this algorithm has finished its warm up" alt="" coords="648,5,921,47"/>
+</map>

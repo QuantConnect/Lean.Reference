@@ -1,0 +1,5 @@
+<map id="QuantConnect.Indicators.CandlestickPatterns.HikkakeModified" name="QuantConnect.Indicators.CandlestickPatterns.HikkakeModified">
+<area shape="rect" id="node1" title="Hikkake Modified candlestick pattern" alt="" coords="5,169,268,211"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Indicators_1_1CandlestickPatterns_1_1CandlestickPattern.html" title="Abstract base class for a candlestick pattern indicator" alt="" coords="65,95,209,121"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Indicators_1_1WindowIndicator.html" title=" " alt="" coords="30,5,243,47"/>
+</map>

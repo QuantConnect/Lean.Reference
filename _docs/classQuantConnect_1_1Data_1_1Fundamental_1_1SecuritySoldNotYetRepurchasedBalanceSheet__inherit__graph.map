@@ -1,0 +1,5 @@
+<map id="QuantConnect.Data.Fundamental.SecuritySoldNotYetRepurchasedBalanceSheet" name="QuantConnect.Data.Fundamental.SecuritySoldNotYetRepurchasedBalanceSheet">
+<area shape="rect" id="node1" title="Represent obligations of the company to deliver the specified security at the contracted price and,..." alt="" coords="5,155,324,196"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Data_1_1Fundamental_1_1MultiPeriodField.html" title="Abstract base class for multi&#45;period fields" alt="" coords="101,80,228,107"/>
+<area shape="rect" id="node3" title=" " alt="" coords="86,5,243,32"/>
+</map>

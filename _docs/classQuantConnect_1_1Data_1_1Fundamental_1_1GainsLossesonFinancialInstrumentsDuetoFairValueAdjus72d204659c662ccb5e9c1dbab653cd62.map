@@ -1,0 +1,5 @@
+<map id="QuantConnect.Data.Fundamental.GainsLossesonFinancialInstrumentsDuetoFairValueAdjustmentsinHedgeAccountingTotalIncomeStatement" name="QuantConnect.Data.Fundamental.GainsLossesonFinancialInstrumentsDuetoFairValueAdjustmentsinHedgeAccountingTotalIncomeStatement">
+<area shape="rect" id="node1" title="Gain or loss on derivatives investment due to the fair value adjustment." alt="" coords="5,155,333,225"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Data_1_1Fundamental_1_1MultiPeriodField.html" title="Abstract base class for multi&#45;period fields" alt="" coords="106,80,233,107"/>
+<area shape="rect" id="node3" title=" " alt="" coords="91,5,248,32"/>
+</map>

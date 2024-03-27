@@ -1,0 +1,5 @@
+<map id="QuantConnect.Indicators.CandlestickPatterns.HighWaveCandle" name="QuantConnect.Indicators.CandlestickPatterns.HighWaveCandle">
+<area shape="rect" id="node1" title="High&#45;Wave Candle candlestick pattern indicator" alt="" coords="5,169,227,225"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Indicators_1_1CandlestickPatterns_1_1CandlestickPattern.html" title="Abstract base class for a candlestick pattern indicator" alt="" coords="44,95,188,121"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Indicators_1_1WindowIndicator.html" title=" " alt="" coords="9,5,223,47"/>
+</map>

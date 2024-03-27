@@ -1,0 +1,8 @@
+<map id="QuantConnect.Interfaces.IBrokerageCashSynchronizer" name="QuantConnect.Interfaces.IBrokerageCashSynchronizer">
+<area shape="rect" id="node1" title="Defines live brokerage cash synchronization operations." alt="" coords="5,39,213,80"/>
+<area shape="rect" id="node2" href="$interfaceQuantConnect_1_1Interfaces_1_1IBrokerage.html" title="Brokerage interface that defines the operations all brokerages must implement. The IBrokerage impleme..." alt="" coords="261,39,448,80"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Brokerages_1_1Brokerage.html" title="Represents the base Brokerage implementation. This provides logging on brokerage events." alt="" coords="496,39,691,80"/>
+<area shape="rect" id="node4" href="$classQuantConnect_1_1Brokerages_1_1Backtesting_1_1BacktestingBrokerage.html" title="Represents a brokerage to be used during backtesting. This is intended to be only be used with the Ba..." alt="" coords="739,5,985,47"/>
+<area shape="rect" id="node6" href="$classQuantConnect_1_1Brokerages_1_1BaseWebsocketsBrokerage.html" title="Provides shared brokerage websockets implementation" alt="" coords="763,71,961,112"/>
+<area shape="rect" id="node5" href="$classQuantConnect_1_1Brokerages_1_1Paper_1_1PaperBrokerage.html" title="Paper Trading Brokerage" alt="" coords="1033,5,1228,47"/>
+</map>

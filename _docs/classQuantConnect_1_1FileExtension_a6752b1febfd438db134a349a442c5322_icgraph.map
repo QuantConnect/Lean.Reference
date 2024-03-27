@@ -1,0 +1,6 @@
+<map id="QuantConnect.FileExtension.ToNormalizedPath" name="QuantConnect.FileExtension.ToNormalizedPath">
+<area shape="rect" id="node1" title="Takes a given path and (if applicable) returns a modified path accepted by Windows OS" alt="" coords="320,57,529,98"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Api_1_1Api.html#a60628e17674db6908c75bbef8b6a362b" title="Method to purchase and download data from QuantConnect" alt="" coords="7,5,271,32"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Lean_1_1Engine_1_1DataFeeds_1_1DefaultDataProvider.html#aea598224e80ff5df80a27b55f3f7fdce" title="Retrieves data from disc to be used in an algorithm" alt="" coords="5,57,272,98"/>
+<area shape="rect" id="node4" href="$classQuantConnect_1_1Data_1_1DiskDataCacheProvider.html#a049cd78cc140835e12faf36a424a8714" title="Returns a list of zip entries in a provided zip file" alt="" coords="32,122,245,163"/>
+</map>

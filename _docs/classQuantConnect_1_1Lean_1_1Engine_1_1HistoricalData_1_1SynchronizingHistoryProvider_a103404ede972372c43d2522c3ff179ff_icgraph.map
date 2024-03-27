@@ -1,0 +1,5 @@
+<map id="QuantConnect.Lean.Engine.HistoricalData.SynchronizingHistoryProvider.CreateSliceEnumerableFromSubscriptions" name="QuantConnect.Lean.Engine.HistoricalData.SynchronizingHistoryProvider.CreateSliceEnumerableFromSubscriptions">
+<area shape="rect" id="node1" title="Enumerates the subscriptions into slices" alt="" coords="296,45,647,101"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Lean_1_1Engine_1_1HistoricalData_1_1BrokerageHistoryProvider.html#a9cf173b48c88a0a8568f1bf9dbdd2573" title="Gets the history for the requested securities" alt="" coords="11,5,243,61"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Lean_1_1Engine_1_1HistoricalData_1_1SubscriptionDataReaderHistoryProvider.html#abbaf2f39084c8736e44444ccd264054e" title="Gets the history for the requested securities" alt="" coords="5,85,248,141"/>
+</map>

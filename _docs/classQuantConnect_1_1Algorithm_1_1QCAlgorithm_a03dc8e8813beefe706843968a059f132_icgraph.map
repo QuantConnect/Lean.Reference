@@ -1,0 +1,7 @@
+<map id="QuantConnect.Algorithm.QCAlgorithm.WarmUpIndicator" name="QuantConnect.Algorithm.QCAlgorithm.WarmUpIndicator">
+<area shape="rect" id="node1" title="Warms up a given indicator with historical data" alt="" coords="356,78,629,119"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Algorithm_1_1QCAlgorithm.html#a566973d2b00c6690ad51f3574c4a804f" title="Creates a new Maximum indicator to compute the maximum value" alt="" coords="5,5,308,32"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Algorithm_1_1QCAlgorithm.html#a49238b723a7266853791d7f39b017800" title="Creates a new Minimum indicator to compute the minimum value" alt="" coords="7,56,306,83"/>
+<area shape="rect" id="node4" href="$classQuantConnect_1_1Algorithm_1_1QCAlgorithm.html#ae53a8a86584764e16ebe7a7aa368ac12" title="Warms up a given indicator with historical data" alt="" coords="20,107,293,149"/>
+<area shape="rect" id="node5" href="$classQuantConnect_1_1Algorithm_1_1QCAlgorithm.html#adb8b760815058e8a8075073207627aaf" title="Warms up a given indicator with historical data" alt="" coords="20,173,293,214"/>
+</map>

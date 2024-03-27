@@ -1,0 +1,4 @@
+<map id="QuantConnect.Algorithm.Framework.Alphas.EmaCrossAlphaModel.SymbolData.RemoveConsolidators" name="QuantConnect.Algorithm.Framework.Alphas.EmaCrossAlphaModel.SymbolData.RemoveConsolidators">
+<area shape="rect" id="node1" title="Remove Fast and Slow consolidators" alt="" coords="352,5,652,61"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Algorithm_1_1Framework_1_1Alphas_1_1EmaCrossAlphaModel.html#a8b22da265a034aea951541984f916dd2" title="Event fired each time the we add/remove securities from the data feed" alt="" coords="5,5,304,61"/>
+</map>

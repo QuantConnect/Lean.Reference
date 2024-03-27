@@ -1,0 +1,4 @@
+<map id="QuantConnect.Optimizer.Strategies.IOptimizationStrategy.Initialize" name="QuantConnect.Optimizer.Strategies.IOptimizationStrategy.Initialize">
+<area shape="rect" id="node1" title="Initializes the strategy using generator, extremum settings and optimization parameters" alt="" coords="269,5,524,47"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Optimizer_1_1LeanOptimizer.html#af23ab5e44d7c347f756d9e5bdc29f138" title="Creates a new instance" alt="" coords="5,5,221,47"/>
+</map>

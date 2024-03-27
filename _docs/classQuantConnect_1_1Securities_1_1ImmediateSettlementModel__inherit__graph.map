@@ -1,0 +1,6 @@
+<map id="QuantConnect.Securities.ImmediateSettlementModel" name="QuantConnect.Securities.ImmediateSettlementModel">
+<area shape="rect" id="node1" title="Represents the model responsible for applying cash settlement rules" alt="" coords="192,39,397,80"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Securities_1_1AccountCurrencyImmediateSettlementModel.html" title="Represents the model responsible for applying cash settlement rules" alt="" coords="445,5,760,47"/>
+<area shape="rect" id="node4" href="$classQuantConnect_1_1Securities_1_1Future_1_1FutureSettlementModel.html" title="Settlement model which can handle daily profit and loss settlement" alt="" coords="493,71,713,112"/>
+<area shape="rect" id="node2" href="$interfaceQuantConnect_1_1Securities_1_1ISettlementModel.html" title="Represents the model responsible for applying cash settlement rules" alt="" coords="5,46,144,73"/>
+</map>

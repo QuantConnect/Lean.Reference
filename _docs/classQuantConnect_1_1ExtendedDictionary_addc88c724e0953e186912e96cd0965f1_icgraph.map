@@ -1,0 +1,4 @@
+<map id="QuantConnect.ExtendedDictionary.Clear" name="QuantConnect.ExtendedDictionary.Clear">
+<area shape="rect" id="node1" title="Removes all items from the T:System.Collections.Generic.ICollection`1." alt="" coords="300,5,548,47"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1ExtendedDictionary.html#a9b600db77b2d23cfad934d951212f10b" title="Removes all keys and values from the IExtendedDictionary&lt;TKey, TValue&gt;." alt="" coords="5,5,252,47"/>
+</map>

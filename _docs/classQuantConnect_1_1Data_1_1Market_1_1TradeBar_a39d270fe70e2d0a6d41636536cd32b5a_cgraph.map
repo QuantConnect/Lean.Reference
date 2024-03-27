@@ -1,0 +1,6 @@
+<map id="QuantConnect.Data.Market.TradeBar.Parse" name="QuantConnect.Data.Market.TradeBar.Parse">
+<area shape="rect" id="node1" title="Parses the trade bar data line assuming QC data formats" alt="" coords="5,64,208,105"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Data_1_1Market_1_1TradeBar.html#a5812fe5ce6b7760dc87c462299a3e444" title="Parses CFD trade bar data into the specified tradebar type, useful for custom types with OHLCV data d..." alt="" coords="256,5,459,47"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Data_1_1Market_1_1TradeBar.html#aa932ec9a13842aef43f4a8944ebef3bb" title="Parses forex trade bar data into the specified tradebar type, useful for custom types with OHLCV data..." alt="" coords="507,35,709,76"/>
+<area shape="rect" id="node4" href="$classQuantConnect_1_1Data_1_1Market_1_1TradeBar.html#a1024a2dc9ee173bc50d23cf62067a304" title="Parses equity trade bar data into the specified tradebar type, useful for custom types with OHLCV dat..." alt="" coords="256,123,459,164"/>
+</map>

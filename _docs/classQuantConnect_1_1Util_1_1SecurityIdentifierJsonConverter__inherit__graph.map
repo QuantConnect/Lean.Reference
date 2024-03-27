@@ -1,0 +1,4 @@
+<map id="QuantConnect.Util.SecurityIdentifierJsonConverter" name="QuantConnect.Util.SecurityIdentifierJsonConverter">
+<area shape="rect" id="node1" title="A JsonConverter implementation that serializes a SecurityIdentifier as a string" alt="" coords="5,109,204,151"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Util_1_1TypeChangeJsonConverter.html" title=" " alt="" coords="9,5,201,61"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="QuantConnect.Orders.TrailingStopOrder.TryUpdateStopPrice" name="QuantConnect.Orders.TrailingStopOrder.TryUpdateStopPrice">
+<area shape="rect" id="node1" title="Tries to update the stop price for a trailing stop order given the current market price" alt="" coords="5,5,223,47"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Orders_1_1TrailingStopOrder.html#ad5bbfed0cd46cfbd79a2e81f655b0592" title="Calculates the stop price for a trailing stop order given the current market price" alt="" coords="271,5,483,47"/>
+</map>

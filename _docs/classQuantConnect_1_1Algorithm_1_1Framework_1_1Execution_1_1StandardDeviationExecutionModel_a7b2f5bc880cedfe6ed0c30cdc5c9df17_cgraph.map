@@ -1,0 +1,8 @@
+<map id="QuantConnect.Algorithm.Framework.Execution.StandardDeviationExecutionModel.Execute" name="QuantConnect.Algorithm.Framework.Execution.StandardDeviationExecutionModel.Execute">
+<area shape="rect" id="node1" title="Executes market orders if the standard deviation of price is more than the configured number of devia..." alt="" coords="5,97,279,153"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Orders_1_1OrderSizing.html#a3e48c76e210bb2b4146ac9597990e3f0" title="Adjust the provided order size to respect the maximum total order value" alt="" coords="327,5,600,47"/>
+<area shape="rect" id="node4" href="$classQuantConnect_1_1Orders_1_1OrderSizing.html#a842c9dd8cdb14899938bf6b75b159f24" title="Gets the remaining quantity to be ordered to reach the specified target quantity." alt="" coords="357,71,569,112"/>
+<area shape="rect" id="node5" href="$classQuantConnect_1_1Algorithm_1_1QCAlgorithm.html#ad9061f61a3835394d616c79d7e602cc8" title="Market order implementation: Send a market order and wait for it to be filled." alt="" coords="327,136,600,177"/>
+<area shape="rect" id="node6" href="$classQuantConnect_1_1Algorithm_1_1Framework_1_1Execution_1_1StandardDeviationExecutionModel.html#af377d1e12faa31c9c39e30dd7c26953a" title="Determines if the current price is more than the configured number of standard deviations away from t..." alt="" coords="327,202,600,258"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Orders_1_1OrderSizing.html#aef2d6370075548b8f4d8a8dcb15062b7" title="Adjusts the provided order quantity to respect the securities lot size. If the quantity is missing 1M..." alt="" coords="648,5,849,47"/>
+</map>

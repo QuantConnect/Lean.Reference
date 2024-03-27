@@ -1,0 +1,6 @@
+<map id="QuantConnect.Commands.BaseCommand.GetSymbol" name="QuantConnect.Commands.BaseCommand.GetSymbol">
+<area shape="rect" id="node1" title="Creats symbol using symbol properties." alt="" coords="309,71,537,112"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Commands_1_1LiquidateCommand.html#abc970592201989f2c573c2523ca13a15" title="Submits orders to liquidate all current holdings in the algorithm" alt="" coords="5,5,261,47"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Commands_1_1OrderCommand.html#a9076463d1b93e18f452219182b25f721" title="Runs this command against the specified algorithm instance" alt="" coords="17,71,249,112"/>
+<area shape="rect" id="node4" href="$classQuantConnect_1_1Commands_1_1OrderCommand.html#a6f56bbd37fa44bc343c153f5c108d5b5" title="Returns a string that represents the current object." alt="" coords="17,136,249,177"/>
+</map>

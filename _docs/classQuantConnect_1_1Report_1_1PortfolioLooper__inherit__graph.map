@@ -1,0 +1,4 @@
+<map id="QuantConnect.Report.PortfolioLooper" name="QuantConnect.Report.PortfolioLooper">
+<area shape="rect" id="node1" title="Runs LEAN to calculate the portfolio at a given time from Order objects. Generates and returns PointI..." alt="" coords="5,80,225,121"/>
+<area shape="rect" id="node2" title=" " alt="" coords="66,5,165,32"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$interfaceQuantConnect_1_1Brokerages_1_1IOrderBookUpdater.html" title=" " alt="" coords="5,5,224,61"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Brokerages_1_1DefaultOrderBook.html" title="Represents a full order book for a security. It contains prices and order sizes for each bid and ask ..." alt="" coords="272,13,467,54"/>
+</map>

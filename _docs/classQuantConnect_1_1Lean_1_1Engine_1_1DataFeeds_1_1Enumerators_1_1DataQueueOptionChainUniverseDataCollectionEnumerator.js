@@ -1,0 +1,9 @@
+var classQuantConnect_1_1Lean_1_1Engine_1_1DataFeeds_1_1Enumerators_1_1DataQueueOptionChainUniverseDataCollectionEnumerator =
+[
+    [ "DataQueueOptionChainUniverseDataCollectionEnumerator", "classQuantConnect_1_1Lean_1_1Engine_1_1DataFeeds_1_1Enumerators_1_1DataQueueOptionChainUniverseDataCollectionEnumerator.html#a145160748675e84043b7fd976c276853", null ],
+    [ "Dispose", "classQuantConnect_1_1Lean_1_1Engine_1_1DataFeeds_1_1Enumerators_1_1DataQueueOptionChainUniverseDataCollectionEnumerator.html#ad67e535c1f2cabca25676d4bec704307", null ],
+    [ "MoveNext", "classQuantConnect_1_1Lean_1_1Engine_1_1DataFeeds_1_1Enumerators_1_1DataQueueOptionChainUniverseDataCollectionEnumerator.html#adfffe3d1c177d2840b911b3151f953cc", null ],
+    [ "Reset", "classQuantConnect_1_1Lean_1_1Engine_1_1DataFeeds_1_1Enumerators_1_1DataQueueOptionChainUniverseDataCollectionEnumerator.html#af156406a4e53f484c80c2da1f0f83981", null ],
+    [ "Underlying", "classQuantConnect_1_1Lean_1_1Engine_1_1DataFeeds_1_1Enumerators_1_1DataQueueOptionChainUniverseDataCollectionEnumerator.html#a016ece031ed206d9e78a354f26684201", null ],
+    [ "Current", "classQuantConnect_1_1Lean_1_1Engine_1_1DataFeeds_1_1Enumerators_1_1DataQueueOptionChainUniverseDataCollectionEnumerator.html#ab73ce07e61e69e1d5ac1f2081569f1dc", null ]
+];

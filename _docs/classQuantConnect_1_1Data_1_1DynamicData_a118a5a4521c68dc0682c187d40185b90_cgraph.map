@@ -1,0 +1,4 @@
+<map id="QuantConnect.Data.DynamicData.Clone" name="QuantConnect.Data.DynamicData.Clone">
+<area shape="rect" id="node1" title="Return a new instance clone of this object, used in fill forward" alt="" coords="5,5,216,47"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Util_1_1ObjectActivator.html#abcd1c91f67b9d78743601743d663cd10" title="Clones the specified instance using reflection" alt="" coords="264,5,451,47"/>
+</map>

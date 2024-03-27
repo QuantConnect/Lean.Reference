@@ -1,0 +1,7 @@
+<map id="QuantConnect.Securities.MarketHoursDatabase.TryGetEntry" name="QuantConnect.Securities.MarketHoursDatabase.TryGetEntry">
+<area shape="rect" id="node1" title="Tries to get the entry for the specified market/symbol/security&#45;type" alt="" coords="5,86,252,127"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Securities_1_1Future_1_1FuturesOptionsSymbolMappings.html#a739feea1e5e726c78e75fd6c58fa2d5e" title="Maps a futures options ticker to its underlying future&#39;s ticker" alt="" coords="300,5,581,61"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1SecurityIdentifier.html#a65051a4af9e25cab40451dc9ef12db6a" title="Tries to fetch the custom data type associated with a symbol" alt="" coords="325,86,557,127"/>
+<area shape="rect" id="node4" href="$classQuantConnect_1_1Securities_1_1MarketHoursDatabase.html#a3eedd1459368e8f50da2cedfc7508006" title="Tries to get the entry for the specified market/symbol/security&#45;type" alt="" coords="317,151,564,193"/>
+<area shape="rect" id="node5" href="$classQuantConnect_1_1Securities_1_1MarketHoursDatabase.html#aa717adb9bb04be931913608ffd5a2733" title="Gets the correct string symbol to use as a database key" alt="" coords="629,144,885,200"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="QuantConnect.Algorithm.QCAlgorithm.ISIN" name="QuantConnect.Algorithm.QCAlgorithm.ISIN">
+<area shape="rect" id="node1" title="Converts a Symbol into an ISIN identifier" alt="" coords="5,13,304,39"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Securities_1_1SecurityDefinitionSymbolResolver.html#a14168bd1192fadd99f7a06ecb3e31cb5" title="Converts ISIN into a Lean Symbol" alt="" coords="352,5,625,47"/>
+</map>

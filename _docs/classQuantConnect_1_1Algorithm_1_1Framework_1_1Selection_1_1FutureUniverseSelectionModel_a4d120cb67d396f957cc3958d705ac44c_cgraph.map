@@ -1,0 +1,4 @@
+<map id="QuantConnect.Algorithm.Framework.Selection.FutureUniverseSelectionModel.CreateUniverses" name="QuantConnect.Algorithm.Framework.Selection.FutureUniverseSelectionModel.CreateUniverses">
+<area shape="rect" id="node1" title="Creates the universes for this algorithm. Called once after IAlgorithm.Initialize" alt="" coords="5,5,295,61"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Algorithm_1_1Framework_1_1Selection_1_1FutureUniverseSelectionModel.html#a6f090a2ff16b5c1efcd630ca33a2dded" title="Defines the future chain universe filter" alt="" coords="343,13,665,54"/>
+</map>

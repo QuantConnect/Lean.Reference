@@ -1,0 +1,5 @@
+<map id="QuantConnect.Lean.Engine.Storage.FileHandler.Delete" name="QuantConnect.Lean.Engine.Storage.FileHandler.Delete">
+<area shape="rect" id="node1" title="Will delete the given file path" alt="" coords="319,39,520,80"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Lean_1_1Engine_1_1Storage_1_1LocalObjectStore.html#a7246466806cc97528e7718458e788b78" title="Deletes the object data for the specified path" alt="" coords="21,5,255,47"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Lean_1_1Engine_1_1Storage_1_1LocalObjectStore.html#ad996578710d9cce84fc9af79d6ee86cb" title="Overridable persistence function" alt="" coords="5,71,271,112"/>
+</map>

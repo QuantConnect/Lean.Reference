@@ -1,0 +1,4 @@
+<map id="QuantConnect.ToolBox.RandomDataGenerator.RandomValueGenerator.NextDouble" name="QuantConnect.ToolBox.RandomDataGenerator.RandomValueGenerator.NextDouble">
+<area shape="rect" id="node1" title="Returns a random floating&#45;point number that is greater than or equal to 0.0, and less than 1...." alt="" coords="332,5,611,61"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1ToolBox_1_1RandomDataGenerator_1_1RandomValueGenerator.html#aba62d5cdc0dfc04433f4de122bbe465f" title="Generates a random decimal suitable as a price. This should observe minimum price variations if avail..." alt="" coords="5,5,284,61"/>
+</map>

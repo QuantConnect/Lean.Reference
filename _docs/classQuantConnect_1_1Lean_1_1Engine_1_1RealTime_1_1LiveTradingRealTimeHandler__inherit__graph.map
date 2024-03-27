@@ -1,0 +1,7 @@
+<map id="QuantConnect.Lean.Engine.RealTime.LiveTradingRealTimeHandler" name="QuantConnect.Lean.Engine.RealTime.LiveTradingRealTimeHandler">
+<area shape="rect" id="node1" title="Live trading realtime event processing." alt="" coords="5,304,280,345"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Lean_1_1Engine_1_1RealTime_1_1BacktestingRealTimeHandler.html" title="Pseudo realtime event processing for backtesting to simulate realtime events in fast forward." alt="" coords="37,229,249,256"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Lean_1_1Engine_1_1RealTime_1_1BaseRealTimeHandler.html" title="Base class for the real time handler LiveTradingRealTimeHandler and BacktestingRealTimeHandler implem..." alt="" coords="59,155,226,181"/>
+<area shape="rect" id="node4" href="$interfaceQuantConnect_1_1Lean_1_1Engine_1_1RealTime_1_1IRealTimeHandler.html" title="Real time event handler, trigger functions at regular or pretimed intervals" alt="" coords="73,80,212,107"/>
+<area shape="rect" id="node5" href="$interfaceQuantConnect_1_1Scheduling_1_1IEventSchedule.html" title="Provides the ability to add/remove scheduled events from the real time handler" alt="" coords="81,5,204,32"/>
+</map>

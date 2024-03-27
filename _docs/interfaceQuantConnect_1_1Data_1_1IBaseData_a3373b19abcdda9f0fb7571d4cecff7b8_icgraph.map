@@ -1,0 +1,8 @@
+<map id="QuantConnect.Data.IBaseData.Clone" name="QuantConnect.Data.IBaseData.Clone">
+<area shape="rect" id="node1" title="Return a new instance clone of this object" alt="" coords="591,130,815,171"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Util_1_1LeanData.html#a7ed92bff1a81ec74f705b61a4b721b5d" title="Converts the specified base data instance into a lean data file csv line. This method takes into acco..." alt="" coords="332,130,543,171"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1ToolBox_1_1AlgoSeekFuturesConverter_1_1AlgoSeekFuturesProcessor.html#a82ea2dc8cfa86ba3e93301f4d1093ea1" title="Create a new AlgoSeekFuturesProcessor for enquing consolidated bars and flushing them to disk" alt="" coords="5,5,284,61"/>
+<area shape="rect" id="node4" href="$classQuantConnect_1_1ToolBox_1_1AlgoSeekFuturesConverter_1_1AlgoSeekFuturesProcessor.html#a3ad452d64aa1404d16821cef5d35c0ba" title="Write the in memory queues to the disk." alt="" coords="5,85,284,141"/>
+<area shape="rect" id="node5" href="$classQuantConnect_1_1ToolBox_1_1CsvDataProcessor.html#a4e8ad818bea5266453a3ef451fe58e1d" title="Invoked for each piece of data from the source file" alt="" coords="46,166,243,207"/>
+<area shape="rect" id="node6" href="$classQuantConnect_1_1Data_1_1LeanDataWriter.html#a45a6aa9d17842056e383dfbd793222ee" title="Given the constructor parameters, write out the data in LEAN format." alt="" coords="37,231,252,273"/>
+</map>

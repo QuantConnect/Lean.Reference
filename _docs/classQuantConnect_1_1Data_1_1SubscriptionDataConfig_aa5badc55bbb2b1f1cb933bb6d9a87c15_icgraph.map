@@ -1,0 +1,6 @@
+<map id="QuantConnect.Data.SubscriptionDataConfig.Equals" name="QuantConnect.Data.SubscriptionDataConfig.Equals">
+<area shape="rect" id="node1" title="Indicates whether the current object is equal to another object of the same type." alt="" coords="287,71,520,112"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Data_1_1SubscriptionDataConfig.html#ab0c3bca827abbb650c20b368d411b47a" title="Determines whether the specified object is equal to the current object." alt="" coords="5,5,239,47"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Data_1_1SubscriptionDataConfig.html#aeec9cadedeeb6156b8a9ed82e1f35197" title="Override not equals operator" alt="" coords="5,71,239,112"/>
+<area shape="rect" id="node4" href="$classQuantConnect_1_1Data_1_1SubscriptionDataConfig.html#a8415eb42e22728e52faf7ed168770d2c" title="Override equals operator" alt="" coords="5,136,239,177"/>
+</map>

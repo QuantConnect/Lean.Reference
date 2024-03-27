@@ -1,0 +1,6 @@
+<map id="QuantConnect.Algorithm.Framework.Alphas.MacdAlphaModel.Update" name="QuantConnect.Algorithm.Framework.Alphas.MacdAlphaModel.Update">
+<area shape="rect" id="node1" title="Determines an insight for each security based on it&#39;s current MACD signal" alt="" coords="5,39,268,80"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Algorithm_1_1Framework_1_1Alphas_1_1InsightCollection.html#aaacdee19492682db3e11d9004e8ce8bc" title="Adds an item to the T:System.Collections.Generic.ICollection`1." alt="" coords="316,5,579,47"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Algorithm_1_1Framework_1_1Alphas_1_1Insight.html#a7aabd7204fb675c3e47188a65d110716" title="Creates a new insight for predicting the percent change in price over the specified period" alt="" coords="316,71,579,112"/>
+<area shape="rect" id="node4" href="$classQuantConnect_1_1Algorithm_1_1Framework_1_1Alphas_1_1Insight.html#af5a32362538f22f9f8708bd5e778cfc7" title="Initializes a new instance of the Insight class" alt="" coords="627,71,889,112"/>
+</map>

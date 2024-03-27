@@ -1,0 +1,4 @@
+<map id="QuantConnect.Data.SubscriptionManager.ScanPastConsolidators" name="QuantConnect.Data.SubscriptionManager.ScanPastConsolidators">
+<area shape="rect" id="node1" title="Will trigger past consolidator scans" alt="" coords="5,5,239,47"/>
+<area shape="rect" id="node2" href="$interfaceQuantConnect_1_1Interfaces_1_1IAlgorithm.html#a8dc9d2dd57f952d4c9728ec78f391363" title="Set the DateTime Frontier: This is the master time and is" alt="" coords="287,5,473,47"/>
+</map>

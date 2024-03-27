@@ -1,0 +1,5 @@
+<map id="QuantConnect.Algorithm.Framework.Portfolio.MaximumSharpeRatioPortfolioOptimizer.Optimize" name="QuantConnect.Algorithm.Framework.Portfolio.MaximumSharpeRatioPortfolioOptimizer.Optimize">
+<area shape="rect" id="node1" title="Perform portfolio optimization for a provided matrix of historical returns and an array of expected r..." alt="" coords="5,45,287,101"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Algorithm_1_1Framework_1_1Portfolio_1_1MaximumSharpeRatioPortfolioOptimizer.html#af9a4f1c512b5ecfdcec8e725c8eb9e3d" title="Boundary constraints on weights: lw ≤ w ≤ up" alt="" coords="335,5,616,61"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Algorithm_1_1Framework_1_1Portfolio_1_1MaximumSharpeRatioPortfolioOptimizer.html#a59306f215672bb0dee1140b3f74e7514" title="Sum of all weight is one: 1^T w = 1 / Σw = 1" alt="" coords="335,85,616,141"/>
+</map>

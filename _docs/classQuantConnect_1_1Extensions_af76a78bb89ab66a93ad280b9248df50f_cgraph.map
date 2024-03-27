@@ -1,0 +1,4 @@
+<map id="QuantConnect.Extensions.ConvertSelectionSymbolDelegate&lt; T &gt;" name="QuantConnect.Extensions.ConvertSelectionSymbolDelegate&lt; T &gt;">
+<area shape="rect" id="node1" title="Wraps the provided universe selection selector checking if it returned Universe.Unchanged and returns..." alt="" coords="5,5,284,47"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1SymbolCache.html#a131a5bb015b9a603328d0eddfe90c610" title="Gets the Symbol object that is mapped to the specified string ticker symbol" alt="" coords="332,5,543,47"/>
+</map>

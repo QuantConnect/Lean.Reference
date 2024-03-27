@@ -1,0 +1,13 @@
+<map id="QuantConnect.Data.UniverseSelection.UniverseExtensions.CreateSymbol" name="QuantConnect.Data.UniverseSelection.UniverseExtensions.CreateSymbol">
+<area shape="rect" id="node1" title="Creates a universe symbol" alt="" coords="5,259,268,315"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1SecurityIdentifier.html#a02ca750115844561c001c2346fbafc00" title="Generates a new SecurityIdentifier for a custom security with the option of providing the first date" alt="" coords="316,5,548,47"/>
+<area shape="rect" id="node4" href="$classQuantConnect_1_1SecurityIdentifier.html#a53953b18d814c5445e4ecdcb3b555080" title="Generates a new SecurityIdentifier for a CFD security" alt="" coords="316,71,548,112"/>
+<area shape="rect" id="node5" href="$classQuantConnect_1_1SecurityIdentifier.html#a5889a95a36ce927dd0a109cbfbcbe663" title="Generates a new SecurityIdentifier for a Crypto pair" alt="" coords="316,136,548,177"/>
+<area shape="rect" id="node6" href="$classQuantConnect_1_1SecurityIdentifier.html#ac665665a16d5449872fed3427b95a260" title="Generates a new SecurityIdentifier for a CryptoFuture pair" alt="" coords="316,201,548,243"/>
+<area shape="rect" id="node7" href="$classQuantConnect_1_1SecurityIdentifier.html#a0c21d7880c9fdd260883d11ea0c99a00" title="Helper overload that will search the mapfiles to resolve the first date. This implementation uses the..." alt="" coords="316,267,548,308"/>
+<area shape="rect" id="node8" href="$classQuantConnect_1_1SecurityIdentifier.html#a9cf0d3b208a5171e6112516ce441f18d" title="Generates a new SecurityIdentifier for a forex pair" alt="" coords="316,332,548,373"/>
+<area shape="rect" id="node9" href="$classQuantConnect_1_1SecurityIdentifier.html#ad50a891c97cb0c084a9e2aa43607ed66" title="Generates a new SecurityIdentifier for a future" alt="" coords="316,397,548,439"/>
+<area shape="rect" id="node10" href="$classQuantConnect_1_1SecurityIdentifier.html#ade05a8e57b041ab484cf585be8d05699" title="Generates a new SecurityIdentifier for a INDEX security" alt="" coords="316,463,548,504"/>
+<area shape="rect" id="node11" href="$classQuantConnect_1_1SecurityIdentifier.html#a58becf4433a3155807bc4959679ccca7" title="Generates a new SecurityIdentifier for an option" alt="" coords="316,528,548,569"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1SecurityIdentifier.html#a19e1f9da410608020d74ed9e7d283575" title="Generates the Symbol property for QuantConnect.SecurityType.Base security identifiers" alt="" coords="596,5,828,47"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="QuantConnect.Scheduling.TimeRules.SetDefaultTimeZone" name="QuantConnect.Scheduling.TimeRules.SetDefaultTimeZone">
+<area shape="rect" id="node1" title="Sets the default time zone" alt="" coords="327,5,557,47"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Algorithm_1_1QCAlgorithm.html#a492ff4abe13cfbf92114a136186cad24" title="Sets the time zone of the Time property in the algorithm" alt="" coords="5,5,279,47"/>
+</map>

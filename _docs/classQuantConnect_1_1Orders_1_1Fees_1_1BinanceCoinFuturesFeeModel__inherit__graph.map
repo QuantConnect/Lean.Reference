@@ -1,0 +1,6 @@
+<map id="QuantConnect.Orders.Fees.BinanceCoinFuturesFeeModel" name="QuantConnect.Orders.Fees.BinanceCoinFuturesFeeModel">
+<area shape="rect" id="node1" title="Provides an implementation of FeeModel that models Binance Coin Futures order fees" alt="" coords="5,229,220,271"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Orders_1_1Fees_1_1BinanceFeeModel.html" title="Provides an implementation of FeeModel that models Binance order fees" alt="" coords="44,155,181,181"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Orders_1_1Fees_1_1FeeModel.html" title="Base class for any order fee model" alt="" coords="70,80,155,107"/>
+<area shape="rect" id="node4" href="$interfaceQuantConnect_1_1Orders_1_1Fees_1_1IFeeModel.html" title="Represents a model the simulates order fees" alt="" coords="68,5,157,32"/>
+</map>

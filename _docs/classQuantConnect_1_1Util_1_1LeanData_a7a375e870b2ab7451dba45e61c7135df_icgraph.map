@@ -1,0 +1,12 @@
+<map id="QuantConnect.Util.LeanData.GenerateRelativeZipFileDirectory" name="QuantConnect.Util.LeanData.GenerateRelativeZipFileDirectory">
+<area shape="rect" id="node1" title="Generates the relative zip directory for the specified symbol/resolution" alt="" coords="525,169,765,211"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Util_1_1LeanData.html#a0604f55ceee78d9104274449f2c5dc18" title="Generates the relative zip file path rooted in the /Data directory" alt="" coords="267,71,477,112"/>
+<area shape="rect" id="node4" href="$classQuantConnect_1_1Util_1_1LeanData.html#a6c106a884e3c8562732737244a1fc45d" title="Generates the full zip file path rooted in the dataDirectory" alt="" coords="267,201,477,243"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Util_1_1LeanData.html#a892da8b7098345ba3da2f996d407e75f" title="Generates the full zip file path rooted in the dataDirectory" alt="" coords="7,5,217,47"/>
+<area shape="rect" id="node5" href="$classQuantConnect_1_1Data_1_1Auxiliary_1_1ZipEntryName.html#ad3dbff5382f46a5081ce2eaee32444ae" title="Return the URL string source of the file. This will be converted to a stream" alt="" coords="5,71,219,112"/>
+<area shape="rect" id="node6" href="$classQuantConnect_1_1Data_1_1Market_1_1OpenInterest.html#aafb78016544eaaa168ef73af68930616" title="Get source for OI data feed &#45; not used with QuantConnect data sources implementation." alt="" coords="11,136,213,177"/>
+<area shape="rect" id="node7" href="$classQuantConnect_1_1Data_1_1Market_1_1QuoteBar.html#ae92c1900dfa9531f357eefb2ecd89db1" title="Get Source for Custom Data File What source file location would you prefer for each type of usage:" alt="" coords="11,201,213,243"/>
+<area shape="rect" id="node8" href="$classQuantConnect_1_1Data_1_1Market_1_1Tick.html#a7ef70f16b4918674442d8725ce300fa0" title="Get source for tick data feed &#45; not used with QuantConnect data sources implementation." alt="" coords="11,267,213,308"/>
+<area shape="rect" id="node9" href="$classQuantConnect_1_1Data_1_1Market_1_1TradeBar.html#adf7b8d14a635064df37828922c88f50b" title="Get Source for Custom Data File What source file location would you prefer for each type of usage:" alt="" coords="11,332,213,373"/>
+<area shape="rect" id="node10" href="$classQuantConnect_1_1ToolBox_1_1LeanDataReader.html#af3457899551e778506b2e1898eed1b8a" title="The LeanDataReader constructor" alt="" coords="7,397,217,439"/>
+</map>

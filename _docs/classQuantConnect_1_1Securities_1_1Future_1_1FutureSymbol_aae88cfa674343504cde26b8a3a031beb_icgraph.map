@@ -1,0 +1,5 @@
+<map id="QuantConnect.Securities.Future.FutureSymbol.IsStandard" name="QuantConnect.Securities.Future.FutureSymbol.IsStandard">
+<area shape="rect" id="node1" title="Determine if a given Futures contract is a standard contract." alt="" coords="280,39,511,80"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Securities_1_1FutureFilterUniverse.html#ad646b6a4c905506a7ca0f6db6f6d7811" title="Determine if the given Future contract symbol is standard" alt="" coords="5,5,232,47"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Securities_1_1Future_1_1FutureSymbol.html#a18a1a0b814e5110c44ff0199cbd0ec3a" title="Returns true if the future contract is a weekly contract" alt="" coords="9,71,229,112"/>
+</map>

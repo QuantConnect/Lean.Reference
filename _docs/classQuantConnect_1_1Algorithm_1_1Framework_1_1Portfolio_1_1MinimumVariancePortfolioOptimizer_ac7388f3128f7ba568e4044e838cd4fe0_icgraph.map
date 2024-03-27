@@ -1,0 +1,4 @@
+<map id="QuantConnect.Algorithm.Framework.Portfolio.MinimumVariancePortfolioOptimizer.GetBoundaryConditions" name="QuantConnect.Algorithm.Framework.Portfolio.MinimumVariancePortfolioOptimizer.GetBoundaryConditions">
+<area shape="rect" id="node1" title="Boundary constraints on weights: lw ≤ w ≤ up" alt="" coords="375,5,696,61"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Algorithm_1_1Framework_1_1Portfolio_1_1MinimumVariancePortfolioOptimizer.html#abb984652b6c476c42c766a9b3507707c" title="Perform portfolio optimization for a provided matrix of historical returns and an array of expected r..." alt="" coords="5,5,327,61"/>
+</map>

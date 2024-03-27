@@ -1,0 +1,5 @@
+<map id="QuantConnect.Brokerages.CoinbaseBrokerageModel.IsOrderSizeLargeEnough" name="QuantConnect.Brokerages.CoinbaseBrokerageModel.IsOrderSizeLargeEnough">
+<area shape="rect" id="node1" title="Returns true if the order size is large enough for the given security." alt="" coords="353,31,592,87"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Brokerages_1_1CoinbaseBrokerageModel.html#a4733c3d643ca7eec26b1387e093bf1d4" title="Evaluates whether exchange will accept order. Will reject order update" alt="" coords="6,5,305,47"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Brokerages_1_1CoinbaseBrokerageModel.html#aad7b6640eb9e48d9bfadba6166de80b1" title="Determines whether the brokerage supports updating an existing order for the specified security." alt="" coords="5,71,305,112"/>
+</map>

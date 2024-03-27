@@ -1,0 +1,5 @@
+<map id="QuantConnect.Exceptions.ClrBubbledExceptionInterpreter" name="QuantConnect.Exceptions.ClrBubbledExceptionInterpreter">
+<area shape="rect" id="node1" title="Interprets ClrBubbledException instances" alt="" coords="5,155,232,196"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Exceptions_1_1SystemExceptionInterpreter.html" title="Base handler that will try get an exception file and line" alt="" coords="17,80,221,107"/>
+<area shape="rect" id="node3" href="$interfaceQuantConnect_1_1Exceptions_1_1IExceptionInterpreter.html" title="Defines an exception interpreter. Interpretations are invoked on IAlgorithm.RunTimeError" alt="" coords="39,5,198,32"/>
+</map>

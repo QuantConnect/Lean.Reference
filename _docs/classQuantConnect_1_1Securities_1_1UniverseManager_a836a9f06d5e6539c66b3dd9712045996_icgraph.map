@@ -1,0 +1,6 @@
+<map id="QuantConnect.Securities.UniverseManager.Remove" name="QuantConnect.Securities.UniverseManager.Remove">
+<area shape="rect" id="node1" title="Removes the first occurrence of a specific object from the T:System.Collections.Generic...." alt="" coords="648,39,843,80"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Algorithm_1_1QCAlgorithm.html#a2522d3da5e22e9da677d3be34717f70a" title="Used to send data updates to algorithm framework models" alt="" coords="327,5,600,47"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Algorithm_1_1QCAlgorithm.html#a6ece1896dff33aafccfb1707a83a77c3" title="Removes the security with the specified symbol. This will cancel all open orders and then liquidate a..." alt="" coords="327,71,600,112"/>
+<area shape="rect" id="node4" href="$classQuantConnect_1_1Algorithm_1_1QCAlgorithm.html#aaa03fad6a4f4df5db3a0273d94df6436" title="Removes the security with the specified symbol. This will cancel all open orders and then liquidate a..." alt="" coords="5,71,279,112"/>
+</map>

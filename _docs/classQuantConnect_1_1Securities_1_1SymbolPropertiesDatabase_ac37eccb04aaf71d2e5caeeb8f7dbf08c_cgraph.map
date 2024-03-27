@@ -1,0 +1,5 @@
+<map id="QuantConnect.Securities.SymbolPropertiesDatabase.ContainsKey" name="QuantConnect.Securities.SymbolPropertiesDatabase.ContainsKey">
+<area shape="rect" id="node1" title="Check whether symbol properties exists for the specified market/symbol/security&#45;type" alt="" coords="5,43,289,84"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Securities_1_1SymbolPropertiesDatabase.html#a3b4d0360c1a785aaaa3a440ce1e91204" title="Check whether symbol properties exists for the specified market/symbol/security&#45;type" alt="" coords="337,5,621,47"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Securities_1_1MarketHoursDatabase.html#aa717adb9bb04be931913608ffd5a2733" title="Gets the correct string symbol to use as a database key" alt="" coords="351,71,607,127"/>
+</map>

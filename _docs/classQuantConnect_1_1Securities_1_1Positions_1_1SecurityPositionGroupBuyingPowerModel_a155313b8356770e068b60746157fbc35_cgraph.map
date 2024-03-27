@@ -1,0 +1,4 @@
+<map id="QuantConnect.Securities.Positions.SecurityPositionGroupBuyingPowerModel.GetMaximumLotsForTargetBuyingPower" name="QuantConnect.Securities.Positions.SecurityPositionGroupBuyingPowerModel.GetMaximumLotsForTargetBuyingPower">
+<area shape="rect" id="node1" title="Get the maximum position group order quantity to obtain a position with a given buying power percenta..." alt="" coords="5,5,332,76"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Securities_1_1Positions_1_1GetMaximumLotsForTargetBuyingPowerParameters.html#a64085fb82be49901ede81f2d3b07beb8" title="Creates a new GetMaximumLotsResult with zero quantity and an error message." alt="" coords="380,13,641,69"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="QuantConnect.Indicators.IndicatorDataPoint.IndicatorDataPoint" name="QuantConnect.Indicators.IndicatorDataPoint.IndicatorDataPoint">
+<area shape="rect" id="node1" title="Initializes a new default instance of IndicatorDataPoint with a time of DateTime.MinValue and a Value..." alt="" coords="273,5,477,61"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Indicators_1_1IndicatorDataPoint.html#aeadac3e80132ea6c7a0c939a2ee3c6f1" title="Compares the current instance with another object of the same type and returns an integer that indica..." alt="" coords="5,13,225,54"/>
+</map>

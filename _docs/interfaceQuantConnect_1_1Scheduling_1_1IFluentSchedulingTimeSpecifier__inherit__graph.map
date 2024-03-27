@@ -1,0 +1,5 @@
+<map id="QuantConnect.Scheduling.IFluentSchedulingTimeSpecifier" name="QuantConnect.Scheduling.IFluentSchedulingTimeSpecifier">
+<area shape="rect" id="node1" title="Specifies the time rule component of a scheduled event" alt="" coords="5,5,232,47"/>
+<area shape="rect" id="node2" href="$interfaceQuantConnect_1_1Scheduling_1_1IFluentSchedulingRunnable.html" title="Specifies the callback component of a scheduled event, as well as final filters" alt="" coords="19,95,218,136"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Scheduling_1_1FluentScheduledEventBuilder.html" title="Provides a builder class to allow for fluent syntax when constructing new events" alt="" coords="12,184,225,225"/>
+</map>

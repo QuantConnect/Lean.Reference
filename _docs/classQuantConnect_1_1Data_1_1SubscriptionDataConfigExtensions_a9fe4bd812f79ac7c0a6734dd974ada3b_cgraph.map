@@ -1,0 +1,5 @@
+<map id="QuantConnect.Data.SubscriptionDataConfigExtensions.PricesShouldBeScaled" name="QuantConnect.Data.SubscriptionDataConfigExtensions.PricesShouldBeScaled">
+<area shape="rect" id="node1" title="Will determine if price scaling should be used for this subscription configuration" alt="" coords="5,20,257,76"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Symbol.html#a1f3c25223fd9a7b753a4f84ece6469ab" title="Method returns true, if symbol is a derivative canonical symbol" alt="" coords="305,5,552,32"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Util_1_1LeanData.html#af07561616d971cbd08adb7847eafb7f6" title="Determines if the Type is a &#39;common&#39; type used throughout lean This method is helpful in creating Sub..." alt="" coords="323,57,534,98"/>
+</map>

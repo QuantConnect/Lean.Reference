@@ -1,0 +1,14 @@
+var classQuantConnect_1_1Data_1_1Fundamental_1_1GainLossonDerecognitionofAvailableForSaleFinancialAssetsIncomeStatement =
+[
+    [ "GainLossonDerecognitionofAvailableForSaleFinancialAssetsIncomeStatement", "classQuantConnect_1_1Data_1_1Fundamental_1_1GainLossonDerecognitionofAvailableForSaleFinancialAssetsIncomeStatement.html#a63c80c8f155e1a39b2287a635879bae7", null ],
+    [ "GainLossonDerecognitionofAvailableForSaleFinancialAssetsIncomeStatement", "classQuantConnect_1_1Data_1_1Fundamental_1_1GainLossonDerecognitionofAvailableForSaleFinancialAssetsIncomeStatement.html#a9890496328d55e9b5a975760c2a370a4", null ],
+    [ "GetPeriodValues", "classQuantConnect_1_1Data_1_1Fundamental_1_1GainLossonDerecognitionofAvailableForSaleFinancialAssetsIncomeStatement.html#a685a589a300064b46de57a411873ece4", null ],
+    [ "GetPeriodValue", "classQuantConnect_1_1Data_1_1Fundamental_1_1GainLossonDerecognitionofAvailableForSaleFinancialAssetsIncomeStatement.html#ac0599e5b985b7cb5a2e8da4de25f1537", null ],
+    [ "DefaultPeriod", "classQuantConnect_1_1Data_1_1Fundamental_1_1GainLossonDerecognitionofAvailableForSaleFinancialAssetsIncomeStatement.html#ae32e43f0f16bd74f60b8bf1ad299d6bf", null ],
+    [ "ThreeMonths", "classQuantConnect_1_1Data_1_1Fundamental_1_1GainLossonDerecognitionofAvailableForSaleFinancialAssetsIncomeStatement.html#a8f780206e041db64656d3cb7c633c03a", null ],
+    [ "SixMonths", "classQuantConnect_1_1Data_1_1Fundamental_1_1GainLossonDerecognitionofAvailableForSaleFinancialAssetsIncomeStatement.html#a747b913c5d9e09a3a7a9c481318028d0", null ],
+    [ "NineMonths", "classQuantConnect_1_1Data_1_1Fundamental_1_1GainLossonDerecognitionofAvailableForSaleFinancialAssetsIncomeStatement.html#ab37c5d589b26e7fdc7bcbf14289fb9f8", null ],
+    [ "TwelveMonths", "classQuantConnect_1_1Data_1_1Fundamental_1_1GainLossonDerecognitionofAvailableForSaleFinancialAssetsIncomeStatement.html#a611debec211d717db6da02007b579a7b", null ],
+    [ "HasValue", "classQuantConnect_1_1Data_1_1Fundamental_1_1GainLossonDerecognitionofAvailableForSaleFinancialAssetsIncomeStatement.html#a1c11fd9efc0c69fb8f224306a75db45c", null ],
+    [ "Value", "classQuantConnect_1_1Data_1_1Fundamental_1_1GainLossonDerecognitionofAvailableForSaleFinancialAssetsIncomeStatement.html#adc737c4f83f86b0b5e73df1e07f767a5", null ]
+];

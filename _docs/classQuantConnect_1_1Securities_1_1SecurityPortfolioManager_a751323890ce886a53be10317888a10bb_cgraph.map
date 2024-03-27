@@ -1,0 +1,4 @@
+<map id="QuantConnect.Securities.SecurityPortfolioManager.ProcessFills" name="QuantConnect.Securities.SecurityPortfolioManager.ProcessFills">
+<area shape="rect" id="node1" title="Calculate the new average price after processing a list of partial/complete order fill events." alt="" coords="5,13,272,54"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Securities_1_1SecurityPortfolioManager.html#a752342997e11998f5c14f238c2ad4b5d" title="Will flag the current TotalPortfolioValue as invalid so it is recalculated when gotten" alt="" coords="320,5,575,61"/>
+</map>

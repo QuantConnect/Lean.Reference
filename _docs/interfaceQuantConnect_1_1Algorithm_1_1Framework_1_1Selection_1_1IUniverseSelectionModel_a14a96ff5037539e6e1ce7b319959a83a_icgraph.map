@@ -1,0 +1,5 @@
+<map id="QuantConnect.Algorithm.Framework.Selection.IUniverseSelectionModel.GetNextRefreshTimeUtc" name="QuantConnect.Algorithm.Framework.Selection.IUniverseSelectionModel.GetNextRefreshTimeUtc">
+<area shape="rect" id="node1" title="Gets the next time the framework should invoke the CreateUniverses method to refresh the set of unive..." alt="" coords="392,35,667,91"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Algorithm_1_1QCAlgorithm.html#a2522d3da5e22e9da677d3be34717f70a" title="Used to send data updates to algorithm framework models" alt="" coords="38,5,311,47"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Algorithm_1_1Framework_1_1Selection_1_1UniverseSelectionModelPythonWrapper.html#ae2414872c539d6276c4abaf915efef3d" title="Constructor for initialising the IUniverseSelectionModel class with wrapped PyObject object" alt="" coords="5,71,344,127"/>
+</map>

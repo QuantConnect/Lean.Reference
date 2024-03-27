@@ -1,0 +1,7 @@
+var namespaceQuantConnect_1_1Lean_1_1Engine_1_1TransactionHandlers =
+[
+    [ "BacktestingTransactionHandler", "classQuantConnect_1_1Lean_1_1Engine_1_1TransactionHandlers_1_1BacktestingTransactionHandler.html", "classQuantConnect_1_1Lean_1_1Engine_1_1TransactionHandlers_1_1BacktestingTransactionHandler" ],
+    [ "BrokerageTransactionHandler", "classQuantConnect_1_1Lean_1_1Engine_1_1TransactionHandlers_1_1BrokerageTransactionHandler.html", "classQuantConnect_1_1Lean_1_1Engine_1_1TransactionHandlers_1_1BrokerageTransactionHandler" ],
+    [ "CancelPendingOrders", "classQuantConnect_1_1Lean_1_1Engine_1_1TransactionHandlers_1_1CancelPendingOrders.html", "classQuantConnect_1_1Lean_1_1Engine_1_1TransactionHandlers_1_1CancelPendingOrders" ],
+    [ "ITransactionHandler", "interfaceQuantConnect_1_1Lean_1_1Engine_1_1TransactionHandlers_1_1ITransactionHandler.html", "interfaceQuantConnect_1_1Lean_1_1Engine_1_1TransactionHandlers_1_1ITransactionHandler" ]
+];

@@ -1,0 +1,4 @@
+<map id="QuantConnect.Securities.CashBook.Add" name="QuantConnect.Securities.CashBook.Add">
+<area shape="rect" id="node1" title="Add the specified item to this CashBook." alt="" coords="5,5,192,47"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Securities_1_1CashBook.html#a89ddd1f0bbd2c8c4e2c8df5abff22d9a" title="Adds a new cash of the specified symbol and quantity" alt="" coords="240,5,427,47"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="QuantConnect.Indicators.DetrendedPriceOscillator" name="QuantConnect.Indicators.DetrendedPriceOscillator">
+<area shape="rect" id="node1" title="The Detrended Price Oscillator is an indicator designed to remove trend from price and make it easier..." alt="" coords="119,95,306,136"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Indicators_1_1IndicatorBase.html" title=" " alt="" coords="5,5,188,47"/>
+<area shape="rect" id="node3" href="$interfaceQuantConnect_1_1Indicators_1_1IIndicatorWarmUpPeriodProvider.html" title="Represents an indicator with a warm up period provider." alt="" coords="213,13,447,39"/>
+</map>

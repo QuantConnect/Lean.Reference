@@ -1,0 +1,11 @@
+<map id="QuantConnect.Lean.Engine.HistoricalData.BrokerageHistoryProvider.GetHistory" name="QuantConnect.Lean.Engine.HistoricalData.BrokerageHistoryProvider.GetHistory">
+<area shape="rect" id="node1" title="Gets the history for the requested securities" alt="" coords="5,125,237,181"/>
+<area shape="rect" id="node2" href="$interfaceQuantConnect_1_1Interfaces_1_1IDataPermissionManager.html#a43996d144f0389a27e15d8bb17b3f858" title="Will assert the requested configuration is valid for the current job" alt="" coords="345,5,576,61"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Lean_1_1Engine_1_1HistoricalData_1_1SynchronizingHistoryProvider.html#a103404ede972372c43d2522c3ff179ff" title="Enumerates the subscriptions into slices" alt="" coords="285,85,636,141"/>
+<area shape="rect" id="node5" href="$classQuantConnect_1_1Lean_1_1Engine_1_1HistoricalData_1_1SynchronizingHistoryProvider.html#a409b17176bc2f0a6d2209167f54fec7e" title="Creates a subscription to process the history request" alt="" coords="332,165,589,221"/>
+<area shape="rect" id="node9" href="$interfaceQuantConnect_1_1Interfaces_1_1IBrokerage.html#a8eea81b28dedf461e3a63a0117305a71" title="Gets the history for the requested security" alt="" coords="367,246,554,287"/>
+<area shape="rect" id="node4" href="$classQuantConnect_1_1Lean_1_1Engine_1_1DataFeeds_1_1DataFeedPacket.html#ab5152038a1554b2a0445c67fb8cb4e3f" title="Adds the specified data to this packet" alt="" coords="696,93,924,134"/>
+<area shape="rect" id="node6" href="$classQuantConnect_1_1Lean_1_1Engine_1_1DataFeeds_1_1SubscriptionUtils.html#af00eedac463677884ee685b4359a06fd" title="Creates a new Subscription which will directly consume the provided enumerator" alt="" coords="684,166,936,207"/>
+<area shape="rect" id="node7" href="$classQuantConnect_1_1Securities_1_1SymbolProperties.html#ad148190d1dfce7109d38d3107b7b8fbf" title="Gets a default instance of the SymbolProperties class for the specified quoteCurrency" alt="" coords="704,231,916,273"/>
+<area shape="rect" id="node8" href="$classQuantConnect_1_1Securities_1_1SymbolProperties.html#a0f421617bcddd5b08a830689b1e2dcfa" title="Creates an instance of the SymbolProperties class" alt="" coords="984,231,1240,273"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="QuantConnect.Orders.Slippage.ConstantSlippageModel.GetSlippageApproximation" name="QuantConnect.Orders.Slippage.ConstantSlippageModel.GetSlippageApproximation">
+<area shape="rect" id="node1" title="Slippage Model. Return a decimal cash slippage approximation on the order." alt="" coords="5,5,264,61"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Securities_1_1Security.html#ab93a58a84a4aa1b19d0972faf6c056c4" title="Get the last price update set to the security if any else null" alt="" coords="312,13,499,54"/>
+</map>

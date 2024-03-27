@@ -1,0 +1,6 @@
+<map id="QuantConnect.Packets.BacktestNodePacket" name="QuantConnect.Packets.BacktestNodePacket">
+<area shape="rect" id="node1" title="Algorithm backtest task information packet." alt="" coords="5,229,233,271"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Packets_1_1AlgorithmNodePacket.html" title="Algorithm Node Packet is a work task for the Lean Engine" alt="" coords="38,155,201,181"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Packets_1_1PythonEnvironmentPacket.html" title="Python Environment Packet is an abstract packet that contains a PythonVirtualEnvironment definition...." alt="" coords="23,80,215,107"/>
+<area shape="rect" id="node4" href="$classQuantConnect_1_1Packets_1_1Packet.html" title="Base class for packet messaging system" alt="" coords="87,5,151,32"/>
+</map>

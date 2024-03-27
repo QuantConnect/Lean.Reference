@@ -1,0 +1,4 @@
+<map id="QuantConnect.Securities.Option.Option.GetPayOff" name="QuantConnect.Securities.Option.Option.GetPayOff">
+<area shape="rect" id="node1" title="Option payoff function at expiration time" alt="" coords="247,5,433,47"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Extensions.html#af2da9d683b99983b3a3666d96a563b01" title="Gets the option&#39;s ITM amount for the given quantity." alt="" coords="5,5,199,47"/>
+</map>

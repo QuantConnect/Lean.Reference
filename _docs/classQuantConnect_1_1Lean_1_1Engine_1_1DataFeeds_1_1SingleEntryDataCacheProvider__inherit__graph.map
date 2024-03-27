@@ -1,0 +1,5 @@
+<map id="QuantConnect.Lean.Engine.DataFeeds.SingleEntryDataCacheProvider" name="QuantConnect.Lean.Engine.DataFeeds.SingleEntryDataCacheProvider">
+<area shape="rect" id="node1" title="Default implementation of the IDataCacheProvider Does not cache data. If the data is a zip,..." alt="" coords="5,155,245,211"/>
+<area shape="rect" id="node2" href="$interfaceQuantConnect_1_1Interfaces_1_1IDataCacheProvider.html" title="Defines a cache for data" alt="" coords="50,80,201,107"/>
+<area shape="rect" id="node3" title=" " alt="" coords="76,5,175,32"/>
+</map>

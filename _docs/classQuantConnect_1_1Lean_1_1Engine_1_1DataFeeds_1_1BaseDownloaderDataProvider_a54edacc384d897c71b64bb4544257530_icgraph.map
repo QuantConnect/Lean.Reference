@@ -1,0 +1,5 @@
+<map id="QuantConnect.Lean.Engine.DataFeeds.BaseDownloaderDataProvider.DownloadOnce" name="QuantConnect.Lean.Engine.DataFeeds.BaseDownloaderDataProvider.DownloadOnce">
+<area shape="rect" id="node1" title="Helper method which guarantees each requested key is downloaded only once concurrently if required ba..." alt="" coords="349,31,643,87"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Lean_1_1Engine_1_1DataFeeds_1_1DownloaderDataProvider.html#a1c8b7b1808d3c60ba757a4f8fbafc5ba" title="Determines if it should downloads new data and retrieves data from disc" alt="" coords="5,5,301,47"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Lean_1_1Engine_1_1DataFeeds_1_1ApiDataProvider.html#a4a3b792abb8244bb0fa3a6be2f9d1fd9" title="Retrieves data to be used in an algorithm. If file does not exist, an attempt is made to download the..." alt="" coords="34,71,273,112"/>
+</map>

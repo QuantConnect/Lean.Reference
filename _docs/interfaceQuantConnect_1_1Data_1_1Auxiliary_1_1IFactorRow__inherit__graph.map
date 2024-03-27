@@ -1,0 +1,5 @@
+<map id="QuantConnect.Data.Auxiliary.IFactorRow" name="QuantConnect.Data.Auxiliary.IFactorRow">
+<area shape="rect" id="node1" title="Factor row abstraction. IFactorProvider" alt="" coords="5,39,219,80"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Data_1_1Auxiliary_1_1CorporateFactorRow.html" title="Defines a single row in a factor_factor file. This is a csv file ordered as {date,..." alt="" coords="267,5,480,47"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Data_1_1Auxiliary_1_1MappingContractFactorRow.html" title="Collection of factors for continuous contracts and their back months contracts for a specific mapping..." alt="" coords="267,71,480,112"/>
+</map>

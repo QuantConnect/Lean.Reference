@@ -1,0 +1,5 @@
+<map id="QuantConnect.ToolBox.CsvDataProcessor.Process" name="QuantConnect.ToolBox.CsvDataProcessor.Process">
+<area shape="rect" id="node1" title="Invoked for each piece of data from the source file" alt="" coords="5,5,203,47"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Util_1_1LeanData.html#a7ed92bff1a81ec74f705b61a4b721b5d" title="Converts the specified base data instance into a lean data file csv line. This method takes into acco..." alt="" coords="251,5,461,47"/>
+<area shape="rect" id="node3" href="$interfaceQuantConnect_1_1Data_1_1IBaseData.html#a3373b19abcdda9f0fb7571d4cecff7b8" title="Return a new instance clone of this object" alt="" coords="509,5,733,47"/>
+</map>

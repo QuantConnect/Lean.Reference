@@ -1,0 +1,4 @@
+<map id="QuantConnect.ToolBox.RandomDataGenerator.TickGenerator.NextTickTime" name="QuantConnect.ToolBox.RandomDataGenerator.TickGenerator.NextTickTime">
+<area shape="rect" id="node1" title="Generates a random DateTime suitable for use as a tick&#39;s emit time. If the density provided is DataDe..." alt="" coords="364,5,611,61"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1ToolBox_1_1RandomDataGenerator_1_1TickGenerator.html#a0b9b8cf4ffe26b9bfd7976671b9e3ddb" title="Generates and enumerates data points for current symbol" alt="" coords="5,13,316,54"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="QuantConnect.Data.Consolidators.BaseDataConsolidator.BaseDataConsolidator" name="QuantConnect.Data.Consolidators.BaseDataConsolidator.BaseDataConsolidator">
+<area shape="rect" id="node1" title="Creates a consolidator to produce a new &#39;TradeBar&#39; representing the period" alt="" coords="325,5,640,47"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Data_1_1Consolidators_1_1BaseDataConsolidator.html#adce4cd01830e3e2656ba2c30dc6f4e97" title="Create a new TickConsolidator for the desired resolution" alt="" coords="5,5,277,47"/>
+</map>

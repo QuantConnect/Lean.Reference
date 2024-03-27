@@ -1,0 +1,6 @@
+<map id="QuantConnect.Algorithm.QCAlgorithm.AddUniverseOptions" name="QuantConnect.Algorithm.QCAlgorithm.AddUniverseOptions">
+<area shape="rect" id="node1" title="Adds a new universe that creates options of the security by monitoring any changes in the Universe th..." alt="" coords="5,71,279,112"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Algorithm_1_1QCAlgorithm.html#a101da8582e6819d82780f37a3b3162e0" title="Add specified data to our data subscriptions. QuantConnect will funnel this data to the handle data r..." alt="" coords="327,5,600,47"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Algorithm_1_1QCAlgorithm.html#ac8766651d133584cee7f03ba6d53bb86" title="Creates a new universe selection model and adds it to the algorithm. This universe selection model wi..." alt="" coords="327,71,600,112"/>
+<area shape="rect" id="node4" href="$classQuantConnect_1_1Securities_1_1UniverseManager.html#af60ce15a9fe3719dcca8f1cf5d346a2a" title="Gets the value associated with the specified key." alt="" coords="354,136,573,177"/>
+</map>

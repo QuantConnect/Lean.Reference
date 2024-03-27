@@ -1,0 +1,4 @@
+<map id="QuantConnect.Exceptions.SystemExceptionInterpreter.Interpret" name="QuantConnect.Exceptions.SystemExceptionInterpreter.Interpret">
+<area shape="rect" id="node1" title="Interprets the specified exception into a new exception" alt="" coords="5,13,268,54"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Exceptions_1_1SystemExceptionInterpreter.html#a8e7587ad2b81434fc8a8f82111cc2ddf" title="Helper method to get the file and line from a C# stacktrace" alt="" coords="316,5,543,61"/>
+</map>

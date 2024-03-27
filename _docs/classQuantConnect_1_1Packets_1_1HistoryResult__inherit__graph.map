@@ -1,0 +1,7 @@
+<map id="QuantConnect.Packets.HistoryResult" name="QuantConnect.Packets.HistoryResult">
+<area shape="rect" id="node1" title="Provides a container for results from history requests. This contains the file path relative to the /..." alt="" coords="5,104,224,145"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Packets_1_1CompletedHistoryResult.html" title="Specifies the completed message from a history result" alt="" coords="272,5,515,47"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Packets_1_1ErrorHistoryResult.html" title="Specfies an error message in a history result" alt="" coords="292,71,495,112"/>
+<area shape="rect" id="node4" href="$classQuantConnect_1_1Packets_1_1FileHistoryResult.html" title="Defines requested file data for a history request" alt="" coords="296,136,491,177"/>
+<area shape="rect" id="node5" href="$classQuantConnect_1_1Packets_1_1StatusHistoryResult.html" title="Specifies the progress of a request" alt="" coords="287,201,499,243"/>
+</map>

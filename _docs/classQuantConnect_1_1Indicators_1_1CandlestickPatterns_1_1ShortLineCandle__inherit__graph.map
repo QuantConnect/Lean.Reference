@@ -1,0 +1,5 @@
+<map id="QuantConnect.Indicators.CandlestickPatterns.ShortLineCandle" name="QuantConnect.Indicators.CandlestickPatterns.ShortLineCandle">
+<area shape="rect" id="node1" title="Short Line Candle candlestick pattern indicator" alt="" coords="5,169,221,225"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Indicators_1_1CandlestickPatterns_1_1CandlestickPattern.html" title="Abstract base class for a candlestick pattern indicator" alt="" coords="41,95,185,121"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Indicators_1_1WindowIndicator.html" title=" " alt="" coords="7,5,220,47"/>
+</map>

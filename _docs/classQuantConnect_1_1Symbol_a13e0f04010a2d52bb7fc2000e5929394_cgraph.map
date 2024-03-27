@@ -1,0 +1,11 @@
+<map id="QuantConnect.Symbol.UpdateMappedSymbol" name="QuantConnect.Symbol.UpdateMappedSymbol">
+<area shape="rect" id="node1" title="Creates new symbol with updated mapped symbol. Symbol Mapping: When symbols change over time (e...." alt="" coords="5,58,224,99"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1SymbolRepresentation.html#ab133044f5cf8c16e700190a2202b215e" title="Returns option symbol ticker in accordance with OSI symbology More information can be found at http:/..." alt="" coords="847,30,1117,71"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Symbol.html#a1f3c25223fd9a7b753a4f84ece6469ab" title="Method returns true, if symbol is a derivative canonical symbol" alt="" coords="272,36,519,63"/>
+<area shape="rect" id="node4" href="$classQuantConnect_1_1SecurityIdentifier.html#a89ccb2161613f17d18ca3dc1e9eb3872" title="Parses the specified string into a SecurityIdentifier The string must be a 40 digit number...." alt="" coords="279,87,511,129"/>
+<area shape="rect" id="node6" href="$classQuantConnect_1_1Symbol.html#a59158f74116be3dad0ea0f3f3f134416" title="Initializes a new instance of the Symbol class" alt="" coords="285,153,505,180"/>
+<area shape="rect" id="node5" href="$classQuantConnect_1_1SecurityIdentifier.html#a59bd74be4ec55a0e4631af9e10f65d7c" title="Attempts to parse the specified &#160;as a SecurityIdentifier." alt="" coords="567,87,799,129"/>
+<area shape="rect" id="node7" href="$classQuantConnect_1_1Symbol.html#a59b0795fa21f46c306deb5576fa03bb9" title="Centralized helper method to resolve alias for a symbol" alt="" coords="569,153,796,180"/>
+<area shape="rect" id="node8" href="$classQuantConnect_1_1SymbolRepresentation.html#ad43ac907f6c19083821f58f21c6de017" title="Returns future symbol ticker from underlying and expiration date. Function can generate tickers of tw..." alt="" coords="847,146,1117,187"/>
+<area shape="rect" id="node9" href="$classQuantConnect_1_1Securities_1_1Future_1_1FuturesExpiryUtilityFunctions.html#a4ccb1e2f2fe40ff09785a74a02f26df1" title="Gets the number of months between the contract month and the expiry date." alt="" coords="1165,139,1520,195"/>
+</map>

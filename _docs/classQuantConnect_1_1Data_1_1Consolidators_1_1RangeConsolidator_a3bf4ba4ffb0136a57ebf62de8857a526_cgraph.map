@@ -1,0 +1,5 @@
+<map id="QuantConnect.Data.Consolidators.RangeConsolidator.UpdateBar" name="QuantConnect.Data.Consolidators.RangeConsolidator.UpdateBar">
+<area shape="rect" id="node1" title="Updates the current RangeBar being created with the given data. Additionally, if it&#39;s the case,..." alt="" coords="5,50,252,91"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Data_1_1Consolidators_1_1BaseTimelessConsolidator.html#a2cabd05937b79337e7cff72d6575bbdf" title="Event invocator for the DataConsolidated event. This should be invoked by derived classes when they h..." alt="" coords="300,5,547,61"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Data_1_1Market_1_1RangeBar.html#a29681b24849c52662a4efdb785c58099" title="Updates this RangeBar with the specified values" alt="" coords="322,86,525,127"/>
+</map>

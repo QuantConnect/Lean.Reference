@@ -1,0 +1,8 @@
+<map id="QuantConnect.SymbolCache.GetSymbol" name="QuantConnect.SymbolCache.GetSymbol">
+<area shape="rect" id="node1" title="Gets the Symbol object that is mapped to the specified string ticker symbol" alt="" coords="648,71,859,112"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Extensions.html#a7b6416829dcb1d49c25de0d98a3d5e2b" title="Gets Enumerable of Symbol from a PyObject" alt="" coords="356,5,571,47"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Data_1_1DynamicData.html#ac37b26cff252702587c0c362e099f9ec" title="Sets the property with the specified name to the value. This is a case&#45;insensitve search." alt="" coords="358,71,569,112"/>
+<area shape="rect" id="node5" href="$classQuantConnect_1_1Algorithm_1_1QCAlgorithm.html#aa13b5a2143a58f5fda30bda0bbc9bff1" title="Converts the string &#39;ticker&#39; symbol into a full Symbol object This requires that the string &#39;ticker&#39; ..." alt="" coords="327,136,600,177"/>
+<area shape="rect" id="node4" href="$classQuantConnect_1_1Python_1_1PythonData.html#a6c32ee1e07b3ee55aef88baff6208167" title="Generic Reader Implementation for Python Custom Data." alt="" coords="36,71,248,112"/>
+<area shape="rect" id="node6" href="$classQuantConnect_1_1Algorithm_1_1QCAlgorithm.html#a091fba2e75c493178894d0447edcaff3" title="AddData a new user defined data source, requiring only the minimum config options...." alt="" coords="5,136,279,177"/>
+</map>

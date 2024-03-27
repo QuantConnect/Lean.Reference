@@ -1,0 +1,6 @@
+<map id="QuantConnect.Lean.Engine.Results.LiveTradingResultHandler.SampleRange" name="QuantConnect.Lean.Engine.Results.LiveTradingResultHandler.SampleRange">
+<area shape="rect" id="node1" title="Add a range of samples from the users algorithms to the end of our current list." alt="" coords="5,31,248,87"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1BaseSeries.html#a63f9559b3f67a80f1d35653f9c9da081" title="Will sum up all chart points into a new single value, using the time of latest point" alt="" coords="299,5,493,47"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Logging_1_1Log.html#ad908daef9d61532d7d60c9dcfb9a3e0c" title="Output to the console" alt="" coords="296,71,496,112"/>
+<area shape="rect" id="node4" href="$interfaceQuantConnect_1_1Logging_1_1ILogHandler.html#a2c738b8e78dd5b54244bc68b969ba91d" title="Write debug message to log" alt="" coords="544,71,744,112"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="QuantConnect.Util.TypeChangeJsonConverter&lt; T, TResult &gt;" name="QuantConnect.Util.TypeChangeJsonConverter&lt; T, TResult &gt;">
+<area shape="rect" id="node1" title="Provides a base class for a JsonConverter that serializes a an input type as some other output type" alt="" coords="5,80,229,121"/>
+<area shape="rect" id="node2" title=" " alt="" coords="61,5,174,32"/>
+</map>

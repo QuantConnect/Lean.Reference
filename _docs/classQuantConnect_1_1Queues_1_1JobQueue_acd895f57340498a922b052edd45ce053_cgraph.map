@@ -1,0 +1,4 @@
+<map id="QuantConnect.Queues.JobQueue.Initialize" name="QuantConnect.Queues.JobQueue.Initialize">
+<area shape="rect" id="node1" title="Initialize the job queue:" alt="" coords="5,5,243,47"/>
+<area shape="rect" id="node2" href="$interfaceQuantConnect_1_1Interfaces_1_1IApi.html#a7f5731bba89575737daa2bb9ff87d5b9" title="Initialize the control system" alt="" coords="291,5,477,47"/>
+</map>

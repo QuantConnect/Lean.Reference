@@ -1,0 +1,4 @@
+<map id="QuantConnect.Securities.CurrencyConversion.SecurityCurrencyConversion" name="QuantConnect.Securities.CurrencyConversion.SecurityCurrencyConversion">
+<area shape="rect" id="node1" title="Provides an implementation of ICurrencyConversion to find and use multi&#45;leg currency conversions" alt="" coords="5,80,273,136"/>
+<area shape="rect" id="node2" href="$interfaceQuantConnect_1_1Securities_1_1CurrencyConversion_1_1ICurrencyConversion.html" title="Represents a type capable of calculating the conversion rate between two currencies" alt="" coords="61,5,218,32"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="QuantConnect.Packets.BacktestResultPacket.BacktestResultPacket" name="QuantConnect.Packets.BacktestResultPacket.BacktestResultPacket">
+<area shape="rect" id="node1" title="Compose the packet from a JSON string:" alt="" coords="5,5,255,47"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Logging_1_1Log.html#a4e55477fbc790846b74550a57198cea9" title="Log trace" alt="" coords="303,5,503,47"/>
+<area shape="rect" id="node3" href="$interfaceQuantConnect_1_1Logging_1_1ILogHandler.html#a3fb71a33ac66129240b63f12b6fcda3b" title="Write debug message to log" alt="" coords="551,5,751,47"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="QuantConnect.Scheduling.ScheduleManager.Add" name="QuantConnect.Scheduling.ScheduleManager.Add">
+<area shape="rect" id="node1" title="Adds the specified event to the schedule" alt="" coords="247,5,440,47"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Scheduling_1_1ScheduleManager.html#a54a136a16ab112259a65cef3e8129aff" title="Schedules the callback to run using the specified date and time rules" alt="" coords="5,5,199,47"/>
+</map>

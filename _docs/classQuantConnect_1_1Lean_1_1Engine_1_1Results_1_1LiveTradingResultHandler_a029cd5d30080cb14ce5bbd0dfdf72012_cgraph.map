@@ -1,0 +1,4 @@
+<map id="QuantConnect.Lean.Engine.Results.LiveTradingResultHandler.StoreOrderEvents" name="QuantConnect.Lean.Engine.Results.LiveTradingResultHandler.StoreOrderEvents">
+<area shape="rect" id="node1" title="Stores the order events" alt="" coords="5,5,248,61"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Lean_1_1Engine_1_1Results_1_1BaseResultsHandler.html#a29c14fd3525bf7327191bcd890304660" title="Gets the full path for a results file" alt="" coords="296,5,527,61"/>
+</map>

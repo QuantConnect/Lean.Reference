@@ -1,0 +1,4 @@
+<map id="QuantConnect.Research.QuantBook.UniverseHistory&lt; T1, T2 &gt;" name="QuantConnect.Research.QuantBook.UniverseHistory&lt; T1, T2 &gt;">
+<area shape="rect" id="node1" title="Will return the universe selection data and will optionally perform selection" alt="" coords="5,5,240,47"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Algorithm_1_1QCAlgorithm.html#a3dbba29e9f318ae97e8b99a1eb19537c" title="Helper method to create history requests from a date range" alt="" coords="288,5,561,47"/>
+</map>

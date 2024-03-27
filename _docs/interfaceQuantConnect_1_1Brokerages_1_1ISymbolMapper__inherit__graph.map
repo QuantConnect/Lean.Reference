@@ -1,0 +1,4 @@
+<map id="QuantConnect.Brokerages.ISymbolMapper" name="QuantConnect.Brokerages.ISymbolMapper">
+<area shape="rect" id="node1" title="Provides the mapping between Lean symbols and brokerage specific symbols." alt="" coords="32,5,227,47"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Brokerages_1_1SymbolPropertiesDatabaseSymbolMapper.html" title="Provides the mapping between Lean symbols and brokerage symbols using the symbol properties database" alt="" coords="5,95,253,151"/>
+</map>

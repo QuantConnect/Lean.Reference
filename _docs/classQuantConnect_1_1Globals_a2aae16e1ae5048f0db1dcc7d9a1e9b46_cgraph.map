@@ -1,0 +1,10 @@
+<map id="QuantConnect.Globals.Reset" name="QuantConnect.Globals.Reset">
+<area shape="rect" id="node1" title="Resets global values with the Config data." alt="" coords="5,143,213,170"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Configuration_1_1Config.html#aaabf1286e33a675b2e116f3289981839" title="Get the matching config setting from the file searching for this key." alt="" coords="261,71,471,112"/>
+<area shape="rect" id="node7" href="$classQuantConnect_1_1Configuration_1_1Config.html#a1b3f6bb930cb6c34d2ce7dffcdd2605c" title="Get a boolean value configuration setting by a configuration key." alt="" coords="261,136,471,177"/>
+<area shape="rect" id="node8" href="$classQuantConnect_1_1Configuration_1_1Config.html#a7e8e4f537e349a84b9a2b0f7d3153a0b" title="Get the int value of a config string." alt="" coords="261,201,471,243"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Configuration_1_1Config.html#a1504ca19b3759d008b090375ddf4ad10" title="Gets the currently selected environment. If sub&#45;environments are defined, they&#39;ll be returned as {env..." alt="" coords="519,5,728,47"/>
+<area shape="rect" id="node4" href="$classQuantConnect_1_1Configuration_1_1Config.html#a9ed01bc116e8181a7557f3e668f34691" title="Gets the underlying JToken for the specified key" alt="" coords="519,71,728,112"/>
+<area shape="rect" id="node5" href="$classQuantConnect_1_1Logging_1_1Log.html#a4e55477fbc790846b74550a57198cea9" title="Log trace" alt="" coords="523,136,723,177"/>
+<area shape="rect" id="node6" href="$interfaceQuantConnect_1_1Logging_1_1ILogHandler.html#a3fb71a33ac66129240b63f12b6fcda3b" title="Write debug message to log" alt="" coords="776,136,976,177"/>
+</map>

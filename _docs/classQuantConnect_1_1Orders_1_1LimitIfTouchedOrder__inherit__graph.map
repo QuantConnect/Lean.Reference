@@ -1,0 +1,4 @@
+<map id="QuantConnect.Orders.LimitIfTouchedOrder" name="QuantConnect.Orders.LimitIfTouchedOrder">
+<area shape="rect" id="node1" title="In effect, a LimitIfTouchedOrder behaves opposite to the StopLimitOrder; after a trigger price is tou..." alt="" coords="5,80,204,121"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Orders_1_1Order.html" title="Order struct for placing new trade" alt="" coords="75,5,134,32"/>
+</map>

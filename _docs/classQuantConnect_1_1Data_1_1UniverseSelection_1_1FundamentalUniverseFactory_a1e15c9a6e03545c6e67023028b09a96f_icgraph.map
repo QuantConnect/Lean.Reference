@@ -1,0 +1,5 @@
+<map id="QuantConnect.Data.UniverseSelection.FundamentalUniverseFactory.CreateConfiguration" name="QuantConnect.Data.UniverseSelection.FundamentalUniverseFactory.CreateConfiguration">
+<area shape="rect" id="node1" title="Creates a Fundamental.Fundamental subscription configuration for the US&#45;equity market" alt="" coords="332,45,611,101"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Data_1_1UniverseSelection_1_1FineFundamentalUniverse.html#a6ac4d7c07a2aa5912b391f7bf0c2e161" title="Creates a FineFundamental subscription configuration for the US&#45;equity market" alt="" coords="15,5,275,61"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Data_1_1UniverseSelection_1_1CoarseFundamentalUniverse.html#a268176a93fc87c0a889cf3ef0e8fc80f" title="Creates a CoarseFundamental subscription configuration for the US&#45;equity market" alt="" coords="5,85,284,141"/>
+</map>

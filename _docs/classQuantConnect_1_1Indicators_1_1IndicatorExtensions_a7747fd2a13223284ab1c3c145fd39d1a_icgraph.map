@@ -1,0 +1,5 @@
+<map id="QuantConnect.Indicators.IndicatorExtensions.Times" name="QuantConnect.Indicators.IndicatorExtensions.Times">
+<area shape="rect" id="node1" title="Creates a new CompositeIndicator such that the result will be the product of the left and the constan..." alt="" coords="292,39,487,80"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Indicators_1_1ImpliedVolatility.html#a527a7e70956a9470057d2edd15cb231c" title="Initializes a new instance of the ImpliedVolatility class" alt="" coords="5,5,244,47"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Indicators_1_1IndicatorExtensions.html#ab58a32d8f4061d25060b9289a85c607c" title="Creates a new CompositeIndicator such that the result will be the product of the left and the constan..." alt="" coords="27,71,222,112"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="QuantConnect.Algorithm.Framework.Execution.StandardDeviationExecutionModel.PriceIsFavorable" name="QuantConnect.Algorithm.Framework.Execution.StandardDeviationExecutionModel.PriceIsFavorable">
+<area shape="rect" id="node1" title="Determines if the current price is more than the configured number of standard deviations away from t..." alt="" coords="327,5,600,61"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Algorithm_1_1Framework_1_1Execution_1_1StandardDeviationExecutionModel.html#a7b2f5bc880cedfe6ed0c30cdc5c9df17" title="Executes market orders if the standard deviation of price is more than the configured number of devia..." alt="" coords="5,5,279,61"/>
+</map>

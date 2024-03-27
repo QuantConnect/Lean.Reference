@@ -1,0 +1,4 @@
+<map id="QuantConnect.Securities.InitialMargin.operator InitialMargin" name="QuantConnect.Securities.InitialMargin.operator InitialMargin">
+<area shape="rect" id="node1" title="Implicit operator decimal &#45;&gt; InitialMargin" alt="" coords="5,5,192,61"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Securities_1_1InitialMargin.html#a73ef938b593ce4d0736d8fe2152d69f9" title="Initializes a new instance of the InitialMargin class" alt="" coords="240,13,431,54"/>
+</map>

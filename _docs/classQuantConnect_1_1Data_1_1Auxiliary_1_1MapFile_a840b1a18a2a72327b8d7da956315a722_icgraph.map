@@ -1,0 +1,6 @@
+<map id="QuantConnect.Data.Auxiliary.MapFile.GetMappedSymbol" name="QuantConnect.Data.Auxiliary.MapFile.GetMappedSymbol">
+<area shape="rect" id="node1" title="Memory overload search method for finding the mapped symbol for this date." alt="" coords="328,93,541,134"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Lean_1_1Engine_1_1DataFeeds_1_1Enumerators_1_1MappingEventProvider.html#a40907ad3241f52cdf880c8d64982f5bc" title="Check for new mappings" alt="" coords="5,5,280,61"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Lean_1_1Engine_1_1DataFeeds_1_1Enumerators_1_1MappingEventProvider.html#af71da3b51ab48d4d71081f3467058609" title="Initializes this instance" alt="" coords="5,85,280,141"/>
+<area shape="rect" id="node4" href="$classQuantConnect_1_1Data_1_1Auxiliary_1_1MapFile.html#af3dad86aa171231fb44c43b4504a6322" title="Initializes a new instance of the MapFile class." alt="" coords="36,166,249,207"/>
+</map>

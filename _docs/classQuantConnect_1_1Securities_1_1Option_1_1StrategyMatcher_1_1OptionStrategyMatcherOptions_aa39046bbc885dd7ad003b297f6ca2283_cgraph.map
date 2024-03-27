@@ -1,0 +1,4 @@
+<map id="QuantConnect.Securities.Option.StrategyMatcher.OptionStrategyMatcherOptions.WithMaximumCountPerLeg" name="QuantConnect.Securities.Option.StrategyMatcher.OptionStrategyMatcherOptions.WithMaximumCountPerLeg">
+<area shape="rect" id="node1" title="Specifies the maximum number of solutions per leg index in a solution. Matching is a recursive proces..." alt="" coords="5,5,285,76"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Securities_1_1Option_1_1StrategyMatcher_1_1OptionStrategyMatcherOptions.html#ac92128e7954f207ca99bb1743d15a5e7" title="Initializes a new instance of the OptionStrategyMatcherOptions class, providing options that control ..." alt="" coords="333,5,616,76"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="QuantConnect.ToolBox.RandomDataGenerator.DividendSplitMapGenerator.GenerateSplitsDividends" name="QuantConnect.ToolBox.RandomDataGenerator.DividendSplitMapGenerator.GenerateSplitsDividends">
+<area shape="rect" id="node1" title="Generates the splits, dividends, and maps. Writes necessary output to public variables" alt="" coords="5,45,309,101"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1ToolBox_1_1RandomDataGenerator_1_1DividendSplitMapGenerator.html#a6de6a3773f6e1f84d544551dd6c9be87" title="Gets a lower bound that guarantees the FinalSplitFactor, in all the possible cases,..." alt="" coords="357,5,661,61"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1ToolBox_1_1RandomDataGenerator_1_1DividendSplitMapGenerator.html#aacce3ccff1356f703ec71288f5b591f2" title="Gets a new valid previousSplitFactor that is still bounded by the given upper and lower bounds" alt="" coords="357,85,661,141"/>
+</map>

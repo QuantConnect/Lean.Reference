@@ -1,0 +1,5 @@
+<map id="QuantConnect.Lean.Engine.LeanEngineSystemHandlers.Initialize" name="QuantConnect.Lean.Engine.LeanEngineSystemHandlers.Initialize">
+<area shape="rect" id="node1" title="Initializes the Api, Messaging, and JobQueue components" alt="" coords="5,39,269,80"/>
+<area shape="rect" id="node2" href="$interfaceQuantConnect_1_1Interfaces_1_1IJobQueueHandler.html#ab9aa1d09e0f00f4a7b1e8c886a5a2c4a" title="Initialize the internal state" alt="" coords="321,5,520,47"/>
+<area shape="rect" id="node3" href="$interfaceQuantConnect_1_1Interfaces_1_1IMessagingHandler.html#a7c0cef35d1c7867687097e2987c47640" title="Initialize the Messaging System Plugin." alt="" coords="317,71,524,112"/>
+</map>

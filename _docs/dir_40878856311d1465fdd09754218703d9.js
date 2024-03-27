@@ -1,0 +1,28 @@
+var dir_40878856311d1465fdd09754218703d9 =
+[
+    [ "AuxiliaryDataKey.cs", "AuxiliaryDataKey_8cs_source.html", null ],
+    [ "CorporateFactorProvider.cs", "CorporateFactorProvider_8cs_source.html", null ],
+    [ "CorporateFactorRow.cs", "CorporateFactorRow_8cs_source.html", null ],
+    [ "FactorFile.cs", "FactorFile_8cs_source.html", null ],
+    [ "FactorFileZipHelper.cs", "FactorFileZipHelper_8cs_source.html", null ],
+    [ "IFactorProvider.cs", "IFactorProvider_8cs_source.html", null ],
+    [ "IFactorRow.cs", "IFactorRow_8cs_source.html", null ],
+    [ "LocalDiskFactorFileProvider.cs", "LocalDiskFactorFileProvider_8cs_source.html", null ],
+    [ "LocalDiskMapFileProvider.cs", "LocalDiskMapFileProvider_8cs_source.html", null ],
+    [ "LocalZipFactorFileProvider.cs", "LocalZipFactorFileProvider_8cs_source.html", null ],
+    [ "LocalZipMapFileProvider.cs", "LocalZipMapFileProvider_8cs_source.html", null ],
+    [ "MapFile.cs", "MapFile_8cs_source.html", null ],
+    [ "MapFilePrimaryExchangeProvider.cs", "MapFilePrimaryExchangeProvider_8cs_source.html", null ],
+    [ "MapFileResolver.cs", "MapFileResolver_8cs_source.html", null ],
+    [ "MapFileRow.cs", "MapFileRow_8cs_source.html", null ],
+    [ "MapFileZipHelper.cs", "MapFileZipHelper_8cs_source.html", null ],
+    [ "MappingContractFactorProvider.cs", "MappingContractFactorProvider_8cs_source.html", null ],
+    [ "MappingContractFactorRow.cs", "MappingContractFactorRow_8cs_source.html", null ],
+    [ "MappingExtensions.cs", "MappingExtensions_8cs_source.html", null ],
+    [ "PriceScalingExtensions.cs", "PriceScalingExtensions_8cs_source.html", null ],
+    [ "QuoteConditionFlags.cs", "QuoteConditionFlags_8cs_source.html", null ],
+    [ "SymbolDateRange.cs", "SymbolDateRange_8cs_source.html", null ],
+    [ "TickerDateRange.cs", "TickerDateRange_8cs_source.html", null ],
+    [ "TradeConditionFlags.cs", "TradeConditionFlags_8cs_source.html", null ],
+    [ "ZipEntryName.cs", "ZipEntryName_8cs_source.html", null ]
+];

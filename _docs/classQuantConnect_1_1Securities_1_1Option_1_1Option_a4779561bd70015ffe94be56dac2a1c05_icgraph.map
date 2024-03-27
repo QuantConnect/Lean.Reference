@@ -1,0 +1,4 @@
+<map id="QuantConnect.Securities.Option.Option.IsAutoExercised" name="QuantConnect.Securities.Option.Option.IsAutoExercised">
+<area shape="rect" id="node1" title="Checks if option is eligible for automatic exercise on expiration" alt="" coords="280,13,499,54"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Orders_1_1OptionExercise_1_1DefaultExerciseModel.html#a11a78c1e45dcb0503484d19cd29abaea" title="Default option exercise model for the basic equity/index option security class." alt="" coords="5,5,232,61"/>
+</map>

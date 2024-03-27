@@ -1,0 +1,8 @@
+<map id="QuantConnect.Lean.Engine.TransactionHandlers.BrokerageTransactionHandler" name="QuantConnect.Lean.Engine.TransactionHandlers.BrokerageTransactionHandler">
+<area shape="rect" id="node1" title="Transaction handler for all brokerages" alt="" coords="5,229,304,285"/>
+<area shape="rect" id="node6" href="$classQuantConnect_1_1Lean_1_1Engine_1_1TransactionHandlers_1_1BacktestingTransactionHandler.html" title="This transaction handler is used for processing transactions during backtests" alt="" coords="37,333,272,389"/>
+<area shape="rect" id="node2" href="$interfaceQuantConnect_1_1Lean_1_1Engine_1_1TransactionHandlers_1_1ITransactionHandler.html" title="Transaction handlers define how the transactions are processed and set the order fill information...." alt="" coords="79,155,230,181"/>
+<area shape="rect" id="node3" href="$interfaceQuantConnect_1_1Securities_1_1IOrderProcessor.html" title="Represents a type capable of processing orders" alt="" coords="11,80,136,107"/>
+<area shape="rect" id="node4" href="$interfaceQuantConnect_1_1Securities_1_1IOrderProvider.html" title="Represents a type capable of fetching Order instances by its QC order id or by a brokerage id" alt="" coords="15,5,131,32"/>
+<area shape="rect" id="node5" href="$interfaceQuantConnect_1_1Securities_1_1IOrderEventProvider.html" title="Represents a type with a new OrderEvent event EventHandler." alt="" coords="161,80,314,107"/>
+</map>

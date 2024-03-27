@@ -1,0 +1,5 @@
+<map id="QuantConnect.Indicators.ImpliedVolatility.ImpliedVolatility" name="QuantConnect.Indicators.ImpliedVolatility.ImpliedVolatility">
+<area shape="rect" id="node1" title="Initializes a new instance of the ImpliedVolatility class" alt="" coords="5,39,244,80"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Indicators_1_1IndicatorExtensions.html#a380a60569ee3c34399a4078082a3afc4" title="The methods overloads bellow are due to python.net not being able to correctly solve generic methods ..." alt="" coords="296,5,483,47"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Indicators_1_1IndicatorExtensions.html#a7747fd2a13223284ab1c3c145fd39d1a" title="Creates a new CompositeIndicator such that the result will be the product of the left and the constan..." alt="" coords="292,71,487,112"/>
+</map>

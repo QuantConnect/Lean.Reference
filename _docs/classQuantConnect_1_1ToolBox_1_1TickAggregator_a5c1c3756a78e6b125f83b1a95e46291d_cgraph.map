@@ -1,0 +1,4 @@
+<map id="QuantConnect.ToolBox.TickAggregator.Update" name="QuantConnect.ToolBox.TickAggregator.Update">
+<area shape="rect" id="node1" title="Updates the consolidator with the specified bar." alt="" coords="5,5,205,47"/>
+<area shape="rect" id="node2" href="$interfaceQuantConnect_1_1Data_1_1Consolidators_1_1IDataConsolidator.html#a3264316f60148fcf40f83dfcd92dbd67" title="Updates this consolidator with the specified data" alt="" coords="253,5,500,47"/>
+</map>

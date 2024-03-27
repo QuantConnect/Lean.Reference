@@ -1,0 +1,4 @@
+<map id="QuantConnect.Securities.CryptoFuture.CryptoFutureMarginModel.GetInitialMarginRequirement" name="QuantConnect.Securities.CryptoFuture.CryptoFutureMarginModel.GetInitialMarginRequirement">
+<area shape="rect" id="node1" title="The margin that must be held in order to increase the position by the provided quantity" alt="" coords="5,5,260,61"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Securities_1_1BuyingPowerModel.html#a81eff9e1c56ac8de8f088555d84b71d4" title="Gets the current leverage of the security" alt="" coords="308,13,543,54"/>
+</map>

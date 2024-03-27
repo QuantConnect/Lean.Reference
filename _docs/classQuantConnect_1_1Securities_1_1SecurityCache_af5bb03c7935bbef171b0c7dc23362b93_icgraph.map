@@ -1,0 +1,4 @@
+<map id="QuantConnect.Securities.SecurityCache.ShareTypeCacheInstance" name="QuantConnect.Securities.SecurityCache.ShareTypeCacheInstance">
+<area shape="rect" id="node1" title="Helper method that modifies the target security cache instance to use the type cache of the source" alt="" coords="341,5,568,61"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Securities_1_1SecurityCacheProvider.html#acc745e03118fcc09ba5d176cc0360b63" title="Will return the SecurityCache instance to use for a give Symbol. If the provided Symbol is a custom t..." alt="" coords="5,13,293,54"/>
+</map>

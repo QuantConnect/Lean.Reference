@@ -1,0 +1,4 @@
+<map id="QuantConnect.Util.ObjectActivator.AddActivator" name="QuantConnect.Util.ObjectActivator.AddActivator">
+<area shape="rect" id="node1" title="Adds method to return an instance of object" alt="" coords="247,5,433,47"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Extensions.html#addaac2d24d103331d55443b8306cc8ba" title="Creates a type with a given name, if PyObject is not a CLR type. Otherwise, convert it." alt="" coords="5,5,199,47"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="QuantConnect.Algorithm.Framework.Portfolio.SignalExports.CrunchDAOSignalExport.ConvertToCSVFormat" name="QuantConnect.Algorithm.Framework.Portfolio.SignalExports.CrunchDAOSignalExport.ConvertToCSVFormat">
+<area shape="rect" id="node1" title="Converts the list of holdings into a CSV format string" alt="" coords="5,5,293,61"/>
+<area shape="rect" id="node2" href="$interfaceQuantConnect_1_1Interfaces_1_1IAlgorithm.html#a7b8af1af90d91f0702ae39686c073dce" title="Send an error message for the algorithm" alt="" coords="341,13,528,54"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="QuantConnect.Algorithm.Framework.Portfolio.SignalExports.CrunchDAOSignalExport" name="QuantConnect.Algorithm.Framework.Portfolio.SignalExports.CrunchDAOSignalExport">
+<area shape="rect" id="node1" title="Exports signals of the desired positions to CrunchDAO API. Accepts signals in percentage i...." alt="" coords="5,229,336,271"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Algorithm_1_1Framework_1_1Portfolio_1_1SignalExports_1_1BaseSignalExport.html" title="Base class to send signals to different 3rd party API&#39;s" alt="" coords="103,155,239,181"/>
+<area shape="rect" id="node3" href="$interfaceQuantConnect_1_1Interfaces_1_1ISignalExportTarget.html" title="Interface to send positions holdings to different 3rd party API&#39;s" alt="" coords="97,80,245,107"/>
+<area shape="rect" id="node4" title=" " alt="" coords="121,5,220,32"/>
+</map>

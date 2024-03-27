@@ -1,0 +1,7 @@
+<map id="QuantConnect.Algorithm.Framework.Alphas.Insight.Price" name="QuantConnect.Algorithm.Framework.Alphas.Insight.Price">
+<area shape="rect" id="node1" title="Creates a new insight for predicting the percent change in price over the specified period" alt="" coords="364,104,627,145"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Algorithm_1_1Framework_1_1Alphas_1_1RsiAlphaModel.html#ab09a91ae0a0c83ee9b45718243238aaa" title="Updates this alpha model with the latest data from the algorithm. This is called each time the algori..." alt="" coords="29,5,292,47"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Algorithm_1_1Framework_1_1Alphas_1_1HistoricalReturnsAlphaModel.html#a28edb1bbc4907b9edca492e5f8eebf19" title="Updates this alpha model with the latest data from the algorithm. This is called each time the algori..." alt="" coords="5,71,316,112"/>
+<area shape="rect" id="node4" href="$classQuantConnect_1_1Algorithm_1_1Framework_1_1Alphas_1_1EmaCrossAlphaModel.html#a39bda28ad2dc41150baff361f86f9ad3" title="Updates this alpha model with the latest data from the algorithm. This is called each time the algori..." alt="" coords="29,136,292,177"/>
+<area shape="rect" id="node5" href="$classQuantConnect_1_1Algorithm_1_1Framework_1_1Alphas_1_1MacdAlphaModel.html#a41ce570e226cee6826b0cd15a840c3a6" title="Determines an insight for each security based on it&#39;s current MACD signal" alt="" coords="29,201,292,243"/>
+</map>

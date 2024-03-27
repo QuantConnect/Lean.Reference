@@ -1,0 +1,8 @@
+<map id="QuantConnect.Indicators.AdvanceDeclineIndicator.Add" name="QuantConnect.Indicators.AdvanceDeclineIndicator.Add">
+<area shape="rect" id="node1" title="Add tracking asset issue" alt="" coords="576,71,788,112"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Indicators_1_1ArmsIndex.html#af580001f6e003bdb04885306262c9aab" title="Add Tracking stock issue" alt="" coords="311,5,497,47"/>
+<area shape="rect" id="node4" href="$classQuantConnect_1_1Indicators_1_1McClellanOscillator.html#aafd3072f3d1aac64c406042de4f77e94" title="Add Tracking asset issue" alt="" coords="311,71,497,112"/>
+<area shape="rect" id="node6" href="$classQuantConnect_1_1Indicators_1_1AdvanceDeclineIndicator.html#a5932650f4db162c3e655275582b1ab34" title="Deprecated" alt="" coords="280,136,528,177"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Indicators_1_1ArmsIndex.html#ac289f4c41e338dbafcf7505021f2a54d" title="Deprecated" alt="" coords="25,5,212,47"/>
+<area shape="rect" id="node5" href="$classQuantConnect_1_1Indicators_1_1McClellanSummationIndex.html#a3541633a5beb488019e0b3122b565a82" title="Add Tracking asset issue" alt="" coords="5,71,232,112"/>
+</map>

@@ -1,0 +1,9 @@
+<map id="QuantConnect.Data.Market.Tick.Tick" name="QuantConnect.Data.Market.Tick.Tick">
+<area shape="rect" id="node1" title="Initialize tick class with a default constructor." alt="" coords="980,71,1183,112"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Data_1_1Market_1_1Tick.html#a3ce61215718621651982305d078c2cf2" title="Clone implementation for tick class:" alt="" coords="705,5,908,47"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Lean_1_1Engine_1_1DataFeeds_1_1TimeSliceFactory.html#a0273de034fbc83dd32312df594f4e368" title="Creates a new TimeSlice for the specified time using the specified data" alt="" coords="681,71,932,112"/>
+<area shape="rect" id="node7" href="$classQuantConnect_1_1Data_1_1Market_1_1Tick.html#a0f61f0e2e799ae3a839b650ab52081c8" title="Tick implementation of reader method: read a line of data from the source and convert it to a tick ob..." alt="" coords="705,136,908,177"/>
+<area shape="rect" id="node4" href="$classQuantConnect_1_1Lean_1_1Engine_1_1DataFeeds_1_1LiveSynchronizer.html#aacd62be7b0b00fd14204f99b2f0b734c" title="Returns an enumerable which provides the data to stream to the algorithm" alt="" coords="5,41,292,83"/>
+<area shape="rect" id="node5" href="$classQuantConnect_1_1Lean_1_1Engine_1_1DataFeeds_1_1SubscriptionSynchronizer.html#ae9504f467b97f2c077ee537be1fa5f9d" title="Syncs the specified subscriptions. The frontier time used for synchronization is managed internally a..." alt="" coords="340,100,633,141"/>
+<area shape="rect" id="node6" href="$classQuantConnect_1_1Lean_1_1Engine_1_1DataFeeds_1_1Synchronizer.html#a1ec5e796dd6d363541a45e88cbf773e5" title="Returns an enumerable which provides the data to stream to the algorithm" alt="" coords="19,107,279,148"/>
+</map>

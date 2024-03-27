@@ -1,0 +1,7 @@
+<map id="QuantConnect.Data.IRiskFreeInterestRateModel" name="QuantConnect.Data.IRiskFreeInterestRateModel">
+<area shape="rect" id="node1" title="Represents a model that provides risk free interest rate data" alt="" coords="5,104,219,145"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Data_1_1ConstantRiskFreeRateInterestRateModel.html" title="Constant risk free rate interest rate model" alt="" coords="288,5,516,47"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Data_1_1FuncRiskFreeRateInterestRateModel.html" title="Constant risk free rate interest rate model" alt="" coords="297,71,507,112"/>
+<area shape="rect" id="node4" href="$classQuantConnect_1_1Data_1_1InterestRateProvider.html" title="Fed US Primary Credit Rate at given date" alt="" coords="301,136,503,177"/>
+<area shape="rect" id="node5" href="$classQuantConnect_1_1Python_1_1RiskFreeInterestRateModelPythonWrapper.html" title="Wraps a PyObject object that represents a risk&#45;free interest rate model" alt="" coords="267,201,537,243"/>
+</map>

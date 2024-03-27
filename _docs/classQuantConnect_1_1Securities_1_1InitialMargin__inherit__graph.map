@@ -1,0 +1,4 @@
+<map id="QuantConnect.Securities.InitialMargin" name="QuantConnect.Securities.InitialMargin">
+<area shape="rect" id="node1" title="Result type for IBuyingPowerModel.GetInitialMarginRequirement and IBuyingPowerModel...." alt="" coords="5,5,192,47"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Securities_1_1OptionInitialMargin.html" title="Result type for Option.OptionStrategyPositionGroupBuyingPowerModel.GetInitialMarginRequirement" alt="" coords="5,95,192,136"/>
+</map>

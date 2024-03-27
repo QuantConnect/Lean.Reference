@@ -1,0 +1,6 @@
+<map id="QuantConnect.Securities.CurrencyConversion.ConstantCurrencyConversion.ConstantCurrencyConversion" name="QuantConnect.Securities.CurrencyConversion.ConstantCurrencyConversion.ConstantCurrencyConversion">
+<area shape="rect" id="node1" title="Initializes a new instance of the ConstantCurrencyConversion class." alt="" coords="597,45,885,101"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Securities_1_1CurrencyConversion_1_1ConstantCurrencyConversion.html#a23cb2f4b9e036000299850c04c92ca1e" title="Creates a new identity conversion, where the conversion rate is set to 1 and the source and destinati..." alt="" coords="276,5,549,61"/>
+<area shape="rect" id="node4" href="$classQuantConnect_1_1Securities_1_1CurrencyConversion_1_1ConstantCurrencyConversion.html#afaf07cf5742a1f6451a2904b1d155f0c" title="Returns an instance of ConstantCurrencyConversion that represents a null conversion" alt="" coords="276,85,549,141"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Securities_1_1Cash.html#a8af2f228ffa12236fec72d5458a031fc" title="Ensures that we have a data feed to convert this currency into the base currency. This will add a Sub..." alt="" coords="5,53,228,94"/>
+</map>

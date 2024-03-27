@@ -1,0 +1,5 @@
+<map id="QuantConnect.Securities.Positions.IPositionGroup.TryGetPosition" name="QuantConnect.Securities.Positions.IPositionGroup.TryGetPosition">
+<area shape="rect" id="node1" title="Attempts to retrieve the position with the specified symbol" alt="" coords="304,45,507,101"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Securities_1_1Positions_1_1PositionGroupExtensions.html#a2427e09a5613a3972999a6335be45feb" title="Checks whether the provided groups are closing/reducing each other, that is, each of their positions ..." alt="" coords="5,5,256,61"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Securities_1_1Positions_1_1PositionGroupExtensions.html#a9bff356c7b56e80bb1042022d713d10f" title="Gets the position in the group &#160;matching the provided" alt="" coords="5,85,256,141"/>
+</map>

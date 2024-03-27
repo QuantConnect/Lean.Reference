@@ -1,0 +1,8 @@
+<map id="QuantConnect.Securities.Option.FuturesOptionsMarginModel.GetMaintenanceMargin" name="QuantConnect.Securities.Option.FuturesOptionsMarginModel.GetMaintenanceMargin">
+<area shape="rect" id="node1" title="Gets the margin currently alloted to the specified holding." alt="" coords="5,75,261,131"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Securities_1_1MaintenanceMarginParameters.html#a36d60ba24f5c9455f60d02421ab8a28f" title="Creates a new instance of MaintenanceMarginParameters for the security&#39;s underlying" alt="" coords="323,35,552,91"/>
+<area shape="rect" id="node6" href="$classQuantConnect_1_1Securities_1_1Option_1_1FuturesOptionsMarginModel.html#ad6a34d7d9df9e561a5b54af95d01d499" title="Get&#39;s the margin requirement for a future option based on the underlying future margin requirement an..." alt="" coords="309,115,565,171"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Securities_1_1MaintenanceMarginParameters.html#ab4a4ed6148ee189e658151115d23f885" title="Creates a new instance of the MaintenanceMarginParameters class to compute the maintenance margin req..." alt="" coords="613,35,843,91"/>
+<area shape="rect" id="node4" href="$classQuantConnect_1_1Securities_1_1SecurityHolding.html#a88902e4d2b5e59fd73934daa215efb0e" title="Gets the total value of the specified quantity &#160;of shares of this security in the account currency" alt="" coords="891,5,1135,47"/>
+<area shape="rect" id="node5" href="$classQuantConnect_1_1Securities_1_1MaintenanceMarginParameters.html#a3b521ab6c4d52957d2f35b31be47ee5c" title="Initializes a new instance of the MaintenanceMarginParameters class" alt="" coords="898,71,1127,127"/>
+</map>

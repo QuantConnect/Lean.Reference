@@ -1,0 +1,6 @@
+<map id="QuantConnect.Securities.CashAmount.CashAmount" name="QuantConnect.Securities.CashAmount.CashAmount">
+<area shape="rect" id="node1" title="Initializes a new instance of the CashAmount class" alt="" coords="475,39,667,80"/>
+<area shape="rect" id="node2" href="$structQuantConnect_1_1Securities_1_1CashAmount.html#aaddd6f4231dabd988f6472f19d4c6d63" title="Used to compare two CashAmount instances. Useful to compare against the default instance" alt="" coords="240,39,427,80"/>
+<area shape="rect" id="node3" href="$structQuantConnect_1_1Securities_1_1CashAmount.html#a34f3cb29c51104c745df290b44a84c9b" title="Will determine if two CashAmount instances are different Useful to compare against the default instan..." alt="" coords="5,5,192,47"/>
+<area shape="rect" id="node4" href="$structQuantConnect_1_1Securities_1_1CashAmount.html#a5377291fb68d69396d6a9a666af39d2b" title="Will determine if two CashAmount instances are equal Useful to compare against the default instance" alt="" coords="5,71,192,112"/>
+</map>

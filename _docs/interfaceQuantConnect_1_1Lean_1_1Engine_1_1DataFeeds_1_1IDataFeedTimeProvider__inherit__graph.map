@@ -1,0 +1,5 @@
+<map id="QuantConnect.Lean.Engine.DataFeeds.IDataFeedTimeProvider" name="QuantConnect.Lean.Engine.DataFeeds.IDataFeedTimeProvider">
+<area shape="rect" id="node1" title="Reduced interface which exposes required ITimeProvider for IDataFeed implementations" alt="" coords="5,5,253,47"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Lean_1_1Engine_1_1DataFeeds_1_1Synchronizer.html" title="Implementation of the ISynchronizer interface which provides the mechanism to stream data to the algo..." alt="" coords="29,95,230,136"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Lean_1_1Engine_1_1DataFeeds_1_1LiveSynchronizer.html" title="Implementation of the ISynchronizer interface which provides the mechanism to stream live data to the..." alt="" coords="26,184,233,225"/>
+</map>

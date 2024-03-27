@@ -1,0 +1,6 @@
+<map id="QuantConnect.Orders.CoinbaseOrderProperties" name="QuantConnect.Orders.CoinbaseOrderProperties">
+<area shape="rect" id="node1" title="Contains additional properties and settings for an order submitted to Coinbase brokerage" alt="" coords="12,155,237,196"/>
+<area shape="rect" id="node4" href="$classQuantConnect_1_1Orders_1_1GDAXOrderProperties.html" title="Contains additional properties and settings for an order submitted to GDAX brokerage" alt="" coords="5,244,244,285"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Orders_1_1OrderProperties.html" title="Contains additional properties and settings for an order" alt="" coords="63,80,187,107"/>
+<area shape="rect" id="node3" href="$interfaceQuantConnect_1_1Interfaces_1_1IOrderProperties.html" title="Contains additional properties and settings for an order" alt="" coords="61,5,189,32"/>
+</map>

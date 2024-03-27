@@ -1,0 +1,10 @@
+<map id="QuantConnect.Interfaces.IMessagingHandler.Send" name="QuantConnect.Interfaces.IMessagingHandler.Send">
+<area shape="rect" id="node1" title="Send any message with a base type of Packet." alt="" coords="643,144,829,185"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Lean_1_1Engine_1_1Results_1_1BacktestingResultHandler.html#a10b63fe860e5f3e4e70bf061d3f8970c" title="The main processing method steps through the messaging queue and processes the messages one by one." alt="" coords="324,5,595,47"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Lean_1_1Engine_1_1Results_1_1LiveTradingResultHandler.html#a50f62a662e8a77e1c0fbf1720aa1716f" title="Live trading result handler thread." alt="" coords="325,71,593,112"/>
+<area shape="rect" id="node4" href="$classQuantConnect_1_1Lean_1_1Engine_1_1Results_1_1BacktestingResultHandler.html#a8db34b43d11199d7ee2d0c9f8e6a4b27" title="Send a final analysis result back to the IDE." alt="" coords="336,137,583,193"/>
+<area shape="rect" id="node6" href="$classQuantConnect_1_1Lean_1_1Engine_1_1Results_1_1LiveTradingResultHandler.html#a87f1535d14caf7deaad1b36854fcd22a" title="Send a final analysis result back to the IDE." alt="" coords="338,217,581,273"/>
+<area shape="rect" id="node8" href="$classQuantConnect_1_1Lean_1_1Engine_1_1Results_1_1BacktestingResultHandler.html#a0e7033053888e137c17ea19cee0743ca" title="Send an algorithm status update to the browser." alt="" coords="336,297,583,353"/>
+<area shape="rect" id="node5" href="$classQuantConnect_1_1Lean_1_1Engine_1_1Results_1_1BacktestingResultHandler.html#a9e84a017be2f946f4c63bfab39c3a4a1" title="Terminate the result thread and apply any required exit procedures like sending final results." alt="" coords="5,144,276,185"/>
+<area shape="rect" id="node7" href="$classQuantConnect_1_1Lean_1_1Engine_1_1Results_1_1LiveTradingResultHandler.html#a1dbddef89eec0b724268ecdaa7c211ff" title="Terminate the result thread and apply any required exit procedures like sending final results" alt="" coords="7,224,275,265"/>
+</map>

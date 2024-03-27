@@ -1,0 +1,4 @@
+<map id="QuantConnect.Data.Consolidators.SequentialConsolidator.OnDataConsolidated" name="QuantConnect.Data.Consolidators.SequentialConsolidator.OnDataConsolidated">
+<area shape="rect" id="node1" title="Event invocator for the DataConsolidated event. This should be invoked by derived classes when they h..." alt="" coords="380,5,691,47"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Data_1_1Consolidators_1_1SequentialConsolidator.html#aad1044676f058aea343ef20d90f2b159" title="Creates a new consolidator that will pump date through the first, and then the output of the first in..." alt="" coords="5,5,332,47"/>
+</map>

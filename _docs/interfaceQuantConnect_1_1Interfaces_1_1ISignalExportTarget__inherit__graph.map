@@ -1,0 +1,8 @@
+<map id="QuantConnect.Interfaces.ISignalExportTarget" name="QuantConnect.Interfaces.ISignalExportTarget">
+<area shape="rect" id="node1" title="Interface to send positions holdings to different 3rd party API&#39;s" alt="" coords="152,86,339,127"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Algorithm_1_1Framework_1_1Portfolio_1_1SignalExports_1_1BaseSignalExport.html" title="Base class to send signals to different 3rd party API&#39;s" alt="" coords="387,86,675,127"/>
+<area shape="rect" id="node2" title=" " alt="" coords="5,93,104,120"/>
+<area shape="rect" id="node4" href="$classQuantConnect_1_1Algorithm_1_1Framework_1_1Portfolio_1_1SignalExports_1_1Collective2SignalExport.html" title="Exports signals of desired positions to Collective2 API using JSON and HTTPS. Accepts signals in quan..." alt="" coords="757,5,1019,61"/>
+<area shape="rect" id="node5" href="$classQuantConnect_1_1Algorithm_1_1Framework_1_1Portfolio_1_1SignalExports_1_1CrunchDAOSignalExport.html" title="Exports signals of the desired positions to CrunchDAO API. Accepts signals in percentage i...." alt="" coords="723,86,1053,127"/>
+<area shape="rect" id="node6" href="$classQuantConnect_1_1Algorithm_1_1Framework_1_1Portfolio_1_1SignalExports_1_1NumeraiSignalExport.html" title="Exports signals of the desired positions to Numerai API. Accepts signals in percentage i...." alt="" coords="732,151,1044,193"/>
+</map>

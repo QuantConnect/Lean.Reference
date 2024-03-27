@@ -1,0 +1,4 @@
+<map id="QuantConnect.Data.RiskFreeInterestRateModelExtensions.GetAverageRiskFreeRate" name="QuantConnect.Data.RiskFreeInterestRateModelExtensions.GetAverageRiskFreeRate">
+<area shape="rect" id="node1" title="Gets the average Risk Free Rate from the interest rate of the given dates" alt="" coords="5,5,245,61"/>
+<area shape="rect" id="node2" href="$interfaceQuantConnect_1_1Data_1_1IRiskFreeInterestRateModel.html#aa7dfabf2595f0e70086b46c699983232" title="Get interest rate by a given date" alt="" coords="293,13,543,54"/>
+</map>

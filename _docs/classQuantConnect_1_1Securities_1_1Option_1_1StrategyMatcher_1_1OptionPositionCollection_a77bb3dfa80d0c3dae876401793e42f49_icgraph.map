@@ -1,0 +1,5 @@
+<map id="QuantConnect.Securities.Option.StrategyMatcher.OptionPositionCollection.RemoveRange" name="QuantConnect.Securities.Option.StrategyMatcher.OptionPositionCollection.RemoveRange">
+<area shape="rect" id="node1" title="Creates a new collection that is the result of removing the specified positions" alt="" coords="595,5,833,61"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Securities_1_1Option_1_1StrategyMatcher_1_1OptionStrategyDefinitionMatch.html#a462696b15f8917ac8187de03d5a89e69" title="Deducts the matched positions from the specified positions &#160;taking into account the multiplier" alt="" coords="276,5,547,61"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Securities_1_1Option_1_1StrategyMatcher_1_1OptionStrategyMatcher.html#a044c6eccda72ebf0d3aee669cce6d11b" title="Using the definitions provided in Options, attempts to match all positions . The resulting OptionStra..." alt="" coords="5,5,228,61"/>
+</map>

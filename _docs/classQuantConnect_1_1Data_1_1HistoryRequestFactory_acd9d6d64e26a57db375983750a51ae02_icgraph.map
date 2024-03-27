@@ -1,0 +1,4 @@
+<map id="QuantConnect.Data.HistoryRequestFactory.CreateHistoryRequest" name="QuantConnect.Data.HistoryRequestFactory.CreateHistoryRequest">
+<area shape="rect" id="node1" title="Creates a new history request" alt="" coords="327,5,593,47"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Algorithm_1_1QCAlgorithm.html#aa45a87846ce7b18f124945bc678c0aec" title="Helper method to create history requests from a date range with custom data type" alt="" coords="5,5,279,47"/>
+</map>

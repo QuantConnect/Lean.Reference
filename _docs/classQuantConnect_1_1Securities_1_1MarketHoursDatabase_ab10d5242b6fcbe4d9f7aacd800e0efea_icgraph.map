@@ -1,0 +1,11 @@
+<map id="QuantConnect.Securities.MarketHoursDatabase.GetExchangeHours" name="QuantConnect.Securities.MarketHoursDatabase.GetExchangeHours">
+<area shape="rect" id="node1" title="Convenience method for retrieving exchange hours from market hours database using a subscription conf..." alt="" coords="1053,159,1348,201"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Data_1_1UniverseSelection_1_1UserDefinedUniverse.html#a6193d37dd943825ea559d77840a10178" title="Returns an enumerator that defines when this user defined universe will be invoked" alt="" coords="752,5,980,61"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Extensions.html#afb55d4519a8fd894c121e9b27b8473f1" title="Helper method to determine if a specific market is open" alt="" coords="769,86,963,127"/>
+<area shape="rect" id="node4" href="$classQuantConnect_1_1Securities_1_1Option_1_1OptionSymbol.html#a6ef1782fdc060c6057dab1304d6507b0" title="Returns true if the option contract is expired at the specified time" alt="" coords="757,152,975,208"/>
+<area shape="rect" id="node5" href="$classQuantConnect_1_1ToolBox_1_1RandomDataGenerator_1_1TickGenerator.html#a2eb293d4c6e4819a58f571c0880e3b43" title="Generates a random DateTime suitable for use as a tick&#39;s emit time. If the density provided is DataDe..." alt="" coords="743,232,989,288"/>
+<area shape="rect" id="node7" href="$classQuantConnect_1_1Lean_1_1Engine_1_1RealTime_1_1LiveTradingRealTimeHandler.html#ab9e18aae7146f61b52dc8fb136414915" title="Updates the market hours for the specified security." alt="" coords="727,312,1005,368"/>
+<area shape="rect" id="node6" href="$classQuantConnect_1_1ToolBox_1_1RandomDataGenerator_1_1TickGenerator.html#a0b9b8cf4ffe26b9bfd7976671b9e3ddb" title="Generates and enumerates data points for current symbol" alt="" coords="368,239,679,281"/>
+<area shape="rect" id="node8" href="$classQuantConnect_1_1Lean_1_1Engine_1_1RealTime_1_1LiveTradingRealTimeHandler.html#a51442cfa23877834a03e10bb21a7a5a9" title="Refresh the market hours for each security in the given date" alt="" coords="384,312,663,368"/>
+<area shape="rect" id="node9" href="$classQuantConnect_1_1Lean_1_1Engine_1_1RealTime_1_1LiveTradingRealTimeHandler.html#a1b3eae56614996b86125cbd7c28cbe42" title="Initializes the real time handler for the specified algorithm and job" alt="" coords="5,319,320,361"/>
+</map>

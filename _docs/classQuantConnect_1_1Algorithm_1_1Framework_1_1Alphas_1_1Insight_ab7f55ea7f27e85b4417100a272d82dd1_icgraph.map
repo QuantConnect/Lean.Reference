@@ -1,0 +1,6 @@
+<map id="QuantConnect.Algorithm.Framework.Alphas.Insight.IsExpired" name="QuantConnect.Algorithm.Framework.Alphas.Insight.IsExpired">
+<area shape="rect" id="node1" title="Determines whether or not this insight is considered expired at the specified utcTime" alt="" coords="937,5,1200,47"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Algorithm_1_1Framework_1_1Alphas_1_1Insight.html#ad8d5c5b1a2bbb469d02801d89e8f7298" title="Determines whether or not this insight is considered active at the specified utcTime" alt="" coords="627,5,889,47"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Algorithm_1_1Framework_1_1Alphas_1_1Insight.html#aaea28f68429191826fa1f7d8d084e1cf" title="Expire this insight" alt="" coords="316,5,579,47"/>
+<area shape="rect" id="node4" href="$classQuantConnect_1_1Algorithm_1_1Framework_1_1Alphas_1_1Insight.html#a6c3261fcc1295ad82c04bbaf44f3422d" title="Cancel this insight" alt="" coords="5,5,268,47"/>
+</map>

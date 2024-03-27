@@ -1,0 +1,5 @@
+<map id="QuantConnect.Indicators.IndicatorExtensions.Over" name="QuantConnect.Indicators.IndicatorExtensions.Over">
+<area shape="rect" id="node1" title="Creates a new CompositeIndicator such that the result will be the ratio of the left to the constant" alt="" coords="276,39,463,80"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Indicators_1_1BollingerBands.html#a242be5e48e1b064fe171e92f82e90ae6" title="Initializes a new instance of the BollingerBands class" alt="" coords="5,5,228,47"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Indicators_1_1IndicatorExtensions.html#a9bdfdf60833f69c937dfda57af556e37" title=" " alt="" coords="23,71,210,112"/>
+</map>

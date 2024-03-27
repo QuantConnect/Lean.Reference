@@ -1,0 +1,4 @@
+<map id="QuantConnect.Api.OptimizationBacktestJsonConverter.WriteJson" name="QuantConnect.Api.OptimizationBacktestJsonConverter.WriteJson">
+<area shape="rect" id="node1" title="Writes the JSON representation of the object." alt="" coords="5,5,240,47"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Currencies.html#adfe5757a88698f504c556254db30a240" title="Converts the string representation of number with currency in the format {currency}{value} to its dec..." alt="" coords="288,5,479,47"/>
+</map>

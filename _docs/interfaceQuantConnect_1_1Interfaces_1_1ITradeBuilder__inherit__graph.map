@@ -1,0 +1,4 @@
+<map id="QuantConnect.Interfaces.ITradeBuilder" name="QuantConnect.Interfaces.ITradeBuilder">
+<area shape="rect" id="node1" title="Generates trades from executions and market price updates" alt="" coords="5,5,192,47"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Statistics_1_1TradeBuilder.html" title="The TradeBuilder class generates trades from executions and market price updates" alt="" coords="7,95,190,136"/>
+</map>

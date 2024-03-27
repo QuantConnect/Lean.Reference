@@ -1,0 +1,6 @@
+<map id="QuantConnect.Interfaces.IBusyCollection&lt; T &gt;" name="QuantConnect.Interfaces.IBusyCollection&lt; T &gt;">
+<area shape="rect" id="node1" title="Interface used to handle items being processed and communicate busy state" alt="" coords="152,39,339,80"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Util_1_1BusyBlockingCollection.html" title="A small wrapper around BlockingCollection&lt;T&gt; used to communicate busy state of the items being proces..." alt="" coords="387,5,608,47"/>
+<area shape="rect" id="node4" href="$classQuantConnect_1_1Util_1_1BusyCollection.html" title="A non blocking IBusyCollection&lt;T&gt; implementation" alt="" coords="415,71,580,112"/>
+<area shape="rect" id="node2" title=" " alt="" coords="5,46,104,73"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="QuantConnect.Lean.Engine.DataFeeds.SubscriptionSynchronizer.SetTimeSliceFactory" name="QuantConnect.Lean.Engine.DataFeeds.SubscriptionSynchronizer.SetTimeSliceFactory">
+<area shape="rect" id="node1" title="Sets the TimeSliceFactory instance to use" alt="" coords="628,5,891,61"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Lean_1_1Engine_1_1DataFeeds_1_1Synchronizer.html#ab2e438b9d1f7b5e4939ef7e7e10236dc" title="Performs additional initialization steps after algorithm initialization" alt="" coords="313,13,580,54"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Lean_1_1Engine_1_1DataFeeds_1_1Synchronizer.html#a1ec5e796dd6d363541a45e88cbf773e5" title="Returns an enumerable which provides the data to stream to the algorithm" alt="" coords="5,13,265,54"/>
+</map>

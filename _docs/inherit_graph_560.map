@@ -1,0 +1,4 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$interfaceQuantConnect_1_1Securities_1_1Option_1_1IQLUnderlyingVolatilityEstimator.html" title="Defines QuantLib underlying volatility estimator for option pricing model. User may define his own es..." alt="" coords="5,5,224,61"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Securities_1_1Option_1_1ConstantQLUnderlyingVolatilityEstimator.html" title="Class implements default underlying constant volatility estimator (IQLUnderlyingVolatilityEstimator...." alt="" coords="272,5,545,61"/>
+</map>

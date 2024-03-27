@@ -1,0 +1,4 @@
+<map id="QuantConnect.Lean.Engine.Setup.BaseSetupHandler.InitializeDebugging" name="QuantConnect.Lean.Engine.Setup.BaseSetupHandler.InitializeDebugging">
+<area shape="rect" id="node1" title="Initialize the debugger" alt="" coords="284,5,527,61"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Lean_1_1Engine_1_1Setup_1_1BacktestingSetupHandler.html#abf6f082a6ab52726b44468da7ca26d96" title="Create a new instance of an algorithm from a physical dll path." alt="" coords="5,5,236,61"/>
+</map>

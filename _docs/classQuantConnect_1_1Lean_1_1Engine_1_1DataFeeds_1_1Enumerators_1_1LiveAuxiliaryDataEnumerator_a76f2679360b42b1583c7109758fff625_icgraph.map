@@ -1,0 +1,4 @@
+<map id="QuantConnect.Lean.Engine.DataFeeds.Enumerators.LiveAuxiliaryDataEnumerator.LiveAuxiliaryDataEnumerator" name="QuantConnect.Lean.Engine.DataFeeds.Enumerators.LiveAuxiliaryDataEnumerator.LiveAuxiliaryDataEnumerator">
+<area shape="rect" id="node1" title="Creates a new instance" alt="" coords="320,5,644,61"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Lean_1_1Engine_1_1DataFeeds_1_1Enumerators_1_1LiveAuxiliaryDataEnumerator.html#ac5a9c465a445e77dc2037ae3aca4d2f0" title="Helper method to create a new instance. Knows which security types should create one and determines t..." alt="" coords="5,5,272,61"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="QuantConnect.Securities.BuyingPowerModel.GetMaintenanceMargin" name="QuantConnect.Securities.BuyingPowerModel.GetMaintenanceMargin">
+<area shape="rect" id="node1" title="Gets the margin currently allocated to the specified holding" alt="" coords="649,71,908,127"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Securities_1_1BuyingPowerModel.html#acee98f5dcfa62192bbc96f94824dbe50" title="Gets the margin cash available for a trade" alt="" coords="312,5,601,47"/>
+<area shape="rect" id="node4" href="$classQuantConnect_1_1Securities_1_1BuyingPowerModel.html#a6ef4b0c40c0f794a84d7b22076d2789e" title="Gets the amount of buying power reserved to maintain the specified position" alt="" coords="339,71,574,127"/>
+<area shape="rect" id="node5" href="$classQuantConnect_1_1Securities_1_1BuyingPowerModel.html#a0140983f8f8ab4d126538464a6e24bb1" title="Check if there is sufficient buying power to execute this order." alt="" coords="338,151,575,207"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Securities_1_1BuyingPowerModel.html#a7b18b0d8ef69d3097f4fd1694cd5c260" title="Gets the buying power available for a trade" alt="" coords="5,5,264,47"/>
+</map>

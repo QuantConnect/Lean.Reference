@@ -1,0 +1,10 @@
+<map id="QuantConnect.Securities.BuyingPowerModel.GetMaximumOrderQuantityForTargetBuyingPower" name="QuantConnect.Securities.BuyingPowerModel.GetMaximumOrderQuantityForTargetBuyingPower">
+<area shape="rect" id="node1" title="Get the maximum market order quantity to obtain a position with a given buying power percentage...." alt="" coords="5,144,281,200"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Securities_1_1BuyingPowerModelExtensions.html#adecc3ccbaa197cbacbfb4c6e9cba9b0d" title="Helper method to determine if the requested quantity is above the algorithm minimum order margin port..." alt="" coords="329,5,623,61"/>
+<area shape="rect" id="node4" href="$classQuantConnect_1_1Securities_1_1CashBook.html#a439b770734d62b9b60bd06a56fbdbb1c" title="Converts a quantity of source currency units into the account currency" alt="" coords="343,86,609,127"/>
+<area shape="rect" id="node6" href="$classQuantConnect_1_1Securities_1_1BuyingPowerModel.html#a6fb319ab1565fa5c2a40fef7ea694dff" title="Helper function that determines the amount to order to get to a given target safely...." alt="" coords="339,151,613,193"/>
+<area shape="rect" id="node7" href="$classQuantConnect_1_1Securities_1_1BuyingPowerModel.html#a662d7e6905d1818ee738b142a05399af" title="The margin that must be held in order to increase the position by the provided quantity" alt="" coords="671,177,927,233"/>
+<area shape="rect" id="node8" href="$interfaceQuantConnect_1_1Orders_1_1Fees_1_1IFeeModel.html#ab0bf50e204c8c07f1d37fd7680f23e59" title="Gets the order fee associated with the specified order." alt="" coords="377,269,575,310"/>
+<area shape="rect" id="node3" href="$interfaceQuantConnect_1_1Securities_1_1IBuyingPowerModel.html#ae4a939584ffb7a7d468023f57dba17be" title="The margin that must be held in order to increase the position by the provided quantity" alt="" coords="691,5,906,61"/>
+<area shape="rect" id="node5" href="$classQuantConnect_1_1Securities_1_1CashBook.html#a3a2cfc4aac92b0740a9bad6c94b42d3b" title="Converts a quantity of source currency units into the specified destination currency" alt="" coords="705,86,892,127"/>
+</map>

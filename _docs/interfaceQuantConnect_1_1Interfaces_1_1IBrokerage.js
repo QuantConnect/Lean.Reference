@@ -1,0 +1,25 @@
+var interfaceQuantConnect_1_1Interfaces_1_1IBrokerage =
+[
+    [ "GetOpenOrders", "interfaceQuantConnect_1_1Interfaces_1_1IBrokerage.html#a7000d38d5bc4cab41a8e6a7bbd2e8c8f", null ],
+    [ "GetAccountHoldings", "interfaceQuantConnect_1_1Interfaces_1_1IBrokerage.html#af112e17ef4c5005c9ab2416d98b1192b", null ],
+    [ "GetCashBalance", "interfaceQuantConnect_1_1Interfaces_1_1IBrokerage.html#ae9baa92b9c41b81fa5b6c9d03c257e52", null ],
+    [ "PlaceOrder", "interfaceQuantConnect_1_1Interfaces_1_1IBrokerage.html#a849c0caf5cb77f8eb6014a52ac9561a9", null ],
+    [ "UpdateOrder", "interfaceQuantConnect_1_1Interfaces_1_1IBrokerage.html#a164ceca134b5e305813785d46a0f34ff", null ],
+    [ "CancelOrder", "interfaceQuantConnect_1_1Interfaces_1_1IBrokerage.html#aea7993b635dcbe2cad8932d2bbe76dfe", null ],
+    [ "Connect", "interfaceQuantConnect_1_1Interfaces_1_1IBrokerage.html#a21225caec62c9cef302d5f6a99b4b81d", null ],
+    [ "Disconnect", "interfaceQuantConnect_1_1Interfaces_1_1IBrokerage.html#a731ea9b34c2e2d3322f5d72358f6ba21", null ],
+    [ "GetHistory", "interfaceQuantConnect_1_1Interfaces_1_1IBrokerage.html#a8eea81b28dedf461e3a63a0117305a71", null ],
+    [ "Name", "interfaceQuantConnect_1_1Interfaces_1_1IBrokerage.html#a996fb5d5daea80b0c0fa7ea176ee5674", null ],
+    [ "IsConnected", "interfaceQuantConnect_1_1Interfaces_1_1IBrokerage.html#a44e2d7d9102c4e935d1129d8083ea3cd", null ],
+    [ "AccountInstantlyUpdated", "interfaceQuantConnect_1_1Interfaces_1_1IBrokerage.html#a37c6f0c89d01864fc7b46e55655049ad", null ],
+    [ "AccountBaseCurrency", "interfaceQuantConnect_1_1Interfaces_1_1IBrokerage.html#a44c88f14c692e8a3067ff20a0cb8a047", null ],
+    [ "OrderIdChanged", "interfaceQuantConnect_1_1Interfaces_1_1IBrokerage.html#a4675ac0e43f43eb89380739c902dfec5", null ],
+    [ "OrdersStatusChanged", "interfaceQuantConnect_1_1Interfaces_1_1IBrokerage.html#a0d27564358fcad8275862782ce391c14", null ],
+    [ "OrderUpdated", "interfaceQuantConnect_1_1Interfaces_1_1IBrokerage.html#a82acce0c14688ebfd459a74b8a1bc126", null ],
+    [ "OptionPositionAssigned", "interfaceQuantConnect_1_1Interfaces_1_1IBrokerage.html#aaa6e9520ab42e99cbccbfb20bf695cab", null ],
+    [ "OptionNotification", "interfaceQuantConnect_1_1Interfaces_1_1IBrokerage.html#a1845b257224f9991e586ab373ecbff47", null ],
+    [ "NewBrokerageOrderNotification", "interfaceQuantConnect_1_1Interfaces_1_1IBrokerage.html#af25bb4dd94adc5cd05357f8e27c7b325", null ],
+    [ "DelistingNotification", "interfaceQuantConnect_1_1Interfaces_1_1IBrokerage.html#a429fe6710784940a5f715df259783cf6", null ],
+    [ "AccountChanged", "interfaceQuantConnect_1_1Interfaces_1_1IBrokerage.html#a913c7496c76002ec628084730dfc89c1", null ],
+    [ "Message", "interfaceQuantConnect_1_1Interfaces_1_1IBrokerage.html#a4faafc69ea508f08f5e4c9fcc2d32424", null ]
+];

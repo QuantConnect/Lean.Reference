@@ -1,0 +1,4 @@
+<map id="QuantConnect.Lean.Engine.Setup.AlgorithmSetupException" name="QuantConnect.Lean.Engine.Setup.AlgorithmSetupException">
+<area shape="rect" id="node1" title="Defines an exception generated in the course of invoking ISetupHandler.Setup" alt="" coords="5,80,233,121"/>
+<area shape="rect" id="node2" title=" " alt="" coords="76,5,163,32"/>
+</map>

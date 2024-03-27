@@ -1,0 +1,5 @@
+<map id="QuantConnect.Algorithm.QCAlgorithm.AddFutureOption" name="QuantConnect.Algorithm.QCAlgorithm.AddFutureOption">
+<area shape="rect" id="node1" title="Creates and adds a new Future Option contract to the algorithm." alt="" coords="5,35,279,76"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Algorithm_1_1QCAlgorithm.html#ac8766651d133584cee7f03ba6d53bb86" title="Creates a new universe selection model and adds it to the algorithm. This universe selection model wi..." alt="" coords="327,5,600,47"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Symbol.html#a1f3c25223fd9a7b753a4f84ece6469ab" title="Method returns true, if symbol is a derivative canonical symbol" alt="" coords="340,71,587,98"/>
+</map>

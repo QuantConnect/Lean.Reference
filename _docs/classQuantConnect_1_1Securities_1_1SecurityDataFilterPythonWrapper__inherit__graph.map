@@ -1,0 +1,4 @@
+<map id="QuantConnect.Securities.SecurityDataFilterPythonWrapper" name="QuantConnect.Securities.SecurityDataFilterPythonWrapper">
+<area shape="rect" id="node1" title="Python Wrapper for custom security data filters from Python" alt="" coords="5,80,244,121"/>
+<area shape="rect" id="node2" href="$interfaceQuantConnect_1_1Securities_1_1Interfaces_1_1ISecurityDataFilter.html" title="Security data filter interface. Defines pattern for the user defined data filter techniques." alt="" coords="53,5,196,32"/>
+</map>

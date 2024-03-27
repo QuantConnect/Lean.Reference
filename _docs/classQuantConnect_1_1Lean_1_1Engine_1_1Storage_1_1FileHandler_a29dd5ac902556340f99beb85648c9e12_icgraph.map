@@ -1,0 +1,5 @@
+<map id="QuantConnect.Lean.Engine.Storage.FileHandler.CreateDirectory" name="QuantConnect.Lean.Engine.Storage.FileHandler.CreateDirectory">
+<area shape="rect" id="node1" title="Create the requested directory path" alt="" coords="319,39,575,80"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Lean_1_1Engine_1_1Storage_1_1LocalObjectStore.html#ab3fb265fac0cbcba5e7a179a71d31df0" title="Initializes the object store" alt="" coords="15,5,261,47"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Lean_1_1Engine_1_1Storage_1_1LocalObjectStore.html#ad996578710d9cce84fc9af79d6ee86cb" title="Overridable persistence function" alt="" coords="5,71,271,112"/>
+</map>

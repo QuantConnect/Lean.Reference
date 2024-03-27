@@ -1,0 +1,5 @@
+<map id="QuantConnect.Report.Rolling.Beta" name="QuantConnect.Report.Rolling.Beta">
+<area shape="rect" id="node1" title="Calculate the rolling beta with the given window size (in days)" alt="" coords="5,60,249,87"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Statistics_1_1StatisticsBuilder.html#a88561044e3e9395d0f6db71503c80fd0" title="Yields pairs of date and percentage change for the period" alt="" coords="297,5,545,61"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Statistics_1_1StatisticsBuilder.html#afe1307836554d6e9cab3fa31f1aa6c16" title="Skips the first two entries from the given points and divides each entry by 100" alt="" coords="320,85,523,141"/>
+</map>

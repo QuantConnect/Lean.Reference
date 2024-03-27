@@ -1,0 +1,5 @@
+<map id="QuantConnect.Interfaces.IAlgorithm.SetDateTime" name="QuantConnect.Interfaces.IAlgorithm.SetDateTime">
+<area shape="rect" id="node1" title="Set the DateTime Frontier: This is the master time and is" alt="" coords="335,43,521,84"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Data_1_1SubscriptionManager.html#a2a0de3a878126218aa9d19c5fde8c320" title="Will trigger past consolidator scans" alt="" coords="29,5,263,47"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Lean_1_1Engine_1_1RealTime_1_1BacktestingRealTimeHandler.html#ad77bb3a3cee2b1b4751c400dbe14c3ab" title="Scan for past events that didn&#39;t fire because there was no data at the scheduled time." alt="" coords="5,71,287,127"/>
+</map>

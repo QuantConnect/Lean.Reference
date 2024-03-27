@@ -1,0 +1,6 @@
+<map id="QuantConnect.Lean.Engine.Storage.LocalObjectStore.Delete" name="QuantConnect.Lean.Engine.Storage.LocalObjectStore.Delete">
+<area shape="rect" id="node1" title="Deletes the object data for the specified path" alt="" coords="5,71,239,112"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Lean_1_1Engine_1_1Storage_1_1FileHandler.html#ac6433416537bd55227bc64ee4b2bc3d8" title="Will delete the given file path" alt="" coords="317,5,519,47"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Lean_1_1Engine_1_1Storage_1_1FileHandler.html#ab15499e563b744ff777f29ffae0ef97f" title="True if the given file path exists" alt="" coords="317,71,519,112"/>
+<area shape="rect" id="node4" href="$classQuantConnect_1_1Lean_1_1Engine_1_1Storage_1_1LocalObjectStore.html#a401003a1ad65a8cb163d7aa1162e98c0" title="Get&#39;s a file path for a given path. Internal use only because it does not guarantee the existence of ..." alt="" coords="287,136,549,177"/>
+</map>

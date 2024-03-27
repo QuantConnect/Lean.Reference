@@ -1,0 +1,4 @@
+<map id="QuantConnect.Securities.HasSufficientBuyingPowerForOrderParameters.ForUnderlying" name="QuantConnect.Securities.HasSufficientBuyingPowerForOrderParameters.ForUnderlying">
+<area shape="rect" id="node1" title="Creates a new HasSufficientBuyingPowerForOrderParameters targeting the security&#39;s underlying...." alt="" coords="5,13,255,69"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Securities_1_1HasSufficientBuyingPowerForOrderParameters.html#a6d6223b0b5408dd99870a9f3cd73b025" title="Initializes a new instance of the HasSufficientBuyingPowerForOrderParameters class" alt="" coords="303,5,593,76"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="QuantConnect.Securities.IBaseCurrencySymbol" name="QuantConnect.Securities.IBaseCurrencySymbol">
+<area shape="rect" id="node1" title="Interface for various currency symbols" alt="" coords="5,71,192,112"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Securities_1_1Crypto_1_1Crypto.html" title="Crypto Security Object Implementation for Crypto Assets" alt="" coords="244,5,431,47"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Securities_1_1CryptoFuture_1_1CryptoFuture.html" title="Crypto Future Security Object Implementation for Crypto Future Assets" alt="" coords="240,71,435,112"/>
+<area shape="rect" id="node4" href="$classQuantConnect_1_1Securities_1_1Forex_1_1Forex.html" title="FOREX Security Object Implementation for FOREX Assets" alt="" coords="244,136,431,177"/>
+</map>

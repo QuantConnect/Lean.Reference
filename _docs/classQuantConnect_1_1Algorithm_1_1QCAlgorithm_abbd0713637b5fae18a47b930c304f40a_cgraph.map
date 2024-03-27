@@ -1,0 +1,4 @@
+<map id="QuantConnect.Algorithm.QCAlgorithm.LimitIfTouchedOrder" name="QuantConnect.Algorithm.QCAlgorithm.LimitIfTouchedOrder">
+<area shape="rect" id="node1" title="Send a limit if touched order to the transaction handler:" alt="" coords="5,5,279,47"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Algorithm_1_1QCAlgorithm.html#ac69eb5c06b99ceeceab289456659d335" title="Send a limit if touched order to the transaction handler:" alt="" coords="327,5,600,47"/>
+</map>

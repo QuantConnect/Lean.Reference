@@ -1,0 +1,5 @@
+<map id="QuantConnect.Optimizer.Strategies.EulerSearchOptimizationStrategy.PushNewResults" name="QuantConnect.Optimizer.Strategies.EulerSearchOptimizationStrategy.PushNewResults">
+<area shape="rect" id="node1" title="Checks whether new lean compute job better than previous and run new iteration if necessary." alt="" coords="5,43,276,99"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Optimizer_1_1Strategies_1_1EulerSearchOptimizationStrategy.html#a5a80a44c8a9d7bf26ce4430645c2a219" title="Handles new parameter set" alt="" coords="324,5,611,61"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Optimizer_1_1Strategies_1_1StepBaseOptimizationStrategy.html#a35efe9f2e0f2d108d36e45cd92e0b60f" title="Enumerate all possible arrangements" alt="" coords="340,86,595,127"/>
+</map>

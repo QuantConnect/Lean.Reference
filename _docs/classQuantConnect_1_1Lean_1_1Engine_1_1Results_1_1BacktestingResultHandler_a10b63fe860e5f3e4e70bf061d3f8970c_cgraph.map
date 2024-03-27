@@ -1,0 +1,6 @@
+<map id="QuantConnect.Lean.Engine.Results.BacktestingResultHandler.Run" name="QuantConnect.Lean.Engine.Results.BacktestingResultHandler.Run">
+<area shape="rect" id="node1" title="The main processing method steps through the messaging queue and processes the messages one by one." alt="" coords="5,39,276,80"/>
+<area shape="rect" id="node2" href="$interfaceQuantConnect_1_1Interfaces_1_1IMessagingHandler.html#afeff1367be45b60e481440eda06a39bf" title="Send any message with a base type of Packet." alt="" coords="331,5,517,47"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Logging_1_1Log.html#a4e55477fbc790846b74550a57198cea9" title="Log trace" alt="" coords="324,71,524,112"/>
+<area shape="rect" id="node4" href="$interfaceQuantConnect_1_1Logging_1_1ILogHandler.html#a3fb71a33ac66129240b63f12b6fcda3b" title="Write debug message to log" alt="" coords="572,71,772,112"/>
+</map>

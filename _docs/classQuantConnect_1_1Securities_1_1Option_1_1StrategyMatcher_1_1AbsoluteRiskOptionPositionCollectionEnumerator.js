@@ -1,0 +1,5 @@
+var classQuantConnect_1_1Securities_1_1Option_1_1StrategyMatcher_1_1AbsoluteRiskOptionPositionCollectionEnumerator =
+[
+    [ "AbsoluteRiskOptionPositionCollectionEnumerator", "classQuantConnect_1_1Securities_1_1Option_1_1StrategyMatcher_1_1AbsoluteRiskOptionPositionCollectionEnumerator.html#afeee36f63ff187a309b5bef9eda08bc3", null ],
+    [ "Enumerate", "classQuantConnect_1_1Securities_1_1Option_1_1StrategyMatcher_1_1AbsoluteRiskOptionPositionCollectionEnumerator.html#aa9faf0e40e9ef3a485f04c41403da388", null ]
+];

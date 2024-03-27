@@ -1,0 +1,5 @@
+var classQuantConnect_1_1Algorithm_1_1Framework_1_1Portfolio_1_1SignalExports_1_1Collective2SignalExport_1_1C2Symbol =
+[
+    [ "FullSymbol", "classQuantConnect_1_1Algorithm_1_1Framework_1_1Portfolio_1_1SignalExports_1_1Collective2SignalExport_1_1C2Symbol.html#a1ba066323870c2a0a9df47df5bc041bc", null ],
+    [ "SymbolType", "classQuantConnect_1_1Algorithm_1_1Framework_1_1Portfolio_1_1SignalExports_1_1Collective2SignalExport_1_1C2Symbol.html#aa0eb978869de6c57ffe0f199819f3681", null ]
+];

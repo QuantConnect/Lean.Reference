@@ -1,0 +1,6 @@
+<map id="QuantConnect.Algorithm.Framework.Risk.RiskManagementModelPythonWrapper" name="QuantConnect.Algorithm.Framework.Risk.RiskManagementModelPythonWrapper">
+<area shape="rect" id="node1" title="Provides an implementation of IRiskManagementModel that wraps a PyObject object" alt="" coords="5,229,313,271"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Algorithm_1_1Framework_1_1Risk_1_1RiskManagementModel.html" title="Provides a base class for risk management models" alt="" coords="71,155,247,181"/>
+<area shape="rect" id="node3" href="$interfaceQuantConnect_1_1Algorithm_1_1Framework_1_1Risk_1_1IRiskManagementModel.html" title="Algorithm framework model that manages an algorithm&#39;s risk/downside" alt="" coords="69,80,249,107"/>
+<area shape="rect" id="node4" href="$interfaceQuantConnect_1_1Algorithm_1_1Framework_1_1INotifiedSecurityChanges.html" title="Types implementing this interface will be called when the algorithm&#39;s set of securities changes" alt="" coords="66,5,253,32"/>
+</map>

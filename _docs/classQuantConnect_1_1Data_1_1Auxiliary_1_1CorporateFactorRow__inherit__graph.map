@@ -1,0 +1,4 @@
+<map id="QuantConnect.Data.Auxiliary.CorporateFactorRow" name="QuantConnect.Data.Auxiliary.CorporateFactorRow">
+<area shape="rect" id="node1" title="Defines a single row in a factor_factor file. This is a csv file ordered as {date,..." alt="" coords="5,80,219,121"/>
+<area shape="rect" id="node2" href="$interfaceQuantConnect_1_1Data_1_1Auxiliary_1_1IFactorRow.html" title="Factor row abstraction. IFactorProvider" alt="" coords="65,5,159,32"/>
+</map>

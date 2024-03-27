@@ -1,0 +1,4 @@
+<map id="QuantConnect.Data.Consolidators.OpenInterestConsolidator.AggregateBar" name="QuantConnect.Data.Consolidators.OpenInterestConsolidator.AggregateBar">
+<area shape="rect" id="node1" title="Aggregates the new &#39;data&#39; into the &#39;workingBar&#39;. The &#39;workingBar&#39; will be null following the event fi..." alt="" coords="5,13,285,54"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Data_1_1Consolidators_1_1PeriodCountConsolidatorBase.html#af5dd63d0b6c5bc0f227ef6d7ab80fee4" title="Gets a rounded&#45;down bar time. Called by AggregateBar in derived classes." alt="" coords="333,5,648,61"/>
+</map>

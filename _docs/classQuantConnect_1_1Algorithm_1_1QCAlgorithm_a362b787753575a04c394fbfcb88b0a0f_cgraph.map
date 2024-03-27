@@ -1,0 +1,7 @@
+<map id="QuantConnect.Algorithm.QCAlgorithm.SetParameters" name="QuantConnect.Algorithm.QCAlgorithm.SetParameters">
+<area shape="rect" id="node1" title="Sets the parameters from the dictionary" alt="" coords="5,39,279,80"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Parameters_1_1ParameterAttribute.html#a9ef494761b21bf65705abdfac5ee0a7c" title="Uses reflections to inspect the instance for any parameter attributes. If a value is found in the par..." alt="" coords="338,5,589,47"/>
+<area shape="rect" id="node5" href="$classQuantConnect_1_1Algorithm_1_1QCAlgorithm.html#a7bdcfe7bf87e4688620dfc0cbac212aa" title="Send a string error message to the Console." alt="" coords="327,71,600,112"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Logging_1_1Log.html#af0e7955911bc7664b37661b2a303a9e3" title="Log error" alt="" coords="648,5,848,47"/>
+<area shape="rect" id="node4" href="$interfaceQuantConnect_1_1Logging_1_1ILogHandler.html#a35373a0c5d76031fa5ccf5dc39e5c25d" title="Write error message to log" alt="" coords="896,5,1096,47"/>
+</map>

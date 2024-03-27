@@ -1,0 +1,6 @@
+<map id="QuantConnect.Securities.SecurityManager.Add" name="QuantConnect.Securities.SecurityManager.Add">
+<area shape="rect" id="node1" title="Add a symbol&#45;security by its key value pair." alt="" coords="5,50,192,91"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Securities_1_1SecurityManager.html#a5511dc98ccb9ce95207c5173f8afe1be" title="Add a new security with this symbol to the collection." alt="" coords="240,50,427,91"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Securities_1_1SecurityManager.html#a0e4af6deb8b954b63bde12056f77e126" title="Event invocator for the CollectionChanged event" alt="" coords="475,5,693,61"/>
+<area shape="rect" id="node4" href="$classQuantConnect_1_1Securities_1_1Security.html#a19452e0c096c670c9fecceb71d05f3e5" title="Sets the LocalTimeKeeper to be used for this Security. This is the source of this instance&#39;s time." alt="" coords="479,86,689,127"/>
+</map>

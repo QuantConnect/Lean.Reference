@@ -1,0 +1,5 @@
+<map id="QuantConnect.Algorithm.Framework.Portfolio.BlackLittermanOptimizationPortfolioConstructionModel.GetTargetInsights" name="QuantConnect.Algorithm.Framework.Portfolio.BlackLittermanOptimizationPortfolioConstructionModel.GetTargetInsights">
+<area shape="rect" id="node1" title="Gets the target insights to calculate a portfolio target percent for" alt="" coords="5,13,323,69"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Algorithm_1_1Framework_1_1Portfolio_1_1BlackLittermanOptimizationPortfolioConstructionModel.html#a6278ae1d7029f84a106f7a977c0a53aa" title="Method that will determine if the portfolio construction model should create a target for this insigh..." alt="" coords="371,5,701,76"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Algorithm_1_1Framework_1_1Portfolio_1_1PortfolioConstructionModel.html#a29a0ac2fb589b9cf737b0fe6220d89c0" title="Helper class that can be used by the different IPortfolioConstructionModel implementations to filter ..." alt="" coords="749,13,1012,69"/>
+</map>

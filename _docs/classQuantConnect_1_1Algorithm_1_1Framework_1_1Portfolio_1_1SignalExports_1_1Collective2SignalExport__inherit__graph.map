@@ -1,0 +1,6 @@
+<map id="QuantConnect.Algorithm.Framework.Portfolio.SignalExports.Collective2SignalExport" name="QuantConnect.Algorithm.Framework.Portfolio.SignalExports.Collective2SignalExport">
+<area shape="rect" id="node1" title="Exports signals of desired positions to Collective2 API using JSON and HTTPS. Accepts signals in quan..." alt="" coords="5,229,268,285"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Algorithm_1_1Framework_1_1Portfolio_1_1SignalExports_1_1BaseSignalExport.html" title="Base class to send signals to different 3rd party API&#39;s" alt="" coords="69,155,205,181"/>
+<area shape="rect" id="node3" href="$interfaceQuantConnect_1_1Interfaces_1_1ISignalExportTarget.html" title="Interface to send positions holdings to different 3rd party API&#39;s" alt="" coords="63,80,211,107"/>
+<area shape="rect" id="node4" title=" " alt="" coords="87,5,186,32"/>
+</map>

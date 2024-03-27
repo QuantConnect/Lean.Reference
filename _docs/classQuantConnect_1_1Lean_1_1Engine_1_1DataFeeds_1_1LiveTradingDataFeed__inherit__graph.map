@@ -1,0 +1,5 @@
+<map id="QuantConnect.Lean.Engine.DataFeeds.LiveTradingDataFeed" name="QuantConnect.Lean.Engine.DataFeeds.LiveTradingDataFeed">
+<area shape="rect" id="node1" title="Provides an implementation of IDataFeed that is designed to deal with live, remote data sources" alt="" coords="5,155,236,196"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Lean_1_1Engine_1_1DataFeeds_1_1FileSystemDataFeed.html" title="Historical datafeed stream reader for processing files on a local disk." alt="" coords="43,80,199,107"/>
+<area shape="rect" id="node3" href="$interfaceQuantConnect_1_1Lean_1_1Engine_1_1DataFeeds_1_1IDataFeed.html" title="Datafeed interface for creating custom datafeed sources." alt="" coords="77,5,165,32"/>
+</map>

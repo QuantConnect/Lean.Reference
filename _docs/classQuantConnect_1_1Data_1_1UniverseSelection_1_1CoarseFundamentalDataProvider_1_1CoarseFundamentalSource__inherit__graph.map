@@ -1,0 +1,6 @@
+<map id="QuantConnect.Data.UniverseSelection.CoarseFundamentalDataProvider.CoarseFundamentalSource" name="QuantConnect.Data.UniverseSelection.CoarseFundamentalDataProvider.CoarseFundamentalSource">
+<area shape="rect" id="node1" title="Coarse fundamental with setters" alt="" coords="5,229,259,285"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Data_1_1UniverseSelection_1_1CoarseFundamental.html" title="Defines summary information about a single symbol for a given date" alt="" coords="56,155,208,181"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Data_1_1BaseData.html" title="Abstract base data class of QuantConnect. It is intended to be extended to define generic user custom..." alt="" coords="89,80,175,107"/>
+<area shape="rect" id="node4" href="$interfaceQuantConnect_1_1Data_1_1IBaseData.html" title="Base Data Class: Type, Timestamp, Key – Base Features." alt="" coords="87,5,177,32"/>
+</map>

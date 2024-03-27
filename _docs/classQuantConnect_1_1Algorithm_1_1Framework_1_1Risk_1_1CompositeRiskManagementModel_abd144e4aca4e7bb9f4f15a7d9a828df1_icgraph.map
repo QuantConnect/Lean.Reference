@@ -1,0 +1,6 @@
+<map id="QuantConnect.Algorithm.Framework.Risk.CompositeRiskManagementModel.AddRiskManagement" name="QuantConnect.Algorithm.Framework.Risk.CompositeRiskManagementModel.AddRiskManagement">
+<area shape="rect" id="node1" title="Adds a new IRiskManagementModel instance" alt="" coords="727,35,1033,91"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Algorithm_1_1QCAlgorithm.html#a1f9715570d3006e2148b48c3089f0607" title="Adds a new risk management model" alt="" coords="366,5,639,47"/>
+<area shape="rect" id="node4" href="$classQuantConnect_1_1Algorithm_1_1Framework_1_1Risk_1_1CompositeRiskManagementModel.html#a9bb6b6522dda9259a81c76f714ae7f64" title="Initializes a new instance of the CompositeRiskManagementModel class" alt="" coords="327,71,679,127"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Algorithm_1_1QCAlgorithm.html#ad6bce6a9b6a569448348fc2825001629" title="Adds a new risk management model" alt="" coords="5,5,279,47"/>
+</map>

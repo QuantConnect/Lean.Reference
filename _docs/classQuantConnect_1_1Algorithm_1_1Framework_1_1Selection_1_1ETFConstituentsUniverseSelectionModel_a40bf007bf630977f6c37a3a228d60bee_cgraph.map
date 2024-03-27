@@ -1,0 +1,5 @@
+<map id="QuantConnect.Algorithm.Framework.Selection.ETFConstituentsUniverseSelectionModel.CreateUniverses" name="QuantConnect.Algorithm.Framework.Selection.ETFConstituentsUniverseSelectionModel.CreateUniverses">
+<area shape="rect" id="node1" title="Creates a new ETF constituents universe using this class&#39;s selection function" alt="" coords="5,5,316,61"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Algorithm_1_1UniverseDefinitions.html#a30fcc8cc2625ef573a60d5f9056150b1" title="Creates a universe for the constituents of the provided etfTicker" alt="" coords="364,13,608,54"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1SecurityIdentifier.html#a0c21d7880c9fdd260883d11ea0c99a00" title="Helper overload that will search the mapfiles to resolve the first date. This implementation uses the..." alt="" coords="656,13,888,54"/>
+</map>

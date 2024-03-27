@@ -1,0 +1,4 @@
+<map id="QuantConnect.Securities.SecurityHolding.SetLastTradeProfit" name="QuantConnect.Securities.SecurityHolding.SetLastTradeProfit">
+<area shape="rect" id="node1" title="Set the last trade profit for this security from a Portfolio.ProcessFill call in units of the account..." alt="" coords="296,5,508,61"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Securities_1_1SecurityPortfolioModel.html#a5fec18e0e959a173c5fbb6187ab56f7c" title="Performs application of an OrderEvent to the portfolio" alt="" coords="5,13,248,54"/>
+</map>

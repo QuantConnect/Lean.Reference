@@ -1,0 +1,4 @@
+<map id="QuantConnect.Algorithm.Framework.Selection.OptionUniverseSelectionModel.Filter" name="QuantConnect.Algorithm.Framework.Selection.OptionUniverseSelectionModel.Filter">
+<area shape="rect" id="node1" title="Defines the option chain universe filter" alt="" coords="344,13,668,54"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Algorithm_1_1Framework_1_1Selection_1_1OptionUniverseSelectionModel.html#a353160f055a1b8c22bc65546765dbe50" title="Creates the universes for this algorithm. Called once after IAlgorithm.Initialize" alt="" coords="5,5,296,61"/>
+</map>

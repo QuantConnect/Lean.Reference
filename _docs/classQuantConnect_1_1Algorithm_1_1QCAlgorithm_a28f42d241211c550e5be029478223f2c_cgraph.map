@@ -1,0 +1,7 @@
+<map id="QuantConnect.Algorithm.QCAlgorithm.History&lt; T &gt;" name="QuantConnect.Algorithm.QCAlgorithm.History&lt; T &gt;">
+<area shape="rect" id="node1" title="Gets the historical data for the specified symbols between the specified dates. The symbols must exis..." alt="" coords="5,35,279,76"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Algorithm_1_1QCAlgorithm.html#a3dbba29e9f318ae97e8b99a1eb19537c" title="Helper method to create history requests from a date range" alt="" coords="331,5,604,47"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Algorithm_1_1QCAlgorithm.html#a900ae9f4fc865c9a8f9fdfa39a0c6a62" title="Creates a new Theta indicator for the symbol The indicator will be automatically updated on the symbo..." alt="" coords="327,71,608,98"/>
+<area shape="rect" id="node4" href="$classQuantConnect_1_1Algorithm_1_1QCAlgorithm.html#a918f318ce76cdc3ed9efad235ff7481e" title="Creates and registers a new consolidator to receive automatic updates at the specified resolution as ..." alt="" coords="656,35,929,76"/>
+<area shape="rect" id="node5" href="$classQuantConnect_1_1Algorithm_1_1QCAlgorithm.html#ade17e71e20d320dc9a1efa3ddf8aa3cd" title="Gets the default consolidator for the specified symbol and resolution" alt="" coords="977,64,1251,105"/>
+</map>

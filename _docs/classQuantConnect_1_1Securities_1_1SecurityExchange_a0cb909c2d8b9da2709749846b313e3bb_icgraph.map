@@ -1,0 +1,6 @@
+<map id="QuantConnect.Securities.SecurityExchange.DateTimeIsOpen" name="QuantConnect.Securities.SecurityExchange.DateTimeIsOpen">
+<area shape="rect" id="node1" title="Check if this DateTime is open." alt="" coords="539,39,789,80"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Orders_1_1Fills_1_1EquityFillModel.html#a2cc8fb9eafec5a645f7901a20b6c0594" title="Market on Open Fill Model. Return an order event with the fill details" alt="" coords="248,5,491,47"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Orders_1_1Fills_1_1FillModel.html#ad6b2c831ede0fe9358c0310ba05e1290" title="Market on Open Fill Model. Return an order event with the fill details" alt="" coords="269,71,470,112"/>
+<area shape="rect" id="node4" href="$classQuantConnect_1_1Orders_1_1Fills_1_1FillModel.html#ab2919d2ee3ef2bd42013884458871c85" title="Return an order event with the fill details" alt="" coords="5,71,200,112"/>
+</map>

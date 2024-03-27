@@ -1,0 +1,6 @@
+<map id="QuantConnect.Algorithm.Framework.Portfolio.NullPortfolioConstructionModel" name="QuantConnect.Algorithm.Framework.Portfolio.NullPortfolioConstructionModel">
+<area shape="rect" id="node1" title="Provides an implementation of IPortfolioConstructionModel that does nothing" alt="" coords="5,229,289,271"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Algorithm_1_1Framework_1_1Portfolio_1_1PortfolioConstructionModel.html" title="Provides a base class for portfolio construction models" alt="" coords="48,155,247,181"/>
+<area shape="rect" id="node3" href="$interfaceQuantConnect_1_1Algorithm_1_1Framework_1_1Portfolio_1_1IPortfolioConstructionModel.html" title="Algorithm framework model that" alt="" coords="46,80,249,107"/>
+<area shape="rect" id="node4" href="$interfaceQuantConnect_1_1Algorithm_1_1Framework_1_1INotifiedSecurityChanges.html" title="Types implementing this interface will be called when the algorithm&#39;s set of securities changes" alt="" coords="54,5,241,32"/>
+</map>

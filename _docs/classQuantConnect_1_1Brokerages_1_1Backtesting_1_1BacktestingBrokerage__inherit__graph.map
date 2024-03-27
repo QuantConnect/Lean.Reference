@@ -1,0 +1,8 @@
+<map id="QuantConnect.Brokerages.Backtesting.BacktestingBrokerage" name="QuantConnect.Brokerages.Backtesting.BacktestingBrokerage">
+<area shape="rect" id="node1" title="Represents a brokerage to be used during backtesting. This is intended to be only be used with the Ba..." alt="" coords="74,229,321,271"/>
+<area shape="rect" id="node6" href="$classQuantConnect_1_1Brokerages_1_1Paper_1_1PaperBrokerage.html" title="Paper Trading Brokerage" alt="" coords="100,319,295,360"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Brokerages_1_1Brokerage.html" title="Represents the base Brokerage implementation. This provides logging on brokerage events." alt="" coords="153,155,241,181"/>
+<area shape="rect" id="node3" href="$interfaceQuantConnect_1_1Interfaces_1_1IBrokerage.html" title="Brokerage interface that defines the operations all brokerages must implement. The IBrokerage impleme..." alt="" coords="151,80,243,107"/>
+<area shape="rect" id="node4" href="$interfaceQuantConnect_1_1Interfaces_1_1IBrokerageCashSynchronizer.html" title="Defines live brokerage cash synchronization operations." alt="" coords="5,5,213,32"/>
+<area shape="rect" id="node5" title=" " alt="" coords="237,5,336,32"/>
+</map>

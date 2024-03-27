@@ -1,0 +1,5 @@
+<map id="QuantConnect.Research.QuantBook.OptionHistory" name="QuantConnect.Research.QuantBook.OptionHistory">
+<area shape="rect" id="node1" title="Gets OptionHistory object for a given symbol, date and resolution" alt="" coords="275,39,496,80"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Research_1_1QuantBook.html#aaf0f7ae0c195e1e5e16cdaf26f2d6067" title="Gets OptionHistory object for a given symbol, date and resolution" alt="" coords="5,5,227,47"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Research_1_1QuantBook.html#a9c6829f944fce7f66a72fa0d9b64f7b8" title="Gets OptionHistory object for a given symbol, date and resolution" alt="" coords="5,71,227,112"/>
+</map>

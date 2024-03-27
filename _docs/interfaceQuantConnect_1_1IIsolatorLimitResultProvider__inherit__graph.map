@@ -1,0 +1,4 @@
+<map id="QuantConnect.IIsolatorLimitResultProvider" name="QuantConnect.IIsolatorLimitResultProvider">
+<area shape="rect" id="node1" title="Provides an abstraction for managing isolator limit results. This is originally intended to be used b..." alt="" coords="8,5,212,47"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Lean_1_1Engine_1_1AlgorithmTimeLimitManager.html" title="Provides an implementation of IIsolatorLimitResultProvider that tracks the algorithm manager&#39;s time l..." alt="" coords="5,95,215,136"/>
+</map>

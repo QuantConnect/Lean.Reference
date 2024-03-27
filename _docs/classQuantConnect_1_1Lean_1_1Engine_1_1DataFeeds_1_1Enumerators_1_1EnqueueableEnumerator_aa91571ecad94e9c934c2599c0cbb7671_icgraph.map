@@ -1,0 +1,4 @@
+<map id="QuantConnect.Lean.Engine.DataFeeds.Enumerators.EnqueueableEnumerator.Stop" name="QuantConnect.Lean.Engine.DataFeeds.Enumerators.EnqueueableEnumerator.Stop">
+<area shape="rect" id="node1" title="Signals the enumerator to stop enumerating when the items currently held inside are gone...." alt="" coords="320,5,587,61"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Lean_1_1Engine_1_1DataFeeds_1_1Enumerators_1_1EnqueueableEnumerator.html#a9a8683e2e7a28730255a16c810540ae5" title="Performs application&#45;defined tasks associated with freeing, releasing, or resetting unmanaged resourc..." alt="" coords="5,5,272,61"/>
+</map>

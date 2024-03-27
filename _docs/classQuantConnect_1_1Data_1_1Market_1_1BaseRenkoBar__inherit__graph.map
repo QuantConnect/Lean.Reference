@@ -1,0 +1,10 @@
+<map id="QuantConnect.Data.Market.BaseRenkoBar" name="QuantConnect.Data.Market.BaseRenkoBar">
+<area shape="rect" id="node1" title="Represents a bar sectioned not by time, but by some amount of movement in a set field,..." alt="" coords="119,229,321,271"/>
+<area shape="rect" id="node7" href="$classQuantConnect_1_1Data_1_1Market_1_1RenkoBar.html" title="Represents a bar sectioned not by time, but by some amount of movement in a value (for example,..." alt="" coords="5,319,208,360"/>
+<area shape="rect" id="node8" href="$classQuantConnect_1_1Data_1_1Market_1_1VolumeRenkoBar.html" title="Represents a bar sectioned not by time, but by some amount of movement in volume" alt="" coords="232,319,435,360"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Data_1_1Market_1_1TradeBar.html" title="TradeBar class for second and minute resolution data: An OHLC implementation of the QuantConnect Base..." alt="" coords="142,155,221,181"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Data_1_1BaseData.html" title="Abstract base data class of QuantConnect. It is intended to be extended to define generic user custom..." alt="" coords="93,80,179,107"/>
+<area shape="rect" id="node4" href="$interfaceQuantConnect_1_1Data_1_1IBaseData.html" title="Base Data Class: Type, Timestamp, Key – Base Features." alt="" coords="106,5,195,32"/>
+<area shape="rect" id="node5" href="$interfaceQuantConnect_1_1Data_1_1Market_1_1IBaseDataBar.html" title="Represents a type that is both a bar and base data" alt="" coords="203,80,314,107"/>
+<area shape="rect" id="node6" href="$interfaceQuantConnect_1_1Data_1_1Market_1_1IBar.html" title="Generic bar interface with Open, High, Low and Close." alt="" coords="235,5,283,32"/>
+</map>

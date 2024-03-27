@@ -1,0 +1,5 @@
+<map id="QuantConnect.Orders.Fees.InteractiveBrokersFeeModel" name="QuantConnect.Orders.Fees.InteractiveBrokersFeeModel">
+<area shape="rect" id="node1" title="Provides the default implementation of IFeeModel" alt="" coords="5,155,209,196"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Orders_1_1Fees_1_1FeeModel.html" title="Base class for any order fee model" alt="" coords="65,80,150,107"/>
+<area shape="rect" id="node3" href="$interfaceQuantConnect_1_1Orders_1_1Fees_1_1IFeeModel.html" title="Represents a model the simulates order fees" alt="" coords="63,5,152,32"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="QuantConnect.Data.Auxiliary.CorporateFactorProvider.GetSplitsAndDividends" name="QuantConnect.Data.Auxiliary.CorporateFactorProvider.GetSplitsAndDividends">
+<area shape="rect" id="node1" title="Gets all of the splits and dividends represented by this factor file" alt="" coords="5,5,247,61"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Logging_1_1Log.html#a4e55477fbc790846b74550a57198cea9" title="Log trace" alt="" coords="295,13,495,54"/>
+<area shape="rect" id="node3" href="$interfaceQuantConnect_1_1Logging_1_1ILogHandler.html#a3fb71a33ac66129240b63f12b6fcda3b" title="Write debug message to log" alt="" coords="543,13,743,54"/>
+</map>

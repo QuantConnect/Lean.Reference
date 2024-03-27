@@ -1,0 +1,7 @@
+<map id="QuantConnect.Brokerages.BaseWebsocketsBrokerage.Connect" name="QuantConnect.Brokerages.BaseWebsocketsBrokerage.Connect">
+<area shape="rect" id="node1" title="Creates wss connection, monitors for disconnection and re&#45;connects when necessary" alt="" coords="5,39,260,80"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Brokerages_1_1BaseWebsocketsBrokerage.html#ac5e5ca67e8c43e1f68f858f0f7c192a4" title="Start websocket connect" alt="" coords="308,5,593,47"/>
+<area shape="rect" id="node4" href="$classQuantConnect_1_1Logging_1_1Log.html#a4e55477fbc790846b74550a57198cea9" title="Log trace" alt="" coords="351,71,551,112"/>
+<area shape="rect" id="node3" href="$interfaceQuantConnect_1_1Brokerages_1_1IWebSocket.html#aa280ffe91f772cf1cdd047a645ad92ae" title="Wraps Connect method" alt="" coords="644,5,839,47"/>
+<area shape="rect" id="node5" href="$interfaceQuantConnect_1_1Logging_1_1ILogHandler.html#a3fb71a33ac66129240b63f12b6fcda3b" title="Write debug message to log" alt="" coords="641,71,841,112"/>
+</map>

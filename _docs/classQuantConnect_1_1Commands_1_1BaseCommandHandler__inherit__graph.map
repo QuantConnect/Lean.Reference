@@ -1,0 +1,6 @@
+<map id="QuantConnect.Commands.BaseCommandHandler" name="QuantConnect.Commands.BaseCommandHandler">
+<area shape="rect" id="node1" title="Base algorithm command handler" alt="" coords="5,155,233,196"/>
+<area shape="rect" id="node4" href="$classQuantConnect_1_1Commands_1_1FileCommandHandler.html" title="Represents a command handler that sources it&#39;s commands from a file on the local disk" alt="" coords="10,244,229,285"/>
+<area shape="rect" id="node2" href="$interfaceQuantConnect_1_1Commands_1_1ICommandHandler.html" title="Represents a command queue for the algorithm. This is an entry point for external messages to act upo..." alt="" coords="47,80,191,107"/>
+<area shape="rect" id="node3" title=" " alt="" coords="70,5,169,32"/>
+</map>

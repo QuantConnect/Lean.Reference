@@ -1,0 +1,5 @@
+<map id="QuantConnect.Indicators.OptionGreeksIndicatorBase.Reset" name="QuantConnect.Indicators.OptionGreeksIndicatorBase.Reset">
+<area shape="rect" id="node1" title="Resets this indicator and all sub&#45;indicators" alt="" coords="5,5,247,47"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Indicators_1_1ImpliedVolatility.html#a4fa104180871c1eb382771cda47d0e1b" title="Resets this indicator and all sub&#45;indicators" alt="" coords="295,5,481,47"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Indicators_1_1WindowIndicator.html#a1ce50f7528ee780ae15b3fdbaa987953" title="Resets this indicator to its initial state" alt="" coords="529,5,716,47"/>
+</map>

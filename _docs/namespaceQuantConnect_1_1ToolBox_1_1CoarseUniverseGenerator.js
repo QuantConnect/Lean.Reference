@@ -1,0 +1,4 @@
+var namespaceQuantConnect_1_1ToolBox_1_1CoarseUniverseGenerator =
+[
+    [ "CoarseUniverseGeneratorProgram", "classQuantConnect_1_1ToolBox_1_1CoarseUniverseGenerator_1_1CoarseUniverseGeneratorProgram.html", "classQuantConnect_1_1ToolBox_1_1CoarseUniverseGenerator_1_1CoarseUniverseGeneratorProgram" ]
+];

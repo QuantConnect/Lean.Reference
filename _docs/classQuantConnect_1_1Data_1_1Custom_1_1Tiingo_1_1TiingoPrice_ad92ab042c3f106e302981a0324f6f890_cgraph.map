@@ -1,0 +1,4 @@
+<map id="QuantConnect.Data.Custom.Tiingo.TiingoPrice.GetSource" name="QuantConnect.Data.Custom.Tiingo.TiingoPrice.GetSource">
+<area shape="rect" id="node1" title="Return the URL string source of the file. This will be converted to a stream" alt="" coords="5,13,215,54"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Data_1_1Custom_1_1Tiingo_1_1TiingoSymbolMapper.html#a6b1c59dd7ae357302790adfc1654e07a" title="Maps a given Symbol instance to it&#39;s Tiingo equivalent" alt="" coords="263,5,533,61"/>
+</map>

@@ -1,0 +1,9 @@
+<map id="QuantConnect.Algorithm.Framework.Portfolio.PortfolioTarget.Percent" name="QuantConnect.Algorithm.Framework.Portfolio.PortfolioTarget.Percent">
+<area shape="rect" id="node1" title="Creates a new target for the specified percent" alt="" coords="1017,119,1280,160"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Algorithm_1_1QCAlgorithm.html#a6f5bbd2b827f83f9f66f4566ff20b34f" title="Calculate the order quantity to achieve target&#45;percent holdings." alt="" coords="681,5,955,47"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Algorithm_1_1Framework_1_1Portfolio_1_1SignalExports_1_1Collective2SignalExport.html#a068778469a955aa908e2657d2ed1b1a3" title="Converts a given percentage of a position into the number of shares of it" alt="" coords="667,71,969,127"/>
+<area shape="rect" id="node6" href="$classQuantConnect_1_1Algorithm_1_1Framework_1_1Portfolio_1_1PortfolioConstructionModel.html#aa8b9e58e326811434356b8b918a38d89" title="Create portfolio targets from the specified insights" alt="" coords="687,151,949,207"/>
+<area shape="rect" id="node7" href="$classQuantConnect_1_1Algorithm_1_1Framework_1_1Portfolio_1_1PortfolioTarget.html#ae44fddeec89097601eec66f388ad6f97" title="Creates a new target for the specified percent" alt="" coords="687,232,949,273"/>
+<area shape="rect" id="node4" href="$classQuantConnect_1_1Algorithm_1_1Framework_1_1Portfolio_1_1SignalExports_1_1Collective2SignalExport.html#a87920e10ff6ced2b1299745f8ddb5aa3" title="Converts a list of targets to a list of Collective2 positions" alt="" coords="316,71,619,127"/>
+<area shape="rect" id="node5" href="$classQuantConnect_1_1Algorithm_1_1Framework_1_1Portfolio_1_1SignalExports_1_1Collective2SignalExport.html#ae72a36410f161dff06b714c17837a623" title="Creates a JSON message with the desired positions using the expected Collective2 API format and then ..." alt="" coords="5,71,268,127"/>
+</map>

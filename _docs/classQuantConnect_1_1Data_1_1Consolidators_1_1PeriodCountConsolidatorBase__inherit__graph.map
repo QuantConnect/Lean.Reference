@@ -1,0 +1,4 @@
+<map id="QuantConnect.Data.Consolidators.PeriodCountConsolidatorBase&lt; T, TConsolidated &gt;" name="QuantConnect.Data.Consolidators.PeriodCountConsolidatorBase&lt; T, TConsolidated &gt;">
+<area shape="rect" id="node1" title="Provides a base class for consolidators that emit data based on the passing of a period of time or af..." alt="" coords="5,80,252,136"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Data_1_1Consolidators_1_1DataConsolidator.html" title=" " alt="" coords="42,5,215,32"/>
+</map>

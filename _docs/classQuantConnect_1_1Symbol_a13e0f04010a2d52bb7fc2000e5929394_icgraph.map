@@ -1,0 +1,4 @@
+<map id="QuantConnect.Symbol.UpdateMappedSymbol" name="QuantConnect.Symbol.UpdateMappedSymbol">
+<area shape="rect" id="node1" title="Creates new symbol with updated mapped symbol. Symbol Mapping: When symbols change over time (e...." alt="" coords="280,29,499,71"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Data_1_1HistoryExtensions.html#a3b6a56b1bd013e0178ae4d01775fc68b" title="Split HistoryRequest on several request with update mapped symbol." alt="" coords="5,22,232,78"/>
+</map>

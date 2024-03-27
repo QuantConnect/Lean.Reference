@@ -1,0 +1,4 @@
+<map id="QuantConnect.Lean.Engine.DataFeeds.Enumerators.AuxiliaryDataEnumerator.Initialize" name="QuantConnect.Lean.Engine.DataFeeds.Enumerators.AuxiliaryDataEnumerator.Initialize">
+<area shape="rect" id="node1" title="Initializes the underlying tradable data event providers" alt="" coords="5,5,245,61"/>
+<area shape="rect" id="node2" href="$interfaceQuantConnect_1_1Lean_1_1Engine_1_1DataFeeds_1_1Enumerators_1_1ITradableDateEventProvider.html#a78c0f016437047bf20f15acbfa45b483" title="Initializes the event provider instance" alt="" coords="293,5,535,61"/>
+</map>

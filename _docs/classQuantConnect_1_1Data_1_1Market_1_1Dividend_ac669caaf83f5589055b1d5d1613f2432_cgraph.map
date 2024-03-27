@@ -1,0 +1,5 @@
+<map id="QuantConnect.Data.Market.Dividend.Create" name="QuantConnect.Data.Market.Dividend.Create">
+<area shape="rect" id="node1" title="Initializes a new instance of the Dividend class" alt="" coords="5,39,208,80"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Data_1_1Market_1_1Dividend.html#ac02eaa3d154f125b0d692577a3dbc264" title="Computes the price factor ratio given the previous day&#39;s closing price and the p" alt="" coords="256,5,475,47"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Data_1_1Market_1_1Dividend.html#a89b737fb76db1dfaeaa3cd942f3065a5" title="Initializes a new instance of the Dividend class" alt="" coords="264,71,467,112"/>
+</map>

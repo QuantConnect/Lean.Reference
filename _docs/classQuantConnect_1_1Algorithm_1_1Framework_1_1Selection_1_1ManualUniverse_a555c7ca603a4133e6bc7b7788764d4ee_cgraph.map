@@ -1,0 +1,4 @@
+<map id="QuantConnect.Algorithm.Framework.Selection.ManualUniverse.GetSubscriptionRequests" name="QuantConnect.Algorithm.Framework.Selection.ManualUniverse.GetSubscriptionRequests">
+<area shape="rect" id="node1" title="Gets the subscription requests to be added for the specified security" alt="" coords="5,5,304,61"/>
+<area shape="rect" id="node2" href="$interfaceQuantConnect_1_1Interfaces_1_1ISubscriptionDataConfigProvider.html#a29826b931901dd4e4b64515663a2073b" title="Gets a list of all registered SubscriptionDataConfig for a given Symbol if any else will return the w..." alt="" coords="352,5,587,61"/>
+</map>

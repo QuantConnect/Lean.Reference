@@ -1,0 +1,7 @@
+<map id="QuantConnect.Securities.SecurityTransactionManager.CancelOpenOrders" name="QuantConnect.Securities.SecurityTransactionManager.CancelOpenOrders">
+<area shape="rect" id="node1" title="Cancels all open orders for all symbols" alt="" coords="701,43,955,99"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Brokerages_1_1Backtesting_1_1BacktestingBrokerage.html#aee14eadf2d8029fb3d4850deafaa9590" title="Process delistings" alt="" coords="391,5,642,61"/>
+<area shape="rect" id="node4" href="$classQuantConnect_1_1Algorithm_1_1QCAlgorithm.html#a6ece1896dff33aafccfb1707a83a77c3" title="Removes the security with the specified symbol. This will cancel all open orders and then liquidate a..." alt="" coords="380,86,653,127"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Lean_1_1Engine_1_1TransactionHandlers_1_1BacktestingTransactionHandler.html#a1ed7cbf05aa34f41fd3ba79655e3b1b2" title="Processes all synchronous events that must take place before the next time loop for the algorithm" alt="" coords="5,5,332,61"/>
+<area shape="rect" id="node5" href="$classQuantConnect_1_1Algorithm_1_1QCAlgorithm.html#aaa03fad6a4f4df5db3a0273d94df6436" title="Removes the security with the specified symbol. This will cancel all open orders and then liquidate a..." alt="" coords="32,86,305,127"/>
+</map>

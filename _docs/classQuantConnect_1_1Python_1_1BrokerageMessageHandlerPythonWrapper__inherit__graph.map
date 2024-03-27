@@ -1,0 +1,4 @@
+<map id="QuantConnect.Python.BrokerageMessageHandlerPythonWrapper" name="QuantConnect.Python.BrokerageMessageHandlerPythonWrapper">
+<area shape="rect" id="node1" title="Provides a wrapper for IBrokerageMessageHandler implementations written in python" alt="" coords="5,80,239,121"/>
+<area shape="rect" id="node2" href="$interfaceQuantConnect_1_1Brokerages_1_1IBrokerageMessageHandler.html" title="Provides an plugin point to allow algorithms to directly handle the messages that come from their bro..." alt="" coords="21,5,223,32"/>
+</map>

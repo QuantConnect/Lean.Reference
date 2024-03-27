@@ -1,0 +1,5 @@
+<map id="QuantConnect.Data.UniverseSelection.FuturesChainUniverse" name="QuantConnect.Data.UniverseSelection.FuturesChainUniverse">
+<area shape="rect" id="node1" title="Defines a universe for a single futures chain" alt="" coords="5,155,235,196"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Data_1_1UniverseSelection_1_1Universe.html" title="Provides a base class for all universes to derive from." alt="" coords="80,80,160,107"/>
+<area shape="rect" id="node3" title=" " alt="" coords="71,5,169,32"/>
+</map>

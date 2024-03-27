@@ -1,0 +1,4 @@
+<map id="QuantConnect.Interfaces.IDataChannelProvider.ShouldStreamSubscription" name="QuantConnect.Interfaces.IDataChannelProvider.ShouldStreamSubscription">
+<area shape="rect" id="node1" title="True if this subscription configuration should be streamed" alt="" coords="288,5,547,61"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Lean_1_1Engine_1_1DataFeeds_1_1LiveTradingDataFeed.html#a6fc889ac6d825b11a8ace9457f715e7c" title="Removes the subscription from the data feed, if it exists" alt="" coords="5,5,240,61"/>
+</map>

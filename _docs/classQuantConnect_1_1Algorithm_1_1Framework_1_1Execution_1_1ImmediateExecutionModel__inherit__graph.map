@@ -1,0 +1,6 @@
+<map id="QuantConnect.Algorithm.Framework.Execution.ImmediateExecutionModel" name="QuantConnect.Algorithm.Framework.Execution.ImmediateExecutionModel">
+<area shape="rect" id="node1" title="Provides an implementation of IExecutionModel that immediately submits market orders to achieve the d..." alt="" coords="5,229,268,271"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Algorithm_1_1Framework_1_1Execution_1_1ExecutionModel.html" title="Provides a base class for execution models" alt="" coords="74,155,199,181"/>
+<area shape="rect" id="node3" href="$interfaceQuantConnect_1_1Algorithm_1_1Framework_1_1Execution_1_1IExecutionModel.html" title="Algorithm framework model that executes portfolio targets" alt="" coords="72,80,201,107"/>
+<area shape="rect" id="node4" href="$interfaceQuantConnect_1_1Algorithm_1_1Framework_1_1INotifiedSecurityChanges.html" title="Types implementing this interface will be called when the algorithm&#39;s set of securities changes" alt="" coords="43,5,230,32"/>
+</map>

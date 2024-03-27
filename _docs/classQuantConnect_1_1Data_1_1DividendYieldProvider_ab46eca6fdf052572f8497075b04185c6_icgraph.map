@@ -1,0 +1,4 @@
+<map id="QuantConnect.Data.DividendYieldProvider.LoadDividendYieldProvider" name="QuantConnect.Data.DividendYieldProvider.LoadDividendYieldProvider">
+<area shape="rect" id="node1" title="Generate the daily historical dividend yield" alt="" coords="277,5,509,61"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Data_1_1DividendYieldProvider.html#abc7d7530d340e4c4763238bc5a63d72a" title="Get dividend yield by a given date of a given symbol" alt="" coords="5,13,229,54"/>
+</map>

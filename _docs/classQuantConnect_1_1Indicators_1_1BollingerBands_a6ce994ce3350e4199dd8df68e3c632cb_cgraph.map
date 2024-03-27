@@ -1,0 +1,4 @@
+<map id="QuantConnect.Indicators.BollingerBands.ValidateAndComputeNextValue" name="QuantConnect.Indicators.BollingerBands.ValidateAndComputeNextValue">
+<area shape="rect" id="node1" title="Validate and Compute the next value for this indicator" alt="" coords="5,5,267,61"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Indicators_1_1BollingerBands.html#aa881fd954599de7722bb0684feff8562" title="Computes the next value of the following sub&#45;indicators from the given state: StandardDeviation,..." alt="" coords="315,13,565,54"/>
+</map>

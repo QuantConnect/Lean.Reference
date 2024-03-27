@@ -1,0 +1,6 @@
+<map id="QuantConnect.Lean.Engine.DataFeeds.UniverseSelection.ApplyUniverseSelection" name="QuantConnect.Lean.Engine.DataFeeds.UniverseSelection.ApplyUniverseSelection">
+<area shape="rect" id="node1" title="Applies universe selection the the data feed and algorithm" alt="" coords="5,49,260,105"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Data_1_1UniverseSelection_1_1Universe.html#a34a60454813c0283f0ba287dd09fe018" title="Performs universe selection using the data specified" alt="" coords="308,27,568,69"/>
+<area shape="rect" id="node4" href="$classQuantConnect_1_1Data_1_1UniverseSelection_1_1Universe.html#abe22506a629447a0182d69dbc98c8644" title="Performs universe selection using the data specified" alt="" coords="616,86,860,127"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Data_1_1UniverseSelection_1_1Universe.html#a567d9f5a05e310cbd91e68299ef7f1d6" title="Event invocator for the SelectionChanged event" alt="" coords="625,5,851,61"/>
+</map>

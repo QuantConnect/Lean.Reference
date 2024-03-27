@@ -1,0 +1,5 @@
+<map id="QuantConnect.Scheduling.TimeMonitor.ProcessConsumer" name="QuantConnect.Scheduling.TimeMonitor.ProcessConsumer">
+<area shape="rect" id="node1" title="Process the TimeConsumer object in TimeConsumers list" alt="" coords="5,39,229,80"/>
+<area shape="rect" id="node2" href="$interfaceQuantConnect_1_1ITimeProvider.html#ae51737f869d879dfbb297496e4feb036" title="Gets the current time in UTC" alt="" coords="307,5,519,47"/>
+<area shape="rect" id="node3" href="$interfaceQuantConnect_1_1IIsolatorLimitResultProvider.html#a78addd1d9efec8e07e204ba1d4afc5f2" title="Requests additional time from the isolator result provider. This is intended to prevent IsWithinLimit..." alt="" coords="277,71,549,112"/>
+</map>

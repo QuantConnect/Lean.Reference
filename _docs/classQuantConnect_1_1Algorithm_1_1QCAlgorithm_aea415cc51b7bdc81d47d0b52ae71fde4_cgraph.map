@@ -1,0 +1,4 @@
+<map id="QuantConnect.Algorithm.QCAlgorithm.TP" name="QuantConnect.Algorithm.QCAlgorithm.TP">
+<area shape="rect" id="node1" title="Creates an Market Profile indicator for the symbol with Time Price Opportunity (TPO) mode...." alt="" coords="5,13,295,39"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Algorithm_1_1QCAlgorithm.html#a46d89a30b7e0513cf7a4ac77f3ca3fe5" title="Creates a new name for an indicator created with the convenience functions (SMA, EMA,..." alt="" coords="343,5,616,47"/>
+</map>

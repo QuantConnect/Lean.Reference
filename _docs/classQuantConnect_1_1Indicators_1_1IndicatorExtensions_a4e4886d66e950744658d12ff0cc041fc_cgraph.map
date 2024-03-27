@@ -1,0 +1,4 @@
+<map id="QuantConnect.Indicators.IndicatorExtensions.EMA&lt; T &gt;" name="QuantConnect.Indicators.IndicatorExtensions.EMA&lt; T &gt;">
+<area shape="rect" id="node1" title="Creates a new ExponentialMovingAverage indicator with the specified period and smoothingFactor from t..." alt="" coords="5,13,227,54"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Indicators_1_1ExponentialMovingAverage.html#a64fd3c50320dde387ae2b01ec6ff4162" title="Calculates the default smoothing factor for an ExponentialMovingAverage indicator" alt="" coords="275,5,549,61"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="QuantConnect.Data.SubscriptionManager.Add" name="QuantConnect.Data.SubscriptionManager.Add">
+<area shape="rect" id="node1" title="Add Market Data Required &#45; generic data typing support as long as Type implements BaseData." alt="" coords="5,5,239,47"/>
+<area shape="rect" id="node2" href="$interfaceQuantConnect_1_1Interfaces_1_1ISubscriptionDataConfigService.html#a37d844a8ee78541da26b4732ed6a0a14" title="Creates and adds a list of SubscriptionDataConfig for a given symbol and configuration...." alt="" coords="287,5,541,47"/>
+</map>

@@ -1,0 +1,12 @@
+<map id="QuantConnect.Util.LeanData.GetDataType" name="QuantConnect.Util.LeanData.GetDataType">
+<area shape="rect" id="node1" title="Gets the data type required for the specified combination of resolution and tick type" alt="" coords="709,108,920,149"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Data_1_1HistoryRequestFactory.html#acd9d6d64e26a57db375983750a51ae02" title="Creates a new history request" alt="" coords="372,5,639,47"/>
+<area shape="rect" id="node4" href="$classQuantConnect_1_1Data_1_1LeanDataWriter.html#a84b23a2db3f964f4b90cdca539996aa1" title="Downloads historical data from the brokerage and saves it in LEAN format." alt="" coords="398,71,613,112"/>
+<area shape="rect" id="node5" href="$classQuantConnect_1_1Lean_1_1Engine_1_1DataFeeds_1_1DataManager.html#a44a6ceb7e171992b862532e0f63b9aa7" title="Get the data feed types for a given SecurityType Resolution" alt="" coords="349,137,661,193"/>
+<area shape="rect" id="node7" href="$classQuantConnect_1_1Util_1_1LeanData.html#ac979a9bea9e3fabfda1872dbf4e6306b" title="Parses file name into a Security and DateTime" alt="" coords="400,233,611,275"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Algorithm_1_1QCAlgorithm.html#aa45a87846ce7b18f124945bc678c0aec" title="Helper method to create history requests from a date range with custom data type" alt="" coords="17,5,290,47"/>
+<area shape="rect" id="node6" href="$classQuantConnect_1_1Lean_1_1Engine_1_1DataFeeds_1_1DataManager.html#ae3335b4baef65a2485d4c16a65067a2e" title="Creates and adds a list of SubscriptionDataConfig for a given symbol and configuration...." alt="" coords="48,127,259,168"/>
+<area shape="rect" id="node8" href="$classQuantConnect_1_1Lean_1_1Engine_1_1DataFeeds_1_1DownloaderDataProvider.html#a1c8b7b1808d3c60ba757a4f8fbafc5ba" title="Determines if it should downloads new data and retrieves data from disc" alt="" coords="5,192,301,233"/>
+<area shape="rect" id="node9" href="$classQuantConnect_1_1Lean_1_1Engine_1_1DataFeeds_1_1DownloaderDataProvider.html#a9d06c25a1ce31e43f6593d8c9e549a15" title="Get&#39;s the stream for a given file path" alt="" coords="23,258,284,314"/>
+<area shape="rect" id="node10" href="$classQuantConnect_1_1ToolBox_1_1LeanDataReader.html#ac23439fd286135eaf5c3047bf52eb517" title="Initialize a instance of LeanDataReader from a path to a zipped data file. It also supports declaring..." alt="" coords="48,339,259,380"/>
+</map>

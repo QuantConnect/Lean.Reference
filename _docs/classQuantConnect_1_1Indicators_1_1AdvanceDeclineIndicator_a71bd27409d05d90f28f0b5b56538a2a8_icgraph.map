@@ -1,0 +1,4 @@
+<map id="QuantConnect.Indicators.AdvanceDeclineIndicator.ComputeNextValue" name="QuantConnect.Indicators.AdvanceDeclineIndicator.ComputeNextValue">
+<area shape="rect" id="node1" title="Computes the next value of this indicator from the given state" alt="" coords="293,5,540,61"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Indicators_1_1AdvanceDeclineIndicator.html#ab3387fa030237583006eab1000ce5c69" title="Computes the next value of this indicator from the given state" alt="" coords="5,5,245,61"/>
+</map>

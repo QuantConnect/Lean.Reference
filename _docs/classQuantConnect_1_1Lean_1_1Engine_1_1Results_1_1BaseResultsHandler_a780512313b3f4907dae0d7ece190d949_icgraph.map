@@ -1,0 +1,4 @@
+<map id="QuantConnect.Lean.Engine.Results.BaseResultsHandler.PurgeQueue" name="QuantConnect.Lean.Engine.Results.BaseResultsHandler.PurgeQueue">
+<area shape="rect" id="node1" title="Purge/clear any outstanding messages in message queue." alt="" coords="300,13,587,54"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Lean_1_1Engine_1_1Results_1_1BacktestingResultHandler.html#abd9483f0a51499a5094e6d3124a88464" title="Send a runtime error message back to the browser highlighted with in red" alt="" coords="5,5,252,61"/>
+</map>

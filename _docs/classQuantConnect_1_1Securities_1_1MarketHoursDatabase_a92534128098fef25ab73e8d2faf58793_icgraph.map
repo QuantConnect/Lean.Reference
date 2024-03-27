@@ -1,0 +1,5 @@
+<map id="QuantConnect.Securities.MarketHoursDatabase.GetDataTimeZone" name="QuantConnect.Securities.MarketHoursDatabase.GetDataTimeZone">
+<area shape="rect" id="node1" title="Performs a lookup using the specified information and returns the data&#39;s time zone if found,..." alt="" coords="327,39,617,80"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1ToolBox_1_1LeanDataReader.html#ac23439fd286135eaf5c3047bf52eb517" title="Initialize a instance of LeanDataReader from a path to a zipped data file. It also supports declaring..." alt="" coords="37,5,247,47"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Algorithm_1_1QCAlgorithm.html#ad8a5d8d6d6fd62a8a3962f0649567804" title="Called by setup handlers after Initialize and allows the algorithm a chance to organize the data gath..." alt="" coords="5,71,279,112"/>
+</map>

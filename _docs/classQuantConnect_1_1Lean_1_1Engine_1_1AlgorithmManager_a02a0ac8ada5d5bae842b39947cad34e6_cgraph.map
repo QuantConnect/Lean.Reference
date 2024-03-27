@@ -1,0 +1,11 @@
+<map id="QuantConnect.Lean.Engine.AlgorithmManager.HandleDividends" name="QuantConnect.Lean.Engine.AlgorithmManager.HandleDividends">
+<area shape="rect" id="node1" title="Helper method to apply a dividend to an algorithm instance" alt="" coords="5,159,263,201"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Securities_1_1SecurityPortfolioManager.html#a3035964265c42089a834731e13c19a54" title="Applies a dividend to the portfolio" alt="" coords="315,5,541,61"/>
+<area shape="rect" id="node4" href="$classQuantConnect_1_1Logging_1_1Log.html#ad908daef9d61532d7d60c9dcfb9a3e0c" title="Output to the console" alt="" coords="328,86,528,127"/>
+<area shape="rect" id="node6" href="$interfaceQuantConnect_1_1Interfaces_1_1ISubscriptionDataConfigProvider.html#a29826b931901dd4e4b64515663a2073b" title="Gets a list of all registered SubscriptionDataConfig for a given Symbol if any else will return the w..." alt="" coords="311,152,545,208"/>
+<area shape="rect" id="node7" href="$classQuantConnect_1_1Logging_1_1Log.html#a4e55477fbc790846b74550a57198cea9" title="Log trace" alt="" coords="328,233,528,274"/>
+<area shape="rect" id="node9" href="$classQuantConnect_1_1Securities_1_1SecurityManager.html#af3ad97e370ceec706ac1afe70f7fbb42" title="Try and get this security object with matching symbol and return true on success." alt="" coords="321,298,535,339"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Securities_1_1Cash.html#af5a7561893cf6fa38c3ee83d434fe32d" title="Adds the specified amount of currency to this Cash instance and returns the new total...." alt="" coords="600,13,787,54"/>
+<area shape="rect" id="node5" href="$interfaceQuantConnect_1_1Logging_1_1ILogHandler.html#a2c738b8e78dd5b54244bc68b969ba91d" title="Write debug message to log" alt="" coords="593,86,793,127"/>
+<area shape="rect" id="node8" href="$interfaceQuantConnect_1_1Logging_1_1ILogHandler.html#a3fb71a33ac66129240b63f12b6fcda3b" title="Write debug message to log" alt="" coords="593,233,793,274"/>
+</map>

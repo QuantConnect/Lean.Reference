@@ -1,0 +1,12 @@
+<map id="QuantConnect.Algorithm.QCAlgorithm.T" name="QuantConnect.Algorithm.QCAlgorithm.T">
+<area shape="rect" id="node1" title="Creates a new Theta indicator for the symbol The indicator will be automatically updated on the symbo..." alt="" coords="336,274,617,301"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Algorithm_1_1QCAlgorithm.html#aa9bab563784cab73139d60c5b7d5b41c" title="AddDataa new user defined data source, requiring only the minimum config options." alt="" coords="10,5,283,47"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Algorithm_1_1QCAlgorithm.html#aa1d4ed93598fa440fb4762317711a0f7" title="Creates a new universe and adds it to the algorithm. This will use the default universe settings spec..." alt="" coords="10,71,283,112"/>
+<area shape="rect" id="node4" href="$classQuantConnect_1_1Algorithm_1_1QCAlgorithm.html#a1cb76671a1712216359b870d15f61e1e" title="Creates a new universe and adds it to the algorithm" alt="" coords="10,136,283,177"/>
+<area shape="rect" id="node5" href="$classQuantConnect_1_1Algorithm_1_1QCAlgorithm.html#af4c1b1818c4213b7a4890e0e3ef20a48" title="Registers the handler &#160;to receive consolidated data for the specified symbol and tick type...." alt="" coords="10,201,283,243"/>
+<area shape="rect" id="node6" href="$classQuantConnect_1_1Algorithm_1_1QCAlgorithm.html#a958af7708fe1cb9d4f409d79aaebaa61" title="Centralized logic to get data typed history for a given list of requests." alt="" coords="10,267,283,308"/>
+<area shape="rect" id="node7" href="$classQuantConnect_1_1Algorithm_1_1QCAlgorithm.html#ac6295d70f19e5e99ca06c9c4555f8364" title="Gets the historical data for the specified symbols. The exact number of bars will be returned for eac..." alt="" coords="10,332,283,373"/>
+<area shape="rect" id="node8" href="$classQuantConnect_1_1Algorithm_1_1QCAlgorithm.html#a6ba45f2847c60f394c5594a1ecb31dc6" title="Registers the consolidator to receive automatic updates as well as configures the indicator to receiv..." alt="" coords="10,397,283,439"/>
+<area shape="rect" id="node9" href="$classQuantConnect_1_1Algorithm_1_1QCAlgorithm.html#adb8b760815058e8a8075073207627aaf" title="Warms up a given indicator with historical data" alt="" coords="10,463,283,504"/>
+<area shape="rect" id="node10" href="$classQuantConnect_1_1Algorithm_1_1QCAlgorithm.html#ae45c41d24b597fc4e166c18230d7ee9a" title="Creates a new Theta indicator for the symbol The indicator will be automatically updated on the symbo..." alt="" coords="5,529,288,555"/>
+</map>

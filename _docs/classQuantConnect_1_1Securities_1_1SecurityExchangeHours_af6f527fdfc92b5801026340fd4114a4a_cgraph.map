@@ -1,0 +1,6 @@
+<map id="QuantConnect.Securities.SecurityExchangeHours.AlwaysOpen" name="QuantConnect.Securities.SecurityExchangeHours.AlwaysOpen">
+<area shape="rect" id="node1" title="Gets a SecurityExchangeHours instance that is always open" alt="" coords="5,43,267,84"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Securities_1_1LocalMarketHours.html#a7b62571672b229cdd9f8a676984cab84" title="Gets a LocalMarketHours instance that is always open" alt="" coords="321,5,541,47"/>
+<area shape="rect" id="node4" href="$classQuantConnect_1_1Securities_1_1SecurityExchangeHours.html#a4e35261d01a60022cc2ca6025cac18d8" title="Initializes a new instance of the SecurityExchangeHours class" alt="" coords="315,71,548,127"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Securities_1_1LocalMarketHours.html#af735a7f5215c72259ab040336e2220b9" title="Initializes a new instance of the LocalMarketHours class" alt="" coords="596,5,856,47"/>
+</map>

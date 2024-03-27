@@ -1,0 +1,5 @@
+<map id="QuantConnect.Data.Fundamental.FeeRevenueAndOtherIncomeIncomeStatement" name="QuantConnect.Data.Fundamental.FeeRevenueAndOtherIncomeIncomeStatement">
+<area shape="rect" id="node1" title="The aggregate amount of fees, commissions, and other income." alt="" coords="5,155,332,196"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Data_1_1Fundamental_1_1MultiPeriodField.html" title="Abstract base class for multi&#45;period fields" alt="" coords="105,80,232,107"/>
+<area shape="rect" id="node3" title=" " alt="" coords="90,5,247,32"/>
+</map>

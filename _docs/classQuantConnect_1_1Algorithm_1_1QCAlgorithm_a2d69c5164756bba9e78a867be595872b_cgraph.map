@@ -1,0 +1,4 @@
+<map id="QuantConnect.Algorithm.QCAlgorithm.EmitInsights" name="QuantConnect.Algorithm.QCAlgorithm.EmitInsights">
+<area shape="rect" id="node1" title="Manually emit insights from an algorithm. This is typically invoked before calls to submit orders in ..." alt="" coords="5,5,279,47"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Algorithm_1_1QCAlgorithm.html#a7bdcfe7bf87e4688620dfc0cbac212aa" title="Send a string error message to the Console." alt="" coords="327,5,600,47"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="QuantConnect.Securities.Positions.IPositionGroupResolver.GetImpactedGroups" name="QuantConnect.Securities.Positions.IPositionGroupResolver.GetImpactedGroups">
+<area shape="rect" id="node1" title="Determines the position groups that would be evaluated for grouping of the specified positions were p..." alt="" coords="283,5,523,61"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Securities_1_1Positions_1_1SecurityPositionGroupModel.html#a09f15375f682c05dda796b9cebaca370" title="Determines which position groups could be impacted by changes in the specified positions" alt="" coords="5,5,235,61"/>
+</map>

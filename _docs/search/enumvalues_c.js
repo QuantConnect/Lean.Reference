@@ -1,0 +1,19 @@
+var searchData=
+[
+  ['magnitude_16580',['Magnitude',['../namespaceQuantConnect_1_1Algorithm_1_1Framework_1_1Alphas.html#a44826571b0f4a978eaf68ed4b2ac0da6ac1a4f436eca777864111404effb5ae39',1,'QuantConnect::Algorithm::Framework::Alphas']]],
+  ['manual_16581',['Manual',['../namespaceQuantConnect_1_1Data_1_1Auxiliary.html#abb0998c726200b5f7708f3aa8b87dcb0ae1ba155a9f2e8c3be94020eef32a0301',1,'QuantConnect::Data::Auxiliary']]],
+  ['margin_16582',['Margin',['../namespaceQuantConnect.html#a83e33c1831661eb22146bdb091a98557a98369609669478919c74c916440e9978',1,'QuantConnect']]],
+  ['market_16583',['Market',['../namespaceQuantConnect_1_1Orders.html#a5d75e786a70a68a4999da57a060fa8dba31840a66a8d6d223e5b0540138768838',1,'QuantConnect.Orders.Market()'],['../namespaceQuantConnect_1_1Securities.html#a3ee259fc219321a71f66cef13bacc64ba31840a66a8d6d223e5b0540138768838',1,'QuantConnect.Securities.Market()']]],
+  ['marketclosed_16584',['MarketClosed',['../namespaceQuantConnect_1_1Orders.html#ac7178c706050221d310ca98a33bfe622a593769bd4ac9de272594d37a168bdb57',1,'QuantConnect::Orders']]],
+  ['marketonclose_16585',['MarketOnClose',['../namespaceQuantConnect_1_1Orders.html#a5d75e786a70a68a4999da57a060fa8dba429b2bee28dac126ec4a2ade2f040ab5',1,'QuantConnect::Orders']]],
+  ['marketoncloseordertoolate_16586',['MarketOnCloseOrderTooLate',['../namespaceQuantConnect_1_1Orders.html#a4abb693051568883a5e26c730ce20ab2a87ad608f0493ed14beb7f9754260eac3',1,'QuantConnect::Orders']]],
+  ['marketonopen_16587',['MarketOnOpen',['../namespaceQuantConnect_1_1Orders.html#a5d75e786a70a68a4999da57a060fa8dbaaf2cf8e3fa77992cddc58cd4e9d3a5c7',1,'QuantConnect::Orders']]],
+  ['marketselloff2015_16588',['MarketSellOff2015',['../namespaceQuantConnect_1_1Report.html#a0b3c3c82db76cb19c3363011e9080b7aa36de15ea85c9333b25d5798036e97e61',1,'QuantConnect::Report']]],
+  ['matherror_16589',['MathError',['../namespaceQuantConnect_1_1Indicators.html#a63de89cded9b55a464611568225e0472a7e54da32b66536801a78af345f308206',1,'QuantConnect::Indicators']]],
+  ['maxordersexceeded_16590',['MaxOrdersExceeded',['../namespaceQuantConnect_1_1Orders.html#ac7178c706050221d310ca98a33bfe622abab8cab9ca417defd4258649153487d7',1,'QuantConnect::Orders']]],
+  ['merge_16591',['Merge',['../namespaceQuantConnect.html#aa52ce1fa9b63efb89d40120810b02da9a68be4837f6c739877233e527a996dd00',1,'QuantConnect']]],
+  ['minute_16592',['Minute',['../namespaceQuantConnect.html#a4d4c02d9045faf9f1f98c1bb011273c8a62902641c38f3a4a8eb3212454360e24',1,'QuantConnect']]],
+  ['mis_16593',['MIS',['../classQuantConnect_1_1Orders_1_1IndiaOrderProperties.html#a8c910f1c38e5daf1f53450e40f961db2afac1240d9bec673e6b735e209b16c3cf',1,'QuantConnect::Orders::IndiaOrderProperties']]],
+  ['missingsecurity_16594',['MissingSecurity',['../namespaceQuantConnect_1_1Orders.html#a4abb693051568883a5e26c730ce20ab2a48cdf71cabcfe71b5fec507ee4480a25',1,'QuantConnect::Orders']]],
+  ['modules_16595',['Modules',['../namespaceQuantConnect_1_1Api.html#abb8d23a9a1ba89d2e7cb728b6ca8f505abf17ac149e2e7a530c677e9bd51d3fd2',1,'QuantConnect::Api']]]
+];

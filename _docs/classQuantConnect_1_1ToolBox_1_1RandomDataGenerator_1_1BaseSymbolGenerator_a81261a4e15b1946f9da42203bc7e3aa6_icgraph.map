@@ -1,0 +1,5 @@
+<map id="QuantConnect.ToolBox.RandomDataGenerator.BaseSymbolGenerator.NextSymbol" name="QuantConnect.ToolBox.RandomDataGenerator.BaseSymbolGenerator.NextSymbol">
+<area shape="rect" id="node1" title="Generates random symbol, used further down for asset" alt="" coords="340,45,611,101"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1ToolBox_1_1RandomDataGenerator_1_1DefaultSymbolGenerator.html#ad1f746bdf33e7ee292aa9576073f1c74" title="Generates a single&#45;item list at a time using base random implementation" alt="" coords="5,5,292,61"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1ToolBox_1_1RandomDataGenerator_1_1OptionSymbolGenerator.html#a3d7c3b9a03ea16e0eb7d53fda1102986" title="Generates a new random option Symbol. The generated option contract Symbol will have an expiry betwee..." alt="" coords="8,85,289,141"/>
+</map>

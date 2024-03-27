@@ -1,0 +1,6 @@
+<map id="QuantConnect.Interfaces.IDataProvider.Fetch" name="QuantConnect.Interfaces.IDataProvider.Fetch">
+<area shape="rect" id="node1" title="Retrieves data to be used in an algorithm" alt="" coords="489,39,676,80"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Securities_1_1SecurityDefinition.html#a82de6b15f6e510abee79feeeb133a3e1" title="Reads data from the specified file and converts it to a list of SecurityDefinition" alt="" coords="251,5,438,47"/>
+<area shape="rect" id="node4" href="$classQuantConnect_1_1Extensions.html#aead95f6e0c2f5cfdfc10a20385f4fc80" title="Helper method to stream read lines from a file" alt="" coords="248,71,441,112"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Securities_1_1SecurityDefinition.html#ae557fc970973cc2169c0b244b181de05" title="Attempts to read data from the specified file and convert it into a list of SecurityDefinition" alt="" coords="5,5,200,47"/>
+</map>

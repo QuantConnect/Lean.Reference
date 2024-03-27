@@ -1,0 +1,4 @@
+<map id="QuantConnect.Lean.Engine.DataFeeds.RealTimeScheduleEventService" name="QuantConnect.Lean.Engine.DataFeeds.RealTimeScheduleEventService">
+<area shape="rect" id="node1" title="Allows to setup a real time scheduled event, internally using a Thread, that is guaranteed to trigger..." alt="" coords="5,80,259,136"/>
+<area shape="rect" id="node2" title=" " alt="" coords="83,5,181,32"/>
+</map>

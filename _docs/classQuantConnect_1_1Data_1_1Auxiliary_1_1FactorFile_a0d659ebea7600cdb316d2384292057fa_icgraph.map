@@ -1,0 +1,4 @@
+<map id="QuantConnect.Data.Auxiliary.FactorFile.GetFileFormat" name="QuantConnect.Data.Auxiliary.FactorFile.GetFileFormat">
+<area shape="rect" id="node1" title="Writes this factor file data to an enumerable of csv lines" alt="" coords="284,13,497,54"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Data_1_1Auxiliary_1_1FactorFile.html#ae6cb87dd42995dcaf3e6c7cb3f43a4f1" title="Write the factor file to the correct place in the default Data folder" alt="" coords="5,5,236,61"/>
+</map>

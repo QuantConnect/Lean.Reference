@@ -1,0 +1,5 @@
+<map id="QuantConnect.Data.Market.OpenInterest.OpenInterest" name="QuantConnect.Data.Market.OpenInterest.OpenInterest">
+<area shape="rect" id="node1" title="Initializes a new instance of the OpenInterest class" alt="" coords="256,39,459,80"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Data_1_1Market_1_1OpenInterest.html#a818f76eee789586145aba2aaf71698f6" title="Clone implementation for open interest class:" alt="" coords="5,5,208,47"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Data_1_1Market_1_1OpenInterest.html#a9addfce897915bcf5c684a296a471e77" title="Tick implementation of reader method: read a line of data from the source and convert it to an open i..." alt="" coords="5,71,208,112"/>
+</map>

@@ -1,0 +1,11 @@
+<map id="QuantConnect.Lean.Engine.Setup.BrokerageSetupHandler.Setup" name="QuantConnect.Lean.Engine.Setup.BrokerageSetupHandler.Setup">
+<area shape="rect" id="node1" title="Primary entry point to setup a new algorithm" alt="" coords="5,159,263,200"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Logging_1_1Log.html#af0e7955911bc7664b37661b2a303a9e3" title="Log error" alt="" coords="351,5,551,47"/>
+<area shape="rect" id="node4" href="$interfaceQuantConnect_1_1Lean_1_1Engine_1_1Results_1_1IResultHandler.html#a57b3b4272b885797bd27c104976b90a6" title="Send a algorithm status update to the user of the algorithms running state." alt="" coords="328,71,575,127"/>
+<area shape="rect" id="node5" href="$classQuantConnect_1_1Lean_1_1Engine_1_1Setup_1_1BaseSetupHandler.html#a700f98e4cf6add8654078dc4f304afd0" title="Set the number of trading days per year based on the specified brokerage model." alt="" coords="315,151,588,207"/>
+<area shape="rect" id="node6" href="$classQuantConnect_1_1Lean_1_1Engine_1_1Setup_1_1BaseSetupHandler.html#a47538e4895beedbc90a28866b13cbc0c" title="Will first check and add all the required conversion rate securities and later will seed an initial v..." alt="" coords="311,231,592,287"/>
+<area shape="rect" id="node8" href="$classQuantConnect_1_1Logging_1_1Log.html#a4e55477fbc790846b74550a57198cea9" title="Log trace" alt="" coords="671,304,871,345"/>
+<area shape="rect" id="node3" href="$interfaceQuantConnect_1_1Logging_1_1ILogHandler.html#a35373a0c5d76031fa5ccf5dc39e5c25d" title="Write error message to log" alt="" coords="671,5,871,47"/>
+<area shape="rect" id="node7" href="$classQuantConnect_1_1Lean_1_1Engine_1_1DataFeeds_1_1UniverseSelection.html#acf85de19c4377320f5c0baab450a99fb" title="Checks the current subscriptions and adds necessary currency pair feeds to provide real time conversi..." alt="" coords="640,223,901,279"/>
+<area shape="rect" id="node9" href="$interfaceQuantConnect_1_1Logging_1_1ILogHandler.html#a3fb71a33ac66129240b63f12b6fcda3b" title="Write debug message to log" alt="" coords="949,304,1149,345"/>
+</map>

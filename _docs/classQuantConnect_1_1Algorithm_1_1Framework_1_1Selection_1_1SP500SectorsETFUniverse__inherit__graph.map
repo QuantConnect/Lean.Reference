@@ -1,0 +1,7 @@
+<map id="QuantConnect.Algorithm.Framework.Selection.SP500SectorsETFUniverse" name="QuantConnect.Algorithm.Framework.Selection.SP500SectorsETFUniverse">
+<area shape="rect" id="node1" title="Universe Selection Model that adds the following SP500 Sectors ETFs at their inception date 1998&#45;12&#45;2..." alt="" coords="5,319,268,360"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Algorithm_1_1Framework_1_1Selection_1_1InceptionDateUniverseSelectionModel.html" title="Inception Date Universe that accepts a Dictionary of DateTime keyed by String that represent the Ince..." alt="" coords="21,229,252,271"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Algorithm_1_1Framework_1_1Selection_1_1CustomUniverseSelectionModel.html" title="Provides an implementation of IUniverseSelectionModel that simply subscribes to the specified set of ..." alt="" coords="21,155,252,181"/>
+<area shape="rect" id="node4" href="$classQuantConnect_1_1Algorithm_1_1Framework_1_1Selection_1_1UniverseSelectionModel.html" title="Provides a base class for universe selection models." alt="" coords="47,80,227,107"/>
+<area shape="rect" id="node5" href="$interfaceQuantConnect_1_1Algorithm_1_1Framework_1_1Selection_1_1IUniverseSelectionModel.html" title="Algorithm framework model that defines the universes to be used by an algorithm" alt="" coords="45,5,229,32"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="QuantConnect.ToolBox.RandomDataGenerator.ITickGenerator" name="QuantConnect.ToolBox.RandomDataGenerator.ITickGenerator">
+<area shape="rect" id="node1" title="Describes main methods for TickGenerator" alt="" coords="5,5,232,47"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1ToolBox_1_1RandomDataGenerator_1_1TickGenerator.html" title="Generates random tick data according to the settings provided" alt="" coords="5,95,232,136"/>
+</map>

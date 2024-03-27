@@ -1,0 +1,5 @@
+<map id="QuantConnect.Lean.Engine.DataFeeds.BaseDownloaderDataProvider.DownloadOnce" name="QuantConnect.Lean.Engine.DataFeeds.BaseDownloaderDataProvider.DownloadOnce">
+<area shape="rect" id="node1" title="Helper method which guarantees each requested key is downloaded only once concurrently if required ba..." alt="" coords="5,45,299,101"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Lean_1_1Engine_1_1DataFeeds_1_1BaseDownloaderDataProvider.html#a0da114c51e0508550bc99e20ce04d9d6" title="Get&#39;s the stream for a given file path" alt="" coords="347,5,640,61"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Lean_1_1Engine_1_1DataFeeds_1_1BaseDownloaderDataProvider.html#a78871e11048546c514f3a35b83d61fab" title="Main filter to determine if this file needs to be downloaded" alt="" coords="347,85,640,141"/>
+</map>

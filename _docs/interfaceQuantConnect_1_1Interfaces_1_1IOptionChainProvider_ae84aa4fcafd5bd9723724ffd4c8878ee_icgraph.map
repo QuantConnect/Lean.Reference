@@ -1,0 +1,4 @@
+<map id="QuantConnect.Interfaces.IOptionChainProvider.GetOptionContractList" name="QuantConnect.Interfaces.IOptionChainProvider.GetOptionContractList">
+<area shape="rect" id="node1" title="Gets the list of option contracts for a given underlying symbol" alt="" coords="275,5,504,61"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Research_1_1QuantBook.html#a9c6829f944fce7f66a72fa0d9b64f7b8" title="Gets OptionHistory object for a given symbol, date and resolution" alt="" coords="5,13,227,54"/>
+</map>

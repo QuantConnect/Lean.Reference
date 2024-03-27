@@ -1,0 +1,6 @@
+<map id="QuantConnect.Time.TimeStamp" name="QuantConnect.Time.TimeStamp">
+<area shape="rect" id="node1" title="Get the current time as a unix timestamp" alt="" coords="5,13,236,39"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Time.html#a0b4fec367fb0ce33080eacb62a83336b" title="Convert a Datetime to Unix Timestamp" alt="" coords="284,5,503,47"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Logging_1_1Log.html#af0e7955911bc7664b37661b2a303a9e3" title="Log error" alt="" coords="551,5,751,47"/>
+<area shape="rect" id="node4" href="$interfaceQuantConnect_1_1Logging_1_1ILogHandler.html#a35373a0c5d76031fa5ccf5dc39e5c25d" title="Write error message to log" alt="" coords="799,5,999,47"/>
+</map>

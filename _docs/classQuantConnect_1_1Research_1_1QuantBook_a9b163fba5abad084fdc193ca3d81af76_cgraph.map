@@ -1,0 +1,5 @@
+<map id="QuantConnect.Research.QuantBook.UniverseHistory" name="QuantConnect.Research.QuantBook.UniverseHistory">
+<area shape="rect" id="node1" title="Will return the universe selection data and will optionally perform selection" alt="" coords="5,39,227,80"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Algorithm_1_1QCAlgorithm.html#a3dbba29e9f318ae97e8b99a1eb19537c" title="Helper method to create history requests from a date range" alt="" coords="275,5,548,47"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Algorithm_1_1QCAlgorithm.html#a446a10e68319fdc3c0b2ed85d80f55f8" title="Get the history for all configured securities over the requested span. This will use the resolution a..." alt="" coords="275,71,548,112"/>
+</map>

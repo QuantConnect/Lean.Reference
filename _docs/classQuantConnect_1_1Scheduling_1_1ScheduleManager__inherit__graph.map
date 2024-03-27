@@ -1,0 +1,4 @@
+<map id="QuantConnect.Scheduling.ScheduleManager" name="QuantConnect.Scheduling.ScheduleManager">
+<area shape="rect" id="node1" title="Provides access to the real time handler&#39;s event scheduling feature" alt="" coords="5,80,199,121"/>
+<area shape="rect" id="node2" href="$interfaceQuantConnect_1_1Scheduling_1_1IEventSchedule.html" title="Provides the ability to add/remove scheduled events from the real time handler" alt="" coords="41,5,163,32"/>
+</map>

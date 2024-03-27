@@ -1,0 +1,4 @@
+<map id="QuantConnect.Orders.OrderSizing.GetOrderSizeForMaximumValue" name="QuantConnect.Orders.OrderSizing.GetOrderSizeForMaximumValue">
+<area shape="rect" id="node1" title="Adjust the provided order size to respect the maximum total order value" alt="" coords="327,13,600,54"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Algorithm_1_1Framework_1_1Execution_1_1StandardDeviationExecutionModel.html#a7b2f5bc880cedfe6ed0c30cdc5c9df17" title="Executes market orders if the standard deviation of price is more than the configured number of devia..." alt="" coords="5,5,279,61"/>
+</map>

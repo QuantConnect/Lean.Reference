@@ -1,0 +1,6 @@
+<map id="QuantConnect.Extensions.SubscribeWithMapping" name="QuantConnect.Extensions.SubscribeWithMapping">
+<area shape="rect" id="node1" title="Helper method to subscribe a given configuration, handling any required mapping" alt="" coords="5,39,199,80"/>
+<area shape="rect" id="node2" href="$interfaceQuantConnect_1_1Interfaces_1_1IDataQueueHandler.html#a52580b159d8cdc33f5f5d4f5a760ee4b" title="Subscribe to the specified configuration" alt="" coords="247,5,463,47"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Logging_1_1Log.html#a4e55477fbc790846b74550a57198cea9" title="Log trace" alt="" coords="255,71,455,112"/>
+<area shape="rect" id="node4" href="$interfaceQuantConnect_1_1Logging_1_1ILogHandler.html#a3fb71a33ac66129240b63f12b6fcda3b" title="Write debug message to log" alt="" coords="511,71,711,112"/>
+</map>

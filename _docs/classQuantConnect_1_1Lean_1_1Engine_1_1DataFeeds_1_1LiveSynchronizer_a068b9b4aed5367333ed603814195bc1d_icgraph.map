@@ -1,0 +1,4 @@
+<map id="QuantConnect.Lean.Engine.DataFeeds.LiveSynchronizer.OnSubscriptionNewDataAvailable" name="QuantConnect.Lean.Engine.DataFeeds.LiveSynchronizer.OnSubscriptionNewDataAvailable">
+<area shape="rect" id="node1" title="Trigger new data event" alt="" coords="319,5,625,61"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Lean_1_1Engine_1_1DataFeeds_1_1LiveSynchronizer.html#ac82f206cfa392fd76660cbafae74af1e" title="Initializes the instance of the Synchronizer class" alt="" coords="5,13,271,54"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="QuantConnect.Lean.Engine.DataFeeds.BacktestingChainProvider.GetSymbols" name="QuantConnect.Lean.Engine.DataFeeds.BacktestingChainProvider.GetSymbols">
+<area shape="rect" id="node1" title="Get the contract symbols associated with the given canonical symbol and date" alt="" coords="305,45,572,101"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Lean_1_1Engine_1_1DataFeeds_1_1BacktestingFutureChainProvider.html#ad95ac9ea6895b03fa51209aa7e9c2fb4" title="Gets the list of future contracts for a given underlying symbol" alt="" coords="6,5,257,61"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Lean_1_1Engine_1_1DataFeeds_1_1BacktestingOptionChainProvider.html#a5b140615fad8e3c0f8d08597a7ca1509" title="Gets the list of option contracts for a given underlying symbol" alt="" coords="5,85,257,141"/>
+</map>

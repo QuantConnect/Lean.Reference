@@ -1,0 +1,5 @@
+<map id="QuantConnect.Securities.DefaultMarginCallModel.GenerateMarginCallOrders" name="QuantConnect.Securities.DefaultMarginCallModel.GenerateMarginCallOrders">
+<area shape="rect" id="node1" title="Generates a new order for the specified security taking into account the total margin used by the acc..." alt="" coords="5,35,249,91"/>
+<area shape="rect" id="node2" href="$interfaceQuantConnect_1_1Interfaces_1_1IOrderProperties.html#a683b82212fc9f952e098f8eb4e634643" title="Returns a new instance clone of this object" alt="" coords="320,5,507,47"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Securities_1_1SecurityTransactionManager.html#a260230753eb25337bda131851610275a" title="Get a new group order manager id, and increment the internal counter." alt="" coords="297,71,529,127"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="QuantConnect.Securities.MarketHoursSegment.MarketHoursSegment" name="QuantConnect.Securities.MarketHoursSegment.MarketHoursSegment">
+<area shape="rect" id="node1" title="Initializes a new instance of the MarketHoursSegment class" alt="" coords="308,71,559,127"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Securities_1_1MarketHoursSegment.html#abef4b005ae5673d4bd2df7ef601cc270" title="Gets a new market hours segment representing being open all day" alt="" coords="5,5,260,47"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Securities_1_1MarketHoursSegment.html#af62d415196f9acd35089666094c9df77" title="Creates the market hours segments for the specified market open/close times" alt="" coords="15,71,250,127"/>
+<area shape="rect" id="node4" href="$classQuantConnect_1_1Securities_1_1MarketHoursSegment.html#a7ffd9a62c9446df62884dc1563c1e3bc" title="Gets a new market hours segment representing being open all day" alt="" coords="11,152,255,193"/>
+</map>

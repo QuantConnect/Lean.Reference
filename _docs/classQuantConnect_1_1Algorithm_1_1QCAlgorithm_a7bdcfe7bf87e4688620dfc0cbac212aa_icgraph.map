@@ -1,0 +1,9 @@
+<map id="QuantConnect.Algorithm.QCAlgorithm.Error" name="QuantConnect.Algorithm.QCAlgorithm.Error">
+<area shape="rect" id="node1" title="Send a string error message to the Console." alt="" coords="648,136,921,177"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Algorithm_1_1QCAlgorithm.html#af1f764316cffc3d289d335df1edef76e" title="Set a required SecurityType&#45;symbol and resolution for algorithm" alt="" coords="327,5,600,47"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Algorithm_1_1QCAlgorithm.html#a2d69c5164756bba9e78a867be595872b" title="Manually emit insights from an algorithm. This is typically invoked before calls to submit orders in ..." alt="" coords="327,71,600,112"/>
+<area shape="rect" id="node5" href="$classQuantConnect_1_1Algorithm_1_1QCAlgorithm.html#a41037a3b1f52a374cb94b51bc8f4dac0" title="Send a int error message to the Console." alt="" coords="327,136,600,177"/>
+<area shape="rect" id="node6" href="$classQuantConnect_1_1Algorithm_1_1QCAlgorithm.html#a8c5270ded0884d7f965fc4326cb2859a" title="Gets the historical data for the specified symbol over the request span. The symbol must exist in the..." alt="" coords="327,201,600,243"/>
+<area shape="rect" id="node7" href="$classQuantConnect_1_1Algorithm_1_1QCAlgorithm.html#a362b787753575a04c394fbfcb88b0a0f" title="Sets the parameters from the dictionary" alt="" coords="327,267,600,308"/>
+<area shape="rect" id="node4" href="$classQuantConnect_1_1Algorithm_1_1QCAlgorithm.html#aec226f01015652addaf8aab1d0c64741" title="Manually emit insights from an algorithm. This is typically invoked before calls to submit orders in ..." alt="" coords="5,71,279,112"/>
+</map>

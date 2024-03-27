@@ -1,0 +1,6 @@
+<map id="QuantConnect.Data.Auxiliary.ZipEntryName.GetSource" name="QuantConnect.Data.Auxiliary.ZipEntryName.GetSource">
+<area shape="rect" id="node1" title="Return the URL string source of the file. This will be converted to a stream" alt="" coords="5,39,219,80"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Util_1_1LeanData.html#a6c106a884e3c8562732737244a1fc45d" title="Generates the full zip file path rooted in the dataDirectory" alt="" coords="267,39,477,80"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Util_1_1LeanData.html#a7a375e870b2ab7451dba45e61c7135df" title="Generates the relative zip directory for the specified symbol/resolution" alt="" coords="525,5,765,47"/>
+<area shape="rect" id="node4" href="$classQuantConnect_1_1Util_1_1LeanData.html#ae798d44930bdd36039812c9390e33af9" title="Generates the zip file name for the specified date of data." alt="" coords="540,71,751,112"/>
+</map>

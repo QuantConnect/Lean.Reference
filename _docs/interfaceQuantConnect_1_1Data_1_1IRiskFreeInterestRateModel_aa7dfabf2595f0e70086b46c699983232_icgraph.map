@@ -1,0 +1,8 @@
+<map id="QuantConnect.Data.IRiskFreeInterestRateModel.GetInterestRate" name="QuantConnect.Data.IRiskFreeInterestRateModel.GetInterestRate">
+<area shape="rect" id="node1" title="Get interest rate by a given date" alt="" coords="344,137,593,178"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Algorithm_1_1QCAlgorithm.html#ac3edaf5131bb50bef138f85f989a457e" title="Creates a Alpha indicator for the given target symbol in relation with the reference used...." alt="" coords="9,5,292,32"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Indicators_1_1OptionGreeksIndicatorBase.html#a6445a2efeb038b7716ea8d8a8929cd80" title="Computes the next value of the option greek indicator" alt="" coords="19,56,282,112"/>
+<area shape="rect" id="node4" href="$classQuantConnect_1_1Indicators_1_1ImpliedVolatility.html#a4ea1d0c675889d3ffb6c536099161b21" title="Computes the next value" alt="" coords="22,137,279,178"/>
+<area shape="rect" id="node5" href="$classQuantConnect_1_1Data_1_1RiskFreeInterestRateModelExtensions.html#afe0de6dde8a94fb5ef073dbfdf6dbf3c" title="Gets the average Risk Free Rate from the interest rate of the given dates" alt="" coords="31,203,271,259"/>
+<area shape="rect" id="node6" href="$classQuantConnect_1_1Algorithm_1_1QCAlgorithm.html#ac6c5cada80603e7d8e8e87cbb6cd3f8f" title="Creates a new SharpeRatio indicator." alt="" coords="5,283,296,309"/>
+</map>

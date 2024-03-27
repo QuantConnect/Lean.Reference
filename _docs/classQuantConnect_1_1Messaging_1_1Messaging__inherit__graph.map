@@ -1,0 +1,5 @@
+<map id="QuantConnect.Messaging.Messaging" name="QuantConnect.Messaging.Messaging">
+<area shape="rect" id="node1" title="Local/desktop implementation of messaging system for Lean Engine." alt="" coords="5,155,268,181"/>
+<area shape="rect" id="node2" href="$interfaceQuantConnect_1_1Interfaces_1_1IMessagingHandler.html" title="Messaging System Plugin Interface. Provides a common messaging pattern between desktop and cloud impl..." alt="" coords="63,80,210,107"/>
+<area shape="rect" id="node3" title=" " alt="" coords="87,5,186,32"/>
+</map>

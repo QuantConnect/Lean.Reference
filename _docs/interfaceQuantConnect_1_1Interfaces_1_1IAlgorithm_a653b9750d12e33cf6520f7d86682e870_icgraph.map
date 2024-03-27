@@ -1,0 +1,4 @@
+<map id="QuantConnect.Interfaces.IAlgorithm.SubmitOrderRequest" name="QuantConnect.Interfaces.IAlgorithm.SubmitOrderRequest">
+<area shape="rect" id="node1" title="Will submit an order request to the algorithm" alt="" coords="285,5,515,47"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Commands_1_1OrderCommand.html#a9076463d1b93e18f452219182b25f721" title="Runs this command against the specified algorithm instance" alt="" coords="5,5,237,47"/>
+</map>

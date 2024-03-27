@@ -1,0 +1,6 @@
+<map id="QuantConnect.Data.Consolidators.PeriodCountConsolidatorBase.GetRoundedBarTime" name="QuantConnect.Data.Consolidators.PeriodCountConsolidatorBase.GetRoundedBarTime">
+<area shape="rect" id="node1" title="Gets a rounded&#45;down bar time. Called by AggregateBar in derived classes." alt="" coords="321,85,620,141"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Data_1_1Consolidators_1_1PeriodCountConsolidatorBase.html#ab865044f3f924c75492abb95a734f892" title="Gets a rounded&#45;down bar start time. Called by AggregateBar in derived classes." alt="" coords="5,5,273,61"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Data_1_1Consolidators_1_1PeriodCountConsolidatorBase.html#a3f5f2e1c69f87dad89255a4c1f3331d4" title="Scans this consolidator to see if it should emit a bar due to time passing" alt="" coords="16,85,263,141"/>
+<area shape="rect" id="node4" href="$classQuantConnect_1_1Data_1_1Consolidators_1_1PeriodCountConsolidatorBase.html#aeff0416a9da67387615725cd16ffefaf" title="Updates this consolidator with the specified data. This method is responsible for raising the DataCon..." alt="" coords="16,165,263,221"/>
+</map>

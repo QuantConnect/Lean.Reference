@@ -1,0 +1,5 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$interfaceQuantConnect_1_1Data_1_1UniverseSelection_1_1IFundamentalDataProvider.html" title=" " alt="" coords="5,13,265,54"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Data_1_1UniverseSelection_1_1BaseFundamentalDataProvider.html" title="Base fundamental data provider" alt="" coords="313,13,601,54"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Data_1_1UniverseSelection_1_1CoarseFundamentalDataProvider.html" title="Coarse base fundamental data provider" alt="" coords="649,5,896,61"/>
+</map>

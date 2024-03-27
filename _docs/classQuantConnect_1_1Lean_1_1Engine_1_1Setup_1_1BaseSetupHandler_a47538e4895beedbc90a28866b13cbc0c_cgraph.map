@@ -1,0 +1,6 @@
+<map id="QuantConnect.Lean.Engine.Setup.BaseSetupHandler.SetupCurrencyConversions" name="QuantConnect.Lean.Engine.Setup.BaseSetupHandler.SetupCurrencyConversions">
+<area shape="rect" id="node1" title="Will first check and add all the required conversion rate securities and later will seed an initial v..." alt="" coords="5,43,287,99"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Lean_1_1Engine_1_1DataFeeds_1_1UniverseSelection.html#acf85de19c4377320f5c0baab450a99fb" title="Checks the current subscriptions and adds necessary currency pair feeds to provide real time conversi..." alt="" coords="335,5,596,61"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Logging_1_1Log.html#a4e55477fbc790846b74550a57198cea9" title="Log trace" alt="" coords="365,86,565,127"/>
+<area shape="rect" id="node4" href="$interfaceQuantConnect_1_1Logging_1_1ILogHandler.html#a3fb71a33ac66129240b63f12b6fcda3b" title="Write debug message to log" alt="" coords="644,86,844,127"/>
+</map>

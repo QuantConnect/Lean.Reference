@@ -1,0 +1,5 @@
+<map id="QuantConnect.Algorithm.Framework.Portfolio.AlphaStreamsPortfolioConstructionModel" name="QuantConnect.Algorithm.Framework.Portfolio.AlphaStreamsPortfolioConstructionModel">
+<area shape="rect" id="node1" title="Base alpha streams portfolio construction model" alt="" coords="5,155,355,196"/>
+<area shape="rect" id="node2" href="$interfaceQuantConnect_1_1Algorithm_1_1Framework_1_1Portfolio_1_1IPortfolioConstructionModel.html" title="Algorithm framework model that" alt="" coords="79,80,281,107"/>
+<area shape="rect" id="node3" href="$interfaceQuantConnect_1_1Algorithm_1_1Framework_1_1INotifiedSecurityChanges.html" title="Types implementing this interface will be called when the algorithm&#39;s set of securities changes" alt="" coords="87,5,273,32"/>
+</map>

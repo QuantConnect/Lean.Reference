@@ -1,0 +1,4 @@
+<map id="QuantConnect.Api.DataList" name="QuantConnect.Api.DataList">
+<area shape="rect" id="node1" title="Data/List response wrapper for available data" alt="" coords="5,80,203,107"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Api_1_1RestResponse.html" title="Base API response class for the QuantConnect API." alt="" coords="47,5,161,32"/>
+</map>

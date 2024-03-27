@@ -1,0 +1,4 @@
+<map id="QuantConnect.Orders.ComboMarketOrder.ComboMarketOrder" name="QuantConnect.Orders.ComboMarketOrder.ComboMarketOrder">
+<area shape="rect" id="node1" title="Added a default constructor for JSON Deserialization:" alt="" coords="264,5,497,47"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Orders_1_1ComboMarketOrder.html#a28e99b67591ad5f625c53ad1773245b0" title="Creates a deep&#45;copy clone of this order" alt="" coords="5,5,216,47"/>
+</map>

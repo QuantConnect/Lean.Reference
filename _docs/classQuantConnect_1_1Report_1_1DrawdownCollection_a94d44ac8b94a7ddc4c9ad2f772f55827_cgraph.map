@@ -1,0 +1,6 @@
+<map id="QuantConnect.Report.DrawdownCollection.FromResult" name="QuantConnect.Report.DrawdownCollection.FromResult">
+<area shape="rect" id="node1" title="Generate a new instance of DrawdownCollection from backtest and live Result derived instances" alt="" coords="5,39,240,80"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Report_1_1DrawdownCollection.html#a82968687e2a3455115a10b5b319ed187" title="Creates an instance with a default collection (no items) and the top N worst drawdowns" alt="" coords="288,5,523,47"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Report_1_1DrawdownCollection.html#ab526a6f08494f46c1abe1c4e57fef25c" title="Normalizes the Series used to calculate the drawdown plots and charts" alt="" coords="288,71,523,112"/>
+<area shape="rect" id="node4" href="$classQuantConnect_1_1Report_1_1ResultsUtil.html#aa3025f7eaad4f511960c2d6c9c2dd028" title="Get the points, from the Series name given, in Strategy Equity chart" alt="" coords="571,71,784,112"/>
+</map>

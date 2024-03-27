@@ -1,0 +1,4 @@
+<map id="QuantConnect.Algorithm.QCAlgorithm.SetAccountCurrency" name="QuantConnect.Algorithm.QCAlgorithm.SetAccountCurrency">
+<area shape="rect" id="node1" title="Sets the account currency cash symbol this algorithm is to manage, as well as the starting cash in th..." alt="" coords="273,5,547,47"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Report_1_1PortfolioLooperAlgorithm.html#a1186a17605acd9b49c04f18ff8ab51ef" title="Initialize this algorithm" alt="" coords="5,5,225,47"/>
+</map>

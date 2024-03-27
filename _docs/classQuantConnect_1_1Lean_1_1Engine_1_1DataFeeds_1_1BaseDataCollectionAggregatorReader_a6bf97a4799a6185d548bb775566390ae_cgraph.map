@@ -1,0 +1,4 @@
+<map id="QuantConnect.Lean.Engine.DataFeeds.BaseDataCollectionAggregatorReader.Read" name="QuantConnect.Lean.Engine.DataFeeds.BaseDataCollectionAggregatorReader.Read">
+<area shape="rect" id="node1" title="Reads the specified source" alt="" coords="5,5,300,61"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Data_1_1UniverseSelection_1_1BaseDataCollection.html#ae611ea84fd53cd24c895631fbe52c657" title="Adds a new data point to this collection" alt="" coords="348,13,591,54"/>
+</map>

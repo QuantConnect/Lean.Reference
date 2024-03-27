@@ -1,0 +1,16 @@
+<map id="QuantConnect.Orders.OrderSubmissionData.Clone" name="QuantConnect.Orders.OrderSubmissionData.Clone">
+<area shape="rect" id="node1" title="Return a new instance clone of this object" alt="" coords="517,365,719,407"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Orders_1_1Order.html#a7e89368b886aff5b24cd3e5b42d7a103" title="Copies base Order properties to the specified order" alt="" coords="265,365,469,407"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Orders_1_1ComboMarketOrder.html#a28e99b67591ad5f625c53ad1773245b0" title="Creates a deep&#45;copy clone of this order" alt="" coords="6,5,217,47"/>
+<area shape="rect" id="node4" href="$classQuantConnect_1_1Orders_1_1MarketOnOpenOrder.html#a15b6c88b0a8f58743d2f85083983910a" title="Creates a deep&#45;copy clone of this order" alt="" coords="6,71,217,112"/>
+<area shape="rect" id="node5" href="$classQuantConnect_1_1Orders_1_1OptionExerciseOrder.html#af75cc716fd25085ef4e1560c53e0ddb1" title="Creates a deep&#45;copy clone of this order" alt="" coords="7,136,215,177"/>
+<area shape="rect" id="node6" href="$classQuantConnect_1_1Orders_1_1MarketOrder.html#ac6e8ffd1d9a2af8edd43032d1200bb82" title="Creates a deep&#45;copy clone of this order" alt="" coords="6,201,217,243"/>
+<area shape="rect" id="node7" href="$classQuantConnect_1_1Orders_1_1ComboLimitOrder.html#acd7806916bbb508d638f0abd6a9c8b41" title="Creates a deep&#45;copy clone of this order" alt="" coords="6,267,217,308"/>
+<area shape="rect" id="node8" href="$classQuantConnect_1_1Orders_1_1MarketOnCloseOrder.html#a8d6c51b2c54ab42c99630558daf3bf15" title="Creates a deep&#45;copy clone of this order" alt="" coords="6,332,217,373"/>
+<area shape="rect" id="node9" href="$classQuantConnect_1_1Orders_1_1ComboLegLimitOrder.html#ae939847fb3682d7d6e8b790886a9b7e1" title="Creates a deep&#45;copy clone of this order" alt="" coords="6,397,217,439"/>
+<area shape="rect" id="node10" href="$classQuantConnect_1_1Orders_1_1LimitOrder.html#aef0603cd02984cc2a9cb74da1bcc4d0b" title="Creates a deep&#45;copy clone of this order" alt="" coords="12,463,211,504"/>
+<area shape="rect" id="node11" href="$classQuantConnect_1_1Orders_1_1LimitIfTouchedOrder.html#a8a824fc2dedad68974af7f7b50962991" title="Creates a deep&#45;copy clone of this order" alt="" coords="12,528,211,569"/>
+<area shape="rect" id="node12" href="$classQuantConnect_1_1Orders_1_1StopMarketOrder.html#a1c4ba2ba5202aec57dbaec77e3005382" title="Creates a deep&#45;copy clone of this order" alt="" coords="14,593,209,635"/>
+<area shape="rect" id="node13" href="$classQuantConnect_1_1Orders_1_1TrailingStopOrder.html#a53915c0ae5658eef94cef19f83cf4718" title="Creates a deep&#45;copy clone of this order" alt="" coords="5,659,217,700"/>
+<area shape="rect" id="node14" href="$classQuantConnect_1_1Orders_1_1StopLimitOrder.html#af7deb87657b2cc4e69a52688c08abe48" title="Creates a deep&#45;copy clone of this order" alt="" coords="14,724,209,765"/>
+</map>

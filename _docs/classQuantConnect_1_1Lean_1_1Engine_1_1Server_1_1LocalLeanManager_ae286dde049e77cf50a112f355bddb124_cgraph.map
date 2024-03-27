@@ -1,0 +1,4 @@
+<map id="QuantConnect.Lean.Engine.Server.LocalLeanManager.OnAlgorithmStart" name="QuantConnect.Lean.Engine.Server.LocalLeanManager.OnAlgorithmStart">
+<area shape="rect" id="node1" title="This method is called after algorithm initialization" alt="" coords="5,5,311,47"/>
+<area shape="rect" id="node2" href="$interfaceQuantConnect_1_1Commands_1_1ICommandHandler.html#a725c2f2ac1e353ac19e232a414b8902c" title="Initializes this command queue for the specified job" alt="" coords="359,5,625,47"/>
+</map>

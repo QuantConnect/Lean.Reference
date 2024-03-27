@@ -1,0 +1,5 @@
+<map id="QuantConnect.Data.Custom.FxcmVolume.Reader" name="QuantConnect.Data.Custom.FxcmVolume.Reader">
+<area shape="rect" id="node1" title="Reader converts each line of the data source into BaseData objects. Each data type creates its own fa..." alt="" coords="5,23,212,65"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Parse.html#af4933eac3d8afb529fc6fba7df4db7b0" title="Parses the provided value as a int using CultureInfo.InvariantCulture" alt="" coords="267,5,441,32"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Parse.html#a1f34ac1d8f4831faa80fd67d2ab5b85d" title="Parses the provided value as a long using CultureInfo.InvariantCulture" alt="" coords="260,56,448,83"/>
+</map>

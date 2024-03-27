@@ -1,0 +1,4 @@
+<map id="QuantConnect.Indicators.VolumeWeightedAveragePriceIndicator.ComputeNextValue" name="QuantConnect.Indicators.VolumeWeightedAveragePriceIndicator.ComputeNextValue">
+<area shape="rect" id="node1" title="Computes the next value of this indicator from the given state" alt="" coords="5,5,283,61"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Indicators_1_1VolumeWeightedAveragePriceIndicator.html#a5e536a2844e88ee142544da79a022972" title="Gets an estimated average price to use for the interval covered by the input trade bar." alt="" coords="331,5,608,61"/>
+</map>

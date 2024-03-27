@@ -1,0 +1,5 @@
+<map id="QuantConnect.Data.Shortable.InteractiveBrokersShortableProvider" name="QuantConnect.Data.Shortable.InteractiveBrokersShortableProvider">
+<area shape="rect" id="node1" title="Sources the InteractiveBrokers short availability data from the local disk for the given brokerage" alt="" coords="5,155,263,196"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Data_1_1Shortable_1_1LocalDiskShortableProvider.html" title="Sources short availability data from the local disk for the given brokerage" alt="" coords="33,80,235,107"/>
+<area shape="rect" id="node3" href="$interfaceQuantConnect_1_1Interfaces_1_1IShortableProvider.html" title="Defines a short list/easy&#45;to&#45;borrow provider" alt="" coords="63,5,205,32"/>
+</map>

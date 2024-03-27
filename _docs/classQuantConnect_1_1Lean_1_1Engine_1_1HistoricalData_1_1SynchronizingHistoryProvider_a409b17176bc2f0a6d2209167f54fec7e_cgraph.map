@@ -1,0 +1,6 @@
+<map id="QuantConnect.Lean.Engine.HistoricalData.SynchronizingHistoryProvider.CreateSubscription" name="QuantConnect.Lean.Engine.HistoricalData.SynchronizingHistoryProvider.CreateSubscription">
+<area shape="rect" id="node1" title="Creates a subscription to process the history request" alt="" coords="5,31,263,87"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Lean_1_1Engine_1_1DataFeeds_1_1SubscriptionUtils.html#af00eedac463677884ee685b4359a06fd" title="Creates a new Subscription which will directly consume the provided enumerator" alt="" coords="311,5,563,47"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Securities_1_1SymbolProperties.html#ad148190d1dfce7109d38d3107b7b8fbf" title="Gets a default instance of the SymbolProperties class for the specified quoteCurrency" alt="" coords="331,71,543,112"/>
+<area shape="rect" id="node4" href="$classQuantConnect_1_1Securities_1_1SymbolProperties.html#a0f421617bcddd5b08a830689b1e2dcfa" title="Creates an instance of the SymbolProperties class" alt="" coords="611,71,867,112"/>
+</map>

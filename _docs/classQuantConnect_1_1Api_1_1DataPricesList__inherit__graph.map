@@ -1,0 +1,4 @@
+<map id="QuantConnect.Api.DataPricesList" name="QuantConnect.Api.DataPricesList">
+<area shape="rect" id="node1" title="Data/Prices response wrapper for prices by vendor" alt="" coords="5,80,241,107"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Api_1_1RestResponse.html" title="Base API response class for the QuantConnect API." alt="" coords="66,5,181,32"/>
+</map>

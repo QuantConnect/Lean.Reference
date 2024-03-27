@@ -1,0 +1,11 @@
+<map id="QuantConnect.Lean.Engine.DataFeeds.DataManager.RemoveSubscription" name="QuantConnect.Lean.Engine.DataFeeds.DataManager.RemoveSubscription">
+<area shape="rect" id="node1" title="Removes the Subscription, if it exists" alt="" coords="5,136,325,177"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Logging_1_1Log.html#ad908daef9d61532d7d60c9dcfb9a3e0c" title="Output to the console" alt="" coords="395,5,595,47"/>
+<area shape="rect" id="node4" href="$classQuantConnect_1_1Logging_1_1Log.html#af0e7955911bc7664b37661b2a303a9e3" title="Log error" alt="" coords="395,71,595,112"/>
+<area shape="rect" id="node6" href="$classQuantConnect_1_1Logging_1_1Log.html#a4e55477fbc790846b74550a57198cea9" title="Log trace" alt="" coords="395,136,595,177"/>
+<area shape="rect" id="node8" href="$classQuantConnect_1_1Lean_1_1Engine_1_1DataFeeds_1_1SubscriptionCollection.html#a94f680d4afc90d445f57af1034be7c45" title="Attempts to retrieve the subscription with the specified configuration" alt="" coords="373,202,617,258"/>
+<area shape="rect" id="node9" href="$classQuantConnect_1_1Lean_1_1Engine_1_1DataFeeds_1_1SubscriptionCollection.html#a2fc26403427def7806f4b0658c84b71c" title="Attempts to remove the subscription with the specified configuraton from the collection." alt="" coords="373,282,617,338"/>
+<area shape="rect" id="node3" href="$interfaceQuantConnect_1_1Logging_1_1ILogHandler.html#a2c738b8e78dd5b54244bc68b969ba91d" title="Write debug message to log" alt="" coords="665,5,865,47"/>
+<area shape="rect" id="node5" href="$interfaceQuantConnect_1_1Logging_1_1ILogHandler.html#a35373a0c5d76031fa5ccf5dc39e5c25d" title="Write error message to log" alt="" coords="665,71,865,112"/>
+<area shape="rect" id="node7" href="$interfaceQuantConnect_1_1Logging_1_1ILogHandler.html#a3fb71a33ac66129240b63f12b6fcda3b" title="Write debug message to log" alt="" coords="665,136,865,177"/>
+</map>

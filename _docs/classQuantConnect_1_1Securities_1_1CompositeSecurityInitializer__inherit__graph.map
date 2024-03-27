@@ -1,0 +1,4 @@
+<map id="QuantConnect.Securities.CompositeSecurityInitializer" name="QuantConnect.Securities.CompositeSecurityInitializer">
+<area shape="rect" id="node1" title="Provides an implementation of ISecurityInitializer that executes each initializer in order" alt="" coords="5,80,212,121"/>
+<area shape="rect" id="node2" href="$interfaceQuantConnect_1_1Securities_1_1ISecurityInitializer.html" title="Represents a type capable of initializing a new security" alt="" coords="39,5,179,32"/>
+</map>

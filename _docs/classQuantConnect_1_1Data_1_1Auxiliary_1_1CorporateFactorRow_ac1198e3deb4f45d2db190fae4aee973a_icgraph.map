@@ -1,0 +1,4 @@
+<map id="QuantConnect.Data.Auxiliary.CorporateFactorRow.Apply" name="QuantConnect.Data.Auxiliary.CorporateFactorRow.Apply">
+<area shape="rect" id="node1" title="Applies the dividend to this factor file row. This dividend date must be on or before the factor file..." alt="" coords="272,5,485,47"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Data_1_1Auxiliary_1_1CorporateFactorProvider.html#a9cbae9b70159c5aa79930a9b373ecb2b" title="Creates a new factor file with the specified data applied. Only Dividend and Split data types will be..." alt="" coords="5,5,224,47"/>
+</map>

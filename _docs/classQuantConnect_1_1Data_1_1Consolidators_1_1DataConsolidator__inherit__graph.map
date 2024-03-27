@@ -1,0 +1,5 @@
+<map id="QuantConnect.Data.Consolidators.DataConsolidator&lt; TInput &gt;" name="QuantConnect.Data.Consolidators.DataConsolidator&lt; TInput &gt;">
+<area shape="rect" id="node1" title="Represents a type that consumes BaseData instances and fires an event with consolidated and/or aggreg..." alt="" coords="5,155,252,196"/>
+<area shape="rect" id="node2" href="$interfaceQuantConnect_1_1Data_1_1Consolidators_1_1IDataConsolidator.html" title="Represents a type capable of taking BaseData updates and firing events containing new &#39;consolidated&#39; ..." alt="" coords="59,80,198,107"/>
+<area shape="rect" id="node3" title=" " alt="" coords="79,5,178,32"/>
+</map>

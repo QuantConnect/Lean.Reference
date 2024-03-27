@@ -1,0 +1,13 @@
+<map id="QuantConnect.Util.LeanData.GetCommonTickTypeForCommonDataTypes" name="QuantConnect.Util.LeanData.GetCommonTickTypeForCommonDataTypes">
+<area shape="rect" id="node1" title="Get the TickType for common Lean data types. If not a Lean common data type, return a TickType of Tra..." alt="" coords="923,247,1231,288"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Data_1_1SubscriptionManager.html#ab2f313fb60c4e159425ac604e5e01a6e" title="Add Market Data Required (Overloaded method for backwards compatibility)." alt="" coords="605,5,838,47"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Lean_1_1Engine_1_1DataFeeds_1_1DataManager.html#a3fdf71da0d8601d78426bbf62b1bae22" title="Creates and adds a list of SubscriptionDataConfig for a given symbol and configuration...." alt="" coords="616,71,827,112"/>
+<area shape="rect" id="node4" href="$classQuantConnect_1_1Algorithm_1_1QCAlgorithm.html#af4c1b1818c4213b7a4890e0e3ef20a48" title="Registers the handler &#160;to receive consolidated data for the specified symbol and tick type...." alt="" coords="585,136,858,177"/>
+<area shape="rect" id="node5" href="$classQuantConnect_1_1Securities_1_1Volatility_1_1BaseVolatilityModel.html#a1447baed13180db4f86dc485496400b8" title="Gets history requests required for warming up the greeks with the provided resolution" alt="" coords="613,202,829,258"/>
+<area shape="rect" id="node6" href="$classQuantConnect_1_1Algorithm_1_1QCAlgorithm.html#af1473762247e5265ec2ccbf43c50fc71" title="Get the last known price using the history provider. Useful for seeding securities with the correct p..." alt="" coords="585,283,858,324"/>
+<area shape="rect" id="node7" href="$classQuantConnect_1_1Data_1_1SubscriptionManager.html#a1916b5d3e1bcbaf683be29d68ead2682" title="Checks if the subscription is valid for the consolidator" alt="" coords="568,348,875,389"/>
+<area shape="rect" id="node10" href="$classQuantConnect_1_1Algorithm_1_1QCAlgorithm.html#ade0c0698b6151eab82e5d2fdd5128b5a" title="Gets the default consolidator for the specified symbol and resolution" alt="" coords="585,413,858,455"/>
+<area shape="rect" id="node11" href="$classQuantConnect_1_1Data_1_1SubscriptionDataConfig.html#ac87fc7dd4aacf4db93b9e532394a0a1e" title="Constructor for Data Subscriptions" alt="" coords="596,479,847,520"/>
+<area shape="rect" id="node8" href="$classQuantConnect_1_1Data_1_1SubscriptionManager.html#a30124df669563657110c578275440472" title="Add a consolidator for the symbol" alt="" coords="287,348,520,389"/>
+<area shape="rect" id="node9" href="$classQuantConnect_1_1Data_1_1SubscriptionManager.html#aa2034d1091ab4ad767a309464627d8fc" title="Add a custom python consolidator for the symbol" alt="" coords="5,348,239,389"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="QuantConnect.Lean.Engine.AlgorithmManager.SetStatus" name="QuantConnect.Lean.Engine.AlgorithmManager.SetStatus">
+<area shape="rect" id="node1" title="Set the quit state." alt="" coords="5,5,213,47"/>
+<area shape="rect" id="node2" href="$interfaceQuantConnect_1_1Interfaces_1_1IAlgorithm.html#adc5f10f52ad021f6bfc12ef9db8e0f5d" title="Set the state of a live deployment" alt="" coords="261,5,448,47"/>
+</map>

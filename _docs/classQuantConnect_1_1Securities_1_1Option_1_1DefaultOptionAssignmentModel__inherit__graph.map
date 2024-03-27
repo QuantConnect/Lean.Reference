@@ -1,0 +1,4 @@
+<map id="QuantConnect.Securities.Option.DefaultOptionAssignmentModel" name="QuantConnect.Securities.Option.DefaultOptionAssignmentModel">
+<area shape="rect" id="node1" title="The option assignment model emulates exercising of short option positions in the portfolio...." alt="" coords="5,80,283,121"/>
+<area shape="rect" id="node2" href="$interfaceQuantConnect_1_1Securities_1_1Option_1_1IOptionAssignmentModel.html" title="The option assignment model emulates exercising of short option positions in the portfolio." alt="" coords="51,5,237,32"/>
+</map>

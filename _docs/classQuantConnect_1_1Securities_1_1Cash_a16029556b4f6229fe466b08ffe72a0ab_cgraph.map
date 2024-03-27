@@ -1,0 +1,4 @@
+<map id="QuantConnect.Securities.Cash.Update" name="QuantConnect.Securities.Cash.Update">
+<area shape="rect" id="node1" title="Marks this cash object&#39;s conversion rate as being potentially outdated" alt="" coords="5,13,192,54"/>
+<area shape="rect" id="node2" href="$interfaceQuantConnect_1_1Securities_1_1CurrencyConversion_1_1ICurrencyConversion.html#a3f7e1fc35f4a09fa9c5e1afb722c96d1" title="Updates the internal conversion rate based on the latest data, and returns the new conversion rate" alt="" coords="240,5,459,61"/>
+</map>

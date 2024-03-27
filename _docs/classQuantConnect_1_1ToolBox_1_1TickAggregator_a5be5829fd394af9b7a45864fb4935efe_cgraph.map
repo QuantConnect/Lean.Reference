@@ -1,0 +1,4 @@
+<map id="QuantConnect.ToolBox.TickAggregator.ForTickTypes" name="QuantConnect.ToolBox.TickAggregator.ForTickTypes">
+<area shape="rect" id="node1" title="Creates the correct TickAggregator instances for the specified tick types and resolution...." alt="" coords="5,5,205,47"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Util_1_1LeanData.html#a38b8fae83d8a3ceef1812e30a4d71844" title="Helper method to determine if a configuration set is valid" alt="" coords="253,5,464,47"/>
+</map>

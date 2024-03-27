@@ -1,0 +1,4 @@
+<map id="QuantConnect.Securities.Option.OptionStrategies.CoveredPut" name="QuantConnect.Securities.Option.OptionStrategies.CoveredPut">
+<area shape="rect" id="node1" title="Creates a Covered Put strategy that consists of selling 1 put contract and 1 lot of the underlying." alt="" coords="323,5,580,47"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Securities_1_1Option_1_1OptionStrategies.html#afcfb6c6bdefd28c465c8c1ada3f170d6" title="Creates a Protective Put strategy that consists of buying 1 put contract and 1 lot of the underlying." alt="" coords="5,5,275,47"/>
+</map>

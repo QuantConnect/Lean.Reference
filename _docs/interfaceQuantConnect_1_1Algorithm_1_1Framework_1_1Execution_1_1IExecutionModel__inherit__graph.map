@@ -1,0 +1,11 @@
+<map id="QuantConnect.Algorithm.Framework.Execution.IExecutionModel" name="QuantConnect.Algorithm.Framework.Execution.IExecutionModel">
+<area shape="rect" id="node1" title="Algorithm framework model that executes portfolio targets" alt="" coords="240,169,503,211"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Algorithm_1_1Framework_1_1Execution_1_1ExecutionModel.html" title="Provides a base class for execution models" alt="" coords="551,169,813,211"/>
+<area shape="rect" id="node2" href="$interfaceQuantConnect_1_1Algorithm_1_1Framework_1_1INotifiedSecurityChanges.html" title="Types implementing this interface will be called when the algorithm&#39;s set of securities changes" alt="" coords="5,177,192,203"/>
+<area shape="rect" id="node4" href="$classQuantConnect_1_1Algorithm_1_1Framework_1_1Execution_1_1ExecutionModelPythonWrapper.html" title="Provides an implementation of IExecutionModel that wraps a PyObject object" alt="" coords="872,5,1164,47"/>
+<area shape="rect" id="node5" href="$classQuantConnect_1_1Algorithm_1_1Framework_1_1Execution_1_1ImmediateExecutionModel.html" title="Provides an implementation of IExecutionModel that immediately submits market orders to achieve the d..." alt="" coords="887,71,1149,112"/>
+<area shape="rect" id="node6" href="$classQuantConnect_1_1Algorithm_1_1Framework_1_1Execution_1_1NullExecutionModel.html" title="Provides an implementation of IExecutionModel that does nothing" alt="" coords="887,136,1149,177"/>
+<area shape="rect" id="node7" href="$classQuantConnect_1_1Algorithm_1_1Framework_1_1Execution_1_1SpreadExecutionModel.html" title="Execution model that submits orders while the current spread is in desirably tight extent." alt="" coords="887,201,1149,243"/>
+<area shape="rect" id="node8" href="$classQuantConnect_1_1Algorithm_1_1Framework_1_1Execution_1_1StandardDeviationExecutionModel.html" title="Execution model that submits orders while the current market prices is at least the configured number..." alt="" coords="861,267,1175,308"/>
+<area shape="rect" id="node9" href="$classQuantConnect_1_1Algorithm_1_1Framework_1_1Execution_1_1VolumeWeightedAveragePriceExecutionModel.html" title="Execution model that submits orders while the current market price is more favorable that the current..." alt="" coords="876,333,1160,389"/>
+</map>

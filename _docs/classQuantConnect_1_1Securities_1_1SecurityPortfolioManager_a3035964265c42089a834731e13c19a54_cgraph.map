@@ -1,0 +1,4 @@
+<map id="QuantConnect.Securities.SecurityPortfolioManager.ApplyDividend" name="QuantConnect.Securities.SecurityPortfolioManager.ApplyDividend">
+<area shape="rect" id="node1" title="Applies a dividend to the portfolio" alt="" coords="5,5,232,61"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Securities_1_1Cash.html#af5a7561893cf6fa38c3ee83d434fe32d" title="Adds the specified amount of currency to this Cash instance and returns the new total...." alt="" coords="280,13,467,54"/>
+</map>

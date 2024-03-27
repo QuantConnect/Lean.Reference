@@ -1,0 +1,4 @@
+<map id="QuantConnect.Util.RateLimit.FixedIntervalRefillStrategy" name="QuantConnect.Util.RateLimit.FixedIntervalRefillStrategy">
+<area shape="rect" id="node1" title="Provides a refill strategy that has a constant, quantized refill rate. For example,..." alt="" coords="5,80,217,121"/>
+<area shape="rect" id="node2" href="$interfaceQuantConnect_1_1Util_1_1RateLimit_1_1IRefillStrategy.html" title="Provides a strategy for making tokens available for consumption in the ITokenBucket" alt="" coords="54,5,169,32"/>
+</map>

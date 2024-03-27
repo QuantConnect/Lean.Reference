@@ -1,0 +1,5 @@
+<map id="QuantConnect.Algorithm.QCAlgorithm.FilteredIdentity" name="QuantConnect.Algorithm.QCAlgorithm.FilteredIdentity">
+<area shape="rect" id="node1" title="Creates a new FilteredIdentity indicator for the symbol The indicator will be automatically updated o..." alt="" coords="5,39,279,80"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Algorithm_1_1QCAlgorithm.html#a46d89a30b7e0513cf7a4ac77f3ca3fe5" title="Creates a new name for an indicator created with the convenience functions (SMA, EMA,..." alt="" coords="327,5,600,47"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Algorithm_1_1QCAlgorithm.html#a6e1523a6f1bc7806ae47956d544bdb2a" title="Creates a new FilteredIdentity indicator for the symbol The indicator will be automatically updated o..." alt="" coords="327,71,600,112"/>
+</map>

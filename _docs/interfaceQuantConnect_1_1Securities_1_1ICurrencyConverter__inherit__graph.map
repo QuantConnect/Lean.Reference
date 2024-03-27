@@ -1,0 +1,6 @@
+<map id="QuantConnect.Securities.ICurrencyConverter" name="QuantConnect.Securities.ICurrencyConverter">
+<area shape="rect" id="node1" title="Provides the ability to convert cash amounts to the account currency" alt="" coords="5,71,192,112"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Securities_1_1CashBook.html" title="Provides a means of keeping track of the different cash holdings of an algorithm" alt="" coords="244,5,431,47"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Securities_1_1ErrorCurrencyConverter.html" title="Provides an implementation of ICurrencyConverter for use in tests that don&#39;t depend on this behavior." alt="" coords="244,71,431,112"/>
+<area shape="rect" id="node4" href="$classQuantConnect_1_1Securities_1_1IdentityCurrencyConverter.html" title="Provides an implementation of ICurrencyConverter that does NOT perform conversions...." alt="" coords="240,136,435,177"/>
+</map>

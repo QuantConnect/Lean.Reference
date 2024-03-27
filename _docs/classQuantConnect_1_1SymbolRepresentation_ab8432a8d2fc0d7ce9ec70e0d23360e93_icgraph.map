@@ -1,0 +1,5 @@
+<map id="QuantConnect.SymbolRepresentation.GenerateOptionTicker" name="QuantConnect.SymbolRepresentation.GenerateOptionTicker">
+<area shape="rect" id="node1" title="Function returns option ticker from IQFeed option ticker For example CSCO1220V19 Cisco October Put at..." alt="" coords="667,13,937,54"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Algorithm_1_1Framework_1_1Portfolio_1_1SignalExports_1_1Collective2SignalExport.html#a87920e10ff6ced2b1299745f8ddb5aa3" title="Converts a list of targets to a list of Collective2 positions" alt="" coords="316,5,619,61"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Algorithm_1_1Framework_1_1Portfolio_1_1SignalExports_1_1Collective2SignalExport.html#ae72a36410f161dff06b714c17837a623" title="Creates a JSON message with the desired positions using the expected Collective2 API format and then ..." alt="" coords="5,5,268,61"/>
+</map>

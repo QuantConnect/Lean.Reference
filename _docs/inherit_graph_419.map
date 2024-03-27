@@ -1,0 +1,4 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$classQuantConnect_1_1Orders_1_1Fees_1_1OrderFee.html" title="Defines the result for IFeeModel.GetOrderFee" alt="" coords="5,5,204,47"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Orders_1_1Fees_1_1ModifiedFillQuantityOrderFee.html" title="An order fee where the fee quantity has already been subtracted from the filled quantity so instead w..." alt="" coords="252,5,464,47"/>
+</map>

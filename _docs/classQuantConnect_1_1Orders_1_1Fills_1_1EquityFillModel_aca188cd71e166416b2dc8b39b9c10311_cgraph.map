@@ -1,0 +1,12 @@
+<map id="QuantConnect.Orders.Fills.EquityFillModel.MarketOnCloseFill" name="QuantConnect.Orders.Fills.EquityFillModel.MarketOnCloseFill">
+<area shape="rect" id="node1" title="Market on Close Fill Model. Return an order event with the fill details" alt="" coords="5,93,249,135"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Securities_1_1SecurityCache.html#a2e22a721cbad979accb38e91dd640b8e" title="Get last data packet received for this security if any else null" alt="" coords="333,5,519,47"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Securities_1_1SecurityExchangeHours.html#ae4d431df8172a13151fbc6dcad979492" title="Gets the local date time corresponding to the next market close following the specified time" alt="" coords="903,81,1137,137"/>
+<area shape="rect" id="node5" href="$classQuantConnect_1_1Orders_1_1Fills_1_1EquityFillModel.html#a5163fdfc6b5fe8d87eb03d5a4d29ecb1" title="Get data types the Security is subscribed to" alt="" coords="297,123,555,164"/>
+<area shape="rect" id="node6" href="$classQuantConnect_1_1Orders_1_1Fills_1_1FillModel.html#acc205b791cf6a99fa989502aff6b53b8" title="Determines if the exchange is open using the current time of the asset" alt="" coords="329,188,523,229"/>
+<area shape="rect" id="node4" href="$classQuantConnect_1_1Securities_1_1SecurityExchangeHours.html#a106e2dd187ab76452e14ac6a28f929aa" title="Helper to access the market hours field based on the day of week" alt="" coords="1185,115,1472,156"/>
+<area shape="rect" id="node7" href="$classQuantConnect_1_1Securities_1_1Security.html#ab93a58a84a4aa1b19d0972faf6c056c4" title="Get the last price update set to the security if any else null" alt="" coords="635,125,822,167"/>
+<area shape="rect" id="node8" href="$classQuantConnect_1_1Securities_1_1SecurityExchangeHours.html#af2deedeacdcb6bbe40f4874002cdbac3" title="Determines if the exchange is open at the specified local date time." alt="" coords="907,184,1133,225"/>
+<area shape="rect" id="node10" href="$classQuantConnect_1_1Securities_1_1SecurityExchange.html#a17daa159794484b17946fc540864800c" title="Determines if the exchange was open at any time between start and stop" alt="" coords="603,243,855,284"/>
+<area shape="rect" id="node9" href="$classQuantConnect_1_1Securities_1_1LocalMarketHours.html#a97e5d374a28d55f3ebee72c328a0810f" title="Determines if the exchange is open at the specified time" alt="" coords="1235,184,1423,225"/>
+</map>

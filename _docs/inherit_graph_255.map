@@ -1,0 +1,4 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$classQuantConnect_1_1Lean_1_1Engine_1_1DataFeeds_1_1SubscriptionData.html" title="Store data (either raw or adjusted) and the time at which it should be synchronized" alt="" coords="5,5,212,47"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Lean_1_1Engine_1_1DataFeeds_1_1PrecalculatedSubscriptionData.html" title="Store data both raw and adjusted and the time at which it should be synchronized" alt="" coords="260,5,555,47"/>
+</map>

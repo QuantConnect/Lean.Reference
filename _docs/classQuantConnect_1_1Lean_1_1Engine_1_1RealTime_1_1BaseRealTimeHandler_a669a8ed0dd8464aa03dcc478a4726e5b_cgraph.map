@@ -1,0 +1,4 @@
+<map id="QuantConnect.Lean.Engine.RealTime.BaseRealTimeHandler.Setup" name="QuantConnect.Lean.Engine.RealTime.BaseRealTimeHandler.Setup">
+<area shape="rect" id="node1" title="Initializes the real time handler for the specified algorithm and job. Adds EndOfDayEvents" alt="" coords="5,13,279,54"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Lean_1_1Engine_1_1RealTime_1_1BaseRealTimeHandler.html#a390ad500f2e0908d11e02711cd83be92" title="Get&#39;s the timeout the scheduled task time monitor should use" alt="" coords="327,5,585,61"/>
+</map>

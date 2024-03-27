@@ -1,0 +1,6 @@
+<map id="QuantConnect.Packets.LiveResultPacket.LiveResultPacket" name="QuantConnect.Packets.LiveResultPacket.LiveResultPacket">
+<area shape="rect" id="node1" title="Default constructor for JSON Serialization" alt="" coords="859,13,1077,54"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Packets_1_1LiveResultPacket.html#a2d728ce1d5a90b3d66fe40a1fab71ed7" title="Creates an empty result packet, useful when the algorithm fails to initialize" alt="" coords="612,13,811,54"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Lean_1_1Engine_1_1Results_1_1LiveTradingResultHandler.html#a87f1535d14caf7deaad1b36854fcd22a" title="Send a final analysis result back to the IDE." alt="" coords="321,5,564,61"/>
+<area shape="rect" id="node4" href="$classQuantConnect_1_1Lean_1_1Engine_1_1Results_1_1LiveTradingResultHandler.html#a1dbddef89eec0b724268ecdaa7c211ff" title="Terminate the result thread and apply any required exit procedures like sending final results" alt="" coords="5,13,273,54"/>
+</map>

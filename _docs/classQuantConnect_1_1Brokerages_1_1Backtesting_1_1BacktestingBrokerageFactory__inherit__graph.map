@@ -1,0 +1,6 @@
+<map id="QuantConnect.Brokerages.Backtesting.BacktestingBrokerageFactory" name="QuantConnect.Brokerages.Backtesting.BacktestingBrokerageFactory">
+<area shape="rect" id="node1" title="Factory type for the BacktestingBrokerage" alt="" coords="5,229,252,285"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Brokerages_1_1BrokerageFactory.html" title="Provides a base implementation of IBrokerageFactory that provides a helper for reading data from a jo..." alt="" coords="61,155,196,181"/>
+<area shape="rect" id="node3" href="$interfaceQuantConnect_1_1Interfaces_1_1IBrokerageFactory.html" title="Defines factory types for brokerages. Every IBrokerage is expected to also implement an IBrokerageFac..." alt="" coords="59,80,198,107"/>
+<area shape="rect" id="node4" title=" " alt="" coords="79,5,178,32"/>
+</map>

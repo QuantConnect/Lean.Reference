@@ -1,0 +1,4 @@
+<map id="QuantConnect.Lean.Engine.DataFeeds.FileSystemDataFeed.ConfigureEnumerator" name="QuantConnect.Lean.Engine.DataFeeds.FileSystemDataFeed.ConfigureEnumerator">
+<area shape="rect" id="node1" title="Configure the enumerator with aggregation/fill&#45;forward/filter behaviors. Returns new instance if re&#45;c..." alt="" coords="305,5,600,61"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Lean_1_1Engine_1_1DataFeeds_1_1FileSystemDataFeed.html#a8b10a0ccb5a8884f80c527cf25c992f5" title="If required will add a new enumerator for the underlying symbol" alt="" coords="5,5,257,61"/>
+</map>

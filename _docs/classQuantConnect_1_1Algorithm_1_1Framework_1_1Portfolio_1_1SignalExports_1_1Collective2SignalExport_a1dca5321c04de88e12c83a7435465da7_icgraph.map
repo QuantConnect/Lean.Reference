@@ -1,0 +1,4 @@
+<map id="QuantConnect.Algorithm.Framework.Portfolio.SignalExports.Collective2SignalExport.CreateMessage" name="QuantConnect.Algorithm.Framework.Portfolio.SignalExports.Collective2SignalExport.CreateMessage">
+<area shape="rect" id="node1" title="Serializes the list of desired positions with the needed credentials in JSON format" alt="" coords="316,5,579,61"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Algorithm_1_1Framework_1_1Portfolio_1_1SignalExports_1_1Collective2SignalExport.html#ae72a36410f161dff06b714c17837a623" title="Creates a JSON message with the desired positions using the expected Collective2 API format and then ..." alt="" coords="5,5,268,61"/>
+</map>

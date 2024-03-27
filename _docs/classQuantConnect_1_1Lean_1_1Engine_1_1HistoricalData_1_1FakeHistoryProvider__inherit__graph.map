@@ -1,0 +1,6 @@
+<map id="QuantConnect.Lean.Engine.HistoricalData.FakeHistoryProvider" name="QuantConnect.Lean.Engine.HistoricalData.FakeHistoryProvider">
+<area shape="rect" id="node1" title="Provides FAKE implementation of IHistoryProvider used for testing. FakeDataQueue" alt="" coords="5,229,255,271"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Data_1_1HistoryProviderBase.html" title="Provides a base type for all history providers" alt="" coords="53,155,207,181"/>
+<area shape="rect" id="node3" href="$interfaceQuantConnect_1_1Interfaces_1_1IHistoryProvider.html" title="Provides historical data to an algorithm at runtime" alt="" coords="67,80,193,107"/>
+<area shape="rect" id="node4" href="$interfaceQuantConnect_1_1Interfaces_1_1IDataProviderEvents.html" title="Events related to data providers" alt="" coords="53,5,207,32"/>
+</map>

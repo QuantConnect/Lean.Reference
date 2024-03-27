@@ -1,0 +1,11 @@
+<map id="QuantConnect.Time.UnixTimeStampToDateTime" name="QuantConnect.Time.UnixTimeStampToDateTime">
+<area shape="rect" id="node1" title="Create a C# DateTime from a UnixTimestamp" alt="" coords="657,136,876,177"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Report_1_1ResultsUtil.html#a1283b789256e20c34dc2e56a3ec4ace3" title="Gets the points of the benchmark" alt="" coords="371,5,585,47"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Orders_1_1OrderEvent.html#ab5201a3c4066f451616e2602bdb36a7d" title="Creates a new instance based on the provided serialized order event" alt="" coords="377,71,579,112"/>
+<area shape="rect" id="node5" href="$classQuantConnect_1_1Orders_1_1Order.html#a78fe84a79fafe9377035e67e22d71de8" title="Creates a new Order instance from a SerializedOrder instance" alt="" coords="376,136,580,177"/>
+<area shape="rect" id="node7" href="$classQuantConnect_1_1Algorithm_1_1Framework_1_1Alphas_1_1Insight.html#a45c92b494352cbd2da4db9890911200f" title="Creates a new Insight object from the specified serialized form" alt="" coords="347,201,609,243"/>
+<area shape="rect" id="node9" href="$classQuantConnect_1_1Time.html#ac8cbc28869423f26766cb5970ae957f2" title="Create a C# DateTime from a UnixTimestamp" alt="" coords="369,267,587,308"/>
+<area shape="rect" id="node4" href="$classQuantConnect_1_1Orders_1_1Serialization_1_1OrderEventJsonConverter.html#ae6c48e8ac3a202ba0187ea307c82b22d" title="Converts the input value to be deserialized" alt="" coords="27,71,277,112"/>
+<area shape="rect" id="node6" href="$classQuantConnect_1_1Orders_1_1Serialization_1_1SerializedOrderJsonConverter.html#a6cfaeafcc6f3697d680ed0cf2dfa6a47" title="Converts the input value to be deserialized" alt="" coords="19,136,285,177"/>
+<area shape="rect" id="node8" href="$classQuantConnect_1_1Algorithm_1_1Framework_1_1Alphas_1_1Serialization_1_1InsightJsonConverter.html#af2dd7ec283dc30929df11534ca3cc274" title="Converts the input value to be deserialized" alt="" coords="5,202,299,258"/>
+</map>

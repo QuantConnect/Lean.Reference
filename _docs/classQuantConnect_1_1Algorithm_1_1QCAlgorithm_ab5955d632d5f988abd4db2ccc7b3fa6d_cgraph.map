@@ -1,0 +1,5 @@
+<map id="QuantConnect.Algorithm.QCAlgorithm.OnFrameworkSecuritiesChanged" name="QuantConnect.Algorithm.QCAlgorithm.OnFrameworkSecuritiesChanged">
+<area shape="rect" id="node1" title="Used to send security changes to algorithm framework models" alt="" coords="5,43,279,84"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Algorithm_1_1QCAlgorithm.html#a16bd52d937ab647c889e8d5f6577f744" title="Send a debug message to the web console:" alt="" coords="327,5,600,47"/>
+<area shape="rect" id="node3" href="$interfaceQuantConnect_1_1Algorithm_1_1Framework_1_1INotifiedSecurityChanges.html#aba8ad3d9ecd94f82ed731171e108178b" title="Event fired each time the we add/remove securities from the data feed" alt="" coords="327,71,599,127"/>
+</map>

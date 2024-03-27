@@ -1,0 +1,5 @@
+<map id="QuantConnect.Algorithm.Framework.Alphas.InsightCollection.TryGetValue" name="QuantConnect.Algorithm.Framework.Alphas.InsightCollection.TryGetValue">
+<area shape="rect" id="node1" title="Attempts to get the list of insights with the specified symbol key" alt="" coords="653,5,916,47"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Algorithm_1_1Framework_1_1Alphas_1_1Analysis_1_1InsightManager.html#ae3cbcd98a86c22c454fbea6ebe2e52ba" title="Expire the insights of the given symbols" alt="" coords="331,5,605,47"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Algorithm_1_1Framework_1_1Alphas_1_1Analysis_1_1InsightManager.html#a36b7aaa476dbf2c9bb896a152ba26dd8" title="Cancel the insights of the given symbols" alt="" coords="5,5,283,47"/>
+</map>

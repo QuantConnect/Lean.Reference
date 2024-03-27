@@ -1,0 +1,5 @@
+<map id="QuantConnect.Time.EachTradeableDay" name="QuantConnect.Time.EachTradeableDay">
+<area shape="rect" id="node1" title="Define an enumerable date range of tradeable dates &#45; skip the holidays and weekends when securities i..." alt="" coords="5,13,280,39"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Securities_1_1SecurityExchangeHours.html#aeea5ca309a445fa3a7cb85bd995af45a" title="Determines if the exchange will be open on the date specified by the local date time" alt="" coords="328,5,584,47"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Securities_1_1SecurityExchangeHours.html#a106e2dd187ab76452e14ac6a28f929aa" title="Helper to access the market hours field based on the day of week" alt="" coords="632,5,919,47"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="QuantConnect.Securities.MarketHoursDatabase.ReloadEntries" name="QuantConnect.Securities.MarketHoursDatabase.ReloadEntries">
+<area shape="rect" id="node1" title="Reload entries dictionary from MHDB file and merge them with previous custom ones" alt="" coords="5,75,267,116"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Securities_1_1MarketHoursDatabase.html#aa01232d91c17c556b18ea8f1f7fabcd0" title="Gets the instance of the MarketHoursDatabase class produced by reading in the market hours data found..." alt="" coords="315,30,549,86"/>
+<area shape="rect" id="node5" href="$classQuantConnect_1_1Securities_1_1MarketHoursDatabase.html#af5db447dac6d00b6b2e6abff6045ac3b" title="Resets the market hours database, forcing a reload when reused. Called in tests where multiple algori..." alt="" coords="328,111,536,152"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Securities_1_1MarketHoursDatabase.html#a6fdcc5f6d09cc11743e258e570d0a9eb" title="Reads the specified file as a market hours database instance" alt="" coords="597,5,824,47"/>
+<area shape="rect" id="node4" href="$classQuantConnect_1_1Globals.html#ae01b5c94ef475a21ab1a62fe1b04ea5c" title="Helper method that will build a data folder path checking if it exists on the cache folder else will ..." alt="" coords="613,71,808,112"/>
+</map>

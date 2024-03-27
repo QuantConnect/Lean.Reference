@@ -1,0 +1,4 @@
+<map id="QuantConnect.Messaging.StreamingMessageHandler.SetAuthentication" name="QuantConnect.Messaging.StreamingMessageHandler.SetAuthentication">
+<area shape="rect" id="node1" title="Set the user communication channel" alt="" coords="5,5,264,47"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Messaging_1_1StreamingMessageHandler.html#a41ca78af60f0ec8a05e75c2b9dd2ffe3" title="Send a message to the _server using ZeroMQ" alt="" coords="312,5,571,47"/>
+</map>

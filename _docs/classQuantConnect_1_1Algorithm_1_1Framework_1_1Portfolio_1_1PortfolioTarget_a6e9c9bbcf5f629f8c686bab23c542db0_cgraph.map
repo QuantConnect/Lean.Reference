@@ -1,0 +1,10 @@
+<map id="QuantConnect.Algorithm.Framework.Portfolio.PortfolioTarget.Percent" name="QuantConnect.Algorithm.Framework.Portfolio.PortfolioTarget.Percent">
+<area shape="rect" id="node1" title="Creates a new target for the specified percent" alt="" coords="5,173,268,215"/>
+<area shape="rect" id="node2" href="$interfaceQuantConnect_1_1Interfaces_1_1IAlgorithm.html#a63cc959667fa0f4dfd13048a9b7dac94" title="Send debug message" alt="" coords="406,5,593,47"/>
+<area shape="rect" id="node3" href="$interfaceQuantConnect_1_1Interfaces_1_1IAlgorithm.html#a7b8af1af90d91f0702ae39686c073dce" title="Send an error message for the algorithm" alt="" coords="406,71,593,112"/>
+<area shape="rect" id="node4" href="$interfaceQuantConnect_1_1Securities_1_1IBuyingPowerModel.html#a71a4a692ddcf85b3781a510cc3a3764f" title="Gets the current leverage of the security" alt="" coords="380,136,619,177"/>
+<area shape="rect" id="node5" href="$interfaceQuantConnect_1_1Securities_1_1Positions_1_1IPositionGroupBuyingPowerModel.html#ad9b3419d94d2c584a9706bfe14b7e260" title="Get the maximum position group order quantity to obtain a position with a given buying power percenta..." alt="" coords="316,202,683,258"/>
+<area shape="rect" id="node6" href="$classQuantConnect_1_1Securities_1_1Positions_1_1SecurityPositionGroupModel.html#ab38609d426f6ebc69ed07a547e13b933" title="Gets or creates the default position group for the specified security" alt="" coords="382,282,617,338"/>
+<area shape="rect" id="node8" href="$classQuantConnect_1_1Algorithm_1_1Framework_1_1Portfolio_1_1PortfolioTarget.html#aed7945d01df0aa8ae801f6fe2c950ae0" title="Initializes a new instance of the PortfolioTarget class" alt="" coords="362,363,637,404"/>
+<area shape="rect" id="node7" href="$classQuantConnect_1_1Securities_1_1Positions_1_1SecurityPositionGroupModel.html#aa11cb32493bfdcda2a5cee4b34c725e6" title="Creates a PositionGroupKey for the security&#39;s default position group" alt="" coords="731,282,960,338"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="QuantConnect.Securities.SecurityTransactionManager.CancelOrder" name="QuantConnect.Securities.SecurityTransactionManager.CancelOrder">
+<area shape="rect" id="node1" title="Added alias for RemoveOrder &#45;" alt="" coords="969,5,1259,47"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Algorithm_1_1QCAlgorithm.html#a508fd4e5eb28d4280af51f647994d6ee" title="Liquidate all holdings and cancel open orders. Called at the end of day for tick&#45;strategies." alt="" coords="648,5,921,47"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Algorithm_1_1QCAlgorithm.html#a6ece1896dff33aafccfb1707a83a77c3" title="Removes the security with the specified symbol. This will cancel all open orders and then liquidate a..." alt="" coords="327,5,600,47"/>
+<area shape="rect" id="node4" href="$classQuantConnect_1_1Algorithm_1_1QCAlgorithm.html#aaa03fad6a4f4df5db3a0273d94df6436" title="Removes the security with the specified symbol. This will cancel all open orders and then liquidate a..." alt="" coords="5,5,279,47"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="QuantConnect.Orders.Fees.IndiaFeeModel.GetOrderFee" name="QuantConnect.Orders.Fees.IndiaFeeModel.GetOrderFee">
+<area shape="rect" id="node1" title="Gets the order fee associated with the specified order." alt="" coords="5,5,208,47"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Orders_1_1Order.html#a40febbe1f74f0fe4dbe109c48e8131f2" title="Gets the value of this order at the given market price in units of the account currency NOTE: Some or..." alt="" coords="256,5,460,47"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Orders_1_1Order.html#ae27a9479cf20671d6583328f5c22bfb6" title="Gets the order value in units of the security&#39;s quote currency for a single unit. A single unit here ..." alt="" coords="508,5,712,47"/>
+</map>

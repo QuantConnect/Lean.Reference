@@ -1,0 +1,4 @@
+<map id="QuantConnect.Brokerages.WebSocketClientWrapper.OnClose" name="QuantConnect.Brokerages.WebSocketClientWrapper.OnClose">
+<area shape="rect" id="node1" title="Event invocator for the Close event" alt="" coords="279,5,521,47"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Brokerages_1_1WebSocketClientWrapper.html#a4c6a5818b67e6df627c34cea2a6e6194" title="Wraps Close method" alt="" coords="5,5,231,47"/>
+</map>

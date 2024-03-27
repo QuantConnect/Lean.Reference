@@ -1,0 +1,4 @@
+<map id="QuantConnect.Securities.BuyingPowerModelExtensions.GetMaximumOrderQuantityForTargetBuyingPower" name="QuantConnect.Securities.BuyingPowerModelExtensions.GetMaximumOrderQuantityForTargetBuyingPower">
+<area shape="rect" id="node1" title="Get the maximum market order quantity to obtain a position with a given value in account currency" alt="" coords="5,5,331,61"/>
+<area shape="rect" id="node2" href="$interfaceQuantConnect_1_1Securities_1_1IBuyingPowerModel.html#a8a8d32eea5e9f340b97c57bd46f59a96" title="Get the maximum market order quantity to obtain a position with a given buying power percentage...." alt="" coords="379,5,637,61"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="QuantConnect.Securities.OptionFilterUniverse.IsStandard" name="QuantConnect.Securities.OptionFilterUniverse.IsStandard">
+<area shape="rect" id="node1" title="Determine if the given Option contract symbol is standard" alt="" coords="5,86,235,127"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Securities_1_1FutureOption_1_1FutureOptionSymbol.html#acb77dd2df85b8f6888341b5c4aead554" title="Detects if the future option contract is standard, i.e. not weekly, not short&#45;term,..." alt="" coords="283,5,529,61"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Securities_1_1Option_1_1OptionSymbol.html#a67479caa555c9b1c103efabf3e7e038c" title="Returns true if the option is a standard contract that expires 3rd Friday of the month" alt="" coords="289,86,523,127"/>
+<area shape="rect" id="node4" href="$classQuantConnect_1_1Securities_1_1IndexOption_1_1IndexOptionSymbol.html#a9e4c837b281398267ad070d9d89555df" title="Determines if the Index Option Symbol is for a monthly contract" alt="" coords="287,152,525,208"/>
+<area shape="rect" id="node5" href="$classQuantConnect_1_1Securities_1_1Future_1_1FuturesExpiryUtilityFunctions.html#aadb0c0815d821fe2e795a2521aac802a" title="Method to retrieve the 3rd Friday of the given month" alt="" coords="577,152,840,208"/>
+</map>

@@ -1,0 +1,19 @@
+<map id="QuantConnect.Orders.OrderProperties" name="QuantConnect.Orders.OrderProperties">
+<area shape="rect" id="node1" title="Contains additional properties and settings for an order" alt="" coords="181,397,383,439"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Orders_1_1BinanceOrderProperties.html" title="Contains additional properties and settings for an order submitted to Binance brokerage" alt="" coords="450,5,667,47"/>
+<area shape="rect" id="node4" href="$classQuantConnect_1_1Orders_1_1BitfinexOrderProperties.html" title="Contains additional properties and settings for an order submitted to Bitfinex brokerage" alt="" coords="451,71,666,112"/>
+<area shape="rect" id="node5" href="$classQuantConnect_1_1Orders_1_1CoinbaseOrderProperties.html" title="Contains additional properties and settings for an order submitted to Coinbase brokerage" alt="" coords="446,136,671,177"/>
+<area shape="rect" id="node7" href="$classQuantConnect_1_1Orders_1_1EzeOrderProperties.html" title="Contains additional properties and settings for an order submitted to EZE brokerage" alt="" coords="447,201,671,243"/>
+<area shape="rect" id="node8" href="$classQuantConnect_1_1Orders_1_1FixOrderProperites.html" title="FIX (Financial Information Exchange) order properties" alt="" coords="449,267,669,308"/>
+<area shape="rect" id="node10" href="$classQuantConnect_1_1Orders_1_1FTXOrderProperties.html" title="Contains additional properties and settings for an order submitted to FTX brokerage" alt="" coords="447,332,671,373"/>
+<area shape="rect" id="node11" href="$classQuantConnect_1_1Orders_1_1IndiaOrderProperties.html" title="Contains additional properties and settings for an order submitted to Indian Brokerages" alt="" coords="460,397,657,439"/>
+<area shape="rect" id="node12" href="$classQuantConnect_1_1Orders_1_1InteractiveBrokersOrderProperties.html" title="Contains additional properties and settings for an order submitted to Interactive Brokers" alt="" coords="441,463,676,504"/>
+<area shape="rect" id="node13" href="$classQuantConnect_1_1Orders_1_1KrakenOrderProperties.html" title="Kraken order properties" alt="" coords="453,528,664,569"/>
+<area shape="rect" id="node14" href="$classQuantConnect_1_1Orders_1_1RBIOrderProperties.html" title="RBI order properties" alt="" coords="447,593,670,635"/>
+<area shape="rect" id="node15" href="$classQuantConnect_1_1Orders_1_1TDAmeritradeOrderProperties.html" title="TDAmeritrade order properties" alt="" coords="431,659,687,700"/>
+<area shape="rect" id="node16" href="$classQuantConnect_1_1Orders_1_1TerminalLinkOrderProperties.html" title="The terminal link order properties" alt="" coords="448,724,669,765"/>
+<area shape="rect" id="node17" href="$classQuantConnect_1_1Orders_1_1WolverineOrderProperties.html" title="Wolverine order properties" alt="" coords="443,789,674,831"/>
+<area shape="rect" id="node2" href="$interfaceQuantConnect_1_1Interfaces_1_1IOrderProperties.html" title="Contains additional properties and settings for an order" alt="" coords="5,405,133,431"/>
+<area shape="rect" id="node6" href="$classQuantConnect_1_1Orders_1_1GDAXOrderProperties.html" title="Contains additional properties and settings for an order submitted to GDAX brokerage" alt="" coords="735,136,973,177"/>
+<area shape="rect" id="node9" href="$classQuantConnect_1_1Orders_1_1TradingTechnologiesOrderProperties.html" title="Trading Technologies order properties" alt="" coords="748,267,960,308"/>
+</map>

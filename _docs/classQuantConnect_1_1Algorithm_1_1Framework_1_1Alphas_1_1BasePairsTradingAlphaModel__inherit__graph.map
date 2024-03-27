@@ -1,0 +1,8 @@
+<map id="QuantConnect.Algorithm.Framework.Alphas.BasePairsTradingAlphaModel" name="QuantConnect.Algorithm.Framework.Alphas.BasePairsTradingAlphaModel">
+<area shape="rect" id="node1" title="This alpha model is designed to accept every possible pair combination from securities selected by th..." alt="" coords="33,229,295,271"/>
+<area shape="rect" id="node6" href="$classQuantConnect_1_1Algorithm_1_1Framework_1_1Alphas_1_1PearsonCorrelationPairsTradingAlphaModel.html" title="This alpha model is designed to rank every pair combination by its pearson correlation and trade the ..." alt="" coords="28,319,300,375"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Algorithm_1_1Framework_1_1Alphas_1_1AlphaModel.html" title="Provides a base class for alpha models." alt="" coords="115,155,213,181"/>
+<area shape="rect" id="node3" href="$interfaceQuantConnect_1_1Algorithm_1_1Framework_1_1Alphas_1_1IAlphaModel.html" title="Algorithm framework model that produces insights" alt="" coords="47,80,150,107"/>
+<area shape="rect" id="node4" href="$interfaceQuantConnect_1_1Algorithm_1_1Framework_1_1INotifiedSecurityChanges.html" title="Types implementing this interface will be called when the algorithm&#39;s set of securities changes" alt="" coords="5,5,192,32"/>
+<area shape="rect" id="node5" href="$interfaceQuantConnect_1_1Algorithm_1_1Framework_1_1Alphas_1_1INamedModel.html" title="Provides a marker interface allowing models to define their own names. If not specified,..." alt="" coords="174,80,287,107"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="QuantConnect.Lean.Engine.RealTime.BacktestingRealTimeHandler.Add" name="QuantConnect.Lean.Engine.RealTime.BacktestingRealTimeHandler.Add">
+<area shape="rect" id="node1" title="Adds the specified event to the schedule" alt="" coords="368,5,675,47"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Lean_1_1Engine_1_1RealTime_1_1LiveTradingRealTimeHandler.html#a1b3eae56614996b86125cbd7c28cbe42" title="Initializes the real time handler for the specified algorithm and job" alt="" coords="5,5,320,47"/>
+</map>

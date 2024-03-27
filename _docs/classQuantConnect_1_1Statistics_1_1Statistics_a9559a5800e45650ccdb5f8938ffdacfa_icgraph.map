@@ -1,0 +1,4 @@
+<map id="QuantConnect.Statistics.Statistics.CompoundingAnnualPerformance" name="QuantConnect.Statistics.Statistics.CompoundingAnnualPerformance">
+<area shape="rect" id="node1" title="Annual compounded returns statistic based on the final&#45;starting capital and years." alt="" coords="249,5,471,61"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Statistics_1_1PortfolioStatistics.html#af38dcd6519a76dade550dc80e92d228f" title="Initializes a new instance of the PortfolioStatistics class" alt="" coords="5,5,201,61"/>
+</map>

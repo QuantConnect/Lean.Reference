@@ -1,0 +1,4 @@
+<map id="QuantConnect.Lean.Engine.HistoricalData.HistoryProviderManager.SetBrokerage" name="QuantConnect.Lean.Engine.HistoricalData.HistoryProviderManager.SetBrokerage">
+<area shape="rect" id="node1" title="Sets the brokerage to be used for historical requests" alt="" coords="273,5,493,61"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Lean_1_1Engine_1_1HistoricalData_1_1HistoryProviderManager.html#a8a9a7a7c37fb03207bcee5283fe4301a" title="Initializes this history provider to work for the specified job" alt="" coords="5,5,225,61"/>
+</map>

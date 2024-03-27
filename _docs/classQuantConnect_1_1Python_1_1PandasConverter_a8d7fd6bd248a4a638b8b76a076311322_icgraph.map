@@ -1,0 +1,5 @@
+<map id="QuantConnect.Python.PandasConverter.GetDataFrame" name="QuantConnect.Python.PandasConverter.GetDataFrame">
+<area shape="rect" id="node1" title="Converts an enumerable of Slice in a pandas.DataFrame" alt="" coords="279,39,492,80"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Research_1_1FutureHistory.html#ab2a07cf945bd2de975556966592beb8c" title="Create a new instance of FutureHistory." alt="" coords="7,5,229,47"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Research_1_1OptionHistory.html#a5812b5722f2095086605700da873c043" title="Create a new instance of OptionHistory." alt="" coords="5,71,231,112"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="QuantConnect.Lean.Engine.Results.BaseResultsHandler.SummaryStatistic" name="QuantConnect.Lean.Engine.Results.BaseResultsHandler.SummaryStatistic">
+<area shape="rect" id="node1" title="Sets or updates a custom summary statistic" alt="" coords="300,45,571,101"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Lean_1_1Engine_1_1Results_1_1BacktestingResultHandler.html#a075d8cb135b5c11f4ffa3c0a784cb669" title="Sets or updates a custom summary statistic" alt="" coords="5,5,252,61"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Lean_1_1Engine_1_1Results_1_1LiveTradingResultHandler.html#ab3cb63378116eb3ea67567c9afaecdc1" title="Sets or updates a custom summary statistic" alt="" coords="7,85,250,141"/>
+</map>

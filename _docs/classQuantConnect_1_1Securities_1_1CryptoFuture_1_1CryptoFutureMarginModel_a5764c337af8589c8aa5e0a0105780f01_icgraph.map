@@ -1,0 +1,4 @@
+<map id="QuantConnect.Securities.CryptoFuture.CryptoFutureMarginModel.GetInitialMarginRequirement" name="QuantConnect.Securities.CryptoFuture.CryptoFutureMarginModel.GetInitialMarginRequirement">
+<area shape="rect" id="node1" title="The margin that must be held in order to increase the position by the provided quantity" alt="" coords="292,5,547,61"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Securities_1_1CryptoFuture_1_1CryptoFutureMarginModel.html#a547b14d8436f9092b3647d174723edc2" title="Gets the margin cash available for a trade" alt="" coords="5,5,244,61"/>
+</map>

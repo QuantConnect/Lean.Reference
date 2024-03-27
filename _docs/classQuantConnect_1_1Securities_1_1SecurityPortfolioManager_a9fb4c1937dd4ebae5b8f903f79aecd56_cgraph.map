@@ -1,0 +1,4 @@
+<map id="QuantConnect.Securities.SecurityPortfolioManager.AddTransactionRecord" name="QuantConnect.Securities.SecurityPortfolioManager.AddTransactionRecord">
+<area shape="rect" id="node1" title="Record the transaction value and time in a list to later be processed for statistics creation." alt="" coords="5,5,220,61"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Securities_1_1SecurityTransactionManager.html#ab33831873f92193362ac27a24ff5970b" title="Record the transaction value and time in a list to later be processed for statistics creation." alt="" coords="268,5,503,61"/>
+</map>

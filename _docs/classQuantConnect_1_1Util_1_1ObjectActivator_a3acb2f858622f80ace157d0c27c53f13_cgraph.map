@@ -1,0 +1,4 @@
+<map id="QuantConnect.Util.ObjectActivator.Clone&lt; T &gt;" name="QuantConnect.Util.ObjectActivator.Clone&lt; T &gt;">
+<area shape="rect" id="node1" title="Clones the specified instance and then casts it to T before returning" alt="" coords="5,5,192,47"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Util_1_1ObjectActivator.html#abcd1c91f67b9d78743601743d663cd10" title="Clones the specified instance using reflection" alt="" coords="240,5,427,47"/>
+</map>

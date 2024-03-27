@@ -1,0 +1,5 @@
+<map id="QuantConnect.Securities.CryptoFuture.BybitFutureMarginInterestRateModel" name="QuantConnect.Securities.CryptoFuture.BybitFutureMarginInterestRateModel">
+<area shape="rect" id="node1" title="The responsibility of this model is to apply future funding rate cash flows to the portfolio based on..." alt="" coords="5,169,236,225"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Securities_1_1CryptoFuture_1_1BinanceFutureMarginInterestRateModel.html" title="The responsability of this model is to apply future funding rate cash flows to the portfolio based on..." alt="" coords="15,80,226,121"/>
+<area shape="rect" id="node3" href="$interfaceQuantConnect_1_1Securities_1_1IMarginInterestRateModel.html" title="The responsability of this model is to apply margin interest rate cash flows to the portfolio" alt="" coords="25,5,216,32"/>
+</map>

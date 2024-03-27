@@ -1,0 +1,9 @@
+<map id="QuantConnect.Securities.SecurityManager.ContainsKey" name="QuantConnect.Securities.SecurityManager.ContainsKey">
+<area shape="rect" id="node1" title="Check if this collection contains this symbol." alt="" coords="969,104,1185,145"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Securities_1_1SecurityPortfolioManager.html#ac50e645fe0a919b245c47b6aa7ea3701" title="Check if the key&#45;value pair is in the portfolio." alt="" coords="661,5,908,47"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Securities_1_1SecurityPortfolioManager.html#ac683ba79af3d2a6e69714cb22acf7939" title="Check if the portfolio contains this symbol string." alt="" coords="649,71,920,112"/>
+<area shape="rect" id="node4" href="$classQuantConnect_1_1Algorithm_1_1QCAlgorithm.html#a508fd4e5eb28d4280af51f647994d6ee" title="Liquidate all holdings and cancel open orders. Called at the end of day for tick&#45;strategies." alt="" coords="648,136,921,177"/>
+<area shape="rect" id="node7" href="$classQuantConnect_1_1Research_1_1QuantBook.html#a9c6829f944fce7f66a72fa0d9b64f7b8" title="Gets OptionHistory object for a given symbol, date and resolution" alt="" coords="674,201,895,243"/>
+<area shape="rect" id="node5" href="$classQuantConnect_1_1Algorithm_1_1QCAlgorithm.html#a6ece1896dff33aafccfb1707a83a77c3" title="Removes the security with the specified symbol. This will cancel all open orders and then liquidate a..." alt="" coords="327,136,600,177"/>
+<area shape="rect" id="node6" href="$classQuantConnect_1_1Algorithm_1_1QCAlgorithm.html#aaa03fad6a4f4df5db3a0273d94df6436" title="Removes the security with the specified symbol. This will cancel all open orders and then liquidate a..." alt="" coords="5,136,279,177"/>
+</map>

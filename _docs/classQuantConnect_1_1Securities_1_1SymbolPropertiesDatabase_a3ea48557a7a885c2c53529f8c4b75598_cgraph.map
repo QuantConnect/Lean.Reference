@@ -1,0 +1,6 @@
+<map id="QuantConnect.Securities.SymbolPropertiesDatabase.GetSymbolProperties" name="QuantConnect.Securities.SymbolPropertiesDatabase.GetSymbolProperties">
+<area shape="rect" id="node1" title="Gets the symbol properties for the specified market/symbol/security&#45;type" alt="" coords="5,43,232,99"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Securities_1_1MarketHoursDatabase.html#aa717adb9bb04be931913608ffd5a2733" title="Gets the correct string symbol to use as a database key" alt="" coords="280,5,536,61"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Securities_1_1SymbolProperties.html#ad148190d1dfce7109d38d3107b7b8fbf" title="Gets a default instance of the SymbolProperties class for the specified quoteCurrency" alt="" coords="302,86,514,127"/>
+<area shape="rect" id="node4" href="$classQuantConnect_1_1Securities_1_1SymbolProperties.html#a0f421617bcddd5b08a830689b1e2dcfa" title="Creates an instance of the SymbolProperties class" alt="" coords="584,86,840,127"/>
+</map>

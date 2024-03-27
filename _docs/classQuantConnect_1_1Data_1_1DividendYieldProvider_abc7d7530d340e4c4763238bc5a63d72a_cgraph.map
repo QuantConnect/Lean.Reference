@@ -1,0 +1,8 @@
+<map id="QuantConnect.Data.DividendYieldProvider.GetDividendYield" name="QuantConnect.Data.DividendYieldProvider.GetDividendYield">
+<area shape="rect" id="node1" title="Get dividend yield by a given date of a given symbol" alt="" coords="5,39,229,80"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Data_1_1DividendYieldProvider.html#ab46eca6fdf052572f8497075b04185c6" title="Generate the daily historical dividend yield" alt="" coords="277,31,509,87"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Data_1_1DividendYieldProvider.html#a5b53246765f71d67143e535f1552a2cc" title="Returns a dictionary of historical dividend yield from collection of corporate factor rows" alt="" coords="557,5,832,47"/>
+<area shape="rect" id="node6" href="$interfaceQuantConnect_1_1Interfaces_1_1IFactorFileProvider.html#abb71d95ca43dceef129a4c55e255fff7" title="Gets a FactorFile instance for the specified symbol, or null if not found" alt="" coords="601,71,788,112"/>
+<area shape="rect" id="node4" href="$classQuantConnect_1_1Logging_1_1Log.html#af0e7955911bc7664b37661b2a303a9e3" title="Log error" alt="" coords="880,5,1080,47"/>
+<area shape="rect" id="node5" href="$interfaceQuantConnect_1_1Logging_1_1ILogHandler.html#a35373a0c5d76031fa5ccf5dc39e5c25d" title="Write error message to log" alt="" coords="1128,5,1328,47"/>
+</map>

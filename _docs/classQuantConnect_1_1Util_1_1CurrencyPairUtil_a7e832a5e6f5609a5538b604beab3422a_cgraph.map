@@ -1,0 +1,7 @@
+<map id="QuantConnect.Util.CurrencyPairUtil.IsDecomposable" name="QuantConnect.Util.CurrencyPairUtil.IsDecomposable">
+<area shape="rect" id="node1" title="Checks whether a symbol is decomposable into a base and a quote currency" alt="" coords="5,50,208,91"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Securities_1_1SymbolPropertiesDatabase.html#a3ea48557a7a885c2c53529f8c4b75598" title="Gets the symbol properties for the specified market/symbol/security&#45;type" alt="" coords="256,43,483,99"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Securities_1_1MarketHoursDatabase.html#aa717adb9bb04be931913608ffd5a2733" title="Gets the correct string symbol to use as a database key" alt="" coords="531,5,787,61"/>
+<area shape="rect" id="node4" href="$classQuantConnect_1_1Securities_1_1SymbolProperties.html#ad148190d1dfce7109d38d3107b7b8fbf" title="Gets a default instance of the SymbolProperties class for the specified quoteCurrency" alt="" coords="553,86,765,127"/>
+<area shape="rect" id="node5" href="$classQuantConnect_1_1Securities_1_1SymbolProperties.html#a0f421617bcddd5b08a830689b1e2dcfa" title="Creates an instance of the SymbolProperties class" alt="" coords="835,86,1091,127"/>
+</map>

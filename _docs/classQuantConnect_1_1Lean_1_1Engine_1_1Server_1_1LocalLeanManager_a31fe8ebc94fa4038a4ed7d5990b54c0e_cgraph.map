@@ -1,0 +1,5 @@
+<map id="QuantConnect.Lean.Engine.Server.LocalLeanManager.SetAlgorithm" name="QuantConnect.Lean.Engine.Server.LocalLeanManager.SetAlgorithm">
+<area shape="rect" id="node1" title="Sets the IAlgorithm instance in the ILeanManager" alt="" coords="5,45,283,87"/>
+<area shape="rect" id="node2" href="$interfaceQuantConnect_1_1Interfaces_1_1IAlgorithm.html#a0faff55974afbbdcf585ef2a08a0377c" title="Provide the API for the algorithm." alt="" coords="379,5,566,47"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Lean_1_1Engine_1_1DataFeeds_1_1Transport_1_1RemoteFileSubscriptionStreamReader.html#a726d74389eb277c79ec2b32f32d0ff50" title="Save reference to the download system." alt="" coords="331,71,615,141"/>
+</map>

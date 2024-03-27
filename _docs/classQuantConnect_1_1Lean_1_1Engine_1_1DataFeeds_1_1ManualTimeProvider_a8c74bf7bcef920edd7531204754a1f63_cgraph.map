@@ -1,0 +1,4 @@
+<map id="QuantConnect.Lean.Engine.DataFeeds.ManualTimeProvider.AdvanceSeconds" name="QuantConnect.Lean.Engine.DataFeeds.ManualTimeProvider.AdvanceSeconds">
+<area shape="rect" id="node1" title="Advances the current time by the specified number of seconds" alt="" coords="5,5,295,61"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Lean_1_1Engine_1_1DataFeeds_1_1ManualTimeProvider.html#a372a2f706d263044a7bcab1d7a79696a" title="Advances the current time by the specified span" alt="" coords="343,13,632,54"/>
+</map>

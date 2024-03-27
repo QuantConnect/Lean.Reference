@@ -1,0 +1,12 @@
+<map id="QuantConnect.Lean.Engine.DataFeeds.Enumerators.DataQueueOptionChainUniverseDataCollectionEnumerator.MoveNext" name="QuantConnect.Lean.Engine.DataFeeds.Enumerators.DataQueueOptionChainUniverseDataCollectionEnumerator.MoveNext">
+<area shape="rect" id="node1" title="Advances the enumerator to the next element of the collection." alt="" coords="5,63,340,134"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Data_1_1UniverseSelection_1_1BaseDataCollection.html#ad659123c7e77ca68b033cc5ce9ba81e1" title="Return a new instance clone of this object, used in fill forward" alt="" coords="388,17,643,58"/>
+<area shape="rect" id="node4" href="$classQuantConnect_1_1Symbol.html#a59158f74116be3dad0ea0f3f3f134416" title="Initializes a new instance of the Symbol class" alt="" coords="405,85,625,112"/>
+<area shape="rect" id="node9" href="$classQuantConnect_1_1Logging_1_1Log.html#a4e55477fbc790846b74550a57198cea9" title="Log trace" alt="" coords="415,137,615,178"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Data_1_1UniverseSelection_1_1BaseDataCollection.html#a5d425a0d9defce71ec8d0fc30917b7cf" title="Initializes a new default instance of the BaseDataCollection c;ass" alt="" coords="691,5,941,61"/>
+<area shape="rect" id="node5" href="$classQuantConnect_1_1Symbol.html#a59b0795fa21f46c306deb5576fa03bb9" title="Centralized helper method to resolve alias for a symbol" alt="" coords="703,85,929,112"/>
+<area shape="rect" id="node6" href="$classQuantConnect_1_1SymbolRepresentation.html#ad43ac907f6c19083821f58f21c6de017" title="Returns future symbol ticker from underlying and expiration date. Function can generate tickers of tw..." alt="" coords="989,45,1260,86"/>
+<area shape="rect" id="node8" href="$classQuantConnect_1_1SymbolRepresentation.html#ab133044f5cf8c16e700190a2202b215e" title="Returns option symbol ticker in accordance with OSI symbology More information can be found at http:/..." alt="" coords="989,110,1260,151"/>
+<area shape="rect" id="node7" href="$classQuantConnect_1_1Securities_1_1Future_1_1FuturesExpiryUtilityFunctions.html#a4ccb1e2f2fe40ff09785a74a02f26df1" title="Gets the number of months between the contract month and the expiry date." alt="" coords="1308,37,1663,93"/>
+<area shape="rect" id="node10" href="$interfaceQuantConnect_1_1Logging_1_1ILogHandler.html#a3fb71a33ac66129240b63f12b6fcda3b" title="Write debug message to log" alt="" coords="716,137,916,178"/>
+</map>

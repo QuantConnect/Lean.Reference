@@ -1,0 +1,9 @@
+<map id="QuantConnect.Algorithm.QCAlgorithm.SetAccountCurrency" name="QuantConnect.Algorithm.QCAlgorithm.SetAccountCurrency">
+<area shape="rect" id="node1" title="Sets the account currency cash symbol this algorithm is to manage, as well as the starting cash in th..." alt="" coords="5,43,279,84"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Algorithm_1_1QCAlgorithm.html#a16bd52d937ab647c889e8d5f6577f744" title="Send a debug message to the web console:" alt="" coords="327,5,600,47"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Securities_1_1SecurityPortfolioManager.html#ace04c1c80ebeef4a75f6fc0bdb7aa215" title="Sets the account currency cash symbol this algorithm is to manage, as well as the starting cash in th..." alt="" coords="358,71,569,127"/>
+<area shape="rect" id="node4" href="$classQuantConnect_1_1Securities_1_1SecurityPortfolioManager.html#acac8f78a9d4193124aa4b735832fa1f6" title="Set the account currency cash this algorithm is to manage." alt="" coords="648,45,891,87"/>
+<area shape="rect" id="node6" href="$classQuantConnect_1_1Logging_1_1Log.html#a4e55477fbc790846b74550a57198cea9" title="Log trace" alt="" coords="669,111,869,152"/>
+<area shape="rect" id="node5" href="$classQuantConnect_1_1Securities_1_1Cash.html#a10f484f2c0fa7902c2c1db937a929978" title="Sets the Quantity to the specified amount" alt="" coords="945,45,1132,87"/>
+<area shape="rect" id="node7" href="$interfaceQuantConnect_1_1Logging_1_1ILogHandler.html#a3fb71a33ac66129240b63f12b6fcda3b" title="Write debug message to log" alt="" coords="939,111,1139,152"/>
+</map>

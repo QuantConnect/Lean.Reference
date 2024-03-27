@@ -1,0 +1,5 @@
+<map id="QuantConnect.Data.UniverseSelection.Universe.Dispose" name="QuantConnect.Data.UniverseSelection.Universe.Dispose">
+<area shape="rect" id="node1" title="Marks this universe as disposed and ready to remove all child subscriptions" alt="" coords="343,50,553,91"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Algorithm_1_1Framework_1_1Selection_1_1UniverseSelectionModelPythonWrapper.html#a170e7fe0a305e2d06862aa6e86f85237" title="Creates the universes for this algorithm. Called once after IAlgorithm.Initialize" alt="" coords="5,5,295,61"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Securities_1_1UniverseManager.html#ad9d1fe2912aeb322bb2c74c54af1156f" title="Removes the element with the specified key from the T:System.Collections.Generic.IDictionary`2." alt="" coords="53,86,247,127"/>
+</map>

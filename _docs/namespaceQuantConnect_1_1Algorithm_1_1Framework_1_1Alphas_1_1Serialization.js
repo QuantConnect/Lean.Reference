@@ -1,0 +1,5 @@
+var namespaceQuantConnect_1_1Algorithm_1_1Framework_1_1Alphas_1_1Serialization =
+[
+    [ "InsightJsonConverter", "classQuantConnect_1_1Algorithm_1_1Framework_1_1Alphas_1_1Serialization_1_1InsightJsonConverter.html", "classQuantConnect_1_1Algorithm_1_1Framework_1_1Alphas_1_1Serialization_1_1InsightJsonConverter" ],
+    [ "SerializedInsight", "classQuantConnect_1_1Algorithm_1_1Framework_1_1Alphas_1_1Serialization_1_1SerializedInsight.html", "classQuantConnect_1_1Algorithm_1_1Framework_1_1Alphas_1_1Serialization_1_1SerializedInsight" ]
+];

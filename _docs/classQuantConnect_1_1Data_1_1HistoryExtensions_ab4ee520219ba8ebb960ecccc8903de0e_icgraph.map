@@ -1,0 +1,5 @@
+<map id="QuantConnect.Data.HistoryExtensions.TryGetBrokerageName" name="QuantConnect.Data.HistoryExtensions.TryGetBrokerageName">
+<area shape="rect" id="node1" title="Helper method to get the brokerage name" alt="" coords="291,50,535,91"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Lean_1_1Engine_1_1HistoricalData_1_1HistoryProviderManager.html#a8a9a7a7c37fb03207bcee5283fe4301a" title="Initializes this history provider to work for the specified job" alt="" coords="14,5,234,61"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Queues_1_1JobQueue.html#a3e74770d498b6609702b5850479002ee" title="Desktop/Local Get Next Task &#45; Get task from the Algorithm folder of VS Solution." alt="" coords="5,86,243,127"/>
+</map>

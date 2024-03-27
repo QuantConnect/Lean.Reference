@@ -1,0 +1,6 @@
+<map id="QuantConnect.Algorithm.Framework.Selection.IUniverseSelectionModel.CreateUniverses" name="QuantConnect.Algorithm.Framework.Selection.IUniverseSelectionModel.CreateUniverses">
+<area shape="rect" id="node1" title="Creates the universes for this algorithm. Called once after IAlgorithm.Initialize" alt="" coords="648,31,943,87"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Algorithm_1_1QCAlgorithm.html#a975ad7e9fe2cf71b44d700d56305d0d4" title="Called by setup handlers after Initialize and allows the algorithm a chance to organize the data gath..." alt="" coords="327,5,600,47"/>
+<area shape="rect" id="node4" href="$classQuantConnect_1_1Algorithm_1_1QCAlgorithm.html#a2522d3da5e22e9da677d3be34717f70a" title="Used to send data updates to algorithm framework models" alt="" coords="327,71,600,112"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Algorithm_1_1QCAlgorithm.html#ad8a5d8d6d6fd62a8a3962f0649567804" title="Called by setup handlers after Initialize and allows the algorithm a chance to organize the data gath..." alt="" coords="5,5,279,47"/>
+</map>

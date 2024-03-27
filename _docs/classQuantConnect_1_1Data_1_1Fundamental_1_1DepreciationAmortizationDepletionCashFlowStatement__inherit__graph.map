@@ -1,0 +1,5 @@
+<map id="QuantConnect.Data.Fundamental.DepreciationAmortizationDepletionCashFlowStatement" name="QuantConnect.Data.Fundamental.DepreciationAmortizationDepletionCashFlowStatement">
+<area shape="rect" id="node1" title="It is a non cash charge that represents a reduction in the value of fixed assets due to wear,..." alt="" coords="5,155,257,211"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Data_1_1Fundamental_1_1MultiPeriodField.html" title="Abstract base class for multi&#45;period fields" alt="" coords="68,80,195,107"/>
+<area shape="rect" id="node3" title=" " alt="" coords="53,5,210,32"/>
+</map>

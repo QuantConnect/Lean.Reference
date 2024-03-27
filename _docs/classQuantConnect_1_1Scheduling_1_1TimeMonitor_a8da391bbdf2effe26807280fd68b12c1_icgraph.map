@@ -1,0 +1,4 @@
+<map id="QuantConnect.Scheduling.TimeMonitor.RemoveAll" name="QuantConnect.Scheduling.TimeMonitor.RemoveAll">
+<area shape="rect" id="node1" title="Remove all TimeConsumer objects where the Finished field is marked as true" alt="" coords="247,5,440,47"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Scheduling_1_1TimeMonitor.html#a4b1e73743eb0a2739a90f74ef21df533" title="Creates a new instance" alt="" coords="5,5,199,47"/>
+</map>

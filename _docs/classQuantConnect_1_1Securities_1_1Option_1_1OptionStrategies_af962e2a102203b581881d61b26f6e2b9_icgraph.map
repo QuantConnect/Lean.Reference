@@ -1,0 +1,4 @@
+<map id="QuantConnect.Securities.Option.OptionStrategies.CoveredCall" name="QuantConnect.Securities.Option.OptionStrategies.CoveredCall">
+<area shape="rect" id="node1" title="Creates a Covered Call strategy that consists of selling one call contract and buying 1 lot of the un..." alt="" coords="327,5,588,47"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Securities_1_1Option_1_1OptionStrategies.html#a0dfe6e7e551f8bc5fc9b0a5025d0512b" title="Creates a Protective Call strategy that consists of buying one call contract and selling 1 lot of the..." alt="" coords="5,5,279,47"/>
+</map>

@@ -1,0 +1,8 @@
+<map id="QuantConnect.Indicators.MovingAverageConvergenceDivergence" name="QuantConnect.Indicators.MovingAverageConvergenceDivergence">
+<area shape="rect" id="node1" title="This indicator creates two moving averages defined on a base indicator and produces the difference be..." alt="" coords="46,169,329,211"/>
+<area shape="rect" id="node5" href="$classQuantConnect_1_1Indicators_1_1AbsolutePriceOscillator.html" title="This indicator computes the Absolute Price Oscillator (APO) The Absolute Price Oscillator is calculat..." alt="" coords="94,259,281,300"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Indicators_1_1Indicator.html" title="Represents a type capable of ingesting a piece of data and producing a new piece of data...." alt="" coords="57,95,136,121"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Indicators_1_1IndicatorBase.html" title=" " alt="" coords="5,5,188,47"/>
+<area shape="rect" id="node4" href="$interfaceQuantConnect_1_1Indicators_1_1IIndicatorWarmUpPeriodProvider.html" title="Represents an indicator with a warm up period provider." alt="" coords="161,95,395,121"/>
+<area shape="rect" id="node6" href="$classQuantConnect_1_1Indicators_1_1PercentagePriceOscillator.html" title="This indicator computes the Percentage Price Oscillator (PPO) The Percentage Price Oscillator is calc..." alt="" coords="93,348,282,389"/>
+</map>

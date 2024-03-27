@@ -1,0 +1,4 @@
+<map id="QuantConnect.Lean.Engine.Storage.LocalObjectStore.SaveBytes" name="QuantConnect.Lean.Engine.Storage.LocalObjectStore.SaveBytes">
+<area shape="rect" id="node1" title="Saves the object data for the specified path" alt="" coords="317,5,576,47"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Lean_1_1Engine_1_1Storage_1_1LocalObjectStore.html#ad1b6b2c77674a74df56288750a0450ec" title="Returns the file path for the specified path" alt="" coords="5,5,269,47"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="QuantConnect.Data.SubscriptionManager.AddConsolidator" name="QuantConnect.Data.SubscriptionManager.AddConsolidator">
+<area shape="rect" id="node1" title="Add a consolidator for the symbol" alt="" coords="287,5,520,47"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Data_1_1SubscriptionManager.html#aa2034d1091ab4ad767a309464627d8fc" title="Add a custom python consolidator for the symbol" alt="" coords="5,5,239,47"/>
+</map>

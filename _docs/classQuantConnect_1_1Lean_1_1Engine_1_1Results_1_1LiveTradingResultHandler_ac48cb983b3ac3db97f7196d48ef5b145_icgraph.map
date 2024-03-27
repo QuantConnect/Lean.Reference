@@ -1,0 +1,4 @@
+<map id="QuantConnect.Lean.Engine.Results.LiveTradingResultHandler.AlgorithmNameUpdated" name="QuantConnect.Lean.Engine.Results.LiveTradingResultHandler.AlgorithmNameUpdated">
+<area shape="rect" id="node1" title="Handles updates to the algorithm&#39;s name" alt="" coords="296,5,539,61"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Lean_1_1Engine_1_1Results_1_1LiveTradingResultHandler.html#afc6bdfeeb94a6a5f8dbebd730153d16e" title="Set the algorithm of the result handler after its been initialized." alt="" coords="5,5,248,61"/>
+</map>

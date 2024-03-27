@@ -1,0 +1,11 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$classQuantConnect_1_1Securities_1_1SecurityHolding.html" title="SecurityHolding is a base class for purchasing and holding a market item which manages the asset port..." alt="" coords="5,235,192,276"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Securities_1_1Cfd_1_1CfdHolding.html" title="CFD holdings implementation of the base securities class" alt="" coords="269,5,455,47"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Securities_1_1Crypto_1_1CryptoHolding.html" title="Crypto holdings implementation of the base securities class" alt="" coords="269,71,455,112"/>
+<area shape="rect" id="node4" href="$classQuantConnect_1_1Securities_1_1CryptoFuture_1_1CryptoFutureHolding.html" title="Crypto Future holdings implementation of the base securities class" alt="" coords="240,136,484,177"/>
+<area shape="rect" id="node5" href="$classQuantConnect_1_1Securities_1_1Equity_1_1EquityHolding.html" title="Holdings class for equities securities: no specific properties here but it is a placeholder for futur..." alt="" coords="269,201,455,243"/>
+<area shape="rect" id="node6" href="$classQuantConnect_1_1Securities_1_1Forex_1_1ForexHolding.html" title="FOREX holdings implementation of the base securities class" alt="" coords="269,267,455,308"/>
+<area shape="rect" id="node7" href="$classQuantConnect_1_1Securities_1_1Future_1_1FutureHolding.html" title="Future holdings implementation of the base securities class" alt="" coords="269,332,455,373"/>
+<area shape="rect" id="node8" href="$classQuantConnect_1_1Securities_1_1Index_1_1IndexHolding.html" title="Index holdings implementation of the base securities class" alt="" coords="269,397,455,439"/>
+<area shape="rect" id="node9" href="$classQuantConnect_1_1Securities_1_1Option_1_1OptionHolding.html" title="Option holdings implementation of the base securities class" alt="" coords="269,463,455,504"/>
+</map>

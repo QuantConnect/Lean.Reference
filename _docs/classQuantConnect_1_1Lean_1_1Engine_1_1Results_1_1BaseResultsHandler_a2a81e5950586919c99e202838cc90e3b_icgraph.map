@@ -1,0 +1,4 @@
+<map id="QuantConnect.Lean.Engine.Results.BaseResultsHandler.SaveLogs" name="QuantConnect.Lean.Engine.Results.BaseResultsHandler.SaveLogs">
+<area shape="rect" id="node1" title="Returns the location of the logs" alt="" coords="324,5,595,47"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Lean_1_1Engine_1_1Results_1_1BacktestingResultHandler.html#a9e84a017be2f946f4c63bfab39c3a4a1" title="Terminate the result thread and apply any required exit procedures like sending final results." alt="" coords="5,5,276,47"/>
+</map>

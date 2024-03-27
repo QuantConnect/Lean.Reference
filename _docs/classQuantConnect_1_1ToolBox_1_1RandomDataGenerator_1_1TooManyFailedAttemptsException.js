@@ -1,0 +1,4 @@
+var classQuantConnect_1_1ToolBox_1_1RandomDataGenerator_1_1TooManyFailedAttemptsException =
+[
+    [ "TooManyFailedAttemptsException", "classQuantConnect_1_1ToolBox_1_1RandomDataGenerator_1_1TooManyFailedAttemptsException.html#acc3a072f67252fe4106f0ff1cdd48e7d", null ]
+];

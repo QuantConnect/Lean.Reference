@@ -1,0 +1,6 @@
+<map id="QuantConnect.Algorithm.QCAlgorithm.Θ" name="QuantConnect.Algorithm.QCAlgorithm.Θ">
+<area shape="rect" id="node1" title="Creates a new Theta indicator for the symbol The indicator will be automatically updated on the symbo..." alt="" coords="5,42,288,69"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Algorithm_1_1QCAlgorithm.html#a900ae9f4fc865c9a8f9fdfa39a0c6a62" title="Creates a new Theta indicator for the symbol The indicator will be automatically updated on the symbo..." alt="" coords="336,42,617,69"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Algorithm_1_1QCAlgorithm.html#a918f318ce76cdc3ed9efad235ff7481e" title="Creates and registers a new consolidator to receive automatic updates at the specified resolution as ..." alt="" coords="665,5,939,47"/>
+<area shape="rect" id="node4" href="$classQuantConnect_1_1Algorithm_1_1QCAlgorithm.html#ade17e71e20d320dc9a1efa3ddf8aa3cd" title="Gets the default consolidator for the specified symbol and resolution" alt="" coords="987,35,1260,76"/>
+</map>

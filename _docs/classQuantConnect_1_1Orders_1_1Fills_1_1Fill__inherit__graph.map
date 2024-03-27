@@ -1,0 +1,4 @@
+<map id="QuantConnect.Orders.Fills.Fill" name="QuantConnect.Orders.Fills.Fill">
+<area shape="rect" id="node1" title="Defines a possible result for IFillModel.Fill for a single order" alt="" coords="5,80,220,107"/>
+<area shape="rect" id="node2" title=" " alt="" coords="9,5,216,32"/>
+</map>

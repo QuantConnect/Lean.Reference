@@ -1,0 +1,5 @@
+<map id="QuantConnect.Data.Fundamental.OtherLoansNonCurrentBalanceSheet" name="QuantConnect.Data.Fundamental.OtherLoansNonCurrentBalanceSheet">
+<area shape="rect" id="node1" title="Other loans between the customer and bank which cannot be identified by other specific items in the D..." alt="" coords="5,155,264,196"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Data_1_1Fundamental_1_1MultiPeriodField.html" title="Abstract base class for multi&#45;period fields" alt="" coords="71,80,198,107"/>
+<area shape="rect" id="node3" title=" " alt="" coords="56,5,213,32"/>
+</map>

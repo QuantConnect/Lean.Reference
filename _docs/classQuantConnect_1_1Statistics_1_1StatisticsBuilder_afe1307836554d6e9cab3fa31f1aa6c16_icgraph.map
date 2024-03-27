@@ -1,0 +1,4 @@
+<map id="QuantConnect.Statistics.StatisticsBuilder.PreprocessPerformanceValues" name="QuantConnect.Statistics.StatisticsBuilder.PreprocessPerformanceValues">
+<area shape="rect" id="node1" title="Skips the first two entries from the given points and divides each entry by 100" alt="" coords="297,5,500,61"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Report_1_1Rolling.html#a6b01cfb7a2f6ebcf09da192a925f1247" title="Calculate the rolling beta with the given window size (in days)" alt="" coords="5,20,249,47"/>
+</map>

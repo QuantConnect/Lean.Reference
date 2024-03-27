@@ -1,0 +1,5 @@
+<map id="QuantConnect.Securities.UniverseManager.ContainsKey" name="QuantConnect.Securities.UniverseManager.ContainsKey">
+<area shape="rect" id="node1" title="Determines whether the T:System.Collections.Generic.IDictionary`2 contains an element with the specif..." alt="" coords="327,39,548,80"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Algorithm_1_1QCAlgorithm.html#afcdaf47586751fe6105f43d044b7cf70" title="Set a required SecurityType&#45;symbol and resolution for algorithm" alt="" coords="5,5,279,47"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Securities_1_1UniverseManager.html#a28c3435e2db047a515f3dda77087b932" title="Determines whether the T:System.Collections.Generic.ICollection`1 contains a specific value." alt="" coords="43,71,241,112"/>
+</map>

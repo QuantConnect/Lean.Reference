@@ -1,0 +1,5 @@
+<map id="QuantConnect.Configuration.Config.GetDouble" name="QuantConnect.Configuration.Config.GetDouble">
+<area shape="rect" id="node1" title="Get the double value of a config string." alt="" coords="320,43,529,84"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Lean_1_1Engine_1_1AlgorithmManager.html#ae19e9e4fecad2642c26aaf1ed3d9635f" title="Initializes a new instance of the AlgorithmManager class" alt="" coords="5,5,272,47"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Lean_1_1Engine_1_1DataFeeds_1_1ZipDataCacheProvider.html#a4eabc034bb5c50446a899e449b827e7a" title="Constructor that sets the IDataProvider used to retrieve data" alt="" coords="17,71,261,127"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="QuantConnect.Optimizer.LeanOptimizer.Start" name="QuantConnect.Optimizer.LeanOptimizer.Start">
+<area shape="rect" id="node1" title="Starts the optimization" alt="" coords="5,71,221,112"/>
+<area shape="rect" id="node2" href="$interfaceQuantConnect_1_1Optimizer_1_1Strategies_1_1IOptimizationStrategy.html#a6b6ab4de2703e1a30e680c8bdefe3d5f" title="Callback when lean compute job completed." alt="" coords="269,5,544,47"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Optimizer_1_1LeanOptimizer.html#a83cee6f3b7bdafe24a0013cdaf6dd012" title="Sets the current optimization status" alt="" coords="289,71,524,112"/>
+<area shape="rect" id="node4" href="$classQuantConnect_1_1Logging_1_1Log.html#a4e55477fbc790846b74550a57198cea9" title="Log trace" alt="" coords="307,136,507,177"/>
+<area shape="rect" id="node5" href="$interfaceQuantConnect_1_1Logging_1_1ILogHandler.html#a3fb71a33ac66129240b63f12b6fcda3b" title="Write debug message to log" alt="" coords="592,136,792,177"/>
+</map>

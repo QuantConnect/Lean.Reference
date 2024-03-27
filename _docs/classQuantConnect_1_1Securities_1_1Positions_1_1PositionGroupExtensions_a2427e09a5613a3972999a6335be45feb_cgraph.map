@@ -1,0 +1,4 @@
+<map id="QuantConnect.Securities.Positions.PositionGroupExtensions.Closes" name="QuantConnect.Securities.Positions.PositionGroupExtensions.Closes">
+<area shape="rect" id="node1" title="Checks whether the provided groups are closing/reducing each other, that is, each of their positions ..." alt="" coords="5,5,256,61"/>
+<area shape="rect" id="node2" href="$interfaceQuantConnect_1_1Securities_1_1Positions_1_1IPositionGroup.html#ad9017a719a59c1315d9fcc79b1907fc1" title="Attempts to retrieve the position with the specified symbol" alt="" coords="304,5,507,61"/>
+</map>

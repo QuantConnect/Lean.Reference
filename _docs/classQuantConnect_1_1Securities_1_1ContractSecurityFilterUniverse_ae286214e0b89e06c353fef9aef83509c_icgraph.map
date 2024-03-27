@@ -1,0 +1,4 @@
+<map id="QuantConnect.Securities.ContractSecurityFilterUniverse.Expiration" name="QuantConnect.Securities.ContractSecurityFilterUniverse.Expiration">
+<area shape="rect" id="node1" title="Applies filter selecting options contracts based on a range of expiration dates relative to the curre..." alt="" coords="312,5,537,61"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Securities_1_1ContractSecurityFilterUniverse.html#ab9807422d2fe370419a92ed17f60cc94" title="Applies filter selecting contracts based on a range of expiration dates relative to the current day" alt="" coords="5,5,264,61"/>
+</map>

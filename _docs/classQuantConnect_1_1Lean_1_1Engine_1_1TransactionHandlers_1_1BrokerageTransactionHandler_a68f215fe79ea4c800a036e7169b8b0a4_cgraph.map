@@ -1,0 +1,14 @@
+<map id="QuantConnect.Lean.Engine.TransactionHandlers.BrokerageTransactionHandler.AddOrder" name="QuantConnect.Lean.Engine.TransactionHandlers.BrokerageTransactionHandler.AddOrder">
+<area shape="rect" id="node1" title="Add an order to collection and return the unique order id or negative if an error." alt="" coords="5,246,304,302"/>
+<area shape="rect" id="node2" href="$interfaceQuantConnect_1_1Interfaces_1_1IBusyCollection.html#aac99900d75deacec4ccabb0c7f570c27" title="Adds the items to this collection" alt="" coords="408,5,595,47"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Orders_1_1Order.html#afbc537575c31e60fcda07aba2e1368e9" title="Creates an Order to match the specified request" alt="" coords="399,71,603,112"/>
+<area shape="rect" id="node4" href="$interfaceQuantConnect_1_1Interfaces_1_1IAlgorithm.html#a63cc959667fa0f4dfd13048a9b7dac94" title="Send debug message" alt="" coords="408,136,595,177"/>
+<area shape="rect" id="node5" href="$classQuantConnect_1_1Orders_1_1OrderResponse.html#a14ded2753785926becc5e7f8e5a02a09" title="Helper method to create an error response from a request" alt="" coords="699,323,900,364"/>
+<area shape="rect" id="node6" href="$classQuantConnect_1_1Orders_1_1OrderRequest.html#aed73f8f311c9224866211078cd6caef1" title="Sets the Response for this request" alt="" coords="401,253,602,295"/>
+<area shape="rect" id="node7" href="$interfaceQuantConnect_1_1Interfaces_1_1IAlgorithm.html#a78de707fdc6a880c5ebb8cbe46d82e55" title="Determines if the Symbol is shortable at the brokerage" alt="" coords="408,319,595,360"/>
+<area shape="rect" id="node8" href="$classQuantConnect_1_1Orders_1_1OrderResponse.html#a1d69bcc60eb408bfe45cf6a5f628c721" title="Helper method to create a successful response from a request" alt="" coords="401,384,602,425"/>
+<area shape="rect" id="node9" href="$classQuantConnect_1_1Lean_1_1Engine_1_1TransactionHandlers_1_1BrokerageTransactionHandler.html#a478c44320a2153a038ab09f2514ed5b7" title="Wait for the order to be handled by the _processingThread" alt="" coords="352,515,651,571"/>
+<area shape="rect" id="node12" href="$classQuantConnect_1_1Orders_1_1OrderResponse.html#af8bdc5b0fd7d8e5929a659099d1d939f" title="Helper method to create an error response due to algorithm still in warmup mode" alt="" coords="401,449,602,491"/>
+<area shape="rect" id="node10" href="$classQuantConnect_1_1Logging_1_1Log.html#af0e7955911bc7664b37661b2a303a9e3" title="Log error" alt="" coords="699,523,899,564"/>
+<area shape="rect" id="node11" href="$interfaceQuantConnect_1_1Logging_1_1ILogHandler.html#a35373a0c5d76031fa5ccf5dc39e5c25d" title="Write error message to log" alt="" coords="948,523,1148,564"/>
+</map>

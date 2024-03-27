@@ -1,0 +1,4 @@
+<map id="QuantConnect.Util.PythonUtil.PythonExceptionStackParser" name="QuantConnect.Util.PythonUtil.PythonExceptionStackParser">
+<area shape="rect" id="node1" title="Parsers PythonException.StackTrace into a readable message" alt="" coords="5,5,240,47"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Extensions.html#a2051e38b3bbf00a8c6fdd3ca5b401b9d" title="Helper method to clear undesired paths from stack traces" alt="" coords="288,5,481,47"/>
+</map>

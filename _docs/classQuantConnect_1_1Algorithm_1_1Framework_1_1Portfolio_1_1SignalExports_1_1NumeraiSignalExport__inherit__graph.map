@@ -1,0 +1,6 @@
+<map id="QuantConnect.Algorithm.Framework.Portfolio.SignalExports.NumeraiSignalExport" name="QuantConnect.Algorithm.Framework.Portfolio.SignalExports.NumeraiSignalExport">
+<area shape="rect" id="node1" title="Exports signals of the desired positions to Numerai API. Accepts signals in percentage i...." alt="" coords="5,229,317,271"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Algorithm_1_1Framework_1_1Portfolio_1_1SignalExports_1_1BaseSignalExport.html" title="Base class to send signals to different 3rd party API&#39;s" alt="" coords="93,155,229,181"/>
+<area shape="rect" id="node3" href="$interfaceQuantConnect_1_1Interfaces_1_1ISignalExportTarget.html" title="Interface to send positions holdings to different 3rd party API&#39;s" alt="" coords="87,80,235,107"/>
+<area shape="rect" id="node4" title=" " alt="" coords="112,5,211,32"/>
+</map>

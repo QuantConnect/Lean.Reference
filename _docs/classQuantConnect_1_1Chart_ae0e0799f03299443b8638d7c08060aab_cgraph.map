@@ -1,0 +1,5 @@
+<map id="QuantConnect.Chart.Clone" name="QuantConnect.Chart.Clone">
+<area shape="rect" id="node1" title="Return a new instance clone of this object" alt="" coords="5,13,200,39"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Chart.html#a09a7ec253a93c5ed26a8bea179aa682e" title="Return a new empty instance clone of this object" alt="" coords="248,5,443,47"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Chart.html#a4c472ccda43f4b353177a5703553d734" title="Default constructor for chart:" alt="" coords="491,13,683,39"/>
+</map>

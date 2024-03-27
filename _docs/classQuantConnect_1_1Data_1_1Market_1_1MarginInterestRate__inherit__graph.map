@@ -1,0 +1,5 @@
+<map id="QuantConnect.Data.Market.MarginInterestRate" name="QuantConnect.Data.Market.MarginInterestRate">
+<area shape="rect" id="node1" title="Margin interest rate data source" alt="" coords="5,155,208,196"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Data_1_1BaseData.html" title="Abstract base data class of QuantConnect. It is intended to be extended to define generic user custom..." alt="" coords="64,80,149,107"/>
+<area shape="rect" id="node3" href="$interfaceQuantConnect_1_1Data_1_1IBaseData.html" title="Base Data Class: Type, Timestamp, Key – Base Features." alt="" coords="62,5,151,32"/>
+</map>

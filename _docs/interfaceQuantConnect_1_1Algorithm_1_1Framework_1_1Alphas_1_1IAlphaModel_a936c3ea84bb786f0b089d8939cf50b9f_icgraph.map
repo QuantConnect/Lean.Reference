@@ -1,0 +1,4 @@
+<map id="QuantConnect.Algorithm.Framework.Alphas.IAlphaModel.Update" name="QuantConnect.Algorithm.Framework.Alphas.IAlphaModel.Update">
+<area shape="rect" id="node1" title="Updates this alpha model with the latest data from the algorithm. This is called each time the algori..." alt="" coords="327,5,589,47"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Algorithm_1_1QCAlgorithm.html#a2522d3da5e22e9da677d3be34717f70a" title="Used to send data updates to algorithm framework models" alt="" coords="5,5,279,47"/>
+</map>

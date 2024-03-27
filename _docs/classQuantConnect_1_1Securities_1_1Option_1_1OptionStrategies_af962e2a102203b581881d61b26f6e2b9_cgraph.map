@@ -1,0 +1,7 @@
+<map id="QuantConnect.Securities.Option.OptionStrategies.CoveredCall" name="QuantConnect.Securities.Option.OptionStrategies.CoveredCall">
+<area shape="rect" id="node1" title="Creates a Covered Call strategy that consists of selling one call contract and buying 1 lot of the un..." alt="" coords="5,50,267,91"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Securities_1_1SymbolPropertiesDatabase.html#a3ea48557a7a885c2c53529f8c4b75598" title="Gets the symbol properties for the specified market/symbol/security&#45;type" alt="" coords="315,43,541,99"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Securities_1_1MarketHoursDatabase.html#aa717adb9bb04be931913608ffd5a2733" title="Gets the correct string symbol to use as a database key" alt="" coords="589,5,845,61"/>
+<area shape="rect" id="node4" href="$classQuantConnect_1_1Securities_1_1SymbolProperties.html#ad148190d1dfce7109d38d3107b7b8fbf" title="Gets a default instance of the SymbolProperties class for the specified quoteCurrency" alt="" coords="611,86,823,127"/>
+<area shape="rect" id="node5" href="$classQuantConnect_1_1Securities_1_1SymbolProperties.html#a0f421617bcddd5b08a830689b1e2dcfa" title="Creates an instance of the SymbolProperties class" alt="" coords="893,86,1149,127"/>
+</map>

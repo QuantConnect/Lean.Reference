@@ -1,0 +1,4 @@
+<map id="QuantConnect.Securities.FutureOption.FutureOptionSymbol.IsStandard" name="QuantConnect.Securities.FutureOption.FutureOptionSymbol.IsStandard">
+<area shape="rect" id="node1" title="Detects if the future option contract is standard, i.e. not weekly, not short&#45;term,..." alt="" coords="283,5,529,61"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Securities_1_1OptionFilterUniverse.html#a954c7f72326b4a248dd5a8be194cc971" title="Determine if the given Option contract symbol is standard" alt="" coords="5,13,235,54"/>
+</map>

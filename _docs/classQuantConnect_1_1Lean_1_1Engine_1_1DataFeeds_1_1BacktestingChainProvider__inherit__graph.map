@@ -1,0 +1,7 @@
+<map id="QuantConnect.Lean.Engine.DataFeeds.BacktestingChainProvider" name="QuantConnect.Lean.Engine.DataFeeds.BacktestingChainProvider">
+<area shape="rect" id="node1" title="Base backtesting cache provider which will source symbols from local zip files" alt="" coords="5,53,268,94"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Lean_1_1Engine_1_1DataFeeds_1_1BacktestingFutureChainProvider.html" title="An implementation of IFutureChainProvider that reads the list of contracts from open interest zip dat..." alt="" coords="317,5,567,61"/>
+<area shape="rect" id="node4" href="$classQuantConnect_1_1Lean_1_1Engine_1_1DataFeeds_1_1BacktestingOptionChainProvider.html" title="An implementation of IOptionChainProvider that reads the list of contracts from open interest zip dat..." alt="" coords="316,85,568,141"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Lean_1_1Engine_1_1DataFeeds_1_1LiveFutureChainProvider.html" title="An implementation of IFutureChainProvider that fetches the list of contracts from an external source" alt="" coords="617,13,871,54"/>
+<area shape="rect" id="node5" href="$classQuantConnect_1_1Lean_1_1Engine_1_1DataFeeds_1_1LiveOptionChainProvider.html" title="An implementation of IOptionChainProvider that fetches the list of contracts from the Options Clearin..." alt="" coords="616,93,872,134"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="QuantConnect.Securities.Positions.PositionGroupBuyingPowerModel.GetPositionGroupOrderQuantity" name="QuantConnect.Securities.Positions.PositionGroupBuyingPowerModel.GetPositionGroupOrderQuantity">
+<area shape="rect" id="node1" title="Helper method that determines the amount to order to get to a given target safely...." alt="" coords="5,5,317,61"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Securities_1_1Positions_1_1PositionGroupBuyingPowerModel.html#a9d3b06b5a2fbdfcd174be1292eade9d3" title="Checks if the margin difference is not growing in final margin calculation, just making sure we don&#39;t..." alt="" coords="365,5,593,61"/>
+</map>

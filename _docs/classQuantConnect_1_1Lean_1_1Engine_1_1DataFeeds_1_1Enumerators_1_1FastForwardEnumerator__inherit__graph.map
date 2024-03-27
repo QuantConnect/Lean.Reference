@@ -1,0 +1,4 @@
+<map id="QuantConnect.Lean.Engine.DataFeeds.Enumerators.FastForwardEnumerator" name="QuantConnect.Lean.Engine.DataFeeds.Enumerators.FastForwardEnumerator">
+<area shape="rect" id="node1" title="Provides the ability to fast forward an enumerator based on the age of the data" alt="" coords="5,80,265,136"/>
+<area shape="rect" id="node2" title=" " alt="" coords="38,5,233,32"/>
+</map>

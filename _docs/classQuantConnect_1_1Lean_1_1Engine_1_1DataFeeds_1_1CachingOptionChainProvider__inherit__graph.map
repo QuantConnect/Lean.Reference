@@ -1,0 +1,4 @@
+<map id="QuantConnect.Lean.Engine.DataFeeds.CachingOptionChainProvider" name="QuantConnect.Lean.Engine.DataFeeds.CachingOptionChainProvider">
+<area shape="rect" id="node1" title="An implementation of IOptionChainProvider that will cache by date option contracts returned by anothe..." alt="" coords="5,80,287,121"/>
+<area shape="rect" id="node2" href="$interfaceQuantConnect_1_1Interfaces_1_1IOptionChainProvider.html" title="Provides the full option chain for a given underlying." alt="" coords="66,5,226,32"/>
+</map>

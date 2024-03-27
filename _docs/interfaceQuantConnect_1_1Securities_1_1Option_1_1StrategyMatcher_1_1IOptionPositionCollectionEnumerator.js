@@ -1,0 +1,4 @@
+var interfaceQuantConnect_1_1Securities_1_1Option_1_1StrategyMatcher_1_1IOptionPositionCollectionEnumerator =
+[
+    [ "Enumerate", "interfaceQuantConnect_1_1Securities_1_1Option_1_1StrategyMatcher_1_1IOptionPositionCollectionEnumerator.html#a37784b979f303ca119c32d2e82aae1bd", null ]
+];

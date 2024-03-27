@@ -1,0 +1,5 @@
+<map id="QuantConnect.Securities.SecurityTransactionManager.GetOpenOrdersRemainingQuantity" name="QuantConnect.Securities.SecurityTransactionManager.GetOpenOrdersRemainingQuantity">
+<area shape="rect" id="node1" title="Gets the remaining quantity to be filled from open orders, i.e. order size minus quantity filled" alt="" coords="327,43,559,99"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Securities_1_1SecurityTransactionManager.html#add1fcd6928cc5f66062c78047e4b450e" title="Gets the remaining quantity to be filled from open orders, i.e. order size minus quantity filled Howe..." alt="" coords="26,5,258,61"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Algorithm_1_1QCAlgorithm.html#afc2f87e38a8f7df663e70a183fbc962b" title="Determines if the Symbol is shortable at the brokerage" alt="" coords="5,86,279,127"/>
+</map>

@@ -1,0 +1,8 @@
+<map id="QuantConnect.Data.UniverseSelection.UniverseExtensions.CreateSymbol" name="QuantConnect.Data.UniverseSelection.UniverseExtensions.CreateSymbol">
+<area shape="rect" id="node1" title="Creates a universe symbol" alt="" coords="972,45,1235,101"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Data_1_1UniverseSelection_1_1UserDefinedUniverse.html#a01832be48526eadb0f89ad702892e62c" title="Creates a user defined universe symbol" alt="" coords="672,5,900,61"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Data_1_1UniverseSelection_1_1ContinuousContractUniverse.html#a8936fedb0ce5c206ac4bb0751c449552" title="Creates a continuous universe symbol" alt="" coords="648,85,924,141"/>
+<area shape="rect" id="node4" href="$classQuantConnect_1_1Algorithm_1_1QCAlgorithm.html#afcdaf47586751fe6105f43d044b7cf70" title="Set a required SecurityType&#45;symbol and resolution for algorithm" alt="" coords="327,59,600,101"/>
+<area shape="rect" id="node5" href="$classQuantConnect_1_1Algorithm_1_1QCAlgorithm.html#a6ece1896dff33aafccfb1707a83a77c3" title="Removes the security with the specified symbol. This will cancel all open orders and then liquidate a..." alt="" coords="327,125,600,166"/>
+<area shape="rect" id="node6" href="$classQuantConnect_1_1Algorithm_1_1QCAlgorithm.html#aaa03fad6a4f4df5db3a0273d94df6436" title="Removes the security with the specified symbol. This will cancel all open orders and then liquidate a..." alt="" coords="5,125,279,166"/>
+</map>

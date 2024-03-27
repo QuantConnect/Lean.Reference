@@ -1,0 +1,7 @@
+<map id="QuantConnect.Lean.Engine.DataFeeds.Synchronizer.PostInitialize" name="QuantConnect.Lean.Engine.DataFeeds.Synchronizer.PostInitialize">
+<area shape="rect" id="node1" title="Performs additional initialization steps after algorithm initialization" alt="" coords="5,79,272,120"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Logging_1_1Log.html#ad908daef9d61532d7d60c9dcfb9a3e0c" title="Output to the console" alt="" coords="351,5,551,47"/>
+<area shape="rect" id="node4" href="$interfaceQuantConnect_1_1Lean_1_1Engine_1_1DataFeeds_1_1IDataFeedSubscriptionManager.html#a4493f7c8b00050ea6c53897497636cdf" title="Removes the Subscription, if it exists" alt="" coords="331,71,572,127"/>
+<area shape="rect" id="node5" href="$classQuantConnect_1_1Lean_1_1Engine_1_1DataFeeds_1_1SubscriptionSynchronizer.html#aa14e3b99d689c63cdb8071557f580cbb" title="Sets the TimeSliceFactory instance to use" alt="" coords="320,151,583,207"/>
+<area shape="rect" id="node3" href="$interfaceQuantConnect_1_1Logging_1_1ILogHandler.html#a2c738b8e78dd5b54244bc68b969ba91d" title="Write debug message to log" alt="" coords="631,5,831,47"/>
+</map>

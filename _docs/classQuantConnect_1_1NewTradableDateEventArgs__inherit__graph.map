@@ -1,0 +1,5 @@
+<map id="QuantConnect.NewTradableDateEventArgs" name="QuantConnect.NewTradableDateEventArgs">
+<area shape="rect" id="node1" title="Event arguments for the NewTradableDate event" alt="" coords="5,155,208,196"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1DataProviderEventArgs.html" title="Defines a base class for IDataProviderEvents" alt="" coords="20,80,193,107"/>
+<area shape="rect" id="node3" title=" " alt="" coords="63,5,151,32"/>
+</map>

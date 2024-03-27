@@ -1,0 +1,5 @@
+<map id="QuantConnect.Data.Fundamental.TotalAdjustmentsforNonCashItemsCashFlowStatement" name="QuantConnect.Data.Fundamental.TotalAdjustmentsforNonCashItemsCashFlowStatement">
+<area shape="rect" id="node1" title="Sum of all adjustments back from net income but without real cash outflow or inflow." alt="" coords="5,155,285,211"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Data_1_1Fundamental_1_1MultiPeriodField.html" title="Abstract base class for multi&#45;period fields" alt="" coords="82,80,209,107"/>
+<area shape="rect" id="node3" title=" " alt="" coords="67,5,224,32"/>
+</map>

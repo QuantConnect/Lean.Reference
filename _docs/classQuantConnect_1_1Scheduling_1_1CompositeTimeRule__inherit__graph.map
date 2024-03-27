@@ -1,0 +1,4 @@
+<map id="QuantConnect.Scheduling.CompositeTimeRule" name="QuantConnect.Scheduling.CompositeTimeRule">
+<area shape="rect" id="node1" title="Combines multiple time rules into a single rule that emits for each rule" alt="" coords="5,80,199,121"/>
+<area shape="rect" id="node2" href="$interfaceQuantConnect_1_1Scheduling_1_1ITimeRule.html" title="Specifies times times on dates for events, used in conjunction with IDateRule" alt="" coords="58,5,146,32"/>
+</map>

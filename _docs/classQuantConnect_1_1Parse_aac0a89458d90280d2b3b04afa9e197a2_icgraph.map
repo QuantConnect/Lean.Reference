@@ -1,0 +1,12 @@
+<map id="QuantConnect.Parse.Decimal" name="QuantConnect.Parse.Decimal">
+<area shape="rect" id="node1" title="Parses the provided value as a decimal using CultureInfo.InvariantCulture" alt="" coords="939,93,1149,120"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1SymbolRepresentation.html#a8390f7e01ea8cc7ca5d9c650c377d8b2" title="Parses the specified OSI options ticker into a Symbol object" alt="" coords="620,13,891,54"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Data_1_1UniverseSelection_1_1ETFConstituentUniverse.html#a40b220bec099d556460cebbebbf07e7a" title="Reader converts each line of the data source into BaseData objects. Each data type creates its own fa..." alt="" coords="632,79,879,135"/>
+<area shape="rect" id="node4" href="$classQuantConnect_1_1Util_1_1LeanData.html#a4b8de0cf279dc49a62d734fda97ed1ef" title="Creates a symbol from the specified zip entry name" alt="" coords="650,159,861,201"/>
+<area shape="rect" id="node5" href="$classQuantConnect_1_1Lean_1_1Engine_1_1DataFeeds_1_1BacktestingChainProvider.html#a903ec0b9ee074f1a7ee6d1eccc5f712b" title="Get the contract symbols associated with the given canonical symbol and date" alt="" coords="305,45,572,101"/>
+<area shape="rect" id="node8" href="$classQuantConnect_1_1ToolBox_1_1LeanDataReader.html#ac23439fd286135eaf5c3047bf52eb517" title="Initialize a instance of LeanDataReader from a path to a zipped data file. It also supports declaring..." alt="" coords="333,126,544,167"/>
+<area shape="rect" id="node9" href="$classQuantConnect_1_1ToolBox_1_1LeanDataReader.html#acfe04bd1df4b418f463dcb012488d725" title="Enumerate over the tick zip file and return a list of BaseData." alt="" coords="337,191,541,233"/>
+<area shape="rect" id="node10" href="$classQuantConnect_1_1Data_1_1Auxiliary_1_1ZipEntryName.html#a2769296f026067a4aeddada62fe38972" title="Reader converts each line of the data source into BaseData objects. Each data type creates its own fa..." alt="" coords="332,257,545,298"/>
+<area shape="rect" id="node6" href="$classQuantConnect_1_1Lean_1_1Engine_1_1DataFeeds_1_1BacktestingFutureChainProvider.html#ad95ac9ea6895b03fa51209aa7e9c2fb4" title="Gets the list of future contracts for a given underlying symbol" alt="" coords="6,5,257,61"/>
+<area shape="rect" id="node7" href="$classQuantConnect_1_1Lean_1_1Engine_1_1DataFeeds_1_1BacktestingOptionChainProvider.html#a5b140615fad8e3c0f8d08597a7ca1509" title="Gets the list of option contracts for a given underlying symbol" alt="" coords="5,85,257,141"/>
+</map>

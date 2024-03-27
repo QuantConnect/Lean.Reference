@@ -1,0 +1,4 @@
+<map id="QuantConnect.Algorithm.DollarVolumeUniverseDefinitions.Top" name="QuantConnect.Algorithm.DollarVolumeUniverseDefinitions.Top">
+<area shape="rect" id="node1" title="Creates a new coarse universe that contains the top count of stocks by daily dollar volume" alt="" coords="5,5,231,47"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Data_1_1UniverseSelection_1_1Universe.html#afb9f88414c860125682f6e9f136bef68" title="Initializes a new instance of the Universe class" alt="" coords="279,5,489,47"/>
+</map>

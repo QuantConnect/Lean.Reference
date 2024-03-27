@@ -1,0 +1,6 @@
+<map id="QuantConnect.Algorithm.QCAlgorithm.UnregisterIndicator" name="QuantConnect.Algorithm.QCAlgorithm.UnregisterIndicator">
+<area shape="rect" id="node1" title="Will unregister an indicator and it&#39;s associated consolidator instance so they stop receiving data up..." alt="" coords="5,13,279,54"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Algorithm_1_1QCAlgorithm.html#a01a9ba644d79fd55e6105c39dfd6159d" title="Will deregister an indicator and it&#39;s associated consolidator instance so they stop receiving data up..." alt="" coords="327,13,600,54"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Data_1_1SubscriptionManager.html#a3f2a45fe4d2836822427cbd67281f162" title="Removes the specified consolidator for the symbol" alt="" coords="648,13,881,54"/>
+<area shape="rect" id="node4" href="$interfaceQuantConnect_1_1Interfaces_1_1ISubscriptionDataConfigProvider.html#a29826b931901dd4e4b64515663a2073b" title="Gets a list of all registered SubscriptionDataConfig for a given Symbol if any else will return the w..." alt="" coords="929,5,1164,61"/>
+</map>

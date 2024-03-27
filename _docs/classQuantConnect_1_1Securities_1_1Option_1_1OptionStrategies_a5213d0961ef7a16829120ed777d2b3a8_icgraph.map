@@ -1,0 +1,5 @@
+<map id="QuantConnect.Securities.Option.OptionStrategies.CallButterfly" name="QuantConnect.Securities.Option.OptionStrategies.CallButterfly">
+<area shape="rect" id="node1" title="Method creates new Call Butterfly strategy, that consists of two short calls at a middle strike,..." alt="" coords="580,5,787,61"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Securities_1_1Option_1_1OptionStrategies.html#a29bbf35b5aa68d277b33c42458eb6056" title="Creates a new Butterfly Call strategy that consists of two short calls at a middle strike,..." alt="" coords="269,13,532,54"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Securities_1_1Option_1_1OptionStrategies.html#a094bb5f5bd249b3712ae33bd79d43519" title="Creates a new Butterfly Call strategy that consists of two long calls at a middle strike,..." alt="" coords="5,5,221,61"/>
+</map>

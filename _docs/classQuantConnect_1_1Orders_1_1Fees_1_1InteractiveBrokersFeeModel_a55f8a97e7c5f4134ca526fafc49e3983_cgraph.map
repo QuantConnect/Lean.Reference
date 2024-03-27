@@ -1,0 +1,4 @@
+<map id="QuantConnect.Orders.Fees.InteractiveBrokersFeeModel.GetOrderFee" name="QuantConnect.Orders.Fees.InteractiveBrokersFeeModel.GetOrderFee">
+<area shape="rect" id="node1" title="Gets the order fee associated with the specified order. This returns the cost of the transaction in t..." alt="" coords="5,5,236,61"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Orders_1_1Fees_1_1InteractiveBrokersFeeModel.html#a038aa271d43427181b941441fcdbaaef" title="Approximates the order&#39;s price based on the order type" alt="" coords="284,5,515,61"/>
+</map>

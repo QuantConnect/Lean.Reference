@@ -1,0 +1,4 @@
+<map id="QuantConnect.Indicators.McClellanOscillator.Reset" name="QuantConnect.Indicators.McClellanOscillator.Reset">
+<area shape="rect" id="node1" title="Resets this indicator to its initial state" alt="" coords="292,5,480,47"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Indicators_1_1McClellanSummationIndex.html#a2b5283991571116d8c46834244bdf673" title="Resets this indicator to its initial state" alt="" coords="5,5,244,47"/>
+</map>

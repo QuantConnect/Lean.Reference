@@ -1,0 +1,4 @@
+<map id="QuantConnect.Algorithm.Framework.Alphas.InsightCollection.AddRange" name="QuantConnect.Algorithm.Framework.Alphas.InsightCollection.AddRange">
+<area shape="rect" id="node1" title="Adds each item in the specified enumerable of insights to this collection" alt="" coords="5,5,268,47"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Algorithm_1_1Framework_1_1Alphas_1_1InsightCollection.html#aaacdee19492682db3e11d9004e8ce8bc" title="Adds an item to the T:System.Collections.Generic.ICollection`1." alt="" coords="316,5,579,47"/>
+</map>

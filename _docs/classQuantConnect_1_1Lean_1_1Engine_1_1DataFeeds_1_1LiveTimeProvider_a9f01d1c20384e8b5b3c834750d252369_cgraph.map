@@ -1,0 +1,4 @@
+<map id="QuantConnect.Lean.Engine.DataFeeds.LiveTimeProvider.GetUtcNow" name="QuantConnect.Lean.Engine.DataFeeds.LiveTimeProvider.GetUtcNow">
+<area shape="rect" id="node1" title="Gets the current time in UTC" alt="" coords="5,5,240,61"/>
+<area shape="rect" id="node2" href="$interfaceQuantConnect_1_1ITimeProvider.html#ae51737f869d879dfbb297496e4feb036" title="Gets the current time in UTC" alt="" coords="288,13,500,54"/>
+</map>

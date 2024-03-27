@@ -1,0 +1,4 @@
+<map id="QuantConnect.Lean.Engine.DataFeeds.ISubscriptionSynchronizer" name="QuantConnect.Lean.Engine.DataFeeds.ISubscriptionSynchronizer">
+<area shape="rect" id="node1" title="Provides the ability to synchronize subscriptions into time slices" alt="" coords="5,5,268,47"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Lean_1_1Engine_1_1DataFeeds_1_1SubscriptionSynchronizer.html" title="Provides the ability to synchronize subscriptions into time slices" alt="" coords="7,95,266,136"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="QuantConnect.Algorithm.Framework.Selection.UniverseSelectionModelPythonWrapper.CreateUniverses" name="QuantConnect.Algorithm.Framework.Selection.UniverseSelectionModelPythonWrapper.CreateUniverses">
+<area shape="rect" id="node1" title="Creates the universes for this algorithm. Called once after IAlgorithm.Initialize" alt="" coords="5,5,295,61"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Data_1_1UniverseSelection_1_1Universe.html#a4d532fbecdf9760efaac48f454c14de3" title="Marks this universe as disposed and ready to remove all child subscriptions" alt="" coords="343,13,553,54"/>
+</map>

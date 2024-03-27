@@ -1,0 +1,4 @@
+<map id="QuantConnect.Interfaces.IAlgorithm.SetApi" name="QuantConnect.Interfaces.IAlgorithm.SetApi">
+<area shape="rect" id="node1" title="Provide the API for the algorithm." alt="" coords="331,5,517,47"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Lean_1_1Engine_1_1Server_1_1LocalLeanManager.html#a31fe8ebc94fa4038a4ed7d5990b54c0e" title="Sets the IAlgorithm instance in the ILeanManager" alt="" coords="5,5,283,47"/>
+</map>

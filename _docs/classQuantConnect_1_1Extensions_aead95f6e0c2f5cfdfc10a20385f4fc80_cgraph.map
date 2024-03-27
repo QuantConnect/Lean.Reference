@@ -1,0 +1,4 @@
+<map id="QuantConnect.Extensions.ReadLines" name="QuantConnect.Extensions.ReadLines">
+<area shape="rect" id="node1" title="Helper method to stream read lines from a file" alt="" coords="5,5,199,47"/>
+<area shape="rect" id="node2" href="$interfaceQuantConnect_1_1Interfaces_1_1IDataProvider.html#af46a001c562e580e1a2b0965bf68c864" title="Retrieves data to be used in an algorithm" alt="" coords="247,5,433,47"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="QuantConnect.Algorithm.QCAlgorithm.Quit" name="QuantConnect.Algorithm.QCAlgorithm.Quit">
+<area shape="rect" id="node1" title="Terminate the algorithm after processing the current event handler." alt="" coords="5,13,305,39"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Algorithm_1_1QCAlgorithm.html#ac14c8fd87f2a7bfa13916f0b601c20c4" title="Terminate the algorithm after processing the current event handler." alt="" coords="353,13,653,39"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Algorithm_1_1QCAlgorithm.html#a16bd52d937ab647c889e8d5f6577f744" title="Send a debug message to the web console:" alt="" coords="701,5,975,47"/>
+</map>

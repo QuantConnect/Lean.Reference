@@ -1,0 +1,4 @@
+<map id="QuantConnect.Lean.Engine.DataFeeds.TimeSliceFactory.Create" name="QuantConnect.Lean.Engine.DataFeeds.TimeSliceFactory.Create">
+<area shape="rect" id="node1" title="Creates a new TimeSlice for the specified time using the specified data" alt="" coords="5,5,256,47"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Data_1_1Market_1_1Tick.html#aa87eb73c9e44564041a7ec8b48e786c8" title="Initialize tick class with a default constructor." alt="" coords="304,5,507,47"/>
+</map>

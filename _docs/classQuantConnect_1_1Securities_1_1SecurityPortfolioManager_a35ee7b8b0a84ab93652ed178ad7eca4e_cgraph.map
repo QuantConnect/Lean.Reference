@@ -1,0 +1,5 @@
+<map id="QuantConnect.Securities.SecurityPortfolioManager.HasSufficientBuyingPowerForOrder" name="QuantConnect.Securities.SecurityPortfolioManager.HasSufficientBuyingPowerForOrder">
+<area shape="rect" id="node1" title="Will determine if the algorithms portfolio has enough buying power to fill the given orders" alt="" coords="5,5,229,61"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Securities_1_1Positions_1_1SecurityPositionGroupModel.html#a5076818b5e2306a44f2c6a6a61e314a8" title="Creates a position group for the specified order, pulling" alt="" coords="277,5,507,61"/>
+<area shape="rect" id="node3" href="$interfaceQuantConnect_1_1Securities_1_1Positions_1_1IPositionGroupResolver.html#ad16e3d1e297f0cc3cd5048b4ca242ad5" title="Attempts to group the specified positions into a new IPositionGroup using an appropriate IPositionGro..." alt="" coords="555,5,795,61"/>
+</map>

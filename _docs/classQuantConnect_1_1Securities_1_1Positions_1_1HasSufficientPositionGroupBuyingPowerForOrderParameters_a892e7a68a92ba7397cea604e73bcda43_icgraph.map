@@ -1,0 +1,4 @@
+<map id="QuantConnect.Securities.Positions.HasSufficientPositionGroupBuyingPowerForOrderParameters.Error" name="QuantConnect.Securities.Positions.HasSufficientPositionGroupBuyingPowerForOrderParameters.Error">
+<area shape="rect" id="node1" title="Creates a new result indicating that there was an error" alt="" coords="336,13,647,69"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Securities_1_1Positions_1_1SecurityPositionGroupBuyingPowerModel.html#acb92376d916509d9ca7df9bacf8c307d" title="Check if there is sufficient buying power for the position group to execute this order." alt="" coords="5,5,288,76"/>
+</map>

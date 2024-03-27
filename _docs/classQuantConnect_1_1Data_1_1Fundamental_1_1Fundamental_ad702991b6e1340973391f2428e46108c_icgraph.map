@@ -1,0 +1,7 @@
+<map id="QuantConnect.Data.Fundamental.Fundamental.Fundamental" name="QuantConnect.Data.Fundamental.Fundamental.Fundamental">
+<area shape="rect" id="node1" title="Creates a new empty instance" alt="" coords="336,116,579,157"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Data_1_1Fundamental_1_1Fundamental.html#a1789db4ccba3142a319627e7fc1f6c4e" title="Will clone the current instance" alt="" coords="25,5,268,47"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Data_1_1UniverseSelection_1_1FundamentalFilteredUniverse.html#af9db6c86c3063ae7f62dafdf877695e5" title="Initializes a new instance of the FundamentalFilteredUniverse class" alt="" coords="5,71,288,127"/>
+<area shape="rect" id="node4" href="$classQuantConnect_1_1Data_1_1Fundamental_1_1Fundamental.html#a6ee785f2be07bb11e2aacb6cd7e15eae" title="Will read a new instance from the given line" alt="" coords="25,152,268,193"/>
+<area shape="rect" id="node5" href="$classQuantConnect_1_1Data_1_1UniverseSelection_1_1FundamentalUniverseFactory.html#a021f403161ece9b2ce38eee9070236b2" title="Performs universe selection using the data specified" alt="" coords="7,218,286,274"/>
+</map>

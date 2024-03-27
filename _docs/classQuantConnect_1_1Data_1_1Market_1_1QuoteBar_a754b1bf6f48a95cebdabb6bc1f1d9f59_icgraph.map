@@ -1,0 +1,4 @@
+<map id="QuantConnect.Data.Market.QuoteBar.ParseOption" name="QuantConnect.Data.Market.QuoteBar.ParseOption">
+<area shape="rect" id="node1" title="Parse a quotebar representing an option with a scaling factor" alt="" coords="256,5,459,47"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Data_1_1Market_1_1QuoteBar.html#af5ac99ffad0b49ced63917ce753839c2" title="QuoteBar Reader: Fetch the data from the QC storage and feed it line by line into the engine." alt="" coords="5,5,208,47"/>
+</map>

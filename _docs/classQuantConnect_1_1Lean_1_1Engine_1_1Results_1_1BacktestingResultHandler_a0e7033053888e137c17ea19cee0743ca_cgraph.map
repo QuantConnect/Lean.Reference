@@ -1,0 +1,4 @@
+<map id="QuantConnect.Lean.Engine.Results.BacktestingResultHandler.SendStatusUpdate" name="QuantConnect.Lean.Engine.Results.BacktestingResultHandler.SendStatusUpdate">
+<area shape="rect" id="node1" title="Send an algorithm status update to the browser." alt="" coords="5,5,252,61"/>
+<area shape="rect" id="node2" href="$interfaceQuantConnect_1_1Interfaces_1_1IMessagingHandler.html#afeff1367be45b60e481440eda06a39bf" title="Send any message with a base type of Packet." alt="" coords="300,13,487,54"/>
+</map>

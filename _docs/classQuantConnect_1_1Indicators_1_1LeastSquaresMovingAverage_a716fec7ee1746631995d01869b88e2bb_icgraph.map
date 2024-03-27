@@ -1,0 +1,4 @@
+<map id="QuantConnect.Indicators.LeastSquaresMovingAverage.Reset" name="QuantConnect.Indicators.LeastSquaresMovingAverage.Reset">
+<area shape="rect" id="node1" title="Resets this indicator and all sub&#45;indicators (Intercept, Slope)" alt="" coords="241,5,492,47"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Indicators_1_1RegressionChannel.html#a55983849e670799d1bd5792b28f15a85" title="Resets this indicator and all sub&#45;indicators (StandardDeviation, LowerBand, MiddleBand,..." alt="" coords="5,5,193,47"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="QuantConnect.Lean.Engine.RealTime.BaseRealTimeHandler.OnSecuritiesChanged" name="QuantConnect.Lean.Engine.RealTime.BaseRealTimeHandler.OnSecuritiesChanged">
+<area shape="rect" id="node1" title="Event fired each time that we add/remove securities from the data feed" alt="" coords="5,5,260,61"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Lean_1_1Engine_1_1RealTime_1_1BaseRealTimeHandler.html#a6053cb243a634c12e0eb3416798709e8" title="Removes the specified event from the schedule" alt="" coords="308,13,599,54"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="QuantConnect.Brokerages.Brokerage.OnOptionNotification" name="QuantConnect.Brokerages.Brokerage.OnOptionNotification">
+<area shape="rect" id="node1" title="Event invocator for the OptionNotification event" alt="" coords="5,39,233,80"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Logging_1_1Log.html#ad908daef9d61532d7d60c9dcfb9a3e0c" title="Output to the console" alt="" coords="281,5,481,47"/>
+<area shape="rect" id="node4" href="$classQuantConnect_1_1Logging_1_1Log.html#af0e7955911bc7664b37661b2a303a9e3" title="Log error" alt="" coords="281,71,481,112"/>
+<area shape="rect" id="node3" href="$interfaceQuantConnect_1_1Logging_1_1ILogHandler.html#a2c738b8e78dd5b54244bc68b969ba91d" title="Write debug message to log" alt="" coords="529,5,729,47"/>
+<area shape="rect" id="node5" href="$interfaceQuantConnect_1_1Logging_1_1ILogHandler.html#a35373a0c5d76031fa5ccf5dc39e5c25d" title="Write error message to log" alt="" coords="529,71,729,112"/>
+</map>

@@ -1,0 +1,10 @@
+<map id="QuantConnect.DataProviderEventArgs" name="QuantConnect.DataProviderEventArgs">
+<area shape="rect" id="node1" title="Defines a base class for IDataProviderEvents" alt="" coords="141,169,344,211"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1DownloadFailedEventArgs.html" title="Event arguments for the IDataProviderEvents.DownloadFailed event" alt="" coords="406,5,627,47"/>
+<area shape="rect" id="node4" href="$classQuantConnect_1_1InvalidConfigurationDetectedEventArgs.html" title="Event arguments for the IDataProviderEvents.InvalidConfigurationDetected event" alt="" coords="392,71,641,112"/>
+<area shape="rect" id="node5" href="$classQuantConnect_1_1NewTradableDateEventArgs.html" title="Event arguments for the NewTradableDate event" alt="" coords="415,136,618,177"/>
+<area shape="rect" id="node6" href="$classQuantConnect_1_1NumericalPrecisionLimitedEventArgs.html" title="Event arguments for the IDataProviderEvents.NumericalPrecisionLimited event" alt="" coords="395,201,639,243"/>
+<area shape="rect" id="node7" href="$classQuantConnect_1_1ReaderErrorDetectedEventArgs.html" title="Event arguments for the IDataProviderEvents.ReaderErrorDetected event" alt="" coords="419,267,614,308"/>
+<area shape="rect" id="node8" href="$classQuantConnect_1_1StartDateLimitedEventArgs.html" title="Event arguments for the IDataProviderEvents.StartDateLimited event" alt="" coords="402,332,631,373"/>
+<area shape="rect" id="node2" title=" " alt="" coords="5,177,93,203"/>
+</map>

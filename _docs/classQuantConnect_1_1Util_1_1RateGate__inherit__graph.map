@@ -1,0 +1,4 @@
+<map id="QuantConnect.Util.RateGate" name="QuantConnect.Util.RateGate">
+<area shape="rect" id="node1" title="Used to control the rate of some occurrence per unit of time." alt="" coords="5,80,212,107"/>
+<area shape="rect" id="node2" title=" " alt="" coords="59,5,158,32"/>
+</map>

@@ -1,0 +1,12 @@
+<map id="QuantConnect.Lean.Engine.HistoricalData.FakeHistoryProvider.GetHistory" name="QuantConnect.Lean.Engine.HistoricalData.FakeHistoryProvider.GetHistory">
+<area shape="rect" id="node1" title="Gets the history for the requested securities" alt="" coords="5,107,257,163"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Symbol.html#a484f4a4845d55c491201a7998f0d6ec4" title="Provides a convenience method for creating a future Symbol." alt="" coords="305,56,520,97"/>
+<area shape="rect" id="node8" href="$classQuantConnect_1_1Symbol.html#a59158f74116be3dad0ea0f3f3f134416" title="Initializes a new instance of the Symbol class" alt="" coords="574,122,794,149"/>
+<area shape="rect" id="node9" href="$classQuantConnect_1_1Symbol.html#a7518a1932d1babbff128f2ba9666a78b" title="Provides a convenience method for creating an option Symbol." alt="" coords="305,173,520,215"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1SecurityIdentifier.html#ad50a891c97cb0c084a9e2aa43607ed66" title="Generates a new SecurityIdentifier for a future" alt="" coords="568,5,800,47"/>
+<area shape="rect" id="node4" href="$classQuantConnect_1_1Symbol.html#a59b0795fa21f46c306deb5576fa03bb9" title="Centralized helper method to resolve alias for a symbol" alt="" coords="848,97,1075,123"/>
+<area shape="rect" id="node5" href="$classQuantConnect_1_1SymbolRepresentation.html#ad43ac907f6c19083821f58f21c6de017" title="Returns future symbol ticker from underlying and expiration date. Function can generate tickers of tw..." alt="" coords="1123,56,1393,97"/>
+<area shape="rect" id="node7" href="$classQuantConnect_1_1SymbolRepresentation.html#ab133044f5cf8c16e700190a2202b215e" title="Returns option symbol ticker in accordance with OSI symbology More information can be found at http:/..." alt="" coords="1123,121,1393,163"/>
+<area shape="rect" id="node6" href="$classQuantConnect_1_1Securities_1_1Future_1_1FuturesExpiryUtilityFunctions.html#a4ccb1e2f2fe40ff09785a74a02f26df1" title="Gets the number of months between the contract month and the expiry date." alt="" coords="1441,49,1796,105"/>
+<area shape="rect" id="node10" href="$classQuantConnect_1_1SecurityIdentifier.html#a0c21d7880c9fdd260883d11ea0c99a00" title="Helper overload that will search the mapfiles to resolve the first date. This implementation uses the..." alt="" coords="568,173,800,215"/>
+</map>

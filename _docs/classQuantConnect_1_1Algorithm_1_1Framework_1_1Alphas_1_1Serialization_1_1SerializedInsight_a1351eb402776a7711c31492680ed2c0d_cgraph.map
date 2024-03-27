@@ -1,0 +1,7 @@
+<map id="QuantConnect.Algorithm.Framework.Alphas.Serialization.SerializedInsight.SerializedInsight" name="QuantConnect.Algorithm.Framework.Alphas.Serialization.SerializedInsight.SerializedInsight">
+<area shape="rect" id="node1" title="Initializes a new instance of the SerializedInsight &#160;class by copying the specified insight" alt="" coords="5,31,272,87"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Time.html#a0b4fec367fb0ce33080eacb62a83336b" title="Convert a Datetime to Unix Timestamp" alt="" coords="327,5,545,47"/>
+<area shape="rect" id="node5" href="$classQuantConnect_1_1SecurityIdentifier.html#a2bad64d68f0d388b0598ab60bf862631" title="Returns a string that represents the current object." alt="" coords="320,71,552,112"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Logging_1_1Log.html#af0e7955911bc7664b37661b2a303a9e3" title="Log error" alt="" coords="600,5,800,47"/>
+<area shape="rect" id="node4" href="$interfaceQuantConnect_1_1Logging_1_1ILogHandler.html#a35373a0c5d76031fa5ccf5dc39e5c25d" title="Write error message to log" alt="" coords="848,5,1048,47"/>
+</map>

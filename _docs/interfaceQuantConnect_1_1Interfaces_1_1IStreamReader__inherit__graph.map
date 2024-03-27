@@ -1,0 +1,8 @@
+<map id="QuantConnect.Interfaces.IStreamReader" name="QuantConnect.Interfaces.IStreamReader">
+<area shape="rect" id="node1" title="Defines a transport mechanism for data from its source into various reader methods" alt="" coords="152,133,339,174"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Lean_1_1Engine_1_1DataFeeds_1_1Transport_1_1LocalFileSubscriptionStreamReader.html" title="Represents a stream reader capable of reading lines from disk" alt="" coords="387,5,683,61"/>
+<area shape="rect" id="node4" href="$classQuantConnect_1_1Lean_1_1Engine_1_1DataFeeds_1_1Transport_1_1ObjectStoreSubscriptionStreamReader.html" title="Represents a stream reader capable of reading lines from the object store" alt="" coords="417,85,652,141"/>
+<area shape="rect" id="node5" href="$classQuantConnect_1_1Lean_1_1Engine_1_1DataFeeds_1_1Transport_1_1RemoteFileSubscriptionStreamReader.html" title="Represents a stream reader capabable of downloading a remote file and then reading it from disk" alt="" coords="418,165,651,221"/>
+<area shape="rect" id="node6" href="$classQuantConnect_1_1Lean_1_1Engine_1_1DataFeeds_1_1Transport_1_1RestSubscriptionStreamReader.html" title="Represents a stream reader capable of polling a rest client" alt="" coords="401,245,669,301"/>
+<area shape="rect" id="node2" title=" " alt="" coords="5,140,104,167"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="QuantConnect.Orders.Fills.EquityFillModel" name="QuantConnect.Orders.Fills.EquityFillModel">
+<area shape="rect" id="node1" title="Represents the fill model used to simulate order fills for equities" alt="" coords="5,155,200,196"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Orders_1_1Fills_1_1FillModel.html" title="Provides a base class for all fill models" alt="" coords="62,80,143,107"/>
+<area shape="rect" id="node3" href="$interfaceQuantConnect_1_1Orders_1_1Fills_1_1IFillModel.html" title="Represents a model that simulates order fill events" alt="" coords="60,5,145,32"/>
+</map>

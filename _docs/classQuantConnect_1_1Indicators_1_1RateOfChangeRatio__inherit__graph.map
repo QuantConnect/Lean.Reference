@@ -1,0 +1,6 @@
+<map id="QuantConnect.Indicators.RateOfChangeRatio" name="QuantConnect.Indicators.RateOfChangeRatio">
+<area shape="rect" id="node1" title="This indicator computes the Rate Of Change Ratio (ROCR). The Rate Of Change Ratio is calculated with ..." alt="" coords="135,169,321,211"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Indicators_1_1RateOfChange.html" title="This indicator computes the n&#45;period rate of change in a value using the following: (value_0 &#45; value_..." alt="" coords="170,95,286,121"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Indicators_1_1WindowIndicator.html" title=" " alt="" coords="5,5,208,47"/>
+<area shape="rect" id="node4" href="$interfaceQuantConnect_1_1Indicators_1_1IIndicatorWarmUpPeriodProvider.html" title="Represents an indicator with a warm up period provider." alt="" coords="232,13,467,39"/>
+</map>

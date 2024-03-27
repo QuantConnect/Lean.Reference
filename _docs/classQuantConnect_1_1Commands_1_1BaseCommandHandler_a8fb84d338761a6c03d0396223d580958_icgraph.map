@@ -1,0 +1,4 @@
+<map id="QuantConnect.Commands.BaseCommandHandler.GetCommands" name="QuantConnect.Commands.BaseCommandHandler.GetCommands">
+<area shape="rect" id="node1" title="Get the commands to run" alt="" coords="320,5,560,47"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Commands_1_1BaseCommandHandler.html#a42c962525bf97988e04ee3673adf8876" title="Will consumer and execute any command in the queue" alt="" coords="5,5,272,47"/>
+</map>

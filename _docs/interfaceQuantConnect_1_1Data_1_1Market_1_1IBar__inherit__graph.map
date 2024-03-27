@@ -1,0 +1,14 @@
+<map id="QuantConnect.Data.Market.IBar" name="QuantConnect.Data.Market.IBar">
+<area shape="rect" id="node1" title="Generic bar interface with Open, High, Low and Close." alt="" coords="5,74,233,101"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Data_1_1Market_1_1Bar.html" title="Base Bar Class: Open, High, Low, Close and Period." alt="" coords="281,45,505,71"/>
+<area shape="rect" id="node3" href="$interfaceQuantConnect_1_1Data_1_1Market_1_1IBaseDataBar.html" title="Represents a type that is both a bar and base data" alt="" coords="292,96,495,137"/>
+<area shape="rect" id="node4" href="$classQuantConnect_1_1Data_1_1Market_1_1BaseRenkoBar.html" title="Represents a bar sectioned not by time, but by some amount of movement in a set field,..." alt="" coords="826,37,1029,79"/>
+<area shape="rect" id="node7" href="$classQuantConnect_1_1Data_1_1Market_1_1QuoteBar.html" title="QuoteBar class for second and minute resolution data: An OHLC implementation of the QuantConnect Base..." alt="" coords="553,96,756,137"/>
+<area shape="rect" id="node8" href="$classQuantConnect_1_1Data_1_1Market_1_1TradeBar.html" title="TradeBar class for second and minute resolution data: An OHLC implementation of the QuantConnect Base..." alt="" coords="553,161,756,203"/>
+<area shape="rect" id="node5" href="$classQuantConnect_1_1Data_1_1Market_1_1RenkoBar.html" title="Represents a bar sectioned not by time, but by some amount of movement in a value (for example,..." alt="" coords="1101,5,1303,47"/>
+<area shape="rect" id="node6" href="$classQuantConnect_1_1Data_1_1Market_1_1VolumeRenkoBar.html" title="Represents a bar sectioned not by time, but by some amount of movement in volume" alt="" coords="1101,71,1303,112"/>
+<area shape="rect" id="node9" href="$classQuantConnect_1_1Data_1_1Custom_1_1IconicTypes_1_1UnlinkedDataTradeBar.html" title="Data source that is unlinked (no mapping) and takes any ticker when calling AddData" alt="" coords="804,103,1051,144"/>
+<area shape="rect" id="node10" href="$classQuantConnect_1_1Data_1_1Custom_1_1Tiingo_1_1TiingoPrice.html" title="Tiingo daily price data https://api.tiingo.com/docs/tiingo/daily" alt="" coords="824,168,1031,209"/>
+<area shape="rect" id="node12" href="$classQuantConnect_1_1Data_1_1Market_1_1RangeBar.html" title="Represents a bar sectioned not by time, but by some amount of movement in a value (for example,..." alt="" coords="826,233,1029,275"/>
+<area shape="rect" id="node11" href="$classQuantConnect_1_1Data_1_1Custom_1_1Tiingo_1_1TiingoDailyData.html" title="Tiingo daily price data https://api.tiingo.com/docs/tiingo/daily" alt="" coords="1099,168,1305,209"/>
+</map>

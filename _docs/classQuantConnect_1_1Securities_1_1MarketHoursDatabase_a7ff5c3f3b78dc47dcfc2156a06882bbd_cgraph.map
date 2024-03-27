@@ -1,0 +1,12 @@
+<map id="QuantConnect.Securities.MarketHoursDatabase.GetEntry" name="QuantConnect.Securities.MarketHoursDatabase.GetEntry">
+<area shape="rect" id="node1" title="Gets the entry for the specified market/symbol/security&#45;type" alt="" coords="5,50,233,91"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Securities_1_1MarketHoursDatabase.html#aa717adb9bb04be931913608ffd5a2733" title="Gets the correct string symbol to use as a database key" alt="" coords="852,5,1108,61"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Securities_1_1MarketHoursDatabase.html#aeac6cf20dbffdbafd258f0d5f4473713" title="Gets the entry for the specified market/symbol/security&#45;type" alt="" coords="281,111,509,153"/>
+<area shape="rect" id="node4" href="$classQuantConnect_1_1Logging_1_1Log.html#af0e7955911bc7664b37661b2a303a9e3" title="Log error" alt="" coords="581,111,781,153"/>
+<area shape="rect" id="node6" href="$classQuantConnect_1_1Securities_1_1SymbolPropertiesDatabase.html#aee26fb588793fd311c44eb8b2909cc33" title="Gets the instance of the SymbolPropertiesDatabase class produced by reading in the symbol properties ..." alt="" coords="563,177,799,233"/>
+<area shape="rect" id="node9" href="$classQuantConnect_1_1Securities_1_1MarketHoursDatabase.html#a3eedd1459368e8f50da2cedfc7508006" title="Tries to get the entry for the specified market/symbol/security&#45;type" alt="" coords="557,46,804,87"/>
+<area shape="rect" id="node10" href="$classQuantConnect_1_1Securities_1_1SymbolPropertiesDatabase.html#a5a7baeddd03bfc7fb60cef8ab2e6834b" title="Tries to get the market for the provided symbol/security type" alt="" coords="569,257,792,313"/>
+<area shape="rect" id="node5" href="$interfaceQuantConnect_1_1Logging_1_1ILogHandler.html#a35373a0c5d76031fa5ccf5dc39e5c25d" title="Write error message to log" alt="" coords="880,111,1080,153"/>
+<area shape="rect" id="node7" href="$classQuantConnect_1_1Globals.html#ae01b5c94ef475a21ab1a62fe1b04ea5c" title="Helper method that will build a data folder path checking if it exists on the cache folder else will ..." alt="" coords="883,181,1077,222"/>
+<area shape="rect" id="node8" href="$classQuantConnect_1_1Securities_1_1SymbolPropertiesDatabase.html#a1658f93bf0dce7022bb7584e1a95cc7a" title="Initialize a new instance of SymbolPropertiesDatabase using the given file" alt="" coords="854,247,1106,303"/>
+</map>

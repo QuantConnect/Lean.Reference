@@ -1,0 +1,4 @@
+<map id="QuantConnect.Data.Auxiliary.CorporateFactorProvider.GetSplitsAndDividends" name="QuantConnect.Data.Auxiliary.CorporateFactorProvider.GetSplitsAndDividends">
+<area shape="rect" id="node1" title="Gets all of the splits and dividends represented by this factor file" alt="" coords="272,5,513,61"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Data_1_1Auxiliary_1_1CorporateFactorProvider.html#a9cbae9b70159c5aa79930a9b373ecb2b" title="Creates a new factor file with the specified data applied. Only Dividend and Split data types will be..." alt="" coords="5,13,224,54"/>
+</map>

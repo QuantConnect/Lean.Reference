@@ -1,0 +1,11 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$interfaceQuantConnect_1_1Lean_1_1Engine_1_1DataFeeds_1_1Enumerators_1_1ITradableDateEventProvider.html" title="Interface for event providers for new tradable dates" alt="" coords="5,125,247,181"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Lean_1_1Engine_1_1DataFeeds_1_1Enumerators_1_1DelistingEventProvider.html" title="Event provider who will emit Delisting events" alt="" coords="312,5,552,61"/>
+<area shape="rect" id="node4" href="$classQuantConnect_1_1Lean_1_1Engine_1_1DataFeeds_1_1Enumerators_1_1DividendEventProvider.html" title="Event provider who will emit Dividend events" alt="" coords="312,85,552,141"/>
+<area shape="rect" id="node6" href="$classQuantConnect_1_1Lean_1_1Engine_1_1DataFeeds_1_1Enumerators_1_1MappingEventProvider.html" title="Event provider who will emit SymbolChangedEvent events" alt="" coords="295,165,569,221"/>
+<area shape="rect" id="node8" href="$classQuantConnect_1_1Lean_1_1Engine_1_1DataFeeds_1_1Enumerators_1_1SplitEventProvider.html" title="Event provider who will emit Split events" alt="" coords="308,245,556,301"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Lean_1_1Engine_1_1DataFeeds_1_1Enumerators_1_1LiveDelistingEventProvider.html" title="Delisting event provider implementation which will source the delisting date based on new map files" alt="" coords="617,5,884,61"/>
+<area shape="rect" id="node5" href="$classQuantConnect_1_1Lean_1_1Engine_1_1DataFeeds_1_1Enumerators_1_1LiveDividendEventProvider.html" title="Event provider who will emit SymbolChangedEvent events" alt="" coords="617,85,884,141"/>
+<area shape="rect" id="node7" href="$classQuantConnect_1_1Lean_1_1Engine_1_1DataFeeds_1_1Enumerators_1_1LiveMappingEventProvider.html" title="Event provider who will emit SymbolChangedEvent events" alt="" coords="618,165,883,221"/>
+<area shape="rect" id="node9" href="$classQuantConnect_1_1Lean_1_1Engine_1_1DataFeeds_1_1Enumerators_1_1LiveSplitEventProvider.html" title="Event provider who will emit SymbolChangedEvent events" alt="" coords="631,245,870,301"/>
+</map>

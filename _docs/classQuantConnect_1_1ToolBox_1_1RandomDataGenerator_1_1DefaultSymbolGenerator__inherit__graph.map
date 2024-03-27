@@ -1,0 +1,4 @@
+<map id="QuantConnect.ToolBox.RandomDataGenerator.DefaultSymbolGenerator" name="QuantConnect.ToolBox.RandomDataGenerator.DefaultSymbolGenerator">
+<area shape="rect" id="node1" title="Generates a new random Symbol object of the specified security type. All returned symbols have a matc..." alt="" coords="5,80,288,121"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1ToolBox_1_1RandomDataGenerator_1_1BaseSymbolGenerator.html" title="Provide the base symbol generator implementation" alt="" coords="63,5,231,32"/>
+</map>

@@ -1,0 +1,10 @@
+<map id="QuantConnect.ITimeProvider" name="QuantConnect.ITimeProvider">
+<area shape="rect" id="node1" title="Provides access to the current time in UTC. This doesn&#39;t necessarily need to be wall&#45;clock time,..." alt="" coords="5,209,215,235"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Lean_1_1Engine_1_1DataFeeds_1_1CompositeTimeProvider.html" title="The composite time provider will source it&#39;s current time using the smallest time from the given prov..." alt="" coords="266,5,518,47"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Lean_1_1Engine_1_1DataFeeds_1_1LiveTimeProvider.html" title="Live time provide which supports an initial warmup period using the given time provider SubscriptionF..." alt="" coords="287,71,497,112"/>
+<area shape="rect" id="node4" href="$classQuantConnect_1_1Lean_1_1Engine_1_1DataFeeds_1_1ManualTimeProvider.html" title="Provides an implementation of ITimeProvider that can be manually advanced through time" alt="" coords="277,136,507,177"/>
+<area shape="rect" id="node5" href="$classQuantConnect_1_1Lean_1_1Engine_1_1DataFeeds_1_1PredicateTimeProvider.html" title="Will generate time steps around the desired ITimeProvider Provided step evaluator should return true ..." alt="" coords="271,201,513,243"/>
+<area shape="rect" id="node6" href="$classQuantConnect_1_1Lean_1_1Engine_1_1DataFeeds_1_1SubscriptionFrontierTimeProvider.html" title="A time provider which updates &#39;now&#39; time based on the current data emit time of all subscriptions" alt="" coords="279,267,505,323"/>
+<area shape="rect" id="node7" href="$classQuantConnect_1_1Lean_1_1Engine_1_1DataFeeds_1_1SubscriptionSynchronizer.html" title="Provides the ability to synchronize subscriptions into time slices" alt="" coords="263,348,521,389"/>
+<area shape="rect" id="node8" href="$classQuantConnect_1_1RealTimeProvider.html" title="Provides an implementation of ITimeProvider that uses DateTime.UtcNow to provide the current time" alt="" coords="275,414,509,441"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="QuantConnect.Algorithm.Framework.Selection.FundamentalUniverseSelectionModel.FundamentalUniverseSelectionModel" name="QuantConnect.Algorithm.Framework.Selection.FundamentalUniverseSelectionModel.FundamentalUniverseSelectionModel">
+<area shape="rect" id="node1" title="Initializes a new instance of the FundamentalUniverseSelectionModel class" alt="" coords="343,5,652,61"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Algorithm_1_1Framework_1_1Selection_1_1FundamentalUniverseSelectionModel.html#a67a9c3a4840863ab3c209e33ec6e824a" title="Convenience method for creating a selection model that uses fundamental data" alt="" coords="5,5,295,61"/>
+</map>

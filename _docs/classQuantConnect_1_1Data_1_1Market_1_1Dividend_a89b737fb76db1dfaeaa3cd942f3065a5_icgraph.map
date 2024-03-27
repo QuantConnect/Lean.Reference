@@ -1,0 +1,6 @@
+<map id="QuantConnect.Data.Market.Dividend.Dividend" name="QuantConnect.Data.Market.Dividend.Dividend">
+<area shape="rect" id="node1" title="Initializes a new instance of the Dividend class" alt="" coords="544,43,747,84"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Data_1_1Market_1_1Dividend.html#ac669caaf83f5589055b1d5d1613f2432" title="Initializes a new instance of the Dividend class" alt="" coords="293,43,496,84"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Data_1_1Auxiliary_1_1CorporateFactorRow.html#a3b2d4a4697bccb9066186effb98be9cd" title="Creates a new dividend from this factor file row and the one chronologically in front of it This divi..." alt="" coords="7,5,244,47"/>
+<area shape="rect" id="node4" href="$classQuantConnect_1_1Lean_1_1Engine_1_1DataFeeds_1_1Enumerators_1_1DividendEventProvider.html#a885746f584223943fd87dee40c528fe4" title="Check for dividends and returns them" alt="" coords="5,71,245,127"/>
+</map>

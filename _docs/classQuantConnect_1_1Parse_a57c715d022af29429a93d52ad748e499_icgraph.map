@@ -1,0 +1,4 @@
+<map id="QuantConnect.Parse.TryParseExact" name="QuantConnect.Parse.TryParseExact">
+<area shape="rect" id="node1" title="Tries to parse the provided value with TryParse as a System.TimeSpan, format string,..." alt="" coords="300,13,511,54"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Data_1_1UniverseSelection_1_1ETFConstituentUniverse.html#a40b220bec099d556460cebbebbf07e7a" title="Reader converts each line of the data source into BaseData objects. Each data type creates its own fa..." alt="" coords="5,5,252,61"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="QuantConnect.Securities.Option.OptionStrategies.PutButterfly" name="QuantConnect.Securities.Option.OptionStrategies.PutButterfly">
+<area shape="rect" id="node1" title="Method creates new Put Butterfly strategy, that consists of two short puts at a middle strike,..." alt="" coords="576,13,835,54"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Securities_1_1Option_1_1OptionStrategies.html#a1b9171b287a8ebf25f693d824bbda6b0" title="Creates a new Butterfly Put strategy that consists of two short puts at a middle strike,..." alt="" coords="269,13,528,54"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Securities_1_1Option_1_1OptionStrategies.html#a51ddec74b34204281cdbae2558d7dd4c" title="Creates a new Butterfly Put strategy that consists of two long puts at a middle strike,..." alt="" coords="5,5,221,61"/>
+</map>

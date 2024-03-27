@@ -1,0 +1,4 @@
+<map id="QuantConnect.Lean.Engine.DataFeeds.SubscriptionDataSourceReader.CheckRemoteFileCache" name="QuantConnect.Lean.Engine.DataFeeds.SubscriptionDataSourceReader.CheckRemoteFileCache">
+<area shape="rect" id="node1" title="Creates cache directory if not existing and deletes old files from the cache" alt="" coords="293,5,544,61"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Lean_1_1Engine_1_1DataFeeds_1_1CollectionSubscriptionDataSourceReader.html#a1199aa83652a26b23433cdabb9964f91" title="Reads the specified source" alt="" coords="5,5,245,61"/>
+</map>

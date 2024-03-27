@@ -1,0 +1,6 @@
+<map id="QuantConnect.Algorithm.Framework.Selection.FutureUniverseSelectionModel" name="QuantConnect.Algorithm.Framework.Selection.FutureUniverseSelectionModel">
+<area shape="rect" id="node1" title="Provides an implementation of IUniverseSelectionModel that subscribes to future chains" alt="" coords="465,13,751,54"/>
+<area shape="rect" id="node4" href="$classQuantConnect_1_1Algorithm_1_1Framework_1_1Selection_1_1OpenInterestFutureUniverseSelectionModel.html" title="Selects contracts in a futures universe, sorted by open interest. This allows the selection to identi..." alt="" coords="799,5,1068,61"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Algorithm_1_1Framework_1_1Selection_1_1UniverseSelectionModel.html" title="Provides a base class for universe selection models." alt="" coords="237,20,417,47"/>
+<area shape="rect" id="node3" href="$interfaceQuantConnect_1_1Algorithm_1_1Framework_1_1Selection_1_1IUniverseSelectionModel.html" title="Algorithm framework model that defines the universes to be used by an algorithm" alt="" coords="5,20,189,47"/>
+</map>

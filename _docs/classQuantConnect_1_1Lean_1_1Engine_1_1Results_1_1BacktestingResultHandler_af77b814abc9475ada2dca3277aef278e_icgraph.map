@@ -1,0 +1,4 @@
+<map id="QuantConnect.Lean.Engine.Results.BacktestingResultHandler.ProcessSynchronousEvents" name="QuantConnect.Lean.Engine.Results.BacktestingResultHandler.ProcessSynchronousEvents">
+<area shape="rect" id="node1" title="Process the synchronous result events, sampling and message reading. This method is triggered from th..." alt="" coords="324,5,571,61"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Lean_1_1Engine_1_1Results_1_1BacktestingResultHandler.html#a9e84a017be2f946f4c63bfab39c3a4a1" title="Terminate the result thread and apply any required exit procedures like sending final results." alt="" coords="5,13,276,54"/>
+</map>

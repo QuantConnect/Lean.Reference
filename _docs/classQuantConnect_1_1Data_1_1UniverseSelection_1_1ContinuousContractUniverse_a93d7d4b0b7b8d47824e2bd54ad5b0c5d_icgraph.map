@@ -1,0 +1,5 @@
+<map id="QuantConnect.Data.UniverseSelection.ContinuousContractUniverse.AddConfigurations" name="QuantConnect.Data.UniverseSelection.ContinuousContractUniverse.AddConfigurations">
+<area shape="rect" id="node1" title="Helper method to add and get the required configurations associated with a continuous universe" alt="" coords="329,35,605,91"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Algorithm_1_1QCAlgorithm.html#afcdaf47586751fe6105f43d044b7cf70" title="Set a required SecurityType&#45;symbol and resolution for algorithm" alt="" coords="7,5,280,47"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Data_1_1UniverseSelection_1_1ContinuousContractUniverse.html#ac4f0a8335db50b85c27d02b7f326351a" title="Gets the subscription requests to be added for the specified security" alt="" coords="5,71,281,127"/>
+</map>

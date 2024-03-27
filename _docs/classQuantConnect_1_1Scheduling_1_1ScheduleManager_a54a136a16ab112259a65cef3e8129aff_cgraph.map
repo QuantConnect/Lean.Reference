@@ -1,0 +1,8 @@
+<map id="QuantConnect.Scheduling.ScheduleManager.On" name="QuantConnect.Scheduling.ScheduleManager.On">
+<area shape="rect" id="node1" title="Schedules the callback to run using the specified date and time rules" alt="" coords="5,71,199,112"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Scheduling_1_1ScheduleManager.html#ac03100ad3e3fb9b49447f96f478d665a" title="Adds the specified event to the schedule" alt="" coords="267,5,461,47"/>
+<area shape="rect" id="node4" href="$interfaceQuantConnect_1_1Scheduling_1_1ITimeRule.html#a206c95817c3dbbf59c7818fd370aa1b7" title="Creates the event times for the specified dates in UTC" alt="" coords="247,71,481,112"/>
+<area shape="rect" id="node5" href="$classQuantConnect_1_1Logging_1_1Log.html#a4e55477fbc790846b74550a57198cea9" title="Log trace" alt="" coords="264,136,464,177"/>
+<area shape="rect" id="node3" href="$interfaceQuantConnect_1_1Scheduling_1_1IEventSchedule.html#a5e23772f76b442b9aac22acca77d1823" title="Adds the specified event to the schedule" alt="" coords="533,5,726,47"/>
+<area shape="rect" id="node6" href="$interfaceQuantConnect_1_1Logging_1_1ILogHandler.html#a3fb71a33ac66129240b63f12b6fcda3b" title="Write debug message to log" alt="" coords="529,136,729,177"/>
+</map>

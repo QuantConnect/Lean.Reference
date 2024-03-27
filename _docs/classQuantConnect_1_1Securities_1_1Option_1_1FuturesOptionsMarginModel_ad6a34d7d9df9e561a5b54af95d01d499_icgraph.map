@@ -1,0 +1,5 @@
+<map id="QuantConnect.Securities.Option.FuturesOptionsMarginModel.GetMarginRequirement" name="QuantConnect.Securities.Option.FuturesOptionsMarginModel.GetMarginRequirement">
+<area shape="rect" id="node1" title="Get&#39;s the margin requirement for a future option based on the underlying future margin requirement an..." alt="" coords="309,45,565,101"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Securities_1_1Option_1_1FuturesOptionsMarginModel.html#a09b2e49acd90e71d44603228a56c2a34" title="The margin that must be held in order to increase the position by the provided quantity" alt="" coords="5,5,261,61"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Securities_1_1Option_1_1FuturesOptionsMarginModel.html#a281e3cfd52636550ccd6a463c67edac2" title="Gets the margin currently alloted to the specified holding." alt="" coords="5,85,261,141"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="QuantConnect.Algorithm.QCAlgorithm.Δ" name="QuantConnect.Algorithm.QCAlgorithm.Δ">
+<area shape="rect" id="node1" title="Creates a new Delta indicator for the symbol The indicator will be automatically updated on the symbo..." alt="" coords="5,42,288,69"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Algorithm_1_1QCAlgorithm.html#a3460e8dfb235903cf640a514b1219c16" title="Creates a new Delta indicator for the symbol The indicator will be automatically updated on the symbo..." alt="" coords="336,42,619,69"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Algorithm_1_1QCAlgorithm.html#a918f318ce76cdc3ed9efad235ff7481e" title="Creates and registers a new consolidator to receive automatic updates at the specified resolution as ..." alt="" coords="667,5,940,47"/>
+<area shape="rect" id="node4" href="$classQuantConnect_1_1Algorithm_1_1QCAlgorithm.html#ade17e71e20d320dc9a1efa3ddf8aa3cd" title="Gets the default consolidator for the specified symbol and resolution" alt="" coords="988,35,1261,76"/>
+</map>

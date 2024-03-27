@@ -1,0 +1,7 @@
+<map id="QuantConnect.Lean.Engine.DataFeeds.IDataFeedSubscriptionManager.RemoveSubscription" name="QuantConnect.Lean.Engine.DataFeeds.IDataFeedSubscriptionManager.RemoveSubscription">
+<area shape="rect" id="node1" title="Removes the Subscription, if it exists" alt="" coords="643,35,884,91"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Lean_1_1Engine_1_1DataFeeds_1_1Synchronizer.html#ab2e438b9d1f7b5e4939ef7e7e10236dc" title="Performs additional initialization steps after algorithm initialization" alt="" coords="328,5,595,47"/>
+<area shape="rect" id="node4" href="$classQuantConnect_1_1Lean_1_1Engine_1_1DataFeeds_1_1UniverseSelection.html#a8aa15e1826e592c93ada3b2a5336f257" title="Sets the data manager" alt="" coords="342,71,581,127"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Lean_1_1Engine_1_1DataFeeds_1_1Synchronizer.html#a1ec5e796dd6d363541a45e88cbf773e5" title="Returns an enumerable which provides the data to stream to the algorithm" alt="" coords="13,5,273,47"/>
+<area shape="rect" id="node5" href="$classQuantConnect_1_1Lean_1_1Engine_1_1DataFeeds_1_1DataManager.html#acf9050df1be040d4259dc9a89c2cb740" title="Creates a new instance of the DataManager" alt="" coords="5,79,280,120"/>
+</map>

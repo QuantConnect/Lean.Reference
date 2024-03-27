@@ -1,0 +1,4 @@
+<map id="QuantConnect.Securities.FuncSecuritySeeder" name="QuantConnect.Securities.FuncSecuritySeeder">
+<area shape="rect" id="node1" title="Seed a security price from a history function" alt="" coords="5,80,192,121"/>
+<area shape="rect" id="node2" href="$interfaceQuantConnect_1_1Securities_1_1ISecuritySeeder.html" title="Used to seed the security with the correct price" alt="" coords="37,5,161,32"/>
+</map>

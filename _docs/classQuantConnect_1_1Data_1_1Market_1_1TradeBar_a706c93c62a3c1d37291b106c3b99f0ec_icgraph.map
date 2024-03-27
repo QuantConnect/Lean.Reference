@@ -1,0 +1,4 @@
+<map id="QuantConnect.Data.Market.TradeBar.ParseIndex" name="QuantConnect.Data.Market.TradeBar.ParseIndex">
+<area shape="rect" id="node1" title="Parse an index bar from the LEAN disk format" alt="" coords="256,5,459,47"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Data_1_1Market_1_1TradeBar.html#a8036b7144c8ab4145417d34a4e53ab23" title="TradeBar Reader: Fetch the data from the QC storage and feed it line by line into the engine." alt="" coords="5,5,208,47"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="QuantConnect.ToolBox.AlgoSeekFuturesConverter.AlgoSeekFuturesReader.MoveNext" name="QuantConnect.ToolBox.AlgoSeekFuturesConverter.AlgoSeekFuturesReader.MoveNext">
+<area shape="rect" id="node1" title="Parse the next line of the algoseek future file." alt="" coords="332,5,611,61"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1ToolBox_1_1AlgoSeekFuturesConverter_1_1AlgoSeekFuturesReader.html#aeb99989977e00531fb51168b2621f9d0" title="Enumerate through the lines of the algoseek files." alt="" coords="5,5,284,61"/>
+</map>

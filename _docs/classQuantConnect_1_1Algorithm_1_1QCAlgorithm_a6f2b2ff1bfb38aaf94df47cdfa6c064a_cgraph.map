@@ -1,0 +1,4 @@
+<map id="QuantConnect.Algorithm.QCAlgorithm.AddAlpha" name="QuantConnect.Algorithm.QCAlgorithm.AddAlpha">
+<area shape="rect" id="node1" title="Adds a new alpha model" alt="" coords="5,5,279,47"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Algorithm_1_1Framework_1_1Alphas_1_1CompositeAlphaModel.html#a7c7b795b52dac0c2e3171518f1daa50c" title="Adds a new AlphaModel" alt="" coords="327,5,609,47"/>
+</map>

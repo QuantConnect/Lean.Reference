@@ -1,0 +1,4 @@
+<map id="QuantConnect.Interfaces.IMessagingHandler.SetAuthentication" name="QuantConnect.Interfaces.IMessagingHandler.SetAuthentication">
+<area shape="rect" id="node1" title="Set the user communication channel" alt="" coords="255,5,521,47"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Lean_1_1Engine_1_1Engine.html#aa3a92ff5912aadc8d174bac4ab768b55" title="Runs a single backtest/live job from the job queue" alt="" coords="5,5,207,47"/>
+</map>

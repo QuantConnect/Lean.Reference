@@ -1,0 +1,5 @@
+<map id="QuantConnect.Securities.Option.StrategyMatcher.OptionStrategyLegDefinition.TryMatch" name="QuantConnect.Securities.Option.StrategyMatcher.OptionStrategyLegDefinition.TryMatch">
+<area shape="rect" id="node1" title="Determines whether or not this leg definition matches the specified position , and if so,..." alt="" coords="5,45,232,101"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Securities_1_1Option_1_1OptionStrategy_1_1OptionLegData.html#a53f30789abfdea2630df67ce9e6c092e" title="Creates a new instance of OptionLegData from the specified parameters" alt="" coords="294,5,506,61"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Securities_1_1Option_1_1OptionStrategy_1_1UnderlyingLegData.html#a188c3afec97e57249ebf2ddeeb43d029" title="Creates a new instance of UnderlyingLegData for the specified quantity &#160;of underlying shares." alt="" coords="280,85,520,141"/>
+</map>

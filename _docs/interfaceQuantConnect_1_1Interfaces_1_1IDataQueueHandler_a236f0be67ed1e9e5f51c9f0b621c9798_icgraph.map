@@ -1,0 +1,6 @@
+<map id="QuantConnect.Interfaces.IDataQueueHandler.SetJob" name="QuantConnect.Interfaces.IDataQueueHandler.SetJob">
+<area shape="rect" id="node1" title="Sets the job we&#39;re subscribing for" alt="" coords="332,93,527,134"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Lean_1_1Engine_1_1HistoricalData_1_1HistoryProviderManager.html#a8a9a7a7c37fb03207bcee5283fe4301a" title="Initializes this history provider to work for the specified job" alt="" coords="35,5,255,61"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Lean_1_1Engine_1_1DataFeeds_1_1LiveTradingDataFeed.html#a8d32ebec20cb71766e6663e4aa1dd932" title="Initializes the data feed for the specified job and algorithm" alt="" coords="27,85,262,141"/>
+<area shape="rect" id="node4" href="$classQuantConnect_1_1Lean_1_1Engine_1_1DataFeeds_1_1DataQueueHandlerManager.html#adda70a20c0245d6102bdb26dcb22707f" title="Sets the job we&#39;re subscribing for" alt="" coords="5,165,284,221"/>
+</map>

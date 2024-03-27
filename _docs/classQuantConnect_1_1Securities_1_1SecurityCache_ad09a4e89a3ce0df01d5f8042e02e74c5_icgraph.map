@@ -1,0 +1,5 @@
+<map id="QuantConnect.Securities.SecurityCache.StoreData" name="QuantConnect.Securities.SecurityCache.StoreData">
+<area shape="rect" id="node1" title="Stores the specified data list in the cache WITHOUT updating any of the cache properties,..." alt="" coords="487,5,673,47"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Securities_1_1SecurityCache.html#a3b47c0d4e8d5ea496539ce3fe0196dea" title="Add a list of market data points to the local security cache for the current market price." alt="" coords="240,5,439,47"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Securities_1_1Security.html#a19ba1fec9b05070b151505158dfc5115" title="Updates all of the security properties, such as price/OHLCV/bid/ask based on the data provided...." alt="" coords="5,5,192,47"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="QuantConnect.Data.BaseDataRequest.BaseDataRequest" name="QuantConnect.Data.BaseDataRequest.BaseDataRequest">
+<area shape="rect" id="node1" title="Initializes the base data request" alt="" coords="5,43,221,84"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Securities_1_1SecurityExchangeHours.html#af6f527fdfc92b5801026340fd4114a4a" title="Gets a SecurityExchangeHours instance that is always open" alt="" coords="269,43,531,84"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Securities_1_1LocalMarketHours.html#a7b62571672b229cdd9f8a676984cab84" title="Gets a LocalMarketHours instance that is always open" alt="" coords="585,5,805,47"/>
+<area shape="rect" id="node5" href="$classQuantConnect_1_1Securities_1_1SecurityExchangeHours.html#a4e35261d01a60022cc2ca6025cac18d8" title="Initializes a new instance of the SecurityExchangeHours class" alt="" coords="579,71,812,127"/>
+<area shape="rect" id="node4" href="$classQuantConnect_1_1Securities_1_1LocalMarketHours.html#af735a7f5215c72259ab040336e2220b9" title="Initializes a new instance of the LocalMarketHours class" alt="" coords="860,5,1120,47"/>
+</map>

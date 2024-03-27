@@ -1,0 +1,4 @@
+<map id="QuantConnect.Python.PandasData.AddTick" name="QuantConnect.Python.PandasData.AddTick">
+<area shape="rect" id="node1" title="Adds a tick data point to this pandas collection" alt="" coords="267,5,480,47"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Python_1_1PandasData.html#aa65992044599ed0e53fb3e62dd516d37" title="Adds security data object to the end of the lists" alt="" coords="5,5,219,47"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="QuantConnect.Data.Consolidators.FilteredIdentityDataConsolidator.ForTickType" name="QuantConnect.Data.Consolidators.FilteredIdentityDataConsolidator.ForTickType">
+<area shape="rect" id="node1" title="Creates a new instance of FilteredIdentityDataConsolidator&lt;T&gt; that filters ticks based on the specifi..." alt="" coords="617,5,875,61"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Lean_1_1Engine_1_1DataFeeds_1_1AggregationManager.html#a03382511b020ddd4b3a8376060e5c7db" title="Gets the consolidator to aggregate data for the given config" alt="" coords="312,5,569,61"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Lean_1_1Engine_1_1DataFeeds_1_1AggregationManager.html#a843cc3fb25f80884d2f59f6030e0435c" title="Add new subscription to current IDataAggregator instance" alt="" coords="5,13,264,54"/>
+</map>

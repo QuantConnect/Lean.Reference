@@ -1,0 +1,4 @@
+<map id="QuantConnect.Algorithm.Framework.Portfolio.PortfolioTargetCollection.Add" name="QuantConnect.Algorithm.Framework.Portfolio.PortfolioTargetCollection.Add">
+<area shape="rect" id="node1" title="Adds the specified target to the collection. If a target for the same symbol already exists it wil be..." alt="" coords="5,5,276,47"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Algorithm_1_1Framework_1_1Portfolio_1_1PortfolioTargetCollection.html#a2218228834c0ef01e3d941325ebceff9" title="Adds the specified target to the collection. If a target for the same symbol already exists it wil be..." alt="" coords="324,5,595,47"/>
+</map>

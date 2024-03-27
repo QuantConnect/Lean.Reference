@@ -1,0 +1,4 @@
+<map id="QuantConnect.Securities.IOrderProvider.GetOrders" name="QuantConnect.Securities.IOrderProvider.GetOrders">
+<area shape="rect" id="node1" title="Gets all orders matching the specified filter. Specifying null will return an enumerable of all order..." alt="" coords="285,13,472,54"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Securities_1_1SecurityTransactionManager.html#ac9aa80e3622f883abe8275464482f78c" title="Gets all orders matching the specified filter. Specifying null will return an enumerable of all order..." alt="" coords="5,5,237,61"/>
+</map>

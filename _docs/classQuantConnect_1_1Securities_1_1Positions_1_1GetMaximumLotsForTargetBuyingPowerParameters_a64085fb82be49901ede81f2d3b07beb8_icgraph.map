@@ -1,0 +1,6 @@
+<map id="QuantConnect.Securities.Positions.GetMaximumLotsForTargetBuyingPowerParameters.Error" name="QuantConnect.Securities.Positions.GetMaximumLotsForTargetBuyingPowerParameters.Error">
+<area shape="rect" id="node1" title="Creates a new GetMaximumLotsResult with zero quantity and an error message." alt="" coords="791,61,1052,117"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Securities_1_1Positions_1_1SecurityPositionGroupBuyingPowerModel.html#a155313b8356770e068b60746157fbc35" title="Get the maximum position group order quantity to obtain a position with a given buying power percenta..." alt="" coords="416,5,743,76"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Securities_1_1Positions_1_1PositionGroupBuyingPowerModel.html#a6ffef28c266745b259088113c3b04459" title="Get the maximum position group order quantity to obtain a position with a given buying power percenta..." alt="" coords="438,100,721,171"/>
+<area shape="rect" id="node4" href="$classQuantConnect_1_1Securities_1_1Positions_1_1PositionGroupBuyingPowerModel.html#abc9b4d24eebe829eda4d4fe1e4b10126" title="Get the maximum market position group order quantity to obtain a delta in the buying power used by a ..." alt="" coords="5,107,368,163"/>
+</map>

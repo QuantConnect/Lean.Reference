@@ -1,0 +1,4 @@
+<map id="QuantConnect.Data.UniverseSelection.UserDefinedUniverse.Remove" name="QuantConnect.Data.UniverseSelection.UserDefinedUniverse.Remove">
+<area shape="rect" id="node1" title="Removes the specified Symbol from this universe" alt="" coords="5,5,233,61"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Data_1_1UniverseSelection_1_1UserDefinedUniverse.html#a143d427b0db8ba8fec29f3612d72073a" title="Event invocator for the CollectionChanged event" alt="" coords="281,5,509,61"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="QuantConnect.Algorithm.QCAlgorithm.SetWarmUp" name="QuantConnect.Algorithm.QCAlgorithm.SetWarmUp">
+<area shape="rect" id="node1" title="Sets the warm up period by resolving a start date that would send that amount of data into the algori..." alt="" coords="5,5,279,47"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Algorithm_1_1QCAlgorithm.html#a396f67841bdf935dd3dd6bc212b053ef" title="Sets the warm up period to the specified value" alt="" coords="327,5,600,47"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Algorithm_1_1QCAlgorithm.html#ac57fed8de6af9f7472c82ec1a7e456b9" title="Sets the warm up period to the specified value" alt="" coords="648,5,921,47"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="QuantConnect.Data.Auxiliary.MapFilePrimaryExchangeProvider" name="QuantConnect.Data.Auxiliary.MapFilePrimaryExchangeProvider">
+<area shape="rect" id="node1" title="Implementation of IPrimaryExchangeProvider from map files." alt="" coords="5,80,247,121"/>
+<area shape="rect" id="node2" href="$interfaceQuantConnect_1_1Interfaces_1_1IPrimaryExchangeProvider.html" title="Primary Exchange Provider interface" alt="" coords="29,5,223,32"/>
+</map>

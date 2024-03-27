@@ -1,0 +1,5 @@
+<map id="QuantConnect.Algorithm.QCAlgorithm.AddUniverseSelection" name="QuantConnect.Algorithm.QCAlgorithm.AddUniverseSelection">
+<area shape="rect" id="node1" title="Adds a new universe selection model" alt="" coords="5,13,279,54"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Algorithm_1_1QCAlgorithm.html#a437d4bf5563cc9a0cac12c98815454ff" title="Adds a new universe selection model" alt="" coords="327,13,600,54"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Algorithm_1_1Framework_1_1Selection_1_1CompositeUniverseSelectionModel.html#adf16bf39578dc0d3d0f87c29502e7adf" title="Adds a new IUniverseSelectionModel" alt="" coords="648,5,923,61"/>
+</map>

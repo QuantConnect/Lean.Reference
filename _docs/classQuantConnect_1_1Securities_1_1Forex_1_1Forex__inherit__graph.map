@@ -1,0 +1,7 @@
+<map id="QuantConnect.Securities.Forex.Forex" name="QuantConnect.Securities.Forex.Forex">
+<area shape="rect" id="node1" title="FOREX Security Object Implementation for FOREX Assets" alt="" coords="116,155,303,196"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Securities_1_1Security.html" title="A base vehicle properties class for providing a common interface to all assets in QuantConnect." alt="" coords="100,80,175,107"/>
+<area shape="rect" id="node3" title=" " alt="" coords="5,5,128,32"/>
+<area shape="rect" id="node4" href="$interfaceQuantConnect_1_1Interfaces_1_1ISecurityPrice.html" title="Reduced interface which allows setting and accessing price properties for a Security" alt="" coords="153,5,263,32"/>
+<area shape="rect" id="node5" href="$interfaceQuantConnect_1_1Securities_1_1IBaseCurrencySymbol.html" title="Interface for various currency symbols" alt="" coords="199,80,364,107"/>
+</map>

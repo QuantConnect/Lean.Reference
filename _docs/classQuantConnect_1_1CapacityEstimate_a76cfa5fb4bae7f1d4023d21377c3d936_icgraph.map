@@ -1,0 +1,4 @@
+<map id="QuantConnect.CapacityEstimate.OnOrderEvent" name="QuantConnect.CapacityEstimate.OnOrderEvent">
+<area shape="rect" id="node1" title="Processes an order whenever it&#39;s encountered so that we can calculate the capacity" alt="" coords="300,13,537,54"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Lean_1_1Engine_1_1Results_1_1BacktestingResultHandler.html#af7a76f2443203cc1dc2e662bd779e919" title="Handle order event" alt="" coords="5,5,252,61"/>
+</map>

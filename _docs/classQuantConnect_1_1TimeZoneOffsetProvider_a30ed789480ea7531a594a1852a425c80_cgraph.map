@@ -1,0 +1,4 @@
+<map id="QuantConnect.TimeZoneOffsetProvider.ConvertFromUtc" name="QuantConnect.TimeZoneOffsetProvider.ConvertFromUtc">
+<area shape="rect" id="node1" title="Converts the specified utcTime &#160;using the offset resolved from a call to GetOffsetTicks" alt="" coords="5,5,228,47"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1TimeZoneOffsetProvider.html#a0fa8c04313b1edd87eb5908e7cca1b5a" title="Gets the offset in ticks from this time zone to UTC, such that UTC time + offset = local time" alt="" coords="276,5,499,47"/>
+</map>

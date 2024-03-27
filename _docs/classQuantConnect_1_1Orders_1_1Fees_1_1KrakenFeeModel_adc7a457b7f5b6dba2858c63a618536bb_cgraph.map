@@ -1,0 +1,12 @@
+<map id="QuantConnect.Orders.Fees.KrakenFeeModel.GetOrderFee" name="QuantConnect.Orders.Fees.KrakenFeeModel.GetOrderFee">
+<area shape="rect" id="node1" title="Get the fee for this order. If sell &#45; fees in base currency If buy &#45; fees in quote currency It can be..." alt="" coords="5,104,221,145"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Util_1_1CurrencyPairUtil.html#af097148889729df56066a7f324c558a0" title="Decomposes the specified currency pair into a base and quote currency provided as out parameters" alt="" coords="269,104,501,145"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Securities_1_1Forex_1_1Forex.html#af7fbd660dcbbc46527c61baafe2549bb" title="Decomposes the specified currency pair into a base and quote currency provided as out parameters" alt="" coords="556,5,817,47"/>
+<area shape="rect" id="node5" href="$classQuantConnect_1_1Securities_1_1Cfd_1_1Cfd.html#a29bdbe6a6d36ed75a1816cad31ee6eaa" title="Decomposes the specified currency pair into a base and quote currency provided as out parameters" alt="" coords="570,71,803,112"/>
+<area shape="rect" id="node6" href="$classQuantConnect_1_1Securities_1_1Crypto_1_1Crypto.html#a34f3ec6157d9575e34127b5172706403" title="Decomposes the specified currency pair into a base and quote currency provided as out parameters" alt="" coords="549,136,824,177"/>
+<area shape="rect" id="node7" href="$classQuantConnect_1_1Securities_1_1SymbolPropertiesDatabase.html#a3ea48557a7a885c2c53529f8c4b75598" title="Gets the symbol properties for the specified market/symbol/security&#45;type" alt="" coords="573,202,800,258"/>
+<area shape="rect" id="node4" href="$classQuantConnect_1_1Util_1_1CurrencyPairUtil.html#ab191629e505a3345a1c993773c2cdf2f" title="Checks whether a symbol is decomposable into a base and a quote currency" alt="" coords="891,5,1109,47"/>
+<area shape="rect" id="node8" href="$classQuantConnect_1_1Securities_1_1MarketHoursDatabase.html#aa717adb9bb04be931913608ffd5a2733" title="Gets the correct string symbol to use as a database key" alt="" coords="872,165,1128,221"/>
+<area shape="rect" id="node9" href="$classQuantConnect_1_1Securities_1_1SymbolProperties.html#ad148190d1dfce7109d38d3107b7b8fbf" title="Gets a default instance of the SymbolProperties class for the specified quoteCurrency" alt="" coords="894,245,1106,287"/>
+<area shape="rect" id="node10" href="$classQuantConnect_1_1Securities_1_1SymbolProperties.html#a0f421617bcddd5b08a830689b1e2dcfa" title="Creates an instance of the SymbolProperties class" alt="" coords="1176,245,1432,287"/>
+</map>

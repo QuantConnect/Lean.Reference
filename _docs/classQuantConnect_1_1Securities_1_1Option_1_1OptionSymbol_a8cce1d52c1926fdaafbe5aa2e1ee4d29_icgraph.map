@@ -1,0 +1,7 @@
+<map id="QuantConnect.Securities.Option.OptionSymbol.MapToUnderlying" name="QuantConnect.Securities.Option.OptionSymbol.MapToUnderlying">
+<area shape="rect" id="node1" title="Maps the option ticker to it&#39;s underlying" alt="" coords="576,71,855,112"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Util_1_1LeanDataPathComponents.html#a0d24d06405609c2f8b3107c6b41ba57d" title="Parses the specified path into a new instance of the LeanDataPathComponents class" alt="" coords="289,5,496,47"/>
+<area shape="rect" id="node4" href="$classQuantConnect_1_1SymbolRepresentation.html#a8390f7e01ea8cc7ca5d9c650c377d8b2" title="Parses the specified OSI options ticker into a Symbol object" alt="" coords="257,71,528,112"/>
+<area shape="rect" id="node5" href="$classQuantConnect_1_1Util_1_1LeanData.html#a664e30720912250293070fd88716e7a5" title="Parses file name into a Security and DateTime" alt="" coords="287,136,498,177"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1ToolBox_1_1LeanParser.html#abd1bb9fca7f05ea516d50523b8218593" title="Parses the specified input stream into an enumerable of data" alt="" coords="5,5,209,47"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="QuantConnect.BaseSeries.GetUpdates" name="QuantConnect.BaseSeries.GetUpdates">
+<area shape="rect" id="node1" title="Get the updates since the last call to this function." alt="" coords="5,39,200,80"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1BaseSeries.html#a11d115d5750fb76ead9841a1242fdf3d" title="Return a new instance clone of this object" alt="" coords="251,5,445,47"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Logging_1_1Log.html#af0e7955911bc7664b37661b2a303a9e3" title="Log error" alt="" coords="248,71,448,112"/>
+<area shape="rect" id="node4" href="$interfaceQuantConnect_1_1Logging_1_1ILogHandler.html#a35373a0c5d76031fa5ccf5dc39e5c25d" title="Write error message to log" alt="" coords="496,71,696,112"/>
+</map>

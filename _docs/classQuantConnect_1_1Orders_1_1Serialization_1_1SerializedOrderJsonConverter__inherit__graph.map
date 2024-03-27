@@ -1,0 +1,4 @@
+<map id="QuantConnect.Orders.Serialization.SerializedOrderJsonConverter" name="QuantConnect.Orders.Serialization.SerializedOrderJsonConverter">
+<area shape="rect" id="node1" title="Defines how Orders should be serialized to json" alt="" coords="5,95,256,136"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Util_1_1TypeChangeJsonConverter.html" title=" " alt="" coords="33,5,229,47"/>
+</map>

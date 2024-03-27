@@ -1,0 +1,25 @@
+var namespaceQuantConnect_1_1Algorithm_1_1Framework_1_1Alphas =
+[
+    [ "Analysis", "namespaceQuantConnect_1_1Algorithm_1_1Framework_1_1Alphas_1_1Analysis.html", "namespaceQuantConnect_1_1Algorithm_1_1Framework_1_1Alphas_1_1Analysis" ],
+    [ "Serialization", "namespaceQuantConnect_1_1Algorithm_1_1Framework_1_1Alphas_1_1Serialization.html", "namespaceQuantConnect_1_1Algorithm_1_1Framework_1_1Alphas_1_1Serialization" ],
+    [ "AlphaModel", "classQuantConnect_1_1Algorithm_1_1Framework_1_1Alphas_1_1AlphaModel.html", "classQuantConnect_1_1Algorithm_1_1Framework_1_1Alphas_1_1AlphaModel" ],
+    [ "AlphaModelExtensions", "classQuantConnect_1_1Algorithm_1_1Framework_1_1Alphas_1_1AlphaModelExtensions.html", "classQuantConnect_1_1Algorithm_1_1Framework_1_1Alphas_1_1AlphaModelExtensions" ],
+    [ "AlphaModelPythonWrapper", "classQuantConnect_1_1Algorithm_1_1Framework_1_1Alphas_1_1AlphaModelPythonWrapper.html", "classQuantConnect_1_1Algorithm_1_1Framework_1_1Alphas_1_1AlphaModelPythonWrapper" ],
+    [ "BasePairsTradingAlphaModel", "classQuantConnect_1_1Algorithm_1_1Framework_1_1Alphas_1_1BasePairsTradingAlphaModel.html", "classQuantConnect_1_1Algorithm_1_1Framework_1_1Alphas_1_1BasePairsTradingAlphaModel" ],
+    [ "CompositeAlphaModel", "classQuantConnect_1_1Algorithm_1_1Framework_1_1Alphas_1_1CompositeAlphaModel.html", "classQuantConnect_1_1Algorithm_1_1Framework_1_1Alphas_1_1CompositeAlphaModel" ],
+    [ "ConstantAlphaModel", "classQuantConnect_1_1Algorithm_1_1Framework_1_1Alphas_1_1ConstantAlphaModel.html", "classQuantConnect_1_1Algorithm_1_1Framework_1_1Alphas_1_1ConstantAlphaModel" ],
+    [ "EmaCrossAlphaModel", "classQuantConnect_1_1Algorithm_1_1Framework_1_1Alphas_1_1EmaCrossAlphaModel.html", "classQuantConnect_1_1Algorithm_1_1Framework_1_1Alphas_1_1EmaCrossAlphaModel" ],
+    [ "GeneratedInsightsCollection", "classQuantConnect_1_1Algorithm_1_1Framework_1_1Alphas_1_1GeneratedInsightsCollection.html", "classQuantConnect_1_1Algorithm_1_1Framework_1_1Alphas_1_1GeneratedInsightsCollection" ],
+    [ "HistoricalReturnsAlphaModel", "classQuantConnect_1_1Algorithm_1_1Framework_1_1Alphas_1_1HistoricalReturnsAlphaModel.html", "classQuantConnect_1_1Algorithm_1_1Framework_1_1Alphas_1_1HistoricalReturnsAlphaModel" ],
+    [ "IAlphaModel", "interfaceQuantConnect_1_1Algorithm_1_1Framework_1_1Alphas_1_1IAlphaModel.html", "interfaceQuantConnect_1_1Algorithm_1_1Framework_1_1Alphas_1_1IAlphaModel" ],
+    [ "IInsightScoreFunction", "interfaceQuantConnect_1_1Algorithm_1_1Framework_1_1Alphas_1_1IInsightScoreFunction.html", "interfaceQuantConnect_1_1Algorithm_1_1Framework_1_1Alphas_1_1IInsightScoreFunction" ],
+    [ "INamedModel", "interfaceQuantConnect_1_1Algorithm_1_1Framework_1_1Alphas_1_1INamedModel.html", "interfaceQuantConnect_1_1Algorithm_1_1Framework_1_1Alphas_1_1INamedModel" ],
+    [ "Insight", "classQuantConnect_1_1Algorithm_1_1Framework_1_1Alphas_1_1Insight.html", "classQuantConnect_1_1Algorithm_1_1Framework_1_1Alphas_1_1Insight" ],
+    [ "InsightCollection", "classQuantConnect_1_1Algorithm_1_1Framework_1_1Alphas_1_1InsightCollection.html", "classQuantConnect_1_1Algorithm_1_1Framework_1_1Alphas_1_1InsightCollection" ],
+    [ "InsightScore", "classQuantConnect_1_1Algorithm_1_1Framework_1_1Alphas_1_1InsightScore.html", "classQuantConnect_1_1Algorithm_1_1Framework_1_1Alphas_1_1InsightScore" ],
+    [ "InsightScoreFunctionPythonWrapper", "classQuantConnect_1_1Algorithm_1_1Framework_1_1Alphas_1_1InsightScoreFunctionPythonWrapper.html", "classQuantConnect_1_1Algorithm_1_1Framework_1_1Alphas_1_1InsightScoreFunctionPythonWrapper" ],
+    [ "MacdAlphaModel", "classQuantConnect_1_1Algorithm_1_1Framework_1_1Alphas_1_1MacdAlphaModel.html", "classQuantConnect_1_1Algorithm_1_1Framework_1_1Alphas_1_1MacdAlphaModel" ],
+    [ "NullAlphaModel", "classQuantConnect_1_1Algorithm_1_1Framework_1_1Alphas_1_1NullAlphaModel.html", "classQuantConnect_1_1Algorithm_1_1Framework_1_1Alphas_1_1NullAlphaModel" ],
+    [ "PearsonCorrelationPairsTradingAlphaModel", "classQuantConnect_1_1Algorithm_1_1Framework_1_1Alphas_1_1PearsonCorrelationPairsTradingAlphaModel.html", "classQuantConnect_1_1Algorithm_1_1Framework_1_1Alphas_1_1PearsonCorrelationPairsTradingAlphaModel" ],
+    [ "RsiAlphaModel", "classQuantConnect_1_1Algorithm_1_1Framework_1_1Alphas_1_1RsiAlphaModel.html", "classQuantConnect_1_1Algorithm_1_1Framework_1_1Alphas_1_1RsiAlphaModel" ]
+];

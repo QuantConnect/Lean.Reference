@@ -1,0 +1,4 @@
+<map id="QuantConnect.Data.Consolidators.VolumeRenkoConsolidator.OnDataConsolidated" name="QuantConnect.Data.Consolidators.VolumeRenkoConsolidator.OnDataConsolidated">
+<area shape="rect" id="node1" title="Event invocator for the DataConsolidated event. This should be invoked by derived classes when they h..." alt="" coords="300,5,631,47"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Data_1_1Consolidators_1_1VolumeRenkoConsolidator.html#ab3ff6625bd1fddd190953f512b015539" title="Updates this consolidator with the specified data" alt="" coords="5,5,252,47"/>
+</map>

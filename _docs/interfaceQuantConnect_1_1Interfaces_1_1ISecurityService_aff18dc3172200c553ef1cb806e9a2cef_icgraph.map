@@ -1,0 +1,4 @@
+<map id="QuantConnect.Interfaces.ISecurityService.CreateSecurity" name="QuantConnect.Interfaces.ISecurityService.CreateSecurity">
+<area shape="rect" id="node1" title="Creates a new security" alt="" coords="276,5,503,47"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Securities_1_1Cash.html#a8af2f228ffa12236fec72d5458a031fc" title="Ensures that we have a data feed to convert this currency into the base currency. This will add a Sub..." alt="" coords="5,5,228,47"/>
+</map>

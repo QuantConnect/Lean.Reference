@@ -1,0 +1,5 @@
+<map id="QuantConnect.Orders.Order.GetValue" name="QuantConnect.Orders.Order.GetValue">
+<area shape="rect" id="node1" title="Gets the value of this order at the given market price in units of the account currency NOTE: Some or..." alt="" coords="344,39,548,80"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Securities_1_1CashBuyingPowerModel.html#aae57275da7a6487578fabb9efccb4473" title="Gets the buying power available for a trade" alt="" coords="5,5,296,47"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Orders_1_1Fees_1_1IndiaFeeModel.html#aba52078431727b2f7f84ebed3fe9938e" title="Gets the order fee associated with the specified order." alt="" coords="49,71,252,112"/>
+</map>

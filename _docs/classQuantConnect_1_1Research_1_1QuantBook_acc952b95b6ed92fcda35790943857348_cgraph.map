@@ -1,0 +1,4 @@
+<map id="QuantConnect.Research.QuantBook.GetPortfolioStatistics" name="QuantConnect.Research.QuantBook.GetPortfolioStatistics">
+<area shape="rect" id="node1" title="Gets Portfolio Statistics from a pandas.DataFrame with equity and benchmark values" alt="" coords="5,13,227,54"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Lean_1_1Engine_1_1Setup_1_1BaseSetupHandler.html#a700f98e4cf6add8654078dc4f304afd0" title="Set the number of trading days per year based on the specified brokerage model." alt="" coords="275,5,548,61"/>
+</map>

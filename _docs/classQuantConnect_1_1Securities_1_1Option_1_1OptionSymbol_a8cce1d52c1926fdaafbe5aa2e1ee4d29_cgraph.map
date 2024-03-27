@@ -1,0 +1,5 @@
+<map id="QuantConnect.Securities.Option.OptionSymbol.MapToUnderlying" name="QuantConnect.Securities.Option.OptionSymbol.MapToUnderlying">
+<area shape="rect" id="node1" title="Maps the option ticker to it&#39;s underlying" alt="" coords="5,53,284,94"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Securities_1_1Future_1_1FuturesOptionsSymbolMappings.html#a739feea1e5e726c78e75fd6c58fa2d5e" title="Maps a futures options ticker to its underlying future&#39;s ticker" alt="" coords="332,5,613,61"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Securities_1_1IndexOption_1_1IndexOptionSymbol.html#ac516ce6e5976b125793890b240532f0a" title="Maps an index option ticker to its underlying index ticker" alt="" coords="354,85,591,141"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="QuantConnect.Orders.Order.CreateOrder" name="QuantConnect.Orders.Order.CreateOrder">
+<area shape="rect" id="node1" title="Creates an Order to match the specified request" alt="" coords="699,50,903,91"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Lean_1_1Engine_1_1TransactionHandlers_1_1BrokerageTransactionHandler.html#a68f215fe79ea4c800a036e7169b8b0a4" title="Add an order to collection and return the unique order id or negative if an error." alt="" coords="352,5,651,61"/>
+<area shape="rect" id="node4" href="$classQuantConnect_1_1Orders_1_1Order.html#a78fe84a79fafe9377035e67e22d71de8" title="Creates a new Order instance from a SerializedOrder instance" alt="" coords="399,86,603,127"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Lean_1_1Engine_1_1TransactionHandlers_1_1BrokerageTransactionHandler.html#ad7914edfb9b6e24fcbcd637e2c468cd5" title="Adds the specified order to be processed" alt="" coords="5,5,304,61"/>
+<area shape="rect" id="node5" href="$classQuantConnect_1_1Orders_1_1Serialization_1_1SerializedOrderJsonConverter.html#a6cfaeafcc6f3697d680ed0cf2dfa6a47" title="Converts the input value to be deserialized" alt="" coords="21,86,288,127"/>
+</map>

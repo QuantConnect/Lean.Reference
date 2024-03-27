@@ -1,0 +1,5 @@
+<map id="QuantConnect.Data.Market.QuoteBar.Update" name="QuantConnect.Data.Market.QuoteBar.Update">
+<area shape="rect" id="node1" title="Update the quotebar &#45; build the bar from this pricing information:" alt="" coords="337,39,540,80"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Data_1_1Consolidators_1_1QuoteBarConsolidator.html#af890825da573f08ca0df1cddac12818a" title="Aggregates the new &#39;data&#39; into the &#39;workingBar&#39;. The &#39;workingBar&#39; will be null following the event fi..." alt="" coords="19,5,276,47"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Data_1_1Consolidators_1_1TickQuoteBarConsolidator.html#a1ee90f47528ebb3fba892897461c4e89" title="Aggregates the new &#39;data&#39; into the &#39;workingBar&#39;. The &#39;workingBar&#39; will be null following the event fi..." alt="" coords="5,71,289,112"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="QuantConnect.Algorithm.QCAlgorithm.AddSecurity" name="QuantConnect.Algorithm.QCAlgorithm.AddSecurity">
+<area shape="rect" id="node1" title="Add specified data to required list. QC will funnel this data to the handle data routine." alt="" coords="5,5,279,47"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Algorithm_1_1QCAlgorithm.html#a101da8582e6819d82780f37a3b3162e0" title="Add specified data to our data subscriptions. QuantConnect will funnel this data to the handle data r..." alt="" coords="327,5,600,47"/>
+</map>

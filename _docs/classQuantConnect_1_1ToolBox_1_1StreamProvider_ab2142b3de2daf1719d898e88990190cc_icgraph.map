@@ -1,0 +1,4 @@
+<map id="QuantConnect.ToolBox.StreamProvider.ForExtension" name="QuantConnect.ToolBox.StreamProvider.ForExtension">
+<area shape="rect" id="node1" title="Creates a new IStreamProvider capable of reading a file with the specified extenson" alt="" coords="332,13,552,54"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1ToolBox_1_1AlgoSeekFuturesConverter_1_1AlgoSeekFuturesReader.html#aeb99989977e00531fb51168b2621f9d0" title="Enumerate through the lines of the algoseek files." alt="" coords="5,5,284,61"/>
+</map>

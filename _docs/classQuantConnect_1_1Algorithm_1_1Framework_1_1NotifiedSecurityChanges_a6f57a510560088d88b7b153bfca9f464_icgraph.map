@@ -1,0 +1,9 @@
+<map id="QuantConnect.Algorithm.Framework.NotifiedSecurityChanges.Update" name="QuantConnect.Algorithm.Framework.NotifiedSecurityChanges.Update">
+<area shape="rect" id="node1" title="Invokes the provided add &#160;and remove &#160;functions for each" alt="" coords="692,166,955,207"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Algorithm_1_1Framework_1_1NotifiedSecurityChanges.html#a6b6766b327278d4264e6305cad32d189" title="Adds and removes the security changes to/from the collection" alt="" coords="345,93,643,134"/>
+<area shape="rect" id="node6" href="$classQuantConnect_1_1Algorithm_1_1Framework_1_1NotifiedSecurityChanges.html#ab0187017045ffccdb69ab07cff782327" title="Adds and removes the security changes to/from the collection" alt="" coords="345,159,643,215"/>
+<area shape="rect" id="node7" href="$classQuantConnect_1_1Algorithm_1_1Framework_1_1NotifiedSecurityChanges.html#aff4abf046316d056872913c40ea7b22b" title="Most generic form of UpdateCollection" alt="" coords="344,239,644,295"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Algorithm_1_1Framework_1_1Alphas_1_1PearsonCorrelationPairsTradingAlphaModel.html#a80595dce23ba75a781c3ee6052991ecd" title="Event fired each time the we add/remove securities from the data feed" alt="" coords="15,5,287,61"/>
+<area shape="rect" id="node4" href="$classQuantConnect_1_1Algorithm_1_1Framework_1_1Alphas_1_1BasePairsTradingAlphaModel.html#aba7a4a021655d046d8c6fbc6b277342f" title="Event fired each time the we add/remove securities from the data feed" alt="" coords="11,85,290,141"/>
+<area shape="rect" id="node5" href="$classQuantConnect_1_1Algorithm_1_1Framework_1_1Alphas_1_1ConstantAlphaModel.html#a369efb0e8e4420c8bcdfd3c8ddf5cf84" title="Event fired each time the we add/remove securities from the data feed" alt="" coords="5,165,296,221"/>
+</map>

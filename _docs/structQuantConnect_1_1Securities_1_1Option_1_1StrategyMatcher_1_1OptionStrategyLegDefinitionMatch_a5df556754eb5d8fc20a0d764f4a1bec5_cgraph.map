@@ -1,0 +1,5 @@
+<map id="QuantConnect.Securities.Option.StrategyMatcher.OptionStrategyLegDefinitionMatch.CreateOptionStrategyLeg" name="QuantConnect.Securities.Option.StrategyMatcher.OptionStrategyLegDefinitionMatch.CreateOptionStrategyLeg">
+<area shape="rect" id="node1" title="Creates the appropriate type of OptionStrategy.LegData for this matched position" alt="" coords="5,38,299,109"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Securities_1_1Option_1_1OptionStrategy_1_1OptionLegData.html#a53f30789abfdea2630df67ce9e6c092e" title="Creates a new instance of OptionLegData from the specified parameters" alt="" coords="361,5,573,61"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Securities_1_1Option_1_1OptionStrategy_1_1UnderlyingLegData.html#a188c3afec97e57249ebf2ddeeb43d029" title="Creates a new instance of UnderlyingLegData for the specified quantity &#160;of underlying shares." alt="" coords="347,85,587,141"/>
+</map>

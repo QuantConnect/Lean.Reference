@@ -1,0 +1,4 @@
+<map id="QuantConnect.Securities.IBuyingPowerModel.GetBuyingPower" name="QuantConnect.Securities.IBuyingPowerModel.GetBuyingPower">
+<area shape="rect" id="node1" title="Gets the buying power available for a trade" alt="" coords="299,13,561,54"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Securities_1_1BuyingPowerModelExtensions.html#a682d18c09165b4245081164a61e5e800" title="Gets the buying power available for a trade" alt="" coords="5,5,251,61"/>
+</map>

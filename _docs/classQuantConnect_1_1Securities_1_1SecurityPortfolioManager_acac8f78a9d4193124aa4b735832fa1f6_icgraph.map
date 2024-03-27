@@ -1,0 +1,8 @@
+<map id="QuantConnect.Securities.SecurityPortfolioManager.SetCash" name="QuantConnect.Securities.SecurityPortfolioManager.SetCash">
+<area shape="rect" id="node1" title="Set the account currency cash this algorithm is to manage." alt="" coords="916,79,1159,120"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Brokerages_1_1Brokerage.html#a2d1fc4c6ce0ff2f95351c9415ed4af5b" title="Synchronizes the cashbook with the brokerage account" alt="" coords="628,5,835,47"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Securities_1_1SecurityPortfolioManager.html#ace04c1c80ebeef4a75f6fc0bdb7aa215" title="Sets the account currency cash symbol this algorithm is to manage, as well as the starting cash in th..." alt="" coords="626,71,837,127"/>
+<area shape="rect" id="node6" href="$classQuantConnect_1_1Algorithm_1_1QCAlgorithm.html#a218bcecf6f8f8c6e676890cb962817cf" title="Set initial cash for the strategy while backtesting. During live mode this value is ignored and repla..." alt="" coords="595,152,868,193"/>
+<area shape="rect" id="node4" href="$classQuantConnect_1_1Algorithm_1_1QCAlgorithm.html#af4b96ace7454948c54ea98e863b8b0e1" title="Sets the account currency cash symbol this algorithm is to manage, as well as the starting cash in th..." alt="" coords="273,79,547,120"/>
+<area shape="rect" id="node5" href="$classQuantConnect_1_1Report_1_1PortfolioLooperAlgorithm.html#a1186a17605acd9b49c04f18ff8ab51ef" title="Initialize this algorithm" alt="" coords="5,79,225,120"/>
+</map>

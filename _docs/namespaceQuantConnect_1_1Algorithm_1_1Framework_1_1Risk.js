@@ -1,0 +1,13 @@
+var namespaceQuantConnect_1_1Algorithm_1_1Framework_1_1Risk =
+[
+    [ "CompositeRiskManagementModel", "classQuantConnect_1_1Algorithm_1_1Framework_1_1Risk_1_1CompositeRiskManagementModel.html", "classQuantConnect_1_1Algorithm_1_1Framework_1_1Risk_1_1CompositeRiskManagementModel" ],
+    [ "IRiskManagementModel", "interfaceQuantConnect_1_1Algorithm_1_1Framework_1_1Risk_1_1IRiskManagementModel.html", "interfaceQuantConnect_1_1Algorithm_1_1Framework_1_1Risk_1_1IRiskManagementModel" ],
+    [ "MaximumDrawdownPercentPerSecurity", "classQuantConnect_1_1Algorithm_1_1Framework_1_1Risk_1_1MaximumDrawdownPercentPerSecurity.html", "classQuantConnect_1_1Algorithm_1_1Framework_1_1Risk_1_1MaximumDrawdownPercentPerSecurity" ],
+    [ "MaximumDrawdownPercentPortfolio", "classQuantConnect_1_1Algorithm_1_1Framework_1_1Risk_1_1MaximumDrawdownPercentPortfolio.html", "classQuantConnect_1_1Algorithm_1_1Framework_1_1Risk_1_1MaximumDrawdownPercentPortfolio" ],
+    [ "MaximumSectorExposureRiskManagementModel", "classQuantConnect_1_1Algorithm_1_1Framework_1_1Risk_1_1MaximumSectorExposureRiskManagementModel.html", "classQuantConnect_1_1Algorithm_1_1Framework_1_1Risk_1_1MaximumSectorExposureRiskManagementModel" ],
+    [ "MaximumUnrealizedProfitPercentPerSecurity", "classQuantConnect_1_1Algorithm_1_1Framework_1_1Risk_1_1MaximumUnrealizedProfitPercentPerSecurity.html", "classQuantConnect_1_1Algorithm_1_1Framework_1_1Risk_1_1MaximumUnrealizedProfitPercentPerSecurity" ],
+    [ "NullRiskManagementModel", "classQuantConnect_1_1Algorithm_1_1Framework_1_1Risk_1_1NullRiskManagementModel.html", "classQuantConnect_1_1Algorithm_1_1Framework_1_1Risk_1_1NullRiskManagementModel" ],
+    [ "RiskManagementModel", "classQuantConnect_1_1Algorithm_1_1Framework_1_1Risk_1_1RiskManagementModel.html", "classQuantConnect_1_1Algorithm_1_1Framework_1_1Risk_1_1RiskManagementModel" ],
+    [ "RiskManagementModelPythonWrapper", "classQuantConnect_1_1Algorithm_1_1Framework_1_1Risk_1_1RiskManagementModelPythonWrapper.html", "classQuantConnect_1_1Algorithm_1_1Framework_1_1Risk_1_1RiskManagementModelPythonWrapper" ],
+    [ "TrailingStopRiskManagementModel", "classQuantConnect_1_1Algorithm_1_1Framework_1_1Risk_1_1TrailingStopRiskManagementModel.html", "classQuantConnect_1_1Algorithm_1_1Framework_1_1Risk_1_1TrailingStopRiskManagementModel" ]
+];

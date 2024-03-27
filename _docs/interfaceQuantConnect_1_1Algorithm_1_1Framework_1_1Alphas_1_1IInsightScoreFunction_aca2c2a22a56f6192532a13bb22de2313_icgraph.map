@@ -1,0 +1,5 @@
+<map id="QuantConnect.Algorithm.Framework.Alphas.IInsightScoreFunction.Score" name="QuantConnect.Algorithm.Framework.Alphas.IInsightScoreFunction.Score">
+<area shape="rect" id="node1" title="Method to evaluate and score insights for each time step" alt="" coords="637,5,900,47"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Algorithm_1_1Framework_1_1Alphas_1_1Analysis_1_1InsightManager.html#a6ff4a79660aa2e57022c9e060ef06f7a" title="Process a new time step handling insights scoring" alt="" coords="327,5,589,47"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Algorithm_1_1QCAlgorithm.html#a2522d3da5e22e9da677d3be34717f70a" title="Used to send data updates to algorithm framework models" alt="" coords="5,5,279,47"/>
+</map>

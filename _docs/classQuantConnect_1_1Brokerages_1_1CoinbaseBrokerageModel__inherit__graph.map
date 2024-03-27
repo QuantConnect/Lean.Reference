@@ -1,0 +1,6 @@
+<map id="QuantConnect.Brokerages.CoinbaseBrokerageModel" name="QuantConnect.Brokerages.CoinbaseBrokerageModel">
+<area shape="rect" id="node1" title="Represents a brokerage model for interacting with the Coinbase exchange. This class extends the defau..." alt="" coords="5,155,200,196"/>
+<area shape="rect" id="node4" href="$classQuantConnect_1_1Brokerages_1_1GDAXBrokerageModel.html" title="Provides GDAX specific properties" alt="" coords="5,244,200,285"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Brokerages_1_1DefaultBrokerageModel.html" title="Provides a default implementation of IBrokerageModel that allows all orders and uses the default tran..." alt="" coords="15,80,191,107"/>
+<area shape="rect" id="node3" href="$interfaceQuantConnect_1_1Brokerages_1_1IBrokerageModel.html" title="Models brokerage transactions, fees, and order" alt="" coords="37,5,169,32"/>
+</map>

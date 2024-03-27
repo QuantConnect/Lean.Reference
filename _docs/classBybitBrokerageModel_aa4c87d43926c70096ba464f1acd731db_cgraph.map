@@ -1,0 +1,4 @@
+<map id="BybitBrokerageModel.CanSubmitOrder" name="BybitBrokerageModel.CanSubmitOrder">
+<area shape="rect" id="node1" title="Returns true if the brokerage could accept this order. This takes into account order type,..." alt="" coords="5,5,243,47"/>
+<area shape="rect" id="node2" href="$classBybitBrokerageModel.html#a307e3ed424a68ddbb55a71ff451f87f7" title="Returns true if the order size is large enough for the given security." alt="" coords="291,5,504,47"/>
+</map>

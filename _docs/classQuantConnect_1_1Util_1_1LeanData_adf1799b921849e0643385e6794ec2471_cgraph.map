@@ -1,0 +1,4 @@
+<map id="QuantConnect.Util.LeanData.GetCommonTickTypeForCommonDataTypes" name="QuantConnect.Util.LeanData.GetCommonTickTypeForCommonDataTypes">
+<area shape="rect" id="node1" title="Get the TickType for common Lean data types. If not a Lean common data type, return a TickType of Tra..." alt="" coords="5,5,313,47"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Util_1_1LeanData.html#a24869ac4b029b3f2d468596baab6d72d" title="Gets the tick type most commonly associated with the specified security type" alt="" coords="361,5,572,47"/>
+</map>

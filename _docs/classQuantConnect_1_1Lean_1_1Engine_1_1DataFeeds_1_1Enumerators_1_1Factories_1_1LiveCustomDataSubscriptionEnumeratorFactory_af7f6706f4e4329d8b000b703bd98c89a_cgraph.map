@@ -1,0 +1,7 @@
+<map id="QuantConnect.Lean.Engine.DataFeeds.Enumerators.Factories.LiveCustomDataSubscriptionEnumeratorFactory.GetSubscriptionDataSourceReader" name="QuantConnect.Lean.Engine.DataFeeds.Enumerators.Factories.LiveCustomDataSubscriptionEnumeratorFactory.GetSubscriptionDataSourceReader">
+<area shape="rect" id="node1" title="Gets the ISubscriptionDataSourceReader for the specified source" alt="" coords="5,24,300,95"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Lean_1_1Engine_1_1DataFeeds_1_1SubscriptionDataSourceReader.html#a49f621667f9770018e6401b2bfdbf270" title="Creates a new ISubscriptionDataSourceReader capable of handling the specified source" alt="" coords="348,31,599,87"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Logging_1_1Log.html#af0e7955911bc7664b37661b2a303a9e3" title="Log error" alt="" coords="657,5,857,47"/>
+<area shape="rect" id="node5" href="$classQuantConnect_1_1Data_1_1BaseData.html#acae87f280cdb0e488c01a0a7fcce912e" title="Indicates that the data set is expected to be sparse" alt="" coords="647,71,867,112"/>
+<area shape="rect" id="node4" href="$interfaceQuantConnect_1_1Logging_1_1ILogHandler.html#a35373a0c5d76031fa5ccf5dc39e5c25d" title="Write error message to log" alt="" coords="915,5,1115,47"/>
+</map>

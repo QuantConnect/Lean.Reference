@@ -1,0 +1,11 @@
+<map id="QuantConnect.Lean.Engine.Storage.LocalObjectStore.PersistData" name="QuantConnect.Lean.Engine.Storage.LocalObjectStore.PersistData">
+<area shape="rect" id="node1" title="Overridable persistence function" alt="" coords="5,201,271,243"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Lean_1_1Engine_1_1Storage_1_1FileHandler.html#a29dd5ac902556340f99beb85648c9e12" title="Create the requested directory path" alt="" coords="322,5,578,47"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Lean_1_1Engine_1_1Storage_1_1FileHandler.html#ac6433416537bd55227bc64ee4b2bc3d8" title="Will delete the given file path" alt="" coords="349,71,551,112"/>
+<area shape="rect" id="node4" href="$classQuantConnect_1_1Lean_1_1Engine_1_1Storage_1_1FileHandler.html#abce4d1ac31ea0570c4462902a59246b3" title="True if the given directory exists" alt="" coords="324,136,576,177"/>
+<area shape="rect" id="node5" href="$classQuantConnect_1_1Logging_1_1Log.html#af0e7955911bc7664b37661b2a303a9e3" title="Log error" alt="" coords="350,201,550,243"/>
+<area shape="rect" id="node7" href="$classQuantConnect_1_1Lean_1_1Engine_1_1Storage_1_1LocalObjectStore.html#afa028c51997b389b10f3d33ec455c74d" title="Event invocator for the ErrorRaised event" alt="" coords="331,267,569,323"/>
+<area shape="rect" id="node8" href="$classQuantConnect_1_1Lean_1_1Engine_1_1Storage_1_1LocalObjectStore.html#a401003a1ad65a8cb163d7aa1162e98c0" title="Get&#39;s a file path for a given path. Internal use only because it does not guarantee the existence of ..." alt="" coords="319,348,581,389"/>
+<area shape="rect" id="node9" href="$classQuantConnect_1_1Lean_1_1Engine_1_1Storage_1_1FileHandler.html#a6a2786801a245823541eebda19adce57" title="Will write the given byte array at the target file path" alt="" coords="329,413,571,455"/>
+<area shape="rect" id="node6" href="$interfaceQuantConnect_1_1Logging_1_1ILogHandler.html#a35373a0c5d76031fa5ccf5dc39e5c25d" title="Write error message to log" alt="" coords="629,201,829,243"/>
+</map>

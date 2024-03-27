@@ -1,0 +1,4 @@
+<map id="QuantConnect.Brokerages.Backtesting.BacktestingBrokerage.GetOpenOrders" name="QuantConnect.Brokerages.Backtesting.BacktestingBrokerage.GetOpenOrders">
+<area shape="rect" id="node1" title="Gets all open orders on the account" alt="" coords="5,5,256,61"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Securities_1_1SecurityTransactionManager.html#a09717090ee95e9f5cc1c655e3793c070" title="Get a list of all open orders for a symbol." alt="" coords="304,5,536,61"/>
+</map>

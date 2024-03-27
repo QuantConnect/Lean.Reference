@@ -1,0 +1,4 @@
+<map id="QuantConnect.Securities.LocalMarketHours.GetMarketOpen" name="QuantConnect.Securities.LocalMarketHours.GetMarketOpen">
+<area shape="rect" id="node1" title="Gets the market opening time of day" alt="" coords="296,5,541,47"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Orders_1_1Fills_1_1EquityFillModel.html#a2cc8fb9eafec5a645f7901a20b6c0594" title="Market on Open Fill Model. Return an order event with the fill details" alt="" coords="5,5,248,47"/>
+</map>

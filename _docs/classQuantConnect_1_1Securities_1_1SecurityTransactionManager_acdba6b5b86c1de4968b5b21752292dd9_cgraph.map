@@ -1,0 +1,4 @@
+<map id="QuantConnect.Securities.SecurityTransactionManager.SetOrderId" name="QuantConnect.Securities.SecurityTransactionManager.SetOrderId">
+<area shape="rect" id="node1" title="Sets the order id for the specified submit request" alt="" coords="5,5,236,61"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Securities_1_1SecurityTransactionManager.html#a470623a731aa5e8e241518af157c9ffe" title="Get a new order id, and increment the internal counter." alt="" coords="284,5,516,61"/>
+</map>

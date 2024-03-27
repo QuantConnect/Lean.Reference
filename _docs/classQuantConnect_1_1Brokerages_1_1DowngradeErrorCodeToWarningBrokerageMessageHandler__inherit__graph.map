@@ -1,0 +1,4 @@
+<map id="QuantConnect.Brokerages.DowngradeErrorCodeToWarningBrokerageMessageHandler" name="QuantConnect.Brokerages.DowngradeErrorCodeToWarningBrokerageMessageHandler">
+<area shape="rect" id="node1" title="Provides an implementation of IBrokerageMessageHandler that converts specified error codes into warni..." alt="" coords="5,80,299,136"/>
+<area shape="rect" id="node2" href="$interfaceQuantConnect_1_1Brokerages_1_1IBrokerageMessageHandler.html" title="Provides an plugin point to allow algorithms to directly handle the messages that come from their bro..." alt="" coords="51,5,253,32"/>
+</map>

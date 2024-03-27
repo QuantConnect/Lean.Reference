@@ -1,0 +1,17 @@
+<map id="QuantConnect.Lean.Engine.HistoricalData.HistoryProviderManager.Initialize" name="QuantConnect.Lean.Engine.HistoricalData.HistoryProviderManager.Initialize">
+<area shape="rect" id="node1" title="Initializes this history provider to work for the specified job" alt="" coords="5,403,225,459"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Configuration_1_1Config.html#aaabf1286e33a675b2e116f3289981839" title="Get the matching config setting from the file searching for this key." alt="" coords="302,72,511,113"/>
+<area shape="rect" id="node5" href="$classQuantConnect_1_1Logging_1_1Log.html#a4e55477fbc790846b74550a57198cea9" title="Log trace" alt="" coords="593,136,793,177"/>
+<area shape="rect" id="node7" href="$interfaceQuantConnect_1_1Interfaces_1_1IHistoryProvider.html#a519155bfe8e14087cfad574a1382ec42" title="Initializes this history provider to work for the specified job" alt="" coords="313,192,500,233"/>
+<area shape="rect" id="node8" href="$classQuantConnect_1_1Data_1_1HistoryProviderBase.html#a4fbad764c072e8a88135b5dce3b1218a" title="Event invocator for the DownloadFailed event" alt="" coords="290,257,523,299"/>
+<area shape="rect" id="node9" href="$classQuantConnect_1_1Data_1_1HistoryProviderBase.html#a27b4aa93ace1dbc433845da08e79e25f" title="Event invocator for the InvalidConfigurationDetected event" alt="" coords="276,323,537,379"/>
+<area shape="rect" id="node10" href="$classQuantConnect_1_1Data_1_1HistoryProviderBase.html#aae7d6da79cd8998af46fa79c1a9f293d" title="Event invocator for the NumericalPrecisionLimited event" alt="" coords="279,403,535,459"/>
+<area shape="rect" id="node11" href="$classQuantConnect_1_1Data_1_1HistoryProviderBase.html#a273be57dd27c55ce59536cc5476c380d" title="Event invocator for the ReaderErrorDetected event" alt="" coords="273,484,540,525"/>
+<area shape="rect" id="node12" href="$classQuantConnect_1_1Data_1_1HistoryProviderBase.html#a8d405760b122a042161622581ef5746d" title="Event invocator for the StartDateLimited event" alt="" coords="286,549,527,591"/>
+<area shape="rect" id="node13" href="$classQuantConnect_1_1Lean_1_1Engine_1_1HistoricalData_1_1HistoryProviderManager.html#a771b9c6265b903be9fca7566d5564dcd" title="Sets the brokerage to be used for historical requests" alt="" coords="297,615,517,671"/>
+<area shape="rect" id="node14" href="$interfaceQuantConnect_1_1Interfaces_1_1IDataQueueHandler.html#a236f0be67ed1e9e5f51c9f0b621c9798" title="Sets the job we&#39;re subscribing for" alt="" coords="309,696,504,737"/>
+<area shape="rect" id="node15" href="$classQuantConnect_1_1Data_1_1HistoryExtensions.html#ab4ee520219ba8ebb960ecccc8903de0e" title="Helper method to get the brokerage name" alt="" coords="285,761,529,803"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Configuration_1_1Config.html#a1504ca19b3759d008b090375ddf4ad10" title="Gets the currently selected environment. If sub&#45;environments are defined, they&#39;ll be returned as {env..." alt="" coords="588,5,797,47"/>
+<area shape="rect" id="node4" href="$classQuantConnect_1_1Configuration_1_1Config.html#a9ed01bc116e8181a7557f3e668f34691" title="Gets the underlying JToken for the specified key" alt="" coords="588,71,797,112"/>
+<area shape="rect" id="node6" href="$interfaceQuantConnect_1_1Logging_1_1ILogHandler.html#a3fb71a33ac66129240b63f12b6fcda3b" title="Write debug message to log" alt="" coords="845,136,1045,177"/>
+</map>

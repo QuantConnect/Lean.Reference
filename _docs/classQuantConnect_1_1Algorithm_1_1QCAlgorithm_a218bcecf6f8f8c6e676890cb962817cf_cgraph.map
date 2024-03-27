@@ -1,0 +1,5 @@
+<map id="QuantConnect.Algorithm.QCAlgorithm.SetCash" name="QuantConnect.Algorithm.QCAlgorithm.SetCash">
+<area shape="rect" id="node1" title="Set initial cash for the strategy while backtesting. During live mode this value is ignored and repla..." alt="" coords="5,5,279,47"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Securities_1_1SecurityPortfolioManager.html#acac8f78a9d4193124aa4b735832fa1f6" title="Set the account currency cash this algorithm is to manage." alt="" coords="327,5,569,47"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Securities_1_1Cash.html#a10f484f2c0fa7902c2c1db937a929978" title="Sets the Quantity to the specified amount" alt="" coords="617,5,804,47"/>
+</map>

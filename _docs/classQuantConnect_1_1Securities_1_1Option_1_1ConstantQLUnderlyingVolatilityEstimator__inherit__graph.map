@@ -1,0 +1,4 @@
+<map id="QuantConnect.Securities.Option.ConstantQLUnderlyingVolatilityEstimator" name="QuantConnect.Securities.Option.ConstantQLUnderlyingVolatilityEstimator">
+<area shape="rect" id="node1" title="Class implements default underlying constant volatility estimator (IQLUnderlyingVolatilityEstimator...." alt="" coords="5,80,279,136"/>
+<area shape="rect" id="node2" href="$interfaceQuantConnect_1_1Securities_1_1Option_1_1IQLUnderlyingVolatilityEstimator.html" title="Defines QuantLib underlying volatility estimator for option pricing model. User may define his own es..." alt="" coords="25,5,259,32"/>
+</map>

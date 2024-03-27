@@ -1,0 +1,6 @@
+<map id="QuantConnect.Data.Auxiliary.MapFileRow.Equals" name="QuantConnect.Data.Auxiliary.MapFileRow.Equals">
+<area shape="rect" id="node1" title="Indicates whether the current object is equal to another object of the same type." alt="" coords="267,71,480,112"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Data_1_1Auxiliary_1_1MapFileRow.html#a90bdceb934b9ab9889200a7683d54424" title="Determines whether the specified T:System.Object is equal to the current T:System...." alt="" coords="5,5,219,47"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Data_1_1Auxiliary_1_1MapFileRow.html#a67a39d7b9b585ef670494be739e7bcb1" title="Determines whether or not the two instances are not equal" alt="" coords="5,71,219,112"/>
+<area shape="rect" id="node4" href="$classQuantConnect_1_1Data_1_1Auxiliary_1_1MapFileRow.html#aa4091f0eb27fcbf759c3ce0d588b756b" title="Determines whether or not the two instances are equal" alt="" coords="5,136,219,177"/>
+</map>

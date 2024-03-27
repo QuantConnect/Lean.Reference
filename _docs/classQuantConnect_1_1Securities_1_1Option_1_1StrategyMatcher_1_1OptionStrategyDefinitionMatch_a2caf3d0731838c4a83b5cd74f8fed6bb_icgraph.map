@@ -1,0 +1,6 @@
+<map id="QuantConnect.Securities.Option.StrategyMatcher.OptionStrategyDefinitionMatch.Equals" name="QuantConnect.Securities.Option.StrategyMatcher.OptionStrategyDefinitionMatch.Equals">
+<area shape="rect" id="node1" title="Indicates whether the current object is equal to another object of the same type." alt="" coords="315,85,541,141"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Securities_1_1Option_1_1StrategyMatcher_1_1OptionStrategyDefinitionMatch.html#a4c87bd2e6391fecb05e60c255e97fbbd" title="Determines whether the specified object is equal to the current object." alt="" coords="23,5,249,61"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Securities_1_1Option_1_1StrategyMatcher_1_1OptionStrategyDefinitionMatch.html#a09020f2c784638998e1b7914621485fe" title="OptionStrategyDefinitionMatch != Operator" alt="" coords="9,85,263,141"/>
+<area shape="rect" id="node4" href="$classQuantConnect_1_1Securities_1_1Option_1_1StrategyMatcher_1_1OptionStrategyDefinitionMatch.html#af2a5dc910096fe117a58d33f184d021c" title="OptionStrategyDefinitionMatch == Operator" alt="" coords="5,165,267,221"/>
+</map>

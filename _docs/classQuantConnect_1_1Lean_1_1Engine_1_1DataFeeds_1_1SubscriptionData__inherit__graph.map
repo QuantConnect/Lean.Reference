@@ -1,0 +1,4 @@
+<map id="QuantConnect.Lean.Engine.DataFeeds.SubscriptionData" name="QuantConnect.Lean.Engine.DataFeeds.SubscriptionData">
+<area shape="rect" id="node1" title="Store data (either raw or adjusted) and the time at which it should be synchronized" alt="" coords="49,5,256,47"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Lean_1_1Engine_1_1DataFeeds_1_1PrecalculatedSubscriptionData.html" title="Store data both raw and adjusted and the time at which it should be synchronized" alt="" coords="5,95,300,136"/>
+</map>

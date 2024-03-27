@@ -1,0 +1,9 @@
+<map id="QuantConnect.Time.DateTimeToUnixTimeStamp" name="QuantConnect.Time.DateTimeToUnixTimeStamp">
+<area shape="rect" id="node1" title="Convert a Datetime to Unix Timestamp" alt="" coords="353,181,572,223"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Api_1_1Api.html#a23ad4b44a409932c84e51e7c400c4057" title="Get a list of live running algorithms for user" alt="" coords="60,5,251,47"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Api_1_1Api.html#ad94ec3083f87a2d45fe969c3ffe04173" title="Gets the logs of a specific live algorithm" alt="" coords="55,71,256,112"/>
+<area shape="rect" id="node4" href="$classQuantConnect_1_1Algorithm_1_1Framework_1_1Alphas_1_1Serialization_1_1SerializedInsight.html#a1351eb402776a7711c31492680ed2c0d" title="Initializes a new instance of the SerializedInsight &#160;class by copying the specified insight" alt="" coords="22,137,289,193"/>
+<area shape="rect" id="node5" href="$classQuantConnect_1_1Orders_1_1Serialization_1_1SerializedOrder.html#acf0c03c935126176806be09b302dc948" title="Creates a new serialized order instance based on the provided order" alt="" coords="30,217,281,259"/>
+<area shape="rect" id="node6" href="$classQuantConnect_1_1Orders_1_1Serialization_1_1SerializedOrderEvent.html#ab778a830759f40e39bc5035b6aa1c145" title="Creates a new instances based on the provided order event and algorithm Id" alt="" coords="5,283,305,324"/>
+<area shape="rect" id="node7" href="$classQuantConnect_1_1Time.html#a8f3be0f6448ecbfa8b141ab5138abf3c" title="Get the current time as a unix timestamp" alt="" coords="40,349,271,375"/>
+</map>

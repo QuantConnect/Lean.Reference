@@ -1,0 +1,4 @@
+<map id="QuantConnect.Securities.Future.Future.SetFilter" name="QuantConnect.Securities.Future.Future.SetFilter">
+<area shape="rect" id="node1" title="Sets the ContractFilter to a new instance of the filter using the specified expiration range values" alt="" coords="240,5,427,47"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Securities_1_1Future_1_1Future.html#a3c677c1e2fd97c4f0b0850e958ae4d77" title="Sets the ContractFilter to a new universe selection function" alt="" coords="5,5,192,47"/>
+</map>

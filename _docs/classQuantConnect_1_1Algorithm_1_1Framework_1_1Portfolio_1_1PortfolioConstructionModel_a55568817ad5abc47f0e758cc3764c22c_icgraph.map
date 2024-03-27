@@ -1,0 +1,4 @@
+<map id="QuantConnect.Algorithm.Framework.Portfolio.PortfolioConstructionModel.DetermineTargetPercent" name="QuantConnect.Algorithm.Framework.Portfolio.PortfolioConstructionModel.DetermineTargetPercent">
+<area shape="rect" id="node1" title="Will determine the target percent for each insight" alt="" coords="316,5,579,61"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Algorithm_1_1Framework_1_1Portfolio_1_1PortfolioConstructionModel.html#aa8b9e58e326811434356b8b918a38d89" title="Create portfolio targets from the specified insights" alt="" coords="5,5,268,61"/>
+</map>

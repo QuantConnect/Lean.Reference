@@ -1,0 +1,4 @@
+<map id="QuantConnect.Brokerages.Paper.PaperBrokerage.Scan" name="QuantConnect.Brokerages.Paper.PaperBrokerage.Scan">
+<area shape="rect" id="node1" title="Scans all the outstanding orders and applies the algorithm model fills to generate the order events...." alt="" coords="5,5,204,47"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Securities_1_1SecurityManager.html#af3ad97e370ceec706ac1afe70f7fbb42" title="Try and get this security object with matching symbol and return true on success." alt="" coords="252,5,465,47"/>
+</map>

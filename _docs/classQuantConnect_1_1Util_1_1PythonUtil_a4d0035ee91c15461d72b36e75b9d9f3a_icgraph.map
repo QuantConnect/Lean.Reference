@@ -1,0 +1,5 @@
+<map id="QuantConnect.Util.PythonUtil.ConvertToSymbols" name="QuantConnect.Util.PythonUtil.ConvertToSymbols">
+<area shape="rect" id="node1" title="Convert Python input to a list of Symbols" alt="" coords="544,5,735,47"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Research_1_1QuantBook.html#ad7004b424ab264b73bd0bc0616cab54a" title="Python implementation of GetFundamental, get fundamental data for input symbols or tickers" alt="" coords="275,5,496,47"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Research_1_1QuantBook.html#a34d04fadb83714e695855bdfec15044b" title="Get fundamental data for a given symbol" alt="" coords="5,5,227,47"/>
+</map>

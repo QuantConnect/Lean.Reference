@@ -1,0 +1,6 @@
+<map id="QuantConnect.Indicators.PivotPointsHighLow.ComputeNextValue" name="QuantConnect.Indicators.PivotPointsHighLow.ComputeNextValue">
+<area shape="rect" id="node1" title="Computes the next value of this indicator from the given state" alt="" coords="5,93,285,134"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Indicators_1_1PivotPointsHighLow.html#a128194ed38b862c5e68df2871346b5bb" title="Method for converting high and low pivot points to a decimal value." alt="" coords="345,5,564,61"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Indicators_1_1PivotPointsHighLow.html#a298ee5bb43906c87772d065de17f0aba" title="Looks for the next high pivot point." alt="" coords="333,85,576,141"/>
+<area shape="rect" id="node4" href="$classQuantConnect_1_1Indicators_1_1PivotPointsHighLow.html#a427dbfce915ee811f075239e95b94405" title="Looks for the next low pivot point." alt="" coords="335,165,574,221"/>
+</map>

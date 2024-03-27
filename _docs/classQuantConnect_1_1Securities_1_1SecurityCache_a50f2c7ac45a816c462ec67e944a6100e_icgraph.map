@@ -1,0 +1,11 @@
+<map id="QuantConnect.Securities.SecurityCache.ProcessDataPoint" name="QuantConnect.Securities.SecurityCache.ProcessDataPoint">
+<area shape="rect" id="node1" title="Will consume the given data point updating the cache state and it&#39;s properties" alt="" coords="1316,71,1549,112"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Securities_1_1SecurityCache.html#a306a1a4267b478aae7ddcbea69a16dcb" title="Add a new market data point to the local security cache for the current market price...." alt="" coords="1075,37,1262,79"/>
+<area shape="rect" id="node8" href="$classQuantConnect_1_1Securities_1_1SecurityCache.html#a3b47c0d4e8d5ea496539ce3fe0196dea" title="Add a list of market data points to the local security cache for the current market price." alt="" coords="1069,103,1268,144"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Securities_1_1Security.html#adaeacf247e436705df3ce4a3244ee073" title="Update any security properties based on the latest market data and time" alt="" coords="835,37,1021,79"/>
+<area shape="rect" id="node4" href="$classQuantConnect_1_1Securities_1_1SecurityPortfolioManager.html#a808f4e2619ea3f081dbe17e44c6015d7" title="Applies a split to the portfolio" alt="" coords="531,5,787,47"/>
+<area shape="rect" id="node7" href="$classQuantConnect_1_1Securities_1_1FuncSecuritySeeder.html#afca3381afc2708e86842ccb94918046d" title="Seed the security" alt="" coords="539,71,778,112"/>
+<area shape="rect" id="node5" href="$classQuantConnect_1_1Lean_1_1Engine_1_1AlgorithmManager.html#ab1723b951a86a876c7ae3cc7281365f3" title="Helper method to apply a split to an algorithm instance" alt="" coords="255,5,483,47"/>
+<area shape="rect" id="node6" href="$classQuantConnect_1_1Lean_1_1Engine_1_1AlgorithmManager.html#a5ba2600e7fa0469346ee8841fa0e32f8" title="Launch the algorithm manager to run this strategy" alt="" coords="5,5,207,47"/>
+<area shape="rect" id="node9" href="$classQuantConnect_1_1Securities_1_1Security.html#a19ba1fec9b05070b151505158dfc5115" title="Updates all of the security properties, such as price/OHLCV/bid/ask based on the data provided...." alt="" coords="835,103,1021,144"/>
+</map>

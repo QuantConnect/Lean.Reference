@@ -1,0 +1,5 @@
+<map id="QuantConnect.Indicators.OptionGreeksIndicatorBase.ComputeNextValue" name="QuantConnect.Indicators.OptionGreeksIndicatorBase.ComputeNextValue">
+<area shape="rect" id="node1" title="Computes the next value of the option greek indicator" alt="" coords="5,31,268,87"/>
+<area shape="rect" id="node2" href="$interfaceQuantConnect_1_1Data_1_1IDividendYieldModel.html#acd84f1438fd20ae6501928f357adb725" title="Get dividend yield by a given date of a given symbol" alt="" coords="333,5,548,47"/>
+<area shape="rect" id="node3" href="$interfaceQuantConnect_1_1Data_1_1IRiskFreeInterestRateModel.html#aa7dfabf2595f0e70086b46c699983232" title="Get interest rate by a given date" alt="" coords="316,71,565,112"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="QuantConnect.Data.Fundamental.InventoryValuationMethod" name="QuantConnect.Data.Fundamental.InventoryValuationMethod">
+<area shape="rect" id="node1" title="Which method of inventory valuation was used &#45; LIFO, FIFO, Average, Standard costs,..." alt="" coords="5,80,248,121"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Data_1_1Fundamental_1_1MultiPeriodField.html" title=" " alt="" coords="29,5,224,32"/>
+</map>

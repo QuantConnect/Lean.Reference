@@ -1,0 +1,6 @@
+<map id="QuantConnect.Securities.BrokerageModelSecurityInitializer.Initialize" name="QuantConnect.Securities.BrokerageModelSecurityInitializer.Initialize">
+<area shape="rect" id="node1" title="Initializes the specified security by setting up the models" alt="" coords="5,31,251,87"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Securities_1_1Security.html#a63075daed818cf10cda2296e8ecc43ac" title="Set the leverage parameter for this security" alt="" coords="313,5,499,47"/>
+<area shape="rect" id="node4" href="$classQuantConnect_1_1Securities_1_1Security.html#ad8253deb45cd8937219ef4ae0bebf575" title="Set Python Shortable Provider for this Security" alt="" coords="299,71,513,112"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Securities_1_1BuyingPowerModel.html#a44ce05fdd67c9c4230e4dfb91cfd5e6b" title="Sets the leverage for the applicable securities, i.e, equities" alt="" coords="561,5,793,47"/>
+</map>

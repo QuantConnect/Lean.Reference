@@ -1,0 +1,8 @@
+<map id="QuantConnect.Algorithm.Framework.Portfolio.SignalExports.Collective2SignalExport.ConvertHoldingsToCollective2" name="QuantConnect.Algorithm.Framework.Portfolio.SignalExports.Collective2SignalExport.ConvertHoldingsToCollective2">
+<area shape="rect" id="node1" title="Converts a list of targets to a list of Collective2 positions" alt="" coords="5,112,308,168"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Algorithm_1_1Framework_1_1Portfolio_1_1SignalExports_1_1Collective2SignalExport.html#a068778469a955aa908e2657d2ed1b1a3" title="Converts a given percentage of a position into the number of shares of it" alt="" coords="356,5,659,61"/>
+<area shape="rect" id="node4" href="$interfaceQuantConnect_1_1Interfaces_1_1IAlgorithm.html#a7b8af1af90d91f0702ae39686c073dce" title="Send an error message for the algorithm" alt="" coords="414,86,601,127"/>
+<area shape="rect" id="node5" href="$classQuantConnect_1_1SymbolRepresentation.html#ab8432a8d2fc0d7ce9ec70e0d23360e93" title="Function returns option ticker from IQFeed option ticker For example CSCO1220V19 Cisco October Put at..." alt="" coords="372,151,643,193"/>
+<area shape="rect" id="node6" href="$interfaceQuantConnect_1_1Interfaces_1_1IAlgorithm.html#a982f3b1a998544ae8fa0f447b40a62a6" title="For the given symbol will resolve the ticker it used at the current algorithm date" alt="" coords="414,217,601,258"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Algorithm_1_1Framework_1_1Portfolio_1_1PortfolioTarget.html#ae4839947af9044a228ce8bcd661c5d16" title="Creates a new target for the specified percent" alt="" coords="707,13,969,54"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="QuantConnect.Brokerages.Brokerage.GetCashBalance" name="QuantConnect.Brokerages.Brokerage.GetCashBalance">
+<area shape="rect" id="node1" title="Gets the current cash balance for each currency held in the brokerage account" alt="" coords="260,5,459,47"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Brokerages_1_1Brokerage.html#a2d1fc4c6ce0ff2f95351c9415ed4af5b" title="Synchronizes the cashbook with the brokerage account" alt="" coords="5,5,212,47"/>
+</map>

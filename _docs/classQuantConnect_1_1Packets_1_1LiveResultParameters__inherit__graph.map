@@ -1,0 +1,4 @@
+<map id="QuantConnect.Packets.LiveResultParameters" name="QuantConnect.Packets.LiveResultParameters">
+<area shape="rect" id="node1" title="Defines the parameters for LiveResult" alt="" coords="5,80,204,121"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Packets_1_1BaseResultParameters.html" title="Base parameters used by LiveResultParameters and BacktestResultParameters" alt="" coords="20,5,189,32"/>
+</map>

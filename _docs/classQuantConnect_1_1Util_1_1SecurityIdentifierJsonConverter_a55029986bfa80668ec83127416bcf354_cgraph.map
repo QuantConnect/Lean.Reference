@@ -1,0 +1,5 @@
+<map id="QuantConnect.Util.SecurityIdentifierJsonConverter.Convert" name="QuantConnect.Util.SecurityIdentifierJsonConverter.Convert">
+<area shape="rect" id="node1" title="Converts the input string to a security identifier" alt="" coords="5,5,231,47"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1SecurityIdentifier.html#a89ccb2161613f17d18ca3dc1e9eb3872" title="Parses the specified string into a SecurityIdentifier The string must be a 40 digit number...." alt="" coords="279,5,511,47"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1SecurityIdentifier.html#a59bd74be4ec55a0e4631af9e10f65d7c" title="Attempts to parse the specified &#160;as a SecurityIdentifier." alt="" coords="559,5,791,47"/>
+</map>

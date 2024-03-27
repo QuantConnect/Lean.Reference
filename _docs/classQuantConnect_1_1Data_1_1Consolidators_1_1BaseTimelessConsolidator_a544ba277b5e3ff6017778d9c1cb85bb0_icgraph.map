@@ -1,0 +1,4 @@
+<map id="QuantConnect.Data.Consolidators.BaseTimelessConsolidator.CreateNewBar" name="QuantConnect.Data.Consolidators.BaseTimelessConsolidator.CreateNewBar">
+<area shape="rect" id="node1" title="Creates a new bar with the given data" alt="" coords="300,13,592,54"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Data_1_1Consolidators_1_1BaseTimelessConsolidator.html#a41b2067e2a027b98d3fd1e8f7b01343f" title="Updates this consolidator with the specified data" alt="" coords="5,5,252,61"/>
+</map>

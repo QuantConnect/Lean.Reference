@@ -1,0 +1,7 @@
+<map id="QuantConnect.Securities.SecurityExchangeHours.GetNextMarketClose" name="QuantConnect.Securities.SecurityExchangeHours.GetNextMarketClose">
+<area shape="rect" id="node1" title="Gets the local date time corresponding to the next market close following the specified time" alt="" coords="540,79,775,135"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Lean_1_1Engine_1_1RealTime_1_1ScheduledEventFactory.html#a2a548ebf5457bc6d9ae25dd28f2a3dcd" title="Creates a new ScheduledEvent that will fire before market close by the specified time" alt="" coords="249,5,491,61"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Orders_1_1Fills_1_1EquityFillModel.html#aca188cd71e166416b2dc8b39b9c10311" title="Market on Close Fill Model. Return an order event with the fill details" alt="" coords="248,86,492,127"/>
+<area shape="rect" id="node4" href="$classQuantConnect_1_1Orders_1_1Fills_1_1FillModel.html#aaebba1509472c6d2a29d1a04727f397f" title="Market on Close Fill Model. Return an order event with the fill details" alt="" coords="269,151,471,193"/>
+<area shape="rect" id="node5" href="$classQuantConnect_1_1Orders_1_1Fills_1_1FillModel.html#ab2919d2ee3ef2bd42013884458871c85" title="Return an order event with the fill details" alt="" coords="5,151,200,193"/>
+</map>

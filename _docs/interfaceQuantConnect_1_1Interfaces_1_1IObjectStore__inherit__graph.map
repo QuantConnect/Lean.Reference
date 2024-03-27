@@ -1,0 +1,7 @@
+<map id="QuantConnect.Interfaces.IObjectStore" name="QuantConnect.Interfaces.IObjectStore">
+<area shape="rect" id="node1" title="Provides object storage for data persistence." alt="" coords="256,39,443,80"/>
+<area shape="rect" id="node4" href="$classQuantConnect_1_1Lean_1_1Engine_1_1Storage_1_1LocalObjectStore.html" title="A local disk implementation of IObjectStore." alt="" coords="497,5,699,47"/>
+<area shape="rect" id="node5" href="$classQuantConnect_1_1Storage_1_1ObjectStore.html" title="Helper class for easier access to IObjectStore methods" alt="" coords="491,71,705,112"/>
+<area shape="rect" id="node2" title=" " alt="" coords="57,17,156,43"/>
+<area shape="rect" id="node3" title=" " alt="" coords="5,68,208,109"/>
+</map>

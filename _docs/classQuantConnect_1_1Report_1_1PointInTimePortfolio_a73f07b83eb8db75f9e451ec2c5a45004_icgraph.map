@@ -1,0 +1,4 @@
+<map id="QuantConnect.Report.PointInTimePortfolio.NoEmptyHoldings" name="QuantConnect.Report.PointInTimePortfolio.NoEmptyHoldings">
+<area shape="rect" id="node1" title="Filters out any empty holdings from the current Holdings" alt="" coords="265,5,508,47"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Report_1_1Report.html#a2d338bee6035d5400eb638c69fe69371" title="Create beautiful HTML and PDF Reports based on backtest and live data." alt="" coords="5,5,217,47"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="QuantConnect.Lean.Engine.AlgorithmTimeLimitManager.StartNewTimeStep" name="QuantConnect.Lean.Engine.AlgorithmTimeLimitManager.StartNewTimeStep">
+<area shape="rect" id="node1" title="Invoked by the algorithm at the start of each time loop. This resets the current time step elapsed ti..." alt="" coords="255,5,497,61"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Lean_1_1Engine_1_1AlgorithmManager.html#a5ba2600e7fa0469346ee8841fa0e32f8" title="Launch the algorithm manager to run this strategy" alt="" coords="5,13,207,54"/>
+</map>

@@ -1,0 +1,16 @@
+<map id="QuantConnect.Lean.Engine.Results.BacktestingResultHandler.SetAlgorithm" name="QuantConnect.Lean.Engine.Results.BacktestingResultHandler.SetAlgorithm">
+<area shape="rect" id="node1" title="Set the Algorithm instance for ths result." alt="" coords="5,231,252,287"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Lean_1_1Engine_1_1Results_1_1BacktestingResultHandler.html#abc04243d0b122aa3a53d28727e524531" title="Handles updates to the algorithm&#39;s name" alt="" coords="300,5,547,61"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Lean_1_1Engine_1_1Results_1_1BacktestingResultHandler.html#aff094e550fb59272051ec4b733e1905c" title="Sends a packet communicating an update to the algorithm&#39;s tags" alt="" coords="300,85,547,141"/>
+<area shape="rect" id="node4" href="$classQuantConnect_1_1Lean_1_1Engine_1_1Results_1_1BacktestingResultHandler.html#a3d67960a346455c56df5a6bc8aca0d9d" title="Configures the Console.Out and Console.Error TextWriter instances. By default, we forward Console...." alt="" coords="300,165,547,221"/>
+<area shape="rect" id="node10" href="$classQuantConnect_1_1Logging_1_1Log.html#a4e55477fbc790846b74550a57198cea9" title="Log trace" alt="" coords="599,270,799,311"/>
+<area shape="rect" id="node12" href="$classQuantConnect_1_1Currencies.html#a2a7c85f9abe93db2a30c36612098e30e" title="Gets the currency symbol for the specified currency code" alt="" coords="328,297,519,338"/>
+<area shape="rect" id="node13" href="$classQuantConnect_1_1Lean_1_1Engine_1_1Results_1_1BacktestingResultHandler.html#accf0e8113c179a68626295dffb5fb3bd" title="Send list of security asset types the algorithm uses to browser." alt="" coords="300,363,547,419"/>
+<area shape="rect" id="node14" href="$interfaceQuantConnect_1_1Interfaces_1_1IAlgorithm.html#a62e53d043b4301648e7c61be45b1b33f" title="Sets the statistics service instance to be used by the algorithm" alt="" coords="312,443,535,485"/>
+<area shape="rect" id="node5" href="$interfaceQuantConnect_1_1Interfaces_1_1IAlgorithm.html#a63cc959667fa0f4dfd13048a9b7dac94" title="Send debug message" alt="" coords="606,9,793,50"/>
+<area shape="rect" id="node6" href="$classQuantConnect_1_1Logging_1_1Log.html#af0e7955911bc7664b37661b2a303a9e3" title="Log error" alt="" coords="599,74,799,115"/>
+<area shape="rect" id="node8" href="$interfaceQuantConnect_1_1Interfaces_1_1IAlgorithm.html#a7b8af1af90d91f0702ae39686c073dce" title="Send an error message for the algorithm" alt="" coords="606,139,793,181"/>
+<area shape="rect" id="node9" href="$classQuantConnect_1_1Configuration_1_1Config.html#a1b3f6bb930cb6c34d2ce7dffcdd2605c" title="Get a boolean value configuration setting by a configuration key." alt="" coords="595,205,804,246"/>
+<area shape="rect" id="node7" href="$interfaceQuantConnect_1_1Logging_1_1ILogHandler.html#a35373a0c5d76031fa5ccf5dc39e5c25d" title="Write error message to log" alt="" coords="852,74,1052,115"/>
+<area shape="rect" id="node11" href="$interfaceQuantConnect_1_1Logging_1_1ILogHandler.html#a3fb71a33ac66129240b63f12b6fcda3b" title="Write debug message to log" alt="" coords="852,270,1052,311"/>
+</map>

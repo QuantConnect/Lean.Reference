@@ -1,0 +1,4 @@
+<map id="QuantConnect.Securities.Forex.Forex.DecomposeCurrencyPair" name="QuantConnect.Securities.Forex.Forex.DecomposeCurrencyPair">
+<area shape="rect" id="node1" title="Decomposes the specified currency pair into a base and quote currency provided as out parameters" alt="" coords="5,5,267,47"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Util_1_1CurrencyPairUtil.html#ab191629e505a3345a1c993773c2cdf2f" title="Checks whether a symbol is decomposable into a base and a quote currency" alt="" coords="315,5,532,47"/>
+</map>

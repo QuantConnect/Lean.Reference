@@ -1,0 +1,6 @@
+<map id="QuantConnect.Optimizer.Strategies.IOptimizationStrategy.PushNewResults" name="QuantConnect.Optimizer.Strategies.IOptimizationStrategy.PushNewResults">
+<area shape="rect" id="node1" title="Callback when lean compute job completed." alt="" coords="564,39,839,80"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Optimizer_1_1LeanOptimizer.html#a2e91182cc5f20d5006644c133d92e414" title="Handles a new backtest json result matching a requested backtest id" alt="" coords="300,5,516,47"/>
+<area shape="rect" id="node4" href="$classQuantConnect_1_1Optimizer_1_1LeanOptimizer.html#a321cfa525d8bfa2ea6e23ea02f216988" title="Starts the optimization" alt="" coords="300,71,516,112"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Optimizer_1_1Launcher_1_1ConsoleLeanOptimizer.html#a98715287e9cfeefa4cfb75c01cce8b26" title="Handles starting Lean for a given parameter set" alt="" coords="5,5,252,47"/>
+</map>

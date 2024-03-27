@@ -1,0 +1,26 @@
+var namespaceQuantConnect_1_1Data_1_1Auxiliary =
+[
+    [ "AuxiliaryDataKey", "classQuantConnect_1_1Data_1_1Auxiliary_1_1AuxiliaryDataKey.html", "classQuantConnect_1_1Data_1_1Auxiliary_1_1AuxiliaryDataKey" ],
+    [ "CorporateFactorProvider", "classQuantConnect_1_1Data_1_1Auxiliary_1_1CorporateFactorProvider.html", "classQuantConnect_1_1Data_1_1Auxiliary_1_1CorporateFactorProvider" ],
+    [ "CorporateFactorRow", "classQuantConnect_1_1Data_1_1Auxiliary_1_1CorporateFactorRow.html", "classQuantConnect_1_1Data_1_1Auxiliary_1_1CorporateFactorRow" ],
+    [ "FactorFile", "classQuantConnect_1_1Data_1_1Auxiliary_1_1FactorFile.html", "classQuantConnect_1_1Data_1_1Auxiliary_1_1FactorFile" ],
+    [ "FactorFileZipHelper", "classQuantConnect_1_1Data_1_1Auxiliary_1_1FactorFileZipHelper.html", "classQuantConnect_1_1Data_1_1Auxiliary_1_1FactorFileZipHelper" ],
+    [ "IFactorProvider", "interfaceQuantConnect_1_1Data_1_1Auxiliary_1_1IFactorProvider.html", "interfaceQuantConnect_1_1Data_1_1Auxiliary_1_1IFactorProvider" ],
+    [ "IFactorRow", "interfaceQuantConnect_1_1Data_1_1Auxiliary_1_1IFactorRow.html", "interfaceQuantConnect_1_1Data_1_1Auxiliary_1_1IFactorRow" ],
+    [ "LocalDiskFactorFileProvider", "classQuantConnect_1_1Data_1_1Auxiliary_1_1LocalDiskFactorFileProvider.html", "classQuantConnect_1_1Data_1_1Auxiliary_1_1LocalDiskFactorFileProvider" ],
+    [ "LocalDiskMapFileProvider", "classQuantConnect_1_1Data_1_1Auxiliary_1_1LocalDiskMapFileProvider.html", "classQuantConnect_1_1Data_1_1Auxiliary_1_1LocalDiskMapFileProvider" ],
+    [ "LocalZipFactorFileProvider", "classQuantConnect_1_1Data_1_1Auxiliary_1_1LocalZipFactorFileProvider.html", "classQuantConnect_1_1Data_1_1Auxiliary_1_1LocalZipFactorFileProvider" ],
+    [ "LocalZipMapFileProvider", "classQuantConnect_1_1Data_1_1Auxiliary_1_1LocalZipMapFileProvider.html", "classQuantConnect_1_1Data_1_1Auxiliary_1_1LocalZipMapFileProvider" ],
+    [ "MapFile", "classQuantConnect_1_1Data_1_1Auxiliary_1_1MapFile.html", "classQuantConnect_1_1Data_1_1Auxiliary_1_1MapFile" ],
+    [ "MapFilePrimaryExchangeProvider", "classQuantConnect_1_1Data_1_1Auxiliary_1_1MapFilePrimaryExchangeProvider.html", "classQuantConnect_1_1Data_1_1Auxiliary_1_1MapFilePrimaryExchangeProvider" ],
+    [ "MapFileResolver", "classQuantConnect_1_1Data_1_1Auxiliary_1_1MapFileResolver.html", "classQuantConnect_1_1Data_1_1Auxiliary_1_1MapFileResolver" ],
+    [ "MapFileRow", "classQuantConnect_1_1Data_1_1Auxiliary_1_1MapFileRow.html", "classQuantConnect_1_1Data_1_1Auxiliary_1_1MapFileRow" ],
+    [ "MapFileZipHelper", "classQuantConnect_1_1Data_1_1Auxiliary_1_1MapFileZipHelper.html", "classQuantConnect_1_1Data_1_1Auxiliary_1_1MapFileZipHelper" ],
+    [ "MappingContractFactorProvider", "classQuantConnect_1_1Data_1_1Auxiliary_1_1MappingContractFactorProvider.html", "classQuantConnect_1_1Data_1_1Auxiliary_1_1MappingContractFactorProvider" ],
+    [ "MappingContractFactorRow", "classQuantConnect_1_1Data_1_1Auxiliary_1_1MappingContractFactorRow.html", "classQuantConnect_1_1Data_1_1Auxiliary_1_1MappingContractFactorRow" ],
+    [ "MappingExtensions", "classQuantConnect_1_1Data_1_1Auxiliary_1_1MappingExtensions.html", "classQuantConnect_1_1Data_1_1Auxiliary_1_1MappingExtensions" ],
+    [ "PriceScalingExtensions", "classQuantConnect_1_1Data_1_1Auxiliary_1_1PriceScalingExtensions.html", "classQuantConnect_1_1Data_1_1Auxiliary_1_1PriceScalingExtensions" ],
+    [ "SymbolDateRange", "structQuantConnect_1_1Data_1_1Auxiliary_1_1SymbolDateRange.html", "structQuantConnect_1_1Data_1_1Auxiliary_1_1SymbolDateRange" ],
+    [ "TickerDateRange", "structQuantConnect_1_1Data_1_1Auxiliary_1_1TickerDateRange.html", "structQuantConnect_1_1Data_1_1Auxiliary_1_1TickerDateRange" ],
+    [ "ZipEntryName", "classQuantConnect_1_1Data_1_1Auxiliary_1_1ZipEntryName.html", "classQuantConnect_1_1Data_1_1Auxiliary_1_1ZipEntryName" ]
+];

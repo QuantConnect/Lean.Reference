@@ -1,0 +1,5 @@
+<map id="QuantConnect.Python.VolatilityModelPythonWrapper" name="QuantConnect.Python.VolatilityModelPythonWrapper">
+<area shape="rect" id="node1" title="Provides a volatility model that wraps a PyObject object that represents a model that computes the vo..." alt="" coords="5,155,231,196"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Securities_1_1Volatility_1_1BaseVolatilityModel.html" title="Represents a base model that computes the volatility of a security" alt="" coords="42,80,194,107"/>
+<area shape="rect" id="node3" href="$interfaceQuantConnect_1_1Securities_1_1IVolatilityModel.html" title="Represents a model that computes the volatility of a security" alt="" coords="56,5,180,32"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="QuantConnect.Data.Market.SymbolChangedEvent.Clone" name="QuantConnect.Data.Market.SymbolChangedEvent.Clone">
+<area shape="rect" id="node1" title="Return a new instance clone of this object, used in fill forward" alt="" coords="5,5,212,47"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Data_1_1Market_1_1SymbolChangedEvent.html#a115dd8a001958381c81400a583159a18" title="Initializes a new default instance of the SymbolChangedEvent class" alt="" coords="260,5,572,47"/>
+</map>

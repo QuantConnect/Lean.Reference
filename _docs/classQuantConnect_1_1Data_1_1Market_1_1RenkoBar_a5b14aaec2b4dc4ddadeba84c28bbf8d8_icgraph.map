@@ -1,0 +1,4 @@
+<map id="QuantConnect.Data.Market.RenkoBar.Update" name="QuantConnect.Data.Market.RenkoBar.Update">
+<area shape="rect" id="node1" title="Updates this RenkoBar with the specified values and returns whether or not this bar is closed" alt="" coords="316,5,519,47"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Data_1_1Consolidators_1_1ClassicRenkoConsolidator.html#a7dfdd2a0e284b6814249b1c6fcab24e7" title="Updates the current RangeBar being created with the given data. Additionally, if it&#39;s the case,..." alt="" coords="5,5,268,47"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="QuantConnect.Indicators.AdvanceDeclineIndicator.ValidateAndComputeNextValue" name="QuantConnect.Indicators.AdvanceDeclineIndicator.ValidateAndComputeNextValue">
+<area shape="rect" id="node1" title="Computes the next value of this indicator from the given state" alt="" coords="5,5,245,61"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Indicators_1_1AdvanceDeclineIndicator.html#a71bd27409d05d90f28f0b5b56538a2a8" title="Computes the next value of this indicator from the given state" alt="" coords="293,5,540,61"/>
+</map>

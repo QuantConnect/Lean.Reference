@@ -1,0 +1,7 @@
+<map id="QuantConnect.Securities.UniverseManager.OnCollectionChanged" name="QuantConnect.Securities.UniverseManager.OnCollectionChanged">
+<area shape="rect" id="node1" title="Event invocator for the CollectionChanged event" alt="" coords="943,31,1165,87"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Securities_1_1UniverseManager.html#abe6979bdb54d3053fff0552cff794b45" title="Will trigger collection changed event if required" alt="" coords="648,5,895,47"/>
+<area shape="rect" id="node5" href="$classQuantConnect_1_1Securities_1_1UniverseManager.html#ad9d1fe2912aeb322bb2c74c54af1156f" title="Removes the element with the specified key from the T:System.Collections.Generic.IDictionary`2." alt="" coords="674,71,869,112"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Algorithm_1_1QCAlgorithm.html#a726d08cd0cd7a6f1b7ce9a912d7d89b1" title="Invoked at the end of every time step. This allows the algorithm to process events before advancing t..." alt="" coords="327,5,600,47"/>
+<area shape="rect" id="node4" href="$classQuantConnect_1_1Algorithm_1_1QCAlgorithm.html#ad8a5d8d6d6fd62a8a3962f0649567804" title="Called by setup handlers after Initialize and allows the algorithm a chance to organize the data gath..." alt="" coords="5,5,279,47"/>
+</map>

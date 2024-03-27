@@ -1,0 +1,4 @@
+<map id="QuantConnect.TimeKeeper.GetLocalTimeKeeper" name="QuantConnect.TimeKeeper.GetLocalTimeKeeper">
+<area shape="rect" id="node1" title="Gets the LocalTimeKeeper instance for the specified time zone" alt="" coords="252,5,451,47"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1TimeKeeper.html#ab39a9991b215768afbb3f1ae9ffbcd93" title="Gets the local time in the specified time zone. If the specified DateTimeZone has not already been ad..." alt="" coords="5,5,204,47"/>
+</map>

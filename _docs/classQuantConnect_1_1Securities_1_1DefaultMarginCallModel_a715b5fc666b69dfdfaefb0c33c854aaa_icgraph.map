@@ -1,0 +1,4 @@
+<map id="QuantConnect.Securities.DefaultMarginCallModel.GenerateMarginCallOrders" name="QuantConnect.Securities.DefaultMarginCallModel.GenerateMarginCallOrders">
+<area shape="rect" id="node1" title="Generates a new order for the specified security taking into account the total margin used by the acc..." alt="" coords="305,5,549,61"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Securities_1_1DefaultMarginCallModel.html#a9009415ee21ef27ddfd58b88bf6e48bf" title="Scan the portfolio and the updated data for a potential margin call situation which may get the holdi..." alt="" coords="5,5,257,61"/>
+</map>

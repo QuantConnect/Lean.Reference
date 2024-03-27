@@ -1,0 +1,26 @@
+var classQuantConnect_1_1Algorithm_1_1UniverseDefinitions =
+[
+    [ "UniverseDefinitions", "classQuantConnect_1_1Algorithm_1_1UniverseDefinitions.html#ae0b89cd20e38003637edd91ddefbd4e5", null ],
+    [ "ETF", "classQuantConnect_1_1Algorithm_1_1UniverseDefinitions.html#a30fcc8cc2625ef573a60d5f9056150b1", null ],
+    [ "ETF", "classQuantConnect_1_1Algorithm_1_1UniverseDefinitions.html#a3447cb623cf9c6bac59ff2f625b9c660", null ],
+    [ "ETF", "classQuantConnect_1_1Algorithm_1_1UniverseDefinitions.html#a0bc4e0359871a3218c46b867fa401aac", null ],
+    [ "ETF", "classQuantConnect_1_1Algorithm_1_1UniverseDefinitions.html#afc3a3886d7034e366882152e070caef0", null ],
+    [ "ETF", "classQuantConnect_1_1Algorithm_1_1UniverseDefinitions.html#a2cd42cf1925c57bf1a62bfde45b73006", null ],
+    [ "ETF", "classQuantConnect_1_1Algorithm_1_1UniverseDefinitions.html#ad0f2542457cc67c1412da9367c42d2a7", null ],
+    [ "ETF", "classQuantConnect_1_1Algorithm_1_1UniverseDefinitions.html#ac2fcdf01c456a660438e92c8a863fa2f", null ],
+    [ "ETF", "classQuantConnect_1_1Algorithm_1_1UniverseDefinitions.html#a7250a5af641b0c6703c079f7e3e58da4", null ],
+    [ "ETF", "classQuantConnect_1_1Algorithm_1_1UniverseDefinitions.html#ad06320378f98c5468fd1590aca865a08", null ],
+    [ "Index", "classQuantConnect_1_1Algorithm_1_1UniverseDefinitions.html#a04b83b993a4cd1e529f56c1bd276cb3b", null ],
+    [ "Index", "classQuantConnect_1_1Algorithm_1_1UniverseDefinitions.html#af40a79fb3362306723b275ac2368d454", null ],
+    [ "Index", "classQuantConnect_1_1Algorithm_1_1UniverseDefinitions.html#a2327348323d7a196c5e198efdbc70155", null ],
+    [ "Index", "classQuantConnect_1_1Algorithm_1_1UniverseDefinitions.html#aaa67fbf1787dc50de167e25176da0acb", null ],
+    [ "Index", "classQuantConnect_1_1Algorithm_1_1UniverseDefinitions.html#a29a6f06dc178d5dd942f5d3138017bee", null ],
+    [ "Index", "classQuantConnect_1_1Algorithm_1_1UniverseDefinitions.html#ac21469eaffc660a2423b4c5b3def53aa", null ],
+    [ "Index", "classQuantConnect_1_1Algorithm_1_1UniverseDefinitions.html#ac7a9a0c8058709952a4acb0f44d62b05", null ],
+    [ "Index", "classQuantConnect_1_1Algorithm_1_1UniverseDefinitions.html#a30b0bd46acd44f928ce7f5ca7fdbee0a", null ],
+    [ "Index", "classQuantConnect_1_1Algorithm_1_1UniverseDefinitions.html#a6a4094f938c753204072c211e340ac4c", null ],
+    [ "Top", "classQuantConnect_1_1Algorithm_1_1UniverseDefinitions.html#a6a68caa183a8ba32d48c3fde0519e3d1", null ],
+    [ "Unchanged", "classQuantConnect_1_1Algorithm_1_1UniverseDefinitions.html#a9cacda4ba1e74d397bcd9a9bde564270", null ],
+    [ "DollarVolume", "classQuantConnect_1_1Algorithm_1_1UniverseDefinitions.html#ac8ae590ef8da7d89f658d4019dc34f62", null ],
+    [ "QC500", "classQuantConnect_1_1Algorithm_1_1UniverseDefinitions.html#a65142c32a5e1a560ff4c2062d04c3550", null ]
+];

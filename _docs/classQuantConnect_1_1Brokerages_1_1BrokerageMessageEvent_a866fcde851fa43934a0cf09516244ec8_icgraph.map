@@ -1,0 +1,5 @@
+<map id="QuantConnect.Brokerages.BrokerageMessageEvent.BrokerageMessageEvent" name="QuantConnect.Brokerages.BrokerageMessageEvent.BrokerageMessageEvent">
+<area shape="rect" id="node1" title="Initializes a new instance of the BrokerageMessageEvent class" alt="" coords="328,31,581,87"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Brokerages_1_1BrokerageMessageEvent.html#afc914e2df1bb6b04952840cede67859f" title="Creates a new BrokerageMessageEvent to represent a disconnect message" alt="" coords="5,5,280,47"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Brokerages_1_1BrokerageMessageEvent.html#a385765e2a0baec8737bc6a15de7618af" title="Creates a new BrokerageMessageEvent to represent a reconnect message" alt="" coords="7,71,278,112"/>
+</map>

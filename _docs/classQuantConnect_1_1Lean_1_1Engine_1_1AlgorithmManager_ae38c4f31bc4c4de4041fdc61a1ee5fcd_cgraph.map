@@ -1,0 +1,5 @@
+<map id="QuantConnect.Lean.Engine.AlgorithmManager.ProcessVolatilityHistoryRequirements" name="QuantConnect.Lean.Engine.AlgorithmManager.ProcessVolatilityHistoryRequirements">
+<area shape="rect" id="node1" title="Helper method used to process securities volatility history requirements" alt="" coords="5,5,260,61"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Logging_1_1Log.html#a4e55477fbc790846b74550a57198cea9" title="Log trace" alt="" coords="308,13,508,54"/>
+<area shape="rect" id="node3" href="$interfaceQuantConnect_1_1Logging_1_1ILogHandler.html#a3fb71a33ac66129240b63f12b6fcda3b" title="Write debug message to log" alt="" coords="556,13,756,54"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="QuantConnect.Lean.Engine.DataFeeds.DataQueueHandlerManager.Subscribe" name="QuantConnect.Lean.Engine.DataFeeds.DataQueueHandlerManager.Subscribe">
+<area shape="rect" id="node1" title="Subscribe to the specified configuration" alt="" coords="5,5,284,61"/>
+<area shape="rect" id="node2" href="$interfaceQuantConnect_1_1ITimeProvider.html#ae51737f869d879dfbb297496e4feb036" title="Gets the current time in UTC" alt="" coords="332,13,544,54"/>
+</map>

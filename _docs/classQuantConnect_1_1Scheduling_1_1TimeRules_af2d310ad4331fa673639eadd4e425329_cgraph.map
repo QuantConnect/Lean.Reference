@@ -1,0 +1,4 @@
+<map id="QuantConnect.Scheduling.TimeRules.At" name="QuantConnect.Scheduling.TimeRules.At">
+<area shape="rect" id="node1" title="Specifies an event should fire at the specified time of day in the specified time zone" alt="" coords="5,5,199,47"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Scheduling_1_1TimeRules.html#aba7c2c79f6b356733ec03e59d926d2ed" title="Specifies an event should fire at the specified time of day in the algorithm&#39;s time zone" alt="" coords="247,5,440,47"/>
+</map>

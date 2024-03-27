@@ -1,0 +1,5 @@
+<map id="QuantConnect.Interfaces.IFutureChainProvider.GetFutureContractList" name="QuantConnect.Interfaces.IFutureChainProvider.GetFutureContractList">
+<area shape="rect" id="node1" title="Gets the list of future contracts for a given underlying symbol" alt="" coords="544,5,769,61"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Research_1_1QuantBook.html#a6481be0ce6ba2d6144f2b48272031aac" title="Gets FutureHistory object for a given symbol, date and resolution" alt="" coords="275,13,496,54"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Research_1_1QuantBook.html#a3314fb10c220a0bad1dbe889038b389d" title="Gets FutureHistory object for a given symbol, date and resolution" alt="" coords="5,13,227,54"/>
+</map>

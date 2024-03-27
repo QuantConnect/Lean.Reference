@@ -1,0 +1,5 @@
+<map id="QuantConnect.Data.Fundamental.HedgingAssetsCurrentBalanceSheet" name="QuantConnect.Data.Fundamental.HedgingAssetsCurrentBalanceSheet">
+<area shape="rect" id="node1" title="A security transaction which expires within a 12 month period that reduces the risk on an existing in..." alt="" coords="5,155,261,196"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Data_1_1Fundamental_1_1MultiPeriodField.html" title="Abstract base class for multi&#45;period fields" alt="" coords="70,80,197,107"/>
+<area shape="rect" id="node3" title=" " alt="" coords="55,5,212,32"/>
+</map>

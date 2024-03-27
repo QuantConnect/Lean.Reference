@@ -1,0 +1,6 @@
+<map id="QuantConnect.Interfaces.ISubscriptionDataConfigService.LookupSubscriptionConfigDataTypes" name="QuantConnect.Interfaces.ISubscriptionDataConfigService.LookupSubscriptionConfigDataTypes">
+<area shape="rect" id="node1" title="Get the data feed types for a given SecurityType Resolution" alt="" coords="624,31,881,87"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Data_1_1SubscriptionManager.html#a4191b1d6d6180db40dd51e5b78981d15" title="Get the data feed types for a given SecurityType Resolution" alt="" coords="327,31,576,87"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Algorithm_1_1QCAlgorithm.html#afcdaf47586751fe6105f43d044b7cf70" title="Set a required SecurityType&#45;symbol and resolution for algorithm" alt="" coords="5,5,279,47"/>
+<area shape="rect" id="node4" href="$classQuantConnect_1_1Securities_1_1Cash.html#a8af2f228ffa12236fec72d5458a031fc" title="Ensures that we have a data feed to convert this currency into the base currency. This will add a Sub..." alt="" coords="31,71,253,112"/>
+</map>

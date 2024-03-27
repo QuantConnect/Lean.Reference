@@ -1,0 +1,4 @@
+<map id="QuantConnect.Commands.AddSecurityCommand.Run" name="QuantConnect.Commands.AddSecurityCommand.Run">
+<area shape="rect" id="node1" title="Runs this command against the specified algorithm instance" alt="" coords="5,5,227,47"/>
+<area shape="rect" id="node2" href="$interfaceQuantConnect_1_1Interfaces_1_1IAlgorithm.html#a50cf60d1f442b5247c3805e09551b253" title="Set a required SecurityType&#45;symbol and resolution for algorithm" alt="" coords="275,5,461,47"/>
+</map>

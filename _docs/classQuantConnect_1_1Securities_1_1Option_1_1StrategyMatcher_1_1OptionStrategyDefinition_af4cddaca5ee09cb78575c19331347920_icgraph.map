@@ -1,0 +1,5 @@
+<map id="QuantConnect.Securities.Option.StrategyMatcher.OptionStrategyDefinition.OptionStrategyDefinition" name="QuantConnect.Securities.Option.StrategyMatcher.OptionStrategyDefinition.OptionStrategyDefinition">
+<area shape="rect" id="node1" title="Initializes a new instance of the OptionStrategyDefinition class" alt="" coords="280,45,585,101"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Securities_1_1Option_1_1StrategyMatcher_1_1OptionStrategyDefinition_1_1Builder.html#acdcdf9eb6194b46f6194a2ac9cd85485" title="Builds the OptionStrategyDefinition" alt="" coords="5,5,232,61"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Securities_1_1Option_1_1StrategyMatcher_1_1OptionStrategyDefinition.html#a088031f65cc5c09df3cb2f0b2b4e8fbb" title="Factory function for creating definitions" alt="" coords="7,85,230,141"/>
+</map>

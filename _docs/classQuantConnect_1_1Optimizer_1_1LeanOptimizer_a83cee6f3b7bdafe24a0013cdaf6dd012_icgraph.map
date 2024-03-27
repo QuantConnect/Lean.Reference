@@ -1,0 +1,8 @@
+<map id="QuantConnect.Optimizer.LeanOptimizer.SetOptimizationStatus" name="QuantConnect.Optimizer.LeanOptimizer.SetOptimizationStatus">
+<area shape="rect" id="node1" title="Sets the current optimization status" alt="" coords="828,39,1063,80"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Optimizer_1_1LeanOptimizer.html#a321cfa525d8bfa2ea6e23ea02f216988" title="Starts the optimization" alt="" coords="564,5,780,47"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Optimizer_1_1LeanOptimizer.html#ac726237eef575d77acd4b9b5bee8548a" title="Triggers the optimization job end event" alt="" coords="564,71,780,112"/>
+<area shape="rect" id="node4" href="$classQuantConnect_1_1Optimizer_1_1LeanOptimizer.html#af23ab5e44d7c347f756d9e5bdc29f138" title="Creates a new instance" alt="" coords="300,37,516,79"/>
+<area shape="rect" id="node5" href="$classQuantConnect_1_1Optimizer_1_1LeanOptimizer.html#a2e91182cc5f20d5006644c133d92e414" title="Handles a new backtest json result matching a requested backtest id" alt="" coords="300,103,516,144"/>
+<area shape="rect" id="node6" href="$classQuantConnect_1_1Optimizer_1_1Launcher_1_1ConsoleLeanOptimizer.html#a98715287e9cfeefa4cfb75c01cce8b26" title="Handles starting Lean for a given parameter set" alt="" coords="5,103,252,144"/>
+</map>

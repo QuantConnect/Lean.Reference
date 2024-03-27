@@ -1,0 +1,7 @@
+<map id="QuantConnect.Securities.BuyingPowerModelExtensions.AboveMinimumOrderMarginPortfolioPercentage" name="QuantConnect.Securities.BuyingPowerModelExtensions.AboveMinimumOrderMarginPortfolioPercentage">
+<area shape="rect" id="node1" title="Helper method to determine if the requested quantity is above the algorithm minimum order margin port..." alt="" coords="747,57,1040,113"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Securities_1_1Positions_1_1PositionGroupBuyingPowerModel.html#a6ffef28c266745b259088113c3b04459" title="Get the maximum position group order quantity to obtain a position with a given buying power percenta..." alt="" coords="416,5,699,76"/>
+<area shape="rect" id="node4" href="$classQuantConnect_1_1Securities_1_1BuyingPowerModel.html#ac77dd32649e7d51e54d52b2d3b695afc" title="Get the maximum market order quantity to obtain a position with a given buying power percentage...." alt="" coords="419,101,695,157"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Securities_1_1Positions_1_1PositionGroupBuyingPowerModel.html#abc9b4d24eebe829eda4d4fe1e4b10126" title="Get the maximum market position group order quantity to obtain a delta in the buying power used by a ..." alt="" coords="5,13,368,69"/>
+<area shape="rect" id="node5" href="$classQuantConnect_1_1Securities_1_1BuyingPowerModel.html#a47123e9eef707732a20838c29a8bee69" title="Get the maximum market order quantity to obtain a delta in the buying power used by a security...." alt="" coords="49,101,325,157"/>
+</map>

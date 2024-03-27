@@ -1,0 +1,4 @@
+<map id="QuantConnect.Algorithm.UniverseDefinitions.ETF" name="QuantConnect.Algorithm.UniverseDefinitions.ETF">
+<area shape="rect" id="node1" title="Creates a universe for the constituents of the provided ETF symbol" alt="" coords="5,13,249,54"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Data_1_1UniverseSelection_1_1UniverseSettings.html#a4eae23dc3acf3b01a662937a00d0c989" title="Initializes a new instance of the UniverseSettings class" alt="" coords="297,5,556,61"/>
+</map>

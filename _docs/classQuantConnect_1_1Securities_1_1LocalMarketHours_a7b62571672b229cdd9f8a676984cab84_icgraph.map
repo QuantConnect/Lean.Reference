@@ -1,0 +1,11 @@
+<map id="QuantConnect.Securities.LocalMarketHours.OpenAllDay" name="QuantConnect.Securities.LocalMarketHours.OpenAllDay">
+<area shape="rect" id="node1" title="Gets a LocalMarketHours instance that is always open" alt="" coords="1348,119,1568,160"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Securities_1_1SecurityExchangeHours.html#af6f527fdfc92b5801026340fd4114a4a" title="Gets a SecurityExchangeHours instance that is always open" alt="" coords="1039,119,1300,160"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Data_1_1BaseDataRequest.html#a20e658cd58a98ce84779087c7d27de18" title="Initializes the base data request" alt="" coords="735,5,951,47"/>
+<area shape="rect" id="node4" href="$classQuantConnect_1_1Algorithm_1_1Framework_1_1Selection_1_1ManualUniverseSelectionModel.html#afab31f93eab86e8e9866bd124778366e" title="Creates the universes for this algorithm. Called at algorithm start." alt="" coords="695,71,991,127"/>
+<area shape="rect" id="node5" href="$classQuantConnect_1_1Securities_1_1MarketHoursDatabase.html#a3668df8d1cc8dff6cb12a96c957c04b7" title="Convenience method for the common custom data case. Sets the entry for the specified symbol using Sec..." alt="" coords="729,151,956,207"/>
+<area shape="rect" id="node7" href="$classQuantConnect_1_1Lean_1_1Engine_1_1RealTime_1_1LiveTradingRealTimeHandler.html#ab9e18aae7146f61b52dc8fb136414915" title="Updates the market hours for the specified security." alt="" coords="703,231,982,287"/>
+<area shape="rect" id="node6" href="$classQuantConnect_1_1Extensions.html#a6e7b57a65d282b02a39d8232be71f4e0" title="Helper method to get a market hours entry" alt="" coords="411,159,604,200"/>
+<area shape="rect" id="node8" href="$classQuantConnect_1_1Lean_1_1Engine_1_1RealTime_1_1LiveTradingRealTimeHandler.html#a51442cfa23877834a03e10bb21a7a5a9" title="Refresh the market hours for each security in the given date" alt="" coords="368,231,647,287"/>
+<area shape="rect" id="node9" href="$classQuantConnect_1_1Lean_1_1Engine_1_1RealTime_1_1LiveTradingRealTimeHandler.html#a1b3eae56614996b86125cbd7c28cbe42" title="Initializes the real time handler for the specified algorithm and job" alt="" coords="5,239,320,280"/>
+</map>

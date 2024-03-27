@@ -1,0 +1,5 @@
+<map id="QuantConnect.Compression.ZipCreateAppendData" name="QuantConnect.Compression.ZipCreateAppendData">
+<area shape="rect" id="node1" title="Append the zip data to the file&#45;entry specified." alt="" coords="332,39,539,80"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Data_1_1DiskDataCacheProvider.html#a209da6283996c13620057520a6523db6" title="Store the data in the cache. Not implemented in this instance of the IDataCacheProvider" alt="" coords="38,5,251,47"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Lean_1_1Engine_1_1DataFeeds_1_1ZipDataCacheProvider.html#ab01c199eda16fc682569f0ff644e6fda" title="Store the data in the cache." alt="" coords="5,71,284,112"/>
+</map>

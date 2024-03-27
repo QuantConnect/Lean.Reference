@@ -1,0 +1,5 @@
+<map id="QuantConnect.Indicators.CompositeIndicator.Reset" name="QuantConnect.Indicators.CompositeIndicator.Reset">
+<area shape="rect" id="node1" title="Resets this indicator to its initial state" alt="" coords="368,43,557,84"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Indicators_1_1VolumeWeightedAveragePriceIndicator.html#a25d7abd90313c3d1bb9f7857079869c5" title="Resets this indicator to its initial state" alt="" coords="5,5,320,47"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Indicators_1_1IndicatorExtensions.html#a0a50b66544254e4e87d08e9093f7cd96" title="Creates a new CompositeIndicator such that the result will be average of a first indicator weighted b..." alt="" coords="55,71,270,127"/>
+</map>

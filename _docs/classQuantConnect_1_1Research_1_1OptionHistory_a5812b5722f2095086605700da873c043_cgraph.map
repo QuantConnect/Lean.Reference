@@ -1,0 +1,4 @@
+<map id="QuantConnect.Research.OptionHistory.OptionHistory" name="QuantConnect.Research.OptionHistory.OptionHistory">
+<area shape="rect" id="node1" title="Create a new instance of OptionHistory." alt="" coords="5,5,231,47"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Python_1_1PandasConverter.html#a8d7fd6bd248a4a638b8b76a076311322" title="Converts an enumerable of Slice in a pandas.DataFrame" alt="" coords="279,5,492,47"/>
+</map>

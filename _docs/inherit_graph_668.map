@@ -1,0 +1,7 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$classQuantConnect_1_1ToolBox_1_1TickAggregator.html" title="Class that uses consolidators to aggregate tick data data" alt="" coords="5,104,205,145"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1ToolBox_1_1IdentityTickAggregator.html" title="Use IdentityDataConsolidator&lt;T&gt; to yield ticks unmodified into the consolidated data collection" alt="" coords="253,5,476,47"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1ToolBox_1_1OpenInterestTickAggregator.html" title="Use OpenInterestConsolidator to consolidate open interest ticks into a specified resolution" alt="" coords="261,71,468,112"/>
+<area shape="rect" id="node4" href="$classQuantConnect_1_1ToolBox_1_1QuoteTickAggregator.html" title="Use TickQuoteBarConsolidator to consolidate quote ticks into a specified resolution" alt="" coords="259,136,471,177"/>
+<area shape="rect" id="node5" href="$classQuantConnect_1_1ToolBox_1_1TradeTickAggregator.html" title="Use TickQuoteBarConsolidator to consolidate trade ticks into a specified resolution" alt="" coords="261,201,469,243"/>
+</map>

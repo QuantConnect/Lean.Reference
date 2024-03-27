@@ -1,0 +1,4 @@
+<map id="QuantConnect.SymbolValueJsonConverter" name="QuantConnect.SymbolValueJsonConverter">
+<area shape="rect" id="node1" title="Defines a JsonConverter to be used when you only want to serialize the Symbol.Value property instead ..." alt="" coords="5,80,208,121"/>
+<area shape="rect" id="node2" title=" " alt="" coords="50,5,163,32"/>
+</map>

@@ -1,0 +1,3 @@
+<map id="QuantConnect.Indicators.WindowIndicator.ComputeNextValue" name="QuantConnect.Indicators.WindowIndicator.ComputeNextValue">
+<area shape="rect" id="node1" title="Computes the next value of this indicator from the given state" alt="" coords="5,29,265,71"/>
+</map>

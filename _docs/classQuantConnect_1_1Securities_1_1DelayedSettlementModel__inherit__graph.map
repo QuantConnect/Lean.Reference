@@ -1,0 +1,4 @@
+<map id="QuantConnect.Securities.DelayedSettlementModel" name="QuantConnect.Securities.DelayedSettlementModel">
+<area shape="rect" id="node1" title="Represents the model responsible for applying cash settlement rules" alt="" coords="5,80,193,121"/>
+<area shape="rect" id="node2" href="$interfaceQuantConnect_1_1Securities_1_1ISettlementModel.html" title="Represents the model responsible for applying cash settlement rules" alt="" coords="30,5,169,32"/>
+</map>

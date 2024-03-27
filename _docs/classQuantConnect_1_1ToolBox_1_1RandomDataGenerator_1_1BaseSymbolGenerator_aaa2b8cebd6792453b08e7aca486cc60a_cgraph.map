@@ -1,0 +1,5 @@
+<map id="QuantConnect.ToolBox.RandomDataGenerator.BaseSymbolGenerator.NextTickerFromSymbolPropertiesDatabase" name="QuantConnect.ToolBox.RandomDataGenerator.BaseSymbolGenerator.NextTickerFromSymbolPropertiesDatabase">
+<area shape="rect" id="node1" title="Return a Ticker matching an entry in the Symbol properties database" alt="" coords="5,45,308,101"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Securities_1_1SymbolPropertiesDatabase.html#a13409909230e8a82ee9d64fa2caa3b89" title="Gets a list of symbol properties for the specified market/security&#45;type" alt="" coords="384,5,611,61"/>
+<area shape="rect" id="node3" href="$interfaceQuantConnect_1_1ToolBox_1_1RandomDataGenerator_1_1IRandomValueGenerator.html#a615be809fb0e058c362a8575be83337e" title="Returns a random integer that is within a specified range." alt="" coords="356,85,639,141"/>
+</map>

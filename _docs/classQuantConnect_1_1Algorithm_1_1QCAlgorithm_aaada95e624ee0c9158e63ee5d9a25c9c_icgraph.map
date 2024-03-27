@@ -1,0 +1,4 @@
+<map id="QuantConnect.Algorithm.QCAlgorithm.OnEndOfDay" name="QuantConnect.Algorithm.QCAlgorithm.OnEndOfDay">
+<area shape="rect" id="node1" title="End of a trading day event handler. This method is called at the end of the algorithm day (or multipl..." alt="" coords="327,5,600,47"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Algorithm_1_1QCAlgorithm.html#a162e101f2df8722dbb5788b504ec562a" title="End of a trading day event handler. This method is called at the end of the algorithm day (or multipl..." alt="" coords="5,5,279,47"/>
+</map>

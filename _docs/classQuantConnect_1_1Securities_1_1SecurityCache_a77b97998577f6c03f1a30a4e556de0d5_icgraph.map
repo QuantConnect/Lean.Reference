@@ -1,0 +1,5 @@
+<map id="QuantConnect.Securities.SecurityCache.TryGetValue" name="QuantConnect.Securities.SecurityCache.TryGetValue">
+<area shape="rect" id="node1" title="Gets whether or not this dynamic data instance has data stored for the specified type" alt="" coords="264,39,461,80"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Securities_1_1SecurityCache.html#a0e0d4dbbd2957484e5e59905427dc9d4" title="Get last data packet received for this security of the specified type" alt="" coords="5,5,216,47"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Securities_1_1SecurityCache.html#ab97e8f59ad13af7f3091a3c78d8636b2" title="Gets whether or not this dynamic data instance has data stored for the specified type" alt="" coords="17,71,204,112"/>
+</map>

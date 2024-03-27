@@ -1,0 +1,4 @@
+<map id="QuantConnect.Util.SingleValueListConverter&lt; T &gt;" name="QuantConnect.Util.SingleValueListConverter&lt; T &gt;">
+<area shape="rect" id="node1" title="Reads json and always produces a List, even if the input has just an object" alt="" coords="5,80,191,121"/>
+<area shape="rect" id="node2" title=" " alt="" coords="41,5,155,32"/>
+</map>

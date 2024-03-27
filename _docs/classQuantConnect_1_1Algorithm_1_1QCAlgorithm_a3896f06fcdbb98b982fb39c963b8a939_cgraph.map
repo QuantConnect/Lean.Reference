@@ -1,0 +1,5 @@
+<map id="QuantConnect.Algorithm.QCAlgorithm.SetTradeBuilder" name="QuantConnect.Algorithm.QCAlgorithm.SetTradeBuilder">
+<area shape="rect" id="node1" title="Set the ITradeBuilder implementation to generate trades from executions and market price updates" alt="" coords="5,39,279,80"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Statistics_1_1TradeBuilder.html#a36ad17c727161c8fb7a25109941e9a48" title="Sets the live mode flag" alt="" coords="350,5,541,47"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Statistics_1_1TradeBuilder.html#a21a25b898b58f28dc0386e49d4f15ec3" title="Sets the security manager instance" alt="" coords="327,71,564,112"/>
+</map>

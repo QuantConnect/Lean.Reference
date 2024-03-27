@@ -1,0 +1,4 @@
+<map id="QuantConnect.Securities.Positions.NullSecurityPositionGroupModel" name="QuantConnect.Securities.Positions.NullSecurityPositionGroupModel">
+<area shape="rect" id="node1" title="Responsible for managing the resolution of position groups for an algorithm. Will only resolve single..." alt="" coords="5,80,221,136"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Securities_1_1Positions_1_1SecurityPositionGroupModel.html" title="Responsible for managing the resolution of position groups for an algorithm" alt="" coords="10,5,217,32"/>
+</map>

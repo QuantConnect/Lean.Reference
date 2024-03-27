@@ -1,0 +1,4 @@
+<map id="QuantConnect.Securities.CashBuyingPowerModel.GetReservedBuyingPowerForPosition" name="QuantConnect.Securities.CashBuyingPowerModel.GetReservedBuyingPowerForPosition">
+<area shape="rect" id="node1" title="Gets the amount of buying power reserved to maintain the specified position" alt="" coords="5,5,272,61"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Securities_1_1ReservedBuyingPowerForPositionParameters.html#a24468fe2ffb3bf82dd343f6ff6f49509" title="Creates the result using the specified reserved buying power in units of the account currency" alt="" coords="320,5,583,61"/>
+</map>

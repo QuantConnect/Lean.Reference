@@ -1,0 +1,5 @@
+<map id="QuantConnect.Algorithm.QCAlgorithm.SetBrokerageModel" name="QuantConnect.Algorithm.QCAlgorithm.SetBrokerageModel">
+<area shape="rect" id="node1" title="Sets the brokerage to emulate in backtesting or paper trading. This can be used for brokerages that h..." alt="" coords="327,39,600,80"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Report_1_1PortfolioLooperAlgorithm.html#a1186a17605acd9b49c04f18ff8ab51ef" title="Initialize this algorithm" alt="" coords="32,5,252,47"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Algorithm_1_1QCAlgorithm.html#a7d956e894df61bd53e29fb817a18dc13" title="Sets the brokerage to emulate in backtesting or paper trading. This can be used to set a custom broke..." alt="" coords="5,71,279,112"/>
+</map>

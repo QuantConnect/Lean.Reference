@@ -1,0 +1,7 @@
+<map id="QuantConnect.Symbol.CreateCanonicalOption" name="QuantConnect.Symbol.CreateCanonicalOption">
+<area shape="rect" id="node1" title="Simple method to create the canonical option symbol for any given underlying symbol" alt="" coords="331,119,545,160"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Algorithm_1_1QCAlgorithm.html#a3cea39b93f311bd9a9bff3231f6399c8" title="Creates and adds a new Option security to the algorithm. This method can be used to add options with ..." alt="" coords="7,5,281,47"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Lean_1_1Engine_1_1DataFeeds_1_1BacktestingOptionChainProvider.html#a5b140615fad8e3c0f8d08597a7ca1509" title="Gets the list of option contracts for a given underlying symbol" alt="" coords="18,71,270,127"/>
+<area shape="rect" id="node4" href="$classQuantConnect_1_1Data_1_1Auxiliary_1_1MappingExtensions.html#a076acc951e4716552416ac808b714025" title="Retrieves all Symbol from map files based on specific Symbol." alt="" coords="5,151,283,207"/>
+<area shape="rect" id="node5" href="$classQuantConnect_1_1Util_1_1LeanData.html#a664e30720912250293070fd88716e7a5" title="Parses file name into a Security and DateTime" alt="" coords="39,232,249,273"/>
+</map>

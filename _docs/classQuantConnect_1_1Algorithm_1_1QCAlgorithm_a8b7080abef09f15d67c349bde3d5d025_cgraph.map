@@ -1,0 +1,5 @@
+<map id="QuantConnect.Algorithm.QCAlgorithm.Ticker" name="QuantConnect.Algorithm.QCAlgorithm.Ticker">
+<area shape="rect" id="node1" title="For the given symbol will resolve the ticker it used at the current algorithm date" alt="" coords="5,5,279,47"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1SecurityIdentifier.html#a62166df04edcb28963083dd34b500b5d" title="For the given symbol will resolve the ticker it used at the requested date" alt="" coords="327,5,559,47"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Data_1_1Auxiliary_1_1AuxiliaryDataKey.html#a581149f0149fb793872935e0d46f0eed" title="Helper method to create a new instance from a Symbol" alt="" coords="607,5,820,47"/>
+</map>

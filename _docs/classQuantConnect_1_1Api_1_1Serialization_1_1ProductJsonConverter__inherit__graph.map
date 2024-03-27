@@ -1,0 +1,4 @@
+<map id="QuantConnect.Api.Serialization.ProductJsonConverter" name="QuantConnect.Api.Serialization.ProductJsonConverter">
+<area shape="rect" id="node1" title="Provides an implementation of JsonConverter that can deserialize Product" alt="" coords="5,80,233,121"/>
+<area shape="rect" id="node2" title=" " alt="" coords="63,5,176,32"/>
+</map>

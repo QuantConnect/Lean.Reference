@@ -1,0 +1,5 @@
+<map id="QuantConnect.Series.Clone" name="QuantConnect.Series.Clone">
+<area shape="rect" id="node1" title="Return a new instance clone of this object" alt="" coords="5,42,204,69"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1BaseSeries.html#a5fd7549cbb9bf6ad7a9ac0ad271c8307" title="Return a list of cloned values" alt="" coords="256,5,451,47"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Series.html#ac5d4c26767c0ab5cee9f209e3731ebb6" title="Default constructor for chart series" alt="" coords="252,71,455,98"/>
+</map>

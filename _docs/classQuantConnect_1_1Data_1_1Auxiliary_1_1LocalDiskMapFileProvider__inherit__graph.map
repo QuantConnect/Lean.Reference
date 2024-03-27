@@ -1,0 +1,4 @@
+<map id="QuantConnect.Data.Auxiliary.LocalDiskMapFileProvider" name="QuantConnect.Data.Auxiliary.LocalDiskMapFileProvider">
+<area shape="rect" id="node1" title="Provides a default implementation of IMapFileProvider that reads from the local disk" alt="" coords="5,80,219,121"/>
+<area shape="rect" id="node2" href="$interfaceQuantConnect_1_1Interfaces_1_1IMapFileProvider.html" title="Provides instances of MapFileResolver at run time" alt="" coords="47,5,177,32"/>
+</map>

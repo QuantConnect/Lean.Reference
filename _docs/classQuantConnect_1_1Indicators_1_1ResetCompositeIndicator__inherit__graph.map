@@ -1,0 +1,5 @@
+<map id="QuantConnect.Indicators.ResetCompositeIndicator" name="QuantConnect.Indicators.ResetCompositeIndicator">
+<area shape="rect" id="node1" title="Class that extends CompositeIndicator to execute a given action once is reset" alt="" coords="5,169,192,211"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Indicators_1_1CompositeIndicator.html" title="This indicator is capable of wiring up two separate indicators into a single indicator such that the ..." alt="" coords="24,95,173,121"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Indicators_1_1IndicatorBase.html" title=" " alt="" coords="7,5,190,47"/>
+</map>

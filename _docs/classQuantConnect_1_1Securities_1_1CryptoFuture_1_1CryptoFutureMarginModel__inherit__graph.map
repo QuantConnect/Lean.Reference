@@ -1,0 +1,6 @@
+<map id="QuantConnect.Securities.CryptoFuture.CryptoFutureMarginModel" name="QuantConnect.Securities.CryptoFuture.CryptoFutureMarginModel">
+<area shape="rect" id="node1" title="The crypto future margin model which supports both Coin and USDT futures" alt="" coords="5,229,284,271"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Securities_1_1SecurityMarginModel.html" title="Represents a simple, constant margin model by specifying the percentages of required margin." alt="" coords="65,155,225,181"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Securities_1_1BuyingPowerModel.html" title="Provides a base class for all buying power models" alt="" coords="71,80,218,107"/>
+<area shape="rect" id="node4" href="$interfaceQuantConnect_1_1Securities_1_1IBuyingPowerModel.html" title="Represents a security&#39;s model of buying power" alt="" coords="69,5,220,32"/>
+</map>

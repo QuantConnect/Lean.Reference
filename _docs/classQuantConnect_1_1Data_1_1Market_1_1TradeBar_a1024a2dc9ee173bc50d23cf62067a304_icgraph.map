@@ -1,0 +1,7 @@
+<map id="QuantConnect.Data.Market.TradeBar.ParseEquity" name="QuantConnect.Data.Market.TradeBar.ParseEquity">
+<area shape="rect" id="node1" title="Parses equity trade bar data into the specified tradebar type, useful for custom types with OHLCV dat..." alt="" coords="256,104,459,145"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Data_1_1Market_1_1TradeBar.html#a39d270fe70e2d0a6d41636536cd32b5a" title="Parses the trade bar data line assuming QC data formats" alt="" coords="5,5,208,47"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Data_1_1Market_1_1TradeBar.html#a25b0e159e4ddeff00ba240ace71b1da5" title="Parses equity trade bar data into the specified tradebar type, useful for custom types with OHLCV dat..." alt="" coords="5,71,208,112"/>
+<area shape="rect" id="node4" href="$classQuantConnect_1_1Data_1_1Market_1_1TradeBar.html#abf3e343e1cf7cee12d7165679c7e27e9" title="Parses equity trade bar data into the specified tradebar type, useful for custom types with OHLCV dat..." alt="" coords="5,136,208,177"/>
+<area shape="rect" id="node5" href="$classQuantConnect_1_1Data_1_1Market_1_1TradeBar.html#a8036b7144c8ab4145417d34a4e53ab23" title="TradeBar Reader: Fetch the data from the QC storage and feed it line by line into the engine." alt="" coords="5,201,208,243"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="QuantConnect.Securities.SymbolProperties.GetDefault" name="QuantConnect.Securities.SymbolProperties.GetDefault">
+<area shape="rect" id="node1" title="Gets a default instance of the SymbolProperties class for the specified quoteCurrency" alt="" coords="5,5,217,47"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Securities_1_1SymbolProperties.html#a0f421617bcddd5b08a830689b1e2dcfa" title="Creates an instance of the SymbolProperties class" alt="" coords="265,5,521,47"/>
+</map>

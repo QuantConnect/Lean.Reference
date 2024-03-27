@@ -1,0 +1,4 @@
+<map id="QuantConnect.Data.UniverseSelection.OptionChainUniverse.SelectSymbols" name="QuantConnect.Data.UniverseSelection.OptionChainUniverse.SelectSymbols">
+<area shape="rect" id="node1" title="Performs universe selection using the data specified" alt="" coords="5,5,233,61"/>
+<area shape="rect" id="node2" href="$interfaceQuantConnect_1_1Securities_1_1IDerivativeSecurityFilter.html#a39b4a599c8649c8f549492cf131ef818" title="Filters the input set of symbols represented by the universe" alt="" coords="281,13,497,54"/>
+</map>

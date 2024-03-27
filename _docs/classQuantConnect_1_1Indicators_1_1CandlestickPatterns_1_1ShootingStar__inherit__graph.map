@@ -1,0 +1,5 @@
+<map id="QuantConnect.Indicators.CandlestickPatterns.ShootingStar" name="QuantConnect.Indicators.CandlestickPatterns.ShootingStar">
+<area shape="rect" id="node1" title="Shooting Star candlestick pattern" alt="" coords="5,169,244,211"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Indicators_1_1CandlestickPatterns_1_1CandlestickPattern.html" title="Abstract base class for a candlestick pattern indicator" alt="" coords="53,95,197,121"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Indicators_1_1WindowIndicator.html" title=" " alt="" coords="18,5,231,47"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="QuantConnect.Data.Fundamental.AccruedInvestmentIncomeBalanceSheet" name="QuantConnect.Data.Fundamental.AccruedInvestmentIncomeBalanceSheet">
+<area shape="rect" id="node1" title="Interest, dividends, rents, ancillary and other revenues earned but not yet received by the entity on..." alt="" coords="5,155,291,196"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Data_1_1Fundamental_1_1MultiPeriodField.html" title="Abstract base class for multi&#45;period fields" alt="" coords="85,80,211,107"/>
+<area shape="rect" id="node3" title=" " alt="" coords="69,5,227,32"/>
+</map>

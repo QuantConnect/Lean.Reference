@@ -1,0 +1,5 @@
+<map id="QuantConnect.Orders.GroupOrderExtensions.TryGetGroupOrders" name="QuantConnect.Orders.GroupOrderExtensions.TryGetGroupOrders">
+<area shape="rect" id="node1" title="Gets the grouped orders (legs) of a group order" alt="" coords="5,5,263,47"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Logging_1_1Log.html#ad908daef9d61532d7d60c9dcfb9a3e0c" title="Output to the console" alt="" coords="311,5,511,47"/>
+<area shape="rect" id="node3" href="$interfaceQuantConnect_1_1Logging_1_1ILogHandler.html#a2c738b8e78dd5b54244bc68b969ba91d" title="Write debug message to log" alt="" coords="559,5,759,47"/>
+</map>

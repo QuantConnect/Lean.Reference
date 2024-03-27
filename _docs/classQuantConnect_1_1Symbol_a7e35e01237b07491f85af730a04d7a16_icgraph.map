@@ -1,0 +1,11 @@
+<map id="QuantConnect.Symbol.Equals" name="QuantConnect.Symbol.Equals">
+<area shape="rect" id="node1" title="Determines whether the specified T:System.Object is equal to the current T:System...." alt="" coords="589,127,804,153"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Securities_1_1Positions_1_1PositionExtensions.html#a6f362dca9a8998e279590c59aa2a66ff" title="Combines the provided positions into a single position with the quantities added and the minimum unit..." alt="" coords="311,5,523,61"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Data_1_1Channel.html#a052ce192fc715f848271cc24872e8f72" title="Indicates whether the current object is equal to another object of the same type." alt="" coords="312,86,523,127"/>
+<area shape="rect" id="node5" href="$classQuantConnect_1_1Securities_1_1SecurityDatabaseKey.html#acba94104001d825aaf81730b62a2b1f8" title="Indicates whether the current object is equal to another object of the same type." alt="" coords="314,151,521,193"/>
+<area shape="rect" id="node9" href="$classQuantConnect_1_1Symbol.html#a6e0361c99c445df507614f25b08b797d" title="Equals operator" alt="" coords="293,217,541,244"/>
+<area shape="rect" id="node4" href="$classQuantConnect_1_1Data_1_1Channel.html#aea5a2035b8e3a54f597f2647de9a1c31" title="Determines whether the specified object is equal to the current object." alt="" coords="20,53,231,94"/>
+<area shape="rect" id="node6" href="$classQuantConnect_1_1Securities_1_1SecurityDatabaseKey.html#a25a12cabf88130f88d1ca4541b5ba27b" title="Determines whether the specified object is equal to the current object." alt="" coords="22,118,229,159"/>
+<area shape="rect" id="node7" href="$classQuantConnect_1_1Securities_1_1SecurityDatabaseKey.html#adf525c3cba93aa8b0ade6b229a8d4285" title="Security Database Key != operator" alt="" coords="8,183,243,225"/>
+<area shape="rect" id="node8" href="$classQuantConnect_1_1Securities_1_1SecurityDatabaseKey.html#ab28fd42323f512e583088f184b0a1d98" title="Security Database Key == operator" alt="" coords="5,249,245,290"/>
+</map>

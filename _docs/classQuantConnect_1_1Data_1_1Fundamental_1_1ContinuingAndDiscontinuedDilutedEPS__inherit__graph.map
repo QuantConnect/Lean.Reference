@@ -1,0 +1,5 @@
+<map id="QuantConnect.Data.Fundamental.ContinuingAndDiscontinuedDilutedEPS" name="QuantConnect.Data.Fundamental.ContinuingAndDiscontinuedDilutedEPS">
+<area shape="rect" id="node1" title="Diluted EPS from Continuing Operations plus Diluted EPS from Discontinued Operations." alt="" coords="5,155,279,196"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Data_1_1Fundamental_1_1MultiPeriodField.html" title="Abstract base class for multi&#45;period fields" alt="" coords="79,80,205,107"/>
+<area shape="rect" id="node3" title=" " alt="" coords="63,5,221,32"/>
+</map>

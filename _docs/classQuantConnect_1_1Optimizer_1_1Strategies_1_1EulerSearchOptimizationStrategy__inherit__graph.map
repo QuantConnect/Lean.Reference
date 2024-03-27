@@ -1,0 +1,5 @@
+<map id="QuantConnect.Optimizer.Strategies.EulerSearchOptimizationStrategy" name="QuantConnect.Optimizer.Strategies.EulerSearchOptimizationStrategy">
+<area shape="rect" id="node1" title="Advanced brute&#45;force strategy with search in&#45;depth for best solution on previous step" alt="" coords="5,155,260,196"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Optimizer_1_1Strategies_1_1StepBaseOptimizationStrategy.html" title="Base class for any optimization built on top of brute force optimization method" alt="" coords="21,80,244,107"/>
+<area shape="rect" id="node3" href="$interfaceQuantConnect_1_1Optimizer_1_1Strategies_1_1IOptimizationStrategy.html" title="Defines the optimization settings, direction, solution and exit, i.e. optimization strategy" alt="" coords="50,5,215,32"/>
+</map>

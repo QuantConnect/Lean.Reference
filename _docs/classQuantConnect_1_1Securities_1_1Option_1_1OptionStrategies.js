@@ -1,0 +1,28 @@
+var classQuantConnect_1_1Securities_1_1Option_1_1OptionStrategies =
+[
+    [ "CoveredCall", "classQuantConnect_1_1Securities_1_1Option_1_1OptionStrategies.html#af962e2a102203b581881d61b26f6e2b9", null ],
+    [ "ProtectiveCall", "classQuantConnect_1_1Securities_1_1Option_1_1OptionStrategies.html#a0dfe6e7e551f8bc5fc9b0a5025d0512b", null ],
+    [ "CoveredPut", "classQuantConnect_1_1Securities_1_1Option_1_1OptionStrategies.html#a4f753c3cf6890aad92052dada75760fb", null ],
+    [ "ProtectivePut", "classQuantConnect_1_1Securities_1_1Option_1_1OptionStrategies.html#afcfb6c6bdefd28c465c8c1ada3f170d6", null ],
+    [ "NakedCall", "classQuantConnect_1_1Securities_1_1Option_1_1OptionStrategies.html#a508490e0d4a8b037bf8c2cd492cdee58", null ],
+    [ "NakedPut", "classQuantConnect_1_1Securities_1_1Option_1_1OptionStrategies.html#a0bf208a465aabb216eb565099416c267", null ],
+    [ "BearCallSpread", "classQuantConnect_1_1Securities_1_1Option_1_1OptionStrategies.html#ab2423081ea1022aa1137126406453b32", null ],
+    [ "BearPutSpread", "classQuantConnect_1_1Securities_1_1Option_1_1OptionStrategies.html#a09c0ddfe69c6a3a35c87be5cc3495d83", null ],
+    [ "BullCallSpread", "classQuantConnect_1_1Securities_1_1Option_1_1OptionStrategies.html#a533c85d897c5a759af86deb1456536ae", null ],
+    [ "BullPutSpread", "classQuantConnect_1_1Securities_1_1Option_1_1OptionStrategies.html#a5092a2a715cbd1b4b7c12cf0770a754f", null ],
+    [ "Straddle", "classQuantConnect_1_1Securities_1_1Option_1_1OptionStrategies.html#ae6282614d3654c2c332152159036c5fc", null ],
+    [ "ShortStraddle", "classQuantConnect_1_1Securities_1_1Option_1_1OptionStrategies.html#a64e68eccaed7af316076a0a3a51bec35", null ],
+    [ "Strangle", "classQuantConnect_1_1Securities_1_1Option_1_1OptionStrategies.html#a2c78082adda78895360952c9c527f1ca", null ],
+    [ "ShortStrangle", "classQuantConnect_1_1Securities_1_1Option_1_1OptionStrategies.html#a636d48e6703c2bc89176a346e8f4435d", null ],
+    [ "CallButterfly", "classQuantConnect_1_1Securities_1_1Option_1_1OptionStrategies.html#a5213d0961ef7a16829120ed777d2b3a8", null ],
+    [ "ButterflyCall", "classQuantConnect_1_1Securities_1_1Option_1_1OptionStrategies.html#a29bbf35b5aa68d277b33c42458eb6056", null ],
+    [ "ShortButterflyCall", "classQuantConnect_1_1Securities_1_1Option_1_1OptionStrategies.html#a094bb5f5bd249b3712ae33bd79d43519", null ],
+    [ "PutButterfly", "classQuantConnect_1_1Securities_1_1Option_1_1OptionStrategies.html#aea9707a0a8a6b51a1210466f71507864", null ],
+    [ "ButterflyPut", "classQuantConnect_1_1Securities_1_1Option_1_1OptionStrategies.html#a1b9171b287a8ebf25f693d824bbda6b0", null ],
+    [ "ShortButterflyPut", "classQuantConnect_1_1Securities_1_1Option_1_1OptionStrategies.html#a51ddec74b34204281cdbae2558d7dd4c", null ],
+    [ "CallCalendarSpread", "classQuantConnect_1_1Securities_1_1Option_1_1OptionStrategies.html#a3a95817e17db0ad052cfb383dc51cb4a", null ],
+    [ "ShortCallCalendarSpread", "classQuantConnect_1_1Securities_1_1Option_1_1OptionStrategies.html#a76bb630bf12109af8361b27b643b0a8b", null ],
+    [ "PutCalendarSpread", "classQuantConnect_1_1Securities_1_1Option_1_1OptionStrategies.html#a38c4025416082f438ecc0d45ae254ade", null ],
+    [ "ShortPutCalendarSpread", "classQuantConnect_1_1Securities_1_1Option_1_1OptionStrategies.html#a1e8a14739aac68ff9a709e028fa34f12", null ],
+    [ "IronCondor", "classQuantConnect_1_1Securities_1_1Option_1_1OptionStrategies.html#ac23da9a3ad6e609c0b1fa2960bf9321c", null ]
+];

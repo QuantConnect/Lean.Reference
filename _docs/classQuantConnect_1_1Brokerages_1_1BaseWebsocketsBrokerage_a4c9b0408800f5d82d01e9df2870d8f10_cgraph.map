@@ -1,0 +1,9 @@
+<map id="QuantConnect.Brokerages.BaseWebsocketsBrokerage.Initialize" name="QuantConnect.Brokerages.BaseWebsocketsBrokerage.Initialize">
+<area shape="rect" id="node1" title="Initialize the instance of this class" alt="" coords="5,136,263,177"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Brokerages_1_1BaseWebsocketsBrokerage.html#a49d4fb3c209b41503a450e6115dbee04" title="Gets a list of current subscriptions" alt="" coords="311,5,605,47"/>
+<area shape="rect" id="node3" href="$interfaceQuantConnect_1_1Brokerages_1_1IWebSocket.html#ad06d05eb06fba3cc615a8bafc1246c40" title="Wraps constructor" alt="" coords="361,71,555,112"/>
+<area shape="rect" id="node4" href="$classQuantConnect_1_1Brokerages_1_1BaseWebsocketsBrokerage.html#aaedd3aff1ce23dc2b6d08e84dc8b8da3" title="Handles websocket received messages" alt="" coords="319,136,597,177"/>
+<area shape="rect" id="node5" href="$classQuantConnect_1_1Brokerages_1_1BaseWebsocketsBrokerage.html#a13a1bacb7064a4eff77c028860d0afea" title="Handles the creation of websocket subscriptions" alt="" coords="326,201,590,243"/>
+<area shape="rect" id="node6" href="$classQuantConnect_1_1Logging_1_1Log.html#a4e55477fbc790846b74550a57198cea9" title="Log trace" alt="" coords="358,267,558,308"/>
+<area shape="rect" id="node7" href="$interfaceQuantConnect_1_1Logging_1_1ILogHandler.html#a3fb71a33ac66129240b63f12b6fcda3b" title="Write debug message to log" alt="" coords="653,267,853,308"/>
+</map>

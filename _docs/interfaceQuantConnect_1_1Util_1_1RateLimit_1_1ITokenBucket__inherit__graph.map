@@ -1,0 +1,4 @@
+<map id="QuantConnect.Util.RateLimit.ITokenBucket" name="QuantConnect.Util.RateLimit.ITokenBucket">
+<area shape="rect" id="node1" title="Defines a token bucket for rate limiting See: https://en.wikipedia.org/wiki/Token_bucket" alt="" coords="5,5,217,47"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Util_1_1RateLimit_1_1LeakyBucket.html" title="Provides an implementation of ITokenBucket that implements the leaky bucket algorithm See: https://en..." alt="" coords="5,95,217,136"/>
+</map>

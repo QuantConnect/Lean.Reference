@@ -1,0 +1,4 @@
+<map id="QuantConnect.Securities.SecurityProviderExtensions.GetHoldingsQuantity" name="QuantConnect.Securities.SecurityProviderExtensions.GetHoldingsQuantity">
+<area shape="rect" id="node1" title="Extension method to return the quantity of holdings, if no holdings are present, then zero is returne..." alt="" coords="5,5,232,61"/>
+<area shape="rect" id="node2" href="$interfaceQuantConnect_1_1Securities_1_1ISecurityProvider.html#a976e640809f6a3f18f769225a8a4668f" title="Retrieves a summary of the holdings for the specified symbol" alt="" coords="280,13,492,54"/>
+</map>

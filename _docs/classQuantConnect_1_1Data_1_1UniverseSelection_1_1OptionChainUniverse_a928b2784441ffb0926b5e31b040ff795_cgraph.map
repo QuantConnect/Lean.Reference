@@ -1,0 +1,4 @@
+<map id="QuantConnect.Data.UniverseSelection.OptionChainUniverse.GetSubscriptionRequests" name="QuantConnect.Data.UniverseSelection.OptionChainUniverse.GetSubscriptionRequests">
+<area shape="rect" id="node1" title="Gets the subscription requests to be added for the specified security" alt="" coords="5,5,233,61"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Securities_1_1Security.html#a6e220313d3ba00347b727bae4944eca8" title="Sets the data normalization mode to be used by this security" alt="" coords="281,13,539,54"/>
+</map>

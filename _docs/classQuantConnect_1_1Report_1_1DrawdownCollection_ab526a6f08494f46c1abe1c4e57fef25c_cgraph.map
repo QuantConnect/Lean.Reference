@@ -1,0 +1,4 @@
+<map id="QuantConnect.Report.DrawdownCollection.NormalizeResults" name="QuantConnect.Report.DrawdownCollection.NormalizeResults">
+<area shape="rect" id="node1" title="Normalizes the Series used to calculate the drawdown plots and charts" alt="" coords="5,5,240,47"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Report_1_1ResultsUtil.html#aa3025f7eaad4f511960c2d6c9c2dd028" title="Get the points, from the Series name given, in Strategy Equity chart" alt="" coords="288,5,501,47"/>
+</map>

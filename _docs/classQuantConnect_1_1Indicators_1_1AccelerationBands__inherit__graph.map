@@ -1,0 +1,5 @@
+<map id="QuantConnect.Indicators.AccelerationBands" name="QuantConnect.Indicators.AccelerationBands">
+<area shape="rect" id="node1" title="The Acceleration Bands created by Price Headley plots upper and lower envelope bands around a moving ..." alt="" coords="127,95,314,136"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Indicators_1_1IndicatorBase.html" title=" " alt="" coords="5,5,199,47"/>
+<area shape="rect" id="node3" href="$interfaceQuantConnect_1_1Indicators_1_1IIndicatorWarmUpPeriodProvider.html" title="Represents an indicator with a warm up period provider." alt="" coords="223,13,458,39"/>
+</map>

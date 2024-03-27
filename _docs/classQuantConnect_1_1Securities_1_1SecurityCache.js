@@ -1,0 +1,26 @@
+var classQuantConnect_1_1Securities_1_1SecurityCache =
+[
+    [ "AddDataList", "classQuantConnect_1_1Securities_1_1SecurityCache.html#a3b47c0d4e8d5ea496539ce3fe0196dea", null ],
+    [ "AddData", "classQuantConnect_1_1Securities_1_1SecurityCache.html#a306a1a4267b478aae7ddcbea69a16dcb", null ],
+    [ "ProcessDataPoint", "classQuantConnect_1_1Securities_1_1SecurityCache.html#a50f2c7ac45a816c462ec67e944a6100e", null ],
+    [ "StoreData", "classQuantConnect_1_1Securities_1_1SecurityCache.html#ad09a4e89a3ce0df01d5f8042e02e74c5", null ],
+    [ "GetData", "classQuantConnect_1_1Securities_1_1SecurityCache.html#a2e22a721cbad979accb38e91dd640b8e", null ],
+    [ "GetData< T >", "classQuantConnect_1_1Securities_1_1SecurityCache.html#a0e0d4dbbd2957484e5e59905427dc9d4", null ],
+    [ "GetAll< T >", "classQuantConnect_1_1Securities_1_1SecurityCache.html#a4ff5f07127f0629ca0363699c59de3eb", null ],
+    [ "Reset", "classQuantConnect_1_1Securities_1_1SecurityCache.html#af2aee530dc13d1ebf672d5bc45f0a2a9", null ],
+    [ "HasData", "classQuantConnect_1_1Securities_1_1SecurityCache.html#ab97e8f59ad13af7f3091a3c78d8636b2", null ],
+    [ "TryGetValue", "classQuantConnect_1_1Securities_1_1SecurityCache.html#a77b97998577f6c03f1a30a4e556de0d5", null ],
+    [ "ShareTypeCacheInstance", "classQuantConnect_1_1Securities_1_1SecurityCache.html#af5bb03c7935bbef171b0c7dc23362b93", null ],
+    [ "Price", "classQuantConnect_1_1Securities_1_1SecurityCache.html#a7c62235cecc4453418f095321af39b32", null ],
+    [ "Open", "classQuantConnect_1_1Securities_1_1SecurityCache.html#a8cf034f1c837974648bd663902a1ed0e", null ],
+    [ "High", "classQuantConnect_1_1Securities_1_1SecurityCache.html#abea7ac0006d280a18564cb6dc035968e", null ],
+    [ "Low", "classQuantConnect_1_1Securities_1_1SecurityCache.html#a2e10a66ed8639e91f7962e3737a0d4fa", null ],
+    [ "Close", "classQuantConnect_1_1Securities_1_1SecurityCache.html#ab56febb385cf28687be63a2b5b4229c3", null ],
+    [ "BidPrice", "classQuantConnect_1_1Securities_1_1SecurityCache.html#a888c4d8dbee39c06d462ca092d46cd96", null ],
+    [ "AskPrice", "classQuantConnect_1_1Securities_1_1SecurityCache.html#af19a0b31761c15ad5bef9fa779ce7291", null ],
+    [ "BidSize", "classQuantConnect_1_1Securities_1_1SecurityCache.html#a8720479103cfff38dc9a1ac1fedd221d", null ],
+    [ "AskSize", "classQuantConnect_1_1Securities_1_1SecurityCache.html#ab648ae0b279d1af025d582d88672be4e", null ],
+    [ "Volume", "classQuantConnect_1_1Securities_1_1SecurityCache.html#a7c9853bafc982186fa4e1294bcf389f4", null ],
+    [ "OpenInterest", "classQuantConnect_1_1Securities_1_1SecurityCache.html#a9cfbcb2187abc73d1f057c90278f26d8", null ],
+    [ "Properties", "classQuantConnect_1_1Securities_1_1SecurityCache.html#a284d827ad6b0efe927ef5ce49fa41919", null ]
+];

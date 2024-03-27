@@ -1,0 +1,5 @@
+<map id="QuantConnect.Securities.SecurityExchangeHours.GetPreviousMarketOpen" name="QuantConnect.Securities.SecurityExchangeHours.GetPreviousMarketOpen">
+<area shape="rect" id="node1" title="Gets the local date time corresponding to the previous market open to the specified time" alt="" coords="5,5,264,61"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Securities_1_1SecurityExchangeHours.html#a106e2dd187ab76452e14ac6a28f929aa" title="Helper to access the market hours field based on the day of week" alt="" coords="595,13,881,54"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Securities_1_1SecurityExchangeHours.html#a180c418cdce27edaa7d55170a225761e" title="Gets the local date time corresponding to the next market open following the specified time" alt="" coords="312,37,547,93"/>
+</map>

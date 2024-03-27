@@ -1,0 +1,5 @@
+<map id="QuantConnect.Securities.SecurityDefinition.FromCsvLine" name="QuantConnect.Securities.SecurityDefinition.FromCsvLine">
+<area shape="rect" id="node1" title="Parses a single line of CSV and converts it into an instance" alt="" coords="483,5,709,47"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Securities_1_1SecurityDefinition.html#a82de6b15f6e510abee79feeeb133a3e1" title="Reads data from the specified file and converts it to a list of SecurityDefinition" alt="" coords="248,5,435,47"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Securities_1_1SecurityDefinition.html#ae557fc970973cc2169c0b244b181de05" title="Attempts to read data from the specified file and convert it into a list of SecurityDefinition" alt="" coords="5,5,200,47"/>
+</map>

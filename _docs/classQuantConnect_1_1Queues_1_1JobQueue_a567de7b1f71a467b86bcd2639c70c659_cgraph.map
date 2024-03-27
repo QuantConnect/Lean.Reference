@@ -1,0 +1,4 @@
+<map id="QuantConnect.Queues.JobQueue.AcknowledgeJob" name="QuantConnect.Queues.JobQueue.AcknowledgeJob">
+<area shape="rect" id="node1" title="Desktop/Local acknowledge the task processed. Nothing to do." alt="" coords="5,5,243,47"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Configuration_1_1Config.html#a1b3f6bb930cb6c34d2ce7dffcdd2605c" title="Get a boolean value configuration setting by a configuration key." alt="" coords="291,5,500,47"/>
+</map>

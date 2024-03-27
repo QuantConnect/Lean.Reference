@@ -1,0 +1,5 @@
+<map id="QuantConnect.Data.UniverseSelection.Universe.GetSubscriptionRequests" name="QuantConnect.Data.UniverseSelection.Universe.GetSubscriptionRequests">
+<area shape="rect" id="node1" title="Gets the subscription requests to be added for the specified security" alt="" coords="340,35,591,91"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Data_1_1UniverseSelection_1_1UniverseExtensions.html#a88a5b358d7373d29dfa7d8e59e861923" title="Creates a new universe that logically is the result of wiring the two universes together such that th..." alt="" coords="5,5,292,47"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Data_1_1UniverseSelection_1_1UniverseDecorator.html#ae6c0d381eb1cf1fdbdba3a478e4962cc" title="Gets the subscription requests to be added for the specified security" alt="" coords="31,71,266,127"/>
+</map>

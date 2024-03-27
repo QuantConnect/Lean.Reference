@@ -1,0 +1,5 @@
+<map id="QuantConnect.Statistics.Statistics.AnnualDownsideStandardDeviation" name="QuantConnect.Statistics.Statistics.AnnualDownsideStandardDeviation">
+<area shape="rect" id="node1" title="Annualized downside standard deviation" alt="" coords="5,5,259,61"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Statistics_1_1Statistics.html#a670cedaa29864eaa7d488cd2f6885bc6" title="Annualized variance statistic calculation using the daily performance variance and trading days per y..." alt="" coords="307,13,557,54"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Statistics_1_1Statistics.html#a351c06d27f5c5fed38d503c7f965978f" title="Annualized variance statistic calculation using the daily performance variance and trading days per y..." alt="" coords="605,13,792,54"/>
+</map>

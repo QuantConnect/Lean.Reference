@@ -1,0 +1,4 @@
+<map id="QuantConnect.Securities.DynamicSecurityData.GetAll&lt; T &gt;" name="QuantConnect.Securities.DynamicSecurityData.GetAll&lt; T &gt;">
+<area shape="rect" id="node1" title="Gets the data list for the specified type" alt="" coords="283,5,529,47"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Securities_1_1DynamicSecurityData.html#a480ea7438e91271476d361d9f91d8e18" title="Gets the last item in the data list for the specified type" alt="" coords="5,5,235,47"/>
+</map>

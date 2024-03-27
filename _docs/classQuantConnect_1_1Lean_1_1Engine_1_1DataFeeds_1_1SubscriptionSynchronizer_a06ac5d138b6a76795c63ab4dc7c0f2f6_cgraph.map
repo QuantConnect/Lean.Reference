@@ -1,0 +1,4 @@
+<map id="QuantConnect.Lean.Engine.DataFeeds.SubscriptionSynchronizer.GetUtcNow" name="QuantConnect.Lean.Engine.DataFeeds.SubscriptionSynchronizer.GetUtcNow">
+<area shape="rect" id="node1" title="Returns the current UTC frontier time" alt="" coords="5,5,268,61"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Lean_1_1Engine_1_1DataFeeds_1_1ManualTimeProvider.html#a0ef2f1ad78225849bc3a9c2c70392212" title="Gets the current time in UTC" alt="" coords="316,5,572,61"/>
+</map>

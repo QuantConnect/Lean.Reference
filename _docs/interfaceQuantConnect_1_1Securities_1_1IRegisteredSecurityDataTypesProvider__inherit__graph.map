@@ -1,0 +1,4 @@
+<map id="QuantConnect.Securities.IRegisteredSecurityDataTypesProvider" name="QuantConnect.Securities.IRegisteredSecurityDataTypesProvider">
+<area shape="rect" id="node1" title="Provides the set of base data types registered in the algorithm" alt="" coords="30,5,247,61"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Securities_1_1RegisteredSecurityDataTypesProvider.html" title="Provides an implementation of IRegisteredSecurityDataTypesProvider that permits the consumer to modif..." alt="" coords="5,109,272,151"/>
+</map>

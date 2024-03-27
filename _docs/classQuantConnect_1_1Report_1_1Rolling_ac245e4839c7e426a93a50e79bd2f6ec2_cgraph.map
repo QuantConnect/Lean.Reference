@@ -1,0 +1,4 @@
+<map id="QuantConnect.Report.Rolling.Sharpe" name="QuantConnect.Report.Rolling.Sharpe">
+<area shape="rect" id="node1" title="Get the rolling sharpe of the given series with a lookback of months . The risk free rate is adjustab..." alt="" coords="5,5,220,47"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Statistics_1_1Statistics.html#abd9c7eead3548d9a4765abefa42f1b3f" title="Sharpe ratio with respect to risk free rate: measures excess of return per unit of risk." alt="" coords="268,5,451,47"/>
+</map>

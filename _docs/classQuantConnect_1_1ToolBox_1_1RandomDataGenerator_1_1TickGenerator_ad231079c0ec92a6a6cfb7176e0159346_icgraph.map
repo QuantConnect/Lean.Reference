@@ -1,0 +1,5 @@
+<map id="QuantConnect.ToolBox.RandomDataGenerator.TickGenerator.NextOpenInterest" name="QuantConnect.ToolBox.RandomDataGenerator.TickGenerator.NextOpenInterest">
+<area shape="rect" id="node1" title="Generates a random Tick that is at most the specified maximumPercentDeviation &#160;away from the previous..." alt="" coords="687,5,933,61"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1ToolBox_1_1RandomDataGenerator_1_1TickGenerator.html#add49bca2ace14885762625ceabb135ad" title="Generates a random Tick that is at most the specified maximumPercentDeviation &#160;away from the previous..." alt="" coords="364,13,639,54"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1ToolBox_1_1RandomDataGenerator_1_1TickGenerator.html#a0b9b8cf4ffe26b9bfd7976671b9e3ddb" title="Generates and enumerates data points for current symbol" alt="" coords="5,13,316,54"/>
+</map>

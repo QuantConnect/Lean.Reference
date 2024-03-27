@@ -1,0 +1,6 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$classQuantConnect_1_1Orders_1_1Leg.html" title="Basic order leg" alt="" coords="5,60,193,87"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Securities_1_1Option_1_1OptionStrategy_1_1LegData.html" title="Defines common properties between OptionLegData and UnderlyingLegData" alt="" coords="241,53,464,94"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Securities_1_1Option_1_1OptionStrategy_1_1OptionLegData.html" title="This class is a POCO containing basic data for the option legs of the strategy" alt="" coords="526,5,738,61"/>
+<area shape="rect" id="node4" href="$classQuantConnect_1_1Securities_1_1Option_1_1OptionStrategy_1_1UnderlyingLegData.html" title="This class is a POCO containing basic data for the underlying leg of the strategy" alt="" coords="512,85,752,141"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="QuantConnect.Algorithm.Framework.Portfolio.InsightWeightingPortfolioConstructionModel.GetValue" name="QuantConnect.Algorithm.Framework.Portfolio.InsightWeightingPortfolioConstructionModel.GetValue">
+<area shape="rect" id="node1" title="Method that will determine which member will be used to compute the weights and gets its value" alt="" coords="360,5,623,61"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Algorithm_1_1Framework_1_1Portfolio_1_1InsightWeightingPortfolioConstructionModel.html#a3ca90cfe4663905414b4246fc7583ee6" title="Will determine the target percent for each insight" alt="" coords="5,5,312,61"/>
+</map>

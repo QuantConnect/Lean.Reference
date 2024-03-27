@@ -1,0 +1,13 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$interfaceQuantConnect_1_1Exceptions_1_1IExceptionInterpreter.html" title="Defines an exception interpreter. Interpretations are invoked on IAlgorithm.RunTimeError" alt="" coords="5,188,199,229"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Exceptions_1_1DllNotFoundPythonExceptionInterpreter.html" title="Interprets DllNotFoundPythonExceptionInterpreter instances" alt="" coords="247,57,527,99"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Exceptions_1_1PythonExceptionInterpreter.html" title="Interprets PythonExceptionInterpreter instances" alt="" coords="287,123,487,164"/>
+<area shape="rect" id="node8" href="$classQuantConnect_1_1Exceptions_1_1ScheduledEventExceptionInterpreter.html" title="Interprets ScheduledEventException instances" alt="" coords="257,188,516,229"/>
+<area shape="rect" id="node9" href="$classQuantConnect_1_1Exceptions_1_1StackExceptionInterpreter.html" title="Interprets exceptions using the configured interpretations" alt="" coords="290,253,483,295"/>
+<area shape="rect" id="node10" href="$classQuantConnect_1_1Exceptions_1_1SystemExceptionInterpreter.html" title="Base handler that will try get an exception file and line" alt="" coords="285,319,489,360"/>
+<area shape="rect" id="node4" href="$classQuantConnect_1_1Exceptions_1_1InvalidTokenPythonExceptionInterpreter.html" title="Interprets InvalidTokenPythonExceptionInterpreter instances" alt="" coords="575,5,856,47"/>
+<area shape="rect" id="node5" href="$classQuantConnect_1_1Exceptions_1_1KeyErrorPythonExceptionInterpreter.html" title="Interprets KeyErrorPythonExceptionInterpreter instances" alt="" coords="588,71,843,112"/>
+<area shape="rect" id="node6" href="$classQuantConnect_1_1Exceptions_1_1NoMethodMatchPythonExceptionInterpreter.html" title="Interprets NoMethodMatchPythonExceptionInterpreter instances" alt="" coords="596,137,835,193"/>
+<area shape="rect" id="node7" href="$classQuantConnect_1_1Exceptions_1_1UnsupportedOperandPythonExceptionInterpreter.html" title="Interprets UnsupportedOperandPythonExceptionInterpreter instances" alt="" coords="581,217,850,273"/>
+<area shape="rect" id="node11" href="$classQuantConnect_1_1Exceptions_1_1ClrBubbledExceptionInterpreter.html" title="Interprets ClrBubbledException instances" alt="" coords="602,319,829,360"/>
+</map>

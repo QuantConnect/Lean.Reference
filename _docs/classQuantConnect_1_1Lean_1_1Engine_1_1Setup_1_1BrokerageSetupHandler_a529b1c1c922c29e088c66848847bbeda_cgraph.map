@@ -1,0 +1,6 @@
+<map id="QuantConnect.Lean.Engine.Setup.BrokerageSetupHandler.CreateBrokerage" name="QuantConnect.Lean.Engine.Setup.BrokerageSetupHandler.CreateBrokerage">
+<area shape="rect" id="node1" title="Creates the brokerage as specified by the job packet" alt="" coords="5,31,268,87"/>
+<area shape="rect" id="node2" href="$interfaceQuantConnect_1_1Interfaces_1_1IBrokerageFactory.html#aca8289eb4a8bee7f6f9cea895ad7bd95" title="Creates a new IBrokerage instance" alt="" coords="316,5,567,47"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Logging_1_1Log.html#a4e55477fbc790846b74550a57198cea9" title="Log trace" alt="" coords="341,71,541,112"/>
+<area shape="rect" id="node4" href="$interfaceQuantConnect_1_1Logging_1_1ILogHandler.html#a3fb71a33ac66129240b63f12b6fcda3b" title="Write debug message to log" alt="" coords="615,71,815,112"/>
+</map>

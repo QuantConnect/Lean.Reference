@@ -1,0 +1,4 @@
+<map id="QuantConnect.Commands.FileCommandHandler.GetCommandFiles" name="QuantConnect.Commands.FileCommandHandler.GetCommandFiles">
+<area shape="rect" id="node1" title="Gets all the available command files" alt="" coords="293,5,556,47"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Commands_1_1FileCommandHandler.html#aefa00fbb21594439e6eeb109d8f38c3e" title="Gets the next command in the queue" alt="" coords="5,5,245,47"/>
+</map>

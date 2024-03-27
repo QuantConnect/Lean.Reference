@@ -1,0 +1,4 @@
+<map id="QuantConnect.Lean.Engine.DataFeeds.BaseDataExchange.RemoveEnumerator" name="QuantConnect.Lean.Engine.DataFeeds.BaseDataExchange.RemoveEnumerator">
+<area shape="rect" id="node1" title="Removes and returns enumerator handler with the specified symbol. The removed handler is returned,..." alt="" coords="5,5,284,61"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Lean_1_1Engine_1_1DataFeeds_1_1BaseDataExchange_1_1EnumeratorHandler.html#a9702997a4b18545b91f09758b2b58157" title="Event invocator for the EnumeratorFinished event" alt="" coords="332,5,633,61"/>
+</map>

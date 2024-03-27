@@ -1,0 +1,5 @@
+<map id="QuantConnect.Data.Consolidators.IdentityDataConsolidator&lt; T &gt;" name="QuantConnect.Data.Consolidators.IdentityDataConsolidator&lt; T &gt;">
+<area shape="rect" id="node1" title="Represents the simplest DataConsolidator implementation, one that is defined by a straight pass throu..." alt="" coords="5,80,252,121"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Data_1_1Consolidators_1_1FilteredIdentityDataConsolidator.html" title="Provides an implementation of IDataConsolidator that preserve the input data unmodified...." alt="" coords="15,169,242,225"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Data_1_1Consolidators_1_1DataConsolidator.html" title=" " alt="" coords="42,5,215,32"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$interfaceQuantConnect_1_1Securities_1_1IDerivativeSecurityFilter.html" title="Filters a set of derivative symbols using the underlying price data." alt="" coords="5,39,192,80"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Securities_1_1EmptyContractFilter.html" title="Derivate security universe selection filter which will always return empty" alt="" coords="250,5,437,47"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Securities_1_1FuncSecurityDerivativeFilter.html" title="Provides a functional implementation of IDerivativeSecurityFilter" alt="" coords="240,71,447,112"/>
+</map>

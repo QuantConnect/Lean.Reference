@@ -1,0 +1,5 @@
+<map id="QuantConnect.Data.Auxiliary.MapFileRow.Read" name="QuantConnect.Data.Auxiliary.MapFileRow.Read">
+<area shape="rect" id="node1" title="Reads in the map_file for the specified equity symbol" alt="" coords="5,5,219,47"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Data_1_1Auxiliary_1_1MapFileRow.html#a107dd8779e94de8e42a890a080d5636e" title="Parses the specified line into a MapFileRow" alt="" coords="267,5,480,47"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Data_1_1Auxiliary_1_1MapFileRow.html#ae46235ef384e419ce26ebe35fba40361" title="Initializes a new instance of the MapFileRow class." alt="" coords="528,5,741,47"/>
+</map>

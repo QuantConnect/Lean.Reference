@@ -1,0 +1,4 @@
+<map id="QuantConnect.Orders.OrderSizing.GetOrderSizeForMaximumValue" name="QuantConnect.Orders.OrderSizing.GetOrderSizeForMaximumValue">
+<area shape="rect" id="node1" title="Adjust the provided order size to respect the maximum total order value" alt="" coords="5,5,279,47"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Orders_1_1OrderSizing.html#aef2d6370075548b8f4d8a8dcb15062b7" title="Adjusts the provided order quantity to respect the securities lot size. If the quantity is missing 1M..." alt="" coords="327,5,528,47"/>
+</map>

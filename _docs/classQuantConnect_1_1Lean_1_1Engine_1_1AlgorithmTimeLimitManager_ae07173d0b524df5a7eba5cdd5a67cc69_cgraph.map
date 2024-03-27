@@ -1,0 +1,6 @@
+<map id="QuantConnect.Lean.Engine.AlgorithmTimeLimitManager.TryRequestAdditionalTime" name="QuantConnect.Lean.Engine.AlgorithmTimeLimitManager.TryRequestAdditionalTime">
+<area shape="rect" id="node1" title="Attempts to requests additional time to continue executing the current time step. At time of writing,..." alt="" coords="5,31,289,87"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Logging_1_1Log.html#ad908daef9d61532d7d60c9dcfb9a3e0c" title="Output to the console" alt="" coords="343,5,543,47"/>
+<area shape="rect" id="node4" href="$interfaceQuantConnect_1_1Util_1_1RateLimit_1_1ITokenBucket.html#a74f90dbaad804df8917b4b0db2d5508f" title="Attempts to consume the specified number of tokens from the bucket. If the requested number of tokens..." alt="" coords="337,71,549,112"/>
+<area shape="rect" id="node3" href="$interfaceQuantConnect_1_1Logging_1_1ILogHandler.html#a2c738b8e78dd5b54244bc68b969ba91d" title="Write debug message to log" alt="" coords="597,5,797,47"/>
+</map>

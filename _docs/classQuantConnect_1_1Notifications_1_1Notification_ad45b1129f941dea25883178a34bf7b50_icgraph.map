@@ -1,0 +1,6 @@
+<map id="QuantConnect.Notifications.Notification.Send" name="QuantConnect.Notifications.Notification.Send">
+<area shape="rect" id="node1" title="Method for sending implementations of notification object types." alt="" coords="320,71,524,112"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Messaging_1_1StreamingMessageHandler.html#ad5010249418d3d46747cb8144ca5c6cf" title="Send any notification with a base type of Notification." alt="" coords="9,5,268,47"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Messaging_1_1Messaging.html#aa8c8bedd6306484ef497015262cfb069" title="Send any notification with a base type of Notification." alt="" coords="5,71,272,112"/>
+<area shape="rect" id="node4" href="$classQuantConnect_1_1Messaging_1_1EventMessagingHandler.html#a5013b839f021a5bebdb3fcdff3bc86b3" title="Send any notification with a base type of Notification." alt="" coords="12,136,265,177"/>
+</map>

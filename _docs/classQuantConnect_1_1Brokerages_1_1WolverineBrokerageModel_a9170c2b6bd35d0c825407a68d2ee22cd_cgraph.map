@@ -1,0 +1,4 @@
+<map id="QuantConnect.Brokerages.WolverineBrokerageModel.CanSubmitOrder" name="QuantConnect.Brokerages.WolverineBrokerageModel.CanSubmitOrder">
+<area shape="rect" id="node1" title="Returns true if the brokerage could accept this order. This takes into account order type,..." alt="" coords="5,13,309,54"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Brokerages_1_1DefaultBrokerageModel.html#aab045cb269fc0ddda72e6c05c280c2d3" title="Checks if the order quantity is valid, it means, the order size is bigger than the minimum size allow..." alt="" coords="357,5,580,61"/>
+</map>

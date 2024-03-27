@@ -1,0 +1,5 @@
+<map id="QuantConnect.Securities.MaintenanceMarginParameters.ForQuantityAtCurrentPrice" name="QuantConnect.Securities.MaintenanceMarginParameters.ForQuantityAtCurrentPrice">
+<area shape="rect" id="node1" title="Creates a new instance of the MaintenanceMarginParameters class to compute the maintenance margin req..." alt="" coords="5,35,235,91"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Securities_1_1SecurityHolding.html#a88902e4d2b5e59fd73934daa215efb0e" title="Gets the total value of the specified quantity &#160;of shares of this security in the account currency" alt="" coords="283,5,527,47"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Securities_1_1MaintenanceMarginParameters.html#a3b521ab6c4d52957d2f35b31be47ee5c" title="Initializes a new instance of the MaintenanceMarginParameters class" alt="" coords="290,71,519,127"/>
+</map>

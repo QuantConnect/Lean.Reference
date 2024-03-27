@@ -1,0 +1,5 @@
+<map id="QuantConnect.Indicators.ArmsIndex.RemoveStock" name="QuantConnect.Indicators.ArmsIndex.RemoveStock">
+<area shape="rect" id="node1" title="Deprecated" alt="" coords="5,5,192,47"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Indicators_1_1ArmsIndex.html#a86b5c38227b518e3b58ba93af8d6dc26" title="Remove Tracking stock issue" alt="" coords="240,5,427,47"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Indicators_1_1AdvanceDeclineIndicator.html#a654f26c077b750ecbc5463fa861baf8d" title="Remove tracking asset issue" alt="" coords="475,5,716,47"/>
+</map>

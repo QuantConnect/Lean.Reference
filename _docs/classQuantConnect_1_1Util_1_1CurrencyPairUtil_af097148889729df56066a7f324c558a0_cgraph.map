@@ -1,0 +1,11 @@
+<map id="QuantConnect.Util.CurrencyPairUtil.DecomposeCurrencyPair" name="QuantConnect.Util.CurrencyPairUtil.DecomposeCurrencyPair">
+<area shape="rect" id="node1" title="Decomposes the specified currency pair into a base and quote currency provided as out parameters" alt="" coords="5,104,237,145"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Securities_1_1Forex_1_1Forex.html#af7fbd660dcbbc46527c61baafe2549bb" title="Decomposes the specified currency pair into a base and quote currency provided as out parameters" alt="" coords="292,5,553,47"/>
+<area shape="rect" id="node4" href="$classQuantConnect_1_1Securities_1_1Cfd_1_1Cfd.html#a29bdbe6a6d36ed75a1816cad31ee6eaa" title="Decomposes the specified currency pair into a base and quote currency provided as out parameters" alt="" coords="306,71,539,112"/>
+<area shape="rect" id="node5" href="$classQuantConnect_1_1Securities_1_1Crypto_1_1Crypto.html#a34f3ec6157d9575e34127b5172706403" title="Decomposes the specified currency pair into a base and quote currency provided as out parameters" alt="" coords="285,136,560,177"/>
+<area shape="rect" id="node6" href="$classQuantConnect_1_1Securities_1_1SymbolPropertiesDatabase.html#a3ea48557a7a885c2c53529f8c4b75598" title="Gets the symbol properties for the specified market/symbol/security&#45;type" alt="" coords="309,202,536,258"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Util_1_1CurrencyPairUtil.html#ab191629e505a3345a1c993773c2cdf2f" title="Checks whether a symbol is decomposable into a base and a quote currency" alt="" coords="627,5,845,47"/>
+<area shape="rect" id="node7" href="$classQuantConnect_1_1Securities_1_1MarketHoursDatabase.html#aa717adb9bb04be931913608ffd5a2733" title="Gets the correct string symbol to use as a database key" alt="" coords="608,165,864,221"/>
+<area shape="rect" id="node8" href="$classQuantConnect_1_1Securities_1_1SymbolProperties.html#ad148190d1dfce7109d38d3107b7b8fbf" title="Gets a default instance of the SymbolProperties class for the specified quoteCurrency" alt="" coords="630,245,842,287"/>
+<area shape="rect" id="node9" href="$classQuantConnect_1_1Securities_1_1SymbolProperties.html#a0f421617bcddd5b08a830689b1e2dcfa" title="Creates an instance of the SymbolProperties class" alt="" coords="912,245,1168,287"/>
+</map>

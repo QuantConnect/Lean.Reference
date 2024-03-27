@@ -1,0 +1,5 @@
+<map id="QuantConnect.Orders.OrderJsonConverter.CreateOrderFromJObject" name="QuantConnect.Orders.OrderJsonConverter.CreateOrderFromJObject">
+<area shape="rect" id="node1" title="Create an order from a simple JObject" alt="" coords="339,39,613,80"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Report_1_1OrderTypeNormalizingJsonConverter.html#a095a046916eb5872ed67ebc83a46d7a5" title="Read Json and convert" alt="" coords="5,5,291,47"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Orders_1_1OrderJsonConverter.html#abed44f89edc8905ac0d4b8af39a47802" title="Reads the JSON representation of the object." alt="" coords="47,71,249,112"/>
+</map>

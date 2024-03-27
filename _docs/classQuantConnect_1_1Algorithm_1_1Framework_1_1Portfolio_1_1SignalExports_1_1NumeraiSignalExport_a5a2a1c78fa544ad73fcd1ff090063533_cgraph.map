@@ -1,0 +1,5 @@
+<map id="QuantConnect.Algorithm.Framework.Portfolio.SignalExports.NumeraiSignalExport.Send" name="QuantConnect.Algorithm.Framework.Portfolio.SignalExports.NumeraiSignalExport.Send">
+<area shape="rect" id="node1" title="Verifies all the given holdings are accepted by Numerai, creates a message with those holdings in the..." alt="" coords="5,39,276,95"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Algorithm_1_1Framework_1_1Portfolio_1_1SignalExports_1_1NumeraiSignalExport.html#ac36044a1e33b4c653a1b233e2430c835" title="Verifies each holding&#39;s signal is between 0 and 1 (exclusive)" alt="" coords="324,5,595,61"/>
+<area shape="rect" id="node3" href="$interfaceQuantConnect_1_1Interfaces_1_1IAlgorithm.html#a7b8af1af90d91f0702ae39686c073dce" title="Send an error message for the algorithm" alt="" coords="643,46,829,87"/>
+</map>

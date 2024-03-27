@@ -1,0 +1,6 @@
+<map id="QuantConnect.Lean.Engine.Results.LiveTradingResultHandler.Sample" name="QuantConnect.Lean.Engine.Results.LiveTradingResultHandler.Sample">
+<area shape="rect" id="node1" title="Add a sample to the chart specified by the chartName, and seriesName." alt="" coords="5,31,248,87"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1BaseSeries.html#aa0b83590a7b01d3ccba6f3347150a63f" title="Creates a series according to the specified type." alt="" coords="299,5,493,47"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Logging_1_1Log.html#ad908daef9d61532d7d60c9dcfb9a3e0c" title="Output to the console" alt="" coords="296,71,496,112"/>
+<area shape="rect" id="node4" href="$interfaceQuantConnect_1_1Logging_1_1ILogHandler.html#a2c738b8e78dd5b54244bc68b969ba91d" title="Write debug message to log" alt="" coords="544,71,744,112"/>
+</map>

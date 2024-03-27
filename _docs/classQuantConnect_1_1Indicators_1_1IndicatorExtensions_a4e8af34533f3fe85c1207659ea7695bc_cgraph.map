@@ -1,0 +1,4 @@
+<map id="QuantConnect.Indicators.IndicatorExtensions.Plus" name="QuantConnect.Indicators.IndicatorExtensions.Plus">
+<area shape="rect" id="node1" title="Creates a new CompositeIndicator such that the result will be the sum of the left and right" alt="" coords="5,5,192,47"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Indicators_1_1IndicatorExtensions.html#a00088ba4da306befd2c5f0cc1a59c470" title="Creates a new CompositeIndicator such that the result will be the sum of the left and the constant" alt="" coords="240,5,427,47"/>
+</map>

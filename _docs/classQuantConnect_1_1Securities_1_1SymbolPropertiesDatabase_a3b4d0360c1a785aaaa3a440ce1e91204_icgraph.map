@@ -1,0 +1,8 @@
+<map id="QuantConnect.Securities.SymbolPropertiesDatabase.ContainsKey" name="QuantConnect.Securities.SymbolPropertiesDatabase.ContainsKey">
+<area shape="rect" id="node1" title="Check whether symbol properties exists for the specified market/symbol/security&#45;type" alt="" coords="675,79,959,120"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Securities_1_1SymbolPropertiesDatabase.html#ac37eccb04aaf71d2e5caeeb8f7dbf08c" title="Check whether symbol properties exists for the specified market/symbol/security&#45;type" alt="" coords="341,5,625,47"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1ToolBox_1_1RandomDataGenerator_1_1DefaultSymbolGenerator.html#a447361caec2710f8ace322d6470edaa0" title="Returns the number of symbols with the specified parameters can be generated. Returns int...." alt="" coords="340,71,627,127"/>
+<area shape="rect" id="node4" href="$classQuantConnect_1_1ToolBox_1_1RandomDataGenerator_1_1BaseSymbolGenerator.html#a81261a4e15b1946f9da42203bc7e3aa6" title="Generates random symbol, used further down for asset" alt="" coords="348,151,619,207"/>
+<area shape="rect" id="node5" href="$classQuantConnect_1_1ToolBox_1_1RandomDataGenerator_1_1DefaultSymbolGenerator.html#ad1f746bdf33e7ee292aa9576073f1c74" title="Generates a single&#45;item list at a time using base random implementation" alt="" coords="5,111,292,167"/>
+<area shape="rect" id="node6" href="$classQuantConnect_1_1ToolBox_1_1RandomDataGenerator_1_1OptionSymbolGenerator.html#a3d7c3b9a03ea16e0eb7d53fda1102986" title="Generates a new random option Symbol. The generated option contract Symbol will have an expiry betwee..." alt="" coords="8,191,289,247"/>
+</map>

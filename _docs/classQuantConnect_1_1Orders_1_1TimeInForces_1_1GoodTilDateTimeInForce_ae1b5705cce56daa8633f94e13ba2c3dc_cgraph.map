@@ -1,0 +1,4 @@
+<map id="QuantConnect.Orders.TimeInForces.GoodTilDateTimeInForce.IsOrderExpired" name="QuantConnect.Orders.TimeInForces.GoodTilDateTimeInForce.IsOrderExpired">
+<area shape="rect" id="node1" title="Checks if an order is expired" alt="" coords="5,5,251,61"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Orders_1_1TimeInForces_1_1GoodTilDateTimeInForce.html#a2895cfdd7ad6ec057f731745f444dbe9" title="Returns the expiry date and time (UTC) for a Forex order" alt="" coords="299,5,544,61"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="QuantConnect.Exceptions.NoMethodMatchPythonExceptionInterpreter.Interpret" name="QuantConnect.Exceptions.NoMethodMatchPythonExceptionInterpreter.Interpret">
+<area shape="rect" id="node1" title="Interprets the specified exception into a new exception" alt="" coords="5,5,244,61"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Util_1_1PythonUtil.html#a092a2692ea8e8fd23fe5e3b3357c336f" title="Parsers PythonException.StackTrace into a readable message" alt="" coords="292,13,527,54"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Extensions.html#a2051e38b3bbf00a8c6fdd3ca5b401b9d" title="Helper method to clear undesired paths from stack traces" alt="" coords="575,13,768,54"/>
+</map>

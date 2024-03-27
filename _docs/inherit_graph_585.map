@@ -1,0 +1,4 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$interfaceQuantConnect_1_1Securities_1_1Positions_1_1IPosition.html" title="Defines a position for inclusion in a group" alt="" coords="5,5,192,47"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Securities_1_1Positions_1_1Position.html" title="Defines a quantity of a security&#39;s holdings for inclusion in a position group" alt="" coords="240,5,427,47"/>
+</map>
