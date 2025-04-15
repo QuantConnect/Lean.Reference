@@ -1,0 +1,4 @@
+<map id="QuantConnect.Data.Auxiliary.LocalZipFactorFileProvider" name="QuantConnect.Data.Auxiliary.LocalZipFactorFileProvider">
+<area shape="rect" id="node1" title="Provides an implementation of IFactorFileProvider that searches the local disk for a zip file contain..." alt="" coords="5,80,219,121"/>
+<area shape="rect" id="node2" href="$interfaceQuantConnect_1_1Interfaces_1_1IFactorFileProvider.html" title="Provides instances of FactorFile&lt;T&gt; at run time" alt="" coords="41,5,183,32"/>
+</map>

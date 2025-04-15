@@ -1,0 +1,6 @@
+<map id="QuantConnect.Python.DataConsolidatorPythonWrapper" name="QuantConnect.Python.DataConsolidatorPythonWrapper">
+<area shape="rect" id="node1" title="Provides an Data Consolidator that wraps a PyObject object that represents a custom Python consolidat..." alt="" coords="74,169,278,211"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Python_1_1BasePythonWrapper.html" title=" " alt="" coords="5,80,171,121"/>
+<area shape="rect" id="node3" href="$interfaceQuantConnect_1_1Data_1_1Consolidators_1_1IDataConsolidator.html" title="Represents a type capable of taking BaseData updates and firing events containing new &#39;consolidated&#39; ..." alt="" coords="195,87,333,114"/>
+<area shape="rect" id="node4" title=" " alt="" coords="215,5,313,32"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="QuantConnect.Lean.Engine.DataFeeds.Enumerators.SplitEventProvider.Initialize" name="QuantConnect.Lean.Engine.DataFeeds.Enumerators.SplitEventProvider.Initialize">
+<area shape="rect" id="node1" title="Initializes this instance" alt="" coords="5,5,253,61"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Lean_1_1Engine_1_1DataFeeds_1_1Enumerators_1_1SplitEventProvider.html#aaae4fc6aca3810f9fe02f3ddd4bf1eff" title="Initializes the factor file to use" alt="" coords="301,5,549,61"/>
+<area shape="rect" id="node3" href="$interfaceQuantConnect_1_1Interfaces_1_1IFactorFileProvider.html#abb71d95ca43dceef129a4c55e255fff7" title="Gets a FactorFile&lt;T&gt; instance for the specified symbol, or null if not found" alt="" coords="597,13,784,54"/>
+</map>

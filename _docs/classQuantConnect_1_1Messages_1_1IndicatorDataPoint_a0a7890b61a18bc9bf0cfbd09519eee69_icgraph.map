@@ -1,0 +1,4 @@
+<map id="QuantConnect.Messages.IndicatorDataPoint.InvalidObjectTypeToCompareTo" name="QuantConnect.Messages.IndicatorDataPoint.InvalidObjectTypeToCompareTo">
+<area shape="rect" id="node1" title="Returns a string message saying the given type is invalid for certain object" alt="" coords="273,5,567,47"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Indicators_1_1IndicatorDataPoint.html#aeadac3e80132ea6c7a0c939a2ee3c6f1" title="Compares the current instance with another object of the same type and returns an integer that indica..." alt="" coords="5,5,225,47"/>
+</map>

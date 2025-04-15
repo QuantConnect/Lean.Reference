@@ -1,0 +1,4 @@
+<map id="QuantConnect.Securities.MaintenanceMarginParameters.ForCurrentHoldings" name="QuantConnect.Securities.MaintenanceMarginParameters.ForCurrentHoldings">
+<area shape="rect" id="node1" title="Creates a new instance of the MaintenanceMarginParameters class to compute the maintenance margin req..." alt="" coords="5,5,235,61"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Securities_1_1MaintenanceMarginParameters.html#a3b521ab6c4d52957d2f35b31be47ee5c" title="Initializes a new instance of the MaintenanceMarginParameters class" alt="" coords="283,5,512,61"/>
+</map>

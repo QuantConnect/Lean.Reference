@@ -1,0 +1,8 @@
+<map id="QuantConnect.Lean.Engine.DataFeeds.ApiDataProvider.ApiDataProvider" name="QuantConnect.Lean.Engine.DataFeeds.ApiDataProvider.ApiDataProvider">
+<area shape="rect" id="node1" title="Initialize a new instance of the ApiDataProvider" alt="" coords="5,63,261,119"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Logging_1_1Log.html#af0e7955911bc7664b37661b2a303a9e3" title="Log error" alt="" coords="309,5,509,47"/>
+<area shape="rect" id="node4" href="$interfaceQuantConnect_1_1Interfaces_1_1IApi.html#a5dfe37a1bd902712fb0ab203597fe681" title="Will read the organization account status" alt="" coords="316,71,503,112"/>
+<area shape="rect" id="node5" href="$classQuantConnect_1_1Logging_1_1Log.html#a4e55477fbc790846b74550a57198cea9" title="Log trace" alt="" coords="309,136,509,177"/>
+<area shape="rect" id="node3" href="$interfaceQuantConnect_1_1Logging_1_1ILogHandler.html#a35373a0c5d76031fa5ccf5dc39e5c25d" title="Write error message to log" alt="" coords="557,5,757,47"/>
+<area shape="rect" id="node6" href="$interfaceQuantConnect_1_1Logging_1_1ILogHandler.html#a3fb71a33ac66129240b63f12b6fcda3b" title="Write debug message to log" alt="" coords="557,136,757,177"/>
+</map>

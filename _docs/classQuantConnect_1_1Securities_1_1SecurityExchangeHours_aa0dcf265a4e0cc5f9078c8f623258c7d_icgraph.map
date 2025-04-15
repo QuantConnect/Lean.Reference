@@ -1,0 +1,6 @@
+<map id="QuantConnect.Securities.SecurityExchangeHours.GetLastDailyMarketClose" name="QuantConnect.Securities.SecurityExchangeHours.GetLastDailyMarketClose">
+<area shape="rect" id="node1" title="Gets the local date time corresponding to the last market close following the specified date" alt="" coords="295,79,525,135"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Lean_1_1Engine_1_1RealTime_1_1ScheduledEventFactory.html#a2a548ebf5457bc6d9ae25dd28f2a3dcd" title="Creates a new ScheduledEvent that will fire before market close by the specified time" alt="" coords="5,5,247,61"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Util_1_1LeanData.html#a684e4331309b64aec17e6074ce456b2a" title="Helper method to return the start time and period of a bar the given point time should be part of" alt="" coords="21,86,231,127"/>
+<area shape="rect" id="node4" href="$classQuantConnect_1_1Util_1_1LeanData.html#ad63021af2455d8433040838f49a7a15d" title="Helper method to get the next daily end time, taking into account strict end times if appropriate" alt="" coords="21,151,231,193"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="QuantConnect.Data.Market.Bar.Bar" name="QuantConnect.Data.Market.Bar.Bar">
+<area shape="rect" id="node1" title="Default initializer to setup an empty bar." alt="" coords="507,5,709,47"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Data_1_1Market_1_1Bar.html#a9fe4d3df0d80e01d2e632796c444095c" title="Returns a clone of this bar" alt="" coords="256,5,459,47"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Data_1_1Market_1_1QuoteBar.html#af7b22eb30e6a8bd0aa7892d548d57aab" title="Return a new instance clone of this quote bar, used in fill forward" alt="" coords="5,5,208,47"/>
+</map>

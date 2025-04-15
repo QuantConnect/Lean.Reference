@@ -1,0 +1,8 @@
+<map id="QuantConnect.Indicators.MarketProfile" name="QuantConnect.Indicators.MarketProfile">
+<area shape="rect" id="node1" title="Represents an Indicator of the Market Profile and its attributes" alt="" coords="115,155,302,196"/>
+<area shape="rect" id="node5" href="$classQuantConnect_1_1Indicators_1_1TimeProfile.html" title="Represents an Indicator of the Market Profile with Time Price Opportunity (TPO) mode and its attribut..." alt="" coords="10,244,197,285"/>
+<area shape="rect" id="node6" href="$classQuantConnect_1_1Indicators_1_1VolumeProfile.html" title="Represents an Indicator of the Market Profile with Volume Profile mode and its attributes" alt="" coords="221,244,407,285"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Indicators_1_1TradeBarIndicator.html" title="The TradeBarIndicator is an indicator that accepts TradeBar data as its input." alt="" coords="37,80,173,107"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Indicators_1_1IndicatorBase.html" title=" " alt="" coords="5,5,204,32"/>
+<area shape="rect" id="node4" href="$interfaceQuantConnect_1_1Indicators_1_1IIndicatorWarmUpPeriodProvider.html" title="Represents an indicator with a warm up period provider." alt="" coords="197,80,431,107"/>
+</map>

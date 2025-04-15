@@ -1,0 +1,4 @@
+<map id="QuantConnect.Interfaces.IAlgorithm.Liquidate" name="QuantConnect.Interfaces.IAlgorithm.Liquidate">
+<area shape="rect" id="node1" title="Liquidate your portfolio holdings" alt="" coords="309,5,496,47"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Commands_1_1LiquidateCommand.html#abc970592201989f2c573c2523ca13a15" title="Submits orders to liquidate all current holdings in the algorithm" alt="" coords="5,5,261,47"/>
+</map>

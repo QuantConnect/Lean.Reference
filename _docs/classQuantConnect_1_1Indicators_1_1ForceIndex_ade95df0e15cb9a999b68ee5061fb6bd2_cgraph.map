@@ -1,0 +1,4 @@
+<map id="QuantConnect.Indicators.ForceIndex.ComputeNextValue" name="QuantConnect.Indicators.ForceIndex.ComputeNextValue">
+<area shape="rect" id="node1" title="Computes the next value of this indicator from the given state" alt="" coords="5,5,228,47"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Data_1_1Market_1_1TradeBar.html#a2454e0807126880b013cb334e4c161ec" title="Update the tradebar &#45; build the bar from this pricing information:" alt="" coords="276,5,479,47"/>
+</map>

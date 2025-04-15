@@ -1,0 +1,4 @@
+<map id="QuantConnect.Messages.Extensions.UnableToConvertTimeSpanToResolution" name="QuantConnect.Messages.Extensions.UnableToConvertTimeSpanToResolution">
+<area shape="rect" id="node1" title="Returns a string message saying it was not able to exactly convert the given time span to resolution" alt="" coords="271,5,552,47"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Extensions.html#af066e3293883a4a7369079c3a654cf92" title="Converts the specified time span into a resolution enum value. If an exact match is not found and req..." alt="" coords="5,5,223,47"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="QuantConnect.ToolBox.RandomDataGenerator.TooManyFailedAttemptsException" name="QuantConnect.ToolBox.RandomDataGenerator.TooManyFailedAttemptsException">
+<area shape="rect" id="node1" title="Exception thrown when multiple attempts to generate a valid random value end in failure" alt="" coords="5,155,283,211"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1ToolBox_1_1RandomDataGenerator_1_1RandomValueGeneratorException.html" title="Provides a base class for exceptions thrown by implementations of IRandomValueGenerator" alt="" coords="23,80,265,107"/>
+<area shape="rect" id="node3" title=" " alt="" coords="65,5,223,32"/>
+</map>

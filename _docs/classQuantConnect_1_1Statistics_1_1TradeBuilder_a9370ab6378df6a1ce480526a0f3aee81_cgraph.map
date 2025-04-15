@@ -1,0 +1,4 @@
+<map id="QuantConnect.Statistics.TradeBuilder.ProcessFill" name="QuantConnect.Statistics.TradeBuilder.ProcessFill">
+<area shape="rect" id="node1" title="Processes a new fill, eventually creating new trades" alt="" coords="5,5,188,47"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Orders_1_1OrderEvent.html#aec4cbaf5536ef33e913c9eeb14b6cb14" title="Returns a clone of the current object." alt="" coords="236,5,437,47"/>
+</map>

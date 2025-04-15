@@ -1,0 +1,4 @@
+<map id="QuantConnect.Interfaces.IBrokerage.GetOpenOrders" name="QuantConnect.Interfaces.IBrokerage.GetOpenOrders">
+<area shape="rect" id="node1" title="Gets all open orders on the account" alt="" coords="296,13,492,54"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Lean_1_1Engine_1_1Setup_1_1BrokerageSetupHandler.html#a4eaa335733d5c20c1c91a21356a1529f" title="Get the open orders from a brokerage. Adds Orders.Order and Orders.OrderTicket to the transaction han..." alt="" coords="5,5,248,61"/>
+</map>

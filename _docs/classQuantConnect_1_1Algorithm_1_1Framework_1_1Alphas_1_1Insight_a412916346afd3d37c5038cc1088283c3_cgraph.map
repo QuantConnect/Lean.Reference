@@ -1,0 +1,4 @@
+<map id="QuantConnect.Algorithm.Framework.Alphas.Insight.ShortToString" name="QuantConnect.Algorithm.Framework.Alphas.Insight.ShortToString">
+<area shape="rect" id="node1" title="Returns a short string that represents the current object." alt="" coords="5,5,268,47"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Messages_1_1Insight.html#a26e44d3ca67d327472fbaf2c166cac94" title="Parses a short insight into a string containing basic information about it" alt="" coords="316,5,551,47"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="QuantConnect.Data.DividendYieldProvider.LoadCorporateEvents" name="QuantConnect.Data.DividendYieldProvider.LoadCorporateEvents">
+<area shape="rect" id="node1" title="Generate the corporate events from the corporate factor file for the specified symbol" alt="" coords="5,5,256,47"/>
+<area shape="rect" id="node2" href="$interfaceQuantConnect_1_1Interfaces_1_1IFactorFileProvider.html#abb71d95ca43dceef129a4c55e255fff7" title="Gets a FactorFile&lt;T&gt; instance for the specified symbol, or null if not found" alt="" coords="304,5,491,47"/>
+</map>

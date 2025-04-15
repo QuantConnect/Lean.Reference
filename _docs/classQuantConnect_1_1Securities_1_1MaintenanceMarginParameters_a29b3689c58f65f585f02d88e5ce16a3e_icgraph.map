@@ -1,0 +1,5 @@
+<map id="QuantConnect.Securities.MaintenanceMarginParameters.ForCurrentHoldings" name="QuantConnect.Securities.MaintenanceMarginParameters.ForCurrentHoldings">
+<area shape="rect" id="node1" title="Creates a new instance of the MaintenanceMarginParameters class to compute the maintenance margin req..." alt="" coords="299,45,528,101"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Securities_1_1BuyingPowerModelExtensions.html#ad3505fdec53e061e7d3031856d3ec760" title="Gets the margin currently allocated to the specified holding" alt="" coords="5,5,251,61"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Securities_1_1CryptoFuture_1_1CryptoFutureMarginModel.html#a547b14d8436f9092b3647d174723edc2" title="Gets the margin cash available for a trade" alt="" coords="9,85,247,141"/>
+</map>

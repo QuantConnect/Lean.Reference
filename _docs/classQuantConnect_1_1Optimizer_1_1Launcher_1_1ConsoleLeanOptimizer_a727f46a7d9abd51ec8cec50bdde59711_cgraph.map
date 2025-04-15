@@ -1,0 +1,6 @@
+<map id="QuantConnect.Optimizer.Launcher.ConsoleLeanOptimizer.SendUpdate" name="QuantConnect.Optimizer.Launcher.ConsoleLeanOptimizer.SendUpdate">
+<area shape="rect" id="node1" title="Sends an update of the current optimization status to the user" alt="" coords="5,46,256,87"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Optimizer_1_1LeanOptimizer.html#ad20b4d21f2cb41507562da2eb7eb6cca" title="Returns the current optimization status and strategy estimates" alt="" coords="308,13,527,54"/>
+<area shape="rect" id="node4" href="$classQuantConnect_1_1Optimizer_1_1LeanOptimizer.html#a26a7caa48bec6fad83277bb708196523" title="Get the current runtime statistics" alt="" coords="304,78,531,119"/>
+<area shape="rect" id="node3" href="$interfaceQuantConnect_1_1Optimizer_1_1Strategies_1_1IOptimizationStrategy.html#abeb252a544973ec602811693f11a79e9" title="Estimates amount of parameter sets that can be run" alt="" coords="579,5,857,61"/>
+</map>

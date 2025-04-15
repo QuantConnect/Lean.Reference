@@ -1,0 +1,5 @@
+<map id="QuantConnect.Currencies.Parse" name="QuantConnect.Currencies.Parse">
+<area shape="rect" id="node1" title="Converts the string representation of number with currency in the format {currency}{value} to its dec..." alt="" coords="5,39,196,80"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Messages_1_1Currencies.html#a5e45ee5893aa9cc61b02c5a1cb51cab5" title="Returns a string message saying the given value cannot be converted to a decimal number" alt="" coords="244,5,504,47"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Currencies.html#adfe5757a88698f504c556254db30a240" title="Converts the string representation of number with currency in the format {currency}{value} to its dec..." alt="" coords="279,71,469,112"/>
+</map>

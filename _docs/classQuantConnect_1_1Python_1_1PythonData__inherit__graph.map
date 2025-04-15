@@ -1,0 +1,8 @@
+<map id="QuantConnect.Python.PythonData" name="QuantConnect.Python.PythonData">
+<area shape="rect" id="node1" title="Dynamic data class for Python algorithms. Stores properties of python instances in DynamicData dictio..." alt="" coords="35,304,278,331"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Data_1_1DynamicData.html" title="Dynamic Data Class: Accept flexible data, adapting to the columns provided by source." alt="" coords="101,229,212,256"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Data_1_1BaseData.html" title="Abstract base data class of QuantConnect. It is intended to be extended to define generic user custom..." alt="" coords="27,155,113,181"/>
+<area shape="rect" id="node4" href="$interfaceQuantConnect_1_1Data_1_1IBaseData.html" title="Base Data Class: Type, Timestamp, Key – Base Features." alt="" coords="25,80,115,107"/>
+<area shape="rect" id="node5" href="$interfaceQuantConnect_1_1Data_1_1ISymbolProvider.html" title="Base data with a symbol" alt="" coords="5,5,135,32"/>
+<area shape="rect" id="node6" title=" " alt="" coords="137,155,350,181"/>
+</map>

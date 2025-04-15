@@ -1,0 +1,4 @@
+<map id="QuantConnect.Indicators.ImpliedVolatility.CalculateIV" name="QuantConnect.Indicators.ImpliedVolatility.CalculateIV">
+<area shape="rect" id="node1" title="Computes the IV of the option" alt="" coords="300,5,505,47"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Indicators_1_1ImpliedVolatility.html#a00479c7b2cf2f6683f7dc7bdfef688e7" title="Computes the next value" alt="" coords="5,5,252,47"/>
+</map>

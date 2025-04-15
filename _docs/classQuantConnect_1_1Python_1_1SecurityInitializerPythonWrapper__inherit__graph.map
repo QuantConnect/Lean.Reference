@@ -1,0 +1,5 @@
+<map id="QuantConnect.Python.SecurityInitializerPythonWrapper" name="QuantConnect.Python.SecurityInitializerPythonWrapper">
+<area shape="rect" id="node1" title="Wraps a PyObject object that represents a type capable of initializing a new security" alt="" coords="66,95,286,136"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Python_1_1BasePythonWrapper.html" title=" " alt="" coords="5,5,171,47"/>
+<area shape="rect" id="node3" href="$interfaceQuantConnect_1_1Securities_1_1ISecurityInitializer.html" title="Represents a type capable of initializing a new security" alt="" coords="195,13,335,39"/>
+</map>

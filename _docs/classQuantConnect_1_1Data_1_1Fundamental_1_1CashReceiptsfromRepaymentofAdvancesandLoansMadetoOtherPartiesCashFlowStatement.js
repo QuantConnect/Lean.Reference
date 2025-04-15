@@ -1,0 +1,12 @@
+var classQuantConnect_1_1Data_1_1Fundamental_1_1CashReceiptsfromRepaymentofAdvancesandLoansMadetoOtherPartiesCashFlowStatement =
+[
+    [ "CashReceiptsfromRepaymentofAdvancesandLoansMadetoOtherPartiesCashFlowStatement", "classQuantConnect_1_1Data_1_1Fundamental_1_1CashReceiptsfromRepaymentofAdvancesandLoansMadetoOtherPartiesCashFlowStatement.html#a33a7bfb86c528bd687f482337ea50fa1", null ],
+    [ "CashReceiptsfromRepaymentofAdvancesandLoansMadetoOtherPartiesCashFlowStatement", "classQuantConnect_1_1Data_1_1Fundamental_1_1CashReceiptsfromRepaymentofAdvancesandLoansMadetoOtherPartiesCashFlowStatement.html#a01f903a55e3e8cc8f8952207a8001572", null ],
+    [ "GetPeriodValues", "classQuantConnect_1_1Data_1_1Fundamental_1_1CashReceiptsfromRepaymentofAdvancesandLoansMadetoOtherPartiesCashFlowStatement.html#aa9f8e9f73216218c68823fff37f9c9ce", null ],
+    [ "GetPeriodValue", "classQuantConnect_1_1Data_1_1Fundamental_1_1CashReceiptsfromRepaymentofAdvancesandLoansMadetoOtherPartiesCashFlowStatement.html#ab6184a0e0189ca80dfca988ca4c38fdc", null ],
+    [ "DefaultPeriod", "classQuantConnect_1_1Data_1_1Fundamental_1_1CashReceiptsfromRepaymentofAdvancesandLoansMadetoOtherPartiesCashFlowStatement.html#a4436d322bcac950adb185ed3256307e3", null ],
+    [ "SixMonths", "classQuantConnect_1_1Data_1_1Fundamental_1_1CashReceiptsfromRepaymentofAdvancesandLoansMadetoOtherPartiesCashFlowStatement.html#a9a6b52b2c4f52deb31067662ae46138e", null ],
+    [ "TwelveMonths", "classQuantConnect_1_1Data_1_1Fundamental_1_1CashReceiptsfromRepaymentofAdvancesandLoansMadetoOtherPartiesCashFlowStatement.html#a1d30008a2393b521da3d72f57869f2f2", null ],
+    [ "HasValue", "classQuantConnect_1_1Data_1_1Fundamental_1_1CashReceiptsfromRepaymentofAdvancesandLoansMadetoOtherPartiesCashFlowStatement.html#a51555c10c8bcc0051f126e4776aa03a2", null ],
+    [ "Value", "classQuantConnect_1_1Data_1_1Fundamental_1_1CashReceiptsfromRepaymentofAdvancesandLoansMadetoOtherPartiesCashFlowStatement.html#aa58e6af8edb8f002cd1f76bdc8594e7c", null ]
+];

@@ -1,0 +1,4 @@
+<map id="QuantConnect.Extensions.CreateType" name="QuantConnect.Extensions.CreateType">
+<area shape="rect" id="node1" title="Creates a type with a given name, if PyObject is not a CLR type. Otherwise, convert it." alt="" coords="5,5,199,47"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Util_1_1ObjectActivator.html#acbc943be71348f94a057dab6dfa0871e" title="Adds method to return an instance of object" alt="" coords="247,5,433,47"/>
+</map>

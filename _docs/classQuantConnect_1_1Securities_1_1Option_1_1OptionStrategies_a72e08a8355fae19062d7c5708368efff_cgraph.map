@@ -1,0 +1,6 @@
+<map id="QuantConnect.Securities.Option.OptionStrategies.ShortBoxSpread" name="QuantConnect.Securities.Option.OptionStrategies.ShortBoxSpread">
+<area shape="rect" id="node1" title="Creates a Short Box Spread strategy which consists of a long call and a short put (buy side) of the s..." alt="" coords="5,45,221,101"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Securities_1_1Option_1_1OptionStrategies.html#a9c30ee63105c685f3b254e413cfa064a" title="Creates a Box Spread strategy which consists of a long call and a short put (buy side) of the same st..." alt="" coords="269,53,521,94"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Securities_1_1Option_1_1OptionStrategies.html#a09c0ddfe69c6a3a35c87be5cc3495d83" title="Method creates new Bear Put Spread strategy, that consists of two puts with the same expiration but d..." alt="" coords="569,5,781,61"/>
+<area shape="rect" id="node4" href="$classQuantConnect_1_1Securities_1_1Option_1_1OptionStrategies.html#a533c85d897c5a759af86deb1456536ae" title="Method creates new Bull Call Spread strategy, that consists of two calls with the same expiration but..." alt="" coords="572,85,779,141"/>
+</map>

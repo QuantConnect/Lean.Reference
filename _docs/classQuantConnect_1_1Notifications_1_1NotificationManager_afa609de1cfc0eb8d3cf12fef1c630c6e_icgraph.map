@@ -1,0 +1,5 @@
+<map id="QuantConnect.Notifications.NotificationManager.Ftp" name="QuantConnect.Notifications.NotificationManager.Ftp">
+<area shape="rect" id="node1" title="Send a file to the FTP specified server using password authentication over unsecure FTP." alt="" coords="257,39,461,80"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Notifications_1_1NotificationManager.html#a085693e4530086d663ecf9704896b8d9" title="Send a file to the FTP specified server using password authentication over unsecure FTP." alt="" coords="5,5,209,47"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Notifications_1_1NotificationManager.html#ad864eea33099fed4e87960e697d56b33" title="Send a file to the FTP specified server using password authentication over SFTP." alt="" coords="5,71,209,112"/>
+</map>

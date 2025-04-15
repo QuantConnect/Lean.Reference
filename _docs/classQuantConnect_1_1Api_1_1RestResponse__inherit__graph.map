@@ -1,0 +1,45 @@
+<map id="QuantConnect.Api.RestResponse" name="QuantConnect.Api.RestResponse">
+<area shape="rect" id="node1" title="Base API response class for the QuantConnect API." alt="" coords="212,949,447,976"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Api_1_1Account.html" title="Account information for an organization" alt="" coords="527,5,721,32"/>
+<area shape="rect" id="node4" href="$classQuantConnect_1_1Api_1_1AuthenticationResponse.html" title="Verify if the credentials are OK." alt="" coords="505,57,743,98"/>
+<area shape="rect" id="node5" href="$classQuantConnect_1_1Api_1_1BacktestList.html" title="Collection container for a list of backtests for a project" alt="" coords="513,123,735,149"/>
+<area shape="rect" id="node6" href="$classQuantConnect_1_1Api_1_1BacktestReport.html" title="Backtest Report Response wrapper" alt="" coords="524,174,724,215"/>
+<area shape="rect" id="node7" href="$classQuantConnect_1_1Api_1_1BacktestResponseWrapper.html" title="Wrapper class for Backtest/* endpoints JSON response Currently used by Backtest/Read and Backtest/Cre..." alt="" coords="524,239,724,281"/>
+<area shape="rect" id="node8" href="$classQuantConnect_1_1Api_1_1BacktestSummaryList.html" title="Collection container for a list of backtest summaries for a project" alt="" coords="524,305,724,346"/>
+<area shape="rect" id="node9" href="$classQuantConnect_1_1Api_1_1BacktestTags.html" title="Collection container for a list of backtest tags" alt="" coords="509,371,739,397"/>
+<area shape="rect" id="node10" href="$classQuantConnect_1_1Api_1_1BaseLiveAlgorithm.html" title="Class representing the REST response from QC API when creating or reading a live algorithm" alt="" coords="523,422,725,463"/>
+<area shape="rect" id="node13" href="$classQuantConnect_1_1Api_1_1BaseOptimization.html" title="BaseOptimization item from the QuantConnect.com API." alt="" coords="495,488,753,515"/>
+<area shape="rect" id="node16" href="$classQuantConnect_1_1Api_1_1BasicBacktest.html" title="Base class for backtest result object response" alt="" coords="507,539,741,565"/>
+<area shape="rect" id="node19" href="$classQuantConnect_1_1Api_1_1Compile.html" title="Response from the compiler on a build event" alt="" coords="525,589,723,616"/>
+<area shape="rect" id="node20" href="$classQuantConnect_1_1Api_1_1CreatedNode.html" title="Rest api response wrapper for node/create, reads in the nodes information into a node object" alt="" coords="510,640,738,667"/>
+<area shape="rect" id="node21" href="$classQuantConnect_1_1Api_1_1DataLink.html" title="Data/Read response wrapper, contains link to requested data" alt="" coords="523,691,725,717"/>
+<area shape="rect" id="node22" href="$classQuantConnect_1_1Api_1_1DataList.html" title="Data/List response wrapper for available data" alt="" coords="525,741,723,768"/>
+<area shape="rect" id="node23" href="$classQuantConnect_1_1Api_1_1DataPricesList.html" title="Data/Prices response wrapper for prices by vendor" alt="" coords="506,792,742,819"/>
+<area shape="rect" id="node24" href="$classQuantConnect_1_1Api_1_1EstimateResponseWrapper.html" title="Wrapper class for Optimizations/* endpoints JSON response Currently used by Optimizations/Estimate" alt="" coords="523,843,725,885"/>
+<area shape="rect" id="node25" href="$classQuantConnect_1_1Api_1_1GetObjectStoreResponse.html" title="Response received when fetching Object Store" alt="" coords="520,909,728,950"/>
+<area shape="rect" id="node26" href="$classQuantConnect_1_1Api_1_1InsightResponse.html" title="Class containing insights and the number of insights of the live algorithm in the request criteria" alt="" coords="531,974,717,1015"/>
+<area shape="rect" id="node27" href="$classQuantConnect_1_1Api_1_1ListObjectStoreResponse.html" title="Response received containing a list of stored objects metadata, as well as the total size of all of t..." alt="" coords="520,1039,728,1081"/>
+<area shape="rect" id="node28" href="$classQuantConnect_1_1Api_1_1LiveAlgorithmResults.html" title="Details a live algorithm from the &quot;live/read&quot; Api endpoint" alt="" coords="507,1105,741,1146"/>
+<area shape="rect" id="node29" href="$classQuantConnect_1_1Api_1_1LiveList.html" title="List of the live algorithms running which match the requested status" alt="" coords="527,1171,721,1197"/>
+<area shape="rect" id="node30" href="$classQuantConnect_1_1Api_1_1LiveLog.html" title="Logs from a live algorithm" alt="" coords="527,1221,721,1248"/>
+<area shape="rect" id="node31" href="$classQuantConnect_1_1Api_1_1NodeList.html" title="Collection of Node objects for each target environment." alt="" coords="524,1272,724,1299"/>
+<area shape="rect" id="node32" href="$classQuantConnect_1_1Api_1_1OptimizationList.html" title="Collection container for a list of summarized optimizations for a project" alt="" coords="499,1323,749,1349"/>
+<area shape="rect" id="node33" href="$classQuantConnect_1_1Api_1_1OptimizationResponseWrapper.html" title="Wrapper class for Optimizations/Read endpoint JSON response" alt="" coords="511,1374,737,1415"/>
+<area shape="rect" id="node34" href="$classQuantConnect_1_1Api_1_1OrganizationResponse.html" title="Response wrapper for Organizations/Read" alt="" coords="511,1439,737,1481"/>
+<area shape="rect" id="node35" href="$classQuantConnect_1_1Api_1_1PortfolioResponse.html" title="Response class for reading the portfolio of a live algorithm" alt="" coords="525,1505,723,1546"/>
+<area shape="rect" id="node36" href="$classQuantConnect_1_1Api_1_1Project.html" title="Response from reading a project by id." alt="" coords="530,1571,718,1597"/>
+<area shape="rect" id="node37" href="$classQuantConnect_1_1Api_1_1ProjectFilesResponse.html" title="Response received when creating a file or reading one file or more in a project" alt="" coords="530,1622,718,1663"/>
+<area shape="rect" id="node38" href="$classQuantConnect_1_1Api_1_1ProjectNodesResponse.html" title="Response received when reading or updating some nodes of a project" alt="" coords="530,1687,718,1729"/>
+<area shape="rect" id="node39" href="$classQuantConnect_1_1Api_1_1PropertiesObjectStoreResponse.html" title="Response received containing the properties of the requested Object Store" alt="" coords="519,1753,729,1794"/>
+<area shape="rect" id="node40" href="$classQuantConnect_1_1Api_1_1ReadChartResponse.html" title="Class for wrapping Read Chart response" alt="" coords="519,1818,729,1859"/>
+<area shape="rect" id="node41" href="$classQuantConnect_1_1Api_1_1VersionsResponse.html" title="Read versions response" alt="" coords="525,1883,723,1925"/>
+<area shape="rect" id="node43" href="$classQuantConnect_1_1Orders_1_1OrdersResponseWrapper.html" title="Collection container for a list of orders for a project" alt="" coords="520,1949,728,1990"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Api_1_1StringRepresentation.html" title="Class to return the string representation of an API response class" alt="" coords="5,949,164,976"/>
+<area shape="rect" id="node11" href="$classQuantConnect_1_1Api_1_1CreateLiveAlgorithmResponse.html" title="Class representing the REST response from QC API when creating a live algorithm" alt="" coords="812,327,1025,369"/>
+<area shape="rect" id="node12" href="$classQuantConnect_1_1Api_1_1LiveAlgorithmSummary.html" title="Response from List Live Algorithms request to QuantConnect Rest API." alt="" coords="801,393,1036,434"/>
+<area shape="rect" id="node14" href="$classQuantConnect_1_1Api_1_1Optimization.html" title="Optimization response packet from the QuantConnect.com API." alt="" coords="805,459,1032,485"/>
+<area shape="rect" id="node15" href="$classQuantConnect_1_1Api_1_1OptimizationSummary.html" title="Optimization summary response for creating an optimization" alt="" coords="805,510,1032,551"/>
+<area shape="rect" id="node17" href="$classQuantConnect_1_1Api_1_1Backtest.html" title="Results object class. Results are exhaust from backtest or live algorithms running in LEAN" alt="" coords="819,576,1019,603"/>
+<area shape="rect" id="node18" href="$classQuantConnect_1_1Api_1_1BacktestSummary.html" title="Result object class for the List Backtest response from the API" alt="" coords="819,627,1019,669"/>
+<area shape="rect" id="node42" href="$classQuantConnect_1_1Api_1_1ProjectResponse.html" title="Project list response" alt="" coords="825,1883,1013,1925"/>
+</map>

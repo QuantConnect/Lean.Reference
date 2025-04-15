@@ -1,0 +1,8 @@
+<map id="QuantConnect.Util.LeanData.GenerateZipEntryName" name="QuantConnect.Util.LeanData.GenerateZipEntryName">
+<area shape="rect" id="node1" title="Generate&#39;s the zip entry name to hold the specified data." alt="" coords="264,136,475,177"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Data_1_1Market_1_1OpenInterest.html#aafb78016544eaaa168ef73af68930616" title="Get source for OI data feed &#45; not used with QuantConnect data sources implementation." alt="" coords="9,5,212,47"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Data_1_1Market_1_1QuoteBar.html#ae92c1900dfa9531f357eefb2ecd89db1" title="Get Source for Custom Data File What source file location would you prefer for each type of usage:" alt="" coords="9,71,212,112"/>
+<area shape="rect" id="node4" href="$classQuantConnect_1_1Data_1_1Market_1_1Tick.html#a7ef70f16b4918674442d8725ce300fa0" title="Get source for tick data feed &#45; not used with QuantConnect data sources implementation." alt="" coords="9,136,212,177"/>
+<area shape="rect" id="node5" href="$classQuantConnect_1_1Data_1_1Market_1_1TradeBar.html#adf7b8d14a635064df37828922c88f50b" title="Get Source for Custom Data File What source file location would you prefer for each type of usage:" alt="" coords="9,201,212,243"/>
+<area shape="rect" id="node6" href="$classQuantConnect_1_1ToolBox_1_1LeanDataReader.html#af3457899551e778506b2e1898eed1b8a" title="The LeanDataReader constructor" alt="" coords="5,267,216,308"/>
+</map>

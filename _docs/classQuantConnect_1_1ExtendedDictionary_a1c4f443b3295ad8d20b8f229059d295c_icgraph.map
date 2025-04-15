@@ -1,0 +1,6 @@
+<map id="QuantConnect.ExtendedDictionary.TryGetValue" name="QuantConnect.ExtendedDictionary.TryGetValue">
+<area shape="rect" id="node1" title="Gets the value associated with the specified Symbol." alt="" coords="300,71,548,112"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1ExtendedDictionary.html#a7a55cf8909dc8b23b199da9d7a71a7e3" title="Returns the value for the specified Symbol if Symbol is in dictionary." alt="" coords="5,5,252,47"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1ExtendedDictionary.html#a859314a103eaf00d59aeb3cd1862174a" title="Removes and returns an element from a dictionary having the given Symbol." alt="" coords="5,71,252,112"/>
+<area shape="rect" id="node4" href="$classQuantConnect_1_1ExtendedDictionary.html#a3fb58790dffe0990dabcb35e01b47804" title="Returns the value of a Symbol (if the Symbol is in dictionary). If not, it inserts Symbol with a valu..." alt="" coords="5,136,252,177"/>
+</map>

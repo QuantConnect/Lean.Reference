@@ -1,0 +1,5 @@
+<map id="QuantConnect.Python.BenchmarkPythonWrapper" name="QuantConnect.Python.BenchmarkPythonWrapper">
+<area shape="rect" id="node1" title="Provides an implementation of IBenchmark that wraps a PyObject object" alt="" coords="46,95,287,136"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Python_1_1BasePythonWrapper.html" title=" " alt="" coords="5,5,171,47"/>
+<area shape="rect" id="node3" href="$interfaceQuantConnect_1_1Benchmarks_1_1IBenchmark.html" title="Specifies how to compute a benchmark for an algorithm" alt="" coords="195,13,295,39"/>
+</map>

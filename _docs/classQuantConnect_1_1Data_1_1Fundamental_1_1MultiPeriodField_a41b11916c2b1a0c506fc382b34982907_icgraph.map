@@ -1,0 +1,6 @@
+<map id="QuantConnect.Data.Fundamental.MultiPeriodField.GetPeriodValues" name="QuantConnect.Data.Fundamental.MultiPeriodField.GetPeriodValues">
+<area shape="rect" id="node1" title="Gets a dictionary of period names and values for the field" alt="" coords="296,93,539,134"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Data_1_1Fundamental_1_1MultiPeriodField.html#a22583eb3a264d14e1d9f5b3ba18abc8d" title="Gets the list of available period names for the field" alt="" coords="5,5,248,61"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Data_1_1Fundamental_1_1MultiPeriodField.html#ac16971bdeda75ac3edb8679cf4a0d886" title="Returns true if the field has at least one value for one period" alt="" coords="5,85,248,141"/>
+<area shape="rect" id="node4" href="$classQuantConnect_1_1Data_1_1Fundamental_1_1MultiPeriodField.html#af6ff7c12f41b34363c9426aa5b84bc20" title="Returns a string that represents the current object." alt="" coords="5,165,248,221"/>
+</map>

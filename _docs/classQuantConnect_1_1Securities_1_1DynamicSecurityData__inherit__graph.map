@@ -1,0 +1,4 @@
+<map id="QuantConnect.Securities.DynamicSecurityData" name="QuantConnect.Securities.DynamicSecurityData">
+<area shape="rect" id="node1" title="Provides access to a security&#39;s data via it&#39;s type. This implementation supports dynamic access by ty..." alt="" coords="19,80,205,121"/>
+<area shape="rect" id="node2" title=" " alt="" coords="5,5,219,32"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="QuantConnect.Lean.Engine.DataFeeds.FileSystemDataFeed.CreateUniverseEnumerator" name="QuantConnect.Lean.Engine.DataFeeds.FileSystemDataFeed.CreateUniverseEnumerator">
+<area shape="rect" id="node1" title="Creates a universe enumerator from the Subscription request, the underlying enumerator func and the f..." alt="" coords="653,5,929,61"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Lean_1_1Engine_1_1DataFeeds_1_1FileSystemDataFeed.html#ad1ce25d62c996f68cf78a6d6a4c53907" title="Creates a file based data enumerator for the given subscription request" alt="" coords="329,5,605,61"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Lean_1_1Engine_1_1DataFeeds_1_1FileSystemDataFeed.html#ac148e78fc814fca88c70a1835be51a25" title="Creates a new subscription to provide data for the specified security." alt="" coords="5,5,281,61"/>
+</map>

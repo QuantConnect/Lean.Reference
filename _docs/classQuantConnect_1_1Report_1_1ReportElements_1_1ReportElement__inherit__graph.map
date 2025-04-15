@@ -1,0 +1,30 @@
+<map id="QuantConnect.Report.ReportElements.ReportElement" name="QuantConnect.Report.ReportElements.ReportElement">
+<area shape="rect" id="node1" title="Common interface for template elements of the report" alt="" coords="176,753,384,795"/>
+<area shape="rect" id="node3" title=" " alt="" coords="462,331,683,372"/>
+<area shape="rect" id="node4" title=" " alt="" coords="463,396,682,437"/>
+<area shape="rect" id="node17" href="$classQuantConnect_1_1Report_1_1ReportElements_1_1EstimatedCapacityReportElement.html" title="Capacity Estimation Report Element" alt="" coords="446,462,699,518"/>
+<area shape="rect" id="node18" title=" " alt="" coords="453,542,693,598"/>
+<area shape="rect" id="node19" title=" " alt="" coords="455,623,691,664"/>
+<area shape="rect" id="node20" title=" " alt="" coords="432,688,713,729"/>
+<area shape="rect" id="node21" href="$classQuantConnect_1_1Report_1_1ReportElements_1_1ParametersReportElement.html" title="Class for creating a two column table for the Algorithm&#39;s Parameters in a report" alt="" coords="443,753,702,795"/>
+<area shape="rect" id="node22" title=" " alt="" coords="468,819,677,860"/>
+<area shape="rect" id="node23" title=" " alt="" coords="437,884,709,925"/>
+<area shape="rect" id="node24" href="$classQuantConnect_1_1Report_1_1ReportElements_1_1SharpeRatioReportElement.html" title="Class for render the Sharpe Ratio statistic for a report" alt="" coords="441,949,704,991"/>
+<area shape="rect" id="node26" title=" " alt="" coords="467,1015,678,1056"/>
+<area shape="rect" id="node27" title=" " alt="" coords="436,1080,709,1121"/>
+<area shape="rect" id="node28" title=" " alt="" coords="453,1145,693,1187"/>
+<area shape="rect" id="node2" title="Common interface for template elements of the report" alt="" coords="5,761,128,787"/>
+<area shape="rect" id="node5" title=" " alt="" coords="765,5,1044,47"/>
+<area shape="rect" id="node6" title=" " alt="" coords="789,71,1020,127"/>
+<area shape="rect" id="node7" title=" " alt="" coords="795,152,1015,193"/>
+<area shape="rect" id="node8" title=" " alt="" coords="777,218,1032,274"/>
+<area shape="rect" id="node9" title=" " alt="" coords="771,299,1039,340"/>
+<area shape="rect" id="node10" title=" " alt="" coords="778,364,1031,405"/>
+<area shape="rect" id="node11" title=" " alt="" coords="783,429,1027,471"/>
+<area shape="rect" id="node12" title=" " alt="" coords="776,495,1033,551"/>
+<area shape="rect" id="node13" title=" " alt="" coords="761,576,1048,617"/>
+<area shape="rect" id="node14" title=" " alt="" coords="787,642,1023,698"/>
+<area shape="rect" id="node15" title=" " alt="" coords="775,722,1035,778"/>
+<area shape="rect" id="node16" title=" " alt="" coords="767,803,1042,844"/>
+<area shape="rect" id="node25" title=" " alt="" coords="773,949,1037,991"/>
+</map>

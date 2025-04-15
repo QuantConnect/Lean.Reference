@@ -1,0 +1,4 @@
+<map id="QuantConnect.Securities.Volatility.VolatilityModelExtensions.WarmUp" name="QuantConnect.Securities.Volatility.VolatilityModelExtensions.WarmUp">
+<area shape="rect" id="node1" title="Warms up the security&#39;s volatility model. This can happen either on initialization or after a split o..." alt="" coords="5,5,260,61"/>
+<area shape="rect" id="node2" href="$interfaceQuantConnect_1_1Securities_1_1IVolatilityModel.html#a5334f896107e637d28c63482df6a08d2" title="Returns history requirements for the volatility model expressed in the form of history request" alt="" coords="308,13,597,54"/>
+</map>

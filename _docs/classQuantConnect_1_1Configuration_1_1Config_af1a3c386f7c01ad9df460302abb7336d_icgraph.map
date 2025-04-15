@@ -1,0 +1,6 @@
+<map id="QuantConnect.Configuration.Config.Reset" name="QuantConnect.Configuration.Config.Reset">
+<area shape="rect" id="node1" title="Resets the config settings to their default values. Called in regression tests where multiple algorit..." alt="" coords="488,50,697,91"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Configuration_1_1Config.html#a0e4793a3679d8f215ebfdbece7d87304" title="Merge CLI arguments with configuration file + load custom config file via CLI arg" alt="" coords="167,5,440,61"/>
+<area shape="rect" id="node4" href="$classQuantConnect_1_1Research_1_1QuantBook.html#a239bcca3c726a8cc25b9a6a3cd0c244f" title="QuantBook constructor. Provides access to data for quantitative analysis" alt="" coords="193,86,414,127"/>
+<area shape="rect" id="node3" href="$classProgram.html#ada72f8d1518f89bc2e6ad807d5059564" title="The main entry point for the application." alt="" coords="5,20,119,47"/>
+</map>

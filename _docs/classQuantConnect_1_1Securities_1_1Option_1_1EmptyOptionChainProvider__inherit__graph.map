@@ -1,0 +1,4 @@
+<map id="QuantConnect.Securities.Option.EmptyOptionChainProvider" name="QuantConnect.Securities.Option.EmptyOptionChainProvider">
+<area shape="rect" id="node1" title="An implementation of IOptionChainProvider that always returns an empty list of contracts" alt="" coords="5,80,251,121"/>
+<area shape="rect" id="node2" href="$interfaceQuantConnect_1_1Interfaces_1_1IOptionChainProvider.html" title="Provides the full option chain for a given underlying." alt="" coords="48,5,208,32"/>
+</map>

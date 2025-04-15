@@ -1,0 +1,4 @@
+<map id="QuantConnect.Lean.Engine.Setup.BaseSetupHandler.LoadBacktestJobCashAmount" name="QuantConnect.Lean.Engine.Setup.BaseSetupHandler.LoadBacktestJobCashAmount">
+<area shape="rect" id="node1" title="Sets the initial cash for the algorithm if set in the job packet." alt="" coords="5,5,280,61"/>
+<area shape="rect" id="node2" href="$interfaceQuantConnect_1_1Interfaces_1_1IAlgorithm.html#ab1c13833abb51dc9fd6b284e33810a97" title="Set the starting capital for the strategy" alt="" coords="328,13,515,54"/>
+</map>

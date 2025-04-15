@@ -1,0 +1,4 @@
+<map id="QuantConnect.Lean.Engine.Results.BacktestingResultHandler.DebugMessage" name="QuantConnect.Lean.Engine.Results.BacktestingResultHandler.DebugMessage">
+<area shape="rect" id="node1" title="Send a debug message back to the browser console." alt="" coords="5,5,252,61"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Lean_1_1Engine_1_1Results_1_1BacktestingResultHandler.html#a5ebe559276f84e3bb13746e26be6a312" title="Add message to LogStore" alt="" coords="300,5,547,61"/>
+</map>

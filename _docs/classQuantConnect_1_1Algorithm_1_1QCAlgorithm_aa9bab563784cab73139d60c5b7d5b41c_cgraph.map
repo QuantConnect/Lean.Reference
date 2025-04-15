@@ -1,0 +1,5 @@
+<map id="QuantConnect.Algorithm.QCAlgorithm.AddData&lt; T &gt;" name="QuantConnect.Algorithm.QCAlgorithm.AddData&lt; T &gt;">
+<area shape="rect" id="node1" title="AddDataa new user defined data source, requiring only the minimum config options." alt="" coords="5,35,279,76"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Algorithm_1_1QCAlgorithm.html#a8f307e6b81e88cf3bc5ba788a74fbf17" title="AddData a new user defined data source, requiring only the minimum config options...." alt="" coords="331,5,604,47"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Algorithm_1_1QCAlgorithm.html#a47eae84c2f0b8e98dbc61b555b645865" title="Creates a new Theta indicator for the symbol The indicator will be automatically updated on the symbo..." alt="" coords="327,71,608,98"/>
+</map>

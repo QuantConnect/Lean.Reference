@@ -1,0 +1,4 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$classQuantConnect_1_1Data_1_1Consolidators_1_1PeriodCountConsolidatorBase.html" title=" " alt="" coords="5,5,252,61"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Data_1_1Consolidators_1_1QuoteBarConsolidator.html" title="Consolidates QuoteBars into larger QuoteBars" alt="" coords="300,13,547,54"/>
+</map>

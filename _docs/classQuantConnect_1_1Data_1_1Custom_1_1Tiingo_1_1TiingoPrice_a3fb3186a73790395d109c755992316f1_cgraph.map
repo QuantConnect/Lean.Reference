@@ -1,0 +1,9 @@
+<map id="QuantConnect.Data.Custom.Tiingo.TiingoPrice.Reader" name="QuantConnect.Data.Custom.Tiingo.TiingoPrice.Reader">
+<area shape="rect" id="node1" title="Reader converts each line of the data source into BaseData objects. Each data type creates its own fa..." alt="" coords="5,54,212,95"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Symbol.html#a59158f74116be3dad0ea0f3f3f134416" title="Initializes a new instance of the Symbol class" alt="" coords="260,61,480,88"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Symbol.html#a59b0795fa21f46c306deb5576fa03bb9" title="Centralized helper method to resolve alias for a symbol" alt="" coords="528,61,755,88"/>
+<area shape="rect" id="node4" href="$classQuantConnect_1_1SymbolRepresentation.html#ad43ac907f6c19083821f58f21c6de017" title="Returns future symbol ticker from underlying and expiration date. Function can generate tickers of tw..." alt="" coords="803,17,1073,58"/>
+<area shape="rect" id="node6" href="$classQuantConnect_1_1SymbolRepresentation.html#ab133044f5cf8c16e700190a2202b215e" title="Returns option symbol ticker in accordance with OSI symbology More information can be found at http:/..." alt="" coords="803,86,1073,127"/>
+<area shape="rect" id="node5" href="$classQuantConnect_1_1Securities_1_1Future_1_1FuturesExpiryUtilityFunctions.html#a4ccb1e2f2fe40ff09785a74a02f26df1" title="Gets the number of months between the contract month and the expiry date." alt="" coords="1121,5,1476,61"/>
+<area shape="rect" id="node7" href="$classQuantConnect_1_1Messages_1_1SymbolRepresentation.html#a2c514157d8055cfa271ea3a7ca1ccde7" title="Returns a string message saying an unexpected security type was received by the given method name" alt="" coords="1171,85,1427,141"/>
+</map>

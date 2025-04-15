@@ -1,0 +1,4 @@
+<map id="QuantConnect.Lean.Engine.DataFeeds.SingleEntryDataCacheProvider.GetZipEntries" name="QuantConnect.Lean.Engine.DataFeeds.SingleEntryDataCacheProvider.GetZipEntries">
+<area shape="rect" id="node1" title="Returns a list of zip entries in a provided zip file" alt="" coords="5,5,245,61"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Compression.html#af62080d70c8729b62c0eb4a9f127cde5" title="Returns the entry file names contained in a zip file" alt="" coords="293,13,500,54"/>
+</map>

@@ -1,0 +1,12 @@
+<map id="QuantConnect.Extensions.GetOrAddUnrequestedSecurity" name="QuantConnect.Extensions.GetOrAddUnrequestedSecurity">
+<area shape="rect" id="node1" title="Gets the security for the specified symbol from the algorithm&#39;s securities collection...." alt="" coords="5,201,227,243"/>
+<area shape="rect" id="node2" href="$interfaceQuantConnect_1_1Interfaces_1_1IAlgorithm.html#ac01cf2a3960195eeff9226a36290c208" title="Creates and adds a new single Future contract to the algorithm" alt="" coords="276,5,491,47"/>
+<area shape="rect" id="node3" href="$interfaceQuantConnect_1_1Interfaces_1_1IAlgorithm.html#aa700cee69cb008f382a24c846d16e104" title="Creates and adds a new single Option contract to the algorithm" alt="" coords="275,71,492,112"/>
+<area shape="rect" id="node4" href="$interfaceQuantConnect_1_1Interfaces_1_1IAlgorithm.html#a50cf60d1f442b5247c3805e09551b253" title="Set a required SecurityType&#45;symbol and resolution for algorithm" alt="" coords="290,136,477,177"/>
+<area shape="rect" id="node5" href="$interfaceQuantConnect_1_1Interfaces_1_1IAlgorithm.html#a63cc959667fa0f4dfd13048a9b7dac94" title="Send debug message" alt="" coords="290,201,477,243"/>
+<area shape="rect" id="node6" href="$classQuantConnect_1_1Logging_1_1Log.html#af0e7955911bc7664b37661b2a303a9e3" title="Log error" alt="" coords="283,267,483,308"/>
+<area shape="rect" id="node8" href="$classQuantConnect_1_1Logging_1_1Log.html#a4e55477fbc790846b74550a57198cea9" title="Log trace" alt="" coords="283,332,483,373"/>
+<area shape="rect" id="node10" href="$classQuantConnect_1_1Securities_1_1SecurityManager.html#af3ad97e370ceec706ac1afe70f7fbb42" title="Try and get this security object with matching symbol and return true on success." alt="" coords="277,397,490,439"/>
+<area shape="rect" id="node7" href="$interfaceQuantConnect_1_1Logging_1_1ILogHandler.html#a35373a0c5d76031fa5ccf5dc39e5c25d" title="Write error message to log" alt="" coords="540,267,740,308"/>
+<area shape="rect" id="node9" href="$interfaceQuantConnect_1_1Logging_1_1ILogHandler.html#a3fb71a33ac66129240b63f12b6fcda3b" title="Write debug message to log" alt="" coords="540,332,740,373"/>
+</map>

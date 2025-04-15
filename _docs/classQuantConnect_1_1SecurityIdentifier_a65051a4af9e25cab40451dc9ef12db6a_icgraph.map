@@ -1,0 +1,18 @@
+<map id="QuantConnect.SecurityIdentifier.TryGetCustomDataType" name="QuantConnect.SecurityIdentifier.TryGetCustomDataType">
+<area shape="rect" id="node1" title="Tries to fetch the custom data type associated with a symbol" alt="" coords="1245,136,1477,177"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Extensions.html#a6e7b57a65d282b02a39d8232be71f4e0" title="Helper method to get a market hours entry" alt="" coords="973,5,1166,47"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Extensions.html#a7ec934e1acf59275a1d30b42148be67d" title="Helper method to determine if a given symbol is of custom data" alt="" coords="973,71,1166,112"/>
+<area shape="rect" id="node4" href="$classQuantConnect_1_1Data_1_1Auxiliary_1_1MappingExtensions.html#a46c0ef4d7d615640809706ef983cedae" title="Helper method to resolve the mapping file to use." alt="" coords="941,136,1197,177"/>
+<area shape="rect" id="node5" href="$classQuantConnect_1_1SecurityIdentifier.html#a2a52cbd8bce9ff527bc8021a3e3a0037" title="Tries to fetch the custom data type associated with a symbol" alt="" coords="953,201,1185,243"/>
+<area shape="rect" id="node16" href="$classQuantConnect_1_1Securities_1_1MarketHoursDatabase.html#ae91a668fd74f1a73e5a038afe40cce3a" title="Tries to get the entry for the specified market/symbol/security&#45;type" alt="" coords="946,267,1193,308"/>
+<area shape="rect" id="node6" href="$classQuantConnect_1_1Lean_1_1Engine_1_1DataFeeds_1_1DataManager.html#ae3335b4baef65a2485d4c16a65067a2e" title="Creates and adds a list of SubscriptionDataConfig for a given symbol and configuration...." alt="" coords="665,169,876,211"/>
+<area shape="rect" id="node7" href="$classQuantConnect_1_1Extensions.html#a4784f746909e2ee4cffea7538da5669a" title="Retrieve a common custom data types from the given symbols if any" alt="" coords="648,235,893,276"/>
+<area shape="rect" id="node8" href="$classQuantConnect_1_1Algorithm_1_1QCAlgorithm.html#a3dbba29e9f318ae97e8b99a1eb19537c" title="Helper method to create history requests from a date range" alt="" coords="327,169,600,211"/>
+<area shape="rect" id="node13" href="$classQuantConnect_1_1Algorithm_1_1QCAlgorithm.html#a80b86c4d204ee2a9b90628ddc9a765b9" title="Gets the historical data for the specified symbol. The exact number of bars will be returned...." alt="" coords="327,235,600,276"/>
+<area shape="rect" id="node14" href="$classQuantConnect_1_1Extensions.html#ae2a936226490b76f98ef2525a90f677d" title="Determines if certain data type is custom" alt="" coords="367,300,560,341"/>
+<area shape="rect" id="node9" href="$classQuantConnect_1_1Algorithm_1_1QCAlgorithm.html#a4a081c1d52f73c2cf8d54ef5edb95cd1" title="Gets the historical data for the specified symbols between the specified dates. The symbols must exis..." alt="" coords="5,39,279,80"/>
+<area shape="rect" id="node10" href="$classQuantConnect_1_1Algorithm_1_1QCAlgorithm.html#a28f42d241211c550e5be029478223f2c" title="Gets the historical data for the specified symbols between the specified dates. The symbols must exis..." alt="" coords="5,104,279,145"/>
+<area shape="rect" id="node11" href="$classQuantConnect_1_1Research_1_1QuantBook.html#aec46e9c9aa3c06089616c69f4eb777b7" title="Will return the universe selection data and will optionally perform selection" alt="" coords="31,169,253,211"/>
+<area shape="rect" id="node12" href="$classQuantConnect_1_1Research_1_1QuantBook.html#a4a403e952b48e9fbcedaa5af4f6a27e9" title="Will return the universe selection data and will optionally perform selection" alt="" coords="25,235,259,276"/>
+<area shape="rect" id="node15" href="$classQuantConnect_1_1Python_1_1PandasData.html#a14224c3701553aa1e567379007479df7" title="Initializes an instance of PandasData" alt="" coords="35,300,249,341"/>
+</map>

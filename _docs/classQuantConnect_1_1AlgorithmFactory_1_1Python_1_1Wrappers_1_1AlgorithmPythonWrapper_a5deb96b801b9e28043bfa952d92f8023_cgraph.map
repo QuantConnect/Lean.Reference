@@ -1,0 +1,5 @@
+<map id="QuantConnect.AlgorithmFactory.Python.Wrappers.AlgorithmPythonWrapper.SetFinishedWarmingUp" name="QuantConnect.AlgorithmFactory.Python.Wrappers.AlgorithmPythonWrapper.SetFinishedWarmingUp">
+<area shape="rect" id="node1" title="Sets IsWarmingUp to false to indicate this algorithm has finished its warm up" alt="" coords="5,5,309,61"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1AlgorithmFactory_1_1Python_1_1Wrappers_1_1AlgorithmPythonWrapper.html#aa7e0e4da8ada78d669e1bc31dc5097c5" title="Called when the algorithm has completed initialization and warm up." alt="" coords="357,5,661,61"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Python_1_1BasePythonWrapper.html#a05fa6adc417fbc2930f9bb95c91af17a" title="Invokes the specified method with the specified arguments" alt="" coords="709,5,915,61"/>
+</map>

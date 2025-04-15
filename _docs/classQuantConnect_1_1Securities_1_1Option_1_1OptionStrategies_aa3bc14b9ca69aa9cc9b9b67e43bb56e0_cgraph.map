@@ -1,0 +1,5 @@
+<map id="QuantConnect.Securities.Option.OptionStrategies.ShortIronButterfly" name="QuantConnect.Securities.Option.OptionStrategies.ShortIronButterfly">
+<area shape="rect" id="node1" title="Creates a new Short Iron Butterfly strategy which consists of a long ATM call, a long ATM put,..." alt="" coords="5,5,221,61"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Securities_1_1Option_1_1OptionStrategies.html#a4fe41809168469e594bc899cf667e46e" title="Creates a new Iron Butterfly strategy which consists of a short ATM call, a short ATM put,..." alt="" coords="269,5,476,61"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Securities_1_1Option_1_1OptionStrategies.html#ac23da9a3ad6e609c0b1fa2960bf9321c" title="Creates a new Iron Condor strategy which consists of a long put, a short put, a short call and a long..." alt="" coords="524,5,731,61"/>
+</map>

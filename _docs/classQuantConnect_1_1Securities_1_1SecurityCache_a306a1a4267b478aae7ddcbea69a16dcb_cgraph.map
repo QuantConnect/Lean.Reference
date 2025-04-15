@@ -1,0 +1,4 @@
+<map id="QuantConnect.Securities.SecurityCache.AddData" name="QuantConnect.Securities.SecurityCache.AddData">
+<area shape="rect" id="node1" title="Add a new market data point to the local security cache for the current market price...." alt="" coords="5,5,192,47"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Securities_1_1SecurityCache.html#a50f2c7ac45a816c462ec67e944a6100e" title="Will consume the given data point updating the cache state and it&#39;s properties" alt="" coords="240,5,473,47"/>
+</map>

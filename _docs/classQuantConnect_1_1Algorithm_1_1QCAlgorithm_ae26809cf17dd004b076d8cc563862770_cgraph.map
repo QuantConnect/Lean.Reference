@@ -1,0 +1,8 @@
+<map id="QuantConnect.Algorithm.QCAlgorithm.SetAlgorithmMode" name="QuantConnect.Algorithm.QCAlgorithm.SetAlgorithmMode">
+<area shape="rect" id="node1" title="Sets the algorithm running mode" alt="" coords="5,71,279,112"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Algorithm_1_1QCAlgorithm.html#a9901b7d411298d0b1b7ccc480477d99c" title="Set live mode state of the algorithm run: Public setter for the algorithm property LiveMode." alt="" coords="327,71,600,112"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Statistics_1_1TradeBuilder.html#a36ad17c727161c8fb7a25109941e9a48" title="Sets the live mode flag" alt="" coords="668,5,859,47"/>
+<area shape="rect" id="node4" href="$classQuantConnect_1_1Securities_1_1SecurityManager.html#a3d297da1225d475edbc6279b26445244" title="Set live mode state of the algorithm" alt="" coords="654,71,873,112"/>
+<area shape="rect" id="node6" href="$classQuantConnect_1_1Securities_1_1SecurityTransactionManager.html#ac1c99dfa4cecc8b1299a722e951bbfdf" title="Set live mode state of the algorithm" alt="" coords="648,137,879,193"/>
+<area shape="rect" id="node5" href="$classQuantConnect_1_1Securities_1_1SecurityService.html#abb1391cd605b925d2a9fa0a0a059ade8" title="Set live mode state of the algorithm" alt="" coords="927,71,1137,112"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="QuantConnect.Orders.Fills.EquityFillModel.GetPricesCheckingPythonWrapper" name="QuantConnect.Orders.Fills.EquityFillModel.GetPricesCheckingPythonWrapper">
+<area shape="rect" id="node1" title="This is required due to a limitation in PythonNet to resolved overriden methods. GetPrices" alt="" coords="5,5,253,61"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Orders_1_1Fills_1_1EquityFillModel.html#a5fda22b5c863678c2480e2983b0947d1" title="Get the minimum and maximum price for this security in the last bar:" alt="" coords="301,13,496,54"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Securities_1_1SecurityCache.html#a2e22a721cbad979accb38e91dd640b8e" title="Get last data packet received for this security if any else null" alt="" coords="544,13,731,54"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="QuantConnect.Python.DividendYieldModelPythonWrapper.GetDividendYield" name="QuantConnect.Python.DividendYieldModelPythonWrapper.GetDividendYield">
+<area shape="rect" id="node1" title="Get dividend yield at given date and security price" alt="" coords="5,5,316,47"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Python_1_1DividendYieldModelPythonWrapper.html#aab08ae2bcec1328240528ff1976e1d87" title="Get dividend yield by a given date of a given symbol" alt="" coords="364,5,675,47"/>
+</map>

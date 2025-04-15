@@ -1,0 +1,7 @@
+<map id="QuantConnect.Lean.Engine.DataFeeds.DataQueueHandlerManager.SetJob" name="QuantConnect.Lean.Engine.DataFeeds.DataQueueHandlerManager.SetJob">
+<area shape="rect" id="node1" title="Sets the job we&#39;re subscribing for" alt="" coords="5,71,284,127"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Lean_1_1Engine_1_1DataFeeds_1_1DataQueueHandlerManager.html#a0504a4b87e7cbf86aa33e0a06ab414d8" title="Creates the frontier time provider instance" alt="" coords="332,5,611,61"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Logging_1_1Log.html#a4e55477fbc790846b74550a57198cea9" title="Log trace" alt="" coords="659,46,859,87"/>
+<area shape="rect" id="node5" href="$interfaceQuantConnect_1_1Interfaces_1_1IDataQueueHandler.html#a236f0be67ed1e9e5f51c9f0b621c9798" title="Sets the job we&#39;re subscribing for" alt="" coords="374,137,569,178"/>
+<area shape="rect" id="node4" href="$interfaceQuantConnect_1_1Logging_1_1ILogHandler.html#a3fb71a33ac66129240b63f12b6fcda3b" title="Write debug message to log" alt="" coords="907,46,1107,87"/>
+</map>

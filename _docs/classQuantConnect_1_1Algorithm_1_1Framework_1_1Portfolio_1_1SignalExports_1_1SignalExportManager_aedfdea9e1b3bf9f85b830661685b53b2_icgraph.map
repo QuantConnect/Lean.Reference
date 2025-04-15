@@ -1,0 +1,4 @@
+<map id="QuantConnect.Algorithm.Framework.Portfolio.SignalExports.SignalExportManager.OnOrderEvent" name="QuantConnect.Algorithm.Framework.Portfolio.SignalExports.SignalExportManager.OnOrderEvent">
+<area shape="rect" id="node1" title="New order event handler: on order status changes (filled, partially filled, cancelled etc)." alt="" coords="352,5,615,61"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Lean_1_1Engine_1_1TransactionHandlers_1_1BrokerageTransactionHandler.html#af51169bf86f99a6ad3467a23be8cde12" title="Creates a new BrokerageTransactionHandler to process orders using the specified brokerage implementat..." alt="" coords="5,5,304,61"/>
+</map>

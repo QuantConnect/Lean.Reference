@@ -1,0 +1,5 @@
+<map id="BaseDataDownloadConfig" name="BaseDataDownloadConfig">
+<area shape="rect" id="node1" title="Abstract base class for configuring data download parameters, including common properties and initial..." alt="" coords="95,5,285,32"/>
+<area shape="rect" id="node2" href="$classDataDownloadConfig.html" title="Represents the configuration for downloading data." alt="" coords="5,80,164,107"/>
+<area shape="rect" id="node3" href="$classDataUniverseDownloadConfig.html" title="Represents the configuration for downloading data for a universe of securities." alt="" coords="188,80,405,107"/>
+</map>

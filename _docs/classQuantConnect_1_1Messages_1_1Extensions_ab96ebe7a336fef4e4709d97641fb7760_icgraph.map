@@ -1,0 +1,5 @@
+<map id="QuantConnect.Messages.Extensions.UnknownOptionRight" name="QuantConnect.Messages.Extensions.UnknownOptionRight">
+<area shape="rect" id="node1" title="Returns a string message saying the given OptionRight was unexpected/unknown" alt="" coords="247,39,509,80"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Extensions.html#ac4f06c1263b17fc312fe0ad05fc4eb96" title="Converts the specified optionRight &#160;value to its corresponding lower&#45;case string representation" alt="" coords="5,5,199,47"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Extensions.html#ae456eac60aa9348ffe6319f229590541" title="Converts the specified string to its corresponding OptionRight" alt="" coords="5,71,199,112"/>
+</map>

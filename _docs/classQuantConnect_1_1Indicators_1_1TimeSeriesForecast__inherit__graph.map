@@ -1,0 +1,5 @@
+<map id="QuantConnect.Indicators.TimeSeriesForecast" name="QuantConnect.Indicators.TimeSeriesForecast">
+<area shape="rect" id="node1" title="Represents an indicator capable of predicting new values given previous data from a window...." alt="" coords="135,95,321,136"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Indicators_1_1WindowIndicator.html" title=" " alt="" coords="5,5,208,47"/>
+<area shape="rect" id="node3" href="$interfaceQuantConnect_1_1Indicators_1_1IIndicatorWarmUpPeriodProvider.html" title="Represents an indicator with a warm up period provider." alt="" coords="232,13,467,39"/>
+</map>

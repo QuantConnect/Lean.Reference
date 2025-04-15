@@ -1,0 +1,4 @@
+<map id="QuantConnect.Securities.CashBook.Convert" name="QuantConnect.Securities.CashBook.Convert">
+<area shape="rect" id="node1" title="Converts a quantity of source currency units into the specified destination currency" alt="" coords="5,5,192,47"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Messages_1_1CashBook.html#a7668ed1e406e2948a4dc01b7b1049e20" title="Returns a string message saying the conversion rate for the given currency is not available" alt="" coords="240,5,464,47"/>
+</map>

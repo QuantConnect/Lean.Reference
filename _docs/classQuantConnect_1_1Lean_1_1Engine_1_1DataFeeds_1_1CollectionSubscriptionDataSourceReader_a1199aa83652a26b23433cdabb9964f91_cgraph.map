@@ -1,0 +1,7 @@
+<map id="QuantConnect.Lean.Engine.DataFeeds.CollectionSubscriptionDataSourceReader.Read" name="QuantConnect.Lean.Engine.DataFeeds.CollectionSubscriptionDataSourceReader.Read">
+<area shape="rect" id="node1" title="Reads the specified source" alt="" coords="5,119,245,175"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Lean_1_1Engine_1_1DataFeeds_1_1SubscriptionDataSourceReader.html#a86e45bd45d701d5888d0e2ce82d13bc1" title="Creates cache directory if not existing and deletes old files from the cache" alt="" coords="293,5,544,61"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Lean_1_1Engine_1_1DataFeeds_1_1BaseSubscriptionDataSourceReader.html#a722a3e99039d7aa02b25df5dd54f8820" title="Creates a new IStreamReader for the specified subscriptionDataSource" alt="" coords="293,85,544,141"/>
+<area shape="rect" id="node4" href="$classQuantConnect_1_1Lean_1_1Engine_1_1DataFeeds_1_1BaseSubscriptionDataSourceReader.html#a4f33151f5c236a60bcd78fa58e74503d" title="Event invocator for the InvalidSource event" alt="" coords="592,119,831,175"/>
+<area shape="rect" id="node5" href="$interfaceQuantConnect_1_1Interfaces_1_1IStreamReader.html#aaac91da00350fc86d5f344e25052ef03" title="Gets the next line/batch of content from the stream" alt="" coords="325,217,512,258"/>
+</map>

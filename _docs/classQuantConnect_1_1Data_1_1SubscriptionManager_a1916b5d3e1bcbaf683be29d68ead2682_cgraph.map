@@ -1,0 +1,6 @@
+<map id="QuantConnect.Data.SubscriptionManager.IsSubscriptionValidForConsolidator" name="QuantConnect.Data.SubscriptionManager.IsSubscriptionValidForConsolidator">
+<area shape="rect" id="node1" title="Checks if the subscription is valid for the consolidator" alt="" coords="5,39,312,80"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Util_1_1LeanData.html#adf1799b921849e0643385e6794ec2471" title="Get the TickType for common Lean data types. If not a Lean common data type, return a TickType of Tra..." alt="" coords="360,5,668,47"/>
+<area shape="rect" id="node4" href="$classQuantConnect_1_1Util_1_1LeanData.html#af07561616d971cbd08adb7847eafb7f6" title="Determines if the Type is a &#39;common&#39; type used throughout lean This method is helpful in creating Sub..." alt="" coords="409,71,619,112"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Util_1_1LeanData.html#a24869ac4b029b3f2d468596baab6d72d" title="Gets the tick type most commonly associated with the specified security type" alt="" coords="716,5,927,47"/>
+</map>

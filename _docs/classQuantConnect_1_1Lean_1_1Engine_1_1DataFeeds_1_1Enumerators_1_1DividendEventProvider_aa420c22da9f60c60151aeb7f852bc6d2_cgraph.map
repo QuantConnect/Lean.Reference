@@ -1,0 +1,4 @@
+<map id="QuantConnect.Lean.Engine.DataFeeds.Enumerators.DividendEventProvider.InitializeFactorFile" name="QuantConnect.Lean.Engine.DataFeeds.Enumerators.DividendEventProvider.InitializeFactorFile">
+<area shape="rect" id="node1" title="Initializes the factor file to use" alt="" coords="5,5,245,61"/>
+<area shape="rect" id="node2" href="$interfaceQuantConnect_1_1Interfaces_1_1IFactorFileProvider.html#abb71d95ca43dceef129a4c55e255fff7" title="Gets a FactorFile&lt;T&gt; instance for the specified symbol, or null if not found" alt="" coords="293,13,480,54"/>
+</map>

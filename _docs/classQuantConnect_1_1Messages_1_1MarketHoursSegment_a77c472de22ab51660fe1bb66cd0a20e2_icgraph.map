@@ -1,0 +1,4 @@
+<map id="QuantConnect.Messages.MarketHoursSegment.ToString" name="QuantConnect.Messages.MarketHoursSegment.ToString">
+<area shape="rect" id="node1" title="Parses a MarketHourSegment object into a string message containing basic information about it" alt="" coords="272,5,504,47"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Securities_1_1MarketHoursSegment.html#af53ccb08e4ca3b2a93fc04373736492e" title="Returns a string that represents the current object." alt="" coords="5,5,224,47"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="QuantConnect.Algorithm.Framework.Portfolio.SignalExports.SignalExportManager.SetTargetPortfolioFromPortfolio" name="QuantConnect.Algorithm.Framework.Portfolio.SignalExports.SignalExportManager.SetTargetPortfolioFromPortfolio">
+<area shape="rect" id="node1" title="Sets the portfolio targets from the algorihtm&#39;s Portfolio and sends them with the algorithm being ran..." alt="" coords="663,5,949,61"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Algorithm_1_1Framework_1_1Portfolio_1_1SignalExports_1_1SignalExportManager.html#a51cfce5853b654f7d62404213d6e29bf" title="Set the target portfolio after order events." alt="" coords="352,5,615,61"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Lean_1_1Engine_1_1TransactionHandlers_1_1BrokerageTransactionHandler.html#a83ff73d85287f4548bc40e7343d92173" title="Processes all synchronous events that must take place before the next time loop for the algorithm" alt="" coords="5,5,304,61"/>
+</map>

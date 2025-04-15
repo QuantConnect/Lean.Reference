@@ -1,0 +1,4 @@
+<map id="QuantConnect.ToolBox.RandomDataGenerator.FutureSymbolGenerator" name="QuantConnect.ToolBox.RandomDataGenerator.FutureSymbolGenerator">
+<area shape="rect" id="node1" title="Generates a new random future Symbol. The generates future contract Symbol will have an expiry betwee..." alt="" coords="5,80,281,121"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1ToolBox_1_1RandomDataGenerator_1_1BaseSymbolGenerator.html" title="Provide the base symbol generator implementation" alt="" coords="59,5,227,32"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$interfaceQuantConnect_1_1Indicators_1_1IReadOnlyWindow.html" title=" " alt="" coords="5,5,192,47"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Indicators_1_1RollingWindow.html" title="This is a window that allows for list access semantics, where this[0] refers to the most recent item ..." alt="" coords="240,5,427,47"/>
+</map>

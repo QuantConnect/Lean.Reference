@@ -1,0 +1,4 @@
+<map id="QuantConnect.Algorithm.QCAlgorithm.AddSeries" name="QuantConnect.Algorithm.QCAlgorithm.AddSeries">
+<area shape="rect" id="node1" title="Add a series object for charting. This is useful when initializing charts with series other than type..." alt="" coords="5,5,279,47"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1BaseSeries.html#aa0b83590a7b01d3ccba6f3347150a63f" title="Creates a series according to the specified type." alt="" coords="327,5,521,47"/>
+</map>

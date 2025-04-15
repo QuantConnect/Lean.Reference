@@ -1,0 +1,6 @@
+<map id="DataUniverseDownloaderGetParameters.GetUniverseFileName" name="DataUniverseDownloaderGetParameters.GetUniverseFileName">
+<area shape="rect" id="node1" title="Gets the file name where the universe data will be saved." alt="" coords="5,13,248,54"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Data_1_1UniverseSelection_1_1BaseChainUniverseData.html#ad0b416bec61d51105f802c1d064e87ee" title="Generates the file path for a universe data file based on the given symbol and date...." alt="" coords="296,5,544,61"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Util_1_1LeanData.html#a42eec844dbd75694d08d649bfd0fa27f" title="Generates the directory to the universe files for the specified symbol" alt="" coords="592,13,803,54"/>
+<area shape="rect" id="node4" href="$classQuantConnect_1_1Util_1_1LeanData.html#a80cb949e5e4aff26121e88359e3861b9" title="Generates the relative directory to the universe files for the specified symbol" alt="" coords="851,13,1112,54"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="QuantConnect.Securities.SecurityTransactionManager.RemoveOrder" name="QuantConnect.Securities.SecurityTransactionManager.RemoveOrder">
+<area shape="rect" id="node1" title="Remove this order from outstanding queue: user is requesting a cancel." alt="" coords="664,5,963,47"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Securities_1_1SecurityTransactionManager.html#a55a9fd6793fffa2a3b897bb3e72d6674" title="Added alias for RemoveOrder &#45;" alt="" coords="327,5,616,47"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Algorithm_1_1QCAlgorithm.html#a76b8193d7e78c9b50f18c04b75db5e0c" title="Liquidate your portfolio holdings" alt="" coords="5,5,279,47"/>
+</map>

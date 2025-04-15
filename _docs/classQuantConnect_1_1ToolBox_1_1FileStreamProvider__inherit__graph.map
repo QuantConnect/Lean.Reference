@@ -1,0 +1,5 @@
+<map id="QuantConnect.ToolBox.FileStreamProvider" name="QuantConnect.ToolBox.FileStreamProvider">
+<area shape="rect" id="node1" title="Provides an implementation of IStreamProvider that just returns a file stream" alt="" coords="5,155,201,196"/>
+<area shape="rect" id="node2" href="$interfaceQuantConnect_1_1ToolBox_1_1IStreamProvider.html" title="Defines how to open/close a source file" alt="" coords="40,80,167,107"/>
+<area shape="rect" id="node3" title=" " alt="" coords="54,5,153,32"/>
+</map>

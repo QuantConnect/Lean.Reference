@@ -1,0 +1,5 @@
+<map id="QuantConnect.Lean.Engine.DataFeeds.FileSystemDataFeed.TryAddFillForwardEnumerator" name="QuantConnect.Lean.Engine.DataFeeds.FileSystemDataFeed.TryAddFillForwardEnumerator">
+<area shape="rect" id="node1" title="Will add a fill forward enumerator if requested" alt="" coords="5,43,257,99"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Lean_1_1Engine_1_1DataFeeds_1_1SubscriptionCollection.html#a003d18530854d890b5c0733ff10a6f35" title="Gets and updates the fill forward resolution by checking specified subscription configurations and se..." alt="" coords="305,5,563,61"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Util_1_1LeanData.html#a45d5455942a1261f332547548a7682d9" title="Helper method to determine if we should use strict end time" alt="" coords="329,86,539,127"/>
+</map>

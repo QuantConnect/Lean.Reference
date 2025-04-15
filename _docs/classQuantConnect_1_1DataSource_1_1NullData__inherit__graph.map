@@ -1,0 +1,6 @@
+<map id="QuantConnect.DataSource.NullData" name="QuantConnect.DataSource.NullData">
+<area shape="rect" id="node1" title="Represents a custom data type place holder" alt="" coords="5,229,203,271"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Data_1_1BaseData.html" title="Abstract base data class of QuantConnect. It is intended to be extended to define generic user custom..." alt="" coords="61,155,147,181"/>
+<area shape="rect" id="node3" href="$interfaceQuantConnect_1_1Data_1_1IBaseData.html" title="Base Data Class: Type, Timestamp, Key – Base Features." alt="" coords="59,80,149,107"/>
+<area shape="rect" id="node4" href="$interfaceQuantConnect_1_1Data_1_1ISymbolProvider.html" title="Base data with a symbol" alt="" coords="39,5,169,32"/>
+</map>

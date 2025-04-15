@@ -1,0 +1,4 @@
+<map id="QuantConnect.Messages.Order.ToString" name="QuantConnect.Messages.Order.ToString">
+<area shape="rect" id="node1" title="Parses the given order into a string message with basic information about it" alt="" coords="257,5,484,47"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Orders_1_1Order.html#ac74e5e8d71c5479d736b0e851c3e02cf" title="Returns a string that represents the current object." alt="" coords="5,5,209,47"/>
+</map>

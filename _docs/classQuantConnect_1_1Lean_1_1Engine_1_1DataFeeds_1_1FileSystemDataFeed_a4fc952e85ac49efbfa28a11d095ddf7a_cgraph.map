@@ -1,0 +1,4 @@
+<map id="QuantConnect.Lean.Engine.DataFeeds.FileSystemDataFeed.CreateUniverseEnumerator" name="QuantConnect.Lean.Engine.DataFeeds.FileSystemDataFeed.CreateUniverseEnumerator">
+<area shape="rect" id="node1" title="Creates a universe enumerator from the Subscription request, the underlying enumerator func and the f..." alt="" coords="5,5,281,61"/>
+<area shape="rect" id="node2" href="$interfaceQuantConnect_1_1Data_1_1ISubscriptionEnumeratorFactory.html#a97aa4b46f0d1627863b644dfdbce5dac" title="Creates an enumerator to read the specified request" alt="" coords="329,13,596,54"/>
+</map>

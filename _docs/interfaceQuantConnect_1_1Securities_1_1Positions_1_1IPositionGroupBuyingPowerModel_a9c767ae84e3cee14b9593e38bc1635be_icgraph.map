@@ -1,0 +1,8 @@
+<map id="QuantConnect.Securities.Positions.IPositionGroupBuyingPowerModel.GetReservedBuyingPowerForPositionGroup" name="QuantConnect.Securities.Positions.IPositionGroupBuyingPowerModel.GetReservedBuyingPowerForPositionGroup">
+<area shape="rect" id="node1" title="Computes the amount of buying power reserved by the provided position group" alt="" coords="763,122,1057,193"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Securities_1_1Positions_1_1PositionGroupBuyingPowerModel.html#abc9b4d24eebe829eda4d4fe1e4b10126" title="Get the maximum market position group order quantity to obtain a delta in the buying power used by a ..." alt="" coords="352,5,715,61"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Securities_1_1Positions_1_1PositionGroupBuyingPowerModel.html#a53f72f99e03b8f529f64d92566a2e265" title="Gets the buying power available for a position group trade" alt="" coords="381,85,686,141"/>
+<area shape="rect" id="node4" href="$classQuantConnect_1_1Securities_1_1Positions_1_1PositionGroupBuyingPowerModelExtensions.html#a48ab305b96d7dd667bf7148063509097" title="Computes the amount of buying power reserved by the provided position group" alt="" coords="380,166,687,237"/>
+<area shape="rect" id="node5" href="$classQuantConnect_1_1Securities_1_1SecurityPortfolioManager.html#a7eb96c8a566ea8780edbbad71794af25" title="Logs margin information for debugging" alt="" coords="427,261,640,317"/>
+<area shape="rect" id="node6" href="$classQuantConnect_1_1Lean_1_1Engine_1_1TransactionHandlers_1_1BrokerageTransactionHandler.html#ad7914edfb9b6e24fcbcd637e2c468cd5" title="Adds the specified order to be processed" alt="" coords="5,261,304,317"/>
+</map>

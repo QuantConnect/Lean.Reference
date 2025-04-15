@@ -1,0 +1,4 @@
+<map id="QuantConnect.AlgorithmFactory.Python.Wrappers.AlgorithmPythonWrapper.Initialize" name="QuantConnect.AlgorithmFactory.Python.Wrappers.AlgorithmPythonWrapper.Initialize">
+<area shape="rect" id="node1" title="Initialise the Algorithm and Prepare Required Data:" alt="" coords="5,5,309,61"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Python_1_1BasePythonWrapper.html#a05fa6adc417fbc2930f9bb95c91af17a" title="Invokes the specified method with the specified arguments" alt="" coords="357,5,563,61"/>
+</map>

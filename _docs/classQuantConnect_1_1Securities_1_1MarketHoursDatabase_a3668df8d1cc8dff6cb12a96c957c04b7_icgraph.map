@@ -1,0 +1,4 @@
+<map id="QuantConnect.Securities.MarketHoursDatabase.SetEntryAlwaysOpen" name="QuantConnect.Securities.MarketHoursDatabase.SetEntryAlwaysOpen">
+<area shape="rect" id="node1" title="Convenience method for the common custom data case. Sets the entry for the specified symbol using Sec..." alt="" coords="247,5,473,61"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Extensions.html#a6e7b57a65d282b02a39d8232be71f4e0" title="Helper method to get a market hours entry" alt="" coords="5,13,199,54"/>
+</map>

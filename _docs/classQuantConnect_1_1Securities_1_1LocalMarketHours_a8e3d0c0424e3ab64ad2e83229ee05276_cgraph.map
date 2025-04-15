@@ -1,0 +1,4 @@
+<map id="QuantConnect.Securities.LocalMarketHours.ToString" name="QuantConnect.Securities.LocalMarketHours.ToString">
+<area shape="rect" id="node1" title="Returns a string that represents the current object." alt="" coords="5,5,200,47"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Messages_1_1LocalMarketHours.html#a5a1b3d476cd611700fea63033b6139a8" title="Parses the given LocalMarketHours object into a string message containing basic information about it" alt="" coords="248,5,469,47"/>
+</map>

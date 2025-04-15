@@ -1,0 +1,9 @@
+<map id="QuantConnect.Time.UnixTimeStampToDateTime" name="QuantConnect.Time.UnixTimeStampToDateTime">
+<area shape="rect" id="node1" title="Create a C# DateTime from a UnixTimestamp" alt="" coords="657,104,876,145"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Report_1_1ResultsUtil.html#a1283b789256e20c34dc2e56a3ec4ace3" title="Gets the points of the benchmark" alt="" coords="371,5,585,47"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Orders_1_1OrderEvent.html#ab5201a3c4066f451616e2602bdb36a7d" title="Creates a new instance based on the provided serialized order event" alt="" coords="377,71,579,112"/>
+<area shape="rect" id="node5" href="$classQuantConnect_1_1Algorithm_1_1Framework_1_1Alphas_1_1Insight.html#a45c92b494352cbd2da4db9890911200f" title="Creates a new Insight object from the specified serialized form" alt="" coords="347,136,609,177"/>
+<area shape="rect" id="node7" href="$classQuantConnect_1_1Time.html#ac8cbc28869423f26766cb5970ae957f2" title="Create a C# DateTime from a UnixTimestamp" alt="" coords="369,201,587,243"/>
+<area shape="rect" id="node4" href="$classQuantConnect_1_1Orders_1_1Serialization_1_1OrderEventJsonConverter.html#ae6c48e8ac3a202ba0187ea307c82b22d" title="Converts the input value to be deserialized" alt="" coords="27,67,277,108"/>
+<area shape="rect" id="node6" href="$classQuantConnect_1_1Algorithm_1_1Framework_1_1Alphas_1_1Serialization_1_1InsightJsonConverter.html#af2dd7ec283dc30929df11534ca3cc274" title="Converts the input value to be deserialized" alt="" coords="5,133,299,189"/>
+</map>

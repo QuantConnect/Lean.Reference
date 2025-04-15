@@ -1,0 +1,5 @@
+<map id="QuantConnect.Python.BasePythonWrapper.InvokeMethod" name="QuantConnect.Python.BasePythonWrapper.InvokeMethod">
+<area shape="rect" id="node1" title="Invokes the specified method with the specified arguments" alt="" coords="307,43,524,84"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Indicators_1_1PythonIndicator.html#a06aca444f3f477a92d080e4955dda742" title="Computes the next value of this indicator from the given state" alt="" coords="5,5,259,47"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Python_1_1BasePythonWrapper.html#ac06825cb5b651595762dc276f712c18b" title="Invokes the specified method with the specified arguments without returning a value" alt="" coords="13,71,251,127"/>
+</map>

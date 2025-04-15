@@ -1,0 +1,5 @@
+<map id="QuantConnect.Data.Auxiliary.MapFile.GetRelativeMapFilePath" name="QuantConnect.Data.Auxiliary.MapFile.GetRelativeMapFilePath">
+<area shape="rect" id="node1" title="Constructs the map file path for the specified market and symbol" alt="" coords="351,39,584,80"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Data_1_1Auxiliary_1_1MapFileZipHelper.html#afb6d30c777d14690ca65b182bbba231d" title="Gets the mapfile zip filename for the specified date" alt="" coords="5,5,303,47"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Data_1_1Auxiliary_1_1MapFile.html#aa56e7a591daa78d79ba602a9a606a23a" title="Writes the map file to a CSV file" alt="" coords="47,71,261,112"/>
+</map>

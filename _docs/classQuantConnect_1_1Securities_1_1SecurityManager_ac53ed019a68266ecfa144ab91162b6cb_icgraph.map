@@ -1,0 +1,7 @@
+<map id="QuantConnect.Securities.SecurityManager.ContainsKey" name="QuantConnect.Securities.SecurityManager.ContainsKey">
+<area shape="rect" id="node1" title="Check if this collection contains this symbol." alt="" coords="327,104,543,145"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Securities_1_1SecurityPortfolioManager.html#ac50e645fe0a919b245c47b6aa7ea3701" title="Check if the key&#45;value pair is in the portfolio." alt="" coords="19,5,265,47"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Securities_1_1SecurityPortfolioManager.html#ac683ba79af3d2a6e69714cb22acf7939" title="Check if the portfolio contains this symbol string." alt="" coords="7,71,277,112"/>
+<area shape="rect" id="node4" href="$classQuantConnect_1_1Algorithm_1_1QCAlgorithm.html#a2782daa7ad834527d8d971b071ed1372" title="Liquidate your portfolio holdings" alt="" coords="5,136,279,177"/>
+<area shape="rect" id="node5" href="$classQuantConnect_1_1Research_1_1QuantBook.html#a9c6829f944fce7f66a72fa0d9b64f7b8" title="Gets OptionHistory object for a given symbol, date and resolution" alt="" coords="31,201,253,243"/>
+</map>

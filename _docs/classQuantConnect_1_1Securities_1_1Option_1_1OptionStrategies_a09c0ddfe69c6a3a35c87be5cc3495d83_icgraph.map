@@ -1,0 +1,5 @@
+<map id="QuantConnect.Securities.Option.OptionStrategies.BearPutSpread" name="QuantConnect.Securities.Option.OptionStrategies.BearPutSpread">
+<area shape="rect" id="node1" title="Method creates new Bear Put Spread strategy, that consists of two puts with the same expiration but d..." alt="" coords="569,5,781,61"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Securities_1_1Option_1_1OptionStrategies.html#a9c30ee63105c685f3b254e413cfa064a" title="Creates a Box Spread strategy which consists of a long call and a short put (buy side) of the same st..." alt="" coords="269,13,521,54"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Securities_1_1Option_1_1OptionStrategies.html#a72e08a8355fae19062d7c5708368efff" title="Creates a Short Box Spread strategy which consists of a long call and a short put (buy side) of the s..." alt="" coords="5,5,221,61"/>
+</map>

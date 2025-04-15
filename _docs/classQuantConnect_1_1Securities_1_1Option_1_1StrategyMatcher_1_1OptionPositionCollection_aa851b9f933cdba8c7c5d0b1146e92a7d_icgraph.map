@@ -1,0 +1,5 @@
+<map id="QuantConnect.Securities.Option.StrategyMatcher.OptionPositionCollection.AddRange" name="QuantConnect.Securities.Option.StrategyMatcher.OptionPositionCollection.AddRange">
+<area shape="rect" id="node1" title="Creates a new collection that is the result of adding the specified positions &#160;to this collection." alt="" coords="288,45,511,101"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Securities_1_1Option_1_1StrategyMatcher_1_1OptionStrategyLegPredicate.html#a933cc47d5fb2422e9355b0b31dec8510" title="Filters the specified positions &#160;by applying this predicate based on the referenced legs." alt="" coords="11,5,234,61"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Securities_1_1Option_1_1StrategyMatcher_1_1OptionPositionCollection.html#a0a3360f8fb4c47c3f886e5f2ca0b0246" title="Creates a new OptionPositionCollection from the specified enumerable of positions" alt="" coords="5,85,240,141"/>
+</map>

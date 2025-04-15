@@ -1,0 +1,5 @@
+<map id="QuantConnect.Data.Fundamental.AccruedInterestReceivableBalanceSheet" name="QuantConnect.Data.Fundamental.AccruedInterestReceivableBalanceSheet">
+<area shape="rect" id="node1" title="This account shows the amount of unpaid interest accrued to the date of purchase and included in the ..." alt="" coords="5,155,291,196"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Data_1_1Fundamental_1_1MultiPeriodField.html" title="Abstract base class for multi&#45;period fields" alt="" coords="85,80,211,107"/>
+<area shape="rect" id="node3" title=" " alt="" coords="69,5,227,32"/>
+</map>

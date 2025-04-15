@@ -1,0 +1,5 @@
+<map id="QuantConnect.ToolBox.CsvDataProcessor" name="QuantConnect.ToolBox.CsvDataProcessor">
+<area shape="rect" id="node1" title="Provides an implementation of IDataProcessor that writes the incoming stream of data to a csv file." alt="" coords="5,155,203,196"/>
+<area shape="rect" id="node2" href="$interfaceQuantConnect_1_1ToolBox_1_1IDataProcessor.html" title="Specifies a piece of processing that should be performed against a source file" alt="" coords="44,80,164,107"/>
+<area shape="rect" id="node3" title=" " alt="" coords="55,5,153,32"/>
+</map>

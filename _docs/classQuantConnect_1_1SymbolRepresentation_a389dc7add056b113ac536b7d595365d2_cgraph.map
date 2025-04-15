@@ -1,0 +1,4 @@
+<map id="QuantConnect.SymbolRepresentation.GenerateOptionTickerOSICompact" name="QuantConnect.SymbolRepresentation.GenerateOptionTickerOSICompact">
+<area shape="rect" id="node1" title="Returns option symbol ticker in accordance with OSI symbology More information can be found at http:/..." alt="" coords="5,13,276,54"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Messages_1_1SymbolRepresentation.html#a2c514157d8055cfa271ea3a7ca1ccde7" title="Returns a string message saying an unexpected security type was received by the given method name" alt="" coords="324,5,580,61"/>
+</map>

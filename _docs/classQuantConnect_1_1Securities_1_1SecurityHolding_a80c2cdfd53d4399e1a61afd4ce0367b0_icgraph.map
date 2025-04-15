@@ -1,0 +1,4 @@
+<map id="QuantConnect.Securities.SecurityHolding.AddNewProfit" name="QuantConnect.Securities.SecurityHolding.AddNewProfit">
+<area shape="rect" id="node1" title="Adds a profit record to the running total of profit in units of the account&#39;s currency." alt="" coords="296,5,513,47"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Securities_1_1SecurityPortfolioModel.html#a5fec18e0e959a173c5fbb6187ab56f7c" title="Performs application of an OrderEvent to the portfolio" alt="" coords="5,5,248,47"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="QuantConnect.Messages.DllNotFoundPythonExceptionInterpreter.DynamicLinkLibraryNotFound" name="QuantConnect.Messages.DllNotFoundPythonExceptionInterpreter.DynamicLinkLibraryNotFound">
+<area shape="rect" id="node1" title="Returns a string message saying the given dynamic&#45;link library could not be found" alt="" coords="336,5,601,61"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Exceptions_1_1DllNotFoundPythonExceptionInterpreter.html#a2c3e1f2f4986fdd4e57ad960e72c7d7e" title="Interprets the specified exception into a new exception" alt="" coords="5,5,288,61"/>
+</map>

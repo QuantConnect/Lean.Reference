@@ -1,0 +1,4 @@
+<map id="QuantConnect.Optimizer.OptimizationNodePacket" name="QuantConnect.Optimizer.OptimizationNodePacket">
+<area shape="rect" id="node1" title="Provide a packet type containing information on the optimization compute job." alt="" coords="5,80,275,121"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Packets_1_1Packet.html" title="Base class for packet messaging system" alt="" coords="108,5,172,32"/>
+</map>

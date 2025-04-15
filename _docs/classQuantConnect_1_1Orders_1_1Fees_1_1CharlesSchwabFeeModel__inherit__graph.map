@@ -1,0 +1,5 @@
+<map id="QuantConnect.Orders.Fees.CharlesSchwabFeeModel" name="QuantConnect.Orders.Fees.CharlesSchwabFeeModel">
+<area shape="rect" id="node1" title="Represents a fee model specific to Charles Schwab." alt="" coords="5,155,204,196"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Orders_1_1Fees_1_1FeeModel.html" title="Base class for any order fee model" alt="" coords="62,80,147,107"/>
+<area shape="rect" id="node3" href="$interfaceQuantConnect_1_1Orders_1_1Fees_1_1IFeeModel.html" title="Represents a model the simulates order fees" alt="" coords="60,5,149,32"/>
+</map>

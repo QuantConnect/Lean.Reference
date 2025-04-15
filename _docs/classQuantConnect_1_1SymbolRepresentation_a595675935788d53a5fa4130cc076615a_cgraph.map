@@ -1,0 +1,4 @@
+<map id="QuantConnect.SymbolRepresentation.TryDecomposeOptionTickerOSI" name="QuantConnect.SymbolRepresentation.TryDecomposeOptionTickerOSI">
+<area shape="rect" id="node1" title="Tries to decompose the specified OSI options ticker into its components" alt="" coords="5,5,276,47"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Parse.html#aac0a89458d90280d2b3b04afa9e197a2" title="Parses the provided value as a decimal using CultureInfo.InvariantCulture" alt="" coords="324,13,535,39"/>
+</map>

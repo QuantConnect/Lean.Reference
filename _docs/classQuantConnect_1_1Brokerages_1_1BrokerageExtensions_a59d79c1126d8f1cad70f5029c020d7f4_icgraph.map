@@ -1,0 +1,6 @@
+<map id="QuantConnect.Brokerages.BrokerageExtensions.OrderCrossesZero" name="QuantConnect.Brokerages.BrokerageExtensions.OrderCrossesZero">
+<area shape="rect" id="node1" title="Determines if executing the specified order will cross the zero holdings threshold." alt="" coords="319,93,599,134"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Brokerages_1_1TradeStationBrokerageModel.html#a58602d464d2a71f7cfc88154f2b41e97" title="Returns true if the brokerage could accept this order. This takes into account order type,..." alt="" coords="19,5,257,61"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Brokerages_1_1TradeStationBrokerageModel.html#ab4dfad57980a081874ef6451e29b4453" title="TradeStation support Update Order" alt="" coords="19,85,257,141"/>
+<area shape="rect" id="node4" href="$classQuantConnect_1_1Brokerages_1_1Brokerage.html#a9250e91d61c33d7648b13df6853393cb" title="Attempts to place an order that may cross the zero position. If the order needs to be split into two ..." alt="" coords="5,166,271,207"/>
+</map>

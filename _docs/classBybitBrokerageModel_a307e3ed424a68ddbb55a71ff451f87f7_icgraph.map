@@ -1,0 +1,5 @@
+<map id="BybitBrokerageModel.IsOrderSizeLargeEnough" name="BybitBrokerageModel.IsOrderSizeLargeEnough">
+<area shape="rect" id="node1" title="Returns true if the order size is large enough for the given security." alt="" coords="292,39,505,80"/>
+<area shape="rect" id="node2" href="$classBybitBrokerageModel.html#aa4c87d43926c70096ba464f1acd731db" title="Returns true if the brokerage could accept this order. This takes into account order type,..." alt="" coords="6,5,243,47"/>
+<area shape="rect" id="node3" href="$classBybitBrokerageModel.html#a20f3ef0d22584c91358bc58967e8103a" title="Returns true if the brokerage could accept this order update. This takes into account order type,..." alt="" coords="5,71,244,112"/>
+</map>

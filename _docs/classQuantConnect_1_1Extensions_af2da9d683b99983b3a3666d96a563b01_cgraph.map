@@ -1,0 +1,6 @@
+<map id="QuantConnect.Extensions.InTheMoneyAmount" name="QuantConnect.Extensions.InTheMoneyAmount">
+<area shape="rect" id="node1" title="Gets the option&#39;s ITM amount for the given quantity." alt="" coords="5,39,199,80"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Securities_1_1Option_1_1Option.html#a9b490f060d7907e61a59e49b0349bc89" title="Option payoff function at expiration time" alt="" coords="275,5,462,47"/>
+<area shape="rect" id="node4" href="$classQuantConnect_1_1Securities_1_1SecurityHolding.html#a88902e4d2b5e59fd73934daa215efb0e" title="Gets the total value of the specified quantity &#160;of shares of this security in the account currency" alt="" coords="247,71,491,112"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Util_1_1OptionPayoff.html#a04bbbe3975d01c29101b7581d2564844" title="Option payoff function at expiration time" alt="" coords="539,5,727,47"/>
+</map>

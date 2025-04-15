@@ -1,0 +1,4 @@
+<map id="QuantConnect.Lean.Engine.DataFeeds.Enumerators.QuoteBarFillForwardEnumerator" name="QuantConnect.Lean.Engine.DataFeeds.Enumerators.QuoteBarFillForwardEnumerator">
+<area shape="rect" id="node1" title="The QuoteBarFillForwardEnumerator wraps an existing base data enumerator If the current QuoteBar has ..." alt="" coords="5,80,248,136"/>
+<area shape="rect" id="node2" title=" " alt="" coords="29,5,224,32"/>
+</map>

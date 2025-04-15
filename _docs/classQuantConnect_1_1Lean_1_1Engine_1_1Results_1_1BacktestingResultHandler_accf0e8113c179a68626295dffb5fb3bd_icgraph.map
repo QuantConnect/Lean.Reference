@@ -1,0 +1,4 @@
+<map id="QuantConnect.Lean.Engine.Results.BacktestingResultHandler.SecurityType" name="QuantConnect.Lean.Engine.Results.BacktestingResultHandler.SecurityType">
+<area shape="rect" id="node1" title="Send list of security asset types the algorithm uses to browser." alt="" coords="300,5,547,61"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Lean_1_1Engine_1_1Results_1_1BacktestingResultHandler.html#a187cf964394ce96cafca9a1048e9b143" title="Set the Algorithm instance for ths result." alt="" coords="5,5,252,61"/>
+</map>

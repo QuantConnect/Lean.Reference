@@ -1,0 +1,9 @@
+<map id="QuantConnect.Algorithm.Framework.Portfolio.SignalExports.Collective2SignalExport.Send" name="QuantConnect.Algorithm.Framework.Portfolio.SignalExports.Collective2SignalExport.Send">
+<area shape="rect" id="node1" title="Creates a JSON message with the desired positions using the expected Collective2 API format and then ..." alt="" coords="5,107,268,163"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Algorithm_1_1Framework_1_1Portfolio_1_1SignalExports_1_1Collective2SignalExport.html#a87920e10ff6ced2b1299745f8ddb5aa3" title="Converts a list of targets to a list of Collective2 positions" alt="" coords="316,67,619,123"/>
+<area shape="rect" id="node7" href="$classQuantConnect_1_1Algorithm_1_1Framework_1_1Portfolio_1_1SignalExports_1_1Collective2SignalExport.html#a1dca5321c04de88e12c83a7435465da7" title="Serializes the list of desired positions with the needed credentials in JSON format" alt="" coords="336,147,599,203"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Algorithm_1_1Framework_1_1Portfolio_1_1SignalExports_1_1Collective2SignalExport.html#a068778469a955aa908e2657d2ed1b1a3" title="Converts a given percentage of a position into the number of shares of it" alt="" coords="667,30,969,86"/>
+<area shape="rect" id="node6" href="$interfaceQuantConnect_1_1Interfaces_1_1IAlgorithm.html#a7b8af1af90d91f0702ae39686c073dce" title="Send an error message for the algorithm" alt="" coords="725,111,911,152"/>
+<area shape="rect" id="node4" href="$interfaceQuantConnect_1_1Interfaces_1_1IAlgorithm.html#a63cc959667fa0f4dfd13048a9b7dac94" title="Send debug message" alt="" coords="1055,5,1242,47"/>
+<area shape="rect" id="node5" href="$classQuantConnect_1_1Algorithm_1_1Framework_1_1Portfolio_1_1PortfolioTarget.html#ae4839947af9044a228ce8bcd661c5d16" title="Creates a new target for the specified percent" alt="" coords="1017,71,1280,112"/>
+</map>

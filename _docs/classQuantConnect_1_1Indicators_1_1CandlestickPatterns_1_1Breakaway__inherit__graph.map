@@ -1,0 +1,5 @@
+<map id="QuantConnect.Indicators.CandlestickPatterns.Breakaway" name="QuantConnect.Indicators.CandlestickPatterns.Breakaway">
+<area shape="rect" id="node1" title="Breakaway candlestick pattern indicator" alt="" coords="5,169,232,211"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Indicators_1_1CandlestickPatterns_1_1CandlestickPattern.html" title="Abstract base class for a candlestick pattern indicator" alt="" coords="47,95,191,121"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Indicators_1_1WindowIndicator.html" title=" " alt="" coords="12,5,225,47"/>
+</map>

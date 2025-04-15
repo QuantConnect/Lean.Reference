@@ -1,0 +1,4 @@
+<map id="QuantConnect.Securities.Option.StrategyMatcher.ConstantOptionStrategyLegPredicateReferenceValue&lt; T &gt;" name="QuantConnect.Securities.Option.StrategyMatcher.ConstantOptionStrategyLegPredicateReferenceValue&lt; T &gt;">
+<area shape="rect" id="node1" title="Provides an implementation of IOptionStrategyLegPredicateReferenceValue that represents a constant va..." alt="" coords="5,95,276,165"/>
+<area shape="rect" id="node2" href="$interfaceQuantConnect_1_1Securities_1_1Option_1_1StrategyMatcher_1_1IOptionStrategyLegPredicateReferenceValue.html" title="When decoding leg predicates, we extract the value we&#39;re comparing against If we&#39;re comparing against..." alt="" coords="37,5,245,47"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="QuantConnect.Data.HistoryProviderBase.OnStartDateLimited" name="QuantConnect.Data.HistoryProviderBase.OnStartDateLimited">
+<area shape="rect" id="node1" title="Event invocator for the StartDateLimited event" alt="" coords="713,13,955,54"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Lean_1_1Engine_1_1HistoricalData_1_1HistoryProviderManager.html#a8a9a7a7c37fb03207bcee5283fe4301a" title="Initializes this history provider to work for the specified job" alt="" coords="445,5,665,61"/>
+<area shape="rect" id="node3" href="$classProgram.html#a9fcf1ef5c265aa471a7b8d45bc0fb193" title="Initializes various configurations for the application. This method sets up logging,..." alt="" coords="167,20,397,47"/>
+<area shape="rect" id="node4" href="$classProgram.html#ada72f8d1518f89bc2e6ad807d5059564" title="The main entry point for the application." alt="" coords="5,20,119,47"/>
+</map>

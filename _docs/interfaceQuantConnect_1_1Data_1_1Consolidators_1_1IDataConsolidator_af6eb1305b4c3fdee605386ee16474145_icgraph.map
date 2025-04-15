@@ -1,0 +1,6 @@
+<map id="QuantConnect.Data.Consolidators.IDataConsolidator.Scan" name="QuantConnect.Data.Consolidators.IDataConsolidator.Scan">
+<area shape="rect" id="node1" title="Scans this consolidator to see if it should emit a bar due to time passing" alt="" coords="332,86,579,127"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1ToolBox_1_1AlgoSeekFuturesConverter_1_1AlgoSeekFuturesProcessor.html#a3ad452d64aa1404d16821cef5d35c0ba" title="Write the in memory queues to the disk." alt="" coords="5,5,284,61"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Data_1_1Consolidators_1_1SequentialConsolidator.html#add092d7bec9d3102122bd71653dceede" title="Scans this consolidator to see if it should emit a bar due to time passing" alt="" coords="21,86,268,127"/>
+<area shape="rect" id="node4" href="$classQuantConnect_1_1Data_1_1Common_1_1MarketHourAwareConsolidator.html#a2473d7aeba2d4abab78994cd20b6f159" title="Scans this consolidator to see if it should emit a bar due to time passing" alt="" coords="17,151,272,193"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="QuantConnect.Securities.Cash.SetAmount" name="QuantConnect.Securities.Cash.SetAmount">
+<area shape="rect" id="node1" title="Sets the Quantity to the specified amount" alt="" coords="555,50,741,91"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Securities_1_1SecurityPortfolioManager.html#a4deedc3eb22eec91dacb5bcd0c35dc79" title="Initialise security portfolio manager." alt="" coords="264,5,507,61"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Securities_1_1SecurityPortfolioManager.html#acac8f78a9d4193124aa4b735832fa1f6" title="Set the account currency cash this algorithm is to manage." alt="" coords="264,86,507,127"/>
+<area shape="rect" id="node4" href="$classQuantConnect_1_1Brokerages_1_1Brokerage.html#a2d1fc4c6ce0ff2f95351c9415ed4af5b" title="Synchronizes the cashbook with the brokerage account" alt="" coords="7,49,214,90"/>
+<area shape="rect" id="node5" href="$classQuantConnect_1_1Securities_1_1SecurityPortfolioManager.html#ace04c1c80ebeef4a75f6fc0bdb7aa215" title="Sets the account currency cash symbol this algorithm is to manage, as well as the starting cash in th..." alt="" coords="5,115,216,171"/>
+</map>

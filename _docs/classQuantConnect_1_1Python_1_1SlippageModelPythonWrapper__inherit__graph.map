@@ -1,0 +1,5 @@
+<map id="QuantConnect.Python.SlippageModelPythonWrapper" name="QuantConnect.Python.SlippageModelPythonWrapper">
+<area shape="rect" id="node1" title="Wraps a PyObject object that represents a model that simulates market order slippage" alt="" coords="61,95,283,136"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Python_1_1BasePythonWrapper.html" title=" " alt="" coords="5,5,171,47"/>
+<area shape="rect" id="node3" href="$interfaceQuantConnect_1_1Orders_1_1Slippage_1_1ISlippageModel.html" title="Represents a model that simulates market order slippage" alt="" coords="195,13,317,39"/>
+</map>

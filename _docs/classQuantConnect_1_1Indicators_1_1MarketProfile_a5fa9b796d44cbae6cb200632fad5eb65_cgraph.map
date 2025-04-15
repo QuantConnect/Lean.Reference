@@ -1,0 +1,4 @@
+<map id="QuantConnect.Indicators.MarketProfile.ComputeNextValue" name="QuantConnect.Indicators.MarketProfile.ComputeNextValue">
+<area shape="rect" id="node1" title="Computes the next value for this indicator from the given state." alt="" coords="5,5,244,47"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Indicators_1_1MarketProfile.html#ad4f1183b69a7403e6d6e7f7e4917b84c" title="Get the Volume value that&#39;s going to be used" alt="" coords="292,5,479,47"/>
+</map>

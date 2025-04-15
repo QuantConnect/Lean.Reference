@@ -1,0 +1,8 @@
+<map id="QuantConnect.Notifications.Notification" name="QuantConnect.Notifications.Notification">
+<area shape="rect" id="node1" title="Local/desktop implementation of messaging system for Lean Engine." alt="" coords="5,136,209,177"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Notifications_1_1NotificationEmail.html" title="Email notification data." alt="" coords="257,5,461,47"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Notifications_1_1NotificationFtp.html" title="FTP notification data" alt="" coords="257,71,461,112"/>
+<area shape="rect" id="node4" href="$classQuantConnect_1_1Notifications_1_1NotificationSms.html" title="Sms Notification Class" alt="" coords="257,136,461,177"/>
+<area shape="rect" id="node5" href="$classQuantConnect_1_1Notifications_1_1NotificationTelegram.html" title="Telegram notification data" alt="" coords="257,201,461,243"/>
+<area shape="rect" id="node6" href="$classQuantConnect_1_1Notifications_1_1NotificationWeb.html" title="Web Notification Class" alt="" coords="257,267,461,308"/>
+</map>

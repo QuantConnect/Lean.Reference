@@ -1,0 +1,4 @@
+<map id="QuantConnect.Securities.Option.OptionStrategies.ShortIronCondor" name="QuantConnect.Securities.Option.OptionStrategies.ShortIronCondor">
+<area shape="rect" id="node1" title="Creates a new Short Iron Condor strategy which consists of a short put, a long put,..." alt="" coords="5,5,221,61"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Securities_1_1Option_1_1OptionStrategies.html#ac23da9a3ad6e609c0b1fa2960bf9321c" title="Creates a new Iron Condor strategy which consists of a long put, a short put, a short call and a long..." alt="" coords="269,5,476,61"/>
+</map>

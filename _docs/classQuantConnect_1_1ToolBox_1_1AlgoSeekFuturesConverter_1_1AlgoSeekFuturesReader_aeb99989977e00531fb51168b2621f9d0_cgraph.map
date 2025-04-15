@@ -1,0 +1,10 @@
+<map id="QuantConnect.ToolBox.AlgoSeekFuturesConverter.AlgoSeekFuturesReader.AlgoSeekFuturesReader" name="QuantConnect.ToolBox.AlgoSeekFuturesConverter.AlgoSeekFuturesReader.AlgoSeekFuturesReader">
+<area shape="rect" id="node1" title="Enumerate through the lines of the algoseek files." alt="" coords="5,111,284,167"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1ToolBox_1_1StreamProvider.html#ab2142b3de2daf1719d898e88990190cc" title="Creates a new IStreamProvider capable of reading a file with the specified extenson" alt="" coords="361,5,581,47"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Securities_1_1SymbolPropertiesDatabase.html#aee26fb588793fd311c44eb8b2909cc33" title="Gets the instance of the SymbolPropertiesDatabase class produced by reading in the symbol properties ..." alt="" coords="353,71,589,127"/>
+<area shape="rect" id="node7" href="$classQuantConnect_1_1ToolBox_1_1AlgoSeekFuturesConverter_1_1AlgoSeekFuturesReader.html#a473dd70ec5936aa7ec6070d83e8cae3a" title="Parse the next line of the algoseek future file." alt="" coords="332,151,611,207"/>
+<area shape="rect" id="node8" href="$interfaceQuantConnect_1_1ToolBox_1_1IStreamProvider.html#a2b10fc2bc135909dea9bf4dde05dea33" title="Opens the specified source as read to be consumed stream" alt="" coords="359,232,583,273"/>
+<area shape="rect" id="node4" href="$classQuantConnect_1_1Globals.html#ae01b5c94ef475a21ab1a62fe1b04ea5c" title="Helper method that will build a data folder path checking if it exists on the cache folder else will ..." alt="" coords="687,43,882,84"/>
+<area shape="rect" id="node5" href="$classQuantConnect_1_1Securities_1_1SymbolPropertiesDatabase.html#a1658f93bf0dce7022bb7584e1a95cc7a" title="Initialize a new instance of SymbolPropertiesDatabase using the given file" alt="" coords="659,109,911,165"/>
+<area shape="rect" id="node6" href="$classQuantConnect_1_1Messages_1_1SymbolPropertiesDatabase.html#a6abceae517a349a28223bfc2dc9106d7" title="Returns a string saying a duplicated key was found while processing the given file" alt="" coords="959,109,1199,165"/>
+</map>

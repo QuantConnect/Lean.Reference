@@ -1,0 +1,8 @@
+<map id="QuantConnect.Algorithm.QCAlgorithm.History&lt; T &gt;" name="QuantConnect.Algorithm.QCAlgorithm.History&lt; T &gt;">
+<area shape="rect" id="node1" title="Gets the historical data for the specified symbol between the specified dates. The symbol must exist ..." alt="" coords="5,35,279,76"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Algorithm_1_1QCAlgorithm.html#a3dbba29e9f318ae97e8b99a1eb19537c" title="Helper method to create history requests from a date range" alt="" coords="331,5,604,47"/>
+<area shape="rect" id="node6" href="$classQuantConnect_1_1Algorithm_1_1QCAlgorithm.html#a47eae84c2f0b8e98dbc61b555b645865" title="Creates a new Theta indicator for the symbol The indicator will be automatically updated on the symbo..." alt="" coords="327,71,608,98"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Extensions.html#a4784f746909e2ee4cffea7538da5669a" title="Retrieve a common custom data types from the given symbols if any" alt="" coords="656,5,901,47"/>
+<area shape="rect" id="node4" href="$classQuantConnect_1_1SecurityIdentifier.html#a2a52cbd8bce9ff527bc8021a3e3a0037" title="Tries to fetch the custom data type associated with a symbol" alt="" coords="949,5,1181,47"/>
+<area shape="rect" id="node5" href="$classQuantConnect_1_1SecurityIdentifier.html#a65051a4af9e25cab40451dc9ef12db6a" title="Tries to fetch the custom data type associated with a symbol" alt="" coords="1229,5,1461,47"/>
+</map>

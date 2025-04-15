@@ -1,0 +1,4 @@
+<map id="QuantConnect.Securities.SecurityHolding.ToString" name="QuantConnect.Securities.SecurityHolding.ToString">
+<area shape="rect" id="node1" title="Writes out the properties of this instance to string" alt="" coords="5,5,192,47"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Messages_1_1SecurityHolding.html#afe228ac66b42da9b73705bae1fc84c9b" title="Parses the given SecurityHolding object into a string message containing basic information about it" alt="" coords="240,5,480,47"/>
+</map>

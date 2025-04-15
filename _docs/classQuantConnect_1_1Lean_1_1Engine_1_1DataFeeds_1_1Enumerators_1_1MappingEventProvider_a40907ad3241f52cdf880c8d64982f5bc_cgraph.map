@@ -1,0 +1,5 @@
+<map id="QuantConnect.Lean.Engine.DataFeeds.Enumerators.MappingEventProvider.GetEvents" name="QuantConnect.Lean.Engine.DataFeeds.Enumerators.MappingEventProvider.GetEvents">
+<area shape="rect" id="node1" title="Check for new mappings" alt="" coords="5,31,280,87"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Data_1_1Auxiliary_1_1MapFile.html#a840b1a18a2a72327b8d7da956315a722" title="Memory overload search method for finding the mapped symbol for this date." alt="" coords="328,5,541,47"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Data_1_1Auxiliary_1_1MapFile.html#a0450eb9556a318d62727d594e8570e25" title="Determines if there&#39;s data for the requested date" alt="" coords="328,71,541,112"/>
+</map>

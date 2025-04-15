@@ -1,0 +1,4 @@
+<map id="QuantConnect.Brokerages.Brokerage.GetOrderPosition" name="QuantConnect.Brokerages.Brokerage.GetOrderPosition">
+<area shape="rect" id="node1" title="Gets the position that might result given the specified order direction and the current holdings quan..." alt="" coords="319,5,521,47"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Brokerages_1_1Brokerage.html#a9250e91d61c33d7648b13df6853393cb" title="Attempts to place an order that may cross the zero position. If the order needs to be split into two ..." alt="" coords="5,5,271,47"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="QuantConnect.Securities.SecurityExchangeHours.GetFirstDailyMarketOpen" name="QuantConnect.Securities.SecurityExchangeHours.GetFirstDailyMarketOpen">
+<area shape="rect" id="node1" title="Gets the local date time corresponding to the first market open to the specified previous date" alt="" coords="5,5,236,61"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Securities_1_1SecurityExchangeHours.html#ab853277c0165a7e13660548cf0f585e4" title="Gets the local date time corresponding to the previous market open to the specified time" alt="" coords="284,5,543,61"/>
+</map>

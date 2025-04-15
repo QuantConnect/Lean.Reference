@@ -1,0 +1,6 @@
+<map id="QuantConnect.Market.Add" name="QuantConnect.Market.Add">
+<area shape="rect" id="node1" title="Adds the specified market to the map of available markets with the specified identifier." alt="" coords="5,78,197,105"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Messages_1_1Market.html#a49a0f1ef875dbc73a679aec6d0354a97" title="Returns a string message saying the market identifier is limited to positive values less than the giv..." alt="" coords="265,5,501,47"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Messages_1_1Market.html#ab52797a86bd31f9d006a1193f430e97e" title="Returns a string message saying it was attempted to add a market identifier that is already in use" alt="" coords="260,71,507,112"/>
+<area shape="rect" id="node4" href="$classQuantConnect_1_1Messages_1_1Market.html#aaafe0d4071f2445ae82619b24d56905e" title="Returns a string message saying it was attempted to add an already added market with a different iden..." alt="" coords="245,137,521,193"/>
+</map>

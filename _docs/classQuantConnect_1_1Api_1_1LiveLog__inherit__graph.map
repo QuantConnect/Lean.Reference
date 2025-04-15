@@ -1,0 +1,5 @@
+<map id="QuantConnect.Api.LiveLog" name="QuantConnect.Api.LiveLog">
+<area shape="rect" id="node1" title="Logs from a live algorithm" alt="" coords="5,155,199,181"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Api_1_1RestResponse.html" title="Base API response class for the QuantConnect API." alt="" coords="45,80,159,107"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Api_1_1StringRepresentation.html" title="Class to return the string representation of an API response class" alt="" coords="23,5,181,32"/>
+</map>

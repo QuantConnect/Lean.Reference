@@ -1,0 +1,5 @@
+<map id="QuantConnect.Brokerages.WebSocketClientWrapper.OnOpen" name="QuantConnect.Brokerages.WebSocketClientWrapper.OnOpen">
+<area shape="rect" id="node1" title="Event invocator for the Open event" alt="" coords="5,5,247,47"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Logging_1_1Log.html#a4e55477fbc790846b74550a57198cea9" title="Log trace" alt="" coords="295,5,495,47"/>
+<area shape="rect" id="node3" href="$interfaceQuantConnect_1_1Logging_1_1ILogHandler.html#a3fb71a33ac66129240b63f12b6fcda3b" title="Write debug message to log" alt="" coords="543,5,743,47"/>
+</map>

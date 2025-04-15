@@ -1,0 +1,4 @@
+<map id="QuantConnect.Scheduling.ITimeRule.CreateUtcEventTimes" name="QuantConnect.Scheduling.ITimeRule.CreateUtcEventTimes">
+<area shape="rect" id="node1" title="Creates the event times for the specified dates in UTC" alt="" coords="247,5,481,47"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Scheduling_1_1ScheduleManager.html#a54a136a16ab112259a65cef3e8129aff" title="Schedules the callback to run using the specified date and time rules" alt="" coords="5,5,199,47"/>
+</map>

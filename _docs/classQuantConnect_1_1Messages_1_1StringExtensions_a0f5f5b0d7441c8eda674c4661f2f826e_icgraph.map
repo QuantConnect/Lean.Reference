@@ -1,0 +1,4 @@
+<map id="QuantConnect.Messages.StringExtensions.ConvertInvariantCannotConvertTo" name="QuantConnect.Messages.StringExtensions.ConvertInvariantCannotConvertTo">
+<area shape="rect" id="node1" title="Returns a string message saying StringExtensinos.ConvertInvariant does not support converting to the ..." alt="" coords="284,5,536,61"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1StringExtensions.html#afcbe4d86c7fbf7b54a0bb853b7c4da09" title="Converts the provided value &#160;as conversionType &#160;using CultureInfo" alt="" coords="5,13,236,54"/>
+</map>

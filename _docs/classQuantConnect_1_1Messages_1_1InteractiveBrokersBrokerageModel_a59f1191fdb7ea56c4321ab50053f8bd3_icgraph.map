@@ -1,0 +1,4 @@
+<map id="QuantConnect.Messages.InteractiveBrokersBrokerageModel.UnsupportedExerciseForIndexAndCashSettledOptions" name="QuantConnect.Messages.InteractiveBrokersBrokerageModel.UnsupportedExerciseForIndexAndCashSettledOptions">
+<area shape="rect" id="node1" title="Returns a string message saying the given brokerage model does not support order exercises for index ..." alt="" coords="304,5,623,61"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Brokerages_1_1InteractiveBrokersBrokerageModel.html#af537682306a2e5b2ff66443057dd626a" title="Returns true if the brokerage could accept this order. This takes into account order type,..." alt="" coords="5,5,256,61"/>
+</map>

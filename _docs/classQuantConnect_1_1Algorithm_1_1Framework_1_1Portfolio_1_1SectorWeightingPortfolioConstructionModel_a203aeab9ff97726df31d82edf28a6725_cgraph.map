@@ -1,0 +1,4 @@
+<map id="QuantConnect.Algorithm.Framework.Portfolio.SectorWeightingPortfolioConstructionModel.OnSecuritiesChanged" name="QuantConnect.Algorithm.Framework.Portfolio.SectorWeightingPortfolioConstructionModel.OnSecuritiesChanged">
+<area shape="rect" id="node1" title="Event fired each time the we add/remove securities from the data feed" alt="" coords="5,5,329,61"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Algorithm_1_1Framework_1_1Portfolio_1_1SectorWeightingPortfolioConstructionModel.html#a7687d2508f36c46e0357e07528c1928f" title="Gets the sector code" alt="" coords="377,5,701,61"/>
+</map>

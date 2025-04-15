@@ -1,0 +1,11 @@
+<map id="QuantConnect.Lean.Engine.RealTime.LiveTradingRealTimeHandler.Setup" name="QuantConnect.Lean.Engine.RealTime.LiveTradingRealTimeHandler.Setup">
+<area shape="rect" id="node1" title="Initializes the real time handler for the specified algorithm and job" alt="" coords="5,143,320,185"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Lean_1_1Engine_1_1RealTime_1_1BacktestingRealTimeHandler.html#a9498a10c3abbf47377f8028f3e162f31" title="Adds the specified event to the schedule" alt="" coords="368,13,675,54"/>
+<area shape="rect" id="node4" href="$classQuantConnect_1_1Time.html#ac31dec6d3e0b8f5c110a12ade7200933" title="Define an enumerable date time range using the given time step" alt="" coords="412,78,631,119"/>
+<area shape="rect" id="node5" href="$interfaceQuantConnect_1_1ITimeProvider.html#ae51737f869d879dfbb297496e4feb036" title="Gets the current time in UTC" alt="" coords="415,143,627,185"/>
+<area shape="rect" id="node6" href="$classQuantConnect_1_1Lean_1_1Engine_1_1RealTime_1_1LiveTradingRealTimeHandler.html#ae4db5652de58d7c7a5f6e182cba561d7" title="Resets the market hours database, forcing a reload when reused. Called in tests where multiple algori..." alt="" coords="382,209,661,265"/>
+<area shape="rect" id="node9" href="$classQuantConnect_1_1Lean_1_1Engine_1_1RealTime_1_1LiveTradingRealTimeHandler.html#aa56e24dd960b4920950eba275b243ff6" title="Resets the symbol properties database, forcing a reload when reused." alt="" coords="382,289,661,345"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Lean_1_1Engine_1_1RealTime_1_1BaseRealTimeHandler.html#a43557c1cfdbb389a62af3863da23fb0e" title="Gets a new scheduled event unique id" alt="" coords="723,5,981,61"/>
+<area shape="rect" id="node7" href="$classQuantConnect_1_1Logging_1_1Log.html#a4e55477fbc790846b74550a57198cea9" title="Log trace" alt="" coords="752,257,952,298"/>
+<area shape="rect" id="node8" href="$interfaceQuantConnect_1_1Logging_1_1ILogHandler.html#a3fb71a33ac66129240b63f12b6fcda3b" title="Write debug message to log" alt="" coords="1029,257,1229,298"/>
+</map>

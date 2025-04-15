@@ -1,0 +1,4 @@
+<map id="QuantConnect.Indicators.PythonIndicator.SetIndicator" name="QuantConnect.Indicators.PythonIndicator.SetIndicator">
+<area shape="rect" id="node1" title="Sets the python implementation of the indicator" alt="" coords="5,5,211,47"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Python_1_1BasePythonWrapper.html#ae316223e03aa4af17b2154d645a8fc87" title="Determines whether the Python instance has the specified attribute" alt="" coords="259,5,457,47"/>
+</map>

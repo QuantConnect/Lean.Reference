@@ -1,0 +1,4 @@
+<map id="QuantConnect.Report.PortfolioLooperAlgorithm.FromOrders" name="QuantConnect.Report.PortfolioLooperAlgorithm.FromOrders">
+<area shape="rect" id="node1" title="Initializes all the proper Securities from the orders provided by the user" alt="" coords="5,5,225,47"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Securities_1_1SecurityManager.html#a0aa9a5d066fcba5dfcc7ae10ac22b550" title="Creates a new security" alt="" coords="273,5,504,47"/>
+</map>

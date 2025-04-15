@@ -1,0 +1,4 @@
+<map id="QuantConnect.Interfaces.IDataCacheProvider.Store" name="QuantConnect.Interfaces.IDataCacheProvider.Store">
+<area shape="rect" id="node1" title="Store the data in the cache" alt="" coords="325,20,513,61"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Lean_1_1Engine_1_1DataFeeds_1_1Transport_1_1RemoteFileSubscriptionStreamReader.html#a1fc214b62c9ae91d7fefef68d609e593" title="Initializes a new instance of the RemoteFileSubscriptionStreamReader class." alt="" coords="5,5,277,76"/>
+</map>

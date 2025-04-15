@@ -1,0 +1,6 @@
+<map id="QuantConnect.Brokerages.TradeStationBrokerageModel.CanUpdateOrder" name="QuantConnect.Brokerages.TradeStationBrokerageModel.CanUpdateOrder">
+<area shape="rect" id="node1" title="TradeStation support Update Order" alt="" coords="5,71,244,127"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Brokerages_1_1BrokerageExtensions.html#a59d79c1126d8f1cad70f5029c020d7f4" title="Determines if executing the specified order will cross the zero holdings threshold." alt="" coords="293,5,573,47"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Messages_1_1DefaultBrokerageModel.html#af2cfe8f9f1e7e96affd1f4af9aecd0fe" title="Returns a string message saying the given brokerage does not support updating the quantity of Cross Z..." alt="" coords="292,71,573,127"/>
+<area shape="rect" id="node4" href="$classQuantConnect_1_1Messages_1_1DefaultBrokerageModel.html#a37e38ffb404ecb15092bdedf000f4088" title="Returns a message indicating that the specified order type cannot be updated quantity using the given..." alt="" coords="301,151,564,207"/>
+</map>

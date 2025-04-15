@@ -1,0 +1,5 @@
+<map id="QuantConnect.Exceptions.NoMethodMatchPythonExceptionInterpreter.Interpret" name="QuantConnect.Exceptions.NoMethodMatchPythonExceptionInterpreter.Interpret">
+<area shape="rect" id="node1" title="Interprets the specified exception into a new exception" alt="" coords="5,43,244,99"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Messages_1_1NoMethodMatchPythonExceptionInterpreter.html#a10df9c015034a2e403c58a49706b6355" title="Returns a string message saying the given method does not exists. It also contains the exception thro..." alt="" coords="292,5,608,61"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Util_1_1PythonUtil.html#a092a2692ea8e8fd23fe5e3b3357c336f" title="Parsers PythonException.StackTrace into a readable message" alt="" coords="333,86,567,127"/>
+</map>

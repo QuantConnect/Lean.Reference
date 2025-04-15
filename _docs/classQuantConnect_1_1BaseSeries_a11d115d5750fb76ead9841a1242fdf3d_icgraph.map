@@ -1,0 +1,8 @@
+<map id="QuantConnect.BaseSeries.Clone" name="QuantConnect.BaseSeries.Clone">
+<area shape="rect" id="node1" title="Return a new instance clone of this object" alt="" coords="793,71,988,112"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1BaseSeries.html#aa1e101cd6d5d3dd91857721d411e0894" title="Get the updates since the last call to this function." alt="" coords="541,5,735,47"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1SeriesSampler.html#a59632b69ae393277db27fa9c5433909a" title="Samples the given series" alt="" coords="531,71,745,112"/>
+<area shape="rect" id="node6" href="$classQuantConnect_1_1Chart.html#a82aef961f7edf0bf54befec76567a50a" title="Gets Series if already present in chart, else will add a new series and return it" alt="" coords="537,136,739,177"/>
+<area shape="rect" id="node4" href="$classQuantConnect_1_1SeriesSampler.html#a7cf39865a5678e6bea600eb8d9d9989f" title="Samples the given chart" alt="" coords="268,71,483,112"/>
+<area shape="rect" id="node5" href="$classQuantConnect_1_1SeriesSampler.html#aff66bac198388ae131b4d6ca295fd05f" title="Samples the given charts" alt="" coords="5,71,220,112"/>
+</map>

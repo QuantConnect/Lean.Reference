@@ -1,0 +1,4 @@
+<map id="QuantConnect.Securities.MaintenanceMarginParameters.ForUnderlying" name="QuantConnect.Securities.MaintenanceMarginParameters.ForUnderlying">
+<area shape="rect" id="node1" title="Creates a new instance of MaintenanceMarginParameters for the security&#39;s underlying" alt="" coords="309,5,539,61"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Securities_1_1Option_1_1FuturesOptionsMarginModel.html#a281e3cfd52636550ccd6a463c67edac2" title="Gets the margin currently alloted to the specified holding." alt="" coords="5,5,261,61"/>
+</map>

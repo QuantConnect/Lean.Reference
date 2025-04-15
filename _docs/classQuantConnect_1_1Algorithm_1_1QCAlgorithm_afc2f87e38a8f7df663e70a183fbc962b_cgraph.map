@@ -1,0 +1,5 @@
+<map id="QuantConnect.Algorithm.QCAlgorithm.Shortable" name="QuantConnect.Algorithm.QCAlgorithm.Shortable">
+<area shape="rect" id="node1" title="Determines if the Symbol is shortable at the brokerage" alt="" coords="5,13,279,54"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Securities_1_1SecurityTransactionManager.html#a8a14c2ab9bf76272c84499cecb0e1ef7" title="Gets the remaining quantity to be filled from open orders, i.e. order size minus quantity filled" alt="" coords="327,5,559,61"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Securities_1_1SecurityTransactionManager.html#a40a5adc0c964d6f0f472f93fc56d4d53" title="Get an enumerable of open OrderTicket for the specified symbol" alt="" coords="607,5,839,61"/>
+</map>

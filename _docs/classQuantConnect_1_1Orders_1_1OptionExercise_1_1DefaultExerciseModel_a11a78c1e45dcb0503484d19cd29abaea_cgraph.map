@@ -1,0 +1,9 @@
+<map id="QuantConnect.Orders.OptionExercise.DefaultExerciseModel.OptionExercise" name="QuantConnect.Orders.OptionExercise.DefaultExerciseModel.OptionExercise">
+<area shape="rect" id="node1" title="Default option exercise model for the basic equity/index option security class." alt="" coords="5,79,232,135"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Messages_1_1DefaultExerciseModel.html#a9373d4a3dd72b2302dff8e993298d5bf" title="Returns a string message containing basic information such as if it&#39;s an assignment or an exercise,..." alt="" coords="280,5,587,61"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Securities_1_1Option_1_1Option.html#adeeb8d76458ba523d657a9d2c1e7dfe5" title="Returns the directional quantity of underlying shares that are going to change hands on exercise/assi..." alt="" coords="309,86,558,127"/>
+<area shape="rect" id="node4" href="$classQuantConnect_1_1Securities_1_1Option_1_1Option.html#a4779561bd70015ffe94be56dac2a1c05" title="Checks if option is eligible for automatic exercise on expiration" alt="" coords="324,151,543,193"/>
+<area shape="rect" id="node5" href="$classQuantConnect_1_1Securities_1_1Option_1_1Option.html#a6038a942fd8a3b859a771b5269224208" title="Intrinsic value function of the option" alt="" coords="635,151,861,193"/>
+<area shape="rect" id="node6" href="$classQuantConnect_1_1Util_1_1OptionPayoff.html#a0366ba69bfc3bcf1dfba8816cdb1db42" title="Intrinsic value function of the option" alt="" coords="909,151,1097,193"/>
+<area shape="rect" id="node7" href="$classQuantConnect_1_1Util_1_1OptionPayoff.html#a04bbbe3975d01c29101b7581d2564844" title="Option payoff function at expiration time" alt="" coords="1145,151,1333,193"/>
+</map>

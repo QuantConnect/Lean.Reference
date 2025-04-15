@@ -1,0 +1,4 @@
+<map id="QuantConnect.Util.RateLimit.ThreadSleepStrategy" name="QuantConnect.Util.RateLimit.ThreadSleepStrategy">
+<area shape="rect" id="node1" title="Provides a CPU non&#45;intensive means of waiting for more tokens to be available in ITokenBucket...." alt="" coords="5,80,217,121"/>
+<area shape="rect" id="node2" href="$interfaceQuantConnect_1_1Util_1_1RateLimit_1_1ISleepStrategy.html" title="Defines a strategy for sleeping the current thread of execution. This is currently used via the IToke..." alt="" coords="53,5,170,32"/>
+</map>

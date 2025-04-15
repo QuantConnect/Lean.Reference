@@ -1,0 +1,6 @@
+<map id="QuantConnect.Lean.Engine.Setup.BaseSetupHandler.SetBrokerageTradingDayPerYear" name="QuantConnect.Lean.Engine.Setup.BaseSetupHandler.SetBrokerageTradingDayPerYear">
+<area shape="rect" id="node1" title="Set the number of trading days per year based on the specified brokerage model." alt="" coords="321,63,595,119"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Research_1_1QuantBook.html#acc952b95b6ed92fcda35790943857348" title="Gets Portfolio Statistics from a pandas.DataFrame with equity and benchmark values" alt="" coords="29,5,250,47"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Lean_1_1Engine_1_1Setup_1_1BacktestingSetupHandler.html#a6fce75a853ba5e8baf5bda360fe6e77c" title="Setup the algorithm cash, dates and data subscriptions as desired." alt="" coords="5,71,273,112"/>
+<area shape="rect" id="node4" href="$classQuantConnect_1_1Lean_1_1Engine_1_1Setup_1_1BrokerageSetupHandler.html#a31fba19179b2197553a8f0152885886b" title="Primary entry point to setup a new algorithm" alt="" coords="11,136,268,177"/>
+</map>

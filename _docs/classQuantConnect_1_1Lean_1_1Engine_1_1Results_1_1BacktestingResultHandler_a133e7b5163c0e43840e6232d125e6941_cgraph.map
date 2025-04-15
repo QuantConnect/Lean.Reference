@@ -1,0 +1,5 @@
+<map id="QuantConnect.Lean.Engine.Results.BacktestingResultHandler.Sample" name="QuantConnect.Lean.Engine.Results.BacktestingResultHandler.Sample">
+<area shape="rect" id="node1" title="Add a sample to the chart specified by the chartName, and seriesName." alt="" coords="5,31,252,87"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1BaseSeries.html#a16109d08f951b56153adb901b7f7cbdb" title="Add a new point to this series" alt="" coords="300,5,495,47"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1BaseSeries.html#aa0b83590a7b01d3ccba6f3347150a63f" title="Creates a series according to the specified type." alt="" coords="300,71,495,112"/>
+</map>

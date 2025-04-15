@@ -1,0 +1,4 @@
+<map id="QuantConnect.Securities.Cash.Cash" name="QuantConnect.Securities.Cash.Cash">
+<area shape="rect" id="node1" title="Initializes a new instance of the Cash class" alt="" coords="5,5,192,47"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Currencies.html#a2a7c85f9abe93db2a30c36612098e30e" title="Gets the currency symbol for the specified currency code" alt="" coords="240,5,431,47"/>
+</map>

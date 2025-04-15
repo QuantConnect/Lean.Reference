@@ -1,0 +1,4 @@
+<map id="QuantConnect.Securities.MaintenanceMargin.operator MaintenanceMargin" name="QuantConnect.Securities.MaintenanceMargin.operator MaintenanceMargin">
+<area shape="rect" id="node1" title="Implicit operator decimal &#45;&gt; MaintenanceMargin" alt="" coords="5,5,216,61"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Securities_1_1MaintenanceMargin.html#ab48be17d676b534e2ea5c29ae21e3263" title="Initializes a new instance of the MaintenanceMargin class" alt="" coords="264,5,503,61"/>
+</map>

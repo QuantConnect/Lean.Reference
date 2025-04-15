@@ -1,0 +1,4 @@
+<map id="QuantConnect.Securities.Option.OptionStrategies.ShortPutCalendarSpread" name="QuantConnect.Securities.Option.OptionStrategies.ShortPutCalendarSpread">
+<area shape="rect" id="node1" title="Creates new Short Put Calendar Spread strategy which consists of a short and a long put with the same..." alt="" coords="5,5,221,61"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Securities_1_1Option_1_1OptionStrategies.html#a38c4025416082f438ecc0d45ae254ade" title="Creates new Put Calendar Spread strategy which consists of a short and a long put with the same strik..." alt="" coords="269,5,531,61"/>
+</map>

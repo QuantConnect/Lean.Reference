@@ -1,0 +1,5 @@
+<map id="QuantConnect.Lean.Engine.DataFeeds.SubscriptionSynchronizer.Sync" name="QuantConnect.Lean.Engine.DataFeeds.SubscriptionSynchronizer.Sync">
+<area shape="rect" id="node1" title="Syncs the specified subscriptions. The frontier time used for synchronization is managed internally a..." alt="" coords="340,39,633,80"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Lean_1_1Engine_1_1DataFeeds_1_1Synchronizer.html#a1ec5e796dd6d363541a45e88cbf773e5" title="Returns an enumerable which provides the data to stream to the algorithm" alt="" coords="19,5,279,47"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Lean_1_1Engine_1_1DataFeeds_1_1LiveSynchronizer.html#aacd62be7b0b00fd14204f99b2f0b734c" title="Returns an enumerable which provides the data to stream to the algorithm" alt="" coords="5,71,292,112"/>
+</map>

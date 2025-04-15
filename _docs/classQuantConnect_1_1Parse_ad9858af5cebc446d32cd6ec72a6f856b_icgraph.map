@@ -1,0 +1,4 @@
+<map id="QuantConnect.Parse.TryParse" name="QuantConnect.Parse.TryParse">
+<area shape="rect" id="node1" title="Tries to parse the provided value with TryParse as a System.TimeSpan using CultureInfo...." alt="" coords="285,5,496,32"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Parse.html#af0937609828d4de6212a3d9d7a96ad36" title="Parses the provided value as a an enumeration type T" alt="" coords="5,5,237,32"/>
+</map>

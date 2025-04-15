@@ -1,0 +1,5 @@
+<map id="QuantConnect.Data.UniverseSelection.UniverseExtensions.PrefilterUsing" name="QuantConnect.Data.UniverseSelection.UniverseExtensions.PrefilterUsing">
+<area shape="rect" id="node1" title="Creates a new universe that restricts the universe selection data to symbols that passed the first un..." alt="" coords="5,39,312,80"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Data_1_1UniverseSelection_1_1Universe.html#a2118f97a59768972e16ab9e354dac538" title="Determines whether or not the specified symbol is currently a member of this universe" alt="" coords="360,5,619,47"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Data_1_1UniverseSelection_1_1Universe.html#abe22506a629447a0182d69dbc98c8644" title="Performs universe selection using the data specified" alt="" coords="367,71,611,112"/>
+</map>

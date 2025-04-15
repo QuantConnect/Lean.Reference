@@ -1,0 +1,5 @@
+<map id="QuantConnect.Brokerages.CharlesSchwabBrokerageModel" name="QuantConnect.Brokerages.CharlesSchwabBrokerageModel">
+<area shape="rect" id="node1" title="Represents a brokerage model specific to Charles Schwab." alt="" coords="5,155,232,196"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Brokerages_1_1DefaultBrokerageModel.html" title="Provides a default implementation of IBrokerageModel that allows all orders and uses the default tran..." alt="" coords="31,80,207,107"/>
+<area shape="rect" id="node3" href="$interfaceQuantConnect_1_1Brokerages_1_1IBrokerageModel.html" title="Models brokerage transactions, fees, and order" alt="" coords="53,5,185,32"/>
+</map>

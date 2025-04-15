@@ -1,0 +1,6 @@
+<map id="QuantConnect.Indicators.Delta" name="QuantConnect.Indicators.Delta">
+<area shape="rect" id="node1" title="Option Delta indicator that calculate the delta of an option" alt="" coords="12,244,199,285"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Indicators_1_1OptionGreeksIndicatorBase.html" title="To provide a base class for option greeks indicator" alt="" coords="5,169,205,196"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Indicators_1_1OptionIndicatorBase.html" title="To provide a base class for option indicator" alt="" coords="28,95,183,121"/>
+<area shape="rect" id="node4" href="$classQuantConnect_1_1Indicators_1_1MultiSymbolIndicator.html" title=" " alt="" coords="25,5,186,47"/>
+</map>

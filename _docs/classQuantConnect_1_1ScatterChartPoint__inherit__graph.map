@@ -1,0 +1,5 @@
+<map id="QuantConnect.ScatterChartPoint" name="QuantConnect.ScatterChartPoint">
+<area shape="rect" id="node1" title="A chart point for a scatter series plot" alt="" coords="5,155,204,196"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1ChartPoint.html" title="Single Chart Point Value Type for QCAlgorithm.Plot();" alt="" coords="59,80,150,107"/>
+<area shape="rect" id="node3" href="$interfaceQuantConnect_1_1ISeriesPoint.html" title="Single chart series point/bar data." alt="" coords="55,5,154,32"/>
+</map>

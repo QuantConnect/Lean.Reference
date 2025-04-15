@@ -1,0 +1,4 @@
+<map id="QuantConnect.Optimizer.LeanOptimizer.GetRuntimeStatistics" name="QuantConnect.Optimizer.LeanOptimizer.GetRuntimeStatistics">
+<area shape="rect" id="node1" title="Get the current runtime statistics" alt="" coords="304,5,531,47"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Optimizer_1_1Launcher_1_1ConsoleLeanOptimizer.html#a727f46a7d9abd51ec8cec50bdde59711" title="Sends an update of the current optimization status to the user" alt="" coords="5,5,256,47"/>
+</map>

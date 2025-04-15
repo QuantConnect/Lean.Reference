@@ -1,0 +1,6 @@
+<map id="QuantConnect.Lean.Engine.DataFeeds.SubscriptionUtils.Create" name="QuantConnect.Lean.Engine.DataFeeds.SubscriptionUtils.Create">
+<area shape="rect" id="node1" title="Creates a new Subscription which will directly consume the provided enumerator" alt="" coords="609,53,861,94"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Lean_1_1Engine_1_1DataFeeds_1_1FileSystemDataFeed.html#ac148e78fc814fca88c70a1835be51a25" title="Creates a new subscription to provide data for the specified security." alt="" coords="285,5,561,61"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Lean_1_1Engine_1_1HistoricalData_1_1SynchronizingHistoryProvider.html#a409b17176bc2f0a6d2209167f54fec7e" title="Creates a subscription to process the history request" alt="" coords="295,85,552,141"/>
+<area shape="rect" id="node4" href="$classQuantConnect_1_1Lean_1_1Engine_1_1HistoricalData_1_1BrokerageHistoryProvider.html#a9cf173b48c88a0a8568f1bf9dbdd2573" title="Gets the history for the requested securities" alt="" coords="5,85,237,141"/>
+</map>

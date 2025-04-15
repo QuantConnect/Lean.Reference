@@ -1,0 +1,5 @@
+<map id="QuantConnect.Lean.Engine.DataFeeds.Enumerators.Factories.SubscriptionDataReaderSubscriptionEnumeratorFactory.CreateEnumerator" name="QuantConnect.Lean.Engine.DataFeeds.Enumerators.Factories.SubscriptionDataReaderSubscriptionEnumeratorFactory.CreateEnumerator">
+<area shape="rect" id="node1" title="Creates a SubscriptionDataReader to read the specified request" alt="" coords="5,45,340,116"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Lean_1_1Engine_1_1DataFeeds_1_1Enumerators_1_1Factories_1_1CorporateEventEnumeratorFactory.html#a7fc80c7ca615b57485d63ab26e604b8f" title="Creates a new AuxiliaryDataEnumerator that will hold the corporate event providers" alt="" coords="388,5,679,76"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Util_1_1LeanData.html#a45d5455942a1261f332547548a7682d9" title="Helper method to determine if we should use strict end time" alt="" coords="428,100,639,141"/>
+</map>

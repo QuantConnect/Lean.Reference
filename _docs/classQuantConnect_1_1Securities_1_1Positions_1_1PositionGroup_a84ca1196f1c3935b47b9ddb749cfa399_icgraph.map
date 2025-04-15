@@ -1,0 +1,4 @@
+<map id="QuantConnect.Securities.Positions.PositionGroup.Empty" name="QuantConnect.Securities.Positions.PositionGroup.Empty">
+<area shape="rect" id="node1" title="Instantiates a default empty position group instance" alt="" coords="288,13,511,54"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Securities_1_1Positions_1_1OptionStrategyPositionGroupResolver.html#ad307dce2606f6fc0e3bbb2c36cebf2f0" title="Attempts to group the specified positions into a new IPositionGroup using an appropriate IPositionGro..." alt="" coords="5,5,240,61"/>
+</map>

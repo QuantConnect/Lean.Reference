@@ -1,0 +1,13 @@
+<map id="QuantConnect.Extensions.AdjustSymbolByOffset" name="QuantConnect.Extensions.AdjustSymbolByOffset">
+<area shape="rect" id="node1" title="Helper method that will return a back month, with future expiration, future contract based on the giv..." alt="" coords="5,137,199,179"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Symbol.html#a484f4a4845d55c491201a7998f0d6ec4" title="Provides a convenience method for creating a future Symbol." alt="" coords="263,64,477,105"/>
+<area shape="rect" id="node10" href="$classQuantConnect_1_1Securities_1_1Future_1_1FuturesExpiryFunctions.html#a0d6bb7f1fd71689f70b115ccb0f470e0" title="Method to retrieve the Function for a specific future symbol" alt="" coords="259,130,481,186"/>
+<area shape="rect" id="node11" href="$classQuantConnect_1_1Symbol.html#a1f3c25223fd9a7b753a4f84ece6469ab" title="Method returns true, if symbol is a derivative canonical symbol" alt="" coords="247,210,493,237"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1SecurityIdentifier.html#ad50a891c97cb0c084a9e2aa43607ed66" title="Generates a new SecurityIdentifier for a future" alt="" coords="541,5,773,47"/>
+<area shape="rect" id="node4" href="$classQuantConnect_1_1Symbol.html#a59b0795fa21f46c306deb5576fa03bb9" title="Centralized helper method to resolve alias for a symbol" alt="" coords="821,97,1048,123"/>
+<area shape="rect" id="node9" href="$classQuantConnect_1_1Symbol.html#a59158f74116be3dad0ea0f3f3f134416" title="Initializes a new instance of the Symbol class" alt="" coords="547,122,767,149"/>
+<area shape="rect" id="node5" href="$classQuantConnect_1_1SymbolRepresentation.html#ad43ac907f6c19083821f58f21c6de017" title="Returns future symbol ticker from underlying and expiration date. Function can generate tickers of tw..." alt="" coords="1096,52,1367,93"/>
+<area shape="rect" id="node7" href="$classQuantConnect_1_1SymbolRepresentation.html#ab133044f5cf8c16e700190a2202b215e" title="Returns option symbol ticker in accordance with OSI symbology More information can be found at http:/..." alt="" coords="1096,121,1367,163"/>
+<area shape="rect" id="node6" href="$classQuantConnect_1_1Securities_1_1Future_1_1FuturesExpiryUtilityFunctions.html#a4ccb1e2f2fe40ff09785a74a02f26df1" title="Gets the number of months between the contract month and the expiry date." alt="" coords="1415,41,1769,97"/>
+<area shape="rect" id="node8" href="$classQuantConnect_1_1Messages_1_1SymbolRepresentation.html#a2c514157d8055cfa271ea3a7ca1ccde7" title="Returns a string message saying an unexpected security type was received by the given method name" alt="" coords="1464,121,1720,177"/>
+</map>

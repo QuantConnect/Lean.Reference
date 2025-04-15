@@ -1,0 +1,10 @@
+<map id="QuantConnect.Orders.Fills.FillModel.TrailingStopFill" name="QuantConnect.Orders.Fills.FillModel.TrailingStopFill">
+<area shape="rect" id="node1" title="Default trailing stop fill model implementation in base class security. (Trailing Stop Order Type)" alt="" coords="5,75,200,116"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Orders_1_1Fills_1_1FillModel.html#ab0bcff6c774940b6b9403373586c3f55" title="This is required due to a limitation in PythonNet to resolved overriden methods. GetPrices" alt="" coords="248,30,500,86"/>
+<area shape="rect" id="node7" href="$classQuantConnect_1_1Orders_1_1TrailingStopOrder.html#aca5a580ab01b88a70cc0be46d9f6e953" title="Tries to update the stop price for a trailing stop order given the current market price" alt="" coords="265,111,483,152"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Orders_1_1Fills_1_1FillModel.html#afa84c82a93805830970d5a4c15ed646c" title="Get the minimum and maximum price for this security in the last bar:" alt="" coords="557,37,751,79"/>
+<area shape="rect" id="node4" href="$classQuantConnect_1_1Securities_1_1SecurityCache.html#a2e22a721cbad979accb38e91dd640b8e" title="Get last data packet received for this security if any else null" alt="" coords="823,5,1009,47"/>
+<area shape="rect" id="node5" href="$classQuantConnect_1_1Orders_1_1Fills_1_1FillModel.html#a71f8f74b6d7f6180d711911667671c49" title="Get data types the Security is subscribed to" alt="" coords="808,71,1024,112"/>
+<area shape="rect" id="node6" href="$classQuantConnect_1_1Messages_1_1FillModel.html#ae9a5c5ace1eb050dd0d3d9c25fb1ba35" title="Returns a string message saying it was impossible to perform a fill for the given security symbol bec..." alt="" coords="1072,63,1327,119"/>
+<area shape="rect" id="node8" href="$classQuantConnect_1_1Orders_1_1TrailingStopOrder.html#ad5bbfed0cd46cfbd79a2e81f655b0592" title="Calculates the stop price for a trailing stop order given the current market price" alt="" coords="548,111,760,152"/>
+</map>

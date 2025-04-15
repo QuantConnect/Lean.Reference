@@ -1,0 +1,5 @@
+<map id="QuantConnect.Data.Fundamental.ChangeInWorkingCapitalCashFlowStatement" name="QuantConnect.Data.Fundamental.ChangeInWorkingCapitalCashFlowStatement">
+<area shape="rect" id="node1" title="The increase or decrease between periods of the working capital. Working Capital is the amount left t..." alt="" coords="5,155,319,196"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Data_1_1Fundamental_1_1MultiPeriodField.html" title="Abstract base class for multi&#45;period fields" alt="" coords="99,80,225,107"/>
+<area shape="rect" id="node3" title=" " alt="" coords="83,5,241,32"/>
+</map>

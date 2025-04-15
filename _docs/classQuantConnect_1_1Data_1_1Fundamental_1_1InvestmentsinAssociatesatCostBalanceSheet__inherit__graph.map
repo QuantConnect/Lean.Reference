@@ -1,0 +1,5 @@
+<map id="QuantConnect.Data.Fundamental.InvestmentsinAssociatesatCostBalanceSheet" name="QuantConnect.Data.Fundamental.InvestmentsinAssociatesatCostBalanceSheet">
+<area shape="rect" id="node1" title="A stake in any company which is more than 20% but less than 50%." alt="" coords="5,155,321,196"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Data_1_1Fundamental_1_1MultiPeriodField.html" title="Abstract base class for multi&#45;period fields" alt="" coords="100,80,227,107"/>
+<area shape="rect" id="node3" title=" " alt="" coords="85,5,242,32"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="QuantConnect.Util.LeanData.SetStrictEndTimes" name="QuantConnect.Util.LeanData.SetStrictEndTimes">
+<area shape="rect" id="node1" title="Helper method that if appropiate, will set the Time and EndTime of the given data point to it&#39;s daily..." alt="" coords="5,39,216,80"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Util_1_1LeanData.html#a333e4bd6d612caca6773226d353cec49" title="Helper method to return the start time and period of a bar the given point time should be part of" alt="" coords="264,5,475,47"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Util_1_1LeanData.html#a45d5455942a1261f332547548a7682d9" title="Helper method to determine if we should use strict end time" alt="" coords="264,71,475,112"/>
+</map>

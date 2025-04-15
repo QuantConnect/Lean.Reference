@@ -1,0 +1,4 @@
+<map id="QuantConnect.Algorithm.Framework.Alphas.Analysis.InsightManager.Expire" name="QuantConnect.Algorithm.Framework.Alphas.Analysis.InsightManager.Expire">
+<area shape="rect" id="node1" title="Expire the insights of the given symbols" alt="" coords="5,5,280,47"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Algorithm_1_1Framework_1_1Alphas_1_1InsightCollection.html#a3e77dd68f840204073e9d299cdabf7d4" title="Attempts to get the list of insights with the specified symbol key" alt="" coords="328,5,591,47"/>
+</map>

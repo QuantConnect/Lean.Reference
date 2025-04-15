@@ -1,0 +1,8 @@
+<map id="QuantConnect.ToolBox.IDataProcessor" name="QuantConnect.ToolBox.IDataProcessor">
+<area shape="rect" id="node1" title="Specifies a piece of processing that should be performed against a source file" alt="" coords="152,104,360,145"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1ToolBox_1_1ConsolidatorDataProcessor.html" title="Provides an implementation of IDataProcessor that consolidates the data stream and forwards the conso..." alt="" coords="408,5,663,47"/>
+<area shape="rect" id="node4" href="$classQuantConnect_1_1ToolBox_1_1CsvDataProcessor.html" title="Provides an implementation of IDataProcessor that writes the incoming stream of data to a csv file." alt="" coords="437,71,634,112"/>
+<area shape="rect" id="node5" href="$classQuantConnect_1_1ToolBox_1_1FilteredDataProcessor.html" title="Provides an implementation of IDataProcessor that filters the incoming stream of data before passing ..." alt="" coords="424,136,647,177"/>
+<area shape="rect" id="node6" href="$classQuantConnect_1_1ToolBox_1_1PipeDataProcessor.html" title="Provides an implementation of IDataProcessor that simply forwards all received data to other attached..." alt="" coords="435,201,636,243"/>
+<area shape="rect" id="node2" title=" " alt="" coords="5,111,104,138"/>
+</map>

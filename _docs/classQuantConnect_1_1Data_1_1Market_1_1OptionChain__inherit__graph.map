@@ -1,0 +1,4 @@
+<map id="QuantConnect.Data.Market.OptionChain" name="QuantConnect.Data.Market.OptionChain">
+<area shape="rect" id="node1" title="Represents an entire chain of option contracts for a single underlying security. This type is IEnumer..." alt="" coords="8,95,211,136"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Data_1_1Market_1_1BaseChain.html" title=" " alt="" coords="5,5,213,47"/>
+</map>

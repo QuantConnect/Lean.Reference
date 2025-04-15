@@ -1,0 +1,4 @@
+<map id="QuantConnect.Algorithm.Framework.Portfolio.PortfolioConstructionModelPythonWrapper.PortfolioConstructionModelPythonWrapper" name="QuantConnect.Algorithm.Framework.Portfolio.PortfolioConstructionModelPythonWrapper.PortfolioConstructionModelPythonWrapper">
+<area shape="rect" id="node1" title="Constructor for initialising the IPortfolioConstructionModel class with wrapped PyObject object" alt="" coords="5,5,408,61"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Algorithm_1_1Framework_1_1Portfolio_1_1PortfolioConstructionModel.html#a2c00ccedcc942193aad1f13470d4c990" title="Used to set the PortfolioConstructionModelPythonWrapper instance if any" alt="" coords="456,5,719,61"/>
+</map>

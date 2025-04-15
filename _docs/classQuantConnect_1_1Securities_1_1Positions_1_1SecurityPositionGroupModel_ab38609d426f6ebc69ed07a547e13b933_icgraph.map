@@ -1,0 +1,7 @@
+<map id="QuantConnect.Securities.Positions.SecurityPositionGroupModel.GetOrCreateDefaultGroup" name="QuantConnect.Securities.Positions.SecurityPositionGroupModel.GetOrCreateDefaultGroup">
+<area shape="rect" id="node1" title="Gets or creates the default position group for the specified security" alt="" coords="663,85,897,141"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Securities_1_1SecurityPortfolioManager.html#a879d4fd3f94f610f74223f88b265e1e2" title="Gets the margin available for trading a specific symbol in a specific direction." alt="" coords="377,5,590,61"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Securities_1_1SecurityPortfolioManager.html#a7eb96c8a566ea8780edbbad71794af25" title="Logs margin information for debugging" alt="" coords="377,85,590,141"/>
+<area shape="rect" id="node5" href="$classQuantConnect_1_1Algorithm_1_1Framework_1_1Portfolio_1_1PortfolioTarget.html#a6e9c9bbcf5f629f8c686bab23c542db0" title="Creates a new target for the specified percent" alt="" coords="352,166,615,207"/>
+<area shape="rect" id="node4" href="$classQuantConnect_1_1Lean_1_1Engine_1_1TransactionHandlers_1_1BrokerageTransactionHandler.html#ad7914edfb9b6e24fcbcd637e2c468cd5" title="Adds the specified order to be processed" alt="" coords="5,85,304,141"/>
+</map>

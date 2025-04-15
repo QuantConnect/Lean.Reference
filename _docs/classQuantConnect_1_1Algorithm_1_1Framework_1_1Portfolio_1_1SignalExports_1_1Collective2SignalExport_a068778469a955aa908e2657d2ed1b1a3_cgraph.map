@@ -1,0 +1,5 @@
+<map id="QuantConnect.Algorithm.Framework.Portfolio.SignalExports.Collective2SignalExport.ConvertPercentageToQuantity" name="QuantConnect.Algorithm.Framework.Portfolio.SignalExports.Collective2SignalExport.ConvertPercentageToQuantity">
+<area shape="rect" id="node1" title="Converts a given percentage of a position into the number of shares of it" alt="" coords="5,31,308,87"/>
+<area shape="rect" id="node2" href="$interfaceQuantConnect_1_1Interfaces_1_1IAlgorithm.html#a63cc959667fa0f4dfd13048a9b7dac94" title="Send debug message" alt="" coords="394,5,581,47"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Algorithm_1_1Framework_1_1Portfolio_1_1PortfolioTarget.html#ae4839947af9044a228ce8bcd661c5d16" title="Creates a new target for the specified percent" alt="" coords="356,71,619,112"/>
+</map>

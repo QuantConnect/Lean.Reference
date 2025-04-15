@@ -1,0 +1,4 @@
+<map id="QuantConnect.Algorithm.Framework.Alphas.Insight.ComputeCloseTime" name="QuantConnect.Algorithm.Framework.Alphas.Insight.ComputeCloseTime">
+<area shape="rect" id="node1" title="Computes the insight closing time from the given generated time, resolution and bar count...." alt="" coords="316,5,579,47"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Algorithm_1_1Framework_1_1Alphas_1_1Insight.html#ac78ab1ab756a3e78a9ee46c5ed1752ff" title="computs the insight closing time from the given generated time and period" alt="" coords="5,5,268,47"/>
+</map>

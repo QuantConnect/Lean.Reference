@@ -1,0 +1,12 @@
+<map id="QuantConnect.Data.UniverseSelection.UserDefinedUniverse.OnCollectionChanged" name="QuantConnect.Data.UniverseSelection.UserDefinedUniverse.OnCollectionChanged">
+<area shape="rect" id="node1" title="Event invocator for the CollectionChanged event" alt="" coords="1003,101,1231,157"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Data_1_1UniverseSelection_1_1UserDefinedUniverse.html#af1f5f13dab0caee897b2c82bd51910d7" title="Adds the specified Symbol to this universe" alt="" coords="701,71,955,112"/>
+<area shape="rect" id="node7" href="$classQuantConnect_1_1Data_1_1UniverseSelection_1_1UserDefinedUniverse.html#ac2073fa727ed83f897d6b52fc8485b5b" title="Removes the specified Symbol from this universe" alt="" coords="714,137,942,193"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Algorithm_1_1QCAlgorithm.html#a0f7ec3a574e47b4ac26448590c4ef685" title="Creates and adds a new single Option contract to the algorithm" alt="" coords="380,71,653,112"/>
+<area shape="rect" id="node4" href="$classQuantConnect_1_1Algorithm_1_1QCAlgorithm.html#ada6451c3b45f03209b586c6bc661ccb0" title="Adds a future option contract to the algorithm." alt="" coords="32,5,305,47"/>
+<area shape="rect" id="node5" href="$classQuantConnect_1_1Algorithm_1_1QCAlgorithm.html#a87673f13f7831209b9cea29f860d63c3" title="Adds an index option contract to the algorithm." alt="" coords="32,71,305,112"/>
+<area shape="rect" id="node6" href="$classQuantConnect_1_1Algorithm_1_1QCAlgorithm.html#afcdaf47586751fe6105f43d044b7cf70" title="Set a required SecurityType&#45;symbol and resolution for algorithm" alt="" coords="32,136,305,177"/>
+<area shape="rect" id="node8" href="$classQuantConnect_1_1Algorithm_1_1Selection_1_1OptionContractUniverse.html#af976e638cbdea7dd759b8030002da908" title="Event invocator for the UserDefinedUniverse.CollectionChanged event" alt="" coords="384,137,649,193"/>
+<area shape="rect" id="node9" href="$classQuantConnect_1_1Brokerages_1_1Backtesting_1_1BacktestingBrokerage.html#aee14eadf2d8029fb3d4850deafaa9590" title="Process delistings" alt="" coords="391,217,642,273"/>
+<area shape="rect" id="node10" href="$classQuantConnect_1_1Lean_1_1Engine_1_1TransactionHandlers_1_1BacktestingTransactionHandler.html#a1ed7cbf05aa34f41fd3ba79655e3b1b2" title="Processes all synchronous events that must take place before the next time loop for the algorithm" alt="" coords="5,217,332,273"/>
+</map>

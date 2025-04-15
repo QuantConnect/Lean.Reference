@@ -1,0 +1,9 @@
+<map id="QuantConnect.Lean.Engine.DataFeeds.DataFeedPacket.Add" name="QuantConnect.Lean.Engine.DataFeeds.DataFeedPacket.Add">
+<area shape="rect" id="node1" title="Adds the specified data to this packet" alt="" coords="739,130,967,171"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Lean_1_1Engine_1_1HistoricalData_1_1SynchronizingHistoryProvider.html#a103404ede972372c43d2522c3ff179ff" title="Enumerates the subscriptions into slices" alt="" coords="340,85,691,141"/>
+<area shape="rect" id="node5" href="$classQuantConnect_1_1Lean_1_1Engine_1_1DataFeeds_1_1SubscriptionSynchronizer.html#ae9504f467b97f2c077ee537be1fa5f9d" title="Syncs the specified subscriptions. The frontier time used for synchronization is managed internally a..." alt="" coords="369,166,662,207"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Lean_1_1Engine_1_1HistoricalData_1_1BrokerageHistoryProvider.html#a9cf173b48c88a0a8568f1bf9dbdd2573" title="Gets the history for the requested securities" alt="" coords="33,5,265,61"/>
+<area shape="rect" id="node4" href="$classQuantConnect_1_1Lean_1_1Engine_1_1HistoricalData_1_1SubscriptionDataReaderHistoryProvider.html#abbaf2f39084c8736e44444ccd264054e" title="Gets the history for the requested securities" alt="" coords="27,85,270,141"/>
+<area shape="rect" id="node6" href="$classQuantConnect_1_1Lean_1_1Engine_1_1DataFeeds_1_1Synchronizer.html#a1ec5e796dd6d363541a45e88cbf773e5" title="Returns an enumerable which provides the data to stream to the algorithm" alt="" coords="19,166,279,207"/>
+<area shape="rect" id="node7" href="$classQuantConnect_1_1Lean_1_1Engine_1_1DataFeeds_1_1LiveSynchronizer.html#aacd62be7b0b00fd14204f99b2f0b734c" title="Returns an enumerable which provides the data to stream to the algorithm" alt="" coords="5,231,292,273"/>
+</map>

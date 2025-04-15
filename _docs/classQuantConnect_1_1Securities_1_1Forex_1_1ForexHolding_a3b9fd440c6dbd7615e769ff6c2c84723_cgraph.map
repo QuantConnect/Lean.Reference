@@ -1,0 +1,7 @@
+<map id="QuantConnect.Securities.Forex.ForexHolding.TotalCloseProfitPips" name="QuantConnect.Securities.Forex.ForexHolding.TotalCloseProfitPips">
+<area shape="rect" id="node1" title="Profit in pips if we closed the holdings right now including the approximate fees" alt="" coords="5,31,224,87"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Securities_1_1SecurityHolding.html#a4bc70d2b17f24b1f755183e2eeec7674" title="Profit if we closed the holdings right now including the approximate fees in units of the account&#39;s c..." alt="" coords="272,39,503,80"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Extensions.html#a3a13bce5beb2126e8a5a89b65b46599f" title="Returns the amount of fee&#39;s charged by executing a market order with the given arguments" alt="" coords="576,5,769,47"/>
+<area shape="rect" id="node5" href="$classQuantConnect_1_1Securities_1_1SecurityHolding.html#a88902e4d2b5e59fd73934daa215efb0e" title="Gets the total value of the specified quantity &#160;of shares of this security in the account currency" alt="" coords="551,71,795,112"/>
+<area shape="rect" id="node4" href="$interfaceQuantConnect_1_1Orders_1_1Fees_1_1IFeeModel.html#ab0bf50e204c8c07f1d37fd7680f23e59" title="Gets the order fee associated with the specified order." alt="" coords="843,5,1041,47"/>
+</map>

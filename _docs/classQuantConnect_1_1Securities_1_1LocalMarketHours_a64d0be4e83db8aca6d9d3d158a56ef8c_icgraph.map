@@ -1,0 +1,6 @@
+<map id="QuantConnect.Securities.LocalMarketHours.IsContinuousMarketOpen" name="QuantConnect.Securities.LocalMarketHours.IsContinuousMarketOpen">
+<area shape="rect" id="node1" title="Check the given segment is not part of the current previous segment" alt="" coords="591,31,817,87"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Securities_1_1LocalMarketHours.html#a20c2a5ace68e261734ffa6101993573f" title="Gets the market closing time of day" alt="" coords="296,5,543,47"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Securities_1_1LocalMarketHours.html#a0f389bbd5cc5666e8c60bf364ab08a34" title="Gets the market opening time of day" alt="" coords="297,71,542,112"/>
+<area shape="rect" id="node4" href="$classQuantConnect_1_1Orders_1_1Fills_1_1EquityFillModel.html#a2cc8fb9eafec5a645f7901a20b6c0594" title="Market on Open Fill Model. Return an order event with the fill details" alt="" coords="5,71,248,112"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="QuantConnect.Extensions.GetMarketOrderFees" name="QuantConnect.Extensions.GetMarketOrderFees">
+<area shape="rect" id="node1" title="Returns the amount of fee&#39;s charged by executing a market order with the given arguments" alt="" coords="5,5,199,47"/>
+<area shape="rect" id="node2" href="$interfaceQuantConnect_1_1Orders_1_1Fees_1_1IFeeModel.html#ab0bf50e204c8c07f1d37fd7680f23e59" title="Gets the order fee associated with the specified order." alt="" coords="247,5,445,47"/>
+</map>

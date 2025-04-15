@@ -1,0 +1,4 @@
+<map id="QuantConnect.Interfaces.IApi.ReadAccount" name="QuantConnect.Interfaces.IApi.ReadAccount">
+<area shape="rect" id="node1" title="Will read the organization account status" alt="" coords="309,13,496,54"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Lean_1_1Engine_1_1DataFeeds_1_1ApiDataProvider.html#a73a95b82e9f8e0b67e2333bc325e5890" title="Initialize a new instance of the ApiDataProvider" alt="" coords="5,5,261,61"/>
+</map>

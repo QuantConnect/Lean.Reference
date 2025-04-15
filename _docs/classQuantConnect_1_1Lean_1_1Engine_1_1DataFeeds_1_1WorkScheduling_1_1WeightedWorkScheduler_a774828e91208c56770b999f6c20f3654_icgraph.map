@@ -1,0 +1,5 @@
+<map id="QuantConnect.Lean.Engine.DataFeeds.WorkScheduling.WeightedWorkScheduler.QueueWork" name="QuantConnect.Lean.Engine.DataFeeds.WorkScheduling.WeightedWorkScheduler.QueueWork">
+<area shape="rect" id="node1" title="Add a new work item to the queue" alt="" coords="629,5,893,61"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Lean_1_1Engine_1_1DataFeeds_1_1SubscriptionUtils.html#a1730082b174a831b7b6ae6f090a35cdb" title="Setups a new Subscription which will consume a blocking EnqueueableEnumerator&lt;T&gt; that will be feed by..." alt="" coords="329,5,581,61"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Lean_1_1Engine_1_1DataFeeds_1_1FileSystemDataFeed.html#ac148e78fc814fca88c70a1835be51a25" title="Creates a new subscription to provide data for the specified security." alt="" coords="5,5,281,61"/>
+</map>

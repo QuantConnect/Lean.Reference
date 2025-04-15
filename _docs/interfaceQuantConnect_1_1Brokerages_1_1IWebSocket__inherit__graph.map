@@ -1,0 +1,4 @@
+<map id="QuantConnect.Brokerages.IWebSocket" name="QuantConnect.Brokerages.IWebSocket">
+<area shape="rect" id="node1" title="Wrapper for WebSocket4Net to enhance testability" alt="" coords="5,5,200,47"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Brokerages_1_1WebSocketClientWrapper.html" title="Wrapper for System.Net.Websockets.ClientWebSocket to enhance testability" alt="" coords="5,95,200,136"/>
+</map>

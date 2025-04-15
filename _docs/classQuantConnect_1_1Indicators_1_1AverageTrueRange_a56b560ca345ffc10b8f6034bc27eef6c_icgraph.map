@@ -1,0 +1,5 @@
+<map id="QuantConnect.Indicators.AverageTrueRange.Reset" name="QuantConnect.Indicators.AverageTrueRange.Reset">
+<area shape="rect" id="node1" title="Resets this indicator to its initial state" alt="" coords="481,5,668,47"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Indicators_1_1KeltnerChannels.html#a87577d90cac426ee7e75732675c1af95" title="Resets this indicator to its initial state" alt="" coords="247,5,433,47"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Indicators_1_1SqueezeMomentum.html#ad0fc258e81ac153c80db7fa401384630" title="Resets the state of the indicator, including all sub&#45;indicators." alt="" coords="5,5,199,47"/>
+</map>

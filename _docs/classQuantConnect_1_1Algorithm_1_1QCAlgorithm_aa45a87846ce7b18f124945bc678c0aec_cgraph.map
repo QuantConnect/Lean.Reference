@@ -1,0 +1,6 @@
+<map id="QuantConnect.Algorithm.QCAlgorithm.CreateDateRangeHistoryRequests" name="QuantConnect.Algorithm.QCAlgorithm.CreateDateRangeHistoryRequests">
+<area shape="rect" id="node1" title="Helper method to create history requests from a date range with custom data type" alt="" coords="5,39,279,80"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Data_1_1HistoryRequestFactory.html#acd9d6d64e26a57db375983750a51ae02" title="Creates a new history request" alt="" coords="327,39,593,80"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Util_1_1LeanData.html#a77cc921eacb5e88e8575272f1a87280d" title="Gets the data type required for the specified combination of resolution and tick type" alt="" coords="641,5,852,47"/>
+<area shape="rect" id="node4" href="$classQuantConnect_1_1Util_1_1LeanData.html#af07561616d971cbd08adb7847eafb7f6" title="Determines if the Type is a &#39;common&#39; type used throughout lean This method is helpful in creating Sub..." alt="" coords="641,71,852,112"/>
+</map>

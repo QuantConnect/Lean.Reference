@@ -1,0 +1,4 @@
+<map id="QuantConnect.Messages.StopLimitOrder.Tag" name="QuantConnect.Messages.StopLimitOrder.Tag">
+<area shape="rect" id="node1" title="Returns an empty string as a tag" alt="" coords="248,5,464,47"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Orders_1_1StopLimitOrder.html#aaad444471787c4cb076603d756f2e3a6" title="Gets the default tag for this order" alt="" coords="5,5,200,47"/>
+</map>

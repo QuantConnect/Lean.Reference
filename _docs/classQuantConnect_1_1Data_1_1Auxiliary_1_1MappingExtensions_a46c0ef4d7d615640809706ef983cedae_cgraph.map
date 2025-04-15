@@ -1,0 +1,5 @@
+<map id="QuantConnect.Data.Auxiliary.MappingExtensions.ResolveMapFile" name="QuantConnect.Data.Auxiliary.MappingExtensions.ResolveMapFile">
+<area shape="rect" id="node1" title="Helper method to resolve the mapping file to use." alt="" coords="5,39,261,80"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Data_1_1Auxiliary_1_1MapFileResolver.html#a6d176be34b3981cb11cd0a3f1d44d30a" title="Resolves the map file path containing the mapping information for the symbol defined at date" alt="" coords="309,5,545,47"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1SecurityIdentifier.html#a65051a4af9e25cab40451dc9ef12db6a" title="Tries to fetch the custom data type associated with a symbol" alt="" coords="311,71,543,112"/>
+</map>

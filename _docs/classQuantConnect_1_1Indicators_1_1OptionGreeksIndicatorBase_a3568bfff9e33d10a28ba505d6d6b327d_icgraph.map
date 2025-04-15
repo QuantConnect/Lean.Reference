@@ -1,0 +1,4 @@
+<map id="QuantConnect.Indicators.OptionGreeksIndicatorBase.CalculateGreek" name="QuantConnect.Indicators.OptionGreeksIndicatorBase.CalculateGreek">
+<area shape="rect" id="node1" title="Calculate the greek of the option" alt="" coords="316,13,620,54"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Indicators_1_1OptionGreeksIndicatorBase.html#aa7dcc645c506d4c977ad88098d9faa82" title="Computes the next value of the option greek indicator" alt="" coords="5,5,268,61"/>
+</map>

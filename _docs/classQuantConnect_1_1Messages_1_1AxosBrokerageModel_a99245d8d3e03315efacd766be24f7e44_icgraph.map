@@ -1,0 +1,4 @@
+<map id="QuantConnect.Messages.AxosBrokerageModel.NonIntegerOrderQuantity" name="QuantConnect.Messages.AxosBrokerageModel.NonIntegerOrderQuantity">
+<area shape="rect" id="node1" title="Returns a string message saying the order quantity must be Integer. It also contains the quantity of ..." alt="" coords="296,5,536,61"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Brokerages_1_1AxosClearingBrokerageModel.html#ac3bf891d05ac4d7c03d3516c4bdc8d25" title="Returns true if the brokerage could accept this order." alt="" coords="5,5,248,61"/>
+</map>

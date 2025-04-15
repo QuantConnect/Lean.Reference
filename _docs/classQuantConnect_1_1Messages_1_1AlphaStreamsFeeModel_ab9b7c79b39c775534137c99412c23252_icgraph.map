@@ -1,0 +1,4 @@
+<map id="QuantConnect.Messages.AlphaStreamsFeeModel.UnexpectedEquityMarket" name="QuantConnect.Messages.AlphaStreamsFeeModel.UnexpectedEquityMarket">
+<area shape="rect" id="node1" title="Returns a string message saying the given market is unexpected" alt="" coords="316,5,579,61"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Orders_1_1Fees_1_1AlphaStreamsFeeModel.html#adc60ca6346fa0db61779c98e0229f9af" title="Gets the order fee associated with the specified order. This returns the cost of the transaction in t..." alt="" coords="5,13,268,54"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="QuantConnect.IDataDownloader.Get" name="QuantConnect.IDataDownloader.Get">
+<area shape="rect" id="node1" title="Get historical data enumerable for a single symbol, type and resolution given this start and end time..." alt="" coords="297,20,555,47"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Data_1_1UniverseSelection_1_1UniverseExtensions.html#a1580570889a163a79e8951fa6d9ec401" title="Processes the universe download based on parameters." alt="" coords="5,5,249,61"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="QuantConnect.Api.InsightResponse" name="QuantConnect.Api.InsightResponse">
+<area shape="rect" id="node1" title="Class containing insights and the number of insights of the live algorithm in the request criteria" alt="" coords="5,155,192,196"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Api_1_1RestResponse.html" title="Base API response class for the QuantConnect API." alt="" coords="41,80,156,107"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Api_1_1StringRepresentation.html" title="Class to return the string representation of an API response class" alt="" coords="19,5,178,32"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="QuantConnect.Messages.Extensions.ConvertToDictionaryFailed" name="QuantConnect.Messages.Extensions.ConvertToDictionaryFailed">
+<area shape="rect" id="node1" title="Returns a string message saying the method ConvertToDictionary cannot be used to convert a given sour..." alt="" coords="259,13,521,54"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Extensions.html#afe1812d8c8e9da7442fc33214f5bd37a" title="Convert a PyObject into a managed dictionary" alt="" coords="5,5,211,61"/>
+</map>

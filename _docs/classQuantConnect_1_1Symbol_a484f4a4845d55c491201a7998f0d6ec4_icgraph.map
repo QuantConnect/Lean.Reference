@@ -1,0 +1,13 @@
+<map id="QuantConnect.Symbol.CreateFuture" name="QuantConnect.Symbol.CreateFuture">
+<area shape="rect" id="node1" title="Provides a convenience method for creating a future Symbol." alt="" coords="639,232,853,273"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Extensions.html#a316bf3994a9258c8bd53a553231cf36b" title="Helper method that will return a back month, with future expiration, future contract based on the giv..." alt="" coords="331,5,524,47"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1ToolBox_1_1RandomDataGenerator_1_1FutureSymbolGenerator.html#a0bc25d09e57c89876c4f45c4b9affd76" title="Generates a new random future Symbol. The generates future contract Symbol will have an expiry betwee..." alt="" coords="288,71,567,127"/>
+<area shape="rect" id="node4" href="$classQuantConnect_1_1Securities_1_1FutureOption_1_1FuturesOptionsUnderlyingMapper.html#ae2c92cb1e17d9457a9408cf7799964fd" title="Gets the FOP&#39;s underlying Future. The underlying Future&#39;s contract month might not match the contract..." alt="" coords="264,151,591,207"/>
+<area shape="rect" id="node5" href="$classQuantConnect_1_1Util_1_1LeanDataPathComponents.html#a0d24d06405609c2f8b3107c6b41ba57d" title="Parses the specified path into a new instance of the LeanDataPathComponents class" alt="" coords="324,232,531,273"/>
+<area shape="rect" id="node7" href="$classQuantConnect_1_1SymbolRepresentation.html#adae87b321b11822d3fa9b641c0b2c2ab" title="Creates a future option Symbol from the provided ticker" alt="" coords="292,297,563,339"/>
+<area shape="rect" id="node8" href="$classQuantConnect_1_1SymbolRepresentation.html#a66267400b44af2828d3622f28000eba5" title="Helper method to parse and generate a future symbol from a given user friendly representation" alt="" coords="292,363,563,404"/>
+<area shape="rect" id="node9" href="$classQuantConnect_1_1Util_1_1LeanData.html#a4b8de0cf279dc49a62d734fda97ed1ef" title="Creates a symbol from the specified zip entry name" alt="" coords="322,428,533,469"/>
+<area shape="rect" id="node6" href="$classQuantConnect_1_1ToolBox_1_1LeanParser.html#abd1bb9fca7f05ea516d50523b8218593" title="Parses the specified input stream into an enumerable of data" alt="" coords="9,232,213,273"/>
+<area shape="rect" id="node10" href="$classQuantConnect_1_1ToolBox_1_1LeanDataReader.html#ac23439fd286135eaf5c3047bf52eb517" title="Initialize a instance of LeanDataReader from a path to a zipped data file. It also supports declaring..." alt="" coords="5,395,216,436"/>
+<area shape="rect" id="node11" href="$classQuantConnect_1_1ToolBox_1_1LeanDataReader.html#acfe04bd1df4b418f463dcb012488d725" title="Enumerate over the tick zip file and return a list of BaseData." alt="" coords="9,460,213,501"/>
+</map>

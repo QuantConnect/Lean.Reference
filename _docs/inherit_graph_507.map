@@ -1,0 +1,6 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$classQuantConnect_1_1Report_1_1ReportElements_1_1ReportElement.html" title="Common interface for template elements of the report" alt="" coords="5,86,213,127"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Report_1_1ReportElements_1_1EstimatedCapacityReportElement.html" title="Capacity Estimation Report Element" alt="" coords="266,5,519,61"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Report_1_1ReportElements_1_1ParametersReportElement.html" title="Class for creating a two column table for the Algorithm&#39;s Parameters in a report" alt="" coords="263,86,522,127"/>
+<area shape="rect" id="node4" href="$classQuantConnect_1_1Report_1_1ReportElements_1_1SharpeRatioReportElement.html" title="Class for render the Sharpe Ratio statistic for a report" alt="" coords="261,151,524,193"/>
+</map>

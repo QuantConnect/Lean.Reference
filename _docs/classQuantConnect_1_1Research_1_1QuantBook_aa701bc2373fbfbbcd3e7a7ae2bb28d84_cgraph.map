@@ -1,0 +1,5 @@
+<map id="QuantConnect.Research.QuantBook.Indicator" name="QuantConnect.Research.QuantBook.Indicator">
+<area shape="rect" id="node1" title="Gets the historical data of an indicator for the specified symbol. The exact number of bars will be r..." alt="" coords="5,39,227,80"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Algorithm_1_1QCAlgorithm.html#a446a10e68319fdc3c0b2ed85d80f55f8" title="Get the history for all configured securities over the requested span. This will use the resolution a..." alt="" coords="275,5,548,47"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Algorithm_1_1QCAlgorithm.html#a54d9539822da673cd3dc102ea78e49db" title="Gets the historical data of an indicator for the specified symbol. The exact number of bars will be r..." alt="" coords="275,71,548,112"/>
+</map>

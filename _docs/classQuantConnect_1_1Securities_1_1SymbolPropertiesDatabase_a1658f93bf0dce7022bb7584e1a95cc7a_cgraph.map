@@ -1,0 +1,4 @@
+<map id="QuantConnect.Securities.SymbolPropertiesDatabase.SymbolPropertiesDatabase" name="QuantConnect.Securities.SymbolPropertiesDatabase.SymbolPropertiesDatabase">
+<area shape="rect" id="node1" title="Initialize a new instance of SymbolPropertiesDatabase using the given file" alt="" coords="5,5,257,61"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Messages_1_1SymbolPropertiesDatabase.html#a6abceae517a349a28223bfc2dc9106d7" title="Returns a string saying a duplicated key was found while processing the given file" alt="" coords="305,5,545,61"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="QuantConnect.Messages.Extensions.DataTypeMissingParameterlessConstructor" name="QuantConnect.Messages.Extensions.DataTypeMissingParameterlessConstructor">
+<area shape="rect" id="node1" title="Returns a string message saying the given data type is missing a parameterless constructor" alt="" coords="247,5,548,47"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Extensions.html#a6bd494f2eef4652a2900dbb2154f2738" title="Given a type will create a new instance using the parameterless constructor and assert the type imple..." alt="" coords="5,5,199,47"/>
+</map>

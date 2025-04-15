@@ -1,0 +1,6 @@
+<map id="QuantConnect.Securities.SecurityTransactionManager.GetIncrementGroupOrderManagerId" name="QuantConnect.Securities.SecurityTransactionManager.GetIncrementGroupOrderManagerId">
+<area shape="rect" id="node1" title="Get a new group order manager id, and increment the internal counter." alt="" coords="652,45,884,101"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Lean_1_1Engine_1_1TransactionHandlers_1_1BrokerageTransactionHandler.html#a1361d0fe8e70f098f95b73a080498a9c" title="Register an already open Order" alt="" coords="305,5,604,61"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Securities_1_1DefaultMarginCallModel.html#a715b5fc666b69dfdfaefb0c33c854aaa" title="Generates a new order for the specified security taking into account the total margin used by the acc..." alt="" coords="333,85,577,141"/>
+<area shape="rect" id="node4" href="$classQuantConnect_1_1Securities_1_1DefaultMarginCallModel.html#a9009415ee21ef27ddfd58b88bf6e48bf" title="Scan the portfolio and the updated data for a potential margin call situation which may get the holdi..." alt="" coords="5,85,257,141"/>
+</map>

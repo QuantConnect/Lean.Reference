@@ -1,0 +1,6 @@
+<map id="QuantConnect.Indicators.AdvanceDeclineIndicator.Reset" name="QuantConnect.Indicators.AdvanceDeclineIndicator.Reset">
+<area shape="rect" id="node1" title="Resets this indicator to its initial state" alt="" coords="528,39,752,80"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Indicators_1_1ArmsIndex.html#a1ae5ed8d0d9c37e390472036745e5fff" title="Resets this indicator to its initial state" alt="" coords="293,5,479,47"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Indicators_1_1McClellanOscillator.html#a3e2cc31145d485f3da2b57244416e0f3" title="Resets this indicator to its initial state" alt="" coords="292,71,480,112"/>
+<area shape="rect" id="node4" href="$classQuantConnect_1_1Indicators_1_1McClellanSummationIndex.html#a2b5283991571116d8c46834244bdf673" title="Resets this indicator to its initial state" alt="" coords="5,71,244,112"/>
+</map>

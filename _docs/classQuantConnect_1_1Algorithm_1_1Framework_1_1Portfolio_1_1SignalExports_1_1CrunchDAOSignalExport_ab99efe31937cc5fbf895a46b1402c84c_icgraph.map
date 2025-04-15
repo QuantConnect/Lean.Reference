@@ -1,0 +1,4 @@
+<map id="QuantConnect.Algorithm.Framework.Portfolio.SignalExports.CrunchDAOSignalExport.ConvertToCSVFormat" name="QuantConnect.Algorithm.Framework.Portfolio.SignalExports.CrunchDAOSignalExport.ConvertToCSVFormat">
+<area shape="rect" id="node1" title="Converts the list of holdings into a CSV format string" alt="" coords="341,5,629,61"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Algorithm_1_1Framework_1_1Portfolio_1_1SignalExports_1_1CrunchDAOSignalExport.html#a7464145034ec48cc24ca119e6f82c43f" title="Verifies every holding is a stock, creates a message with the desired positions using the expected Cr..." alt="" coords="5,5,293,61"/>
+</map>

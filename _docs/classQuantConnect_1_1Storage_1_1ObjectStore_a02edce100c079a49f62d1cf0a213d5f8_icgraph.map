@@ -1,0 +1,4 @@
+<map id="QuantConnect.Storage.ObjectStore.GetFilePath" name="QuantConnect.Storage.ObjectStore.GetFilePath">
+<area shape="rect" id="node1" title="Returns the file path for the specified path" alt="" coords="268,5,483,47"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Storage_1_1ObjectStore.html#a7ab90749a13d9a17e190dd9e05e57994" title="Saves the data from a local file path associated with the specified path" alt="" coords="5,5,220,47"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="QuantConnect.Interfaces.IHistoryProvider.Initialize" name="QuantConnect.Interfaces.IHistoryProvider.Initialize">
+<area shape="rect" id="node1" title="Initializes this history provider to work for the specified job" alt="" coords="715,50,901,91"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Lean_1_1Engine_1_1HistoricalData_1_1HistoryProviderManager.html#a8a9a7a7c37fb03207bcee5283fe4301a" title="Initializes this history provider to work for the specified job" alt="" coords="446,5,666,61"/>
+<area shape="rect" id="node5" href="$classQuantConnect_1_1Research_1_1QuantBook.html#a239bcca3c726a8cc25b9a6a3cd0c244f" title="QuantBook constructor. Provides access to data for quantitative analysis" alt="" coords="445,86,667,127"/>
+<area shape="rect" id="node3" href="$classProgram.html#a9fcf1ef5c265aa471a7b8d45bc0fb193" title="Initializes various configurations for the application. This method sets up logging,..." alt="" coords="167,20,397,47"/>
+<area shape="rect" id="node4" href="$classProgram.html#ada72f8d1518f89bc2e6ad807d5059564" title="The main entry point for the application." alt="" coords="5,20,119,47"/>
+</map>

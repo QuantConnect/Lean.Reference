@@ -1,0 +1,5 @@
+<map id="QuantConnect.Data.Auxiliary.AuxiliaryDataKey.AuxiliaryDataKey" name="QuantConnect.Data.Auxiliary.AuxiliaryDataKey.AuxiliaryDataKey">
+<area shape="rect" id="node1" title="Creates a new instance" alt="" coords="267,39,517,80"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Data_1_1Auxiliary_1_1AuxiliaryDataKey.html#a9293fea527b7a1fd4ceb4e6692e94676" title="Helper method to create a new instance from a SecurityIdentifier" alt="" coords="5,5,219,47"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Data_1_1Auxiliary_1_1AuxiliaryDataKey.html#a0d1606e36b554a67c87f1a6fc85565b7" title="Determines whether the specified T:System.Object is equal to the current T:System...." alt="" coords="5,71,219,112"/>
+</map>

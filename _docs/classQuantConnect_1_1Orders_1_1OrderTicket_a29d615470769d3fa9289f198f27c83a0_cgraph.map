@@ -1,0 +1,4 @@
+<map id="QuantConnect.Orders.OrderTicket.GetMostRecentOrderResponse" name="QuantConnect.Orders.OrderTicket.GetMostRecentOrderResponse">
+<area shape="rect" id="node1" title="Gets the most recent OrderResponse for this ticket" alt="" coords="5,5,269,47"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Orders_1_1OrderTicket.html#acb067d920d867c31251654b1040db6a5" title="Gets the most recent OrderRequest for this ticket" alt="" coords="317,5,572,47"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="QuantConnect.Data.UniverseSelection.CoarseFundamental.ToRow" name="QuantConnect.Data.UniverseSelection.CoarseFundamental.ToRow">
+<area shape="rect" id="node1" title="Converts a given fundamental data point into row format" alt="" coords="304,13,567,54"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1ToolBox_1_1CoarseUniverseGenerator_1_1CoarseUniverseGeneratorProgram.html#ae53e42634d5a8fca6327f08c6388bcac" title="Runs this instance." alt="" coords="5,5,256,61"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="QuantConnect.BaseSeries.ConsolidateChartPoints" name="QuantConnect.BaseSeries.ConsolidateChartPoints">
+<area shape="rect" id="node1" title="Will sum up all chart points into a new single value, using the time of latest point" alt="" coords="903,13,1097,54"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Lean_1_1Engine_1_1Results_1_1LiveTradingResultHandler.html#a4e0a596589a88e3abcc9c12a5c0dd757" title="Add a range of samples from the users algorithms to the end of our current list." alt="" coords="612,5,855,61"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Lean_1_1Engine_1_1Results_1_1LiveTradingResultHandler.html#ab93e70238aae83c7d570c57f41afb711" title="Process the synchronous result events, sampling and message reading. This method is triggered from th..." alt="" coords="321,5,564,61"/>
+<area shape="rect" id="node4" href="$classQuantConnect_1_1Lean_1_1Engine_1_1Results_1_1LiveTradingResultHandler.html#a1dbddef89eec0b724268ecdaa7c211ff" title="Terminate the result thread and apply any required exit procedures like sending final results" alt="" coords="5,13,273,54"/>
+</map>

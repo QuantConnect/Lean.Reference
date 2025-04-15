@@ -1,0 +1,4 @@
+<map id="QuantConnect.Algorithm.Framework.Portfolio.IPortfolioTarget" name="QuantConnect.Algorithm.Framework.Portfolio.IPortfolioTarget">
+<area shape="rect" id="node1" title="Represents a portfolio target. This may be a percentage of total portfolio value or it may be a fixed..." alt="" coords="5,5,268,47"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Algorithm_1_1Framework_1_1Portfolio_1_1PortfolioTarget.html" title="Provides an implementation of IPortfolioTarget that specifies a specified quantity of a security to b..." alt="" coords="5,95,268,136"/>
+</map>

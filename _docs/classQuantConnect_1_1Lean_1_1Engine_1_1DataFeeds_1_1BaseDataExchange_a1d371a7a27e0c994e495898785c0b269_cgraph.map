@@ -1,0 +1,4 @@
+<map id="QuantConnect.Lean.Engine.DataFeeds.BaseDataExchange.AddEnumerator" name="QuantConnect.Lean.Engine.DataFeeds.BaseDataExchange.AddEnumerator">
+<area shape="rect" id="node1" title="Adds the enumerator to this exchange. If it has already been added then it will remain registered in ..." alt="" coords="5,5,256,61"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Lean_1_1Engine_1_1DataFeeds_1_1BaseDataExchange.html#ae3611abcde6103ea6dd1948f1a2be2f7" title="Adds the enumerator to this exchange. If it has already been added then it will remain registered in ..." alt="" coords="304,5,555,61"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="QuantConnect.Securities.Option.OptionPriceModels.BinomialCoxRossRubinstein" name="QuantConnect.Securities.Option.OptionPriceModels.BinomialCoxRossRubinstein">
+<area shape="rect" id="node1" title="Pricing engine for European and American vanilla options using binomial trees. Cox&#45;Ross&#45;Rubinstein(CR..." alt="" coords="240,5,493,61"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Securities_1_1Option_1_1Option.html#ac7ef6434723bdad6ef39f8a98fc358a8" title="Creates instance of the Option class." alt="" coords="5,13,192,54"/>
+</map>

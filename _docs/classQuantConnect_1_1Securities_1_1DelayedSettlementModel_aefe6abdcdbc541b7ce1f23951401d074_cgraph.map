@@ -1,0 +1,6 @@
+<map id="QuantConnect.Securities.DelayedSettlementModel.GetUnsettledCash" name="QuantConnect.Securities.DelayedSettlementModel.GetUnsettledCash">
+<area shape="rect" id="node1" title="Gets the unsettled cash amount for the security" alt="" coords="5,5,316,47"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Securities_1_1CashBook.html#a439b770734d62b9b60bd06a56fbdbb1c" title="Converts a quantity of source currency units into the account currency" alt="" coords="364,5,631,47"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Securities_1_1CashBook.html#a3a2cfc4aac92b0740a9bad6c94b42d3b" title="Converts a quantity of source currency units into the specified destination currency" alt="" coords="679,5,865,47"/>
+<area shape="rect" id="node4" href="$classQuantConnect_1_1Messages_1_1CashBook.html#a7668ed1e406e2948a4dc01b7b1049e20" title="Returns a string message saying the conversion rate for the given currency is not available" alt="" coords="913,5,1137,47"/>
+</map>

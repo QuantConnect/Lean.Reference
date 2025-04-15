@@ -1,0 +1,4 @@
+<map id="QuantConnect.ToolBox.RandomDataGenerator.OptionPriceModelPriceGenerator" name="QuantConnect.ToolBox.RandomDataGenerator.OptionPriceModelPriceGenerator">
+<area shape="rect" id="node1" title="Pricing model used to determine the fair price or theoretical value for a call or a put option price ..." alt="" coords="5,80,273,136"/>
+<area shape="rect" id="node2" href="$interfaceQuantConnect_1_1ToolBox_1_1RandomDataGenerator_1_1IPriceGenerator.html" title="Defines a type capable of producing random prices" alt="" coords="78,5,201,32"/>
+</map>

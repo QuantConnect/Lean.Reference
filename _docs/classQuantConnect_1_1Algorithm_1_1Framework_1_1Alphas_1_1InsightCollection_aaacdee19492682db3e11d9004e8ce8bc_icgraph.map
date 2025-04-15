@@ -1,0 +1,5 @@
+<map id="QuantConnect.Algorithm.Framework.Alphas.InsightCollection.Add" name="QuantConnect.Algorithm.Framework.Alphas.InsightCollection.Add">
+<area shape="rect" id="node1" title="Adds an item to the T:System.Collections.Generic.ICollection`1." alt="" coords="316,39,579,80"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Algorithm_1_1Framework_1_1Alphas_1_1InsightCollection.html#aab16b3c31788b564932426ca9bf3b212" title="Adds each item in the specified enumerable of insights to this collection" alt="" coords="5,5,268,47"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Algorithm_1_1Framework_1_1Alphas_1_1MacdAlphaModel.html#a41ce570e226cee6826b0cd15a840c3a6" title="Determines an insight for each security based on it&#39;s current MACD signal" alt="" coords="5,71,268,112"/>
+</map>

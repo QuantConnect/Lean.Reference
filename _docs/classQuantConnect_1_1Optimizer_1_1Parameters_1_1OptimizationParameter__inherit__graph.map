@@ -1,0 +1,5 @@
+<map id="QuantConnect.Optimizer.Parameters.OptimizationParameter" name="QuantConnect.Optimizer.Parameters.OptimizationParameter">
+<area shape="rect" id="node1" title="Defines the optimization parameter meta information" alt="" coords="5,39,268,80"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Optimizer_1_1Parameters_1_1OptimizationStepParameter.html" title="Defines the step based optimization parameter" alt="" coords="316,5,579,47"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Optimizer_1_1Parameters_1_1StaticOptimizationParameter.html" title="Defines the step based optimization parameter" alt="" coords="316,71,579,112"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="QuantConnect.Messages.VolumeShareSlippageModel.VolumeNotReportedForMarketDataType" name="QuantConnect.Messages.VolumeShareSlippageModel.VolumeNotReportedForMarketDataType">
+<area shape="rect" id="node1" title="Returns a message for a volume not reported for market data type in Volume Share Slippage Model" alt="" coords="340,5,631,61"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Orders_1_1Slippage_1_1VolumeShareSlippageModel.html#add01575aca23e05cbaffe50285393f81" title="Slippage Model. Return a decimal cash slippage approximation on the order." alt="" coords="5,5,292,61"/>
+</map>

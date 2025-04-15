@@ -1,0 +1,6 @@
+<map id="QuantConnect.Securities.SecurityExchangeHours.GetNextTradingDay" name="QuantConnect.Securities.SecurityExchangeHours.GetNextTradingDay">
+<area shape="rect" id="node1" title="Gets the next trading day" alt="" coords="320,79,555,135"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Securities_1_1OptionFilterUniverse.html#a6b904ddd36b8b48bd39fee778ad67d5c" title="Adjusts the date to the next trading day if the current date is not a trading day,..." alt="" coords="5,5,272,61"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Data_1_1Auxiliary_1_1CorporateFactorRow.html#a3b2d4a4697bccb9066186effb98be9cd" title="Creates a new dividend from this factor file row and the one chronologically in front of it This divi..." alt="" coords="20,86,257,127"/>
+<area shape="rect" id="node4" href="$classQuantConnect_1_1Data_1_1Auxiliary_1_1CorporateFactorRow.html#aa2adcb1cdf2ab4ad45af09d961677fe8" title="Creates a new split from this factor file row and the one chronologically in front of it This split m..." alt="" coords="32,151,245,193"/>
+</map>

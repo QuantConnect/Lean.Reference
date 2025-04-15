@@ -1,0 +1,10 @@
+<map id="QuantConnect.Time.TradableDate" name="QuantConnect.Time.TradableDate">
+<area shape="rect" id="node1" title="Make sure this date is not a holiday, or weekend for the securities in this algorithm." alt="" coords="652,173,893,200"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Time.html#a6e89a079e35522aa29df3cf30c7b6e39" title="Define an enumerable date range of tradeable dates &#45; skip the holidays and weekends when securities i..." alt="" coords="329,144,604,171"/>
+<area shape="rect" id="node8" href="$classQuantConnect_1_1Time.html#a5d72b5ccc603db0d8cf79df21b2f28bf" title="Could of the number of tradeable dates within this period." alt="" coords="357,195,576,237"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Time.html#a0e76c26e6b6a533334c4d1a1b6bd9b80" title="Define an enumerable date range of tradeable dates &#45; skip the holidays and weekends when securities i..." alt="" coords="6,5,281,32"/>
+<area shape="rect" id="node4" href="$classQuantConnect_1_1Lean_1_1Engine_1_1RealTime_1_1ScheduledEventFactory.html#a2cb626793d1a0a1ca03f3c2dab340865" title="Creates a new ScheduledEvent that will fire before market close by the specified time" alt="" coords="23,56,264,112"/>
+<area shape="rect" id="node5" href="$classQuantConnect_1_1Scheduling_1_1DateRules.html#a23f8d3cbd970618eee50ab0d4b669450" title="Specifies an event should fire every day the symbol is trading" alt="" coords="47,137,240,178"/>
+<area shape="rect" id="node6" href="$classQuantConnect_1_1Lean_1_1Engine_1_1RealTime_1_1ScheduledEventFactory.html#a2a548ebf5457bc6d9ae25dd28f2a3dcd" title="Creates a new ScheduledEvent that will fire before market close by the specified time" alt="" coords="23,203,264,259"/>
+<area shape="rect" id="node7" href="$classQuantConnect_1_1Data_1_1UniverseSelection_1_1ContinuousContractUniverse.html#a17f5bcd47a064d1904195e58aa93d03d" title="Each tradeable day of the future we trigger a new selection. Allows use to select the current contrac..." alt="" coords="5,283,281,339"/>
+</map>

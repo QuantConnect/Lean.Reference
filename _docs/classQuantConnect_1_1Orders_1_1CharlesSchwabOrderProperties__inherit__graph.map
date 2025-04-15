@@ -1,0 +1,5 @@
+<map id="QuantConnect.Orders.CharlesSchwabOrderProperties" name="QuantConnect.Orders.CharlesSchwabOrderProperties">
+<area shape="rect" id="node1" title="Contains additional properties and settings for an order submitted to Charles Schwab brokerage" alt="" coords="5,155,220,196"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Orders_1_1OrderProperties.html" title="Contains additional properties and settings for an order" alt="" coords="51,80,175,107"/>
+<area shape="rect" id="node3" href="$interfaceQuantConnect_1_1Interfaces_1_1IOrderProperties.html" title="Contains additional properties and settings for an order" alt="" coords="49,5,177,32"/>
+</map>

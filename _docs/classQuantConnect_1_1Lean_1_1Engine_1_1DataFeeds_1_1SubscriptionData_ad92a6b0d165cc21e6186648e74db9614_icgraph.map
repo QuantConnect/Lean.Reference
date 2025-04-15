@@ -1,0 +1,6 @@
+<map id="QuantConnect.Lean.Engine.DataFeeds.SubscriptionData.Create" name="QuantConnect.Lean.Engine.DataFeeds.SubscriptionData.Create">
+<area shape="rect" id="node1" title="Clones the data, computes the utc emit time and performs exchange round down behavior,..." alt="" coords="640,53,893,94"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Lean_1_1Engine_1_1DataFeeds_1_1SubscriptionUtils.html#a1730082b174a831b7b6ae6f090a35cdb" title="Setups a new Subscription which will consume a blocking EnqueueableEnumerator&lt;T&gt; that will be feed by..." alt="" coords="335,5,587,61"/>
+<area shape="rect" id="node4" href="$classQuantConnect_1_1Lean_1_1Engine_1_1DataFeeds_1_1Enumerators_1_1SubscriptionDataEnumerator.html#a64fa7fd463f6b3c0575ccaba788a9e79" title="Advances the enumerator to the next element of the collection." alt="" coords="329,85,592,141"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Lean_1_1Engine_1_1DataFeeds_1_1FileSystemDataFeed.html#ac148e78fc814fca88c70a1835be51a25" title="Creates a new subscription to provide data for the specified security." alt="" coords="5,5,281,61"/>
+</map>

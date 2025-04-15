@@ -1,0 +1,6 @@
+<map id="QuantConnect.Messages.FeeModel.UnsupportedSecurityType" name="QuantConnect.Messages.FeeModel.UnsupportedSecurityType">
+<area shape="rect" id="node1" title="Returns a string message saying the type of the given security is unsupported" alt="" coords="316,71,548,112"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Orders_1_1Fees_1_1AlphaStreamsFeeModel.html#adc60ca6346fa0db61779c98e0229f9af" title="Gets the order fee associated with the specified order. This returns the cost of the transaction in t..." alt="" coords="5,5,268,47"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Orders_1_1Fees_1_1ExanteFeeModel.html#a49f630689ae5338f0592ef653e8f510b" title="Gets the order fee associated with the specified order." alt="" coords="29,71,245,112"/>
+<area shape="rect" id="node4" href="$classQuantConnect_1_1Orders_1_1Fees_1_1InteractiveBrokersFeeModel.html#a55f8a97e7c5f4134ca526fafc49e3983" title="Gets the order fee associated with the specified order. This returns the cost of the transaction in t..." alt="" coords="21,137,252,193"/>
+</map>

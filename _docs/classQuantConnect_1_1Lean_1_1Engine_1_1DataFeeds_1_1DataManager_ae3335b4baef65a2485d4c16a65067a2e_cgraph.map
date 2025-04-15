@@ -1,0 +1,12 @@
+<map id="QuantConnect.Lean.Engine.DataFeeds.DataManager.Add" name="QuantConnect.Lean.Engine.DataFeeds.DataManager.Add">
+<area shape="rect" id="node1" title="Creates and adds a list of SubscriptionDataConfig for a given symbol and configuration...." alt="" coords="5,103,216,145"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Symbol.html#a1f3c25223fd9a7b753a4f84ece6469ab" title="Method returns true, if symbol is a derivative canonical symbol" alt="" coords="297,5,543,32"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Lean_1_1Engine_1_1DataFeeds_1_1DataManager.html#a44a6ceb7e171992b862532e0f63b9aa7" title="Get the data feed types for a given SecurityType Resolution" alt="" coords="264,56,576,112"/>
+<area shape="rect" id="node6" href="$classQuantConnect_1_1Lean_1_1Engine_1_1DataFeeds_1_1DataManager.html#a0f417af22d3aaddc7b9be789921c6e78" title="Gets existing or adds new SubscriptionDataConfig" alt="" coords="287,136,553,192"/>
+<area shape="rect" id="node9" href="$classQuantConnect_1_1SecurityIdentifier.html#a2a52cbd8bce9ff527bc8021a3e3a0037" title="Tries to fetch the custom data type associated with a symbol" alt="" coords="304,217,536,258"/>
+<area shape="rect" id="node4" href="$classQuantConnect_1_1Util_1_1LeanData.html#a77cc921eacb5e88e8575272f1a87280d" title="Gets the data type required for the specified combination of resolution and tick type" alt="" coords="635,6,845,47"/>
+<area shape="rect" id="node5" href="$classQuantConnect_1_1Util_1_1LeanData.html#a38b8fae83d8a3ceef1812e30a4d71844" title="Helper method to determine if a configuration set is valid" alt="" coords="635,71,845,113"/>
+<area shape="rect" id="node7" href="$classQuantConnect_1_1Logging_1_1Log.html#ad908daef9d61532d7d60c9dcfb9a3e0c" title="Output to the console" alt="" coords="640,143,840,185"/>
+<area shape="rect" id="node8" href="$interfaceQuantConnect_1_1Logging_1_1ILogHandler.html#a2c738b8e78dd5b54244bc68b969ba91d" title="Write debug message to log" alt="" coords="904,143,1104,185"/>
+<area shape="rect" id="node10" href="$classQuantConnect_1_1SecurityIdentifier.html#a65051a4af9e25cab40451dc9ef12db6a" title="Tries to fetch the custom data type associated with a symbol" alt="" coords="624,217,856,258"/>
+</map>

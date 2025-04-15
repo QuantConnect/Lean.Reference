@@ -1,0 +1,8 @@
+<map id="QuantConnect.Lean.Engine.DataFeeds.Queues.FakeDataQueue.FakeDataQueue" name="QuantConnect.Lean.Engine.DataFeeds.Queues.FakeDataQueue.FakeDataQueue">
+<area shape="rect" id="node1" title="Initializes a new instance of the FakeDataQueue class to randomly emit data for each symbol" alt="" coords="5,97,260,153"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Securities_1_1MarketHoursDatabase.html#aa01232d91c17c556b18ea8f1f7fabcd0" title="Gets the instance of the MarketHoursDatabase class produced by reading in the market hours data found..." alt="" coords="308,59,543,115"/>
+<area shape="rect" id="node5" href="$classQuantConnect_1_1Logging_1_1Log.html#a4e55477fbc790846b74550a57198cea9" title="Log trace" alt="" coords="325,140,525,181"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Securities_1_1MarketHoursDatabase.html#a6fdcc5f6d09cc11743e258e570d0a9eb" title="Reads the specified file as a market hours database instance" alt="" coords="591,5,817,47"/>
+<area shape="rect" id="node4" href="$classQuantConnect_1_1Globals.html#ae01b5c94ef475a21ab1a62fe1b04ea5c" title="Helper method that will build a data folder path checking if it exists on the cache folder else will ..." alt="" coords="607,71,801,112"/>
+<area shape="rect" id="node6" href="$interfaceQuantConnect_1_1Logging_1_1ILogHandler.html#a3fb71a33ac66129240b63f12b6fcda3b" title="Write debug message to log" alt="" coords="604,140,804,181"/>
+</map>

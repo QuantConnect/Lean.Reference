@@ -1,0 +1,14 @@
+<map id="QuantConnect.Securities.FuncSecuritySeeder.SeedSecurity" name="QuantConnect.Securities.FuncSecuritySeeder.SeedSecurity">
+<area shape="rect" id="node1" title="Seed the security" alt="" coords="5,188,244,229"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Logging_1_1Log.html#ad908daef9d61532d7d60c9dcfb9a3e0c" title="Output to the console" alt="" coords="326,5,526,47"/>
+<area shape="rect" id="node4" href="$classQuantConnect_1_1Symbol.html#a1f3c25223fd9a7b753a4f84ece6469ab" title="Method returns true, if symbol is a derivative canonical symbol" alt="" coords="303,71,549,98"/>
+<area shape="rect" id="node5" href="$classQuantConnect_1_1Messages_1_1FuncSecuritySeeder.html#aae27508d5e64624172ac4f9b2d35dac4" title="Returns a string message with basic information about the given BaseData object" alt="" coords="301,123,551,164"/>
+<area shape="rect" id="node6" href="$classQuantConnect_1_1Securities_1_1Security.html#adaeacf247e436705df3ce4a3244ee073" title="Update any security properties based on the latest market data and time" alt="" coords="333,188,519,229"/>
+<area shape="rect" id="node9" href="$classQuantConnect_1_1Logging_1_1Log.html#a4e55477fbc790846b74550a57198cea9" title="Log trace" alt="" coords="326,253,526,295"/>
+<area shape="rect" id="node11" href="$classQuantConnect_1_1Messages_1_1FuncSecuritySeeder.html#a4379eb0dc64361e9d385f5d5ea52465a" title="Returns a string message saying it was impossible to seed price for the given security" alt="" coords="292,319,560,360"/>
+<area shape="rect" id="node12" href="$classQuantConnect_1_1Messages_1_1FuncSecuritySeeder.html#a711ad8d4191958b63922e0e497983f22" title="Returns a string message saying it was impossible to seed the given security" alt="" coords="292,384,560,425"/>
+<area shape="rect" id="node3" href="$interfaceQuantConnect_1_1Logging_1_1ILogHandler.html#a2c738b8e78dd5b54244bc68b969ba91d" title="Write debug message to log" alt="" coords="608,5,808,47"/>
+<area shape="rect" id="node7" href="$classQuantConnect_1_1Securities_1_1SecurityCache.html#a306a1a4267b478aae7ddcbea69a16dcb" title="Add a new market data point to the local security cache for the current market price...." alt="" coords="615,188,801,229"/>
+<area shape="rect" id="node8" href="$classQuantConnect_1_1Securities_1_1SecurityCache.html#a50f2c7ac45a816c462ec67e944a6100e" title="Will consume the given data point updating the cache state and it&#39;s properties" alt="" coords="856,188,1089,229"/>
+<area shape="rect" id="node10" href="$interfaceQuantConnect_1_1Logging_1_1ILogHandler.html#a3fb71a33ac66129240b63f12b6fcda3b" title="Write debug message to log" alt="" coords="608,253,808,295"/>
+</map>

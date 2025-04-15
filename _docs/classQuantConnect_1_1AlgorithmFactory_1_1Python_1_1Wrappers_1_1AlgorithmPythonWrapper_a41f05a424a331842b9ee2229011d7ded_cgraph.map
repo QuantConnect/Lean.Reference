@@ -1,0 +1,4 @@
+<map id="QuantConnect.AlgorithmFactory.Python.Wrappers.AlgorithmPythonWrapper.OnMarginCall" name="QuantConnect.AlgorithmFactory.Python.Wrappers.AlgorithmPythonWrapper.OnMarginCall">
+<area shape="rect" id="node1" title="Margin call event handler. This method is called right before the margin call orders are placed in th..." alt="" coords="5,5,309,61"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Python_1_1BasePythonWrapper.html#a05fa6adc417fbc2930f9bb95c91af17a" title="Invokes the specified method with the specified arguments" alt="" coords="357,5,563,61"/>
+</map>

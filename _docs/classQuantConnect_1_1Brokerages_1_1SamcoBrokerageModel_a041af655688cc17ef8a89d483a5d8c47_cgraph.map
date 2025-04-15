@@ -1,0 +1,4 @@
+<map id="QuantConnect.Brokerages.SamcoBrokerageModel.GetLeverage" name="QuantConnect.Brokerages.SamcoBrokerageModel.GetLeverage">
+<area shape="rect" id="node1" title="Samco global leverage rule" alt="" coords="5,13,264,54"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Messages_1_1DefaultBrokerageModel.html#acff8666f85c6f2e7801e861b6bd9dfeb" title="Returns a string message saying the type of the given security is invalid" alt="" coords="312,5,571,61"/>
+</map>

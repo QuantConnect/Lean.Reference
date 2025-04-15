@@ -1,0 +1,8 @@
+<map id="QuantConnect.Orders.OrderResponse.UnableToFindOrder" name="QuantConnect.Orders.OrderResponse.UnableToFindOrder">
+<area shape="rect" id="node1" title="Helper method to create an error response due to a bad order id" alt="" coords="951,63,1163,104"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Lean_1_1Engine_1_1TransactionHandlers_1_1BrokerageTransactionHandler.html#afb049bcccdaba6992bd31bf91280d9a9" title="Remove this order from outstanding queue: user is requesting a cancel." alt="" coords="352,16,651,72"/>
+<area shape="rect" id="node4" href="$classQuantConnect_1_1Orders_1_1OrderTicket.html#a2e38fdbc2be3fab72339de9ce4447818" title="Creates a new OrderTicket that represents trying to cancel an order for which no ticket exists" alt="" coords="700,30,901,71"/>
+<area shape="rect" id="node5" href="$classQuantConnect_1_1Orders_1_1OrderTicket.html#ac5c45504b60e43e1c8295e739ea5a797" title="Creates a new OrderTicket that represents trying to update an order for which no ticket exists" alt="" coords="699,95,903,136"/>
+<area shape="rect" id="node6" href="$classQuantConnect_1_1Lean_1_1Engine_1_1TransactionHandlers_1_1BrokerageTransactionHandler.html#a1a38e71d6ea75fe654d365cb6b7501d2" title="Update an order yet to be filled such as stop or limit orders." alt="" coords="352,96,651,152"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Lean_1_1Engine_1_1TransactionHandlers_1_1BrokerageTransactionHandler.html#ad7914edfb9b6e24fcbcd637e2c468cd5" title="Adds the specified order to be processed" alt="" coords="5,56,304,112"/>
+</map>

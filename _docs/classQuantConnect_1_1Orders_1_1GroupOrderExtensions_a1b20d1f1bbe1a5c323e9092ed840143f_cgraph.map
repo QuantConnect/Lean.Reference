@@ -1,0 +1,4 @@
+<map id="QuantConnect.Orders.GroupOrderExtensions.TryGetGroupOrdersSecurities" name="QuantConnect.Orders.GroupOrderExtensions.TryGetGroupOrdersSecurities">
+<area shape="rect" id="node1" title="Gets the securities corresponding to each order in the group" alt="" coords="5,5,263,61"/>
+<area shape="rect" id="node2" href="$interfaceQuantConnect_1_1Securities_1_1ISecurityProvider.html#a976e640809f6a3f18f769225a8a4668f" title="Retrieves a summary of the holdings for the specified symbol" alt="" coords="311,13,523,54"/>
+</map>

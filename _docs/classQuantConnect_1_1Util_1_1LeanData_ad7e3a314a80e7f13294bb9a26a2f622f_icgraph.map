@@ -1,0 +1,6 @@
+<map id="QuantConnect.Util.LeanData.OptionUseScaleFactor" name="QuantConnect.Util.LeanData.OptionUseScaleFactor">
+<area shape="rect" id="node1" title="Helper method that defines the types of options that should use scale factor" alt="" coords="507,39,717,80"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Data_1_1Market_1_1QuoteBar.html#a754b1bf6f48a95cebdabb6bc1f1d9f59" title="Parse a quotebar representing an option with a scaling factor" alt="" coords="256,5,459,47"/>
+<area shape="rect" id="node4" href="$classQuantConnect_1_1Data_1_1Market_1_1TradeBar.html#a79f03bf29ccf061006d69c63f98f06f4" title="Parses Option trade bar data into the specified tradebar type, useful for custom types with OHLCV dat..." alt="" coords="256,71,459,112"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Data_1_1Market_1_1QuoteBar.html#af5ac99ffad0b49ced63917ce753839c2" title="QuoteBar Reader: Fetch the data from the QC storage and feed it line by line into the engine." alt="" coords="5,5,208,47"/>
+</map>

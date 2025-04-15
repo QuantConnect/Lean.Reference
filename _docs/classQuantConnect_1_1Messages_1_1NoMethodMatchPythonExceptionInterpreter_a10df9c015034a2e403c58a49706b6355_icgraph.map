@@ -1,0 +1,4 @@
+<map id="QuantConnect.Messages.NoMethodMatchPythonExceptionInterpreter.AttemptedToAccessMethodThatDoesNotExist" name="QuantConnect.Messages.NoMethodMatchPythonExceptionInterpreter.AttemptedToAccessMethodThatDoesNotExist">
+<area shape="rect" id="node1" title="Returns a string message saying the given method does not exists. It also contains the exception thro..." alt="" coords="292,5,608,61"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Exceptions_1_1NoMethodMatchPythonExceptionInterpreter.html#a6fb608a4f3250654f784b8d749c0c83d" title="Interprets the specified exception into a new exception" alt="" coords="5,5,244,61"/>
+</map>

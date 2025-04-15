@@ -1,0 +1,4 @@
+<map id="QuantConnect.Messages.OrderTicket.GetFieldError" name="QuantConnect.Messages.OrderTicket.GetFieldError">
+<area shape="rect" id="node1" title="Returns a string message saying it was impossible to get the given field on the order type from the g..." alt="" coords="255,5,477,47"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Orders_1_1OrderTicket.html#abb6fac00a08a81c68ae89e7f7767a5ad" title="Gets the specified field from the ticket and tries to convert it to the specified type" alt="" coords="5,5,207,47"/>
+</map>

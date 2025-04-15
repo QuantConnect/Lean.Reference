@@ -1,0 +1,5 @@
+<map id="QuantConnect.Lean.Engine.DataFeeds.Enumerators.AuxiliaryDataEnumerator" name="QuantConnect.Lean.Engine.DataFeeds.Enumerators.AuxiliaryDataEnumerator">
+<area shape="rect" id="node1" title="Auxiliary data enumerator that will, initialize and call the ITradableDateEventProvider...." alt="" coords="19,80,259,136"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Lean_1_1Engine_1_1DataFeeds_1_1Enumerators_1_1LiveAuxiliaryDataEnumerator.html" title="Auxiliary data enumerator that will trigger new tradable dates event accordingly" alt="" coords="5,184,272,240"/>
+<area shape="rect" id="node2" title=" " alt="" coords="41,5,236,32"/>
+</map>

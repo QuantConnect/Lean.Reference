@@ -1,0 +1,4 @@
+<map id="QuantConnect.Data.Auxiliary.MapFileResolver.GetByPermtick" name="QuantConnect.Data.Auxiliary.MapFileResolver.GetByPermtick">
+<area shape="rect" id="node1" title="Gets the map file matching the specified permtick" alt="" coords="320,5,551,47"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Data_1_1Auxiliary_1_1FactorFileZipHelper.html#a7421a7e86d841da71394504ce13f3eaf" title="Reads the zip bytes as text and parses as FactorFileRows to create FactorFiles" alt="" coords="5,5,272,47"/>
+</map>

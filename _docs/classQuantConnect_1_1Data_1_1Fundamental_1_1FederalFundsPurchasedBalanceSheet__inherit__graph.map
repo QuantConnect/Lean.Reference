@@ -1,0 +1,5 @@
+<map id="QuantConnect.Data.Fundamental.FederalFundsPurchasedBalanceSheet" name="QuantConnect.Data.Fundamental.FederalFundsPurchasedBalanceSheet">
+<area shape="rect" id="node1" title="The amount borrowed by a bank, at the federal funds rate, from another bank to meet its reserve requi..." alt="" coords="5,155,269,196"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Data_1_1Fundamental_1_1MultiPeriodField.html" title="Abstract base class for multi&#45;period fields" alt="" coords="74,80,201,107"/>
+<area shape="rect" id="node3" title=" " alt="" coords="59,5,216,32"/>
+</map>

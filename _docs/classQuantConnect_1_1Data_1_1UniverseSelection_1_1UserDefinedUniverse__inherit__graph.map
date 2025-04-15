@@ -1,0 +1,10 @@
+<map id="QuantConnect.Data.UniverseSelection.UserDefinedUniverse" name="QuantConnect.Data.UniverseSelection.UserDefinedUniverse">
+<area shape="rect" id="node1" title="Represents the universe defined by the user&#39;s algorithm. This is the default universe where manually ..." alt="" coords="387,71,611,112"/>
+<area shape="rect" id="node6" href="$classQuantConnect_1_1Algorithm_1_1Framework_1_1Selection_1_1CustomUniverse.html" title="Defines a universe as a set of dynamically set symbols." alt="" coords="659,5,921,47"/>
+<area shape="rect" id="node7" href="$classQuantConnect_1_1Algorithm_1_1Framework_1_1Selection_1_1ManualUniverse.html" title="Defines a universe as a set of manually set symbols. This differs from UserDefinedUniverse in that th..." alt="" coords="659,71,921,112"/>
+<area shape="rect" id="node8" href="$classQuantConnect_1_1Algorithm_1_1Selection_1_1OptionContractUniverse.html" title="This universe will hold single option contracts and their underlying, managing removals and additions" alt="" coords="665,136,915,177"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Data_1_1UniverseSelection_1_1Universe.html" title="Provides a base class for all universes to derive from." alt="" coords="205,27,285,54"/>
+<area shape="rect" id="node3" title=" " alt="" coords="5,27,104,54"/>
+<area shape="rect" id="node4" title=" " alt="" coords="152,78,339,105"/>
+<area shape="rect" id="node5" href="$interfaceQuantConnect_1_1Data_1_1UniverseSelection_1_1ITimeTriggeredUniverse.html" title="A universe implementing this interface will NOT use it&#39;s SubscriptionDataConfig to generate data that..." alt="" coords="157,129,334,155"/>
+</map>

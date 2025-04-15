@@ -1,0 +1,5 @@
+<map id="QuantConnect.Data.Fundamental.ResearchAndDevelopmentExpensesSupplementalIncomeStatement" name="QuantConnect.Data.Fundamental.ResearchAndDevelopmentExpensesSupplementalIncomeStatement">
+<area shape="rect" id="node1" title="The aggregate amount of research and development expenses during the year. It is a supplemental value..." alt="" coords="5,155,352,211"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Data_1_1Fundamental_1_1MultiPeriodField.html" title="Abstract base class for multi&#45;period fields" alt="" coords="115,80,242,107"/>
+<area shape="rect" id="node3" title=" " alt="" coords="100,5,257,32"/>
+</map>

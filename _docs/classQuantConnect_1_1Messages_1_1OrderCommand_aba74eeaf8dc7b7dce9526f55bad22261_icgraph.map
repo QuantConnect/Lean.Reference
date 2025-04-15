@@ -1,0 +1,4 @@
+<map id="QuantConnect.Messages.OrderCommand.CommandInfo" name="QuantConnect.Messages.OrderCommand.CommandInfo">
+<area shape="rect" id="node1" title="Returns a string message with basic information about a command, such us: order type,..." alt="" coords="285,5,508,47"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Commands_1_1OrderCommand.html#a9076463d1b93e18f452219182b25f721" title="Runs this command against the specified algorithm instance" alt="" coords="5,5,237,47"/>
+</map>

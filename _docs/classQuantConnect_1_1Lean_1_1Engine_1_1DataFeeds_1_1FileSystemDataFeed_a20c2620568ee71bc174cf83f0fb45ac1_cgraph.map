@@ -1,0 +1,11 @@
+<map id="QuantConnect.Lean.Engine.DataFeeds.FileSystemDataFeed.ConfigureEnumerator" name="QuantConnect.Lean.Engine.DataFeeds.FileSystemDataFeed.ConfigureEnumerator">
+<area shape="rect" id="node1" title="Configure the enumerator with aggregation/fill&#45;forward/filter behaviors. Returns new instance if re&#45;c..." alt="" coords="5,144,300,200"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Lean_1_1Engine_1_1DataFeeds_1_1FileSystemDataFeed.html#a03afe9ed0b4f26f8e96d890fd0b17d1c" title="Will add a fill forward enumerator if requested" alt="" coords="353,79,605,135"/>
+<area shape="rect" id="node5" href="$classQuantConnect_1_1Lean_1_1Engine_1_1DataFeeds_1_1Enumerators_1_1SubscriptionFilterEnumerator.html#a489162658ae5cb3ea3b12e66b104a3f2" title="Convenience method to wrap the enumerator and attach the data filter event to log and alery users of ..." alt="" coords="348,184,611,240"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Lean_1_1Engine_1_1DataFeeds_1_1SubscriptionCollection.html#a003d18530854d890b5c0733ff10a6f35" title="Gets and updates the fill forward resolution by checking specified subscription configurations and se..." alt="" coords="691,5,949,61"/>
+<area shape="rect" id="node4" href="$classQuantConnect_1_1Util_1_1LeanData.html#a45d5455942a1261f332547548a7682d9" title="Helper method to determine if we should use strict end time" alt="" coords="715,86,925,127"/>
+<area shape="rect" id="node6" href="$classQuantConnect_1_1Logging_1_1Log.html#af0e7955911bc7664b37661b2a303a9e3" title="Log error" alt="" coords="720,151,920,193"/>
+<area shape="rect" id="node8" href="$interfaceQuantConnect_1_1Lean_1_1Engine_1_1Results_1_1IResultHandler.html#a39001e16aa61bfdefb3f42503e46cf06" title="Send a runtime error message back to the browser highlighted with in red" alt="" coords="691,217,949,258"/>
+<area shape="rect" id="node9" href="$classQuantConnect_1_1Lean_1_1Engine_1_1DataFeeds_1_1Enumerators_1_1SubscriptionFilterEnumerator.html#ab41f26d23f7f81622f4cb448eb9fdcee" title="Initializes a new instance of the SubscriptionFilterEnumerator class" alt="" coords="659,283,981,339"/>
+<area shape="rect" id="node7" href="$interfaceQuantConnect_1_1Logging_1_1ILogHandler.html#a35373a0c5d76031fa5ccf5dc39e5c25d" title="Write error message to log" alt="" coords="1029,151,1229,193"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="QuantConnect.Lean.Engine.DataFeeds.TextSubscriptionDataSourceReader.SetCacheSize" name="QuantConnect.Lean.Engine.DataFeeds.TextSubscriptionDataSourceReader.SetCacheSize">
+<area shape="rect" id="node1" title="Set the cache size to use" alt="" coords="5,5,239,61"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Logging_1_1Log.html#a4e55477fbc790846b74550a57198cea9" title="Log trace" alt="" coords="287,13,487,54"/>
+<area shape="rect" id="node3" href="$interfaceQuantConnect_1_1Logging_1_1ILogHandler.html#a3fb71a33ac66129240b63f12b6fcda3b" title="Write debug message to log" alt="" coords="535,13,735,54"/>
+</map>

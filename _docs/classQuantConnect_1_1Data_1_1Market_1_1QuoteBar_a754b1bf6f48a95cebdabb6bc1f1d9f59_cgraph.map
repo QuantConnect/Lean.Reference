@@ -1,0 +1,4 @@
+<map id="QuantConnect.Data.Market.QuoteBar.ParseOption" name="QuantConnect.Data.Market.QuoteBar.ParseOption">
+<area shape="rect" id="node1" title="Parse a quotebar representing an option with a scaling factor" alt="" coords="5,5,208,47"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Util_1_1LeanData.html#ad7e3a314a80e7f13294bb9a26a2f622f" title="Helper method that defines the types of options that should use scale factor" alt="" coords="256,5,467,47"/>
+</map>

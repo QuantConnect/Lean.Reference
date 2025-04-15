@@ -1,0 +1,6 @@
+<map id="QuantConnect.Api.Api" name="QuantConnect.Api.Api">
+<area shape="rect" id="node1" title="QuantConnect.com Interaction Via API." alt="" coords="33,155,197,181"/>
+<area shape="rect" id="node2" href="$interfaceQuantConnect_1_1Interfaces_1_1IApi.html" title="API for QuantConnect.com" alt="" coords="31,80,78,107"/>
+<area shape="rect" id="node3" title=" " alt="" coords="5,5,104,32"/>
+<area shape="rect" id="node4" href="$interfaceQuantConnect_1_1Interfaces_1_1IDownloadProvider.html" title="Wrapper on the API for downloading data for an algorithm." alt="" coords="102,80,247,107"/>
+</map>

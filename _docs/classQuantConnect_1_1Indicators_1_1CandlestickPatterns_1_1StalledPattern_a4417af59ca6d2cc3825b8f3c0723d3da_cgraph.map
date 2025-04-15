@@ -1,0 +1,4 @@
+<map id="QuantConnect.Indicators.CandlestickPatterns.StalledPattern.StalledPattern" name="QuantConnect.Indicators.CandlestickPatterns.StalledPattern.StalledPattern">
+<area shape="rect" id="node1" title="Initializes a new instance of the StalledPattern class using the specified name." alt="" coords="5,5,256,61"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Indicators_1_1CandlestickPatterns_1_1CandleSettings.html#a1e65d2caf61e018e94574519fee75620" title="Returns the candle setting for the requested type" alt="" coords="304,13,584,54"/>
+</map>

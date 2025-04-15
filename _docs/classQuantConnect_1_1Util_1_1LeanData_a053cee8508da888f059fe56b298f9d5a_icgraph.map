@@ -1,0 +1,5 @@
+<map id="QuantConnect.Util.LeanData.SupportsExtendedMarketHours" name="QuantConnect.Util.LeanData.SupportsExtendedMarketHours">
+<area shape="rect" id="node1" title="Helper method to determine if the specified data type supports extended market hours" alt="" coords="308,39,531,80"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Data_1_1HistoryRequestFactory.html#a76f5a4548714e2abf1a8c2d7e0664564" title="Gets the start time required for the specified bar count in terms of the algorithm&#39;s time zone" alt="" coords="5,5,260,47"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Data_1_1SubscriptionDataConfig.html#ac87fc7dd4aacf4db93b9e532394a0a1e" title="Constructor for Data Subscriptions" alt="" coords="7,71,258,112"/>
+</map>

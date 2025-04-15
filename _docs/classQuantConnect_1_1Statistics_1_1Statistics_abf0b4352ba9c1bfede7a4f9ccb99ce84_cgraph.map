@@ -1,0 +1,8 @@
+<map id="QuantConnect.Statistics.Statistics.SortinoRatio" name="QuantConnect.Statistics.Statistics.SortinoRatio">
+<area shape="rect" id="node1" title="Sortino ratio with respect to risk free rate: measures excess of return per unit of downside risk." alt="" coords="5,86,188,127"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Statistics_1_1Statistics.html#a18dd1fb0667d8701fdf3995fb9d65913" title="Annualized downside standard deviation" alt="" coords="236,5,489,61"/>
+<area shape="rect" id="node5" href="$classQuantConnect_1_1Statistics_1_1Statistics.html#a563e05af5c4e84fd8174a44abedfcad7" title="Annualized return statistic calculated as an average of daily trading performance multiplied by the n..." alt="" coords="255,86,470,127"/>
+<area shape="rect" id="node6" href="$classQuantConnect_1_1Statistics_1_1Statistics.html#abd9c7eead3548d9a4765abefa42f1b3f" title="Sharpe ratio with respect to risk free rate: measures excess of return per unit of risk." alt="" coords="271,151,454,193"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Statistics_1_1Statistics.html#a670cedaa29864eaa7d488cd2f6885bc6" title="Annualized variance statistic calculation using the daily performance variance and trading days per y..." alt="" coords="537,13,788,54"/>
+<area shape="rect" id="node4" href="$classQuantConnect_1_1Statistics_1_1Statistics.html#a351c06d27f5c5fed38d503c7f965978f" title="Annualized variance statistic calculation using the daily performance variance and trading days per y..." alt="" coords="836,13,1023,54"/>
+</map>

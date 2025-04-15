@@ -1,0 +1,6 @@
+<map id="QuantConnect.Securities.Option.OptionStrategies.JellyRoll" name="QuantConnect.Securities.Option.OptionStrategies.JellyRoll">
+<area shape="rect" id="node1" title="Creates new Jelly Roll strategy which combines a long call calendar spread and a short put calendar s..." alt="" coords="5,53,240,94"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Securities_1_1Option_1_1OptionStrategies.html#a3a95817e17db0ad052cfb383dc51cb4a" title="Creates new Call Calendar Spread strategy which consists of a short and a long call with the same str..." alt="" coords="293,5,499,61"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Securities_1_1Option_1_1OptionStrategies.html#a1e8a14739aac68ff9a709e028fa34f12" title="Creates new Short Put Calendar Spread strategy which consists of a short and a long put with the same..." alt="" coords="288,85,504,141"/>
+<area shape="rect" id="node4" href="$classQuantConnect_1_1Securities_1_1Option_1_1OptionStrategies.html#a38c4025416082f438ecc0d45ae254ade" title="Creates new Put Calendar Spread strategy which consists of a short and a long put with the same strik..." alt="" coords="552,85,813,141"/>
+</map>

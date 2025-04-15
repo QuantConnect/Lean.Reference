@@ -1,0 +1,5 @@
+<map id="QuantConnect.SeriesSampler.Sample" name="QuantConnect.SeriesSampler.Sample">
+<area shape="rect" id="node1" title="Samples the given series" alt="" coords="531,5,745,47"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1SeriesSampler.html#a7cf39865a5678e6bea600eb8d9d9989f" title="Samples the given chart" alt="" coords="268,5,483,47"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1SeriesSampler.html#aff66bac198388ae131b4d6ca295fd05f" title="Samples the given charts" alt="" coords="5,5,220,47"/>
+</map>

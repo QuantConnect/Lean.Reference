@@ -1,0 +1,4 @@
+<map id="QuantConnect.Indicators.AverageTrueRange.ComputeTrueRange" name="QuantConnect.Indicators.AverageTrueRange.ComputeTrueRange">
+<area shape="rect" id="node1" title="Computes the TrueRange from the current and previous trade bars" alt="" coords="321,5,596,47"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Indicators_1_1AverageTrueRange.html#a44614cfa1a74e87140f5dfd8544a577c" title="Creates a new AverageTrueRange indicator using the specified period and moving average type" alt="" coords="5,5,273,47"/>
+</map>

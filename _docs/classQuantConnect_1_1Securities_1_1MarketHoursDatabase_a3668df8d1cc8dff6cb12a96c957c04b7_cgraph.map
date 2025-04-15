@@ -1,0 +1,7 @@
+<map id="QuantConnect.Securities.MarketHoursDatabase.SetEntryAlwaysOpen" name="QuantConnect.Securities.MarketHoursDatabase.SetEntryAlwaysOpen">
+<area shape="rect" id="node1" title="Convenience method for the common custom data case. Sets the entry for the specified symbol using Sec..." alt="" coords="5,69,232,125"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Securities_1_1SecurityExchangeHours.html#af6f527fdfc92b5801026340fd4114a4a" title="Gets a SecurityExchangeHours instance that is always open" alt="" coords="280,43,541,84"/>
+<area shape="rect" id="node5" href="$classQuantConnect_1_1Securities_1_1MarketHoursDatabase.html#a2425acdf83abbd16218a008643c7edbe" title="Sets the entry for the specified market/symbol/security&#45;type. This is intended to be used by custom d..." alt="" coords="297,108,524,149"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Securities_1_1LocalMarketHours.html#a7b62571672b229cdd9f8a676984cab84" title="Gets a LocalMarketHours instance that is always open" alt="" coords="596,5,816,47"/>
+<area shape="rect" id="node4" href="$classQuantConnect_1_1Securities_1_1SecurityExchangeHours.html#a215edeaa42c95736dc83e5b21123d70d" title="Initializes a new instance of the SecurityExchangeHours class" alt="" coords="589,71,823,127"/>
+</map>

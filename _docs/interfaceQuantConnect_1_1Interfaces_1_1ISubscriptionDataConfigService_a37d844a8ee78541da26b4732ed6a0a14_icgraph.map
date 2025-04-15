@@ -1,0 +1,10 @@
+<map id="QuantConnect.Interfaces.ISubscriptionDataConfigService.Add" name="QuantConnect.Interfaces.ISubscriptionDataConfigService.Add">
+<area shape="rect" id="node1" title="Creates and adds a list of SubscriptionDataConfig for a given symbol and configuration...." alt="" coords="648,132,903,173"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Data_1_1SubscriptionManager.html#ae9d4290c0ac2c2f2ccd2f37e8b8320c4" title="Add Market Data Required &#45; generic data typing support as long as Type implements BaseData." alt="" coords="347,8,580,49"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Algorithm_1_1QCAlgorithm.html#a0f7ec3a574e47b4ac26448590c4ef685" title="Creates and adds a new single Option contract to the algorithm" alt="" coords="327,73,600,115"/>
+<area shape="rect" id="node6" href="$classQuantConnect_1_1Algorithm_1_1QCAlgorithm.html#afcdaf47586751fe6105f43d044b7cf70" title="Set a required SecurityType&#45;symbol and resolution for algorithm" alt="" coords="5,136,279,177"/>
+<area shape="rect" id="node7" href="$classQuantConnect_1_1Securities_1_1Cash.html#a8af2f228ffa12236fec72d5458a031fc" title="Ensures that we have a data feed to convert this currency into the base currency. This will add a Sub..." alt="" coords="352,191,575,232"/>
+<area shape="rect" id="node8" href="$classQuantConnect_1_1Data_1_1UniverseSelection_1_1Universe.html#a74ac39846d09cd3952352afd1fa325a3" title="Gets the subscription requests to be added for the specified security" alt="" coords="338,257,589,313"/>
+<area shape="rect" id="node4" href="$classQuantConnect_1_1Algorithm_1_1QCAlgorithm.html#ada6451c3b45f03209b586c6bc661ccb0" title="Adds a future option contract to the algorithm." alt="" coords="5,5,279,47"/>
+<area shape="rect" id="node5" href="$classQuantConnect_1_1Algorithm_1_1QCAlgorithm.html#a87673f13f7831209b9cea29f860d63c3" title="Adds an index option contract to the algorithm." alt="" coords="5,71,279,112"/>
+</map>

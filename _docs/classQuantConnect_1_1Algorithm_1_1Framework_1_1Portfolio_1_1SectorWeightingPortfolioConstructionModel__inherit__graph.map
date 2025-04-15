@@ -1,0 +1,7 @@
+<map id="QuantConnect.Algorithm.Framework.Portfolio.SectorWeightingPortfolioConstructionModel" name="QuantConnect.Algorithm.Framework.Portfolio.SectorWeightingPortfolioConstructionModel">
+<area shape="rect" id="node1" title="Provides an implementation of IPortfolioConstructionModel that generates percent targets based on the..." alt="" coords="5,319,369,360"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Algorithm_1_1Framework_1_1Portfolio_1_1EqualWeightingPortfolioConstructionModel.html" title="Provides an implementation of IPortfolioConstructionModel that gives equal weighting to all securitie..." alt="" coords="57,229,317,271"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Algorithm_1_1Framework_1_1Portfolio_1_1PortfolioConstructionModel.html" title="Provides a base class for portfolio construction models" alt="" coords="88,155,287,181"/>
+<area shape="rect" id="node4" href="$interfaceQuantConnect_1_1Algorithm_1_1Framework_1_1Portfolio_1_1IPortfolioConstructionModel.html" title="Algorithm framework model that" alt="" coords="86,80,289,107"/>
+<area shape="rect" id="node5" href="$interfaceQuantConnect_1_1Algorithm_1_1Framework_1_1INotifiedSecurityChanges.html" title="Types implementing this interface will be called when the algorithm&#39;s set of securities changes" alt="" coords="94,5,281,32"/>
+</map>

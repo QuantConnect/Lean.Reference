@@ -1,0 +1,7 @@
+<map id="QuantConnect.Messages.OrderResponse.InvalidNewStatus" name="QuantConnect.Messages.OrderResponse.InvalidNewStatus">
+<area shape="rect" id="node1" title="Returns a string message saying it was impossible to update or cancel the order with the id from the ..." alt="" coords="949,53,1172,94"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Orders_1_1OrderResponse.html#a9861e49e902d763e9f79131a8646adac" title="Helper method to create an error response due to the &quot;New&quot; order status" alt="" coords="699,53,901,94"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Lean_1_1Engine_1_1TransactionHandlers_1_1BrokerageTransactionHandler.html#afb049bcccdaba6992bd31bf91280d9a9" title="Remove this order from outstanding queue: user is requesting a cancel." alt="" coords="352,5,651,61"/>
+<area shape="rect" id="node5" href="$classQuantConnect_1_1Lean_1_1Engine_1_1TransactionHandlers_1_1BrokerageTransactionHandler.html#a1a38e71d6ea75fe654d365cb6b7501d2" title="Update an order yet to be filled such as stop or limit orders." alt="" coords="352,85,651,141"/>
+<area shape="rect" id="node4" href="$classQuantConnect_1_1Lean_1_1Engine_1_1TransactionHandlers_1_1BrokerageTransactionHandler.html#ad7914edfb9b6e24fcbcd637e2c468cd5" title="Adds the specified order to be processed" alt="" coords="5,45,304,101"/>
+</map>

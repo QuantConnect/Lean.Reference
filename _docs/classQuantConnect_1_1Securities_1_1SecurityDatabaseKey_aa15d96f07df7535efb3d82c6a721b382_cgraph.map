@@ -1,0 +1,4 @@
+<map id="QuantConnect.Securities.SecurityDatabaseKey.ToString" name="QuantConnect.Securities.SecurityDatabaseKey.ToString">
+<area shape="rect" id="node1" title="Returns a string that represents the current object." alt="" coords="5,5,220,47"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Messages_1_1SecurityDatabaseKey.html#a5ee33e4b67ee8bb820151fe182979705" title="Parses a SecurityDatabaseKey into a string message with basic information about it" alt="" coords="268,5,508,47"/>
+</map>

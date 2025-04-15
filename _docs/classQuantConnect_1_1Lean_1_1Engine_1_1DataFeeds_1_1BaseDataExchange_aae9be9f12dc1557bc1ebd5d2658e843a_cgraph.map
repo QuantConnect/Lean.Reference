@@ -1,0 +1,5 @@
+<map id="QuantConnect.Lean.Engine.DataFeeds.BaseDataExchange.Start" name="QuantConnect.Lean.Engine.DataFeeds.BaseDataExchange.Start">
+<area shape="rect" id="node1" title="Begins consumption of the wrapped IDataQueueHandler on a separate thread" alt="" coords="5,5,261,47"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Logging_1_1Log.html#a4e55477fbc790846b74550a57198cea9" title="Log trace" alt="" coords="309,5,509,47"/>
+<area shape="rect" id="node3" href="$interfaceQuantConnect_1_1Logging_1_1ILogHandler.html#a3fb71a33ac66129240b63f12b6fcda3b" title="Write debug message to log" alt="" coords="557,5,757,47"/>
+</map>

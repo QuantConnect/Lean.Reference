@@ -1,0 +1,8 @@
+<map id="QuantConnect.Securities.SecurityPortfolioManager.GetMarginRemaining" name="QuantConnect.Securities.SecurityPortfolioManager.GetMarginRemaining">
+<area shape="rect" id="node1" title="Gets the remaining margin on the account in the account&#39;s currency for the given total portfolio valu..." alt="" coords="653,125,867,181"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Securities_1_1BuyingPowerModelExtensions.html#aa9a88c852eabedc9c09554e0700638ec" title="Helper method to determine if the requested quantity is above the algorithm minimum order margin port..." alt="" coords="312,5,605,61"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Securities_1_1SecurityPortfolioManager.html#a11dc17da44c73d4a5b6f17a113ddeb64" title="Gets the margin available for trading a specific symbol in a specific direction. Alias for GetMarginR..." alt="" coords="352,85,565,141"/>
+<area shape="rect" id="node4" href="$classQuantConnect_1_1Securities_1_1DefaultMarginCallModel.html#a9009415ee21ef27ddfd58b88bf6e48bf" title="Scan the portfolio and the updated data for a potential margin call situation which may get the holdi..." alt="" coords="333,165,585,221"/>
+<area shape="rect" id="node5" href="$classQuantConnect_1_1Securities_1_1BuyingPowerModel.html#acee98f5dcfa62192bbc96f94824dbe50" title="Gets the margin cash available for a trade" alt="" coords="314,246,603,287"/>
+<area shape="rect" id="node6" href="$classQuantConnect_1_1Securities_1_1BuyingPowerModel.html#a7b18b0d8ef69d3097f4fd1694cd5c260" title="Gets the buying power available for a trade" alt="" coords="5,246,264,287"/>
+</map>

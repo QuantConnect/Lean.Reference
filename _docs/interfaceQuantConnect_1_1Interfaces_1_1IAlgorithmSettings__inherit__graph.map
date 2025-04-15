@@ -1,0 +1,4 @@
+<map id="QuantConnect.Interfaces.IAlgorithmSettings" name="QuantConnect.Interfaces.IAlgorithmSettings">
+<area shape="rect" id="node1" title="User settings for the algorithm which can be changed in the IAlgorithm.Initialize method" alt="" coords="29,5,216,47"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1AlgorithmSettings.html" title="This class includes user settings for the algorithm which can be changed in the IAlgorithm...." alt="" coords="5,95,240,121"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="QuantConnect.Messages.DefaultBrokerageMessageHandler.BrokerageWarning" name="QuantConnect.Messages.DefaultBrokerageMessageHandler.BrokerageWarning">
+<area shape="rect" id="node1" title="Returns a string message warning from the given message event" alt="" coords="301,5,568,61"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Brokerages_1_1DefaultBrokerageMessageHandler.html#ad83d56fb469c9bd8947030a8fbe70922" title="Handles the message" alt="" coords="5,5,253,61"/>
+</map>

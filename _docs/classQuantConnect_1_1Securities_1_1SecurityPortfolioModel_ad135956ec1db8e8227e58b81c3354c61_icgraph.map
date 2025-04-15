@@ -1,0 +1,4 @@
+<map id="QuantConnect.Securities.SecurityPortfolioModel.ProcessCloseTradeProfit" name="QuantConnect.Securities.SecurityPortfolioModel.ProcessCloseTradeProfit">
+<area shape="rect" id="node1" title="Helper method to determine the close trade profit" alt="" coords="296,5,520,61"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Securities_1_1SecurityPortfolioModel.html#a5fec18e0e959a173c5fbb6187ab56f7c" title="Performs application of an OrderEvent to the portfolio" alt="" coords="5,13,248,54"/>
+</map>

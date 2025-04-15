@@ -1,0 +1,9 @@
+<map id="QuantConnect.Orders.OrderSizing.AdjustByLotSize" name="QuantConnect.Orders.OrderSizing.AdjustByLotSize">
+<area shape="rect" id="node1" title="Adjusts the provided order quantity to respect the securities lot size. If the quantity is missing 1M..." alt="" coords="659,122,860,163"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Orders_1_1OrderSizing.html#a3e48c76e210bb2b4146ac9597990e3f0" title="Adjust the provided order size to respect the maximum total order value" alt="" coords="337,19,611,61"/>
+<area shape="rect" id="node4" href="$classQuantConnect_1_1Orders_1_1OrderSizing.html#a7330ef57815b43091812652a2ca8eba9" title="Adjust the provided order size to respect maximum order size based on a percentage of current volume." alt="" coords="339,89,609,130"/>
+<area shape="rect" id="node6" href="$classQuantConnect_1_1Orders_1_1OrderSizing.html#a2ee0b0a2af935521e2752f60ae2ee2bf" title="Gets the remaining quantity to be ordered to reach the specified target quantity." alt="" coords="368,154,580,195"/>
+<area shape="rect" id="node7" href="$classQuantConnect_1_1Extensions.html#ad61bf8062f8b312611ac055c580d05f0" title="Returns an ordered enumerable where position reducing orders are executed first and the remaining ord..." alt="" coords="368,219,580,261"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Algorithm_1_1Framework_1_1Execution_1_1StandardDeviationExecutionModel.html#a7b2f5bc880cedfe6ed0c30cdc5c9df17" title="Executes market orders if the standard deviation of price is more than the configured number of devia..." alt="" coords="11,5,284,61"/>
+<area shape="rect" id="node5" href="$classQuantConnect_1_1Algorithm_1_1Framework_1_1Execution_1_1VolumeWeightedAveragePriceExecutionModel.html#ae0bd79cb99f23a4180fce80f263ec671" title="Submit orders for the specified portfolio targets. This model is free to delay or spread out these or..." alt="" coords="5,85,289,141"/>
+</map>

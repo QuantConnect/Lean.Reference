@@ -1,0 +1,6 @@
+<map id="QuantConnect.Indicators.AutoRegressiveIntegratedMovingAverage.ComputeNextValue" name="QuantConnect.Indicators.AutoRegressiveIntegratedMovingAverage.ComputeNextValue">
+<area shape="rect" id="node1" title="Forecasts the series of the fitted model one point ahead." alt="" coords="5,45,244,101"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Indicators_1_1TimeSeriesIndicator.html#a2732a601c1c116d4494919b5836fb4cf" title="Differences a time series d times." alt="" coords="320,5,543,61"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Indicators_1_1TimeSeriesIndicator.html#ad719d81f193d2f79632a31562fead587" title="Undoes the differencing of a time series which has been differenced using DifferenceSeries...." alt="" coords="292,85,571,141"/>
+<area shape="rect" id="node4" href="$classQuantConnect_1_1Indicators_1_1TimeSeriesIndicator.html#ae9cfab2b6d30a3cbb90ddf78734e012c" title="Returns a series where each spot is taken by the cumulative sum of all points up to and including the..." alt="" coords="619,93,877,134"/>
+</map>

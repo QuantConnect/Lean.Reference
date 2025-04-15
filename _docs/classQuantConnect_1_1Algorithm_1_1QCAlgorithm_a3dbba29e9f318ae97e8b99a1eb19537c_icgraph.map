@@ -1,0 +1,7 @@
+<map id="QuantConnect.Algorithm.QCAlgorithm.CreateDateRangeHistoryRequests" name="QuantConnect.Algorithm.QCAlgorithm.CreateDateRangeHistoryRequests">
+<area shape="rect" id="node1" title="Helper method to create history requests from a date range" alt="" coords="327,104,600,145"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Algorithm_1_1QCAlgorithm.html#a4a081c1d52f73c2cf8d54ef5edb95cd1" title="Gets the historical data for the specified symbols between the specified dates. The symbols must exis..." alt="" coords="5,5,279,47"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Algorithm_1_1QCAlgorithm.html#a28f42d241211c550e5be029478223f2c" title="Gets the historical data for the specified symbols between the specified dates. The symbols must exis..." alt="" coords="5,71,279,112"/>
+<area shape="rect" id="node4" href="$classQuantConnect_1_1Research_1_1QuantBook.html#aec46e9c9aa3c06089616c69f4eb777b7" title="Will return the universe selection data and will optionally perform selection" alt="" coords="31,136,253,177"/>
+<area shape="rect" id="node5" href="$classQuantConnect_1_1Research_1_1QuantBook.html#a4a403e952b48e9fbcedaa5af4f6a27e9" title="Will return the universe selection data and will optionally perform selection" alt="" coords="25,201,259,243"/>
+</map>

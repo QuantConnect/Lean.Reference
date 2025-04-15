@@ -1,0 +1,4 @@
+<map id="QuantConnect.Algorithm.Framework.Portfolio.EqualWeightingPortfolioConstructionModel.DetermineTargetPercent" name="QuantConnect.Algorithm.Framework.Portfolio.EqualWeightingPortfolioConstructionModel.DetermineTargetPercent">
+<area shape="rect" id="node1" title="Will determine the target percent for each insight" alt="" coords="5,5,324,61"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Algorithm_1_1Framework_1_1Portfolio_1_1EqualWeightingPortfolioConstructionModel.html#aa6527bd1e19efe3f0ddbc67334de18e4" title="Method that will determine if a given insight respects the portfolio bias" alt="" coords="372,5,691,61"/>
+</map>

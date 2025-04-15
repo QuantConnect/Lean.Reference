@@ -1,0 +1,6 @@
+<map id="QuantConnect.Report.ReportElements.SharpeRatioReportElement" name="QuantConnect.Report.ReportElements.SharpeRatioReportElement">
+<area shape="rect" id="node1" title="Class for render the Sharpe Ratio statistic for a report" alt="" coords="6,155,269,196"/>
+<area shape="rect" id="node4" title=" " alt="" coords="5,244,269,285"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Report_1_1ReportElements_1_1ReportElement.html" title="Common interface for template elements of the report" alt="" coords="78,80,197,107"/>
+<area shape="rect" id="node3" title="Common interface for template elements of the report" alt="" coords="76,5,199,32"/>
+</map>

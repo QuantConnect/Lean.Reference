@@ -1,0 +1,4 @@
+<map id="QuantConnect.Securities.Positions.PositionGroupBuyingPowerModel.GetReservedBuyingPowerImpact" name="QuantConnect.Securities.Positions.PositionGroupBuyingPowerModel.GetReservedBuyingPowerImpact">
+<area shape="rect" id="node1" title="Computes the impact on the portfolio&#39;s buying power from adding the position group to the portfolio...." alt="" coords="5,5,325,61"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Securities_1_1Positions_1_1PositionGroupBuyingPowerModel.html#acf81c6236112687d1b9375437d7f6ea1" title="Gets the initial margin required for the specified contemplated position group. Used by GetReservedBu..." alt="" coords="373,5,723,61"/>
+</map>

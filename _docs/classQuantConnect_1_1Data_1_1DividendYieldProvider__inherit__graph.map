@@ -1,0 +1,4 @@
+<map id="QuantConnect.Data.DividendYieldProvider" name="QuantConnect.Data.DividendYieldProvider">
+<area shape="rect" id="node1" title="Estimated annualized continuous dividend yield at given date" alt="" coords="5,80,216,121"/>
+<area shape="rect" id="node2" href="$interfaceQuantConnect_1_1Data_1_1IDividendYieldModel.html" title="Represents a model that provides dividend yield data" alt="" coords="33,5,189,32"/>
+</map>

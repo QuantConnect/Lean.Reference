@@ -1,0 +1,8 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$classQuantConnect_1_1Python_1_1BasePythonWrapper.html" title=" " alt="" coords="5,5,277,47"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Data_1_1Shortable_1_1ShortableProviderPythonWrapper.html" title="Python wrapper for custom shortable providers" alt="" coords="325,5,564,47"/>
+<area shape="rect" id="node3" href="$interfaceQuantConnect_1_1Interfaces_1_1IShortableProvider.html" title="Defines a short list/easy&#45;to&#45;borrow provider" alt="" coords="48,71,235,112"/>
+<area shape="rect" id="node4" href="$classQuantConnect_1_1Data_1_1Shortable_1_1LocalDiskShortableProvider.html" title="Sources short availability data from the local disk for the given brokerage" alt="" coords="335,71,554,112"/>
+<area shape="rect" id="node6" href="$classQuantConnect_1_1Data_1_1Shortable_1_1NullShortableProvider.html" title="Defines the default shortable provider in the case that no local data exists. This will allow for all..." alt="" coords="335,136,554,177"/>
+<area shape="rect" id="node5" href="$classQuantConnect_1_1Data_1_1Shortable_1_1InteractiveBrokersShortableProvider.html" title="Sources the InteractiveBrokers short availability data from the local disk for the given brokerage" alt="" coords="612,71,869,112"/>
+</map>

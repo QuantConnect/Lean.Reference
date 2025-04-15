@@ -1,0 +1,4 @@
+<map id="QuantConnect.Python.DividendYieldModelPythonWrapper.FromPyObject" name="QuantConnect.Python.DividendYieldModelPythonWrapper.FromPyObject">
+<area shape="rect" id="node1" title="Converts a PyObject object into a IDividendYieldModel object, wrapping it if necessary" alt="" coords="5,13,293,54"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Python_1_1DividendYieldModelPythonWrapper.html#a07630347f3e08ed03d5a6aeb817d086c" title="Constructor for initializing the DividendYieldModelPythonWrapper class with wrapped PyObject object" alt="" coords="341,5,596,61"/>
+</map>

@@ -1,0 +1,9 @@
+<map id="QuantConnect.Brokerages.Brokerage.OnOrderEvents" name="QuantConnect.Brokerages.Brokerage.OnOrderEvents">
+<area shape="rect" id="node1" title="Event invocator for the OrderFilled event" alt="" coords="561,166,756,207"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Brokerages_1_1Brokerage.html#a811fd60a40633f4e51fb7e8d85c98fef" title="Event invocator for the OrderFilled event" alt="" coords="319,166,513,207"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Brokerages_1_1Backtesting_1_1BacktestingBrokerage.html#ac70fc5a986e6c1b66cb018072904b147" title="Cancels the order with the specified ID" alt="" coords="13,5,263,61"/>
+<area shape="rect" id="node4" href="$classQuantConnect_1_1Brokerages_1_1Backtesting_1_1BacktestingBrokerage.html#afd1ca716ede181b3b29d8c6db6aa5277" title="Places a new order and assigns a new broker ID to the order" alt="" coords="13,85,263,141"/>
+<area shape="rect" id="node5" href="$classQuantConnect_1_1Brokerages_1_1Brokerage.html#a9250e91d61c33d7648b13df6853393cb" title="Attempts to place an order that may cross the zero position. If the order needs to be split into two ..." alt="" coords="5,166,271,207"/>
+<area shape="rect" id="node6" href="$classQuantConnect_1_1Brokerages_1_1Brokerage.html#af5619808bb527e226c7ad3ef2eecc150" title="Attempts to handle any remaining orders that cross the zero boundary." alt="" coords="25,232,251,288"/>
+<area shape="rect" id="node7" href="$classQuantConnect_1_1Brokerages_1_1Backtesting_1_1BacktestingBrokerage.html#a5f716fe703d4cf191e52134d6ed1f822" title="Updates the order with the same ID" alt="" coords="13,312,263,368"/>
+</map>

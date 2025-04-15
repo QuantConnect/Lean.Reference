@@ -1,0 +1,4 @@
+<map id="QuantConnect.Messages.WolverineBrokerageModel.UnsupportedOrderType" name="QuantConnect.Messages.WolverineBrokerageModel.UnsupportedOrderType">
+<area shape="rect" id="node1" title="Returns a message for an unsupported order type in Wolverine Brokerage Model" alt="" coords="357,5,639,47"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Brokerages_1_1WolverineBrokerageModel.html#a9170c2b6bd35d0c825407a68d2ee22cd" title="Returns true if the brokerage could accept this order. This takes into account order type,..." alt="" coords="5,5,309,47"/>
+</map>

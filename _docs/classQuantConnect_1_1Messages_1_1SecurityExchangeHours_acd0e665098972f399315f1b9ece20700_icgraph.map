@@ -1,0 +1,4 @@
+<map id="QuantConnect.Messages.SecurityExchangeHours.LastMarketOpenNotFound" name="QuantConnect.Messages.SecurityExchangeHours.LastMarketOpenNotFound">
+<area shape="rect" id="node1" title="Returns a string message saying it did not find last market open for the given local date time...." alt="" coords="312,13,607,54"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Securities_1_1SecurityExchangeHours.html#a7b750e8b832a93bcd107e56989a2a0d7" title="Gets the local date time corresponding to the previous market open to the specified time" alt="" coords="5,5,264,61"/>
+</map>

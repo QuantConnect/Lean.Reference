@@ -1,0 +1,4 @@
+<map id="QuantConnect.Lean.Engine.Results.IResultHandler.SendStatusUpdate" name="QuantConnect.Lean.Engine.Results.IResultHandler.SendStatusUpdate">
+<area shape="rect" id="node1" title="Send a algorithm status update to the user of the algorithms running state." alt="" coords="311,5,557,61"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Lean_1_1Engine_1_1Setup_1_1BrokerageSetupHandler.html#a31fba19179b2197553a8f0152885886b" title="Primary entry point to setup a new algorithm" alt="" coords="5,13,263,54"/>
+</map>

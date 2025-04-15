@@ -1,0 +1,4 @@
+<map id="QuantConnect.Securities.IndexOption.IndexOptionSymbol.IsStandard" name="QuantConnect.Securities.IndexOption.IndexOptionSymbol.IsStandard">
+<area shape="rect" id="node1" title="Determines if the Index Option Symbol is for a monthly contract" alt="" coords="5,5,243,61"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Securities_1_1Future_1_1FuturesExpiryUtilityFunctions.html#aadb0c0815d821fe2e795a2521aac802a" title="Method to retrieve the 3rd Friday of the given month" alt="" coords="291,5,553,61"/>
+</map>

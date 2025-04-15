@@ -1,0 +1,19 @@
+<map id="QuantConnect.Algorithm.QCAlgorithm.QCAlgorithm" name="QuantConnect.Algorithm.QCAlgorithm.QCAlgorithm">
+<area shape="rect" id="node1" title="QCAlgorithm Base Class Constructor &#45; Initialize the underlying QCAlgorithm components...." alt="" coords="5,367,279,408"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Securities_1_1MarketHoursDatabase.html#aa01232d91c17c556b18ea8f1f7fabcd0" title="Gets the instance of the MarketHoursDatabase class produced by reading in the market hours data found..." alt="" coords="346,27,581,83"/>
+<area shape="rect" id="node5" href="$classQuantConnect_1_1Securities_1_1SymbolPropertiesDatabase.html#aee26fb588793fd311c44eb8b2909cc33" title="Gets the instance of the SymbolPropertiesDatabase class produced by reading in the symbol properties ..." alt="" coords="345,107,581,163"/>
+<area shape="rect" id="node8" href="$classQuantConnect_1_1Securities_1_1SecurityDefinitionSymbolResolver.html#a98d74eef756c84fafb678470fb2a53c3" title="Gets the single instance of the symbol resolver" alt="" coords="340,187,587,243"/>
+<area shape="rect" id="node9" href="$classQuantConnect_1_1Algorithm_1_1QCAlgorithm.html#a6540dc5c1433dbe68358339ea41cfbcb" title="Sets the alpha model" alt="" coords="327,268,600,309"/>
+<area shape="rect" id="node10" href="$classQuantConnect_1_1Algorithm_1_1QCAlgorithm.html#a943d15c5639b738612e96a146fde7fce" title="Set the end date for a backtest run" alt="" coords="327,333,600,375"/>
+<area shape="rect" id="node11" href="$classQuantConnect_1_1Algorithm_1_1QCAlgorithm.html#ac22a1e42e0e1f2f9815525d020294e79" title="Sets the execution model" alt="" coords="327,399,600,440"/>
+<area shape="rect" id="node12" href="$classQuantConnect_1_1Algorithm_1_1QCAlgorithm.html#a388e494398c0a685cca0c73dc8fe0986" title="Sets the portfolio construction model" alt="" coords="327,464,600,505"/>
+<area shape="rect" id="node13" href="$classQuantConnect_1_1Algorithm_1_1QCAlgorithm.html#ae04a91364c08f558df2974342cc3f99e" title="Sets the risk management model" alt="" coords="327,529,600,571"/>
+<area shape="rect" id="node14" href="$classQuantConnect_1_1Algorithm_1_1QCAlgorithm.html#a3896f06fcdbb98b982fb39c963b8a939" title="Set the ITradeBuilder implementation to generate trades from executions and market price updates" alt="" coords="327,595,600,636"/>
+<area shape="rect" id="node17" href="$classQuantConnect_1_1Algorithm_1_1QCAlgorithm.html#ad353b51a9430d72fbe2f4c81ed1ecf95" title="Sets the universe selection model" alt="" coords="327,660,600,701"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Securities_1_1MarketHoursDatabase.html#a6fdcc5f6d09cc11743e258e570d0a9eb" title="Reads the specified file as a market hours database instance" alt="" coords="661,5,887,47"/>
+<area shape="rect" id="node4" href="$classQuantConnect_1_1Globals.html#ae01b5c94ef475a21ab1a62fe1b04ea5c" title="Helper method that will build a data folder path checking if it exists on the cache folder else will ..." alt="" coords="677,71,871,112"/>
+<area shape="rect" id="node6" href="$classQuantConnect_1_1Securities_1_1SymbolPropertiesDatabase.html#a1658f93bf0dce7022bb7584e1a95cc7a" title="Initialize a new instance of SymbolPropertiesDatabase using the given file" alt="" coords="648,137,900,193"/>
+<area shape="rect" id="node7" href="$classQuantConnect_1_1Messages_1_1SymbolPropertiesDatabase.html#a6abceae517a349a28223bfc2dc9106d7" title="Returns a string saying a duplicated key was found while processing the given file" alt="" coords="948,137,1188,193"/>
+<area shape="rect" id="node15" href="$classQuantConnect_1_1Statistics_1_1TradeBuilder.html#a36ad17c727161c8fb7a25109941e9a48" title="Sets the live mode flag" alt="" coords="679,561,869,603"/>
+<area shape="rect" id="node16" href="$classQuantConnect_1_1Statistics_1_1TradeBuilder.html#a21a25b898b58f28dc0386e49d4f15ec3" title="Sets the security manager instance" alt="" coords="655,627,893,668"/>
+</map>

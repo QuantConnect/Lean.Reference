@@ -1,0 +1,25 @@
+var classQuantConnect_1_1Data_1_1Custom_1_1Tiingo_1_1TiingoPrice =
+[
+    [ "TiingoPrice", "classQuantConnect_1_1Data_1_1Custom_1_1Tiingo_1_1TiingoPrice.html#a7eaaa28517d78e7e1518e24663f87da2", null ],
+    [ "GetSource", "classQuantConnect_1_1Data_1_1Custom_1_1Tiingo_1_1TiingoPrice.html#ad92ab042c3f106e302981a0324f6f890", null ],
+    [ "Reader", "classQuantConnect_1_1Data_1_1Custom_1_1Tiingo_1_1TiingoPrice.html#a3fb3186a73790395d109c755992316f1", null ],
+    [ "RequiresMapping", "classQuantConnect_1_1Data_1_1Custom_1_1Tiingo_1_1TiingoPrice.html#ad87d78a868182a1985b65b60a47dbd12", null ],
+    [ "DataTimeZone", "classQuantConnect_1_1Data_1_1Custom_1_1Tiingo_1_1TiingoPrice.html#a135a5d9057f5cf6f9b5a9728ea34832f", null ],
+    [ "DefaultResolution", "classQuantConnect_1_1Data_1_1Custom_1_1Tiingo_1_1TiingoPrice.html#ae02ebf8871ca9d623b41f1c6a343dc99", null ],
+    [ "SupportedResolutions", "classQuantConnect_1_1Data_1_1Custom_1_1Tiingo_1_1TiingoPrice.html#a44719e53beeea7a3d8aad196deaead14", null ],
+    [ "Period", "classQuantConnect_1_1Data_1_1Custom_1_1Tiingo_1_1TiingoPrice.html#a2b7ad243f307aaef52a2d8be8849017d", null ],
+    [ "EndTime", "classQuantConnect_1_1Data_1_1Custom_1_1Tiingo_1_1TiingoPrice.html#a9e1cc22b9e1bf3471afb58f5e4bf7db7", null ],
+    [ "Date", "classQuantConnect_1_1Data_1_1Custom_1_1Tiingo_1_1TiingoPrice.html#aba219ec1848eb1faca83fce263a152b3", null ],
+    [ "Open", "classQuantConnect_1_1Data_1_1Custom_1_1Tiingo_1_1TiingoPrice.html#a6107667618f8f316df8b8a679589e1e0", null ],
+    [ "High", "classQuantConnect_1_1Data_1_1Custom_1_1Tiingo_1_1TiingoPrice.html#afbf5c4b57f6c5dc563502073946de4fd", null ],
+    [ "Low", "classQuantConnect_1_1Data_1_1Custom_1_1Tiingo_1_1TiingoPrice.html#aeb941d00bf362eef0a1e23b4aa549a31", null ],
+    [ "Close", "classQuantConnect_1_1Data_1_1Custom_1_1Tiingo_1_1TiingoPrice.html#a05deb5c083ddbc6929d8235a8d370639", null ],
+    [ "Volume", "classQuantConnect_1_1Data_1_1Custom_1_1Tiingo_1_1TiingoPrice.html#a67670c18e76f0ef6664eed36a82bf371", null ],
+    [ "AdjustedOpen", "classQuantConnect_1_1Data_1_1Custom_1_1Tiingo_1_1TiingoPrice.html#a8c63544b95bb60eebf95787b824cd27e", null ],
+    [ "AdjustedHigh", "classQuantConnect_1_1Data_1_1Custom_1_1Tiingo_1_1TiingoPrice.html#a6a3c6b6be0e5fbba3ae1d7f431ad812c", null ],
+    [ "AdjustedLow", "classQuantConnect_1_1Data_1_1Custom_1_1Tiingo_1_1TiingoPrice.html#a4727d7fefa6616c89db6f5f47d6f1154", null ],
+    [ "AdjustedClose", "classQuantConnect_1_1Data_1_1Custom_1_1Tiingo_1_1TiingoPrice.html#a34ca5cd2aff96098e3076cbc1510e17d", null ],
+    [ "AdjustedVolume", "classQuantConnect_1_1Data_1_1Custom_1_1Tiingo_1_1TiingoPrice.html#aad3f8042166ea355ef5ab5eccb1d225e", null ],
+    [ "Dividend", "classQuantConnect_1_1Data_1_1Custom_1_1Tiingo_1_1TiingoPrice.html#a558e4437dc32e283b74cf66b2fd0f516", null ],
+    [ "SplitFactor", "classQuantConnect_1_1Data_1_1Custom_1_1Tiingo_1_1TiingoPrice.html#abe7c8c98f4891b47432bba4939d94ad1", null ]
+];

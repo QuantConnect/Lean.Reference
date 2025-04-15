@@ -1,0 +1,4 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$classQuantConnect_1_1Securities_1_1InitialMargin.html" title="Result type for IBuyingPowerModel.GetInitialMarginRequirement and IBuyingPowerModel...." alt="" coords="5,5,192,47"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Securities_1_1OptionInitialMargin.html" title="Result type for Option.OptionStrategyPositionGroupBuyingPowerModel.GetInitialMarginRequirement" alt="" coords="240,5,427,47"/>
+</map>

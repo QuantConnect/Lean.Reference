@@ -1,0 +1,4 @@
+<map id="QuantConnect.Messages.CoinbaseBrokerageModel.StopMarketOrdersNoLongerSupported" name="QuantConnect.Messages.CoinbaseBrokerageModel.StopMarketOrdersNoLongerSupported">
+<area shape="rect" id="node1" title="Returns a string message saying the Stop Market orders are no longer supported since the given end da..." alt="" coords="352,5,619,61"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Brokerages_1_1CoinbaseBrokerageModel.html#a4733c3d643ca7eec26b1387e093bf1d4" title="Evaluates whether exchange will accept order. Will reject order update" alt="" coords="5,13,304,54"/>
+</map>

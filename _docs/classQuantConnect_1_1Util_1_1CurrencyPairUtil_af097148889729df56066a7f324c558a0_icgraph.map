@@ -1,0 +1,13 @@
+<map id="QuantConnect.Util.CurrencyPairUtil.DecomposeCurrencyPair" name="QuantConnect.Util.CurrencyPairUtil.DecomposeCurrencyPair">
+<area shape="rect" id="node1" title="Decomposes the specified currency pair into a base and quote currency provided as out parameters" alt="" coords="592,231,824,272"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Util_1_1CurrencyPairUtil.html#a898498a69625bd70a7d3336e0b3a493b" title="You have currencyPair AB and one known symbol (A or B). This function returns the other symbol (B or ..." alt="" coords="309,5,511,47"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Orders_1_1Fees_1_1BinanceFuturesFeeModel.html#a8458289183cf1d422aa7b5bd4d7bde68" title="Gets the fee for the given order" alt="" coords="293,71,527,112"/>
+<area shape="rect" id="node4" href="$classQuantConnect_1_1Orders_1_1Fees_1_1BitfinexFeeModel.html#a145416529e820570cb938963f7f55a70" title="Get the fee for this order in quote currency" alt="" coords="299,136,521,177"/>
+<area shape="rect" id="node5" href="$classQuantConnect_1_1Orders_1_1Fees_1_1BinanceFeeModel.html#ad714b6eeb176040fc0edff0742bd68a1" title="Get the fee for this order in quote currency" alt="" coords="299,201,521,243"/>
+<area shape="rect" id="node6" href="$classBybitFeeModel.html#a2cb12a22689aaac3c0fc365b48563d66" title="Gets the order fee associated with the specified order." alt="" coords="307,267,513,294"/>
+<area shape="rect" id="node7" href="$classQuantConnect_1_1Orders_1_1Fees_1_1KrakenFeeModel.html#adc7a457b7f5b6dba2858c63a618536bb" title="Get the fee for this order. If sell &#45; fees in base currency If buy &#45; fees in quote currency It can be..." alt="" coords="302,319,518,360"/>
+<area shape="rect" id="node8" href="$classQuantConnect_1_1Securities_1_1CurrencyConversion_1_1SecurityCurrencyConversion.html#a4906f295b9c94951f7aed815cfb254cf" title="Finds a conversion between two currencies by looking through all available 1 and 2&#45;leg options" alt="" coords="276,385,544,441"/>
+<area shape="rect" id="node10" href="$classQuantConnect_1_1Util_1_1CurrencyPairUtil.html#a751a86e6291116461dac1b937af5b7a6" title="Tries to decomposes the specified currency pair into a base and quote currency provided as out parame..." alt="" coords="285,465,535,507"/>
+<area shape="rect" id="node9" href="$classQuantConnect_1_1Securities_1_1Cash.html#a8af2f228ffa12236fec72d5458a031fc" title="Ensures that we have a data feed to convert this currency into the base currency. This will add a Sub..." alt="" coords="5,392,228,433"/>
+<area shape="rect" id="node11" href="$classQuantConnect_1_1Util_1_1CurrencyPairUtil.html#a945ca4091d51a13c43e584d3af4eff21" title="Returns how two currency pairs are related to each other" alt="" coords="15,465,218,507"/>
+</map>

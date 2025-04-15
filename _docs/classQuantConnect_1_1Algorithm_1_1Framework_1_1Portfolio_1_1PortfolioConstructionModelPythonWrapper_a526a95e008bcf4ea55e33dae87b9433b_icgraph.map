@@ -1,0 +1,5 @@
+<map id="QuantConnect.Algorithm.Framework.Portfolio.PortfolioConstructionModelPythonWrapper.ShouldCreateTargetForInsight" name="QuantConnect.Algorithm.Framework.Portfolio.PortfolioConstructionModelPythonWrapper.ShouldCreateTargetForInsight">
+<area shape="rect" id="node1" title="Method that will determine if the portfolio construction model should create a target for this insigh..." alt="" coords="627,5,943,61"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Algorithm_1_1Framework_1_1Portfolio_1_1PortfolioConstructionModel.html#a31dd8e94b6712caa957268183dbe9969" title="Gets the target insights to calculate a portfolio target percent for" alt="" coords="316,5,579,61"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Algorithm_1_1Framework_1_1Portfolio_1_1PortfolioConstructionModel.html#aa8b9e58e326811434356b8b918a38d89" title="Create portfolio targets from the specified insights" alt="" coords="5,5,268,61"/>
+</map>

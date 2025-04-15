@@ -1,0 +1,6 @@
+<map id="QuantConnect.Securities.Option.OptionStrategy.LegData" name="QuantConnect.Securities.Option.OptionStrategy.LegData">
+<area shape="rect" id="node1" title="Defines common properties between OptionLegData and UnderlyingLegData" alt="" coords="99,53,321,94"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Securities_1_1Option_1_1OptionStrategy_1_1OptionLegData.html" title="This class is a POCO containing basic data for the option legs of the strategy" alt="" coords="383,5,595,61"/>
+<area shape="rect" id="node4" href="$classQuantConnect_1_1Securities_1_1Option_1_1OptionStrategy_1_1UnderlyingLegData.html" title="This class is a POCO containing basic data for the underlying leg of the strategy" alt="" coords="369,85,609,141"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Orders_1_1Leg.html" title="Basic order leg" alt="" coords="5,60,51,87"/>
+</map>

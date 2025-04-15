@@ -1,0 +1,5 @@
+<map id="QuantConnect.Data.Shortable.ShortableProviderPythonWrapper" name="QuantConnect.Data.Shortable.ShortableProviderPythonWrapper">
+<area shape="rect" id="node1" title="Python wrapper for custom shortable providers" alt="" coords="58,95,297,136"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Python_1_1BasePythonWrapper.html" title=" " alt="" coords="5,5,171,47"/>
+<area shape="rect" id="node3" href="$interfaceQuantConnect_1_1Interfaces_1_1IShortableProvider.html" title="Defines a short list/easy&#45;to&#45;borrow provider" alt="" coords="195,13,338,39"/>
+</map>

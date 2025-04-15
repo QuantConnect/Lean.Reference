@@ -1,0 +1,7 @@
+<map id="QuantConnect.Interfaces.IOptionPrice" name="QuantConnect.Interfaces.IOptionPrice">
+<area shape="rect" id="node1" title="Reduced interface for accessing Option specific price properties and methods" alt="" coords="164,39,351,80"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Securities_1_1Option_1_1Option.html" title="Option Security Object Implementation for Option Assets" alt="" coords="399,39,585,80"/>
+<area shape="rect" id="node2" href="$interfaceQuantConnect_1_1Interfaces_1_1ISecurityPrice.html" title="Reduced interface which allows setting and accessing price properties for a Security" alt="" coords="5,46,116,73"/>
+<area shape="rect" id="node4" href="$classQuantConnect_1_1Securities_1_1FutureOption_1_1FutureOption.html" title="Futures Options security" alt="" coords="633,5,828,47"/>
+<area shape="rect" id="node5" href="$classQuantConnect_1_1Securities_1_1IndexOption_1_1IndexOption.html" title="Index Options security" alt="" coords="637,71,824,112"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="QuantConnect.Logging.FunctionalLogHandler" name="QuantConnect.Logging.FunctionalLogHandler">
+<area shape="rect" id="node1" title="ILogHandler implementation that writes log output to result handler" alt="" coords="5,155,245,196"/>
+<area shape="rect" id="node2" href="$interfaceQuantConnect_1_1Logging_1_1ILogHandler.html" title="Interface for redirecting log output" alt="" coords="75,80,175,107"/>
+<area shape="rect" id="node3" title=" " alt="" coords="76,5,175,32"/>
+</map>

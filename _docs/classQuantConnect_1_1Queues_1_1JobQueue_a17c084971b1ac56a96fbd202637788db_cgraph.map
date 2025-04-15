@@ -1,0 +1,14 @@
+<map id="QuantConnect.Queues.JobQueue.NextJob" name="QuantConnect.Queues.JobQueue.NextJob">
+<area shape="rect" id="node1" title="Desktop/Local Get Next Task &#45; Get task from the Algorithm folder of VS Solution." alt="" coords="5,243,243,284"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Logging_1_1Log.html#af0e7955911bc7664b37661b2a303a9e3" title="Log error" alt="" coords="593,281,793,323"/>
+<area shape="rect" id="node4" href="$classQuantConnect_1_1Configuration_1_1Config.html#aaabf1286e33a675b2e116f3289981839" title="Get the matching config setting from the file searching for this key." alt="" coords="311,72,520,113"/>
+<area shape="rect" id="node7" href="$classQuantConnect_1_1Logging_1_1Log.html#a4e55477fbc790846b74550a57198cea9" title="Log trace" alt="" coords="593,136,793,177"/>
+<area shape="rect" id="node9" href="$classQuantConnect_1_1Queues_1_1JobQueue.html#a34fa284e0662720930a3cb01ba704945" title="Gets Brokerage Factory for provided IDQH" alt="" coords="291,243,540,284"/>
+<area shape="rect" id="node10" href="$classQuantConnect_1_1Configuration_1_1Config.html#a7e8e4f537e349a84b9a2b0f7d3153a0b" title="Get the int value of a config string." alt="" coords="311,308,520,349"/>
+<area shape="rect" id="node11" href="$classQuantConnect_1_1Time.html#af0f2e99b5408042317df18cfab131f5c" title="Parse a standard YY MM DD date into a DateTime. Attempt common date formats" alt="" coords="305,374,526,401"/>
+<area shape="rect" id="node12" href="$classQuantConnect_1_1Data_1_1HistoryExtensions.html#ab4ee520219ba8ebb960ecccc8903de0e" title="Helper method to get the brokerage name" alt="" coords="293,425,537,467"/>
+<area shape="rect" id="node3" href="$interfaceQuantConnect_1_1Logging_1_1ILogHandler.html#a35373a0c5d76031fa5ccf5dc39e5c25d" title="Write error message to log" alt="" coords="845,281,1045,323"/>
+<area shape="rect" id="node5" href="$classQuantConnect_1_1Configuration_1_1Config.html#a1504ca19b3759d008b090375ddf4ad10" title="Gets the currently selected environment. If sub&#45;environments are defined, they&#39;ll be returned as {env..." alt="" coords="588,5,797,47"/>
+<area shape="rect" id="node6" href="$classQuantConnect_1_1Configuration_1_1Config.html#a9ed01bc116e8181a7557f3e668f34691" title="Gets the underlying JToken for the specified key" alt="" coords="588,71,797,112"/>
+<area shape="rect" id="node8" href="$interfaceQuantConnect_1_1Logging_1_1ILogHandler.html#a3fb71a33ac66129240b63f12b6fcda3b" title="Write debug message to log" alt="" coords="845,136,1045,177"/>
+</map>

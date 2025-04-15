@@ -1,0 +1,4 @@
+<map id="QuantConnect.Securities.Option.OptionStrategies.PutBackspread" name="QuantConnect.Securities.Option.OptionStrategies.PutBackspread">
+<area shape="rect" id="node1" title="Method creates new Long Put Backspread strategy, that consists of two puts with the same expiration b..." alt="" coords="269,13,548,54"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Securities_1_1Option_1_1OptionStrategies.html#a2d64535f1bb030be3593ce790f4920e5" title="Method creates new Short Put Backspread strategy, that consists of two puts with the same expiration ..." alt="" coords="5,5,221,61"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="QuantConnect.Lean.Engine.DataFeeds.Enumerators.MappingEventProvider.InitializeMapFile" name="QuantConnect.Lean.Engine.DataFeeds.Enumerators.MappingEventProvider.InitializeMapFile">
+<area shape="rect" id="node1" title="Initializes the map file to use" alt="" coords="328,45,603,101"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Lean_1_1Engine_1_1DataFeeds_1_1Enumerators_1_1LiveMappingEventProvider.html#a474ee205f82641cd2c62b1b40fcac16f" title="Check for new mappings" alt="" coords="10,5,275,61"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Lean_1_1Engine_1_1DataFeeds_1_1Enumerators_1_1MappingEventProvider.html#af71da3b51ab48d4d71081f3467058609" title="Initializes this instance" alt="" coords="5,85,280,141"/>
+</map>

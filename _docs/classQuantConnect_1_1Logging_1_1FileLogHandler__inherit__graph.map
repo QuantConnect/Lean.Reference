@@ -1,0 +1,6 @@
+<map id="QuantConnect.Logging.FileLogHandler" name="QuantConnect.Logging.FileLogHandler">
+<area shape="rect" id="node1" title="Provides an implementation of ILogHandler that writes all log messages to a file on disk." alt="" coords="30,155,226,196"/>
+<area shape="rect" id="node4" href="$classQuantConnect_1_1Logging_1_1RegressionFileLogHandler.html" title="Provides an implementation of ILogHandler that writes all log messages to a file on disk without time..." alt="" coords="5,244,251,285"/>
+<area shape="rect" id="node2" href="$interfaceQuantConnect_1_1Logging_1_1ILogHandler.html" title="Interface for redirecting log output" alt="" coords="78,80,178,107"/>
+<area shape="rect" id="node3" title=" " alt="" coords="79,5,177,32"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="QuantConnect.Algorithm.QCAlgorithm.AddFuture" name="QuantConnect.Algorithm.QCAlgorithm.AddFuture">
+<area shape="rect" id="node1" title="Creates and adds a new Future security to the algorithm" alt="" coords="327,39,600,80"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Algorithm_1_1QCAlgorithm.html#af1f764316cffc3d289d335df1edef76e" title="Set a required SecurityType&#45;symbol and resolution for algorithm" alt="" coords="5,5,279,47"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Research_1_1QuantBook.html#a9c6829f944fce7f66a72fa0d9b64f7b8" title="Gets OptionHistory object for a given symbol, date and resolution" alt="" coords="31,71,253,112"/>
+</map>

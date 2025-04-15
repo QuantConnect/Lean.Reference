@@ -1,0 +1,4 @@
+<map id="QuantConnect.Securities.Option.OptionPortfolioModel.ProcessCloseTradeProfit" name="QuantConnect.Securities.Option.OptionPortfolioModel.ProcessCloseTradeProfit">
+<area shape="rect" id="node1" title="Helper method to determine the close trade profit" alt="" coords="5,5,216,61"/>
+<area shape="rect" id="node2" href="$interfaceQuantConnect_1_1Securities_1_1ISettlementModel.html#a47c4b0baf53d207f28de2059cdadd02e" title="Applies cash settlement rules" alt="" coords="264,13,481,54"/>
+</map>

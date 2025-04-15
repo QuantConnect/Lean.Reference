@@ -1,0 +1,5 @@
+<map id="QuantConnect.Algorithm.Framework.Portfolio.SignalExports.SignalExportManager.AddSignalExportProvider" name="QuantConnect.Algorithm.Framework.Portfolio.SignalExports.SignalExportManager.AddSignalExportProvider">
+<area shape="rect" id="node1" title="Adds a new signal exports provider" alt="" coords="316,45,579,101"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Algorithm_1_1Framework_1_1Portfolio_1_1SignalExports_1_1SignalExportManager.html#a06ad64d6c5228ed095006687fadb95d9" title="Adds a new signal exports provider" alt="" coords="5,5,268,61"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Algorithm_1_1Framework_1_1Portfolio_1_1SignalExports_1_1SignalExportManager.html#a9bb512b5dd4743c747ce601e6dcc8115" title="Adds one or more new signal exports providers" alt="" coords="5,85,268,141"/>
+</map>

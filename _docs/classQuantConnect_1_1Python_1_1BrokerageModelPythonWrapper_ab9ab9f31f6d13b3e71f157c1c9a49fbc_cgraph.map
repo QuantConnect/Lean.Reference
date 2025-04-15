@@ -1,0 +1,4 @@
+<map id="QuantConnect.Python.BrokerageModelPythonWrapper.ApplySplit" name="QuantConnect.Python.BrokerageModelPythonWrapper.ApplySplit">
+<area shape="rect" id="node1" title="Applies the split to the specified order ticket" alt="" coords="5,13,239,54"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Python_1_1BasePythonWrapper.html#a05fa6adc417fbc2930f9bb95c91af17a" title="Invokes the specified method with the specified arguments" alt="" coords="287,5,533,61"/>
+</map>

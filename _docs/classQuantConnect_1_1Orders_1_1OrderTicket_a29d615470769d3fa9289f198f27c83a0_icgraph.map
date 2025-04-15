@@ -1,0 +1,5 @@
+<map id="QuantConnect.Orders.OrderTicket.GetMostRecentOrderResponse" name="QuantConnect.Orders.OrderTicket.GetMostRecentOrderResponse">
+<area shape="rect" id="node1" title="Gets the most recent OrderResponse for this ticket" alt="" coords="285,39,549,80"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Orders_1_1OrderTicket.html#a626558cbb8205919dac0ee148d1bb0be" title="This is provided for API backward compatibility and will resolve to the order ID, except during an er..." alt="" coords="21,5,222,47"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Commands_1_1OrderCommand.html#a9076463d1b93e18f452219182b25f721" title="Runs this command against the specified algorithm instance" alt="" coords="5,71,237,112"/>
+</map>

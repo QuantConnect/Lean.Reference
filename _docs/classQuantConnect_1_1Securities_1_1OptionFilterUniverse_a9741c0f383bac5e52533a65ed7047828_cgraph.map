@@ -1,0 +1,4 @@
+<map id="QuantConnect.Securities.OptionFilterUniverse.R" name="QuantConnect.Securities.OptionFilterUniverse.R">
+<area shape="rect" id="node1" title="Applies the filter to the universe selecting the contracts with Rho between the given range...." alt="" coords="5,5,192,47"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Securities_1_1OptionFilterUniverse.html#ab3c9bd9412a4679b0eab86891ea20d5b" title="Applies the filter to the universe selecting the contracts with Rho between the given range" alt="" coords="240,5,427,47"/>
+</map>

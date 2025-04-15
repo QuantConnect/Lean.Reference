@@ -1,0 +1,5 @@
+<map id="QuantConnect.Orders.ComboLimitOrder" name="QuantConnect.Orders.ComboLimitOrder">
+<area shape="rect" id="node1" title="Combo limit order type" alt="" coords="5,155,216,196"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Orders_1_1ComboOrder.html" title="Combo order type" alt="" coords="59,80,163,107"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Orders_1_1Order.html" title="Order struct for placing new trade" alt="" coords="81,5,140,32"/>
+</map>

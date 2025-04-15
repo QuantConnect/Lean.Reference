@@ -1,0 +1,7 @@
+<map id="QuantConnect.Securities.SecurityExchangeHours.GetPreviousMarketOpen" name="QuantConnect.Securities.SecurityExchangeHours.GetPreviousMarketOpen">
+<area shape="rect" id="node1" title="Gets the local date time corresponding to the previous market open to the specified time" alt="" coords="5,30,264,86"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Securities_1_1SecurityExchangeHours.html#a106e2dd187ab76452e14ac6a28f929aa" title="Helper to access the market hours field based on the day of week" alt="" coords="655,5,941,47"/>
+<area shape="rect" id="node4" href="$classQuantConnect_1_1Securities_1_1SecurityExchangeHours.html#a180c418cdce27edaa7d55170a225761e" title="Gets the local date time corresponding to the next market open following the specified time" alt="" coords="342,30,577,86"/>
+<area shape="rect" id="node5" href="$classQuantConnect_1_1Messages_1_1SecurityExchangeHours.html#acd0e665098972f399315f1b9ece20700" title="Returns a string message saying it did not find last market open for the given local date time...." alt="" coords="312,111,607,152"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Securities_1_1LocalMarketHours.html#a1e9178f81413c7d1f032a003d74acecf" title="Gets a LocalMarketHours instance that is always closed" alt="" coords="989,5,1220,47"/>
+</map>

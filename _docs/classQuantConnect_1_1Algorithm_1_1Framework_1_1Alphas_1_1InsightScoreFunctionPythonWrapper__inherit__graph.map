@@ -1,0 +1,5 @@
+<map id="QuantConnect.Algorithm.Framework.Alphas.InsightScoreFunctionPythonWrapper" name="QuantConnect.Algorithm.Framework.Alphas.InsightScoreFunctionPythonWrapper">
+<area shape="rect" id="node1" title="A python implementation insight evaluator wrapper" alt="" coords="40,95,345,136"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Python_1_1BasePythonWrapper.html" title=" " alt="" coords="5,5,185,47"/>
+<area shape="rect" id="node3" href="$interfaceQuantConnect_1_1Algorithm_1_1Framework_1_1Alphas_1_1IInsightScoreFunction.html" title="Abstraction in charge of scoring insights" alt="" coords="209,13,371,39"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="QuantConnect.Statistics.Statistics.SharpeRatio" name="QuantConnect.Statistics.Statistics.SharpeRatio">
+<area shape="rect" id="node1" title="Sharpe ratio with respect to risk free rate: measures excess of return per unit of risk." alt="" coords="5,71,188,112"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Statistics_1_1Statistics.html#a563e05af5c4e84fd8174a44abedfcad7" title="Annualized return statistic calculated as an average of daily trading performance multiplied by the n..." alt="" coords="255,5,469,47"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Statistics_1_1Statistics.html#afba2db783af88b237f307162f8384389" title="Annualized standard deviation" alt="" coords="236,71,488,112"/>
+<area shape="rect" id="node5" href="$classQuantConnect_1_1Statistics_1_1Statistics.html#abd9c7eead3548d9a4765abefa42f1b3f" title="Sharpe ratio with respect to risk free rate: measures excess of return per unit of risk." alt="" coords="271,136,453,177"/>
+<area shape="rect" id="node4" href="$classQuantConnect_1_1Statistics_1_1Statistics.html#a351c06d27f5c5fed38d503c7f965978f" title="Annualized variance statistic calculation using the daily performance variance and trading days per y..." alt="" coords="536,71,723,112"/>
+</map>

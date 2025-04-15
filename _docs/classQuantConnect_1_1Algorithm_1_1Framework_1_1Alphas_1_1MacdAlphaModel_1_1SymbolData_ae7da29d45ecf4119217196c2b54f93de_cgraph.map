@@ -1,0 +1,11 @@
+<map id="QuantConnect.Algorithm.Framework.Alphas.MacdAlphaModel.SymbolData.SymbolData" name="QuantConnect.Algorithm.Framework.Alphas.MacdAlphaModel.SymbolData.SymbolData">
+<area shape="rect" id="node1" title="Initializes an instance of the SymbolData class with the given arguments" alt="" coords="5,100,356,141"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Data_1_1SubscriptionManager.html#a30124df669563657110c578275440472" title="Add a consolidator for the symbol" alt="" coords="424,5,657,47"/>
+<area shape="rect" id="node7" href="$classQuantConnect_1_1Algorithm_1_1QCAlgorithm.html#a918f318ce76cdc3ed9efad235ff7481e" title="Creates and registers a new consolidator to receive automatic updates at the specified resolution as ..." alt="" coords="404,71,677,112"/>
+<area shape="rect" id="node8" href="$classQuantConnect_1_1Algorithm_1_1QCAlgorithm.html#ade17e71e20d320dc9a1efa3ddf8aa3cd" title="Gets the default consolidator for the specified symbol and resolution" alt="" coords="742,71,1015,112"/>
+<area shape="rect" id="node9" href="$classQuantConnect_1_1Algorithm_1_1QCAlgorithm.html#a03dc8e8813beefe706843968a059f132" title="Warms up a given indicator with historical data" alt="" coords="404,188,677,229"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Data_1_1SubscriptionManager.html#a1916b5d3e1bcbaf683be29d68ead2682" title="Checks if the subscription is valid for the consolidator" alt="" coords="725,5,1032,47"/>
+<area shape="rect" id="node4" href="$classQuantConnect_1_1Util_1_1LeanData.html#adf1799b921849e0643385e6794ec2471" title="Get the TickType for common Lean data types. If not a Lean common data type, return a TickType of Tra..." alt="" coords="1080,71,1388,112"/>
+<area shape="rect" id="node6" href="$classQuantConnect_1_1Util_1_1LeanData.html#af07561616d971cbd08adb7847eafb7f6" title="Determines if the Type is a &#39;common&#39; type used throughout lean This method is helpful in creating Sub..." alt="" coords="1129,5,1339,47"/>
+<area shape="rect" id="node5" href="$classQuantConnect_1_1Util_1_1LeanData.html#a24869ac4b029b3f2d468596baab6d72d" title="Gets the tick type most commonly associated with the specified security type" alt="" coords="1436,71,1647,112"/>
+</map>

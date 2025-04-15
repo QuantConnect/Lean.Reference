@@ -1,0 +1,4 @@
+<map id="QuantConnect.Securities.Future.FuturesOptionsSymbolMappings.Map" name="QuantConnect.Securities.Future.FuturesOptionsSymbolMappings.Map">
+<area shape="rect" id="node1" title="Returns the futures options ticker for the given futures ticker." alt="" coords="285,5,595,47"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1SecurityIdentifier.html#a82845310b39e03896ca25e0822141768" title="Generates a new SecurityIdentifier for an option" alt="" coords="5,5,237,47"/>
+</map>

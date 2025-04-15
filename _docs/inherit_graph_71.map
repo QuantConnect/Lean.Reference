@@ -1,0 +1,24 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" title=" " alt="" coords="5,470,93,497"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Brokerages_1_1BestBidAskUpdatedEventArgs.html" title="Event arguments class for the DefaultOrderBook.BestBidAskUpdated event" alt="" coords="184,5,401,47"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Brokerages_1_1OptionNotificationEventArgs.html" title="Event arguments class for the IBrokerage.OptionNotification event" alt="" coords="189,71,396,112"/>
+<area shape="rect" id="node4" href="$classQuantConnect_1_1Data_1_1SubscriptionDataConfig_1_1NewSymbolEventArgs.html" title="New base class for all event classes." alt="" coords="171,136,414,177"/>
+<area shape="rect" id="node5" href="$classQuantConnect_1_1Data_1_1UniverseSelection_1_1Universe_1_1SelectionEventArgs.html" title="Event fired when the universe selection changes" alt="" coords="155,201,430,243"/>
+<area shape="rect" id="node6" href="$classQuantConnect_1_1DataProviderEventArgs.html" title="Defines a base class for IDataProviderEvents" alt="" coords="191,267,394,308"/>
+<area shape="rect" id="node13" href="$classQuantConnect_1_1Indicators_1_1PivotPointsEventArgs.html" title="Event arguments class for the PivotPointsHighLow.NewPivotPointFormed event" alt="" coords="199,332,386,373"/>
+<area shape="rect" id="node14" href="$classQuantConnect_1_1Interfaces_1_1DataProviderNewDataRequestEventArgs.html" title="Event arguments for the IDataProvider.NewDataRequest event" alt="" coords="149,397,436,439"/>
+<area shape="rect" id="node15" href="$classQuantConnect_1_1Interfaces_1_1ObjectStoreErrorRaisedEventArgs.html" title="Event arguments for the IObjectStore.ErrorRaised event" alt="" coords="173,463,412,504"/>
+<area shape="rect" id="node16" href="$classQuantConnect_1_1Lean_1_1Engine_1_1DataFeeds_1_1CreateStreamReaderErrorEventArgs.html" title="Event arguments for the TextSubscriptionDataSourceReader&#39;s CreateStreamReader event" alt="" coords="161,529,424,585"/>
+<area shape="rect" id="node17" href="$classQuantConnect_1_1Lean_1_1Engine_1_1DataFeeds_1_1Enumerators_1_1NewDataAvailableEventArgs.html" title="Event args for when a new data point is ready to be emitted" alt="" coords="141,609,444,665"/>
+<area shape="rect" id="node18" href="$classQuantConnect_1_1Lean_1_1Engine_1_1DataFeeds_1_1InvalidSourceEventArgs.html" title="Event arguments for the ISubscriptionDataSourceReader.InvalidSource event" alt="" coords="168,689,417,731"/>
+<area shape="rect" id="node19" href="$classQuantConnect_1_1Lean_1_1Engine_1_1DataFeeds_1_1ReaderErrorEventArgs.html" title="Event arguments for the TextSubscriptionDataSourceReader.ReaderError event." alt="" coords="173,755,412,796"/>
+<area shape="rect" id="node20" href="$classQuantConnect_1_1Securities_1_1CashBookUpdatedEventArgs.html" title="Event fired when the cash book is updated" alt="" coords="189,820,397,861"/>
+<area shape="rect" id="node21" href="$classQuantConnect_1_1Securities_1_1SecurityCacheDataStoredEventArgs.html" title="Event args for SecurityCache&#39;s DataStored event" alt="" coords="165,885,420,927"/>
+<area shape="rect" id="node22" href="$classQuantConnect_1_1TimeUpdatedEventArgs.html" title="Event arguments class for the LocalTimeKeeper.TimeUpdated event" alt="" coords="189,951,396,992"/>
+<area shape="rect" id="node7" href="$classQuantConnect_1_1DownloadFailedEventArgs.html" title="Event arguments for the IDataProviderEvents.DownloadFailed event" alt="" coords="506,103,727,144"/>
+<area shape="rect" id="node8" href="$classQuantConnect_1_1InvalidConfigurationDetectedEventArgs.html" title="Event arguments for the IDataProviderEvents.InvalidConfigurationDetected event" alt="" coords="492,168,741,209"/>
+<area shape="rect" id="node9" href="$classQuantConnect_1_1NewTradableDateEventArgs.html" title="Event arguments for the NewTradableDate event" alt="" coords="515,233,718,275"/>
+<area shape="rect" id="node10" href="$classQuantConnect_1_1NumericalPrecisionLimitedEventArgs.html" title="Event arguments for the IDataProviderEvents.NumericalPrecisionLimited event" alt="" coords="495,299,739,340"/>
+<area shape="rect" id="node11" href="$classQuantConnect_1_1ReaderErrorDetectedEventArgs.html" title="Event arguments for the IDataProviderEvents.ReaderErrorDetected event" alt="" coords="519,364,714,405"/>
+<area shape="rect" id="node12" href="$classQuantConnect_1_1StartDateLimitedEventArgs.html" title="Event arguments for the IDataProviderEvents.StartDateLimited event" alt="" coords="502,429,731,471"/>
+</map>

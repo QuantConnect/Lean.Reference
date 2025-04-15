@@ -1,0 +1,5 @@
+<map id="QuantConnect.Data.RiskFreeInterestRateModelExtensions.GetRiskFreeRate" name="QuantConnect.Data.RiskFreeInterestRateModelExtensions.GetRiskFreeRate">
+<area shape="rect" id="node1" title="Gets the average risk free annual return rate" alt="" coords="5,5,245,61"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Time.html#acac0502b1a038835956ff94c6407673e" title="Define an enumerable date range and return each date as a datetime object in the date range" alt="" coords="293,20,505,47"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Time.html#ac31dec6d3e0b8f5c110a12ade7200933" title="Define an enumerable date time range using the given time step" alt="" coords="553,13,772,54"/>
+</map>

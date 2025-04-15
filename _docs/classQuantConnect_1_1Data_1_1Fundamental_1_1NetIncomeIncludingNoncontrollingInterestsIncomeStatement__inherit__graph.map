@@ -1,0 +1,5 @@
+<map id="QuantConnect.Data.Fundamental.NetIncomeIncludingNoncontrollingInterestsIncomeStatement" name="QuantConnect.Data.Fundamental.NetIncomeIncludingNoncontrollingInterestsIncomeStatement">
+<area shape="rect" id="node1" title="Net income of the group after the adjustment of all expenses and benefit." alt="" coords="5,155,252,211"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Data_1_1Fundamental_1_1MultiPeriodField.html" title="Abstract base class for multi&#45;period fields" alt="" coords="65,80,192,107"/>
+<area shape="rect" id="node3" title=" " alt="" coords="50,5,207,32"/>
+</map>

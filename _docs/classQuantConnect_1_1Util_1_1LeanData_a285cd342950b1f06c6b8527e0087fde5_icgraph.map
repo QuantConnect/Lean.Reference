@@ -1,0 +1,10 @@
+<map id="QuantConnect.Util.LeanData.UseStrictEndTime" name="QuantConnect.Util.LeanData.UseStrictEndTime">
+<area shape="rect" id="node1" title="Helper method to determine if we should use strict end time" alt="" coords="979,159,1189,201"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Lean_1_1Engine_1_1DataFeeds_1_1UniverseSelection.html#aa1f5bba72357a2a66d98099a3d20a0e5" title="Will add any pending internal currency subscriptions" alt="" coords="670,5,913,61"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Util_1_1LeanData.html#ad63021af2455d8433040838f49a7a15d" title="Helper method to get the next daily end time, taking into account strict end times if appropriate" alt="" coords="686,86,897,127"/>
+<area shape="rect" id="node4" href="$classQuantConnect_1_1Lean_1_1Engine_1_1DataFeeds_1_1DataQueueHandlerManager.html#a9a5fdfba2516f1d530704aebcd807e03" title="Subscribe to the specified configuration" alt="" coords="652,152,931,208"/>
+<area shape="rect" id="node5" href="$classQuantConnect_1_1Util_1_1LeanData.html#aa5edea8cb59c33b5a15f4499e55b7c1c" title="Helper method to determine if we should use strict end time" alt="" coords="686,233,897,274"/>
+<area shape="rect" id="node6" href="$classQuantConnect_1_1Data_1_1Common_1_1MarketHourAwareConsolidator.html#afa1ad701ff92332bc7d9fb18df951223" title="Useful for testing" alt="" coords="667,299,916,355"/>
+<area shape="rect" id="node7" href="$classQuantConnect_1_1Data_1_1Common_1_1MarketHourAwareConsolidator.html#a4c25267f3235115e0930b33f6a7883bf" title="Perform late initialization based on the datas symbol" alt="" coords="324,306,604,347"/>
+<area shape="rect" id="node8" href="$classQuantConnect_1_1Data_1_1Common_1_1MarketHourAwareConsolidator.html#ada2633845f46ba47d02bc3d8d696383f" title="Updates this consolidator with the specified data" alt="" coords="5,306,276,347"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="QuantConnect.SecurityIdentifier.GenerateBase" name="QuantConnect.SecurityIdentifier.GenerateBase">
+<area shape="rect" id="node1" title="Generates a new SecurityIdentifier for a custom security with the option of providing the first date" alt="" coords="5,5,237,47"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1SecurityIdentifier.html#a19e1f9da410608020d74ed9e7d283575" title="Generates the Symbol property for QuantConnect.SecurityType.Base security identifiers" alt="" coords="285,5,517,47"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="QuantConnect.Securities.Option.OptionStrategies.Conversion" name="QuantConnect.Securities.Option.OptionStrategies.Conversion">
+<area shape="rect" id="node1" title="Creates a Conversion strategy that consists of buying 1 put contract, 1 lot of the underlying and sel..." alt="" coords="288,13,543,54"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Securities_1_1Option_1_1OptionStrategies.html#a7abda820855dffc0a13bb43165163592" title="Creates a Reverse Conversion strategy that consists of buying 1 put contract and 1 lot of the underly..." alt="" coords="5,5,240,61"/>
+</map>

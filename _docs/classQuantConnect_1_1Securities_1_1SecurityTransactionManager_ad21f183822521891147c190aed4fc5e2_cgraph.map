@@ -1,0 +1,5 @@
+<map id="QuantConnect.Securities.SecurityTransactionManager.CancelOpenOrders" name="QuantConnect.Securities.SecurityTransactionManager.CancelOpenOrders">
+<area shape="rect" id="node1" title="Cancels all open orders for all symbols" alt="" coords="5,45,259,101"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Securities_1_1SecurityTransactionManager.html#a40a5adc0c964d6f0f472f93fc56d4d53" title="Get an enumerable of open OrderTicket for the specified symbol" alt="" coords="317,5,549,61"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Messages_1_1SecurityTransactionManager.html#a8e0b665f9ea93c89fdcd1cf97e83a9f0" title="Returns a string message saying the order was canceled by the CancelOpenOrders() at the given time" alt="" coords="307,85,559,141"/>
+</map>

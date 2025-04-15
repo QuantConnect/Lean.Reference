@@ -1,0 +1,4 @@
+<map id="QuantConnect.Messages.Cash.AddingSecuritySymbolForCashCurrencyFeed" name="QuantConnect.Messages.Cash.AddingSecuritySymbolForCashCurrencyFeed">
+<area shape="rect" id="node1" title="Returns a string message saying the security symbol is being added for cash currency feed (this comes..." alt="" coords="276,5,587,47"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Securities_1_1Cash.html#a8af2f228ffa12236fec72d5458a031fc" title="Ensures that we have a data feed to convert this currency into the base currency. This will add a Sub..." alt="" coords="5,5,228,47"/>
+</map>

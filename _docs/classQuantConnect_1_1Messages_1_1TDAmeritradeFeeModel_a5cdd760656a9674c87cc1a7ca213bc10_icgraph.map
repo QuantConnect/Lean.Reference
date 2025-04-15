@@ -1,0 +1,4 @@
+<map id="QuantConnect.Messages.TDAmeritradeFeeModel.UnsupportedSecurityType" name="QuantConnect.Messages.TDAmeritradeFeeModel.UnsupportedSecurityType">
+<area shape="rect" id="node1" title="Returns a string message for unsupported security types in TDAmeritradeFeeModel" alt="" coords="316,5,595,47"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Orders_1_1Fees_1_1TDAmeritradeFeeModel.html#a9f7826dc4c1044a4ff1789cc78a8727a" title="Get the fee for this order in quote currency" alt="" coords="5,5,268,47"/>
+</map>

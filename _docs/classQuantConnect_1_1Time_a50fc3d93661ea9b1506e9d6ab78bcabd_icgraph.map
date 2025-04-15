@@ -1,0 +1,11 @@
+<map id="QuantConnect.Time.GetStartTimeForTradeBars" name="QuantConnect.Time.GetStartTimeForTradeBars">
+<area shape="rect" id="node1" title="Determines the start time required to produce the requested number of bars and the given size" alt="" coords="629,203,839,245"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Lean_1_1Engine_1_1DataFeeds_1_1UniverseSelection.html#aa1f5bba72357a2a66d98099a3d20a0e5" title="Will add any pending internal currency subscriptions" alt="" coords="322,5,565,61"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Lean_1_1Engine_1_1DataFeeds_1_1FileSystemDataFeed.html#ac148e78fc814fca88c70a1835be51a25" title="Creates a new subscription to provide data for the specified security." alt="" coords="305,85,581,141"/>
+<area shape="rect" id="node4" href="$classQuantConnect_1_1Lean_1_1Engine_1_1DataFeeds_1_1DataManager.html#acf9050df1be040d4259dc9a89c2cb740" title="Creates a new instance of the DataManager" alt="" coords="306,166,581,207"/>
+<area shape="rect" id="node5" href="$classQuantConnect_1_1Securities_1_1Volatility_1_1BaseVolatilityModel.html#a1447baed13180db4f86dc485496400b8" title="Gets history requests required for warming up the greeks with the provided resolution" alt="" coords="335,232,551,288"/>
+<area shape="rect" id="node6" href="$classQuantConnect_1_1Data_1_1HistoryRequestFactory.html#a76f5a4548714e2abf1a8c2d7e0664564" title="Gets the start time required for the specified bar count in terms of the algorithm&#39;s time zone" alt="" coords="316,313,571,354"/>
+<area shape="rect" id="node7" href="$classQuantConnect_1_1Lean_1_1Engine_1_1DataFeeds_1_1BacktestingChainProvider.html#a903ec0b9ee074f1a7ee6d1eccc5f712b" title="Get the contract symbols associated with the given canonical symbol and date" alt="" coords="310,379,577,435"/>
+<area shape="rect" id="node8" href="$classQuantConnect_1_1Lean_1_1Engine_1_1DataFeeds_1_1BacktestingFutureChainProvider.html#ad95ac9ea6895b03fa51209aa7e9c2fb4" title="Gets the list of future contracts for a given underlying symbol" alt="" coords="6,339,257,395"/>
+<area shape="rect" id="node9" href="$classQuantConnect_1_1Lean_1_1Engine_1_1DataFeeds_1_1BacktestingOptionChainProvider.html#a5b140615fad8e3c0f8d08597a7ca1509" title="Gets the list of option contracts for a given underlying symbol" alt="" coords="5,419,257,475"/>
+</map>

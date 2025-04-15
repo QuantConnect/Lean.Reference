@@ -1,0 +1,9 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$classQuantConnect_1_1Python_1_1BasePythonWrapper.html" title=" " alt="" coords="5,5,273,47"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Python_1_1SettlementModelPythonWrapper.html" title="Provides an implementation of ISettlementModel that wraps a PyObject object" alt="" coords="321,5,560,47"/>
+<area shape="rect" id="node3" href="$interfaceQuantConnect_1_1Securities_1_1ISettlementModel.html" title="Represents the model responsible for applying cash settlement rules" alt="" coords="46,71,233,112"/>
+<area shape="rect" id="node4" href="$classQuantConnect_1_1Securities_1_1DelayedSettlementModel.html" title="Represents the model responsible for applying cash settlement rules" alt="" coords="347,71,535,112"/>
+<area shape="rect" id="node5" href="$classQuantConnect_1_1Securities_1_1ImmediateSettlementModel.html" title="Represents the model responsible for applying cash settlement rules" alt="" coords="338,136,543,177"/>
+<area shape="rect" id="node6" href="$classQuantConnect_1_1Securities_1_1AccountCurrencyImmediateSettlementModel.html" title="Represents the model responsible for applying cash settlement rules" alt="" coords="608,103,923,144"/>
+<area shape="rect" id="node7" href="$classQuantConnect_1_1Securities_1_1Future_1_1FutureSettlementModel.html" title="Settlement model which can handle daily profit and loss settlement" alt="" coords="655,168,875,209"/>
+</map>

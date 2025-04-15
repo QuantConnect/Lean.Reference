@@ -1,0 +1,6 @@
+<map id="QuantConnect.Indicators.IndicatorDataPoint.CompareTo" name="QuantConnect.Indicators.IndicatorDataPoint.CompareTo">
+<area shape="rect" id="node1" title="Compares the current instance with another object of the same type and returns an integer that indica..." alt="" coords="5,79,225,120"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Indicators_1_1IndicatorDataPoint.html#a00780449b0a2e04a9be23efb30d99de4" title="Compares the current object with another object of the same type." alt="" coords="310,5,530,47"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Indicators_1_1IndicatorDataPoint.html#aea0361411ebee46f88ee20051fffa598" title="Initializes a new default instance of IndicatorDataPoint with a time of DateTime.MinValue and a Value..." alt="" coords="318,71,522,127"/>
+<area shape="rect" id="node4" href="$classQuantConnect_1_1Messages_1_1IndicatorDataPoint.html#a0a7890b61a18bc9bf0cfbd09519eee69" title="Returns a string message saying the given type is invalid for certain object" alt="" coords="273,152,567,193"/>
+</map>

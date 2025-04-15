@@ -1,0 +1,7 @@
+<map id="QuantConnect.Research.QuantBook.FutureHistory" name="QuantConnect.Research.QuantBook.FutureHistory">
+<area shape="rect" id="node1" title="Gets FutureHistory object for a given symbol, date and resolution" alt="" coords="5,71,227,112"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Securities_1_1Security.html#a5222780984d6f5e590688cb9bbc035a2" title="Adds the specified custom property. This allows us to use the security object as a dynamic object for..." alt="" coords="318,5,505,47"/>
+<area shape="rect" id="node4" href="$classQuantConnect_1_1Algorithm_1_1QCAlgorithm.html#a446a10e68319fdc3c0b2ed85d80f55f8" title="Get the history for all configured securities over the requested span. This will use the resolution a..." alt="" coords="275,71,548,112"/>
+<area shape="rect" id="node5" href="$classQuantConnect_1_1Symbol.html#a1f3c25223fd9a7b753a4f84ece6469ab" title="Method returns true, if symbol is a derivative canonical symbol" alt="" coords="288,137,535,163"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Securities_1_1Security.html#af0012f68bb120e83270e85f90bb02a1d" title="Sets the specified custom property. This allows us to use the security object as a dynamic object for..." alt="" coords="596,5,783,47"/>
+</map>

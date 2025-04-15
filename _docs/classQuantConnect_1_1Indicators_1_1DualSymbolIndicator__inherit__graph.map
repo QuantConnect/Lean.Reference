@@ -1,0 +1,6 @@
+<map id="QuantConnect.Indicators.DualSymbolIndicator&lt; TInput &gt;" name="QuantConnect.Indicators.DualSymbolIndicator&lt; TInput &gt;">
+<area shape="rect" id="node1" title="Base class for indicators that work with two different symbols and calculate an indicator based on th..." alt="" coords="98,169,327,211"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Indicators_1_1MultiSymbolIndicator.html" title="Base class for indicators that work with multiple different symbols." alt="" coords="132,80,293,121"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Indicators_1_1IndicatorBase.html" title=" " alt="" coords="5,5,188,32"/>
+<area shape="rect" id="node4" href="$interfaceQuantConnect_1_1Indicators_1_1IIndicatorWarmUpPeriodProvider.html" title="Represents an indicator with a warm up period provider." alt="" coords="213,5,447,32"/>
+</map>

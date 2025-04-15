@@ -1,0 +1,4 @@
+<map id="QuantConnect.Commands.CallbackCommand.ToString" name="QuantConnect.Commands.CallbackCommand.ToString">
+<area shape="rect" id="node1" title="The command string representation" alt="" coords="361,5,613,47"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Commands_1_1BaseCommandHandler.html#ad15f3249bafb097a7ab16d1b2ed09646" title="Helper method to create a callback command" alt="" coords="5,5,313,47"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="QuantConnect.Storage.ObjectStore.SaveString" name="QuantConnect.Storage.ObjectStore.SaveString">
+<area shape="rect" id="node1" title="Saves the object data in text format for the specified path" alt="" coords="268,39,483,80"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Storage_1_1ObjectStore.html#a174a49b8941e3e9f495a7e21af78be7c" title="Saves the object data in JSON format for the specified path" alt="" coords="5,5,220,47"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Storage_1_1ObjectStore.html#a3e6d0c05bc7a35f7569741e6a466c24f" title="Saves the object data in XML format for the specified path" alt="" coords="5,71,220,112"/>
+</map>

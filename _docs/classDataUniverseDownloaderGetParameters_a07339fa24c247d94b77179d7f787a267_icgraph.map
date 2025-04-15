@@ -1,0 +1,4 @@
+<map id="DataUniverseDownloaderGetParameters.CreateDataDownloaderGetParameters" name="DataUniverseDownloaderGetParameters.CreateDataDownloaderGetParameters">
+<area shape="rect" id="node1" title="Creates data download parameters for each day in the range." alt="" coords="297,5,549,61"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Data_1_1UniverseSelection_1_1UniverseExtensions.html#a1580570889a163a79e8951fa6d9ec401" title="Processes the universe download based on parameters." alt="" coords="5,5,249,61"/>
+</map>

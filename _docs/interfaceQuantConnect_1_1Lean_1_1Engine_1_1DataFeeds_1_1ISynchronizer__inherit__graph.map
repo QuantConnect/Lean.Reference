@@ -1,0 +1,5 @@
+<map id="QuantConnect.Lean.Engine.DataFeeds.ISynchronizer" name="QuantConnect.Lean.Engine.DataFeeds.ISynchronizer">
+<area shape="rect" id="node1" title="Interface which provides the data to stream to the algorithm" alt="" coords="8,5,209,47"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Lean_1_1Engine_1_1DataFeeds_1_1Synchronizer.html" title="Implementation of the ISynchronizer interface which provides the mechanism to stream data to the algo..." alt="" coords="8,95,209,136"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Lean_1_1Engine_1_1DataFeeds_1_1LiveSynchronizer.html" title="Implementation of the ISynchronizer interface which provides the mechanism to stream live data to the..." alt="" coords="5,184,212,225"/>
+</map>

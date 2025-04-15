@@ -1,0 +1,5 @@
+<map id="QuantConnect.Data.Fundamental.NormalizedNetProfitMargin" name="QuantConnect.Data.Fundamental.NormalizedNetProfitMargin">
+<area shape="rect" id="node1" title="Normalized Income / Total Revenue. A measure of profitability of the company calculated by finding No..." alt="" coords="5,155,248,196"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Data_1_1Fundamental_1_1MultiPeriodField.html" title="Abstract base class for multi&#45;period fields" alt="" coords="63,80,190,107"/>
+<area shape="rect" id="node3" title=" " alt="" coords="48,5,205,32"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="QuantConnect.Lean.Engine.LeanEngineAlgorithmHandlers.LeanEngineAlgorithmHandlers" name="QuantConnect.Lean.Engine.LeanEngineAlgorithmHandlers.LeanEngineAlgorithmHandlers">
+<area shape="rect" id="node1" title="Initializes a new instance of the LeanEngineAlgorithmHandlers class from the specified handlers" alt="" coords="5,5,260,61"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Data_1_1DataMonitor.html#a2b093a9e2f75233489a1a2a842683340" title="Event handler for the IDataProvider.NewDataRequest event" alt="" coords="308,13,545,54"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Data_1_1DataMonitor.html#a80fe210c00f816556178165f13fc371c" title="Strips the given data folder path" alt="" coords="593,13,831,54"/>
+</map>

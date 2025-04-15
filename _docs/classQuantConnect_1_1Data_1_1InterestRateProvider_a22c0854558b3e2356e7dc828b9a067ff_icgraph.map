@@ -1,0 +1,4 @@
+<map id="QuantConnect.Data.InterestRateProvider.FromCsvFile" name="QuantConnect.Data.InterestRateProvider.FromCsvFile">
+<area shape="rect" id="node1" title="Reads Fed primary credit rate file and returns a dictionary of historical rate changes" alt="" coords="320,5,523,47"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Data_1_1InterestRateProvider.html#a1d97c8be3250bcbe59fe0feda4cc7843" title="Generate the daily historical US primary credit rate" alt="" coords="5,5,272,47"/>
+</map>

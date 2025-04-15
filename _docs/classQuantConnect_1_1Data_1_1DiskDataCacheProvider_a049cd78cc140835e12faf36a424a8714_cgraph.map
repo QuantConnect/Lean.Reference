@@ -1,0 +1,5 @@
+<map id="QuantConnect.Data.DiskDataCacheProvider.GetZipEntries" name="QuantConnect.Data.DiskDataCacheProvider.GetZipEntries">
+<area shape="rect" id="node1" title="Returns a list of zip entries in a provided zip file" alt="" coords="5,39,219,80"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Compression.html#af62080d70c8729b62c0eb4a9f127cde5" title="Returns the entry file names contained in a zip file" alt="" coords="268,5,475,47"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1FileExtension.html#a6752b1febfd438db134a349a442c5322" title="Takes a given path and (if applicable) returns a modified path accepted by Windows OS" alt="" coords="267,71,476,112"/>
+</map>

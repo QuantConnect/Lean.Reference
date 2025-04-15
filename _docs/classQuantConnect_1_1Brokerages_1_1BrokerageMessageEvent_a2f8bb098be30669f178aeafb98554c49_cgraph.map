@@ -1,0 +1,4 @@
+<map id="QuantConnect.Brokerages.BrokerageMessageEvent.ToString" name="QuantConnect.Brokerages.BrokerageMessageEvent.ToString">
+<area shape="rect" id="node1" title="Returns a string that represents the current object." alt="" coords="5,5,244,47"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Messages_1_1BrokerageMessageEvent.html#aeaba4452cf5ad5dc959d90967d039ae0" title="Parses a given BrokerageMessageEvent object into a string containing basic information about it" alt="" coords="292,5,545,47"/>
+</map>

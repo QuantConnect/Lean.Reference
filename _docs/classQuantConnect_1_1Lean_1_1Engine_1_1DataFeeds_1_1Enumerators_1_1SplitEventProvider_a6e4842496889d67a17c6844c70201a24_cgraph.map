@@ -1,0 +1,4 @@
+<map id="QuantConnect.Lean.Engine.DataFeeds.Enumerators.SplitEventProvider.GetEvents" name="QuantConnect.Lean.Engine.DataFeeds.Enumerators.SplitEventProvider.GetEvents">
+<area shape="rect" id="node1" title="Check for new splits" alt="" coords="5,5,253,61"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Data_1_1Auxiliary_1_1MapFile.html#a0450eb9556a318d62727d594e8570e25" title="Determines if there&#39;s data for the requested date" alt="" coords="301,13,515,54"/>
+</map>

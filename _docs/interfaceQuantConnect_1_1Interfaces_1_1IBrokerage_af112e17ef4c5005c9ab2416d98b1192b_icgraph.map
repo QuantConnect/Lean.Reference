@@ -1,0 +1,5 @@
+<map id="QuantConnect.Interfaces.IBrokerage.GetAccountHoldings" name="QuantConnect.Interfaces.IBrokerage.GetAccountHoldings">
+<area shape="rect" id="node1" title="Gets all holdings for the account" alt="" coords="609,13,837,54"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Lean_1_1Engine_1_1Setup_1_1BrokerageSetupHandler.html#abcd444fc0f3eca0af0470d9f963a5efd" title="Loads existing holdings and orders" alt="" coords="311,5,561,61"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Lean_1_1Engine_1_1Setup_1_1BrokerageSetupHandler.html#a31fba19179b2197553a8f0152885886b" title="Primary entry point to setup a new algorithm" alt="" coords="5,13,263,54"/>
+</map>

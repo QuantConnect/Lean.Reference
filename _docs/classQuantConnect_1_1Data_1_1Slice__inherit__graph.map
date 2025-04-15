@@ -1,0 +1,6 @@
+<map id="QuantConnect.Data.Slice" name="QuantConnect.Data.Slice">
+<area shape="rect" id="node1" title="Provides a data structure for all of an algorithm&#39;s data at a single time step" alt="" coords="89,95,273,121"/>
+<area shape="rect" id="node4" href="$classQuantConnect_1_1Python_1_1PythonSlice.html" title="Provides a data structure for all of an algorithm&#39;s data at a single time step" alt="" coords="75,169,287,211"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1ExtendedDictionary.html" title=" " alt="" coords="5,5,156,47"/>
+<area shape="rect" id="node3" title=" " alt="" coords="181,5,383,47"/>
+</map>

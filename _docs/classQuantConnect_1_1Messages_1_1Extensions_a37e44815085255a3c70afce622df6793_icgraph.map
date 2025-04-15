@@ -1,0 +1,5 @@
+<map id="QuantConnect.Messages.Extensions.UnknownOptionStyle" name="QuantConnect.Messages.Extensions.UnknownOptionStyle">
+<area shape="rect" id="node1" title="Returns a string message saying the given OptionStyle was unexpected/unknown" alt="" coords="247,39,509,80"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Extensions.html#a4d805b055dab4a2305275c55e0cc1653" title="Converts the specified optionStyle &#160;value to its corresponding lower&#45;case string representation" alt="" coords="5,5,199,47"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Extensions.html#a9f36943b75eee5956cdea762cafce152" title="Converts the specified string to its corresponding OptionStyle" alt="" coords="5,71,199,112"/>
+</map>

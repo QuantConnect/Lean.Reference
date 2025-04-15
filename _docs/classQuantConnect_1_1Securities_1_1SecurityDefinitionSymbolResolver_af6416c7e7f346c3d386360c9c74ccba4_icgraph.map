@@ -1,0 +1,4 @@
+<map id="QuantConnect.Securities.SecurityDefinitionSymbolResolver.CUSIP" name="QuantConnect.Securities.SecurityDefinitionSymbolResolver.CUSIP">
+<area shape="rect" id="node1" title="Converts CUSIP into a Lean Symbol" alt="" coords="327,5,613,47"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Algorithm_1_1QCAlgorithm.html#a52a57674bfb837e77780f54a741ba768" title="Converts a CUSIP identifier into a Symbol" alt="" coords="5,5,279,47"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="QuantConnect.Api.AuthenticationResponse" name="QuantConnect.Api.AuthenticationResponse">
+<area shape="rect" id="node1" title="Verify if the credentials are OK." alt="" coords="5,155,244,196"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Api_1_1RestResponse.html" title="Base API response class for the QuantConnect API." alt="" coords="67,80,182,107"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Api_1_1StringRepresentation.html" title="Class to return the string representation of an API response class" alt="" coords="45,5,204,32"/>
+</map>

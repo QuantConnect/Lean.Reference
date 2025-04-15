@@ -1,0 +1,8 @@
+<map id="QuantConnect.Orders.OrderTicket.InvalidUpdateOrderId" name="QuantConnect.Orders.OrderTicket.InvalidUpdateOrderId">
+<area shape="rect" id="node1" title="Creates a new OrderTicket that represents trying to update an order for which no ticket exists" alt="" coords="5,71,209,112"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Orders_1_1OrderTicket.html#a98ce7c56ada5180837251daf129901be" title="Initializes a new instance of the OrderTicket class" alt="" coords="263,5,464,47"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Orders_1_1OrderRequest.html#aed73f8f311c9224866211078cd6caef1" title="Sets the Response for this request" alt="" coords="263,71,464,112"/>
+<area shape="rect" id="node4" href="$classQuantConnect_1_1Orders_1_1OrderResponse.html#a1da35cb92d94723fc18b1937861860f7" title="Helper method to create an error response due to a bad order id" alt="" coords="257,136,469,177"/>
+<area shape="rect" id="node5" href="$classQuantConnect_1_1Orders_1_1OrderResponse.html#a14ded2753785926becc5e7f8e5a02a09" title="Helper method to create an error response from a request" alt="" coords="528,103,729,144"/>
+<area shape="rect" id="node6" href="$classQuantConnect_1_1Messages_1_1OrderResponse.html#ab7056e16b77f50aeb52982d2600b50ec" title="Returns a string message saying it was impossible to locate the order with the id from the given requ..." alt="" coords="517,168,740,209"/>
+</map>

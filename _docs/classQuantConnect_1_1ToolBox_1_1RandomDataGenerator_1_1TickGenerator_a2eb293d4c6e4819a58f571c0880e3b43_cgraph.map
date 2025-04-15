@@ -1,0 +1,7 @@
+<map id="QuantConnect.ToolBox.RandomDataGenerator.TickGenerator.NextTickTime" name="QuantConnect.ToolBox.RandomDataGenerator.TickGenerator.NextTickTime">
+<area shape="rect" id="node1" title="Generates a random DateTime suitable for use as a tick&#39;s emit time. If the density provided is DataDe..." alt="" coords="5,35,252,91"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Securities_1_1MarketHoursDatabase.html#ab10d5242b6fcbe4d9f7aacd800e0efea" title="Convenience method for retrieving exchange hours from market hours database using a subscription conf..." alt="" coords="300,5,595,47"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Securities_1_1SecurityExchangeHours.html#a180c418cdce27edaa7d55170a225761e" title="Gets the local date time corresponding to the next market open following the specified time" alt="" coords="330,71,565,127"/>
+<area shape="rect" id="node4" href="$classQuantConnect_1_1Securities_1_1SecurityExchangeHours.html#a106e2dd187ab76452e14ac6a28f929aa" title="Helper to access the market hours field based on the day of week" alt="" coords="643,79,929,120"/>
+<area shape="rect" id="node5" href="$classQuantConnect_1_1Securities_1_1LocalMarketHours.html#a1e9178f81413c7d1f032a003d74acecf" title="Gets a LocalMarketHours instance that is always closed" alt="" coords="977,79,1208,120"/>
+</map>

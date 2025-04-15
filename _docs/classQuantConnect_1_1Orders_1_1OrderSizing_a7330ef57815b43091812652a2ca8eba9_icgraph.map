@@ -1,0 +1,4 @@
+<map id="QuantConnect.Orders.OrderSizing.GetOrderSizeForPercentVolume" name="QuantConnect.Orders.OrderSizing.GetOrderSizeForPercentVolume">
+<area shape="rect" id="node1" title="Adjust the provided order size to respect maximum order size based on a percentage of current volume." alt="" coords="337,13,607,54"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Algorithm_1_1Framework_1_1Execution_1_1VolumeWeightedAveragePriceExecutionModel.html#ae0bd79cb99f23a4180fce80f263ec671" title="Submit orders for the specified portfolio targets. This model is free to delay or spread out these or..." alt="" coords="5,5,289,61"/>
+</map>

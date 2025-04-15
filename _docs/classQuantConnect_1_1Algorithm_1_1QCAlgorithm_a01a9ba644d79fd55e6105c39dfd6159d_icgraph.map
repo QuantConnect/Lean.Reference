@@ -1,0 +1,4 @@
+<map id="QuantConnect.Algorithm.QCAlgorithm.DeregisterIndicator" name="QuantConnect.Algorithm.QCAlgorithm.DeregisterIndicator">
+<area shape="rect" id="node1" title="Will deregister an indicator and it&#39;s associated consolidator instance so they stop receiving data up..." alt="" coords="327,5,600,47"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Algorithm_1_1QCAlgorithm.html#a5fa01b04da66f3c189ac3dc6bc2742d6" title="Will unregister an indicator and it&#39;s associated consolidator instance so they stop receiving data up..." alt="" coords="5,5,279,47"/>
+</map>

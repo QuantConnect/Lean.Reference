@@ -1,0 +1,4 @@
+<map id="QuantConnect.Messages.BuyingPowerModel.InsufficientBuyingPowerDueToNullOrderTicket" name="QuantConnect.Messages.BuyingPowerModel.InsufficientBuyingPowerDueToNullOrderTicket">
+<area shape="rect" id="node1" title="Returns a string message saying the order associated with the id of the given order is null" alt="" coords="291,5,553,61"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Securities_1_1BuyingPowerModel.html#a0140983f8f8ab4d126538464a6e24bb1" title="Check if there is sufficient buying power to execute this order." alt="" coords="5,5,243,61"/>
+</map>

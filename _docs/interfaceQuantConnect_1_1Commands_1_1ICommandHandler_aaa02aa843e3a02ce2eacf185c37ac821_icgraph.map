@@ -1,0 +1,4 @@
+<map id="QuantConnect.Commands.ICommandHandler.ProcessCommands" name="QuantConnect.Commands.ICommandHandler.ProcessCommands">
+<area shape="rect" id="node1" title="Process any commands in the queue" alt="" coords="292,5,559,47"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Lean_1_1Engine_1_1Server_1_1LocalLeanManager.html#a72a461dc622d570a20116e5a832a3024" title="Execute the commands using the IAlgorithm instance" alt="" coords="5,5,244,47"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="QuantConnect.Api.BasicObjectStore" name="QuantConnect.Api.BasicObjectStore">
+<area shape="rect" id="node1" title="Class contining basic store properties present in the REST response from QC API" alt="" coords="116,5,336,47"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Api_1_1PropertiesObjectStore.html" title="Object Store file properties" alt="" coords="5,95,215,136"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Api_1_1SummaryObjectStore.html" title="Summary information of the Object Store" alt="" coords="239,95,445,136"/>
+</map>

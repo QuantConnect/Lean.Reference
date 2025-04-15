@@ -1,0 +1,6 @@
+<map id="QuantConnect.Data.IDividendYieldModel" name="QuantConnect.Data.IDividendYieldModel">
+<area shape="rect" id="node1" title="Represents a model that provides dividend yield data" alt="" coords="5,71,220,112"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Data_1_1ConstantDividendYieldModel.html" title="Constant dividend yield model" alt="" coords="275,5,486,47"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Data_1_1DividendYieldProvider.html" title="Estimated annualized continuous dividend yield at given date" alt="" coords="275,71,486,112"/>
+<area shape="rect" id="node4" href="$classQuantConnect_1_1Python_1_1DividendYieldModelPythonWrapper.html" title="Wraps a PyObject object that represents a dividend yield model" alt="" coords="268,136,493,177"/>
+</map>

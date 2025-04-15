@@ -1,0 +1,15 @@
+<map id="QuantConnect.Data.Market.IBaseDataBar" name="QuantConnect.Data.Market.IBaseDataBar">
+<area shape="rect" id="node1" title="Represents a type that is both a bar and base data" alt="" coords="320,96,523,137"/>
+<area shape="rect" id="node5" href="$classQuantConnect_1_1Data_1_1Market_1_1BaseRenkoBar.html" title="Represents a bar sectioned not by time, but by some amount of movement in a set field,..." alt="" coords="843,37,1046,79"/>
+<area shape="rect" id="node8" href="$classQuantConnect_1_1Data_1_1Market_1_1QuoteBar.html" title="QuoteBar class for second and minute resolution data: An OHLC implementation of the QuantConnect Base..." alt="" coords="571,96,773,137"/>
+<area shape="rect" id="node9" href="$classQuantConnect_1_1Data_1_1Market_1_1TradeBar.html" title="TradeBar class for second and minute resolution data: An OHLC implementation of the QuantConnect Base..." alt="" coords="571,161,773,203"/>
+<area shape="rect" id="node2" href="$interfaceQuantConnect_1_1Data_1_1IBaseData.html" title="Base Data Class: Type, Timestamp, Key – Base Features." alt="" coords="183,78,272,105"/>
+<area shape="rect" id="node3" href="$interfaceQuantConnect_1_1Data_1_1ISymbolProvider.html" title="Base data with a symbol" alt="" coords="5,78,135,105"/>
+<area shape="rect" id="node4" href="$interfaceQuantConnect_1_1Data_1_1Market_1_1IBar.html" title="Generic bar interface with Open, High, Low and Close." alt="" coords="203,129,251,155"/>
+<area shape="rect" id="node6" href="$classQuantConnect_1_1Data_1_1Market_1_1RenkoBar.html" title="Represents a bar sectioned not by time, but by some amount of movement in a value (for example,..." alt="" coords="1118,5,1321,47"/>
+<area shape="rect" id="node7" href="$classQuantConnect_1_1Data_1_1Market_1_1VolumeRenkoBar.html" title="Represents a bar sectioned not by time, but by some amount of movement in volume" alt="" coords="1118,71,1321,112"/>
+<area shape="rect" id="node10" href="$classQuantConnect_1_1Data_1_1Custom_1_1IconicTypes_1_1UnlinkedDataTradeBar.html" title="Data source that is unlinked (no mapping) and takes any ticker when calling AddData" alt="" coords="821,103,1068,144"/>
+<area shape="rect" id="node11" href="$classQuantConnect_1_1Data_1_1Custom_1_1Tiingo_1_1TiingoPrice.html" title="Tiingo daily price data https://api.tiingo.com/docs/tiingo/daily" alt="" coords="841,168,1048,209"/>
+<area shape="rect" id="node13" href="$classQuantConnect_1_1Data_1_1Market_1_1RangeBar.html" title="Represents a bar sectioned not by time, but by some amount of movement in a value (for example,..." alt="" coords="843,233,1046,275"/>
+<area shape="rect" id="node12" href="$classQuantConnect_1_1Data_1_1Custom_1_1Tiingo_1_1TiingoDailyData.html" title="Tiingo daily price data https://api.tiingo.com/docs/tiingo/daily" alt="" coords="1116,168,1323,209"/>
+</map>

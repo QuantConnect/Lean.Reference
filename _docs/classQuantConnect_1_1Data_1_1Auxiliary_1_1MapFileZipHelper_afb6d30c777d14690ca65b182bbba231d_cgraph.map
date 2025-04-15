@@ -1,0 +1,4 @@
+<map id="QuantConnect.Data.Auxiliary.MapFileZipHelper.GetMapFileZipFileName" name="QuantConnect.Data.Auxiliary.MapFileZipHelper.GetMapFileZipFileName">
+<area shape="rect" id="node1" title="Gets the mapfile zip filename for the specified date" alt="" coords="5,5,303,47"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Data_1_1Auxiliary_1_1MapFile.html#aeeaf8823a4b232998622b92569ad425c" title="Constructs the map file path for the specified market and symbol" alt="" coords="351,5,584,47"/>
+</map>

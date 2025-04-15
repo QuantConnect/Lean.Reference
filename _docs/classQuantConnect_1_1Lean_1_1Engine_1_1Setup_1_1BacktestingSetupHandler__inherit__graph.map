@@ -1,0 +1,6 @@
+<map id="QuantConnect.Lean.Engine.Setup.BacktestingSetupHandler" name="QuantConnect.Lean.Engine.Setup.BacktestingSetupHandler">
+<area shape="rect" id="node1" title="Backtesting setup handler processes the algorithm initialize method and sets up the internal state of..." alt="" coords="5,155,233,196"/>
+<area shape="rect" id="node4" href="$classQuantConnect_1_1Lean_1_1Engine_1_1Setup_1_1ConsoleSetupHandler.html" title="Kept for backwards compatibility&#45;" alt="" coords="18,244,221,285"/>
+<area shape="rect" id="node2" href="$interfaceQuantConnect_1_1Lean_1_1Engine_1_1Setup_1_1ISetupHandler.html" title="Interface to setup the algorithm. Pass in a raw algorithm, return one with portfolio,..." alt="" coords="62,80,177,107"/>
+<area shape="rect" id="node3" title=" " alt="" coords="70,5,169,32"/>
+</map>

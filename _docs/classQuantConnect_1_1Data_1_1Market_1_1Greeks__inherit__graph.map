@@ -1,0 +1,5 @@
+<map id="QuantConnect.Data.Market.Greeks" name="QuantConnect.Data.Market.Greeks">
+<area shape="rect" id="node1" title="Defines the greeks" alt="" coords="119,5,321,47"/>
+<area shape="rect" id="node2" title="Defines the greeks" alt="" coords="5,95,208,136"/>
+<area shape="rect" id="node3" title="Defines greeks that are all zero" alt="" coords="232,95,435,136"/>
+</map>

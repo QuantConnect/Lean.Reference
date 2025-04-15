@@ -1,0 +1,5 @@
+<map id="QuantConnect.Indicators.CandlestickPatterns.ThreeLineStrike" name="QuantConnect.Indicators.CandlestickPatterns.ThreeLineStrike">
+<area shape="rect" id="node1" title="Three Line Strike candlestick pattern" alt="" coords="5,169,224,225"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Indicators_1_1CandlestickPatterns_1_1CandlestickPattern.html" title="Abstract base class for a candlestick pattern indicator" alt="" coords="43,95,187,121"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Indicators_1_1WindowIndicator.html" title=" " alt="" coords="8,5,221,47"/>
+</map>

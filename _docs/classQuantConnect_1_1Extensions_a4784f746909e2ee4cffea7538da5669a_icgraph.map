@@ -1,0 +1,11 @@
+<map id="QuantConnect.Extensions.GetCustomDataTypeFromSymbols" name="QuantConnect.Extensions.GetCustomDataTypeFromSymbols">
+<area shape="rect" id="node1" title="Retrieve a common custom data types from the given symbols if any" alt="" coords="648,201,893,243"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Algorithm_1_1QCAlgorithm.html#a3dbba29e9f318ae97e8b99a1eb19537c" title="Helper method to create history requests from a date range" alt="" coords="327,136,600,177"/>
+<area shape="rect" id="node7" href="$classQuantConnect_1_1Algorithm_1_1QCAlgorithm.html#a80b86c4d204ee2a9b90628ddc9a765b9" title="Gets the historical data for the specified symbol. The exact number of bars will be returned...." alt="" coords="327,201,600,243"/>
+<area shape="rect" id="node8" href="$classQuantConnect_1_1Extensions.html#ae2a936226490b76f98ef2525a90f677d" title="Determines if certain data type is custom" alt="" coords="367,267,560,308"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Algorithm_1_1QCAlgorithm.html#a4a081c1d52f73c2cf8d54ef5edb95cd1" title="Gets the historical data for the specified symbols between the specified dates. The symbols must exis..." alt="" coords="5,5,279,47"/>
+<area shape="rect" id="node4" href="$classQuantConnect_1_1Algorithm_1_1QCAlgorithm.html#a28f42d241211c550e5be029478223f2c" title="Gets the historical data for the specified symbols between the specified dates. The symbols must exis..." alt="" coords="5,71,279,112"/>
+<area shape="rect" id="node5" href="$classQuantConnect_1_1Research_1_1QuantBook.html#aec46e9c9aa3c06089616c69f4eb777b7" title="Will return the universe selection data and will optionally perform selection" alt="" coords="31,136,253,177"/>
+<area shape="rect" id="node6" href="$classQuantConnect_1_1Research_1_1QuantBook.html#a4a403e952b48e9fbcedaa5af4f6a27e9" title="Will return the universe selection data and will optionally perform selection" alt="" coords="25,201,259,243"/>
+<area shape="rect" id="node9" href="$classQuantConnect_1_1Python_1_1PandasData.html#a14224c3701553aa1e567379007479df7" title="Initializes an instance of PandasData" alt="" coords="35,267,249,308"/>
+</map>

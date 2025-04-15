@@ -1,0 +1,6 @@
+<map id="QuantConnect.Lean.Engine.DataFeeds.LiveTradingDataFeed.Exit" name="QuantConnect.Lean.Engine.DataFeeds.LiveTradingDataFeed.Exit">
+<area shape="rect" id="node1" title="External controller calls to signal a terminate of the thread." alt="" coords="5,39,265,80"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Lean_1_1Engine_1_1DataFeeds_1_1BaseDataExchange.html#a5530105af44f9eb80814c75ca634d60c" title="Ends consumption of the wrapped IDataQueueHandler" alt="" coords="313,5,568,47"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Logging_1_1Log.html#a4e55477fbc790846b74550a57198cea9" title="Log trace" alt="" coords="341,71,541,112"/>
+<area shape="rect" id="node4" href="$interfaceQuantConnect_1_1Logging_1_1ILogHandler.html#a3fb71a33ac66129240b63f12b6fcda3b" title="Write debug message to log" alt="" coords="616,71,816,112"/>
+</map>

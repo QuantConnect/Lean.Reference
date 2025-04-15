@@ -1,0 +1,9 @@
+<map id="QuantConnect.Util.OptionPayoff.GetPayOff" name="QuantConnect.Util.OptionPayoff.GetPayOff">
+<area shape="rect" id="node1" title="Option payoff function at expiration time" alt="" coords="1057,46,1245,87"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Util_1_1OptionPayoff.html#a0366ba69bfc3bcf1dfba8816cdb1db42" title="Intrinsic value function of the option" alt="" coords="821,13,1009,54"/>
+<area shape="rect" id="node6" href="$classQuantConnect_1_1Securities_1_1Option_1_1Option.html#a9b490f060d7907e61a59e49b0349bc89" title="Option payoff function at expiration time" alt="" coords="822,78,1009,119"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Securities_1_1Option_1_1Option.html#a6038a942fd8a3b859a771b5269224208" title="Intrinsic value function of the option" alt="" coords="547,13,773,54"/>
+<area shape="rect" id="node4" href="$classQuantConnect_1_1Securities_1_1Option_1_1Option.html#a4779561bd70015ffe94be56dac2a1c05" title="Checks if option is eligible for automatic exercise on expiration" alt="" coords="280,13,499,54"/>
+<area shape="rect" id="node5" href="$classQuantConnect_1_1Orders_1_1OptionExercise_1_1DefaultExerciseModel.html#a11a78c1e45dcb0503484d19cd29abaea" title="Default option exercise model for the basic equity/index option security class." alt="" coords="5,5,232,61"/>
+<area shape="rect" id="node7" href="$classQuantConnect_1_1Extensions.html#af2da9d683b99983b3a3666d96a563b01" title="Gets the option&#39;s ITM amount for the given quantity." alt="" coords="563,78,757,119"/>
+</map>

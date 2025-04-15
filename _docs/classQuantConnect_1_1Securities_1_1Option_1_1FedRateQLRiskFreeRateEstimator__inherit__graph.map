@@ -1,0 +1,4 @@
+<map id="QuantConnect.Securities.Option.FedRateQLRiskFreeRateEstimator" name="QuantConnect.Securities.Option.FedRateQLRiskFreeRateEstimator">
+<area shape="rect" id="node1" title="Class implements Fed&#39;s US primary credit rate as risk free rate, implementing IQLRiskFreeRateEstimato..." alt="" coords="5,80,231,136"/>
+<area shape="rect" id="node2" href="$interfaceQuantConnect_1_1Securities_1_1Option_1_1IQLRiskFreeRateEstimator.html" title="Defines QuantLib risk free rate estimator for option pricing model." alt="" coords="22,5,214,32"/>
+</map>

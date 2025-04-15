@@ -1,0 +1,5 @@
+<map id="QuantConnect.Data.Fundamental.NonCurrentDeferredTaxesLiabilitiesBalanceSheet" name="QuantConnect.Data.Fundamental.NonCurrentDeferredTaxesLiabilitiesBalanceSheet">
+<area shape="rect" id="node1" title="The estimated future tax obligations, which usually arise when different accounting methods are used ..." alt="" coords="5,155,257,211"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Data_1_1Fundamental_1_1MultiPeriodField.html" title="Abstract base class for multi&#45;period fields" alt="" coords="68,80,195,107"/>
+<area shape="rect" id="node3" title=" " alt="" coords="53,5,210,32"/>
+</map>

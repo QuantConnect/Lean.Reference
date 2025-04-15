@@ -1,0 +1,5 @@
+<map id="QuantConnect.Data.Fundamental.ChangeInOtherCurrentLiabilitiesCashFlowStatement" name="QuantConnect.Data.Fundamental.ChangeInOtherCurrentLiabilitiesCashFlowStatement">
+<area shape="rect" id="node1" title="The increase or decrease between periods of the Other Current liabilities. Other Current liabilities ..." alt="" coords="5,155,268,211"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Data_1_1Fundamental_1_1MultiPeriodField.html" title="Abstract base class for multi&#45;period fields" alt="" coords="73,80,200,107"/>
+<area shape="rect" id="node3" title=" " alt="" coords="58,5,215,32"/>
+</map>

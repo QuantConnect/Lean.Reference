@@ -1,0 +1,4 @@
+<map id="QuantConnect.Optimizer.Strategies.StepBaseOptimizationStrategy.OnNewParameterSet" name="QuantConnect.Optimizer.Strategies.StepBaseOptimizationStrategy.OnNewParameterSet">
+<area shape="rect" id="node1" title="Handles new parameter set" alt="" coords="319,13,677,54"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Optimizer_1_1Strategies_1_1GridSearchOptimizationStrategy.html#ac59fc167cfd1cad9cde82caf2f225935" title="Checks whether new lean compute job better than previous and run new iteration if necessary." alt="" coords="5,5,271,61"/>
+</map>

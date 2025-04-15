@@ -1,0 +1,8 @@
+<map id="QuantConnect.Securities.SecurityHolding.SetHoldings" name="QuantConnect.Securities.SecurityHolding.SetHoldings">
+<area shape="rect" id="node1" title="Set the quantity of holdings and their average price after processing a portfolio fill." alt="" coords="864,43,1071,84"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Securities_1_1SecurityPortfolioManager.html#a808f4e2619ea3f081dbe17e44c6015d7" title="Applies a split to the portfolio" alt="" coords="560,5,816,47"/>
+<area shape="rect" id="node5" href="$classQuantConnect_1_1Lean_1_1Engine_1_1Setup_1_1BrokerageSetupHandler.html#abcd444fc0f3eca0af0470d9f963a5efd" title="Loads existing holdings and orders" alt="" coords="563,71,813,127"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Lean_1_1Engine_1_1AlgorithmManager.html#ab1723b951a86a876c7ae3cc7281365f3" title="Helper method to apply a split to an algorithm instance" alt="" coords="269,5,497,47"/>
+<area shape="rect" id="node4" href="$classQuantConnect_1_1Lean_1_1Engine_1_1AlgorithmManager.html#a1a51d2e48b1be28cb89347a0123c19fd" title="Launch the algorithm manager to run this strategy" alt="" coords="5,5,207,47"/>
+<area shape="rect" id="node6" href="$classQuantConnect_1_1Lean_1_1Engine_1_1Setup_1_1BrokerageSetupHandler.html#a31fba19179b2197553a8f0152885886b" title="Primary entry point to setup a new algorithm" alt="" coords="255,79,512,120"/>
+</map>

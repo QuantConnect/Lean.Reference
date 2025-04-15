@@ -1,0 +1,7 @@
+<map id="QuantConnect.Lean.Engine.LeanEngineAlgorithmHandlers.Dispose" name="QuantConnect.Lean.Engine.LeanEngineAlgorithmHandlers.Dispose">
+<area shape="rect" id="node1" title="Performs application&#45;defined tasks associated with freeing, releasing, or resetting unmanaged resourc..." alt="" coords="5,39,280,80"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Data_1_1DataMonitor.html#a2b093a9e2f75233489a1a2a842683340" title="Event handler for the IDataProvider.NewDataRequest event" alt="" coords="328,5,565,47"/>
+<area shape="rect" id="node4" href="$classQuantConnect_1_1Logging_1_1Log.html#a4e55477fbc790846b74550a57198cea9" title="Log trace" alt="" coords="347,71,547,112"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Data_1_1DataMonitor.html#a80fe210c00f816556178165f13fc371c" title="Strips the given data folder path" alt="" coords="613,5,851,47"/>
+<area shape="rect" id="node5" href="$interfaceQuantConnect_1_1Logging_1_1ILogHandler.html#a3fb71a33ac66129240b63f12b6fcda3b" title="Write debug message to log" alt="" coords="632,71,832,112"/>
+</map>

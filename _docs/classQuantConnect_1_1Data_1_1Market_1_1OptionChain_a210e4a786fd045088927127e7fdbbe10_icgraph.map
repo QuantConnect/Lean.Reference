@@ -1,0 +1,4 @@
+<map id="QuantConnect.Data.Market.OptionChain.OptionChain" name="QuantConnect.Data.Market.OptionChain.OptionChain">
+<area shape="rect" id="node1" title="Initializes a new instance of the OptionChain class" alt="" coords="256,5,459,47"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Data_1_1Market_1_1OptionChain.html#ade4b12f2216c76aa587562bacf92a88c" title="Return a new instance clone of this object, used in fill forward" alt="" coords="5,5,208,47"/>
+</map>

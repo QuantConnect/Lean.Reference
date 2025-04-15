@@ -1,0 +1,7 @@
+<map id="QuantConnect.Data.UniverseSelection.ETFConstituentUniverse.Reader" name="QuantConnect.Data.UniverseSelection.ETFConstituentUniverse.Reader">
+<area shape="rect" id="node1" title="Reader converts each line of the data source into BaseData objects. Each data type creates its own fa..." alt="" coords="5,49,252,105"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Parse.html#aac0a89458d90280d2b3b04afa9e197a2" title="Parses the provided value as a decimal using CultureInfo.InvariantCulture" alt="" coords="311,5,521,32"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1SecurityIdentifier.html#a89ccb2161613f17d18ca3dc1e9eb3872" title="Parses the specified string into a SecurityIdentifier The string must be a 40 digit number...." alt="" coords="300,57,532,98"/>
+<area shape="rect" id="node5" href="$classQuantConnect_1_1Parse.html#a57c715d022af29429a93d52ad748e499" title="Tries to parse the provided value with TryParse as a System.TimeSpan, format string,..." alt="" coords="311,122,521,163"/>
+<area shape="rect" id="node4" href="$classQuantConnect_1_1SecurityIdentifier.html#a59bd74be4ec55a0e4631af9e10f65d7c" title="Attempts to parse the specified &#160;as a SecurityIdentifier." alt="" coords="580,57,812,98"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="QuantConnect.Securities.Future.FuturesExpiryUtilityFunctions.NthBusinessDay" name="QuantConnect.Securities.Future.FuturesExpiryUtilityFunctions.NthBusinessDay">
+<area shape="rect" id="node1" title="Calculates the n^th business day of the month (includes checking for holidays)" alt="" coords="5,5,268,61"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Securities_1_1Future_1_1FuturesExpiryUtilityFunctions.html#aca9031037c022ee7e9db03c14c04ac35" title="Method to check whether a given time is holiday or not" alt="" coords="316,5,579,61"/>
+</map>

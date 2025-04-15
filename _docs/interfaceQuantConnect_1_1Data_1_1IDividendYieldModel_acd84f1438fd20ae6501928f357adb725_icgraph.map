@@ -1,0 +1,5 @@
+<map id="QuantConnect.Data.IDividendYieldModel.GetDividendYield" name="QuantConnect.Data.IDividendYieldModel.GetDividendYield">
+<area shape="rect" id="node1" title="Get dividend yield by a given date of a given symbol" alt="" coords="316,50,531,91"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Indicators_1_1OptionGreeksIndicatorBase.html#aa7dcc645c506d4c977ad88098d9faa82" title="Computes the next value of the option greek indicator" alt="" coords="5,5,268,61"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Indicators_1_1ImpliedVolatility.html#a00479c7b2cf2f6683f7dc7bdfef688e7" title="Computes the next value" alt="" coords="13,86,260,127"/>
+</map>

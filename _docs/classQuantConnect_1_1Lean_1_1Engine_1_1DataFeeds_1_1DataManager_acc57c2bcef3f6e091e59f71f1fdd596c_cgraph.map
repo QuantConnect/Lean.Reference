@@ -1,0 +1,6 @@
+<map id="QuantConnect.Lean.Engine.DataFeeds.DataManager.RemoveAllSubscriptions" name="QuantConnect.Lean.Engine.DataFeeds.DataManager.RemoveAllSubscriptions">
+<area shape="rect" id="node1" title="Will remove all current Subscription" alt="" coords="5,31,263,87"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Logging_1_1Log.html#af0e7955911bc7664b37661b2a303a9e3" title="Log error" alt="" coords="371,5,571,47"/>
+<area shape="rect" id="node4" href="$classQuantConnect_1_1Lean_1_1Engine_1_1DataFeeds_1_1DataManager.html#a86d11e0545c1c3fae6b78dc3db8347ed" title="Removes the Subscription, if it exists" alt="" coords="311,71,631,112"/>
+<area shape="rect" id="node3" href="$interfaceQuantConnect_1_1Logging_1_1ILogHandler.html#a35373a0c5d76031fa5ccf5dc39e5c25d" title="Write error message to log" alt="" coords="679,5,879,47"/>
+</map>

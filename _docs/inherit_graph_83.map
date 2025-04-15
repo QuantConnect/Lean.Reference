@@ -1,0 +1,33 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$classQuantConnect_1_1Python_1_1BasePythonWrapper.html" title=" " alt="" coords="5,627,268,668"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Python_1_1BrokerageModelPythonWrapper.html" title="Provides an implementation of IBrokerageModel that wraps a PyObject object" alt="" coords="316,627,549,668"/>
+<area shape="rect" id="node3" href="$interfaceQuantConnect_1_1Brokerages_1_1IBrokerageModel.html" title="Models brokerage transactions, fees, and order" alt="" coords="39,692,234,733"/>
+<area shape="rect" id="node4" href="$classQuantConnect_1_1Brokerages_1_1DefaultBrokerageModel.html" title="Provides a default implementation of IBrokerageModel that allows all orders and uses the default tran..." alt="" coords="335,692,530,733"/>
+<area shape="rect" id="node5" href="$classQuantConnect_1_1Brokerages_1_1AlpacaBrokerageModel.html" title="Provides an implementation of the DefaultBrokerageModel specific to Alpaca brokerage." alt="" coords="629,5,824,47"/>
+<area shape="rect" id="node6" href="$classQuantConnect_1_1Brokerages_1_1AlphaStreamsBrokerageModel.html" title="Provides properties specific to Alpha Streams" alt="" coords="617,71,836,112"/>
+<area shape="rect" id="node7" href="$classQuantConnect_1_1Brokerages_1_1AxosClearingBrokerageModel.html" title="Provides the Axos clearing brokerage model specific properties" alt="" coords="620,136,833,177"/>
+<area shape="rect" id="node8" href="$classQuantConnect_1_1Brokerages_1_1BinanceBrokerageModel.html" title="Provides Binance specific properties" alt="" coords="629,201,824,243"/>
+<area shape="rect" id="node12" href="$classQuantConnect_1_1Brokerages_1_1BitfinexBrokerageModel.html" title="Provides Bitfinex specific properties" alt="" coords="629,267,824,308"/>
+<area shape="rect" id="node13" href="$classQuantConnect_1_1Brokerages_1_1CharlesSchwabBrokerageModel.html" title="Represents a brokerage model specific to Charles Schwab." alt="" coords="613,332,840,373"/>
+<area shape="rect" id="node14" href="$classQuantConnect_1_1Brokerages_1_1CoinbaseBrokerageModel.html" title="Represents a brokerage model for interacting with the Coinbase exchange. This class extends the defau..." alt="" coords="629,397,824,439"/>
+<area shape="rect" id="node16" href="$classQuantConnect_1_1Brokerages_1_1ExanteBrokerageModel.html" title="Exante Brokerage Model Implementation for Back Testing." alt="" coords="629,463,824,504"/>
+<area shape="rect" id="node17" href="$classQuantConnect_1_1Brokerages_1_1EzeBrokerageModel.html" title="Provides Eze specific properties" alt="" coords="629,528,824,569"/>
+<area shape="rect" id="node18" href="$classQuantConnect_1_1Brokerages_1_1FTXBrokerageModel.html" title="FTX Brokerage model" alt="" coords="629,593,824,635"/>
+<area shape="rect" id="node20" href="$classQuantConnect_1_1Brokerages_1_1FxcmBrokerageModel.html" title="Provides FXCM specific properties" alt="" coords="629,659,824,700"/>
+<area shape="rect" id="node21" href="$classQuantConnect_1_1Brokerages_1_1InteractiveBrokersBrokerageModel.html" title="Provides properties specific to interactive brokers" alt="" coords="603,724,850,765"/>
+<area shape="rect" id="node22" href="$classQuantConnect_1_1Brokerages_1_1KrakenBrokerageModel.html" title="Kraken Brokerage model" alt="" coords="629,789,824,831"/>
+<area shape="rect" id="node23" href="$classQuantConnect_1_1Brokerages_1_1OandaBrokerageModel.html" title="Oanda Brokerage Model Implementation for Back Testing." alt="" coords="629,855,824,896"/>
+<area shape="rect" id="node24" href="$classQuantConnect_1_1Brokerages_1_1RBIBrokerageModel.html" title="RBI Brokerage model" alt="" coords="629,920,824,961"/>
+<area shape="rect" id="node25" href="$classQuantConnect_1_1Brokerages_1_1SamcoBrokerageModel.html" title="Brokerage Model implementation for Samco" alt="" coords="629,985,824,1027"/>
+<area shape="rect" id="node26" href="$classQuantConnect_1_1Brokerages_1_1TDAmeritradeBrokerageModel.html" title="TDAmeritrade" alt="" coords="617,1051,836,1092"/>
+<area shape="rect" id="node27" href="$classQuantConnect_1_1Brokerages_1_1TradeStationBrokerageModel.html" title="Represents a brokerage model specific to TradeStation." alt="" coords="622,1116,831,1157"/>
+<area shape="rect" id="node28" href="$classQuantConnect_1_1Brokerages_1_1TradierBrokerageModel.html" title="Provides tradier specific properties" alt="" coords="629,1181,824,1223"/>
+<area shape="rect" id="node29" href="$classQuantConnect_1_1Brokerages_1_1TradingTechnologiesBrokerageModel.html" title="Provides properties specific to Trading Technologies" alt="" coords="597,1247,856,1288"/>
+<area shape="rect" id="node30" href="$classQuantConnect_1_1Brokerages_1_1WolverineBrokerageModel.html" title="Wolverine Brokerage model" alt="" coords="629,1312,824,1353"/>
+<area shape="rect" id="node31" href="$classQuantConnect_1_1Brokerages_1_1ZerodhaBrokerageModel.html" title="Brokerage Model implementation for Zerodha" alt="" coords="629,1377,824,1419"/>
+<area shape="rect" id="node9" href="$classQuantConnect_1_1Brokerages_1_1BinanceFuturesBrokerageModel.html" title="Provides Binance Futures specific properties" alt="" coords="904,169,1132,211"/>
+<area shape="rect" id="node11" href="$classQuantConnect_1_1Brokerages_1_1BinanceUSBrokerageModel.html" title="Provides Binance.US specific properties" alt="" coords="919,235,1117,276"/>
+<area shape="rect" id="node10" href="$classQuantConnect_1_1Brokerages_1_1BinanceCoinFuturesBrokerageModel.html" title="Provides Binance Coin Futures specific properties" alt="" coords="1180,169,1437,211"/>
+<area shape="rect" id="node15" href="$classQuantConnect_1_1Brokerages_1_1GDAXBrokerageModel.html" title="Provides GDAX specific properties" alt="" coords="921,397,1115,439"/>
+<area shape="rect" id="node19" href="$classQuantConnect_1_1Brokerages_1_1FTXUSBrokerageModel.html" title="FTX.US Brokerage model" alt="" coords="921,593,1115,635"/>
+</map>

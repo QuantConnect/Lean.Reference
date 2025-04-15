@@ -1,0 +1,13 @@
+<map id="QuantConnect.Data.UniverseSelection.UniverseExtensions.RunUniverseDownloader" name="QuantConnect.Data.UniverseSelection.UniverseExtensions.RunUniverseDownloader">
+<area shape="rect" id="node1" title="Processes the universe download based on parameters." alt="" coords="5,137,249,193"/>
+<area shape="rect" id="node2" href="$classDataUniverseDownloaderGetParameters.html#a07339fa24c247d94b77179d7f787a267" title="Creates data download parameters for each day in the range." alt="" coords="300,5,552,61"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Logging_1_1Log.html#ad908daef9d61532d7d60c9dcfb9a3e0c" title="Output to the console" alt="" coords="326,86,526,127"/>
+<area shape="rect" id="node5" href="$interfaceQuantConnect_1_1IDataDownloader.html#a6c983bbc86f89268cdee6caa0ec6c661" title="Get historical data enumerable for a single symbol, type and resolution given this start and end time..." alt="" coords="297,152,555,179"/>
+<area shape="rect" id="node6" href="$classDataUniverseDownloaderGetParameters.html#a68fc04119c509dc2aba0be0e5f7f38f5" title="Gets the file name where the universe data will be saved." alt="" coords="305,203,547,245"/>
+<area shape="rect" id="node10" href="$classQuantConnect_1_1Logging_1_1Log.html#a4e55477fbc790846b74550a57198cea9" title="Log trace" alt="" coords="326,270,526,311"/>
+<area shape="rect" id="node4" href="$interfaceQuantConnect_1_1Logging_1_1ILogHandler.html#a2c738b8e78dd5b54244bc68b969ba91d" title="Write debug message to log" alt="" coords="627,86,827,127"/>
+<area shape="rect" id="node7" href="$classQuantConnect_1_1Data_1_1UniverseSelection_1_1BaseChainUniverseData.html#ad0b416bec61d51105f802c1d064e87ee" title="Generates the file path for a universe data file based on the given symbol and date...." alt="" coords="603,193,851,249"/>
+<area shape="rect" id="node8" href="$classQuantConnect_1_1Util_1_1LeanData.html#a42eec844dbd75694d08d649bfd0fa27f" title="Generates the directory to the universe files for the specified symbol" alt="" coords="899,201,1109,242"/>
+<area shape="rect" id="node9" href="$classQuantConnect_1_1Util_1_1LeanData.html#a80cb949e5e4aff26121e88359e3861b9" title="Generates the relative directory to the universe files for the specified symbol" alt="" coords="1157,201,1419,242"/>
+<area shape="rect" id="node11" href="$interfaceQuantConnect_1_1Logging_1_1ILogHandler.html#a3fb71a33ac66129240b63f12b6fcda3b" title="Write debug message to log" alt="" coords="627,274,827,315"/>
+</map>

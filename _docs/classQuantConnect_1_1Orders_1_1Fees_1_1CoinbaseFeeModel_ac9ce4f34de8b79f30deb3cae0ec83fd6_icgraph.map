@@ -1,0 +1,4 @@
+<map id="QuantConnect.Orders.Fees.CoinbaseFeeModel.GetFeePercentage" name="QuantConnect.Orders.Fees.CoinbaseFeeModel.GetFeePercentage">
+<area shape="rect" id="node1" title="Returns the maker/taker fee percentage effective at the requested date." alt="" coords="284,5,552,47"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Orders_1_1Fees_1_1CoinbaseFeeModel.html#a26ee34257676ff555ed89c9ecdf409dd" title="Get the fee for this order in quote currency" alt="" coords="5,5,236,47"/>
+</map>

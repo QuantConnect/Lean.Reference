@@ -1,0 +1,6 @@
+<map id="QuantConnect.Securities.SymbolPropertiesDatabase.FromDataFolder" name="QuantConnect.Securities.SymbolPropertiesDatabase.FromDataFolder">
+<area shape="rect" id="node1" title="Gets the instance of the SymbolPropertiesDatabase class produced by reading in the symbol properties ..." alt="" coords="5,35,241,91"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Globals.html#ae01b5c94ef475a21ab1a62fe1b04ea5c" title="Helper method that will build a data folder path checking if it exists on the cache folder else will ..." alt="" coords="318,5,513,47"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Securities_1_1SymbolPropertiesDatabase.html#a1658f93bf0dce7022bb7584e1a95cc7a" title="Initialize a new instance of SymbolPropertiesDatabase using the given file" alt="" coords="289,71,541,127"/>
+<area shape="rect" id="node4" href="$classQuantConnect_1_1Messages_1_1SymbolPropertiesDatabase.html#a6abceae517a349a28223bfc2dc9106d7" title="Returns a string saying a duplicated key was found while processing the given file" alt="" coords="589,71,829,127"/>
+</map>

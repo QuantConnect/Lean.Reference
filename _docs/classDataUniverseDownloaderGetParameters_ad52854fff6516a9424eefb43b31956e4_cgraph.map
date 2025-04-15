@@ -1,0 +1,7 @@
+<map id="DataUniverseDownloaderGetParameters.DataUniverseDownloaderGetParameters" name="DataUniverseDownloaderGetParameters.DataUniverseDownloaderGetParameters">
+<area shape="rect" id="node1" title="Initializes a new instance of the DataUniverseDownloaderGetParameters class." alt="" coords="5,67,272,123"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Securities_1_1MarketHoursDatabase.html#aa01232d91c17c556b18ea8f1f7fabcd0" title="Gets the instance of the MarketHoursDatabase class produced by reading in the market hours data found..." alt="" coords="350,30,585,86"/>
+<area shape="rect" id="node5" href="$classQuantConnect_1_1Securities_1_1MarketHoursDatabase.html#ab10d5242b6fcbe4d9f7aacd800e0efea" title="Convenience method for retrieving exchange hours from market hours database using a subscription conf..." alt="" coords="320,111,615,152"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Securities_1_1MarketHoursDatabase.html#a6fdcc5f6d09cc11743e258e570d0a9eb" title="Reads the specified file as a market hours database instance" alt="" coords="663,5,889,47"/>
+<area shape="rect" id="node4" href="$classQuantConnect_1_1Globals.html#ae01b5c94ef475a21ab1a62fe1b04ea5c" title="Helper method that will build a data folder path checking if it exists on the cache folder else will ..." alt="" coords="679,71,873,112"/>
+</map>

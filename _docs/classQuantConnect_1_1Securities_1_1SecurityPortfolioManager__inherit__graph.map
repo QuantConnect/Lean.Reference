@@ -1,0 +1,6 @@
+<map id="QuantConnect.Securities.SecurityPortfolioManager" name="QuantConnect.Securities.SecurityPortfolioManager">
+<area shape="rect" id="node1" title="Portfolio manager class groups popular properties and makes them accessible through one interface...." alt="" coords="215,71,401,112"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1ExtendedDictionary.html" title=" " alt="" coords="9,5,163,47"/>
+<area shape="rect" id="node3" title=" " alt="" coords="5,71,167,112"/>
+<area shape="rect" id="node4" href="$interfaceQuantConnect_1_1Securities_1_1ISecurityProvider.html" title="Represents a type capable of fetching the holdings for the specified symbol" alt="" coords="19,137,153,163"/>
+</map>

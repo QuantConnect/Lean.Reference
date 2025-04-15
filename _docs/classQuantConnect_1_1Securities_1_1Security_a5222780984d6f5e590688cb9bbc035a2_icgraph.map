@@ -1,0 +1,5 @@
+<map id="QuantConnect.Securities.Security.Add" name="QuantConnect.Securities.Security.Add">
+<area shape="rect" id="node1" title="Adds the specified custom property. This allows us to use the security object as a dynamic object for..." alt="" coords="544,5,731,47"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Research_1_1QuantBook.html#a6481be0ce6ba2d6144f2b48272031aac" title="Gets FutureHistory object for a given symbol, date and resolution" alt="" coords="275,5,496,47"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Research_1_1QuantBook.html#a3314fb10c220a0bad1dbe889038b389d" title="Gets FutureHistory object for a given symbol, date and resolution" alt="" coords="5,5,227,47"/>
+</map>

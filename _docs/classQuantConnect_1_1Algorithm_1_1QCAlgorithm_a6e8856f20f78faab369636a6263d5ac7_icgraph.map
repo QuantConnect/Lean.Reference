@@ -1,0 +1,6 @@
+<map id="QuantConnect.Algorithm.QCAlgorithm.Plot" name="QuantConnect.Algorithm.QCAlgorithm.Plot">
+<area shape="rect" id="node1" title="Plot a chart using string series name, with value." alt="" coords="352,64,651,91"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Algorithm_1_1QCAlgorithm.html#ae7d2c5137cf3ce8565ea1c970406a881" title="Plot a chart using string series name, with double value." alt="" coords="5,5,304,32"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Algorithm_1_1QCAlgorithm.html#a2e1a13afbc878e327a1f40fbf9bca10c" title="Automatically plots each indicator when a new value is available, optionally waiting for indicator...." alt="" coords="18,57,291,98"/>
+<area shape="rect" id="node4" href="$classQuantConnect_1_1Algorithm_1_1QCAlgorithm.html#a068f842acc8d79732d1ecac702ca9ded" title="Plot a chart using string series name, with int value. Alias of Plot();" alt="" coords="18,122,291,163"/>
+</map>

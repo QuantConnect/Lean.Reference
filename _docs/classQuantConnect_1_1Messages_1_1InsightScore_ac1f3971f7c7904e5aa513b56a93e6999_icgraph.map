@@ -1,0 +1,4 @@
+<map id="QuantConnect.Messages.InsightScore.ToString" name="QuantConnect.Messages.InsightScore.ToString">
+<area shape="rect" id="node1" title="Parses an InsightScore object into a string message containing basic information about it" alt="" coords="316,5,547,47"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Algorithm_1_1Framework_1_1Alphas_1_1InsightScore.html#a2dc806c99847589f76d9b0a0410e55f2" title="Returns a string that represents the current object." alt="" coords="5,5,268,47"/>
+</map>

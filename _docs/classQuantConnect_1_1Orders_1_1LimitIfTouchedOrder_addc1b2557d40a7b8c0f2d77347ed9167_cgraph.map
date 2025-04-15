@@ -1,0 +1,4 @@
+<map id="QuantConnect.Orders.LimitIfTouchedOrder.GetDefaultTag" name="QuantConnect.Orders.LimitIfTouchedOrder.GetDefaultTag">
+<area shape="rect" id="node1" title="Gets the default tag for this order" alt="" coords="5,5,221,47"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Messages_1_1LimitIfTouchedOrder.html#a3eafc001aa0704c3ba967970a37dfe18" title="Returns an empty string tag" alt="" coords="269,5,489,47"/>
+</map>

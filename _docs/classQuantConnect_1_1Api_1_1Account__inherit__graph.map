@@ -1,0 +1,5 @@
+<map id="QuantConnect.Api.Account" name="QuantConnect.Api.Account">
+<area shape="rect" id="node1" title="Account information for an organization" alt="" coords="5,155,200,181"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Api_1_1RestResponse.html" title="Base API response class for the QuantConnect API." alt="" coords="45,80,160,107"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Api_1_1StringRepresentation.html" title="Class to return the string representation of an API response class" alt="" coords="23,5,182,32"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="QuantConnect.Api.VersionsResponse" name="QuantConnect.Api.VersionsResponse">
+<area shape="rect" id="node1" title="Read versions response" alt="" coords="5,155,204,196"/>
+<area shape="rect" id="node4" href="$classQuantConnect_1_1Api_1_1ProjectResponse.html" title="Project list response" alt="" coords="11,244,199,285"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Api_1_1RestResponse.html" title="Base API response class for the QuantConnect API." alt="" coords="47,80,162,107"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Api_1_1StringRepresentation.html" title="Class to return the string representation of an API response class" alt="" coords="25,5,184,32"/>
+</map>

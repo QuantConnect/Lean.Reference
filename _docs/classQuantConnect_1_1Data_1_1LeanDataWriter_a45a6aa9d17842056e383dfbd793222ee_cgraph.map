@@ -1,0 +1,5 @@
+<map id="QuantConnect.Data.LeanDataWriter.Write" name="QuantConnect.Data.LeanDataWriter.Write">
+<area shape="rect" id="node1" title="Given the constructor parameters, write out the data in LEAN format." alt="" coords="5,5,220,47"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Util_1_1LeanData.html#a7ed92bff1a81ec74f705b61a4b721b5d" title="Converts the specified base data instance into a lean data file csv line. This method takes into acco..." alt="" coords="268,5,479,47"/>
+<area shape="rect" id="node3" href="$interfaceQuantConnect_1_1Data_1_1IBaseData.html#a3373b19abcdda9f0fb7571d4cecff7b8" title="Return a new instance clone of this object" alt="" coords="527,5,751,47"/>
+</map>

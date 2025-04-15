@@ -1,0 +1,4 @@
+<map id="QuantConnect.Algorithm.Framework.Alphas.InsightScoreFunctionPythonWrapper.Score" name="QuantConnect.Algorithm.Framework.Alphas.InsightScoreFunctionPythonWrapper.Score">
+<area shape="rect" id="node1" title="Method to evaluate and score insights for each time step" alt="" coords="5,13,349,54"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Python_1_1BasePythonWrapper.html#a05fa6adc417fbc2930f9bb95c91af17a" title="Invokes the specified method with the specified arguments" alt="" coords="397,5,619,61"/>
+</map>

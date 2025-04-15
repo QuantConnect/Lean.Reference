@@ -1,0 +1,4 @@
+<map id="QuantConnect.Notifications.NotificationJsonConverter.ReadJson" name="QuantConnect.Notifications.NotificationJsonConverter.ReadJson">
+<area shape="rect" id="node1" title="Reads the JSON representation of the object." alt="" coords="5,5,256,47"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Messages_1_1NotificationJsonConverter.html#ab25bca660a5604ff348b587020ed8032" title="String message saying the given object is unexpected" alt="" coords="304,5,567,47"/>
+</map>

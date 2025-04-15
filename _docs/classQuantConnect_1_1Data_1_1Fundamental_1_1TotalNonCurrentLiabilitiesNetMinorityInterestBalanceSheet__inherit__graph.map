@@ -1,0 +1,5 @@
+<map id="QuantConnect.Data.Fundamental.TotalNonCurrentLiabilitiesNetMinorityInterestBalanceSheet" name="QuantConnect.Data.Fundamental.TotalNonCurrentLiabilitiesNetMinorityInterestBalanceSheet">
+<area shape="rect" id="node1" title="Total obligations, net minority interest, incurred as part of normal operations that is expected to b..." alt="" coords="5,155,272,211"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Data_1_1Fundamental_1_1MultiPeriodField.html" title="Abstract base class for multi&#45;period fields" alt="" coords="75,80,202,107"/>
+<area shape="rect" id="node3" title=" " alt="" coords="60,5,217,32"/>
+</map>

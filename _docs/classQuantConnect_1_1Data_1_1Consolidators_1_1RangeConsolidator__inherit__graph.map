@@ -1,0 +1,5 @@
+<map id="QuantConnect.Data.Consolidators.RangeConsolidator" name="QuantConnect.Data.Consolidators.RangeConsolidator">
+<area shape="rect" id="node1" title="This consolidator can transform a stream of IBaseData instances into a stream of RangeBar" alt="" coords="5,95,252,136"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Data_1_1Consolidators_1_1ClassicRangeConsolidator.html" title="This consolidator can transform a stream of IBaseData instances into a stream of RangeBar...." alt="" coords="5,184,252,225"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Data_1_1Consolidators_1_1BaseTimelessConsolidator.html" title=" " alt="" coords="31,5,226,47"/>
+</map>

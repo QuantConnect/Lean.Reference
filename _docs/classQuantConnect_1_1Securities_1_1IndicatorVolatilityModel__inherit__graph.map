@@ -1,0 +1,5 @@
+<map id="QuantConnect.Securities.IndicatorVolatilityModel" name="QuantConnect.Securities.IndicatorVolatilityModel">
+<area shape="rect" id="node1" title="Provides an implementation of IVolatilityModel that uses an indicator to compute its value" alt="" coords="5,155,192,196"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Securities_1_1Volatility_1_1BaseVolatilityModel.html" title="Represents a base model that computes the volatility of a security" alt="" coords="23,80,175,107"/>
+<area shape="rect" id="node3" href="$interfaceQuantConnect_1_1Securities_1_1IVolatilityModel.html" title="Represents a model that computes the volatility of a security" alt="" coords="37,5,161,32"/>
+</map>

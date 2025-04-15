@@ -1,0 +1,4 @@
+<map id="QuantConnect.Lean.Engine.DataFeeds.AggregationManager.GetConsolidator" name="QuantConnect.Lean.Engine.DataFeeds.AggregationManager.GetConsolidator">
+<area shape="rect" id="node1" title="Gets the consolidator to aggregate data for the given config" alt="" coords="312,5,569,61"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Lean_1_1Engine_1_1DataFeeds_1_1AggregationManager.html#a843cc3fb25f80884d2f59f6030e0435c" title="Add new subscription to current IDataAggregator instance" alt="" coords="5,13,264,54"/>
+</map>

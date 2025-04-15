@@ -1,0 +1,8 @@
+<map id="QuantConnect.Lean.Engine.DataFeeds.Enumerators.LiveMappingEventProvider.GetEvents" name="QuantConnect.Lean.Engine.DataFeeds.Enumerators.LiveMappingEventProvider.GetEvents">
+<area shape="rect" id="node1" title="Check for new mappings" alt="" coords="5,56,271,112"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Symbol.html#a8b9805ec0602ba89ee464ec7b3634e9f" title="Determines whether the symbol has a canonical representation" alt="" coords="326,5,586,32"/>
+<area shape="rect" id="node4" href="$classQuantConnect_1_1Lean_1_1Engine_1_1DataFeeds_1_1Enumerators_1_1MappingEventProvider.html#ab68c8d755608d4f64f61e159aaea6fbb" title="Initializes the map file to use" alt="" coords="319,56,593,112"/>
+<area shape="rect" id="node5" href="$classQuantConnect_1_1Logging_1_1Log.html#a4e55477fbc790846b74550a57198cea9" title="Log trace" alt="" coords="356,137,556,178"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Symbol.html#a1f3c25223fd9a7b753a4f84ece6469ab" title="Method returns true, if symbol is a derivative canonical symbol" alt="" coords="641,5,888,32"/>
+<area shape="rect" id="node6" href="$interfaceQuantConnect_1_1Logging_1_1ILogHandler.html#a3fb71a33ac66129240b63f12b6fcda3b" title="Write debug message to log" alt="" coords="665,137,865,178"/>
+</map>

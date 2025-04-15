@@ -1,0 +1,6 @@
+<map id="QuantConnect.Algorithm.QCAlgorithm.AddOption" name="QuantConnect.Algorithm.QCAlgorithm.AddOption">
+<area shape="rect" id="node1" title="Creates and adds a new equity Option security to the algorithm" alt="" coords="327,71,600,112"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Algorithm_1_1QCAlgorithm.html#a4cc5e12518440c35921cc87e5533bf26" title="Creates and adds index options to the algorithm." alt="" coords="5,5,279,47"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Algorithm_1_1QCAlgorithm.html#a0c4386ba9e993175de4d9abf0bb940a3" title="Creates and adds a new Option security to the algorithm. This method can be used to add options with ..." alt="" coords="5,71,279,112"/>
+<area shape="rect" id="node4" href="$classQuantConnect_1_1Algorithm_1_1QCAlgorithm.html#af1f764316cffc3d289d335df1edef76e" title="Set a required SecurityType&#45;symbol and resolution for algorithm" alt="" coords="5,136,279,177"/>
+</map>

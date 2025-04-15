@@ -1,0 +1,4 @@
+<map id="QuantConnect.Data.Market.OptionChain.OptionChain" name="QuantConnect.Data.Market.OptionChain.OptionChain">
+<area shape="rect" id="node1" title="Initializes a new option chain for a list of contracts as OptionUniverse instances" alt="" coords="5,5,208,47"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Data_1_1Market_1_1OptionContract.html#aab49e02bac9783eac5ad2d6e12bc8a29" title="Creates a OptionContract" alt="" coords="256,5,459,47"/>
+</map>

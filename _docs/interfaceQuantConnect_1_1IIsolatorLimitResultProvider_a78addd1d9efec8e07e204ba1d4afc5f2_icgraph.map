@@ -1,0 +1,5 @@
+<map id="QuantConnect.IIsolatorLimitResultProvider.RequestAdditionalTime" name="QuantConnect.IIsolatorLimitResultProvider.RequestAdditionalTime">
+<area shape="rect" id="node1" title="Requests additional time from the isolator result provider. This is intended to prevent IsWithinLimit..." alt="" coords="519,5,791,47"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Scheduling_1_1TimeMonitor.html#a079a4c426a75cf6017218da16938fe4f" title="Process the TimeConsumer object in TimeConsumers list" alt="" coords="247,5,471,47"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Scheduling_1_1TimeMonitor.html#a4b1e73743eb0a2739a90f74ef21df533" title="Creates a new instance" alt="" coords="5,5,199,47"/>
+</map>

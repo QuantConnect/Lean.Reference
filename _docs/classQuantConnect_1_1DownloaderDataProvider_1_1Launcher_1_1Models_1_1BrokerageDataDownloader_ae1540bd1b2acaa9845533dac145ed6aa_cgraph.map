@@ -1,0 +1,5 @@
+<map id="QuantConnect.DownloaderDataProvider.Launcher.Models.BrokerageDataDownloader.Get" name="QuantConnect.DownloaderDataProvider.Launcher.Models.BrokerageDataDownloader.Get">
+<area shape="rect" id="node1" title="Get historical data enumerable for a single symbol, type and resolution given this start and end time..." alt="" coords="5,31,264,87"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Util_1_1LeanData.html#a77cc921eacb5e88e8575272f1a87280d" title="Gets the data type required for the specified combination of resolution and tick type" alt="" coords="312,5,523,47"/>
+<area shape="rect" id="node3" href="$interfaceQuantConnect_1_1Interfaces_1_1IBrokerage.html#a8eea81b28dedf461e3a63a0117305a71" title="Gets the history for the requested security" alt="" coords="324,71,511,112"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="QuantConnect.Algorithm.Framework.Execution.SpreadExecutionModel.PriceIsFavorable" name="QuantConnect.Algorithm.Framework.Execution.SpreadExecutionModel.PriceIsFavorable">
+<area shape="rect" id="node1" title="Determines if the current spread is equal or tighter than preset level" alt="" coords="345,5,619,61"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Algorithm_1_1Framework_1_1Execution_1_1SpreadExecutionModel.html#a5859d83fe3cc3b257b6336a4577aeccf" title="Submit orders for the specified portfolio targets if the spread is tighter/equal to preset level" alt="" coords="5,13,297,54"/>
+</map>

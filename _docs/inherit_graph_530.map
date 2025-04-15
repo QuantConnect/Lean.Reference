@@ -1,0 +1,5 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$interfaceQuantConnect_1_1Securities_1_1CurrencyConversion_1_1ICurrencyConversion.html" title="Represents a type capable of calculating the conversion rate between two currencies" alt="" coords="5,45,224,101"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Securities_1_1CurrencyConversion_1_1ConstantCurrencyConversion.html" title="Provides an implementation of ICurrencyConversion with a fixed conversion rate" alt="" coords="272,5,545,61"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Securities_1_1CurrencyConversion_1_1SecurityCurrencyConversion.html" title="Provides an implementation of ICurrencyConversion to find and use multi&#45;leg currency conversions" alt="" coords="275,85,543,141"/>
+</map>

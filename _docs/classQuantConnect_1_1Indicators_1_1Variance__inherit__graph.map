@@ -1,0 +1,6 @@
+<map id="QuantConnect.Indicators.Variance" name="QuantConnect.Indicators.Variance">
+<area shape="rect" id="node1" title="This indicator computes the n&#45;period population variance." alt="" coords="135,95,321,136"/>
+<area shape="rect" id="node4" href="$classQuantConnect_1_1Indicators_1_1StandardDeviation.html" title="This indicator computes the n&#45;period population standard deviation." alt="" coords="135,184,321,225"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Indicators_1_1WindowIndicator.html" title=" " alt="" coords="5,5,208,47"/>
+<area shape="rect" id="node3" href="$interfaceQuantConnect_1_1Indicators_1_1IIndicatorWarmUpPeriodProvider.html" title="Represents an indicator with a warm up period provider." alt="" coords="232,13,467,39"/>
+</map>

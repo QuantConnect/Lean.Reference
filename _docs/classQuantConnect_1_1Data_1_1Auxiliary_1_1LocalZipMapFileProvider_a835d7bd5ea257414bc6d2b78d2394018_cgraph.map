@@ -1,0 +1,4 @@
+<map id="QuantConnect.Data.Auxiliary.LocalZipMapFileProvider.Initialize" name="QuantConnect.Data.Auxiliary.LocalZipMapFileProvider.Initialize">
+<area shape="rect" id="node1" title="Initializes our MapFileProvider by supplying our dataProvider" alt="" coords="5,5,247,47"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Data_1_1Auxiliary_1_1LocalZipMapFileProvider.html#a3441897321a690fec7cf1df54c9d650d" title="Helper method that will clear any cached factor files in a daily basis, this is useful for live tradi..." alt="" coords="295,5,605,47"/>
+</map>

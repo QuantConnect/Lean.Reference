@@ -1,0 +1,4 @@
+<map id="QuantConnect.Orders.Fees.OrderFee.ApplyToPortfolio" name="QuantConnect.Orders.Fees.OrderFee.ApplyToPortfolio">
+<area shape="rect" id="node1" title="Applies the order fee to the given portfolio" alt="" coords="296,5,495,47"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Securities_1_1SecurityPortfolioModel.html#a5fec18e0e959a173c5fbb6187ab56f7c" title="Performs application of an OrderEvent to the portfolio" alt="" coords="5,5,248,47"/>
+</map>

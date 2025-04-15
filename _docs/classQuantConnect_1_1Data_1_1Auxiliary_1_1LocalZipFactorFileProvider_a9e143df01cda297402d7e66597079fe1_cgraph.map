@@ -1,0 +1,6 @@
+<map id="QuantConnect.Data.Auxiliary.LocalZipFactorFileProvider.Get" name="QuantConnect.Data.Auxiliary.LocalZipFactorFileProvider.Get">
+<area shape="rect" id="node1" title="Gets a FactorFile&lt;T&gt; instance for the specified symbol, or null if not found" alt="" coords="5,39,224,80"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Data_1_1Auxiliary_1_1AuxiliaryDataKey.html#a581149f0149fb793872935e0d46f0eed" title="Helper method to create a new instance from a Symbol" alt="" coords="272,5,485,47"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Logging_1_1Log.html#af0e7955911bc7664b37661b2a303a9e3" title="Log error" alt="" coords="279,71,479,112"/>
+<area shape="rect" id="node4" href="$interfaceQuantConnect_1_1Logging_1_1ILogHandler.html#a35373a0c5d76031fa5ccf5dc39e5c25d" title="Write error message to log" alt="" coords="533,71,733,112"/>
+</map>

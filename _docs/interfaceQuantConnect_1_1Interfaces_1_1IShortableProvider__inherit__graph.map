@@ -1,0 +1,7 @@
+<map id="QuantConnect.Interfaces.IShortableProvider" name="QuantConnect.Interfaces.IShortableProvider">
+<area shape="rect" id="node1" title="Defines a short list/easy&#45;to&#45;borrow provider" alt="" coords="5,71,192,112"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Data_1_1Shortable_1_1LocalDiskShortableProvider.html" title="Sources short availability data from the local disk for the given brokerage" alt="" coords="250,5,469,47"/>
+<area shape="rect" id="node4" href="$classQuantConnect_1_1Data_1_1Shortable_1_1NullShortableProvider.html" title="Defines the default shortable provider in the case that no local data exists. This will allow for all..." alt="" coords="250,71,469,112"/>
+<area shape="rect" id="node5" href="$classQuantConnect_1_1Data_1_1Shortable_1_1ShortableProviderPythonWrapper.html" title="Python wrapper for custom shortable providers" alt="" coords="240,136,479,177"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Data_1_1Shortable_1_1InteractiveBrokersShortableProvider.html" title="Sources the InteractiveBrokers short availability data from the local disk for the given brokerage" alt="" coords="527,5,784,47"/>
+</map>

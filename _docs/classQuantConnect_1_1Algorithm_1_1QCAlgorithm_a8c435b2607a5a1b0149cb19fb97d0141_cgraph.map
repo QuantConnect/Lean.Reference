@@ -1,0 +1,5 @@
+<map id="QuantConnect.Algorithm.QCAlgorithm.DCH" name="QuantConnect.Algorithm.QCAlgorithm.DCH">
+<area shape="rect" id="node1" title="Overload shorthand to create a new symmetric Donchian Channel indicator which has the upper and lower..." alt="" coords="5,13,308,39"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Algorithm_1_1QCAlgorithm.html#a5e699cceeedbf1ddf654b89034eb6e9b" title="Creates a new Donchian Channel indicator which will compute the Upper Band and Lower Band...." alt="" coords="356,13,659,39"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Algorithm_1_1QCAlgorithm.html#a46d89a30b7e0513cf7a4ac77f3ca3fe5" title="Creates a new name for an indicator created with the convenience functions (SMA, EMA,..." alt="" coords="707,5,980,47"/>
+</map>

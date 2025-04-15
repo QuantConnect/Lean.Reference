@@ -1,0 +1,4 @@
+<map id="QuantConnect.Lean.Engine.DataFeeds.DataChannelProvider.ShouldStreamSubscription" name="QuantConnect.Lean.Engine.DataFeeds.DataChannelProvider.ShouldStreamSubscription">
+<area shape="rect" id="node1" title="True if this subscription request should be streamed" alt="" coords="5,5,241,61"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Lean_1_1Engine_1_1DataFeeds_1_1DataChannelProvider.html#afe05dece8d71e8558a43100c6c578e5c" title="Returns true if the data type for the given subscription configuration supports streaming" alt="" coords="289,5,525,61"/>
+</map>

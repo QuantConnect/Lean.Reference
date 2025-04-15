@@ -1,0 +1,4 @@
+<map id="QuantConnect.ExtendedDictionary.fromkeys" name="QuantConnect.ExtendedDictionary.fromkeys">
+<area shape="rect" id="node1" title="Creates a new dictionary from the given sequence of elements." alt="" coords="300,29,609,56"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1ExtendedDictionary.html#a206122322da245cb6fffeebcfbfee272" title="Creates a shallow copy of the IExtendedDictionary&lt;TKey, TValue&gt;." alt="" coords="5,22,252,63"/>
+</map>

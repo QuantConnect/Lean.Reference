@@ -1,0 +1,4 @@
+<map id="QuantConnect.Data.Consolidators.VolumeRenkoConsolidator" name="QuantConnect.Data.Consolidators.VolumeRenkoConsolidator">
+<area shape="rect" id="node1" title="This consolidator can transform a stream of BaseData instances into a stream of RenkoBar with a const..." alt="" coords="5,80,252,121"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Data_1_1Consolidators_1_1DataConsolidator.html" title=" " alt="" coords="15,5,243,32"/>
+</map>

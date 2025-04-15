@@ -1,0 +1,4 @@
+<map id="QuantConnect.Algorithm.Framework.Selection.FundamentalUniverseSelectionModel.CreateCoarseFundamentalUniverse" name="QuantConnect.Algorithm.Framework.Selection.FundamentalUniverseSelectionModel.CreateCoarseFundamentalUniverse">
+<area shape="rect" id="node1" title="Creates the coarse fundamental universe object. This is provided to allow more flexibility when creat..." alt="" coords="343,5,640,61"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Algorithm_1_1Framework_1_1Selection_1_1FundamentalUniverseSelectionModel.html#a980f1984d0404bd39547b53f1b5bb329" title="Creates a new fundamental universe using this class&#39;s selection functions" alt="" coords="5,5,295,61"/>
+</map>

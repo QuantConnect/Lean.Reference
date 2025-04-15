@@ -1,0 +1,4 @@
+<map id="QuantConnect.Algorithm.Framework.Portfolio.MaximumSharpeRatioPortfolioOptimizer.GetBudgetConstraint" name="QuantConnect.Algorithm.Framework.Portfolio.MaximumSharpeRatioPortfolioOptimizer.GetBudgetConstraint">
+<area shape="rect" id="node1" title="Sum of all weight is one: 1^T w = 1 / Σw = 1" alt="" coords="335,5,616,61"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Algorithm_1_1Framework_1_1Portfolio_1_1MaximumSharpeRatioPortfolioOptimizer.html#a34b407d77796abdfe6276231abc33250" title="Perform portfolio optimization for a provided matrix of historical returns and an array of expected r..." alt="" coords="5,5,287,61"/>
+</map>

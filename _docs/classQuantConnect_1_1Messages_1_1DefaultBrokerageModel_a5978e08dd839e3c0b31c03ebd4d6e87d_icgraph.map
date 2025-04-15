@@ -1,0 +1,4 @@
+<map id="QuantConnect.Messages.DefaultBrokerageModel.UnsupportedCrossZeroByOrderType" name="QuantConnect.Messages.DefaultBrokerageModel.UnsupportedCrossZeroByOrderType">
+<area shape="rect" id="node1" title="Returns a message indicating that the specified order type is not supported for orders that cross the..." alt="" coords="292,5,573,61"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Brokerages_1_1TradeStationBrokerageModel.html#a58602d464d2a71f7cfc88154f2b41e97" title="Returns true if the brokerage could accept this order. This takes into account order type,..." alt="" coords="5,5,244,61"/>
+</map>

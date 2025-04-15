@@ -1,0 +1,10 @@
+<map id="QuantConnect.Api.Api.DownloadData" name="QuantConnect.Api.Api.DownloadData">
+<area shape="rect" id="node1" title="Method to purchase and download data from QuantConnect" alt="" coords="5,79,269,106"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Logging_1_1Log.html#af0e7955911bc7664b37661b2a303a9e3" title="Log error" alt="" coords="837,9,1037,51"/>
+<area shape="rect" id="node4" href="$classQuantConnect_1_1Api_1_1Api.html#a6081f6ee84c152dd58c28f2f37c1e572" title="Gets the link to the downloadable data." alt="" coords="321,39,523,80"/>
+<area shape="rect" id="node6" href="$classQuantConnect_1_1FileExtension.html#a6752b1febfd438db134a349a442c5322" title="Takes a given path and (if applicable) returns a modified path accepted by Windows OS" alt="" coords="317,104,527,145"/>
+<area shape="rect" id="node7" href="$classQuantConnect_1_1Logging_1_1Log.html#a4e55477fbc790846b74550a57198cea9" title="Log trace" alt="" coords="322,169,522,211"/>
+<area shape="rect" id="node3" href="$interfaceQuantConnect_1_1Logging_1_1ILogHandler.html#a35373a0c5d76031fa5ccf5dc39e5c25d" title="Write error message to log" alt="" coords="1085,9,1285,51"/>
+<area shape="rect" id="node5" href="$classQuantConnect_1_1Api_1_1Api.html#af6fa3039e893707a6609b967051ad4c6" title="Helper method to normalize path for api data requests" alt="" coords="575,39,789,80"/>
+<area shape="rect" id="node8" href="$interfaceQuantConnect_1_1Logging_1_1ILogHandler.html#a3fb71a33ac66129240b63f12b6fcda3b" title="Write debug message to log" alt="" coords="582,169,782,211"/>
+</map>

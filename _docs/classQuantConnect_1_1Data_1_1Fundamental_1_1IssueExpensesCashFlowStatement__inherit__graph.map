@@ -1,0 +1,5 @@
+<map id="QuantConnect.Data.Fundamental.IssueExpensesCashFlowStatement" name="QuantConnect.Data.Fundamental.IssueExpensesCashFlowStatement">
+<area shape="rect" id="node1" title="Cost associated with issuance of debt/equity capital in the Financing Cash Flow section." alt="" coords="5,155,255,196"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Data_1_1Fundamental_1_1MultiPeriodField.html" title="Abstract base class for multi&#45;period fields" alt="" coords="67,80,193,107"/>
+<area shape="rect" id="node3" title=" " alt="" coords="51,5,209,32"/>
+</map>

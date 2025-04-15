@@ -1,0 +1,6 @@
+<map id="QuantConnect.Indicators.MesaAdaptiveMovingAverage" name="QuantConnect.Indicators.MesaAdaptiveMovingAverage">
+<area shape="rect" id="node1" title="Implements the Mesa Adaptive Moving Average (MAMA) indicator along with the following FAMA (Following..." alt="" coords="90,169,306,211"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Indicators_1_1BarIndicator.html" title="The BarIndicator is an indicator that accepts IBaseDataBar data as its input." alt="" coords="51,95,153,121"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Indicators_1_1IndicatorBase.html" title=" " alt="" coords="5,5,199,47"/>
+<area shape="rect" id="node4" href="$interfaceQuantConnect_1_1Indicators_1_1IIndicatorWarmUpPeriodProvider.html" title="Represents an indicator with a warm up period provider." alt="" coords="177,95,411,121"/>
+</map>

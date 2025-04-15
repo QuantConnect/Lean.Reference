@@ -1,0 +1,5 @@
+<map id="QuantConnect.Messaging.StreamingMessageHandler.Transmit" name="QuantConnect.Messaging.StreamingMessageHandler.Transmit">
+<area shape="rect" id="node1" title="Send a message to the _server using ZeroMQ" alt="" coords="312,39,571,80"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Messaging_1_1StreamingMessageHandler.html#a6cf527335b8bd4cbfc6c16ecb5b3d966" title="Send all types of packets" alt="" coords="5,5,264,47"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Messaging_1_1StreamingMessageHandler.html#ab33f6b053b73b2124e95a387ce667bd3" title="Set the user communication channel" alt="" coords="5,71,264,112"/>
+</map>

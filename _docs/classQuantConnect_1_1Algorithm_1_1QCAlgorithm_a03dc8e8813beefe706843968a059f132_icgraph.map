@@ -1,0 +1,7 @@
+<map id="QuantConnect.Algorithm.QCAlgorithm.WarmUpIndicator" name="QuantConnect.Algorithm.QCAlgorithm.WarmUpIndicator">
+<area shape="rect" id="node1" title="Warms up a given indicator with historical data" alt="" coords="404,119,677,161"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Algorithm_1_1Framework_1_1Alphas_1_1EmaCrossAlphaModel_1_1SymbolData.html#afd6f27259aac1fc4e453aaab31e51823" title="Initializes an instance of the class SymbolData with the given arguments" alt="" coords="31,5,331,61"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Algorithm_1_1Framework_1_1Alphas_1_1MacdAlphaModel_1_1SymbolData.html#ae7da29d45ecf4119217196c2b54f93de" title="Initializes an instance of the SymbolData class with the given arguments" alt="" coords="5,86,356,127"/>
+<area shape="rect" id="node4" href="$classQuantConnect_1_1Algorithm_1_1QCAlgorithm.html#a00bc4e87a946d8e6818025811044f7c9" title="Warms up a given indicator with historical data" alt="" coords="44,151,317,193"/>
+<area shape="rect" id="node5" href="$classQuantConnect_1_1Algorithm_1_1QCAlgorithm.html#adb8b760815058e8a8075073207627aaf" title="Warms up a given indicator with historical data" alt="" coords="44,217,317,258"/>
+</map>

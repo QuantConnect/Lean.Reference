@@ -1,0 +1,4 @@
+<map id="QuantConnect.ToolBox.RawFileProcessor" name="QuantConnect.ToolBox.RawFileProcessor">
+<area shape="rect" id="node1" title="Processing harness used to read files in, parse them, and process them." alt="" coords="5,80,207,121"/>
+<area shape="rect" id="node2" title=" " alt="" coords="57,5,155,32"/>
+</map>

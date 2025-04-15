@@ -1,0 +1,5 @@
+<map id="QuantConnect.Optimizer.Strategies.StepBaseOptimizationStrategy.Step" name="QuantConnect.Optimizer.Strategies.StepBaseOptimizationStrategy.Step">
+<area shape="rect" id="node1" title="Enumerate all possible arrangements" alt="" coords="324,53,579,94"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Optimizer_1_1Strategies_1_1GridSearchOptimizationStrategy.html#ac59fc167cfd1cad9cde82caf2f225935" title="Checks whether new lean compute job better than previous and run new iteration if necessary." alt="" coords="8,5,273,61"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Optimizer_1_1Strategies_1_1EulerSearchOptimizationStrategy.html#a0a3ed91355ee72fc5ff97a547fbf8066" title="Checks whether new lean compute job better than previous and run new iteration if necessary." alt="" coords="5,85,276,141"/>
+</map>

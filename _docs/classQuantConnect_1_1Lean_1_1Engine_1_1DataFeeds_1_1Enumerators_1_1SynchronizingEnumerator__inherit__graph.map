@@ -1,0 +1,6 @@
+<map id="QuantConnect.Lean.Engine.DataFeeds.Enumerators.SynchronizingEnumerator&lt; T &gt;" name="QuantConnect.Lean.Engine.DataFeeds.Enumerators.SynchronizingEnumerator&lt; T &gt;">
+<area shape="rect" id="node1" title="Represents an enumerator capable of synchronizing other enumerators of type T in time...." alt="" coords="193,61,467,117"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Lean_1_1Engine_1_1DataFeeds_1_1Enumerators_1_1SynchronizingBaseDataEnumerator.html" title="Represents an enumerator capable of synchronizing other base data enumerators in time...." alt="" coords="515,5,769,76"/>
+<area shape="rect" id="node4" href="$classQuantConnect_1_1Lean_1_1Engine_1_1DataFeeds_1_1Enumerators_1_1SynchronizingSliceEnumerator.html" title="Represents an enumerator capable of synchronizing other slice enumerators in time...." alt="" coords="536,100,748,171"/>
+<area shape="rect" id="node2" title=" " alt="" coords="5,75,145,102"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="QuantConnect.Lean.Engine.DataFeeds.Enumerators.LiveSplitEventProvider" name="QuantConnect.Lean.Engine.DataFeeds.Enumerators.LiveSplitEventProvider">
+<area shape="rect" id="node1" title="Event provider who will emit SymbolChangedEvent events" alt="" coords="5,155,244,211"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Lean_1_1Engine_1_1DataFeeds_1_1Enumerators_1_1SplitEventProvider.html" title="Event provider who will emit Split events" alt="" coords="53,80,196,107"/>
+<area shape="rect" id="node3" href="$interfaceQuantConnect_1_1Lean_1_1Engine_1_1DataFeeds_1_1Enumerators_1_1ITradableDateEventProvider.html" title="Interface for event providers for new tradable dates" alt="" coords="23,5,226,32"/>
+</map>

@@ -1,0 +1,9 @@
+<map id="QuantConnect.Lean.Engine.DataFeeds.Enumerators.StrictDailyEndTimesEnumerator.MoveNext" name="QuantConnect.Lean.Engine.DataFeeds.Enumerators.StrictDailyEndTimesEnumerator.MoveNext">
+<area shape="rect" id="node1" title="Move to the next date" alt="" coords="5,66,256,122"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Data_1_1BaseData.html#af8622cdfef34470fda9fd08d2f4c02b7" title="Return a new instance clone of this object, used in fill forward" alt="" coords="304,7,524,48"/>
+<area shape="rect" id="node5" href="$classQuantConnect_1_1Util_1_1LeanData.html#adeb47ee1eb59ad44f25a2ff78b616a1d" title="Helper method that if appropiate, will set the Time and EndTime of the given data point to it&#39;s daily..." alt="" coords="309,73,519,115"/>
+<area shape="rect" id="node7" href="$classQuantConnect_1_1Util_1_1LeanData.html#a45d5455942a1261f332547548a7682d9" title="Helper method to determine if we should use strict end time" alt="" coords="577,136,787,177"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Data_1_1BaseData.html#af973f9d8b7c0726fed42fa03ccd5f963" title="Return a new instance clone of this object, used in fill forward" alt="" coords="572,5,792,47"/>
+<area shape="rect" id="node4" href="$classQuantConnect_1_1Util_1_1ObjectActivator.html#abcd1c91f67b9d78743601743d663cd10" title="Clones the specified instance using reflection" alt="" coords="840,5,1027,47"/>
+<area shape="rect" id="node6" href="$classQuantConnect_1_1Util_1_1LeanData.html#a333e4bd6d612caca6773226d353cec49" title="Helper method to return the start time and period of a bar the given point time should be part of" alt="" coords="577,71,787,112"/>
+</map>

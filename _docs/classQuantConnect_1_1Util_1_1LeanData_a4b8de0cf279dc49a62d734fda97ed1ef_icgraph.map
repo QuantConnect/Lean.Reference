@@ -1,0 +1,5 @@
+<map id="QuantConnect.Util.LeanData.ReadSymbolFromZipEntry" name="QuantConnect.Util.LeanData.ReadSymbolFromZipEntry">
+<area shape="rect" id="node1" title="Creates a symbol from the specified zip entry name" alt="" coords="264,39,475,80"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1ToolBox_1_1LeanDataReader.html#ac23439fd286135eaf5c3047bf52eb517" title="Initialize a instance of LeanDataReader from a path to a zipped data file. It also supports declaring..." alt="" coords="5,5,216,47"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1ToolBox_1_1LeanDataReader.html#acfe04bd1df4b418f463dcb012488d725" title="Enumerate over the tick zip file and return a list of BaseData." alt="" coords="9,71,213,112"/>
+</map>

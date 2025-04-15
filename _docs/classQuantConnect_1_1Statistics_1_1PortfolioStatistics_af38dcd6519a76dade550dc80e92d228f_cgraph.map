@@ -1,0 +1,13 @@
+<map id="QuantConnect.Statistics.PortfolioStatistics.PortfolioStatistics" name="QuantConnect.Statistics.PortfolioStatistics.PortfolioStatistics">
+<area shape="rect" id="node1" title="Initializes a new instance of the PortfolioStatistics class" alt="" coords="5,209,201,265"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Statistics_1_1Statistics.html#a18dd1fb0667d8701fdf3995fb9d65913" title="Annualized downside standard deviation" alt="" coords="249,5,503,61"/>
+<area shape="rect" id="node4" href="$classQuantConnect_1_1Statistics_1_1Statistics.html#a351c06d27f5c5fed38d503c7f965978f" title="Annualized variance statistic calculation using the daily performance variance and trading days per y..." alt="" coords="880,78,1067,119"/>
+<area shape="rect" id="node5" href="$classQuantConnect_1_1Statistics_1_1Statistics.html#a9559a5800e45650ccdb5f8938ffdacfa" title="Annual compounded returns statistic based on the final&#45;starting capital and years." alt="" coords="265,136,487,192"/>
+<area shape="rect" id="node6" href="$classQuantConnect_1_1Statistics_1_1Statistics.html#add146facefce7b834fb50706dcee9a2d" title="Helper method to calculate the probabilistic sharpe ratio" alt="" coords="253,217,499,258"/>
+<area shape="rect" id="node8" href="$classQuantConnect_1_1Extensions.html#a6efe780386ade38c19c4eeb361d16bd6" title="Casts the specified input value to a decimal while acknowledging the overflow conditions" alt="" coords="279,282,473,323"/>
+<area shape="rect" id="node10" href="$classQuantConnect_1_1Statistics_1_1Statistics.html#abd9c7eead3548d9a4765abefa42f1b3f" title="Sharpe ratio with respect to risk free rate: measures excess of return per unit of risk." alt="" coords="285,347,467,389"/>
+<area shape="rect" id="node11" href="$classQuantConnect_1_1Statistics_1_1Statistics.html#af1d3ad94ddd5b9a905df274d5bb91545" title="Tracking error volatility (TEV) statistic &#45; a measure of how closely a portfolio follows the index to..." alt="" coords="600,385,783,426"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Statistics_1_1Statistics.html#a670cedaa29864eaa7d488cd2f6885bc6" title="Annualized variance statistic calculation using the daily performance variance and trading days per y..." alt="" coords="566,17,817,58"/>
+<area shape="rect" id="node7" href="$classQuantConnect_1_1Statistics_1_1Statistics.html#aa51977151ec376472d78606c8f51d853" title="Calculates the observed sharpe ratio" alt="" coords="578,213,805,254"/>
+<area shape="rect" id="node9" href="$classQuantConnect_1_1Messages_1_1Extensions.html#ad9f31f67e35d185b59453c62860cd879" title="Returns a string message saying it is impossible to cast the given non&#45;finite floating&#45;point value as..." alt="" coords="551,279,832,335"/>
+</map>

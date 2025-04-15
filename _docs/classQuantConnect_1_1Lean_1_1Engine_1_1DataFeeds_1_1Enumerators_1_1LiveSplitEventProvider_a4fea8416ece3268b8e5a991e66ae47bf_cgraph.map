@@ -1,0 +1,9 @@
+<map id="QuantConnect.Lean.Engine.DataFeeds.Enumerators.LiveSplitEventProvider.GetEvents" name="QuantConnect.Lean.Engine.DataFeeds.Enumerators.LiveSplitEventProvider.GetEvents">
+<area shape="rect" id="node1" title="Check for dividends and returns them" alt="" coords="5,56,244,112"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Symbol.html#a8b9805ec0602ba89ee464ec7b3634e9f" title="Determines whether the symbol has a canonical representation" alt="" coords="292,5,552,32"/>
+<area shape="rect" id="node4" href="$classQuantConnect_1_1Lean_1_1Engine_1_1DataFeeds_1_1Enumerators_1_1SplitEventProvider.html#aaae4fc6aca3810f9fe02f3ddd4bf1eff" title="Initializes the factor file to use" alt="" coords="298,56,546,112"/>
+<area shape="rect" id="node6" href="$classQuantConnect_1_1Logging_1_1Log.html#a4e55477fbc790846b74550a57198cea9" title="Log trace" alt="" coords="322,137,522,178"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Symbol.html#a1f3c25223fd9a7b753a4f84ece6469ab" title="Method returns true, if symbol is a derivative canonical symbol" alt="" coords="600,5,847,32"/>
+<area shape="rect" id="node5" href="$interfaceQuantConnect_1_1Interfaces_1_1IFactorFileProvider.html#abb71d95ca43dceef129a4c55e255fff7" title="Gets a FactorFile&lt;T&gt; instance for the specified symbol, or null if not found" alt="" coords="630,63,817,105"/>
+<area shape="rect" id="node7" href="$interfaceQuantConnect_1_1Logging_1_1ILogHandler.html#a3fb71a33ac66129240b63f12b6fcda3b" title="Write debug message to log" alt="" coords="623,137,823,178"/>
+</map>

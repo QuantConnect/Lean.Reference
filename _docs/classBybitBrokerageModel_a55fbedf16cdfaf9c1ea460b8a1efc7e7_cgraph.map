@@ -1,0 +1,7 @@
+<map id="BybitBrokerageModel.GetBenchmark" name="BybitBrokerageModel.GetBenchmark">
+<area shape="rect" id="node1" title="Get the benchmark for this model" alt="" coords="5,57,268,84"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Benchmarks_1_1SecurityBenchmark.html#a40c97e12584a0fc70ffb48f9aead3287" title="Helper function that will create a security with the given SecurityManager for a specific symbol and ..." alt="" coords="316,50,567,91"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Securities_1_1SecurityManager.html#a3ac388b31cf00c501b738b751427b883" title="Creates a new benchmark security" alt="" coords="629,5,881,61"/>
+<area shape="rect" id="node5" href="$classQuantConnect_1_1Benchmarks_1_1SecurityBenchmark.html#a45a12b43bac87b210770258630e56622" title="Initializes a new instance of the SecurityBenchmark class" alt="" coords="615,86,895,127"/>
+<area shape="rect" id="node4" href="$classQuantConnect_1_1Securities_1_1SecurityService.html#aa449d8886d5728a00e44b9aea24ad036" title="Creates a new security" alt="" coords="943,5,1187,61"/>
+</map>

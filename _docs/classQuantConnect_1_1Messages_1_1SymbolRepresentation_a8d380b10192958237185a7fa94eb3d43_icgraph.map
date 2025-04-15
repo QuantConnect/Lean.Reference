@@ -1,0 +1,4 @@
+<map id="QuantConnect.Messages.SymbolRepresentation.InvalidOSITickerFormat" name="QuantConnect.Messages.SymbolRepresentation.InvalidOSITickerFormat">
+<area shape="rect" id="node1" title="Returns a string message saying the given ticker is not in the expected OSI format" alt="" coords="324,5,560,61"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1SymbolRepresentation.html#a176a0a2bf45c68b4279ff806a295862a" title="Parses the specified OSI options ticker into a Symbol object" alt="" coords="5,13,276,54"/>
+</map>

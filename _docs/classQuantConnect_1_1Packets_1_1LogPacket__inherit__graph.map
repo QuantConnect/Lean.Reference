@@ -1,0 +1,4 @@
+<map id="QuantConnect.Packets.LogPacket" name="QuantConnect.Packets.LogPacket">
+<area shape="rect" id="node1" title="Simple log message instruction from the lean engine." alt="" coords="5,80,200,121"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Packets_1_1Packet.html" title="Base class for packet messaging system" alt="" coords="71,5,135,32"/>
+</map>

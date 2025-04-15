@@ -1,0 +1,4 @@
+<map id="QuantConnect.Orders.Fees.AlpacaFeeModel.GetOrderFee" name="QuantConnect.Orders.Fees.AlpacaFeeModel.GetOrderFee">
+<area shape="rect" id="node1" title="Gets the order fee associated with the specified order." alt="" coords="5,5,220,47"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Securities_1_1Crypto_1_1Crypto.html#a34f3ec6157d9575e34127b5172706403" title="Decomposes the specified currency pair into a base and quote currency provided as out parameters" alt="" coords="268,5,543,47"/>
+</map>

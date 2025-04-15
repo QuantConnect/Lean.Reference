@@ -1,0 +1,4 @@
+<map id="QuantConnect.Data.DataQueueHandlerSubscriptionManager.GetSubscribedSymbols" name="QuantConnect.Data.DataQueueHandlerSubscriptionManager.GetSubscribedSymbols">
+<area shape="rect" id="node1" title="Retrieves the list of unique Symbol instances that are currently subscribed for a specific TickType." alt="" coords="5,5,312,61"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Data_1_1DataQueueHandlerSubscriptionManager.html#a71500a7366358d2ba2f3f295dcd1f773" title="Brokerage maps TickType to real socket/api channel" alt="" coords="360,5,627,61"/>
+</map>

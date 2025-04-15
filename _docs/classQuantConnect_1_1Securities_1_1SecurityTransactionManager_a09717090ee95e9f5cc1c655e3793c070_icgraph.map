@@ -1,0 +1,6 @@
+<map id="QuantConnect.Securities.SecurityTransactionManager.GetOpenOrders" name="QuantConnect.Securities.SecurityTransactionManager.GetOpenOrders">
+<area shape="rect" id="node1" title="Get a list of all open orders for a symbol." alt="" coords="327,85,559,141"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Brokerages_1_1Backtesting_1_1BacktestingBrokerage.html#a2118211e9540ff80d504fd888c203d55" title="Gets all open orders on the account" alt="" coords="17,5,267,61"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Securities_1_1SecurityTransactionManager.html#afa91092ed03843465ba9b4910e3789af" title="Gets open orders matching the specified filter. However, this method can be confused with the overrid..." alt="" coords="26,85,258,141"/>
+<area shape="rect" id="node4" href="$classQuantConnect_1_1Algorithm_1_1QCAlgorithm.html#a76b8193d7e78c9b50f18c04b75db5e0c" title="Liquidate your portfolio holdings" alt="" coords="5,166,279,207"/>
+</map>

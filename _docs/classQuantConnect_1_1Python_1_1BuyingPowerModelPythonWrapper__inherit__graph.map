@@ -1,0 +1,5 @@
+<map id="QuantConnect.Python.BuyingPowerModelPythonWrapper" name="QuantConnect.Python.BuyingPowerModelPythonWrapper">
+<area shape="rect" id="node1" title="Wraps a PyObject object that represents a security&#39;s model of buying power" alt="" coords="77,95,289,136"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Python_1_1BasePythonWrapper.html" title=" " alt="" coords="5,5,176,47"/>
+<area shape="rect" id="node3" href="$interfaceQuantConnect_1_1Securities_1_1IBuyingPowerModel.html" title="Represents a security&#39;s model of buying power" alt="" coords="201,13,351,39"/>
+</map>

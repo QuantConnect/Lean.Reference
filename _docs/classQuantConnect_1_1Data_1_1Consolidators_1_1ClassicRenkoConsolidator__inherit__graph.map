@@ -1,0 +1,4 @@
+<map id="QuantConnect.Data.Consolidators.ClassicRenkoConsolidator" name="QuantConnect.Data.Consolidators.ClassicRenkoConsolidator">
+<area shape="rect" id="node1" title="This consolidator can transform a stream of IBaseData instances into a stream of RenkoBar" alt="" coords="5,5,252,47"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Data_1_1Consolidators_1_1ClassicRenkoConsolidator.html" title="Provides a type safe wrapper on the RenkoConsolidator class. This just allows us to define our select..." alt="" coords="5,95,252,151"/>
+</map>

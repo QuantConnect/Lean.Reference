@@ -1,0 +1,6 @@
+<map id="QuantConnect.Securities.Positions.PositionGroupBuyingPowerModel.ToAccountCurrency" name="QuantConnect.Securities.Positions.PositionGroupBuyingPowerModel.ToAccountCurrency">
+<area shape="rect" id="node1" title="Helper function to convert a CashAmount to the account currency" alt="" coords="1105,13,1336,69"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Securities_1_1Positions_1_1PositionGroupBuyingPowerModel.html#a0abd65c6e261960e78a710ee75b79143" title="Helper function to compute the order fees associated with executing market orders for the specified p..." alt="" coords="747,13,1057,69"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Securities_1_1Positions_1_1PositionGroupBuyingPowerModel.html#a6ffef28c266745b259088113c3b04459" title="Get the maximum position group order quantity to obtain a position with a given buying power percenta..." alt="" coords="416,5,699,76"/>
+<area shape="rect" id="node4" href="$classQuantConnect_1_1Securities_1_1Positions_1_1PositionGroupBuyingPowerModel.html#abc9b4d24eebe829eda4d4fe1e4b10126" title="Get the maximum market position group order quantity to obtain a delta in the buying power used by a ..." alt="" coords="5,13,368,69"/>
+</map>

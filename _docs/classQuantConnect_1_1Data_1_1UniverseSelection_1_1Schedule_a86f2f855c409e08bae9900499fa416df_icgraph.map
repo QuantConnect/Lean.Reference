@@ -1,0 +1,5 @@
+<map id="QuantConnect.Data.UniverseSelection.Schedule.Get" name="QuantConnect.Data.UniverseSelection.Schedule.Get">
+<area shape="rect" id="node1" title="Gets the current schedule for a given start time" alt="" coords="636,13,847,54"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Lean_1_1Engine_1_1DataFeeds_1_1FileSystemDataFeed.html#a8e5ed511f57facc6e1c2ac6b0e0a623a" title="Returns a scheduled enumerator from the given arguments. It can also return the given underlying enum..." alt="" coords="329,5,588,61"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Lean_1_1Engine_1_1DataFeeds_1_1FileSystemDataFeed.html#ac148e78fc814fca88c70a1835be51a25" title="Creates a new subscription to provide data for the specified security." alt="" coords="5,5,281,61"/>
+</map>

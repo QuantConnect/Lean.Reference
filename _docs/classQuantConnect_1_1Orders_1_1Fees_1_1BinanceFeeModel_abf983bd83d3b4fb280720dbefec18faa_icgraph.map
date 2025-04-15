@@ -1,0 +1,4 @@
+<map id="QuantConnect.Orders.Fees.BinanceFeeModel.GetFee" name="QuantConnect.Orders.Fees.BinanceFeeModel.GetFee">
+<area shape="rect" id="node1" title="Gets the fee factor for the given order" alt="" coords="276,5,475,47"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Orders_1_1Fees_1_1BinanceFeeModel.html#ad714b6eeb176040fc0edff0742bd68a1" title="Get the fee for this order in quote currency" alt="" coords="5,5,228,47"/>
+</map>

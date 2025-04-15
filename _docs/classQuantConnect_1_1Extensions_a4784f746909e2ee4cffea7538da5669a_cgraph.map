@@ -1,0 +1,5 @@
+<map id="QuantConnect.Extensions.GetCustomDataTypeFromSymbols" name="QuantConnect.Extensions.GetCustomDataTypeFromSymbols">
+<area shape="rect" id="node1" title="Retrieve a common custom data types from the given symbols if any" alt="" coords="5,5,251,47"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1SecurityIdentifier.html#a2a52cbd8bce9ff527bc8021a3e3a0037" title="Tries to fetch the custom data type associated with a symbol" alt="" coords="299,5,531,47"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1SecurityIdentifier.html#a65051a4af9e25cab40451dc9ef12db6a" title="Tries to fetch the custom data type associated with a symbol" alt="" coords="579,5,811,47"/>
+</map>

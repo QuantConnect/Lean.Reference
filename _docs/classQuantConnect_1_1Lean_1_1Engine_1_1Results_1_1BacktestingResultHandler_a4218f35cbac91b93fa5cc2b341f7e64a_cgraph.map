@@ -1,0 +1,6 @@
+<map id="QuantConnect.Lean.Engine.Results.BacktestingResultHandler.SampleCapacity" name="QuantConnect.Lean.Engine.Results.BacktestingResultHandler.SampleCapacity">
+<area shape="rect" id="node1" title="Sample estimated strategy capacity" alt="" coords="5,31,252,87"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Lean_1_1Engine_1_1Results_1_1BacktestingResultHandler.html#a133e7b5163c0e43840e6232d125e6941" title="Add a sample to the chart specified by the chartName, and seriesName." alt="" coords="300,31,547,87"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1BaseSeries.html#a16109d08f951b56153adb901b7f7cbdb" title="Add a new point to this series" alt="" coords="595,5,789,47"/>
+<area shape="rect" id="node4" href="$classQuantConnect_1_1BaseSeries.html#aa0b83590a7b01d3ccba6f3347150a63f" title="Creates a series according to the specified type." alt="" coords="595,71,789,112"/>
+</map>

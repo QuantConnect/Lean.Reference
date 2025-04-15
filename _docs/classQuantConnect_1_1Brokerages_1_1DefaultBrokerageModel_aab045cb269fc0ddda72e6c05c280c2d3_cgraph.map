@@ -1,0 +1,4 @@
+<map id="QuantConnect.Brokerages.DefaultBrokerageModel.IsValidOrderSize" name="QuantConnect.Brokerages.DefaultBrokerageModel.IsValidOrderSize">
+<area shape="rect" id="node1" title="Checks if the order quantity is valid, it means, the order size is bigger than the minimum size allow..." alt="" coords="5,5,228,61"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Messages_1_1DefaultBrokerageModel.html#ad5fe70a9d5974d5c9fb72a7cf4b0cdb0" title="Returns a string message saying the quantity given was invalid for the given security" alt="" coords="276,13,544,54"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="QuantConnect.Lean.Engine.Setup.BaseSetupHandler.Setup" name="QuantConnect.Lean.Engine.Setup.BaseSetupHandler.Setup">
+<area shape="rect" id="node1" title="Primary entry point to setup a new algorithm" alt="" coords="321,39,544,80"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Lean_1_1Engine_1_1Setup_1_1BacktestingSetupHandler.html#a6fce75a853ba5e8baf5bda360fe6e77c" title="Setup the algorithm cash, dates and data subscriptions as desired." alt="" coords="5,5,273,47"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Lean_1_1Engine_1_1Setup_1_1BrokerageSetupHandler.html#a31fba19179b2197553a8f0152885886b" title="Primary entry point to setup a new algorithm" alt="" coords="11,71,268,112"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="QuantConnect.Data.DividendYieldProvider.GetDividendYield" name="QuantConnect.Data.DividendYieldProvider.GetDividendYield">
+<area shape="rect" id="node1" title="Get dividend yield by a given date of a given symbol. It will get the dividend yield at the time of t..." alt="" coords="277,5,501,47"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Data_1_1DividendYieldProvider.html#a3724fecfcd9f9d51676ba94754dbfa61" title="Gets the dividend yield at the date of the specified data, using the data price as the security price" alt="" coords="5,5,229,47"/>
+</map>

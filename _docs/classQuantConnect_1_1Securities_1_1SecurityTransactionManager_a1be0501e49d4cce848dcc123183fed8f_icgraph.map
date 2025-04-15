@@ -1,0 +1,14 @@
+<map id="QuantConnect.Securities.SecurityTransactionManager.AddOrder" name="QuantConnect.Securities.SecurityTransactionManager.AddOrder">
+<area shape="rect" id="node1" title="Add an order to collection and return the unique order id or negative if an error." alt="" coords="648,169,919,211"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Securities_1_1DefaultMarginCallModel.html#a7c489c9899a3685a318889925b306812" title="Executes synchronous orders to bring the account within margin requirements." alt="" coords="346,89,581,145"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Algorithm_1_1QCAlgorithm.html#a11352466438b0832f09b224722815e72" title="Send an exercise order to the transaction handler" alt="" coords="327,169,600,211"/>
+<area shape="rect" id="node4" href="$classQuantConnect_1_1Algorithm_1_1QCAlgorithm.html#aed520bc1af3bc057b69377969069d14a" title="Will submit an order request to the algorithm" alt="" coords="327,235,600,276"/>
+<area shape="rect" id="node5" href="$classQuantConnect_1_1Algorithm_1_1QCAlgorithm.html#ad9a268098626dd7a455072aa7e78663b" title="Send a limit if touched order to the transaction handler:" alt="" coords="5,5,279,47"/>
+<area shape="rect" id="node6" href="$classQuantConnect_1_1Algorithm_1_1QCAlgorithm.html#a5e12bb6fbf89897332248876072a32ad" title="Send a limit order to the transaction handler:" alt="" coords="5,71,279,112"/>
+<area shape="rect" id="node7" href="$classQuantConnect_1_1Algorithm_1_1QCAlgorithm.html#aec7219e6a4c77563371aba6b39407d9a" title="Market on close order implementation: Send a market order when the exchange closes" alt="" coords="5,136,279,177"/>
+<area shape="rect" id="node8" href="$classQuantConnect_1_1Algorithm_1_1QCAlgorithm.html#a9db2f04661a682232fcaff5cfdb6470e" title="Market on open order implementation: Send a market order when the exchange opens" alt="" coords="5,201,279,243"/>
+<area shape="rect" id="node9" href="$classQuantConnect_1_1Algorithm_1_1QCAlgorithm.html#a741fed77f0c320fdec734f00457634f4" title="Market order implementation: Send a market order and wait for it to be filled." alt="" coords="5,267,279,308"/>
+<area shape="rect" id="node10" href="$classQuantConnect_1_1Algorithm_1_1QCAlgorithm.html#a4bcd1aed562ce3d533646b4c8c1b29c7" title="Send a stop limit order to the transaction handler:" alt="" coords="5,332,279,373"/>
+<area shape="rect" id="node11" href="$classQuantConnect_1_1Algorithm_1_1QCAlgorithm.html#a73c0b5f7aeb41f314ab8cc674c75beff" title="Create a stop market order and return the newly created order id; or negative if the order is invalid" alt="" coords="5,397,279,439"/>
+<area shape="rect" id="node12" href="$classQuantConnect_1_1Algorithm_1_1QCAlgorithm.html#ac8fd3037ca1ce8011ca4daf849e9dab6" title="Create a trailing stop order and return the newly created order id; or negative if the order is inval..." alt="" coords="5,463,279,504"/>
+</map>

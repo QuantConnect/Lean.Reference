@@ -1,0 +1,4 @@
+<map id="QuantConnect.Lean.Engine.DataFeeds.ManualTimeProvider.SetCurrentTime" name="QuantConnect.Lean.Engine.DataFeeds.ManualTimeProvider.SetCurrentTime">
+<area shape="rect" id="node1" title="Sets the current time interpeting the specified time as a local time using the time zone used at inst..." alt="" coords="5,5,260,61"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Lean_1_1Engine_1_1DataFeeds_1_1ManualTimeProvider.html#a9ca7e753dda537af1a5b984d7e2ca14c" title="Sets the current time interpreting the specified time as a UTC time" alt="" coords="308,5,563,61"/>
+</map>

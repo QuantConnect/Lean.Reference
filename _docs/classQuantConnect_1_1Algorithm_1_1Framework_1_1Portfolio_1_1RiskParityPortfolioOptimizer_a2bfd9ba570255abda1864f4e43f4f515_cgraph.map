@@ -1,0 +1,4 @@
+<map id="QuantConnect.Algorithm.Framework.Portfolio.RiskParityPortfolioOptimizer.Optimize" name="QuantConnect.Algorithm.Framework.Portfolio.RiskParityPortfolioOptimizer.Optimize">
+<area shape="rect" id="node1" title="Perform portfolio optimization for a provided matrix of historical returns and an array of expected r..." alt="" coords="5,5,273,61"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Algorithm_1_1Framework_1_1Portfolio_1_1RiskParityPortfolioOptimizer.html#a2b0778bc9434e2288d0d8ffd2a5b66c1" title="Newton method of minimization" alt="" coords="321,5,592,61"/>
+</map>

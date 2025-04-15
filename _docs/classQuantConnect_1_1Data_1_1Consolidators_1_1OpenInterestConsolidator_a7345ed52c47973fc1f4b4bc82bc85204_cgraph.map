@@ -1,0 +1,4 @@
+<map id="QuantConnect.Data.Consolidators.OpenInterestConsolidator.Update" name="QuantConnect.Data.Consolidators.OpenInterestConsolidator.Update">
+<area shape="rect" id="node1" title="Updates this consolidator with the specified data. This method is responsible for raising the DataCon..." alt="" coords="5,13,252,54"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Data_1_1Consolidators_1_1PeriodCountConsolidatorBase.html#a3f5f2e1c69f87dad89255a4c1f3331d4" title="Scans this consolidator to see if it should emit a bar due to time passing" alt="" coords="300,5,547,61"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="QuantConnect.Scheduling.ScheduleManager.TrainingNow" name="QuantConnect.Scheduling.ScheduleManager.TrainingNow">
+<area shape="rect" id="node1" title="Schedules the provided training code to execute immediately" alt="" coords="5,5,227,47"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Scheduling_1_1ScheduleManager.html#af351022fdc5b8f8419f53d3267397728" title="Schedules the callback to run using the specified date and time rules" alt="" coords="275,5,468,47"/>
+</map>

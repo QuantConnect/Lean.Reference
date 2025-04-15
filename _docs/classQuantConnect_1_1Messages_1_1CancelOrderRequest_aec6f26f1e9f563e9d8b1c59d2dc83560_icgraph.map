@@ -1,0 +1,4 @@
+<map id="QuantConnect.Messages.CancelOrderRequest.ToString" name="QuantConnect.Messages.CancelOrderRequest.ToString">
+<area shape="rect" id="node1" title="Parses the given CancelOrderRequest into a string message containing basic information about it" alt="" coords="263,5,493,47"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Orders_1_1CancelOrderRequest.html#a48a4f06ab14b9dd20eda7047aea67eb6" title="Returns a string that represents the current object." alt="" coords="5,5,215,47"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$classBaseDataDownloadConfig.html" title="Abstract base class for configuring data download parameters, including common properties and initial..." alt="" coords="5,31,196,57"/>
+<area shape="rect" id="node2" href="$classDataDownloadConfig.html" title="Represents the configuration for downloading data." alt="" coords="273,5,432,32"/>
+<area shape="rect" id="node3" href="$classDataUniverseDownloadConfig.html" title="Represents the configuration for downloading data for a universe of securities." alt="" coords="244,56,461,83"/>
+</map>

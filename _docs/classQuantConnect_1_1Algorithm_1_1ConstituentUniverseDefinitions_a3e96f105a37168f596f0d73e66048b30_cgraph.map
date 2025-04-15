@@ -1,0 +1,4 @@
+<map id="QuantConnect.Algorithm.ConstituentUniverseDefinitions.SlowGrowth" name="QuantConnect.Algorithm.ConstituentUniverseDefinitions.SlowGrowth">
+<area shape="rect" id="node1" title="Universe which selects companies that have shown slow revenue and earnings growth (typically less tha..." alt="" coords="5,5,267,47"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1SecurityIdentifier.html#aa2b8c59064a75d90b2e530e829331de1" title="Generates a new SecurityIdentifier for a ConstituentsUniverseData. Note that the symbol ticker is cas..." alt="" coords="315,5,547,47"/>
+</map>

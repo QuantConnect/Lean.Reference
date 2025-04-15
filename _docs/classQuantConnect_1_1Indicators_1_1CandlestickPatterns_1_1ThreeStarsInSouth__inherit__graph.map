@@ -1,0 +1,5 @@
+<map id="QuantConnect.Indicators.CandlestickPatterns.ThreeStarsInSouth" name="QuantConnect.Indicators.CandlestickPatterns.ThreeStarsInSouth">
+<area shape="rect" id="node1" title="Three Stars In The South candlestick pattern" alt="" coords="5,169,231,225"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Indicators_1_1CandlestickPatterns_1_1CandlestickPattern.html" title="Abstract base class for a candlestick pattern indicator" alt="" coords="46,95,190,121"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Indicators_1_1WindowIndicator.html" title=" " alt="" coords="11,5,225,47"/>
+</map>

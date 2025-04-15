@@ -1,0 +1,5 @@
+<map id="QuantConnect.Lean.Engine.DataFeeds.BaseDataExchange.EnumeratorHandler.OnEnumeratorFinished" name="QuantConnect.Lean.Engine.DataFeeds.BaseDataExchange.EnumeratorHandler.OnEnumeratorFinished">
+<area shape="rect" id="node1" title="Event invocator for the EnumeratorFinished event" alt="" coords="615,5,916,61"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Lean_1_1Engine_1_1DataFeeds_1_1BaseDataExchange.html#a94a1fba245a7a17e7ddb63c2f0f61bae" title="Removes and returns enumerator handler with the specified symbol. The removed handler is returned,..." alt="" coords="288,5,567,61"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Lean_1_1Engine_1_1DataFeeds_1_1LiveTradingDataFeed.html#a6fc889ac6d825b11a8ace9457f715e7c" title="Removes the subscription from the data feed, if it exists" alt="" coords="5,5,240,61"/>
+</map>

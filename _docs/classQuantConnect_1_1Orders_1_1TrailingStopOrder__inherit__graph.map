@@ -1,0 +1,5 @@
+<map id="QuantConnect.Orders.TrailingStopOrder" name="QuantConnect.Orders.TrailingStopOrder">
+<area shape="rect" id="node1" title="Trailing Stop Order Type Definition" alt="" coords="5,155,217,196"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Orders_1_1StopMarketOrder.html" title="Stop Market Order Type Definition" alt="" coords="45,80,177,107"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Orders_1_1Order.html" title="Order struct for placing new trade" alt="" coords="82,5,141,32"/>
+</map>

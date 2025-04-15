@@ -1,0 +1,4 @@
+<map id="QuantConnect.Data.Market.FuturesChains" name="QuantConnect.Data.Market.FuturesChains">
+<area shape="rect" id="node1" title="Collection of FuturesChain keyed by canonical futures symbol" alt="" coords="35,95,238,136"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Data_1_1Market_1_1BaseChains.html" title=" " alt="" coords="5,5,268,47"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="QuantConnect.Data.SubscriptionManager.LookupSubscriptionConfigDataTypes" name="QuantConnect.Data.SubscriptionManager.LookupSubscriptionConfigDataTypes">
+<area shape="rect" id="node1" title="Get the data feed types for a given SecurityType Resolution" alt="" coords="5,5,255,61"/>
+<area shape="rect" id="node2" href="$interfaceQuantConnect_1_1Interfaces_1_1ISubscriptionDataConfigService.html#a5a760f7e05b5ab7ec032d32bb0959dfe" title="Get the data feed types for a given SecurityType Resolution" alt="" coords="303,5,560,61"/>
+</map>

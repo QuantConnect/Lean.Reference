@@ -1,0 +1,6 @@
+<map id="QuantConnect.Messages.Extensions.CannotCastNonFiniteFloatingPointValueToDecimal" name="QuantConnect.Messages.Extensions.CannotCastNonFiniteFloatingPointValueToDecimal">
+<area shape="rect" id="node1" title="Returns a string message saying it is impossible to cast the given non&#45;finite floating&#45;point value as..." alt="" coords="509,35,791,91"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Extensions.html#a6efe780386ade38c19c4eeb361d16bd6" title="Casts the specified input value to a decimal while acknowledging the overflow conditions" alt="" coords="268,43,461,84"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Indicators_1_1Correlation.html#a48167ce5979b7c4c7e27b3685f83e10a" title="Computes the correlation value usuing symbols values correlation values assing into _correlation prop..." alt="" coords="5,5,220,47"/>
+<area shape="rect" id="node4" href="$classQuantConnect_1_1Statistics_1_1PortfolioStatistics.html#af38dcd6519a76dade550dc80e92d228f" title="Initializes a new instance of the PortfolioStatistics class" alt="" coords="15,71,211,127"/>
+</map>

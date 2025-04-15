@@ -1,0 +1,5 @@
+<map id="QuantConnect.Lean.Engine.DataFeeds.Transport.ObjectStoreSubscriptionStreamReader" name="QuantConnect.Lean.Engine.DataFeeds.Transport.ObjectStoreSubscriptionStreamReader">
+<area shape="rect" id="node1" title="Represents a stream reader capable of reading lines from the object store" alt="" coords="5,155,240,211"/>
+<area shape="rect" id="node2" href="$interfaceQuantConnect_1_1Interfaces_1_1IStreamReader.html" title="Defines a transport mechanism for data from its source into various reader methods" alt="" coords="63,80,182,107"/>
+<area shape="rect" id="node3" title=" " alt="" coords="73,5,172,32"/>
+</map>

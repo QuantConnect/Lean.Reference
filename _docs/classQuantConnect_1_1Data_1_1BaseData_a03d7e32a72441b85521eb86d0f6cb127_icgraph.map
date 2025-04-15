@@ -1,0 +1,4 @@
+<map id="QuantConnect.Data.BaseData.Reader" name="QuantConnect.Data.BaseData.Reader">
+<area shape="rect" id="node1" title="Reader converts each line of the data source into BaseData objects. Each data type creates its own fa..." alt="" coords="287,13,507,54"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Lean_1_1Engine_1_1DataFeeds_1_1TextSubscriptionDataSourceReader.html#ac3d0be11cf0a59efc44c8b41053675a2" title="Reads the specified source" alt="" coords="5,5,239,61"/>
+</map>

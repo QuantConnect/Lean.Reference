@@ -1,0 +1,4 @@
+<map id="QuantConnect.Util.RateGate.WaitToProceed" name="QuantConnect.Util.RateGate.WaitToProceed">
+<area shape="rect" id="node1" title="Blocks the current thread until allowed to proceed or until the specified timeout elapses." alt="" coords="5,5,216,47"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Util_1_1RateGate.html#a3c8325047542f2a2d09ae99a46b49cc4" title="Blocks the current thread indefinitely until allowed to proceed." alt="" coords="264,5,475,47"/>
+</map>

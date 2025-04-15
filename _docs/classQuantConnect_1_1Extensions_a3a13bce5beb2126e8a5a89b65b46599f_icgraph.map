@@ -1,0 +1,6 @@
+<map id="QuantConnect.Extensions.GetMarketOrderFees" name="QuantConnect.Extensions.GetMarketOrderFees">
+<area shape="rect" id="node1" title="Returns the amount of fee&#39;s charged by executing a market order with the given arguments" alt="" coords="551,39,744,80"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Orders_1_1OrderSizing.html#a2ee0b0a2af935521e2752f60ae2ee2bf" title="Gets the remaining quantity to be ordered to reach the specified target quantity." alt="" coords="281,5,493,47"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Securities_1_1SecurityHolding.html#a4bc70d2b17f24b1f755183e2eeec7674" title="Profit if we closed the holdings right now including the approximate fees in units of the account&#39;s c..." alt="" coords="272,71,503,112"/>
+<area shape="rect" id="node4" href="$classQuantConnect_1_1Securities_1_1Forex_1_1ForexHolding.html#a3b9fd440c6dbd7615e769ff6c2c84723" title="Profit in pips if we closed the holdings right now including the approximate fees" alt="" coords="5,63,224,119"/>
+</map>

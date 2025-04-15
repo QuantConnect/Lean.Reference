@@ -1,0 +1,4 @@
+<map id="QuantConnect.Securities.SecurityExchangeHours.GetMarketHours" name="QuantConnect.Securities.SecurityExchangeHours.GetMarketHours">
+<area shape="rect" id="node1" title="Helper to access the market hours field based on the day of week" alt="" coords="5,5,292,47"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Securities_1_1LocalMarketHours.html#a1e9178f81413c7d1f032a003d74acecf" title="Gets a LocalMarketHours instance that is always closed" alt="" coords="340,5,571,47"/>
+</map>

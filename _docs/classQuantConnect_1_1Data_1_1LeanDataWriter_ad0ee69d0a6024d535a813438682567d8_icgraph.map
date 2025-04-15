@@ -1,0 +1,4 @@
+<map id="QuantConnect.Data.LeanDataWriter.LeanDataWriter" name="QuantConnect.Data.LeanDataWriter.LeanDataWriter">
+<area shape="rect" id="node1" title="Create a new lean data writer to this base data directory." alt="" coords="268,5,483,47"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Data_1_1LeanDataWriter.html#a84b23a2db3f964f4b90cdca539996aa1" title="Downloads historical data from the brokerage and saves it in LEAN format." alt="" coords="5,5,220,47"/>
+</map>

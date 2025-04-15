@@ -1,0 +1,5 @@
+<map id="QuantConnect.Algorithm.Framework.Selection.NullUniverseSelectionModel" name="QuantConnect.Algorithm.Framework.Selection.NullUniverseSelectionModel">
+<area shape="rect" id="node1" title="Provides a null implementation of IUniverseSelectionModel" alt="" coords="5,155,276,196"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Algorithm_1_1Framework_1_1Selection_1_1UniverseSelectionModel.html" title="Provides a base class for universe selection models." alt="" coords="51,80,231,107"/>
+<area shape="rect" id="node3" href="$interfaceQuantConnect_1_1Algorithm_1_1Framework_1_1Selection_1_1IUniverseSelectionModel.html" title="Algorithm framework model that defines the universes to be used by an algorithm" alt="" coords="49,5,233,32"/>
+</map>

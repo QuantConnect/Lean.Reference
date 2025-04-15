@@ -1,0 +1,10 @@
+<map id="QuantConnect.Algorithm.QCAlgorithm.History" name="QuantConnect.Algorithm.QCAlgorithm.History">
+<area shape="rect" id="node1" title="Gets the historical data for the specified symbols between the specified dates. The symbols must exis..." alt="" coords="5,71,279,112"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Algorithm_1_1QCAlgorithm.html#a3dbba29e9f318ae97e8b99a1eb19537c" title="Helper method to create history requests from a date range" alt="" coords="327,5,600,47"/>
+<area shape="rect" id="node6" href="$classQuantConnect_1_1Algorithm_1_1QCAlgorithm.html#a45b1329e1d28dd2318222fe3f0fe526b" title="Converts an enumerable of Slice into a Python Pandas data frame" alt="" coords="327,71,600,112"/>
+<area shape="rect" id="node8" href="$classQuantConnect_1_1Algorithm_1_1QCAlgorithm.html#a446a10e68319fdc3c0b2ed85d80f55f8" title="Get the history for all configured securities over the requested span. This will use the resolution a..." alt="" coords="327,136,600,177"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Extensions.html#a4784f746909e2ee4cffea7538da5669a" title="Retrieve a common custom data types from the given symbols if any" alt="" coords="648,5,893,47"/>
+<area shape="rect" id="node4" href="$classQuantConnect_1_1SecurityIdentifier.html#a2a52cbd8bce9ff527bc8021a3e3a0037" title="Tries to fetch the custom data type associated with a symbol" alt="" coords="941,5,1173,47"/>
+<area shape="rect" id="node5" href="$classQuantConnect_1_1SecurityIdentifier.html#a65051a4af9e25cab40451dc9ef12db6a" title="Tries to fetch the custom data type associated with a symbol" alt="" coords="1221,5,1453,47"/>
+<area shape="rect" id="node7" href="$classQuantConnect_1_1Python_1_1PandasConverter.html#a6f3760d582f672fa35d523ec47a4c159" title="Converts an enumerable of Slice in a pandas.DataFrame" alt="" coords="664,71,877,112"/>
+</map>

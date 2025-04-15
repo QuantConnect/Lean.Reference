@@ -1,0 +1,5 @@
+<map id="QuantConnect.Data.UniverseSelection.BaseChainUniverseData.GetUniverseFullFilePath" name="QuantConnect.Data.UniverseSelection.BaseChainUniverseData.GetUniverseFullFilePath">
+<area shape="rect" id="node1" title="Generates the file path for a universe data file based on the given symbol and date...." alt="" coords="5,5,253,61"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Util_1_1LeanData.html#a42eec844dbd75694d08d649bfd0fa27f" title="Generates the directory to the universe files for the specified symbol" alt="" coords="301,13,512,54"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Util_1_1LeanData.html#a80cb949e5e4aff26121e88359e3861b9" title="Generates the relative directory to the universe files for the specified symbol" alt="" coords="560,13,821,54"/>
+</map>

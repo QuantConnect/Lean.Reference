@@ -1,0 +1,5 @@
+<map id="QuantConnect.Orders.OptionExercise.OptionExerciseModelPythonWrapper" name="QuantConnect.Orders.OptionExercise.OptionExerciseModelPythonWrapper">
+<area shape="rect" id="node1" title="Python wrapper for custom option exercise models" alt="" coords="64,95,327,151"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Python_1_1BasePythonWrapper.html" title=" " alt="" coords="5,5,188,47"/>
+<area shape="rect" id="node3" href="$interfaceQuantConnect_1_1Orders_1_1OptionExercise_1_1IOptionExerciseModel.html" title="Represents a model that simulates option exercise and lapse events" alt="" coords="213,13,375,39"/>
+</map>

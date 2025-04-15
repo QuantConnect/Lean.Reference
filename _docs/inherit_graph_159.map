@@ -1,0 +1,12 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$classQuantConnect_1_1Data_1_1Fundamental_1_1MultiPeriodField.html" title=" " alt="" coords="5,267,248,308"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Data_1_1Fundamental_1_1AuditorReportStatus.html" title="Auditor opinion code will be one of the following for each annual period: Code Meaning UQ Unqualified..." alt="" coords="311,5,553,47"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Data_1_1Fundamental_1_1EarningReportsAccessionNumber.html" title="The accession number is a unique number that EDGAR assigns to each submission as the submission is re..." alt="" coords="311,71,553,112"/>
+<area shape="rect" id="node4" href="$classQuantConnect_1_1Data_1_1Fundamental_1_1EarningReportsFormType.html" title="The type of filing of the report: for instance, 10&#45;K (annual report) or 10&#45;Q (quarterly report)." alt="" coords="311,136,553,177"/>
+<area shape="rect" id="node5" href="$classQuantConnect_1_1Data_1_1Fundamental_1_1EarningReportsPeriodType.html" title="The nature of the period covered by an individual set of financial results. The output can be: Quarte..." alt="" coords="311,201,553,243"/>
+<area shape="rect" id="node6" href="$classQuantConnect_1_1Data_1_1Fundamental_1_1FinancialStatementsAccessionNumber.html" title="The accession number is a unique number that EDGAR assigns to each submission as the submission is re..." alt="" coords="296,267,568,308"/>
+<area shape="rect" id="node7" href="$classQuantConnect_1_1Data_1_1Fundamental_1_1FinancialStatementsFormType.html" title="The type of filing of the report: for instance, 10&#45;K (annual report) or 10&#45;Q (quarterly report)." alt="" coords="311,332,553,373"/>
+<area shape="rect" id="node8" href="$classQuantConnect_1_1Data_1_1Fundamental_1_1FinancialStatementsPeriodType.html" title="The nature of the period covered by an individual set of financial results. The output can be: Quarte..." alt="" coords="311,397,553,439"/>
+<area shape="rect" id="node9" href="$classQuantConnect_1_1Data_1_1Fundamental_1_1InventoryValuationMethod.html" title="Which method of inventory valuation was used &#45; LIFO, FIFO, Average, Standard costs,..." alt="" coords="311,463,553,504"/>
+<area shape="rect" id="node10" href="$classQuantConnect_1_1Data_1_1Fundamental_1_1PeriodAuditor.html" title="The name of the auditor that performed the financial statement audit for the given period." alt="" coords="311,528,553,569"/>
+</map>

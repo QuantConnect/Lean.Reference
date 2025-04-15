@@ -1,0 +1,5 @@
+<map id="QuantConnect.Data.Fundamental.PreferredSecuritiesOutsideStockEquityBalanceSheet" name="QuantConnect.Data.Fundamental.PreferredSecuritiesOutsideStockEquityBalanceSheet">
+<area shape="rect" id="node1" title="Preferred securities that that firm treats as a liability. It includes convertible preferred stock or..." alt="" coords="5,155,279,211"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Data_1_1Fundamental_1_1MultiPeriodField.html" title="Abstract base class for multi&#45;period fields" alt="" coords="79,80,205,107"/>
+<area shape="rect" id="node3" title=" " alt="" coords="63,5,221,32"/>
+</map>

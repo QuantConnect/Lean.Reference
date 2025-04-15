@@ -1,0 +1,4 @@
+<map id="QuantConnect.Algorithm.QCAlgorithm.RemoveSecurity" name="QuantConnect.Algorithm.QCAlgorithm.RemoveSecurity">
+<area shape="rect" id="node1" title="Removes the security with the specified symbol. This will cancel all open orders and then liquidate a..." alt="" coords="327,5,600,47"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Algorithm_1_1QCAlgorithm.html#aaa03fad6a4f4df5db3a0273d94df6436" title="Removes the security with the specified symbol. This will cancel all open orders and then liquidate a..." alt="" coords="5,5,279,47"/>
+</map>

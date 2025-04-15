@@ -1,0 +1,6 @@
+<map id="QuantConnect.Lean.Engine.DataFeeds.Enumerators.ScheduledEnumerator.MoveNext" name="QuantConnect.Lean.Engine.DataFeeds.Enumerators.ScheduledEnumerator.MoveNext">
+<area shape="rect" id="node1" title="Advances the enumerator to the next element of the collection." alt="" coords="5,5,255,61"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Data_1_1BaseData.html#af8622cdfef34470fda9fd08d2f4c02b7" title="Return a new instance clone of this object, used in fill forward" alt="" coords="303,13,523,54"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Data_1_1BaseData.html#af973f9d8b7c0726fed42fa03ccd5f963" title="Return a new instance clone of this object, used in fill forward" alt="" coords="571,13,791,54"/>
+<area shape="rect" id="node4" href="$classQuantConnect_1_1Util_1_1ObjectActivator.html#abcd1c91f67b9d78743601743d663cd10" title="Clones the specified instance using reflection" alt="" coords="839,13,1025,54"/>
+</map>

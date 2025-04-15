@@ -1,0 +1,4 @@
+<map id="QuantConnect.Messages.LimitIfTouchedOrder.ToString" name="QuantConnect.Messages.LimitIfTouchedOrder.ToString">
+<area shape="rect" id="node1" title="Parses the given LimitIfTouched order to a string message containing basic information about it" alt="" coords="252,5,472,47"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Orders_1_1LimitIfTouchedOrder.html#a2e4d3ceef56f0bd927e066826d2e731e" title="Returns a string that represents the current object." alt="" coords="5,5,204,47"/>
+</map>

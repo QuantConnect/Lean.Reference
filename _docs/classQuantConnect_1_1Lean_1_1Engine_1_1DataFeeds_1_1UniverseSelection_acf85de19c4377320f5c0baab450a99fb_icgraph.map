@@ -1,0 +1,6 @@
+<map id="QuantConnect.Lean.Engine.DataFeeds.UniverseSelection.EnsureCurrencyDataFeeds" name="QuantConnect.Lean.Engine.DataFeeds.UniverseSelection.EnsureCurrencyDataFeeds">
+<area shape="rect" id="node1" title="Checks the current subscriptions and adds necessary currency pair feeds to provide real time conversi..." alt="" coords="651,31,912,87"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Lean_1_1Engine_1_1Setup_1_1BaseSetupHandler.html#ab487c9ff7dc96f704f6e2eb55910b6a3" title="Will first check and add all the required conversion rate securities and later will seed an initial v..." alt="" coords="321,31,603,87"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Lean_1_1Engine_1_1Setup_1_1BacktestingSetupHandler.html#a6fce75a853ba5e8baf5bda360fe6e77c" title="Setup the algorithm cash, dates and data subscriptions as desired." alt="" coords="5,5,273,47"/>
+<area shape="rect" id="node4" href="$classQuantConnect_1_1Lean_1_1Engine_1_1Setup_1_1BrokerageSetupHandler.html#a31fba19179b2197553a8f0152885886b" title="Primary entry point to setup a new algorithm" alt="" coords="11,71,268,112"/>
+</map>

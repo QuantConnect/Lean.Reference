@@ -1,0 +1,5 @@
+<map id="QuantConnect.Securities.BuyingPowerModel.GetAmountToOrder" name="QuantConnect.Securities.BuyingPowerModel.GetAmountToOrder">
+<area shape="rect" id="node1" title="Helper function that determines the amount to order to get to a given target safely...." alt="" coords="653,13,928,54"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Securities_1_1BuyingPowerModel.html#ac77dd32649e7d51e54d52b2d3b695afc" title="Get the maximum market order quantity to obtain a position with a given buying power percentage...." alt="" coords="329,5,605,61"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Securities_1_1BuyingPowerModel.html#a47123e9eef707732a20838c29a8bee69" title="Get the maximum market order quantity to obtain a delta in the buying power used by a security...." alt="" coords="5,5,281,61"/>
+</map>

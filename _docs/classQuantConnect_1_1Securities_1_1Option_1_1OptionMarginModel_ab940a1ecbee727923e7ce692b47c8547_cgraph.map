@@ -1,0 +1,5 @@
+<map id="QuantConnect.Securities.Option.OptionMarginModel.GetInitialMarginRequiredForOrder" name="QuantConnect.Securities.Option.OptionMarginModel.GetInitialMarginRequiredForOrder">
+<area shape="rect" id="node1" title="Gets the total margin required to execute the specified order in units of the account currency includ..." alt="" coords="5,43,229,99"/>
+<area shape="rect" id="node2" href="$interfaceQuantConnect_1_1Securities_1_1ICurrencyConverter.html#a7be7cb7f12fb4bffb92c11d2533387cc" title="Converts a cash amount to the account currency" alt="" coords="277,5,493,61"/>
+<area shape="rect" id="node3" href="$interfaceQuantConnect_1_1Orders_1_1Fees_1_1IFeeModel.html#ab0bf50e204c8c07f1d37fd7680f23e59" title="Gets the order fee associated with the specified order." alt="" coords="286,86,485,127"/>
+</map>

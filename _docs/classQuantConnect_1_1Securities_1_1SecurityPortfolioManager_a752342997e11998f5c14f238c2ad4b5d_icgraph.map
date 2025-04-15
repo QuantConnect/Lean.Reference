@@ -1,0 +1,8 @@
+<map id="QuantConnect.Securities.SecurityPortfolioManager.InvalidateTotalPortfolioValue" name="QuantConnect.Securities.SecurityPortfolioManager.InvalidateTotalPortfolioValue">
+<area shape="rect" id="node1" title="Will flag the current TotalPortfolioValue as invalid so it is recalculated when gotten" alt="" coords="845,63,1100,119"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Securities_1_1SecurityPortfolioManager.html#a808f4e2619ea3f081dbe17e44c6015d7" title="Applies a split to the portfolio" alt="" coords="536,5,792,47"/>
+<area shape="rect" id="node5" href="$classQuantConnect_1_1Securities_1_1SecurityPortfolioManager.html#a751323890ce886a53be10317888a10bb" title="Calculate the new average price after processing a list of partial/complete order fill events." alt="" coords="531,71,797,112"/>
+<area shape="rect" id="node6" href="$classQuantConnect_1_1Securities_1_1SecurityPortfolioManager.html#a4deedc3eb22eec91dacb5bcd0c35dc79" title="Initialise security portfolio manager." alt="" coords="543,137,785,193"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Lean_1_1Engine_1_1AlgorithmManager.html#ab1723b951a86a876c7ae3cc7281365f3" title="Helper method to apply a split to an algorithm instance" alt="" coords="255,5,483,47"/>
+<area shape="rect" id="node4" href="$classQuantConnect_1_1Lean_1_1Engine_1_1AlgorithmManager.html#a1a51d2e48b1be28cb89347a0123c19fd" title="Launch the algorithm manager to run this strategy" alt="" coords="5,5,207,47"/>
+</map>

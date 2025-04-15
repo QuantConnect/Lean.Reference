@@ -1,0 +1,7 @@
+<map id="QuantConnect.Algorithm.QCAlgorithm.Order" name="QuantConnect.Algorithm.QCAlgorithm.Order">
+<area shape="rect" id="node1" title="Issue an order/trade for asset: Alias wrapper for Order(string, int);" alt="" coords="352,90,625,131"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Algorithm_1_1QCAlgorithm.html#aa95a656133ec59ac77183930253b93d1" title="Buy Stock (Alias of Order)" alt="" coords="5,5,304,32"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Algorithm_1_1QCAlgorithm.html#a76b8193d7e78c9b50f18c04b75db5e0c" title="Liquidate your portfolio holdings" alt="" coords="18,57,291,98"/>
+<area shape="rect" id="node4" href="$classQuantConnect_1_1Algorithm_1_1QCAlgorithm.html#a465c6ccd8a19bedd5da694714e0c0c8c" title="Obsolete implementation of Order method accepting a OrderType. This was deprecated since it was impos..." alt="" coords="18,122,291,163"/>
+<area shape="rect" id="node5" href="$classQuantConnect_1_1Algorithm_1_1QCAlgorithm.html#ae1ee8100fccbae33a71105588325d3c7" title="Sell stock (alias of Order)" alt="" coords="6,188,303,215"/>
+</map>

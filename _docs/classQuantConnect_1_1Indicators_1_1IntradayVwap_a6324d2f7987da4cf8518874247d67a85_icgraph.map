@@ -1,0 +1,4 @@
+<map id="QuantConnect.Indicators.IntradayVwap.TryGetVolumeAndAveragePrice" name="QuantConnect.Indicators.IntradayVwap.TryGetVolumeAndAveragePrice">
+<area shape="rect" id="node1" title="Determines the volume and price to be used for the current input in the VWAP computation" alt="" coords="307,5,539,61"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Indicators_1_1IntradayVwap.html#adf68dffd2fc2b85e5eb9abac74475f5e" title="Computes the new VWAP" alt="" coords="5,5,259,61"/>
+</map>

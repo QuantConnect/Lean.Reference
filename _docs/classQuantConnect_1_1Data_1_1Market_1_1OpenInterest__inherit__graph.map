@@ -1,0 +1,7 @@
+<map id="QuantConnect.Data.Market.OpenInterest" name="QuantConnect.Data.Market.OpenInterest">
+<area shape="rect" id="node1" title="Defines a data type that represents open interest for given security" alt="" coords="5,304,208,345"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Data_1_1Market_1_1Tick.html" title="Tick class is the base representation for tick data. It is grouped into a Ticks object which implemen..." alt="" coords="82,229,131,256"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Data_1_1BaseData.html" title="Abstract base data class of QuantConnect. It is intended to be extended to define generic user custom..." alt="" coords="64,155,149,181"/>
+<area shape="rect" id="node4" href="$interfaceQuantConnect_1_1Data_1_1IBaseData.html" title="Base Data Class: Type, Timestamp, Key – Base Features." alt="" coords="62,80,151,107"/>
+<area shape="rect" id="node5" href="$interfaceQuantConnect_1_1Data_1_1ISymbolProvider.html" title="Base data with a symbol" alt="" coords="42,5,171,32"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="QuantConnect.Lean.Engine.Storage.LocalObjectStore.ReadBytes" name="QuantConnect.Lean.Engine.Storage.LocalObjectStore.ReadBytes">
+<area shape="rect" id="node1" title="Returns the object data for the specified path" alt="" coords="5,41,265,83"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Lean_1_1Engine_1_1Storage_1_1LocalObjectStore.html#a52e8e88b7d73e2d4f088d3ff71a7c301" title="Determines whether the store contains data for the specified path" alt="" coords="313,12,584,53"/>
+<area shape="rect" id="node4" href="$classQuantConnect_1_1Lean_1_1Engine_1_1Storage_1_1LocalObjectStore.html#a401003a1ad65a8cb163d7aa1162e98c0" title="Get&#39;s a file path for a given path. Internal use only because it does not guarantee the existence of ..." alt="" coords="632,71,895,112"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Lean_1_1Engine_1_1Storage_1_1FileHandler.html#ab15499e563b744ff777f29ffae0ef97f" title="True if the given file path exists" alt="" coords="663,5,864,47"/>
+</map>

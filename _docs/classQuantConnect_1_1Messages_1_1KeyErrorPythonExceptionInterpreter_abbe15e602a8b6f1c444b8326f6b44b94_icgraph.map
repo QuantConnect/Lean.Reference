@@ -1,0 +1,4 @@
+<map id="QuantConnect.Messages.KeyErrorPythonExceptionInterpreter.KeyNotFoundInCollection" name="QuantConnect.Messages.KeyErrorPythonExceptionInterpreter.KeyNotFoundInCollection">
+<area shape="rect" id="node1" title="Returns a string message saying the given key does not exists in the collection and the exception tha..." alt="" coords="312,5,547,61"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Exceptions_1_1KeyErrorPythonExceptionInterpreter.html#a4959d688d49190b822e55706716ffb29" title="Interprets the specified exception into a new exception" alt="" coords="5,5,264,61"/>
+</map>

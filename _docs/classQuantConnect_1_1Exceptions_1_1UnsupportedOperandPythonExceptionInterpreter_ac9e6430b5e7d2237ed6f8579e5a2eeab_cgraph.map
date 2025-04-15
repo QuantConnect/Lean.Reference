@@ -1,0 +1,5 @@
+<map id="QuantConnect.Exceptions.UnsupportedOperandPythonExceptionInterpreter.Interpret" name="QuantConnect.Exceptions.UnsupportedOperandPythonExceptionInterpreter.Interpret">
+<area shape="rect" id="node1" title="Interprets the specified exception into a new exception" alt="" coords="5,43,275,99"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Messages_1_1UnsupportedOperandPythonExceptionInterpreter.html#a46824c30bbdd0f5a981f4fcc6dbbf3af" title="Returns a message for invalid object types for operation" alt="" coords="323,5,625,61"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Util_1_1PythonUtil.html#a092a2692ea8e8fd23fe5e3b3357c336f" title="Parsers PythonException.StackTrace into a readable message" alt="" coords="357,86,591,127"/>
+</map>

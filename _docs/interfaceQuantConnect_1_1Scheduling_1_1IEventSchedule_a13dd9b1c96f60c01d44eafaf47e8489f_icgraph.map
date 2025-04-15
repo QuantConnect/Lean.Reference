@@ -1,0 +1,4 @@
+<map id="QuantConnect.Scheduling.IEventSchedule.Remove" name="QuantConnect.Scheduling.IEventSchedule.Remove">
+<area shape="rect" id="node1" title="Removes the specified event from the schedule" alt="" coords="248,5,441,47"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Scheduling_1_1ScheduleManager.html#a73198aa1fe16bac63c0bb7e07d579ef1" title="Removes the specified event from the schedule" alt="" coords="5,5,200,47"/>
+</map>

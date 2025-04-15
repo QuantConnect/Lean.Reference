@@ -1,0 +1,5 @@
+<map id="QuantConnect.Report.DrawdownCollection.GetDrawdownPeriods" name="QuantConnect.Report.DrawdownCollection.GetDrawdownPeriods">
+<area shape="rect" id="node1" title="Gets the given drawdown periods from the equity curve and the set periods" alt="" coords="5,39,240,80"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Report_1_1DrawdownCollection.html#ae95ff9955aaf613b8b94523ef83e2df0" title="Gets the top N worst drawdowns and associated statistics. Returns a Frame with the following keys: &quot;d..." alt="" coords="288,5,537,47"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Report_1_1DrawdownCollection.html#ac2ea2b6b9d985ca01629ad7e020b5af3" title="Gets all the data associated with the underwater plot and everything used to generate it...." alt="" coords="295,71,530,112"/>
+</map>

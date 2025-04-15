@@ -1,0 +1,4 @@
+<map id="QuantConnect.Optimizer.Objectives.Target.MoveAhead" name="QuantConnect.Optimizer.Objectives.Target.MoveAhead">
+<area shape="rect" id="node1" title="Check backtest result" alt="" coords="5,5,264,47"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Optimizer_1_1Objectives_1_1Extremum.html#ad661803c346690f634c32684051e7c4e" title="Compares two values; identifies whether condition is met or not." alt="" coords="312,5,571,47"/>
+</map>

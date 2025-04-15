@@ -1,0 +1,5 @@
+<map id="QuantConnect.Interfaces.IAlgorithm.AddSecurity" name="QuantConnect.Interfaces.IAlgorithm.AddSecurity">
+<area shape="rect" id="node1" title="Set a required SecurityType&#45;symbol and resolution for algorithm" alt="" coords="275,39,461,80"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Extensions.html#ad5dd976799decc110d468ff697b3f4e6" title="Gets the security for the specified symbol from the algorithm&#39;s securities collection...." alt="" coords="5,5,227,47"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Commands_1_1AddSecurityCommand.html#a08633deb7b0c56221c5c96f3dd41b4d8" title="Runs this command against the specified algorithm instance" alt="" coords="5,71,227,112"/>
+</map>

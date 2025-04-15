@@ -1,0 +1,5 @@
+<map id="QuantConnect.Data.Fundamental.InterestIncomeFromSecuritiesIncomeStatement" name="QuantConnect.Data.Fundamental.InterestIncomeFromSecuritiesIncomeStatement">
+<area shape="rect" id="node1" title="Represents total interest and dividend income from U.S. Treasury securities, U.S. government agency a..." alt="" coords="5,155,271,211"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Data_1_1Fundamental_1_1MultiPeriodField.html" title="Abstract base class for multi&#45;period fields" alt="" coords="75,80,201,107"/>
+<area shape="rect" id="node3" title=" " alt="" coords="59,5,217,32"/>
+</map>

@@ -1,0 +1,8 @@
+<map id="QuantConnect.Util.MarketHoursDatabaseJsonConverter.MarketHoursDatabaseJson.Convert" name="QuantConnect.Util.MarketHoursDatabaseJsonConverter.MarketHoursDatabaseJson.Convert">
+<area shape="rect" id="node1" title="Converts this json representation to the MarketHoursDatabase type" alt="" coords="5,31,267,87"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Logging_1_1Log.html#af0e7955911bc7664b37661b2a303a9e3" title="Log error" alt="" coords="315,5,515,47"/>
+<area shape="rect" id="node4" href="$classQuantConnect_1_1Securities_1_1SecurityDatabaseKey.html#ae682eebcb9d2338775666e080dd36c4b" title="Parses the specified string as a SecurityDatabaseKey" alt="" coords="315,71,514,112"/>
+<area shape="rect" id="node3" href="$interfaceQuantConnect_1_1Logging_1_1ILogHandler.html#a35373a0c5d76031fa5ccf5dc39e5c25d" title="Write error message to log" alt="" coords="600,5,800,47"/>
+<area shape="rect" id="node5" href="$classQuantConnect_1_1Messages_1_1SecurityDatabaseKey.html#aae62e52eb34820d4192847dfceba6562" title="Returns a string message saying the specified and given key was not in the expected format" alt="" coords="563,71,837,112"/>
+<area shape="rect" id="node6" href="$classQuantConnect_1_1Securities_1_1SecurityDatabaseKey.html#a709d4b45aad5fb375b354f9e514b620e" title="Initializes a new instance of the SecurityDatabaseKey class" alt="" coords="592,137,808,193"/>
+</map>

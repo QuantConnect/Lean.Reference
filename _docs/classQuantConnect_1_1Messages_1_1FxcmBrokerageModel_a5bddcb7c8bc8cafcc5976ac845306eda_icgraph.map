@@ -1,0 +1,5 @@
+<map id="QuantConnect.Messages.FxcmBrokerageModel.InvalidOrderQuantityForLotSize" name="QuantConnect.Messages.FxcmBrokerageModel.InvalidOrderQuantityForLotSize">
+<area shape="rect" id="node1" title="Returns a string message saying the order quantity must be a multiple of LotSize. It also contains th..." alt="" coords="329,31,597,87"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Brokerages_1_1FxcmBrokerageModel.html#a61af8db4afef0f9ffab92a44c87dc37a" title="Returns true if the brokerage could accept this order. This takes into account order type,..." alt="" coords="6,5,281,47"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Brokerages_1_1FxcmBrokerageModel.html#ab246112ca8c42f3fa1a64902d42001ad" title="Returns true if the brokerage would allow updating the order as specified by the request" alt="" coords="5,71,281,112"/>
+</map>

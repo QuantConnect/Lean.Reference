@@ -1,0 +1,5 @@
+<map id="QuantConnect.Orders.OrderResponse.ZeroQuantity" name="QuantConnect.Orders.OrderResponse.ZeroQuantity">
+<area shape="rect" id="node1" title="Helper method to create an error response due to a zero order quantity" alt="" coords="5,39,207,80"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Orders_1_1OrderResponse.html#a14ded2753785926becc5e7f8e5a02a09" title="Helper method to create an error response from a request" alt="" coords="265,5,467,47"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Messages_1_1OrderResponse.html#a5a51314045a78e6a881e7b5d8bd25817" title="Returns a string message saying it was impossible to process the given order request that has zero qu..." alt="" coords="255,71,477,112"/>
+</map>

@@ -1,0 +1,9 @@
+<map id="QuantConnect.TimeZoneOffsetProvider.GetOffsetTicks" name="QuantConnect.TimeZoneOffsetProvider.GetOffsetTicks">
+<area shape="rect" id="node1" title="Gets the offset in ticks from this time zone to UTC, such that UTC time + offset = local time" alt="" coords="1212,39,1435,80"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1TimeZoneOffsetProvider.html#a30ed789480ea7531a594a1852a425c80" title="Converts the specified utcTime &#160;using the offset resolved from a call to GetOffsetTicks" alt="" coords="941,5,1164,47"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1TimeZoneOffsetProvider.html#a9d630077c5043b0ed30219686cf60338" title="Converts the specified local time to UTC. This function will advance this offset provider" alt="" coords="941,71,1164,112"/>
+<area shape="rect" id="node4" href="$classQuantConnect_1_1Lean_1_1Engine_1_1DataFeeds_1_1SubscriptionData.html#ad92a6b0d165cc21e6186648e74db9614" title="Clones the data, computes the utc emit time and performs exchange round down behavior,..." alt="" coords="640,71,893,112"/>
+<area shape="rect" id="node5" href="$classQuantConnect_1_1Lean_1_1Engine_1_1DataFeeds_1_1SubscriptionUtils.html#a1730082b174a831b7b6ae6f090a35cdb" title="Setups a new Subscription which will consume a blocking EnqueueableEnumerator&lt;T&gt; that will be feed by..." alt="" coords="335,23,587,79"/>
+<area shape="rect" id="node7" href="$classQuantConnect_1_1Lean_1_1Engine_1_1DataFeeds_1_1Enumerators_1_1SubscriptionDataEnumerator.html#a64fa7fd463f6b3c0575ccaba788a9e79" title="Advances the enumerator to the next element of the collection." alt="" coords="329,103,592,159"/>
+<area shape="rect" id="node6" href="$classQuantConnect_1_1Lean_1_1Engine_1_1DataFeeds_1_1FileSystemDataFeed.html#ac148e78fc814fca88c70a1835be51a25" title="Creates a new subscription to provide data for the specified security." alt="" coords="5,23,281,79"/>
+</map>

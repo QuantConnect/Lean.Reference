@@ -1,0 +1,4 @@
+<map id="QuantConnect.Orders.Fills.FillModel.GetSubscribedTypes" name="QuantConnect.Orders.Fills.FillModel.GetSubscribedTypes">
+<area shape="rect" id="node1" title="Get data types the Security is subscribed to" alt="" coords="5,13,221,54"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Messages_1_1FillModel.html#ae9a5c5ace1eb050dd0d3d9c25fb1ba35" title="Returns a string message saying it was impossible to perform a fill for the given security symbol bec..." alt="" coords="269,5,524,61"/>
+</map>

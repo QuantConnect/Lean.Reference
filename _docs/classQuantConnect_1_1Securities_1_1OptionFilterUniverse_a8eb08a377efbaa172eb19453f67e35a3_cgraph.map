@@ -1,0 +1,4 @@
+<map id="QuantConnect.Securities.OptionFilterUniverse.CallsOnly" name="QuantConnect.Securities.OptionFilterUniverse.CallsOnly">
+<area shape="rect" id="node1" title="Sets universe of call options (if any) as a selection" alt="" coords="5,20,228,61"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Securities_1_1ContractSecurityFilterUniverse.html#afd19f07e15021e294e3d72a992b4f634" title="Explicitly sets the selected contract symbols for this universe. This overrides and and all other met..." alt="" coords="276,5,556,76"/>
+</map>

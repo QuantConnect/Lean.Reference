@@ -1,0 +1,5 @@
+<map id="QuantConnect.Interfaces.IDataQueueUniverseProvider" name="QuantConnect.Interfaces.IDataQueueUniverseProvider">
+<area shape="rect" id="node1" title="This interface allows interested parties to lookup or enumerate the available symbols...." alt="" coords="5,39,216,80"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Lean_1_1Engine_1_1DataFeeds_1_1DataQueueHandlerManager.html" title="This is an implementation of IDataQueueHandler used to handle multiple live datafeeds" alt="" coords="264,5,540,47"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Lean_1_1Engine_1_1DataFeeds_1_1Queues_1_1FakeDataQueue.html" title="This is an implementation of IDataQueueHandler used for testing. FakeHistoryProvider" alt="" coords="277,71,527,112"/>
+</map>

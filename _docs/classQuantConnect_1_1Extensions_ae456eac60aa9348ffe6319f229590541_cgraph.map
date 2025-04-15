@@ -1,0 +1,4 @@
+<map id="QuantConnect.Extensions.ParseOptionRight" name="QuantConnect.Extensions.ParseOptionRight">
+<area shape="rect" id="node1" title="Converts the specified string to its corresponding OptionRight" alt="" coords="5,5,199,47"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Messages_1_1Extensions.html#ab96ebe7a336fef4e4709d97641fb7760" title="Returns a string message saying the given OptionRight was unexpected/unknown" alt="" coords="247,5,509,47"/>
+</map>

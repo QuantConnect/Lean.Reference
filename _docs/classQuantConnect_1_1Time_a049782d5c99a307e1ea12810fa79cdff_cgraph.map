@@ -1,0 +1,8 @@
+<map id="QuantConnect.Time.GetNumberOfTradeBarsInInterval" name="QuantConnect.Time.GetNumberOfTradeBarsInInterval">
+<area shape="rect" id="node1" title="Gets the number of trade bars of the specified barSize &#160;that fit between the start &#160;and end" alt="" coords="5,39,236,80"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Securities_1_1SecurityExchangeHours.html#a9938e951dadf16e7518f648ff9c4a040" title="Determines if the exchange will be open on the date specified by the local date time" alt="" coords="284,5,540,47"/>
+<area shape="rect" id="node5" href="$classQuantConnect_1_1Securities_1_1SecurityExchangeHours.html#af2deedeacdcb6bbe40f4874002cdbac3" title="Determines if the exchange is open at the specified local date time." alt="" coords="299,71,525,112"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Securities_1_1SecurityExchangeHours.html#a106e2dd187ab76452e14ac6a28f929aa" title="Helper to access the market hours field based on the day of week" alt="" coords="588,5,875,47"/>
+<area shape="rect" id="node4" href="$classQuantConnect_1_1Securities_1_1LocalMarketHours.html#a1e9178f81413c7d1f032a003d74acecf" title="Gets a LocalMarketHours instance that is always closed" alt="" coords="923,5,1153,47"/>
+<area shape="rect" id="node6" href="$classQuantConnect_1_1Securities_1_1LocalMarketHours.html#a97e5d374a28d55f3ebee72c328a0810f" title="Determines if the exchange is open at the specified time" alt="" coords="637,71,825,112"/>
+</map>

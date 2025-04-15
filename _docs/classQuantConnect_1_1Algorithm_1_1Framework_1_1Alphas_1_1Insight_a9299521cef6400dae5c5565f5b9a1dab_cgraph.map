@@ -1,0 +1,4 @@
+<map id="QuantConnect.Algorithm.Framework.Alphas.Insight.Group" name="QuantConnect.Algorithm.Framework.Alphas.Insight.Group">
+<area shape="rect" id="node1" title="Creates a new, unique group id and sets it on each insight" alt="" coords="5,5,268,47"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Messages_1_1Insight.html#a3495909b02f734d8864fc76aef082fbc" title="Returns a string message saying it was impossible to set group id on the given insight because it has..." alt="" coords="316,5,553,47"/>
+</map>

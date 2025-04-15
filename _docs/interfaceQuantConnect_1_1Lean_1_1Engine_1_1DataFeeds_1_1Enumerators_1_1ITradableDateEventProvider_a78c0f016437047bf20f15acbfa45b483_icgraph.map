@@ -1,0 +1,9 @@
+<map id="QuantConnect.Lean.Engine.DataFeeds.Enumerators.ITradableDateEventProvider.Initialize" name="QuantConnect.Lean.Engine.DataFeeds.Enumerators.ITradableDateEventProvider.Initialize">
+<area shape="rect" id="node1" title="Initializes the event provider instance" alt="" coords="1011,45,1252,101"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Lean_1_1Engine_1_1DataFeeds_1_1Enumerators_1_1AuxiliaryDataEnumerator.html#a3b993c67a7eb48d17b18dfc36f6e5914" title="Initializes the underlying tradable data event providers" alt="" coords="723,45,963,101"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Lean_1_1Engine_1_1DataFeeds_1_1Enumerators_1_1LiveAuxiliaryDataEnumerator.html#a76f2679360b42b1583c7109758fff625" title="Creates a new instance" alt="" coords="351,5,675,61"/>
+<area shape="rect" id="node5" href="$classQuantConnect_1_1Lean_1_1Engine_1_1DataFeeds_1_1Enumerators_1_1AuxiliaryDataEnumerator.html#ab3e08b934825ed795455cd9e1e4bd846" title="Handle a new tradable date, drives the ITradableDateEventProvider instances" alt="" coords="389,85,636,141"/>
+<area shape="rect" id="node4" href="$classQuantConnect_1_1Lean_1_1Engine_1_1DataFeeds_1_1Enumerators_1_1LiveAuxiliaryDataEnumerator.html#ac5a9c465a445e77dc2037ae3aca4d2f0" title="Helper method to create a new instance. Knows which security types should create one and determines t..." alt="" coords="21,5,287,61"/>
+<area shape="rect" id="node6" href="$classQuantConnect_1_1Lean_1_1Engine_1_1DataFeeds_1_1Enumerators_1_1AuxiliaryDataEnumerator.html#a9188bd506f7f85b8b9abcec8f6eacb78" title="Creates a new instance" alt="" coords="5,85,303,141"/>
+<area shape="rect" id="node7" href="$classQuantConnect_1_1Lean_1_1Engine_1_1DataFeeds_1_1Enumerators_1_1LiveAuxiliaryDataEnumerator.html#a488096b6275be02126bd2d4ba7555dc5" title="Moves the LiveAuxiliaryDataEnumerator to the next item" alt="" coords="21,165,287,221"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="QuantConnect.Exceptions.StackExceptionInterpreter" name="QuantConnect.Exceptions.StackExceptionInterpreter">
+<area shape="rect" id="node1" title="Interprets exceptions using the configured interpretations" alt="" coords="5,80,199,121"/>
+<area shape="rect" id="node2" href="$interfaceQuantConnect_1_1Exceptions_1_1IExceptionInterpreter.html" title="Defines an exception interpreter. Interpretations are invoked on IAlgorithm.RunTimeError" alt="" coords="23,5,181,32"/>
+</map>

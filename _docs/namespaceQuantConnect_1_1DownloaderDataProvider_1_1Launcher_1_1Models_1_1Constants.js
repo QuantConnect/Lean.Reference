@@ -1,0 +1,4 @@
+var namespaceQuantConnect_1_1DownloaderDataProvider_1_1Launcher_1_1Models_1_1Constants =
+[
+    [ "DownloaderCommandArguments", "classQuantConnect_1_1DownloaderDataProvider_1_1Launcher_1_1Models_1_1Constants_1_1DownloaderCommandArguments.html", "classQuantConnect_1_1DownloaderDataProvider_1_1Launcher_1_1Models_1_1Constants_1_1DownloaderCommandArguments" ]
+];

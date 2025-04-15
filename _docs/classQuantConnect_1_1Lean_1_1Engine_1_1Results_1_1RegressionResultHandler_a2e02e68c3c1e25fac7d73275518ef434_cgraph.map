@@ -1,0 +1,5 @@
+<map id="QuantConnect.Lean.Engine.Results.RegressionResultHandler.Exit" name="QuantConnect.Lean.Engine.Results.RegressionResultHandler.Exit">
+<area shape="rect" id="node1" title="Terminate the result thread and apply any required exit procedures. Save orders log files to disk." alt="" coords="5,5,272,47"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Logging_1_1Log.html#a4e55477fbc790846b74550a57198cea9" title="Log trace" alt="" coords="320,5,520,47"/>
+<area shape="rect" id="node3" href="$interfaceQuantConnect_1_1Logging_1_1ILogHandler.html#a3fb71a33ac66129240b63f12b6fcda3b" title="Write debug message to log" alt="" coords="568,5,768,47"/>
+</map>

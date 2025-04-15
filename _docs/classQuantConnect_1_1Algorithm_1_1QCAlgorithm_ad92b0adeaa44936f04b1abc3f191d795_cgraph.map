@@ -1,0 +1,6 @@
+<map id="QuantConnect.Algorithm.QCAlgorithm.AddUniverse" name="QuantConnect.Algorithm.QCAlgorithm.AddUniverse">
+<area shape="rect" id="node1" title="Creates a new universe and adds it to the algorithm" alt="" coords="5,35,279,76"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Algorithm_1_1QCAlgorithm.html#aeac560d821c1d05c6af8864ec7075a72" title="Creates a new universe and adds it to the algorithm. This is for coarse fundamental US Equity data an..." alt="" coords="331,5,604,47"/>
+<area shape="rect" id="node4" href="$classQuantConnect_1_1Algorithm_1_1QCAlgorithm.html#a47eae84c2f0b8e98dbc61b555b645865" title="Creates a new Theta indicator for the symbol The indicator will be automatically updated on the symbo..." alt="" coords="327,71,608,98"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Data_1_1Fundamental_1_1FundamentalUniverse.html#a311287571a6bdb1fdbdb0a9abe5b3aa8" title="Creates a new fundamental universe for the USA market" alt="" coords="656,5,899,47"/>
+</map>

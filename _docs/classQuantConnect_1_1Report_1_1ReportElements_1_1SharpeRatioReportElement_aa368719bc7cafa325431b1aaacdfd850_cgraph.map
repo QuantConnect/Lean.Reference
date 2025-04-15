@@ -1,0 +1,6 @@
+<map id="QuantConnect.Report.ReportElements.SharpeRatioReportElement.Render" name="QuantConnect.Report.ReportElements.SharpeRatioReportElement.Render">
+<area shape="rect" id="node1" title="The generated output string to be injected" alt="" coords="5,71,272,127"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Report_1_1ResultsUtil.html#aa3025f7eaad4f511960c2d6c9c2dd028" title="Get the points, from the Series name given, in Strategy Equity chart" alt="" coords="347,5,560,47"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Report_1_1ReportElements_1_1SharpeRatioReportElement.html#a47dec7c65b468947007a0db8d1894ba5" title="Get annual standard deviation" alt="" coords="320,71,587,127"/>
+<area shape="rect" id="node4" href="$classQuantConnect_1_1Report_1_1DeedleUtil.html#a5ed1881b911eb86af6e9bc0b9b65db12" title="Calculates the percentage change from the previous value to the current" alt="" coords="348,152,559,193"/>
+</map>

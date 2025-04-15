@@ -1,0 +1,4 @@
+<map id="QuantConnect.Algorithm.QCAlgorithm.History&lt; T &gt;" name="QuantConnect.Algorithm.QCAlgorithm.History&lt; T &gt;">
+<area shape="rect" id="node1" title="Gets the historical data for the specified symbols over the requested span. The symbols must exist in..." alt="" coords="5,5,279,47"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Algorithm_1_1QCAlgorithm.html#abab861b7d5d49039d7886d2d3c5e06b1" title="Gets the historical data for all symbols of the requested type over the requested span...." alt="" coords="327,5,600,47"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="QuantConnect.Securities.Option.StrategyMatcher.OptionStrategyMatcherOptions.WithObjectiveFunction" name="QuantConnect.Securities.Option.StrategyMatcher.OptionStrategyMatcherOptions.WithObjectiveFunction">
+<area shape="rect" id="node1" title="Specifies a function used to evaluate how desirable a particular solution is. A good implementation f..." alt="" coords="5,5,281,76"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Securities_1_1Option_1_1StrategyMatcher_1_1OptionStrategyMatcherOptions.html#ac92128e7954f207ca99bb1743d15a5e7" title="Initializes a new instance of the OptionStrategyMatcherOptions class, providing options that control ..." alt="" coords="329,5,612,76"/>
+</map>

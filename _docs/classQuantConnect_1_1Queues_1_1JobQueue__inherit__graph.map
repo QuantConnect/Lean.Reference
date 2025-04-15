@@ -1,0 +1,4 @@
+<map id="QuantConnect.Queues.JobQueue" name="QuantConnect.Queues.JobQueue">
+<area shape="rect" id="node1" title="Implementation of local/desktop job request:" alt="" coords="5,80,239,107"/>
+<area shape="rect" id="node2" href="$interfaceQuantConnect_1_1Interfaces_1_1IJobQueueHandler.html" title="Task requestor interface with cloud system" alt="" coords="53,5,191,32"/>
+</map>

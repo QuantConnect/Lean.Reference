@@ -1,0 +1,6 @@
+<map id="QuantConnect.Algorithm.QCAlgorithm.GetLastKnownPrice" name="QuantConnect.Algorithm.QCAlgorithm.GetLastKnownPrice">
+<area shape="rect" id="node1" title="Get the last known price using the history provider. Useful for seeding securities with the correct p..." alt="" coords="5,39,279,80"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Util_1_1LeanData.html#adf1799b921849e0643385e6794ec2471" title="Get the TickType for common Lean data types. If not a Lean common data type, return a TickType of Tra..." alt="" coords="327,5,635,47"/>
+<area shape="rect" id="node4" href="$classQuantConnect_1_1Algorithm_1_1QCAlgorithm.html#abf4cc7360c5b9e2c357efcdf2a12dfb4" title="Yields data to warmup a security for all it&#39;s subscribed data types" alt="" coords="344,71,617,112"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Util_1_1LeanData.html#a24869ac4b029b3f2d468596baab6d72d" title="Gets the tick type most commonly associated with the specified security type" alt="" coords="683,5,893,47"/>
+</map>

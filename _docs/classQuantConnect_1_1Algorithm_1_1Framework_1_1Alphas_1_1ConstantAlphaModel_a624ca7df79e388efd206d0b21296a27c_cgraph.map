@@ -1,0 +1,5 @@
+<map id="QuantConnect.Algorithm.Framework.Alphas.ConstantAlphaModel.Update" name="QuantConnect.Algorithm.Framework.Alphas.ConstantAlphaModel.Update">
+<area shape="rect" id="node1" title="Creates a constant insight for each security as specified via the constructor" alt="" coords="5,13,268,54"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Algorithm_1_1Framework_1_1Alphas_1_1ConstantAlphaModel.html#a78b7cb6f938ab4123e2c0b62561a1b0f" title="Determine if its time to emit insight for this symbol" alt="" coords="316,5,599,61"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Symbol.html#a1f3c25223fd9a7b753a4f84ece6469ab" title="Method returns true, if symbol is a derivative canonical symbol" alt="" coords="647,20,893,47"/>
+</map>

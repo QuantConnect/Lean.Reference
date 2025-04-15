@@ -1,0 +1,6 @@
+<map id="QuantConnect.Securities.ISettlementModel.ApplyFunds" name="QuantConnect.Securities.ISettlementModel.ApplyFunds">
+<area shape="rect" id="node1" title="Applies cash settlement rules" alt="" coords="568,93,785,134"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Securities_1_1Option_1_1OptionPortfolioModel.html#adff7062b57f0978b9f34a40181d3eea1" title="Helper method to determine the close trade profit" alt="" coords="303,5,513,61"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Securities_1_1SecurityPortfolioModel.html#ad135956ec1db8e8227e58b81c3354c61" title="Helper method to determine the close trade profit" alt="" coords="296,85,520,141"/>
+<area shape="rect" id="node4" href="$classQuantConnect_1_1Securities_1_1SecurityPortfolioModel.html#a5fec18e0e959a173c5fbb6187ab56f7c" title="Performs application of an OrderEvent to the portfolio" alt="" coords="5,126,248,167"/>
+</map>

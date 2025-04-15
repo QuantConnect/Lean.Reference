@@ -1,0 +1,7 @@
+<map id="QuantConnect.Securities.SecurityExchange.IsClosingSoon" name="QuantConnect.Securities.SecurityExchange.IsClosingSoon">
+<area shape="rect" id="node1" title="Determines if the exchange is going to close in the next provided minutes" alt="" coords="5,39,239,80"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Securities_1_1SecurityExchangeHours.html#af2deedeacdcb6bbe40f4874002cdbac3" title="Determines if the exchange is open at the specified local date time." alt="" coords="287,39,512,80"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Securities_1_1SecurityExchangeHours.html#a106e2dd187ab76452e14ac6a28f929aa" title="Helper to access the market hours field based on the day of week" alt="" coords="560,5,847,47"/>
+<area shape="rect" id="node5" href="$classQuantConnect_1_1Securities_1_1LocalMarketHours.html#a97e5d374a28d55f3ebee72c328a0810f" title="Determines if the exchange is open at the specified time" alt="" coords="609,71,797,112"/>
+<area shape="rect" id="node4" href="$classQuantConnect_1_1Securities_1_1LocalMarketHours.html#a1e9178f81413c7d1f032a003d74acecf" title="Gets a LocalMarketHours instance that is always closed" alt="" coords="895,5,1125,47"/>
+</map>

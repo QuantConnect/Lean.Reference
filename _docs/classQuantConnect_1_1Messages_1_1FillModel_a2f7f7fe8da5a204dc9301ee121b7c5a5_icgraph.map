@@ -1,0 +1,6 @@
+<map id="QuantConnect.Messages.FillModel.MarketNeverCloses" name="QuantConnect.Messages.FillModel.MarketNeverCloses">
+<area shape="rect" id="node1" title="Returns a string message saying the market never closes for the given symbol, and that an order of th..." alt="" coords="499,39,705,80"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Orders_1_1Fills_1_1FillModel.html#aaebba1509472c6d2a29d1a04727f397f" title="Market on Close Fill Model. Return an order event with the fill details" alt="" coords="248,5,451,47"/>
+<area shape="rect" id="node4" href="$classQuantConnect_1_1Orders_1_1Fills_1_1FillModel.html#ad6b2c831ede0fe9358c0310ba05e1290" title="Market on Open Fill Model. Return an order event with the fill details" alt="" coords="249,71,450,112"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Orders_1_1Fills_1_1FillModel.html#ab2919d2ee3ef2bd42013884458871c85" title="Return an order event with the fill details" alt="" coords="5,39,200,80"/>
+</map>

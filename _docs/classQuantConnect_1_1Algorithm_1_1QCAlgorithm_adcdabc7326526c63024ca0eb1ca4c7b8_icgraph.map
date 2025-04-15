@@ -1,0 +1,4 @@
+<map id="QuantConnect.Algorithm.QCAlgorithm.Identity" name="QuantConnect.Algorithm.QCAlgorithm.Identity">
+<area shape="rect" id="node1" title="Creates a new Identity indicator for the symbol The indicator will be automatically updated on the sy..." alt="" coords="327,5,600,47"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Algorithm_1_1QCAlgorithm.html#a88d5bc0788a04a13fb4eb74281f0784f" title="Creates a new Identity indicator for the symbol The indicator will be automatically updated on the sy..." alt="" coords="5,5,279,47"/>
+</map>

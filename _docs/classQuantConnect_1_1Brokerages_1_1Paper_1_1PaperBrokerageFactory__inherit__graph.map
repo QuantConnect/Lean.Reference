@@ -1,0 +1,6 @@
+<map id="QuantConnect.Brokerages.Paper.PaperBrokerageFactory" name="QuantConnect.Brokerages.Paper.PaperBrokerageFactory">
+<area shape="rect" id="node1" title="The factory type for the PaperBrokerage" alt="" coords="5,229,216,271"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Brokerages_1_1BrokerageFactory.html" title="Provides a base implementation of IBrokerageFactory that provides a helper for reading data from a jo..." alt="" coords="43,155,178,181"/>
+<area shape="rect" id="node3" href="$interfaceQuantConnect_1_1Interfaces_1_1IBrokerageFactory.html" title="Defines factory types for brokerages. Every IBrokerage is expected to also implement an IBrokerageFac..." alt="" coords="41,80,180,107"/>
+<area shape="rect" id="node4" title=" " alt="" coords="61,5,160,32"/>
+</map>

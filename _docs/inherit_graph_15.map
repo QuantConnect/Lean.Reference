@@ -1,0 +1,5 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$classQuantConnect_1_1Python_1_1BasePythonWrapper.html" title=" " alt="" coords="26,5,247,61"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Algorithm_1_1Framework_1_1Alphas_1_1InsightScoreFunctionPythonWrapper.html" title="A python implementation insight evaluator wrapper" alt="" coords="316,50,621,91"/>
+<area shape="rect" id="node3" href="$interfaceQuantConnect_1_1Algorithm_1_1Framework_1_1Alphas_1_1IInsightScoreFunction.html" title="Abstraction in charge of scoring insights" alt="" coords="5,86,268,127"/>
+</map>

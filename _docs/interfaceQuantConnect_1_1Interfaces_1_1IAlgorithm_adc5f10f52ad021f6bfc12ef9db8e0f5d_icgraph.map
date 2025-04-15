@@ -1,0 +1,6 @@
+<map id="QuantConnect.Interfaces.IAlgorithm.SetStatus" name="QuantConnect.Interfaces.IAlgorithm.SetStatus">
+<area shape="rect" id="node1" title="Set the state of a live deployment" alt="" coords="511,39,697,80"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Extensions.html#ab2ab65abab853472bc76822b1dc22583" title="Helper method to set an algorithm runtime exception in a normalized fashion" alt="" coords="262,5,455,47"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Lean_1_1Engine_1_1AlgorithmManager.html#aea414b7cf4533a4295fa7c8b1deb7eff" title="Set the quit state." alt="" coords="255,71,463,112"/>
+<area shape="rect" id="node4" href="$classQuantConnect_1_1Lean_1_1Engine_1_1AlgorithmManager.html#a1a51d2e48b1be28cb89347a0123c19fd" title="Launch the algorithm manager to run this strategy" alt="" coords="5,71,207,112"/>
+</map>

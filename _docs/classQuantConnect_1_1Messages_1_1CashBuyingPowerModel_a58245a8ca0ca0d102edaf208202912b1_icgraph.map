@@ -1,0 +1,4 @@
+<map id="QuantConnect.Messages.CashBuyingPowerModel.UnsupportedSecurity" name="QuantConnect.Messages.CashBuyingPowerModel.UnsupportedSecurity">
+<area shape="rect" id="node1" title="Returns a string message saying: The security is not supported by this cash model...." alt="" coords="323,13,609,54"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Securities_1_1CashBuyingPowerModel.html#ae2182361668bcb0b67727ea2e077423a" title="Check if there is sufficient buying power to execute this order." alt="" coords="5,5,275,61"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="QuantConnect.Util.PythonUtil.PythonExceptionParser" name="QuantConnect.Util.PythonUtil.PythonExceptionParser">
+<area shape="rect" id="node1" title="Parsers PythonException into a readable message" alt="" coords="5,39,204,80"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Util_1_1PythonUtil.html#a8da471b355fa961dfce4e9280c56a80d" title="Parsers Exception.Message into a readable message" alt="" coords="252,5,508,47"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Util_1_1PythonUtil.html#a092a2692ea8e8fd23fe5e3b3357c336f" title="Parsers PythonException.StackTrace into a readable message" alt="" coords="263,71,497,112"/>
+</map>

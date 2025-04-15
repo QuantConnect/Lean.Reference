@@ -1,0 +1,6 @@
+<map id="QuantConnect.Orders.Fees.CoinbaseFeeModel" name="QuantConnect.Orders.Fees.CoinbaseFeeModel">
+<area shape="rect" id="node1" title="Represents a fee model specific to Coinbase. This class extends the base fee model." alt="" coords="5,155,204,196"/>
+<area shape="rect" id="node4" href="$classQuantConnect_1_1Orders_1_1Fees_1_1GDAXFeeModel.html" title="Provides an implementation of FeeModel that models GDAX order fees" alt="" coords="5,244,204,285"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Orders_1_1Fees_1_1FeeModel.html" title="Base class for any order fee model" alt="" coords="62,80,147,107"/>
+<area shape="rect" id="node3" href="$interfaceQuantConnect_1_1Orders_1_1Fees_1_1IFeeModel.html" title="Represents a model the simulates order fees" alt="" coords="60,5,149,32"/>
+</map>

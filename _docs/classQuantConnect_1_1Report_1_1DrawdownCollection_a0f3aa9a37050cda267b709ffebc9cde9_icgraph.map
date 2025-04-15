@@ -1,0 +1,4 @@
+<map id="QuantConnect.Report.DrawdownCollection.GetDrawdownPeriods" name="QuantConnect.Report.DrawdownCollection.GetDrawdownPeriods">
+<area shape="rect" id="node1" title="Gets the given drawdown periods from the equity curve and the set periods" alt="" coords="288,5,523,47"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Report_1_1DrawdownCollection.html#aae83d068f4d80e567e63b9fcd5ced9e0" title="Creates an instance from the given drawdowns and the top N worst drawdowns" alt="" coords="5,5,240,47"/>
+</map>

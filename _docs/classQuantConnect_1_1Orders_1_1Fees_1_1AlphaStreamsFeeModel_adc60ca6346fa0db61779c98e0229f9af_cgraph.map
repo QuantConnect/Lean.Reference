@@ -1,0 +1,5 @@
+<map id="QuantConnect.Orders.Fees.AlphaStreamsFeeModel.GetOrderFee" name="QuantConnect.Orders.Fees.AlphaStreamsFeeModel.GetOrderFee">
+<area shape="rect" id="node1" title="Gets the order fee associated with the specified order. This returns the cost of the transaction in t..." alt="" coords="5,50,268,91"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Messages_1_1AlphaStreamsFeeModel.html#ab9b7c79b39c775534137c99412c23252" title="Returns a string message saying the given market is unexpected" alt="" coords="316,5,579,61"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Messages_1_1FeeModel.html#a72db7d0812a3cb2351eeb5ee7e9d7dc0" title="Returns a string message saying the type of the given security is unsupported" alt="" coords="331,86,563,127"/>
+</map>

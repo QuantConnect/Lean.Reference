@@ -1,0 +1,4 @@
+<map id="QuantConnect.Logging.QueueLogHandler.Error" name="QuantConnect.Logging.QueueLogHandler.Error">
+<area shape="rect" id="node1" title="Write error message to log" alt="" coords="5,5,220,47"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Logging_1_1QueueLogHandler.html#af75ccc49db371dbb0de85025f5cfd25f" title="Raise a log event safely" alt="" coords="268,5,483,47"/>
+</map>

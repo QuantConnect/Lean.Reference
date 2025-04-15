@@ -1,0 +1,4 @@
+<map id="QuantConnect.Extensions.IsCustomDataType&lt; T &gt;" name="QuantConnect.Extensions.IsCustomDataType&lt; T &gt;">
+<area shape="rect" id="node1" title="Helper method to determine if a given symbol is of custom data" alt="" coords="5,5,199,47"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1SecurityIdentifier.html#a65051a4af9e25cab40451dc9ef12db6a" title="Tries to fetch the custom data type associated with a symbol" alt="" coords="247,5,479,47"/>
+</map>

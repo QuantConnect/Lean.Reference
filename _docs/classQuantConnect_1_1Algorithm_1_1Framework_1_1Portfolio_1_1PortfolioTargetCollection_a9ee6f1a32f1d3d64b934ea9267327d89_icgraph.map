@@ -1,0 +1,5 @@
+<map id="QuantConnect.Algorithm.Framework.Portfolio.PortfolioTargetCollection.Remove" name="QuantConnect.Algorithm.Framework.Portfolio.PortfolioTargetCollection.Remove">
+<area shape="rect" id="node1" title="Removes the target for the specified symbol if it exists in this collection." alt="" coords="352,50,651,91"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Algorithm_1_1Framework_1_1Portfolio_1_1PortfolioTargetCollection.html#a089cff06d7b7de09e62eb8597b0670ee" title="Removes fulfilled portfolio targets from this collection. Will only take into account actual holdings..." alt="" coords="23,5,286,61"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Algorithm_1_1Framework_1_1Portfolio_1_1PortfolioTargetCollection.html#a455221eacc71b0634ac35a7244ae4f0d" title="Removes the target for the specified symbol/target pair if it exists in this collection." alt="" coords="5,86,304,127"/>
+</map>

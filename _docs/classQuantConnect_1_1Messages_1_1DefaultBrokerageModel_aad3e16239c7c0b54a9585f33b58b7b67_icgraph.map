@@ -1,0 +1,4 @@
+<map id="QuantConnect.Messages.DefaultBrokerageModel.InvalidOrderSize" name="QuantConnect.Messages.DefaultBrokerageModel.InvalidOrderSize">
+<area shape="rect" id="node1" title="Returns a string message saying the given order size (quantity * price) was invalid for the given sec..." alt="" coords="344,5,583,47"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Brokerages_1_1BinanceBrokerageModel.html#af507b6758cdf1e40f10c71a2518d0ad7" title="Returns true if the brokerage could accept this order. This takes into account order type,..." alt="" coords="5,5,296,47"/>
+</map>

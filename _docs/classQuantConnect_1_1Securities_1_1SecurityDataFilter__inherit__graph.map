@@ -1,0 +1,9 @@
+<map id="QuantConnect.Securities.SecurityDataFilter" name="QuantConnect.Securities.SecurityDataFilter">
+<area shape="rect" id="node1" title="Base class implementation for packet by packet data filtering mechanism to dynamically detect bad tic..." alt="" coords="196,136,383,177"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Securities_1_1Cfd_1_1CfdDataFilter.html" title="CFD packet by packet data filtering mechanism for dynamically detecting bad ticks." alt="" coords="431,5,617,47"/>
+<area shape="rect" id="node4" href="$classQuantConnect_1_1Securities_1_1Equity_1_1EquityDataFilter.html" title="Equity security type data filter" alt="" coords="431,71,617,112"/>
+<area shape="rect" id="node5" href="$classQuantConnect_1_1Securities_1_1Forex_1_1ForexDataFilter.html" title="Forex packet by packet data filtering mechanism for dynamically detecting bad ticks." alt="" coords="431,136,617,177"/>
+<area shape="rect" id="node6" href="$classQuantConnect_1_1Securities_1_1Index_1_1IndexDataFilter.html" title="Index packet by packet data filtering mechanism for dynamically detecting bad ticks." alt="" coords="431,201,617,243"/>
+<area shape="rect" id="node7" href="$classQuantConnect_1_1Securities_1_1Option_1_1OptionDataFilter.html" title="Option packet by packet data filtering mechanism for dynamically detecting bad ticks." alt="" coords="431,267,617,308"/>
+<area shape="rect" id="node2" href="$interfaceQuantConnect_1_1Securities_1_1Interfaces_1_1ISecurityDataFilter.html" title="Security data filter interface. Defines pattern for the user defined data filter techniques." alt="" coords="5,143,148,170"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="QuantConnect.Algorithm.QCAlgorithm.SetStartDate" name="QuantConnect.Algorithm.QCAlgorithm.SetStartDate">
+<area shape="rect" id="node1" title="Set the start date for backtest." alt="" coords="275,39,548,80"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Report_1_1PortfolioLooperAlgorithm.html#a1186a17605acd9b49c04f18ff8ab51ef" title="Initialize this algorithm" alt="" coords="6,5,226,47"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Research_1_1QuantBook.html#a239bcca3c726a8cc25b9a6a3cd0c244f" title="QuantBook constructor. Provides access to data for quantitative analysis" alt="" coords="5,71,227,112"/>
+</map>

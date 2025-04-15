@@ -1,0 +1,4 @@
+<map id="QuantConnect.Indicators.IndicatorBase" name="QuantConnect.Indicators.IndicatorBase">
+<area shape="rect" id="node1" title="Abstract Indicator base, meant to contain non&#45;generic fields of indicator base to support non&#45;typed i..." alt="" coords="5,5,192,47"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Indicators_1_1IndicatorBase.html" title="Provides a base type for all indicators" alt="" coords="5,95,192,136"/>
+</map>

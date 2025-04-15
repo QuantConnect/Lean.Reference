@@ -1,0 +1,5 @@
+<map id="QuantConnect.Data.Fundamental.CapitalLeaseObligationsBalanceSheet" name="QuantConnect.Data.Fundamental.CapitalLeaseObligationsBalanceSheet">
+<area shape="rect" id="node1" title="Current Portion of Capital Lease Obligation plus Long Term Portion of Capital Lease Obligation." alt="" coords="5,155,275,196"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Data_1_1Fundamental_1_1MultiPeriodField.html" title="Abstract base class for multi&#45;period fields" alt="" coords="77,80,203,107"/>
+<area shape="rect" id="node3" title=" " alt="" coords="61,5,219,32"/>
+</map>

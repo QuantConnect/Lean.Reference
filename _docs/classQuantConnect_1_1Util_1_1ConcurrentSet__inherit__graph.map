@@ -1,0 +1,4 @@
+<map id="QuantConnect.Util.ConcurrentSet&lt; T &gt;" name="QuantConnect.Util.ConcurrentSet&lt; T &gt;">
+<area shape="rect" id="node1" title="Provides a thread&#45;safe set collection that mimics the behavior of HashSet&lt;T&gt; and will be keep inserti..." alt="" coords="5,80,221,121"/>
+<area shape="rect" id="node2" title=" " alt="" coords="71,5,156,32"/>
+</map>

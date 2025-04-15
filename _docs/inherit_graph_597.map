@@ -1,0 +1,7 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$classQuantConnect_1_1Python_1_1BasePythonWrapper.html" title=" " alt="" coords="5,5,267,61"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Python_1_1OptionAssignmentModelPythonWrapper.html" title="Python wrapper for custom option assignment models" alt="" coords="334,14,573,55"/>
+<area shape="rect" id="node3" href="$interfaceQuantConnect_1_1Securities_1_1Option_1_1IOptionAssignmentModel.html" title="The option assignment model emulates exercising of short option positions in the portfolio." alt="" coords="19,86,253,127"/>
+<area shape="rect" id="node4" href="$classQuantConnect_1_1Securities_1_1Option_1_1DefaultOptionAssignmentModel.html" title="The option assignment model emulates exercising of short option positions in the portfolio...." alt="" coords="315,83,592,125"/>
+<area shape="rect" id="node5" href="$classQuantConnect_1_1Securities_1_1Option_1_1NullOptionAssignmentModel.html" title="The null option assignment model, that will disable automatic order assignment" alt="" coords="326,149,581,190"/>
+</map>

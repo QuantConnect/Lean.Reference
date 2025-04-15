@@ -1,0 +1,6 @@
+<map id="QuantConnect.Data.Consolidators.TickQuoteBarConsolidator.AggregateBar" name="QuantConnect.Data.Consolidators.TickQuoteBarConsolidator.AggregateBar">
+<area shape="rect" id="node1" title="Aggregates the new &#39;data&#39; into the &#39;workingBar&#39;. The &#39;workingBar&#39; will be null following the event fi..." alt="" coords="5,50,289,91"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Data_1_1Consolidators_1_1PeriodCountConsolidatorBase.html#af5dd63d0b6c5bc0f227ef6d7ab80fee4" title="Gets a rounded&#45;down bar time. Called by AggregateBar in derived classes." alt="" coords="337,5,628,61"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Data_1_1Market_1_1QuoteBar.html#a4b48e2fea3891f9b11724bb3deda2bc0" title="Update the quotebar &#45; build the bar from this pricing information:" alt="" coords="381,86,584,127"/>
+<area shape="rect" id="node4" href="$classQuantConnect_1_1Data_1_1Market_1_1Bar.html#ab3f5d262e9e5ce71c7d539e8c1439166" title="Updates the bar with a new value. This will aggregate the OHLC bar" alt="" coords="676,86,879,127"/>
+</map>

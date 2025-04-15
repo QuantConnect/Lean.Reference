@@ -1,0 +1,5 @@
+<map id="QuantConnect.Lean.Engine.DataFeeds.DataManager.Add" name="QuantConnect.Lean.Engine.DataFeeds.DataManager.Add">
+<area shape="rect" id="node1" title="Creates and adds a list of SubscriptionDataConfig for a given symbol and configuration...." alt="" coords="5,5,216,47"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Util_1_1LeanData.html#adf1799b921849e0643385e6794ec2471" title="Get the TickType for common Lean data types. If not a Lean common data type, return a TickType of Tra..." alt="" coords="264,5,572,47"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Util_1_1LeanData.html#a24869ac4b029b3f2d468596baab6d72d" title="Gets the tick type most commonly associated with the specified security type" alt="" coords="620,5,831,47"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="QuantConnect.Data.Fundamental.NonCurrentDeferredLiabilitiesBalanceSheet" name="QuantConnect.Data.Fundamental.NonCurrentDeferredLiabilitiesBalanceSheet">
+<area shape="rect" id="node1" title="Represents the non&#45;current portion of obligations, which is a liability that usually would have been ..." alt="" coords="5,155,311,196"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Data_1_1Fundamental_1_1MultiPeriodField.html" title="Abstract base class for multi&#45;period fields" alt="" coords="95,80,221,107"/>
+<area shape="rect" id="node3" title=" " alt="" coords="79,5,237,32"/>
+</map>

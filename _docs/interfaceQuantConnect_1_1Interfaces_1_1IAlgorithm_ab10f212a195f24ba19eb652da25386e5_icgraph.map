@@ -1,0 +1,4 @@
+<map id="QuantConnect.Interfaces.IAlgorithm.GetLocked" name="QuantConnect.Interfaces.IAlgorithm.GetLocked">
+<area shape="rect" id="node1" title="Gets whether or not this algorithm has been locked and fully initialized" alt="" coords="328,5,515,47"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Lean_1_1Engine_1_1DataFeeds_1_1DataManager.html#acf9050df1be040d4259dc9a89c2cb740" title="Creates a new instance of the DataManager" alt="" coords="5,5,280,47"/>
+</map>

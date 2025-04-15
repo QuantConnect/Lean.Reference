@@ -1,0 +1,4 @@
+<map id="QuantConnect.Securities.MarketHoursDatabase" name="QuantConnect.Securities.MarketHoursDatabase">
+<area shape="rect" id="node1" title="Provides access to exchange hours and raw data times zones in various markets" alt="" coords="24,109,211,151"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Securities_1_1BaseSecurityDatabase.html" title=" " alt="" coords="5,5,229,61"/>
+</map>

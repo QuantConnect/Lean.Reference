@@ -1,0 +1,4 @@
+<map id="QuantConnect.Lean.Engine.Storage.FileHandler.WriteAllBytes" name="QuantConnect.Lean.Engine.Storage.FileHandler.WriteAllBytes">
+<area shape="rect" id="node1" title="Will write the given byte array at the target file path" alt="" coords="319,5,561,47"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Lean_1_1Engine_1_1Storage_1_1LocalObjectStore.html#ad996578710d9cce84fc9af79d6ee86cb" title="Overridable persistence function" alt="" coords="5,5,271,47"/>
+</map>

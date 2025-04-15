@@ -1,0 +1,4 @@
+<map id="QuantConnect.Securities.Option.OptionStrategies.BoxSpread" name="QuantConnect.Securities.Option.OptionStrategies.BoxSpread">
+<area shape="rect" id="node1" title="Creates a Box Spread strategy which consists of a long call and a short put (buy side) of the same st..." alt="" coords="269,13,521,54"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Securities_1_1Option_1_1OptionStrategies.html#a72e08a8355fae19062d7c5708368efff" title="Creates a Short Box Spread strategy which consists of a long call and a short put (buy side) of the s..." alt="" coords="5,5,221,61"/>
+</map>

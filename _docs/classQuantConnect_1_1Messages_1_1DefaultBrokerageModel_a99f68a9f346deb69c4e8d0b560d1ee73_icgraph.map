@@ -1,0 +1,9 @@
+<map id="QuantConnect.Messages.DefaultBrokerageModel.UnsupportedTimeInForce" name="QuantConnect.Messages.DefaultBrokerageModel.UnsupportedTimeInForce">
+<area shape="rect" id="node1" title="Returns a string message saying the Time In Force of the given order is unsupported by the given brok..." alt="" coords="347,169,641,211"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Brokerages_1_1FxcmBrokerageModel.html#a61af8db4afef0f9ffab92a44c87dc37a" title="Returns true if the brokerage could accept this order. This takes into account order type,..." alt="" coords="15,5,289,47"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Brokerages_1_1OandaBrokerageModel.html#a6ffa416d7e1d45b19cde345a92b77241" title="Returns true if the brokerage could accept this order. This takes into account order type,..." alt="" coords="11,71,293,112"/>
+<area shape="rect" id="node4" href="$classQuantConnect_1_1Brokerages_1_1ZerodhaBrokerageModel.html#a4eeb48a3011161153ca0823acba53188" title="Returns true if the brokerage could accept this order. This takes into account order type,..." alt="" coords="5,136,299,177"/>
+<area shape="rect" id="node5" href="$classQuantConnect_1_1Brokerages_1_1SamcoBrokerageModel.html#a18b05ebe0505ed19f2e85c8519cdd161" title="Returns true if the brokerage could accept this order. This takes into account order type,..." alt="" coords="11,201,293,243"/>
+<area shape="rect" id="node6" href="$classQuantConnect_1_1Brokerages_1_1TradingTechnologiesBrokerageModel.html#aa842463e6a482ed38c88e72f7e23deae" title="Returns true if the brokerage could accept this order. This takes into account order type,..." alt="" coords="43,267,261,323"/>
+<area shape="rect" id="node7" href="$classQuantConnect_1_1Brokerages_1_1InteractiveBrokersBrokerageModel.html#af537682306a2e5b2ff66443057dd626a" title="Returns true if the brokerage could accept this order. This takes into account order type,..." alt="" coords="27,347,277,403"/>
+</map>

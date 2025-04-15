@@ -1,0 +1,4 @@
+<map id="QuantConnect.Securities.Positions.PositionGroup.PositionGroup" name="QuantConnect.Securities.Positions.PositionGroup.PositionGroup">
+<area shape="rect" id="node1" title="Initializes a new instance of the PositionGroup class" alt="" coords="5,5,276,47"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Messages_1_1PositionGroup.html#a67a87d35bfe2428302f23401ec21e3c2" title="Returns a string message saying the given quantity is invalid. It also contains the quantities from t..." alt="" coords="324,5,563,47"/>
+</map>

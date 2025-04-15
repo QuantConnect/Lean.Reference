@@ -1,0 +1,4 @@
+<map id="QuantConnect.Indicators.PivotPointsHighLow.FindNextHighPivotPoint" name="QuantConnect.Indicators.PivotPointsHighLow.FindNextHighPivotPoint">
+<area shape="rect" id="node1" title="Looks for the next high pivot point." alt="" coords="333,5,576,61"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Indicators_1_1PivotPointsHighLow.html#acef13f5e04c6e5ef83286898ae2241ce" title="Computes the next value of this indicator from the given state" alt="" coords="5,13,285,54"/>
+</map>

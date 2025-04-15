@@ -1,0 +1,5 @@
+<map id="QuantConnect.Data.Fundamental.PaymentForLoansCashFlowStatement" name="QuantConnect.Data.Fundamental.PaymentForLoansCashFlowStatement">
+<area shape="rect" id="node1" title="Payment from a bank or insurance company to the lender who lends money or property based on the agree..." alt="" coords="5,155,273,196"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Data_1_1Fundamental_1_1MultiPeriodField.html" title="Abstract base class for multi&#45;period fields" alt="" coords="76,80,203,107"/>
+<area shape="rect" id="node3" title=" " alt="" coords="61,5,218,32"/>
+</map>

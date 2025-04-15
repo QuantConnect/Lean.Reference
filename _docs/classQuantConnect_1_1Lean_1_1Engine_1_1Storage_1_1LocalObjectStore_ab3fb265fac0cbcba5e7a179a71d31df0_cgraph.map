@@ -1,0 +1,7 @@
+<map id="QuantConnect.Lean.Engine.Storage.LocalObjectStore.Initialize" name="QuantConnect.Lean.Engine.Storage.LocalObjectStore.Initialize">
+<area shape="rect" id="node1" title="Initializes the object store" alt="" coords="5,71,252,112"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Lean_1_1Engine_1_1Storage_1_1FileHandler.html#a29dd5ac902556340f99beb85648c9e12" title="Create the requested directory path" alt="" coords="307,5,563,47"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Lean_1_1Engine_1_1Storage_1_1LocalObjectStore.html#a9367c722981665d9d0e5cf26984d7367" title="Storage root path" alt="" coords="300,71,571,112"/>
+<area shape="rect" id="node4" href="$classQuantConnect_1_1Logging_1_1Log.html#a4e55477fbc790846b74550a57198cea9" title="Log trace" alt="" coords="335,136,535,177"/>
+<area shape="rect" id="node5" href="$interfaceQuantConnect_1_1Logging_1_1ILogHandler.html#a3fb71a33ac66129240b63f12b6fcda3b" title="Write debug message to log" alt="" coords="619,136,819,177"/>
+</map>

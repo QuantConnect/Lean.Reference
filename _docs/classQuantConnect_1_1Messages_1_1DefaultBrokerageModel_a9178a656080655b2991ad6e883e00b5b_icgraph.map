@@ -1,0 +1,4 @@
+<map id="QuantConnect.Messages.DefaultBrokerageModel.InvalidSecurityTypeToGetFillModel" name="QuantConnect.Messages.DefaultBrokerageModel.InvalidSecurityTypeToGetFillModel">
+<area shape="rect" id="node1" title="Returns a string message saying the type of the given security is invalid for the given brokerage Get..." alt="" coords="316,5,575,61"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Brokerages_1_1DefaultBrokerageModel.html#a3c2855fd0e6c95d853959137bb04f153" title="Gets a new fill model that represents this brokerage&#39;s fill behavior" alt="" coords="5,13,268,54"/>
+</map>

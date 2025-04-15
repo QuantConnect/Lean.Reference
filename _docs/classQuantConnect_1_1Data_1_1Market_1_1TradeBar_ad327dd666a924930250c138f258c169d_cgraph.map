@@ -1,0 +1,9 @@
+<map id="QuantConnect.Data.Market.TradeBar.ParseForex&lt; T &gt;" name="QuantConnect.Data.Market.TradeBar.ParseForex&lt; T &gt;">
+<area shape="rect" id="node1" title="Parses forex trade bar data into the specified tradebar type, useful for custom types with OHLCV data..." alt="" coords="5,54,208,95"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Symbol.html#a59158f74116be3dad0ea0f3f3f134416" title="Initializes a new instance of the Symbol class" alt="" coords="256,61,476,88"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Symbol.html#a59b0795fa21f46c306deb5576fa03bb9" title="Centralized helper method to resolve alias for a symbol" alt="" coords="524,61,751,88"/>
+<area shape="rect" id="node4" href="$classQuantConnect_1_1SymbolRepresentation.html#ad43ac907f6c19083821f58f21c6de017" title="Returns future symbol ticker from underlying and expiration date. Function can generate tickers of tw..." alt="" coords="799,17,1069,58"/>
+<area shape="rect" id="node6" href="$classQuantConnect_1_1SymbolRepresentation.html#ab133044f5cf8c16e700190a2202b215e" title="Returns option symbol ticker in accordance with OSI symbology More information can be found at http:/..." alt="" coords="799,86,1069,127"/>
+<area shape="rect" id="node5" href="$classQuantConnect_1_1Securities_1_1Future_1_1FuturesExpiryUtilityFunctions.html#a4ccb1e2f2fe40ff09785a74a02f26df1" title="Gets the number of months between the contract month and the expiry date." alt="" coords="1117,5,1472,61"/>
+<area shape="rect" id="node7" href="$classQuantConnect_1_1Messages_1_1SymbolRepresentation.html#a2c514157d8055cfa271ea3a7ca1ccde7" title="Returns a string message saying an unexpected security type was received by the given method name" alt="" coords="1167,85,1423,141"/>
+</map>

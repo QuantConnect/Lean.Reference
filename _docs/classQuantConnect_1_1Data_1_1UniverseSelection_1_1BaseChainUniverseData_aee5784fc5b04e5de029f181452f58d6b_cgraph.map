@@ -1,0 +1,6 @@
+<map id="QuantConnect.Data.UniverseSelection.BaseChainUniverseData.GetSource" name="QuantConnect.Data.UniverseSelection.BaseChainUniverseData.GetSource">
+<area shape="rect" id="node1" title="Return the URL string source of the file. This will be converted to a stream" alt="" coords="5,5,253,61"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Data_1_1UniverseSelection_1_1BaseChainUniverseData.html#ad0b416bec61d51105f802c1d064e87ee" title="Generates the file path for a universe data file based on the given symbol and date...." alt="" coords="301,5,549,61"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Util_1_1LeanData.html#a42eec844dbd75694d08d649bfd0fa27f" title="Generates the directory to the universe files for the specified symbol" alt="" coords="597,13,808,54"/>
+<area shape="rect" id="node4" href="$classQuantConnect_1_1Util_1_1LeanData.html#a80cb949e5e4aff26121e88359e3861b9" title="Generates the relative directory to the universe files for the specified symbol" alt="" coords="856,13,1117,54"/>
+</map>

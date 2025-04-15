@@ -1,0 +1,5 @@
+<map id="QuantConnect.Symbol.GetUnderlyingFromOptionType" name="QuantConnect.Symbol.GetUnderlyingFromOptionType">
+<area shape="rect" id="node1" title="Determines the underlying SecurityType based on the option Symbol&#39;s SecurityType GetOptionTypeFromUnd..." alt="" coords="512,5,777,47"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Util_1_1LeanDataPathComponents.html#a0d24d06405609c2f8b3107c6b41ba57d" title="Parses the specified path into a new instance of the LeanDataPathComponents class" alt="" coords="257,5,464,47"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1ToolBox_1_1LeanParser.html#abd1bb9fca7f05ea516d50523b8218593" title="Parses the specified input stream into an enumerable of data" alt="" coords="5,5,209,47"/>
+</map>

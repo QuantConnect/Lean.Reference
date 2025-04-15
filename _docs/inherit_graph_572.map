@@ -1,0 +1,7 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$classQuantConnect_1_1Python_1_1BasePythonWrapper.html" title=" " alt="" coords="5,5,241,61"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Python_1_1MarginInterestRateModelPythonWrapper.html" title="Wraps a PyObject object that represents a security&#39;s margin interest rate model" alt="" coords="292,13,535,54"/>
+<area shape="rect" id="node3" href="$interfaceQuantConnect_1_1Securities_1_1IMarginInterestRateModel.html" title="The responsability of this model is to apply margin interest rate cash flows to the portfolio" alt="" coords="28,86,219,127"/>
+<area shape="rect" id="node4" href="$classQuantConnect_1_1Securities_1_1CryptoFuture_1_1BinanceFutureMarginInterestRateModel.html" title="The responsability of this model is to apply future funding rate cash flows to the portfolio based on..." alt="" coords="289,79,537,135"/>
+<area shape="rect" id="node5" href="$classQuantConnect_1_1Securities_1_1CryptoFuture_1_1BybitFutureMarginInterestRateModel.html" title="The responsibility of this model is to apply future funding rate cash flows to the portfolio based on..." alt="" coords="585,79,816,135"/>
+</map>

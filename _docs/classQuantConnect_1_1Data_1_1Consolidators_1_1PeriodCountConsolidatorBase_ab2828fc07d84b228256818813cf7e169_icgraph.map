@@ -1,0 +1,4 @@
+<map id="QuantConnect.Data.Consolidators.PeriodCountConsolidatorBase.ShouldProcess" name="QuantConnect.Data.Consolidators.PeriodCountConsolidatorBase.ShouldProcess">
+<area shape="rect" id="node1" title="Determines whether or not the specified data should be processed" alt="" coords="300,5,563,61"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Data_1_1Consolidators_1_1PeriodCountConsolidatorBase.html#aeff0416a9da67387615725cd16ffefaf" title="Updates this consolidator with the specified data. This method is responsible for raising the DataCon..." alt="" coords="5,5,252,61"/>
+</map>

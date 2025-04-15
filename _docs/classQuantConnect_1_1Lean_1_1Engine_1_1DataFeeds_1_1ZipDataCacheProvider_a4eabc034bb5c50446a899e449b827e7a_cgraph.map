@@ -1,0 +1,4 @@
+<map id="QuantConnect.Lean.Engine.DataFeeds.ZipDataCacheProvider.ZipDataCacheProvider" name="QuantConnect.Lean.Engine.DataFeeds.ZipDataCacheProvider.ZipDataCacheProvider">
+<area shape="rect" id="node1" title="Constructor that sets the IDataProvider used to retrieve data" alt="" coords="5,5,249,61"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Configuration_1_1Config.html#aef683e9ef0333be2ba03a2d4144f6020" title="Get the double value of a config string." alt="" coords="297,13,507,54"/>
+</map>

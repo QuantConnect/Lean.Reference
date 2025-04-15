@@ -1,0 +1,6 @@
+<map id="QuantConnect.Python.CommandPythonWrapper.CommandPythonWrapper" name="QuantConnect.Python.CommandPythonWrapper.CommandPythonWrapper">
+<area shape="rect" id="node1" title="Constructor for initialising the CommandPythonWrapper class with wrapped PyObject object" alt="" coords="5,93,297,134"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Python_1_1BasePythonWrapper.html#ae316223e03aa4af17b2154d645a8fc87" title="Determines whether the Python instance has the specified attribute" alt="" coords="345,5,549,61"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Python_1_1BasePythonWrapper.html#a7d6eba227a7f187b412b3e8fbc494ccf" title="Sets the Python instance property with the specified name" alt="" coords="345,85,549,141"/>
+<area shape="rect" id="node4" href="$classQuantConnect_1_1Python_1_1BasePythonWrapper.html#aa67b6a34c0d4b3e6706132fe702eefe0" title="Sets the python instance" alt="" coords="345,165,549,221"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="QuantConnect.Api.LiveAlgorithmSummary" name="QuantConnect.Api.LiveAlgorithmSummary">
+<area shape="rect" id="node1" title="Response from List Live Algorithms request to QuantConnect Rest API." alt="" coords="5,229,240,271"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Api_1_1BaseLiveAlgorithm.html" title="Class representing the REST response from QC API when creating or reading a live algorithm" alt="" coords="50,155,195,181"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Api_1_1RestResponse.html" title="Base API response class for the QuantConnect API." alt="" coords="65,80,180,107"/>
+<area shape="rect" id="node4" href="$classQuantConnect_1_1Api_1_1StringRepresentation.html" title="Class to return the string representation of an API response class" alt="" coords="43,5,202,32"/>
+</map>

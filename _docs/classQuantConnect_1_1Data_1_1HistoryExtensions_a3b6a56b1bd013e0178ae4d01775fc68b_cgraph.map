@@ -1,0 +1,14 @@
+<map id="QuantConnect.Data.HistoryExtensions.SplitHistoryRequestWithUpdatedMappedSymbol" name="QuantConnect.Data.HistoryExtensions.SplitHistoryRequestWithUpdatedMappedSymbol">
+<area shape="rect" id="node1" title="Split HistoryRequest on several request with update mapped symbol." alt="" coords="5,86,232,142"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Symbol.html#a13e0f04010a2d52bb7fc2000e5929394" title="Creates new symbol with updated mapped symbol. Symbol Mapping: When symbols change over time (e...." alt="" coords="280,94,499,135"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1SymbolRepresentation.html#ab133044f5cf8c16e700190a2202b215e" title="Returns option symbol ticker in accordance with OSI symbology More information can be found at http:/..." alt="" coords="1121,60,1392,102"/>
+<area shape="rect" id="node5" href="$classQuantConnect_1_1Symbol.html#a1f3c25223fd9a7b753a4f84ece6469ab" title="Method returns true, if symbol is a derivative canonical symbol" alt="" coords="547,42,793,69"/>
+<area shape="rect" id="node6" href="$classQuantConnect_1_1SecurityIdentifier.html#a89ccb2161613f17d18ca3dc1e9eb3872" title="Parses the specified string into a SecurityIdentifier The string must be a 40 digit number...." alt="" coords="554,94,786,135"/>
+<area shape="rect" id="node8" href="$classQuantConnect_1_1Messages_1_1Symbol.html#a8a73b3b25abf895a553fee6c83d482c3" title="Returns a string message saying the given security can not be mapped" alt="" coords="550,159,790,200"/>
+<area shape="rect" id="node9" href="$classQuantConnect_1_1Symbol.html#a59158f74116be3dad0ea0f3f3f134416" title="Initializes a new instance of the Symbol class" alt="" coords="560,225,780,252"/>
+<area shape="rect" id="node4" href="$classQuantConnect_1_1Messages_1_1SymbolRepresentation.html#a2c514157d8055cfa271ea3a7ca1ccde7" title="Returns a string message saying an unexpected security type was received by the given method name" alt="" coords="1489,53,1745,109"/>
+<area shape="rect" id="node7" href="$classQuantConnect_1_1SecurityIdentifier.html#a59bd74be4ec55a0e4631af9e10f65d7c" title="Attempts to parse the specified &#160;as a SecurityIdentifier." alt="" coords="841,94,1073,135"/>
+<area shape="rect" id="node10" href="$classQuantConnect_1_1Symbol.html#a59b0795fa21f46c306deb5576fa03bb9" title="Centralized helper method to resolve alias for a symbol" alt="" coords="844,192,1071,218"/>
+<area shape="rect" id="node11" href="$classQuantConnect_1_1SymbolRepresentation.html#ad43ac907f6c19083821f58f21c6de017" title="Returns future symbol ticker from underlying and expiration date. Function can generate tickers of tw..." alt="" coords="1121,184,1392,226"/>
+<area shape="rect" id="node12" href="$classQuantConnect_1_1Securities_1_1Future_1_1FuturesExpiryUtilityFunctions.html#a4ccb1e2f2fe40ff09785a74a02f26df1" title="Gets the number of months between the contract month and the expiry date." alt="" coords="1440,177,1795,233"/>
+</map>

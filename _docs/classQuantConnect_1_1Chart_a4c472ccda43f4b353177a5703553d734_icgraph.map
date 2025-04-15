@@ -1,0 +1,8 @@
+<map id="QuantConnect.Chart.Chart" name="QuantConnect.Chart.Chart">
+<area shape="rect" id="node1" title="Default constructor for chart:" alt="" coords="793,56,985,83"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Chart.html#a09a7ec253a93c5ed26a8bea179aa682e" title="Return a new empty instance clone of this object" alt="" coords="551,49,745,90"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Chart.html#ae0e0799f03299443b8638d7c08060aab" title="Return a new instance clone of this object" alt="" coords="288,5,483,32"/>
+<area shape="rect" id="node4" href="$classQuantConnect_1_1Chart.html#a9207c64cee56a65b5ff8e6f986c212a2" title="Fetch a chart with only the updates since the last request, Underlying series will save the index pos..." alt="" coords="268,56,503,83"/>
+<area shape="rect" id="node5" href="$classQuantConnect_1_1SeriesSampler.html#a7cf39865a5678e6bea600eb8d9d9989f" title="Samples the given chart" alt="" coords="278,107,493,149"/>
+<area shape="rect" id="node6" href="$classQuantConnect_1_1SeriesSampler.html#aff66bac198388ae131b4d6ca295fd05f" title="Samples the given charts" alt="" coords="5,107,220,149"/>
+</map>

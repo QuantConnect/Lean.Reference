@@ -1,0 +1,5 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$classQuantConnect_1_1Scheduling_1_1BaseScheduleRules.html" title="Base rule scheduler" alt="" coords="5,39,199,80"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Scheduling_1_1DateRules.html" title="Helper class used to provide better syntax when defining date rules" alt="" coords="247,5,440,47"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Scheduling_1_1TimeRules.html" title="Helper class used to provide better syntax when defining time rules" alt="" coords="247,71,440,112"/>
+</map>

@@ -1,0 +1,28 @@
+var classQuantConnect_1_1Lean_1_1Engine_1_1DataFeeds_1_1Subscription =
+[
+    [ "Subscription", "classQuantConnect_1_1Lean_1_1Engine_1_1DataFeeds_1_1Subscription.html#aa9c0fb8e56596393b291c33081721387", null ],
+    [ "AddSubscriptionRequest", "classQuantConnect_1_1Lean_1_1Engine_1_1DataFeeds_1_1Subscription.html#a779f4621a695157c7e3f5ac7bd5261af", null ],
+    [ "RemoveSubscriptionRequest", "classQuantConnect_1_1Lean_1_1Engine_1_1DataFeeds_1_1Subscription.html#a703424471eb1b284e54815348a13065e", null ],
+    [ "MoveNext", "classQuantConnect_1_1Lean_1_1Engine_1_1DataFeeds_1_1Subscription.html#a6219600ef9fb068c7940ca5f88423a37", null ],
+    [ "Reset", "classQuantConnect_1_1Lean_1_1Engine_1_1DataFeeds_1_1Subscription.html#a3e5078bb2073bab750139891bcd6182d", null ],
+    [ "Dispose", "classQuantConnect_1_1Lean_1_1Engine_1_1DataFeeds_1_1Subscription.html#a09b080de45f1836e3cb2226802227752", null ],
+    [ "MarkAsRemovedFromUniverse", "classQuantConnect_1_1Lean_1_1Engine_1_1DataFeeds_1_1Subscription.html#a1e331164d96f5c827830020d22fe4436", null ],
+    [ "GetHashCode", "classQuantConnect_1_1Lean_1_1Engine_1_1DataFeeds_1_1Subscription.html#ac3946590a14aeb74d6c08fa839d92bee", null ],
+    [ "Equals", "classQuantConnect_1_1Lean_1_1Engine_1_1DataFeeds_1_1Subscription.html#a725e51c45ea316d75fc758fb9be7de03", null ],
+    [ "ToString", "classQuantConnect_1_1Lean_1_1Engine_1_1DataFeeds_1_1Subscription.html#ae33e5d65ec08b3e64de2b72f24202f42", null ],
+    [ "OnNewDataAvailable", "classQuantConnect_1_1Lean_1_1Engine_1_1DataFeeds_1_1Subscription.html#a0ea393cd1fa0a25ea84e8163bfef52c1", null ],
+    [ "Universes", "classQuantConnect_1_1Lean_1_1Engine_1_1DataFeeds_1_1Subscription.html#a0c61080a257e3d0f9fd50ac773ed88b2", null ],
+    [ "SubscriptionRequests", "classQuantConnect_1_1Lean_1_1Engine_1_1DataFeeds_1_1Subscription.html#adf039f584c0a59236cec909a5fd61c8a", null ],
+    [ "Security", "classQuantConnect_1_1Lean_1_1Engine_1_1DataFeeds_1_1Subscription.html#abe384f57f84460a3953af51914c1ebd3", null ],
+    [ "Configuration", "classQuantConnect_1_1Lean_1_1Engine_1_1DataFeeds_1_1Subscription.html#a6b0af674c5eec41dc23e93494098827c", null ],
+    [ "TimeZone", "classQuantConnect_1_1Lean_1_1Engine_1_1DataFeeds_1_1Subscription.html#a2b3d24d63b19232397d208a856e5a01e", null ],
+    [ "OffsetProvider", "classQuantConnect_1_1Lean_1_1Engine_1_1DataFeeds_1_1Subscription.html#a5d0847657323aa822ac7bd41f222aad1", null ],
+    [ "RealtimePrice", "classQuantConnect_1_1Lean_1_1Engine_1_1DataFeeds_1_1Subscription.html#adb6092c959a72685c557c10abc22c46f", null ],
+    [ "EndOfStream", "classQuantConnect_1_1Lean_1_1Engine_1_1DataFeeds_1_1Subscription.html#ac70d55a4927fa8a83116aecde057abcf", null ],
+    [ "IsUniverseSelectionSubscription", "classQuantConnect_1_1Lean_1_1Engine_1_1DataFeeds_1_1Subscription.html#a2106dc5eeeb2f84ec602bce6c74d2959", null ],
+    [ "UtcStartTime", "classQuantConnect_1_1Lean_1_1Engine_1_1DataFeeds_1_1Subscription.html#a537e8ebc8ff2a001b9c956db7e595501", null ],
+    [ "UtcEndTime", "classQuantConnect_1_1Lean_1_1Engine_1_1DataFeeds_1_1Subscription.html#a0b2e09f05b606608116339dbf809c6f9", null ],
+    [ "RemovedFromUniverse", "classQuantConnect_1_1Lean_1_1Engine_1_1DataFeeds_1_1Subscription.html#a678e291e583c4cf9332feeb02fed8d8e", null ],
+    [ "Current", "classQuantConnect_1_1Lean_1_1Engine_1_1DataFeeds_1_1Subscription.html#a14d6038dfbaf518d35eddcf4d6875f8d", null ],
+    [ "NewDataAvailable", "classQuantConnect_1_1Lean_1_1Engine_1_1DataFeeds_1_1Subscription.html#ac007110cf45fd2a742ad5413abf87b0f", null ]
+];

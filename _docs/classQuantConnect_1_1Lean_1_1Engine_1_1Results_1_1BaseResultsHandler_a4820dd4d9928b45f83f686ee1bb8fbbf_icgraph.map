@@ -1,0 +1,5 @@
+<map id="QuantConnect.Lean.Engine.Results.BaseResultsHandler.SetAlgorithmState" name="QuantConnect.Lean.Engine.Results.BaseResultsHandler.SetAlgorithmState">
+<area shape="rect" id="node1" title="Sets the algorithm state data" alt="" coords="300,45,529,101"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Lean_1_1Engine_1_1Results_1_1BacktestingResultHandler.html#abd9483f0a51499a5094e6d3124a88464" title="Send a runtime error message back to the browser highlighted with in red" alt="" coords="5,5,252,61"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Lean_1_1Engine_1_1Results_1_1LiveTradingResultHandler.html#a946719d61315da15b96e7d9571fb32ae" title="Send a runtime error back to the users browser and highlight it red." alt="" coords="7,85,250,141"/>
+</map>

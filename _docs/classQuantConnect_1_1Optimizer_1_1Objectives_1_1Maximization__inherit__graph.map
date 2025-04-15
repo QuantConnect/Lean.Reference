@@ -1,0 +1,4 @@
+<map id="QuantConnect.Optimizer.Objectives.Maximization" name="QuantConnect.Optimizer.Objectives.Maximization">
+<area shape="rect" id="node1" title="Defines standard maximization strategy, i.e. right operand is greater than left" alt="" coords="5,80,264,121"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Optimizer_1_1Objectives_1_1Extremum.html" title="Define the way to compare current real&#45;values and the new one (candidates). It&#39;s encapsulated in diff..." alt="" coords="89,5,180,32"/>
+</map>

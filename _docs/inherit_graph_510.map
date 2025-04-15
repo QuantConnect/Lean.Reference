@@ -1,0 +1,5 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$classQuantConnect_1_1Result.html" title="Base class for backtesting and live results that packages result data. LiveResult BacktestResult" alt="" coords="5,46,164,73"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Packets_1_1BacktestResult.html" title="Backtest results object class &#45; result specific items from the packet." alt="" coords="212,5,440,47"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Packets_1_1LiveResult.html" title="Live results object class for packaging live result data." alt="" coords="227,71,425,112"/>
+</map>

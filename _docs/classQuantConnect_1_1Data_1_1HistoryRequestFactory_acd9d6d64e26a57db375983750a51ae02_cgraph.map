@@ -1,0 +1,5 @@
+<map id="QuantConnect.Data.HistoryRequestFactory.CreateHistoryRequest" name="QuantConnect.Data.HistoryRequestFactory.CreateHistoryRequest">
+<area shape="rect" id="node1" title="Creates a new history request" alt="" coords="5,39,272,80"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Util_1_1LeanData.html#a77cc921eacb5e88e8575272f1a87280d" title="Gets the data type required for the specified combination of resolution and tick type" alt="" coords="320,5,531,47"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Util_1_1LeanData.html#af07561616d971cbd08adb7847eafb7f6" title="Determines if the Type is a &#39;common&#39; type used throughout lean This method is helpful in creating Sub..." alt="" coords="320,71,531,112"/>
+</map>

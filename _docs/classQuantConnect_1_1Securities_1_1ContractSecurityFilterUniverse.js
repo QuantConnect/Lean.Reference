@@ -1,0 +1,28 @@
+var classQuantConnect_1_1Securities_1_1ContractSecurityFilterUniverse =
+[
+    [ "ContractSecurityFilterUniverse", "classQuantConnect_1_1Securities_1_1ContractSecurityFilterUniverse.html#a5d613afa4e841d62b55de4d005818a2b", null ],
+    [ "ContractSecurityFilterUniverse", "classQuantConnect_1_1Securities_1_1ContractSecurityFilterUniverse.html#af8e76faeba6010dbe1c4cebd24f39ac4", null ],
+    [ "IsStandard", "classQuantConnect_1_1Securities_1_1ContractSecurityFilterUniverse.html#a677833572945e56a83c8af3a6dcbeb4a", null ],
+    [ "CreateDataInstance", "classQuantConnect_1_1Securities_1_1ContractSecurityFilterUniverse.html#aada264fcca1ba55ba626cc96dbfb1d37", null ],
+    [ "Refresh", "classQuantConnect_1_1Securities_1_1ContractSecurityFilterUniverse.html#a954d300ac7ad31f97bf9d2e7d118cc44", null ],
+    [ "StandardsOnly", "classQuantConnect_1_1Securities_1_1ContractSecurityFilterUniverse.html#a674f0306ae19ef257563d2e9fe65a854", null ],
+    [ "IncludeWeeklys", "classQuantConnect_1_1Securities_1_1ContractSecurityFilterUniverse.html#a6360a1c8613b6a4f86d0a81e5fb56a9d", null ],
+    [ "WeeklysOnly", "classQuantConnect_1_1Securities_1_1ContractSecurityFilterUniverse.html#a542432fc03b0beeb60e8b582f6d475a5", null ],
+    [ "FrontMonth", "classQuantConnect_1_1Securities_1_1ContractSecurityFilterUniverse.html#af8110c0437431f981c7277af629e0cb2", null ],
+    [ "BackMonths", "classQuantConnect_1_1Securities_1_1ContractSecurityFilterUniverse.html#a4d25922196758d70cacc84e79be26ca2", null ],
+    [ "BackMonth", "classQuantConnect_1_1Securities_1_1ContractSecurityFilterUniverse.html#ac69c1de9b91ff5105adcf7ba655128ba", null ],
+    [ "AdjustExpirationReferenceDate", "classQuantConnect_1_1Securities_1_1ContractSecurityFilterUniverse.html#ae62b9635b37cde3974c97db423456681", null ],
+    [ "Expiration", "classQuantConnect_1_1Securities_1_1ContractSecurityFilterUniverse.html#a4d453d09500c1671dceddf7355deec8c", null ],
+    [ "Expiration", "classQuantConnect_1_1Securities_1_1ContractSecurityFilterUniverse.html#acbdc9acde63113b1c3b0e433f02db85d", null ],
+    [ "Contracts", "classQuantConnect_1_1Securities_1_1ContractSecurityFilterUniverse.html#afd19f07e15021e294e3d72a992b4f634", null ],
+    [ "Contracts", "classQuantConnect_1_1Securities_1_1ContractSecurityFilterUniverse.html#a84b9926356cb6a5bdc32a8324b350cf9", null ],
+    [ "Contracts", "classQuantConnect_1_1Securities_1_1ContractSecurityFilterUniverse.html#a89b380576fddd386eb2413a69358015d", null ],
+    [ "Contracts", "classQuantConnect_1_1Securities_1_1ContractSecurityFilterUniverse.html#a57bd5db9bc3dc0165b6979e807c0fac5", null ],
+    [ "Contracts", "classQuantConnect_1_1Securities_1_1ContractSecurityFilterUniverse.html#a250184a56098f0af83512cbf215f7627", null ],
+    [ "OnlyApplyFilterAtMarketOpen", "classQuantConnect_1_1Securities_1_1ContractSecurityFilterUniverse.html#a28c1e13c7a2a739e7ca1459cc08d93b3", null ],
+    [ "GetEnumerator", "classQuantConnect_1_1Securities_1_1ContractSecurityFilterUniverse.html#a6cf2f8a5a00801aa3ea91739148083ca", null ],
+    [ "Type", "classQuantConnect_1_1Securities_1_1ContractSecurityFilterUniverse.html#a81a6b66913e58e3beed5cf02567e035c", null ],
+    [ "LocalTime", "classQuantConnect_1_1Securities_1_1ContractSecurityFilterUniverse.html#af79f405310518bc57e545073c53603fe", null ],
+    [ "Data", "classQuantConnect_1_1Securities_1_1ContractSecurityFilterUniverse.html#a2c81bffc2094b3a0e430443a81beea10", null ],
+    [ "AllSymbols", "classQuantConnect_1_1Securities_1_1ContractSecurityFilterUniverse.html#ae1dc44ef2c18c72b1936a4e573aa3740", null ]
+];

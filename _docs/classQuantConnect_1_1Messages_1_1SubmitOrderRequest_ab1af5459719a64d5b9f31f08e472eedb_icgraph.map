@@ -1,0 +1,5 @@
+<map id="QuantConnect.Messages.SubmitOrderRequest.ToString" name="QuantConnect.Messages.SubmitOrderRequest.ToString">
+<area shape="rect" id="node1" title="Parses a given SubmitOrderRequest object to a string message" alt="" coords="544,5,777,47"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Orders_1_1SubmitOrderRequest.html#a1abfd008d3da93a8d7b92d3c490e3769" title="Returns a string that represents the current object." alt="" coords="285,5,496,47"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Commands_1_1OrderCommand.html#a6f56bbd37fa44bc343c153f5c108d5b5" title="Returns a string that represents the current object." alt="" coords="5,5,237,47"/>
+</map>

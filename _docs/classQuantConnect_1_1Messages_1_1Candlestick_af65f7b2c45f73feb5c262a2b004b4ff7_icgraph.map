@@ -1,0 +1,4 @@
+<map id="QuantConnect.Messages.Candlestick.ToString" name="QuantConnect.Messages.Candlestick.ToString">
+<area shape="rect" id="node1" title="Parses a given Candlestick object into a string message" alt="" coords="252,5,519,47"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Candlestick.html#ae68ba6d2a8504248f4231138c9fdaf6b" title="Provides a readable string representation of this instance." alt="" coords="5,5,204,47"/>
+</map>

@@ -1,0 +1,15 @@
+<map id="QuantConnect.Orders.Fills.FillModel.MarketOnOpenFill" name="QuantConnect.Orders.Fills.FillModel.MarketOnOpenFill">
+<area shape="rect" id="node1" title="Market on Open Fill Model. Return an order event with the fill details" alt="" coords="5,153,207,195"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Securities_1_1SecurityExchange.html#a0cb909c2d8b9da2709749846b313e3bb" title="Check if this DateTime is open." alt="" coords="255,51,506,92"/>
+<area shape="rect" id="node7" href="$classQuantConnect_1_1Securities_1_1Security.html#ab93a58a84a4aa1b19d0972faf6c056c4" title="Get the last price update set to the security if any else null" alt="" coords="287,116,474,157"/>
+<area shape="rect" id="node8" href="$classQuantConnect_1_1Orders_1_1Fills_1_1FillModel.html#ab0bcff6c774940b6b9403373586c3f55" title="This is required due to a limitation in PythonNet to resolved overriden methods. GetPrices" alt="" coords="255,182,507,238"/>
+<area shape="rect" id="node13" href="$classQuantConnect_1_1Messages_1_1FillModel.html#a2f7f7fe8da5a204dc9301ee121b7c5a5" title="Returns a string message saying the market never closes for the given symbol, and that an order of th..." alt="" coords="277,263,484,304"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Securities_1_1SecurityExchangeHours.html#af2deedeacdcb6bbe40f4874002cdbac3" title="Determines if the exchange is open at the specified local date time." alt="" coords="555,51,780,92"/>
+<area shape="rect" id="node4" href="$classQuantConnect_1_1Securities_1_1SecurityExchangeHours.html#a106e2dd187ab76452e14ac6a28f929aa" title="Helper to access the market hours field based on the day of week" alt="" coords="828,5,1115,47"/>
+<area shape="rect" id="node6" href="$classQuantConnect_1_1Securities_1_1LocalMarketHours.html#a97e5d374a28d55f3ebee72c328a0810f" title="Determines if the exchange is open at the specified time" alt="" coords="877,71,1065,112"/>
+<area shape="rect" id="node5" href="$classQuantConnect_1_1Securities_1_1LocalMarketHours.html#a1e9178f81413c7d1f032a003d74acecf" title="Gets a LocalMarketHours instance that is always closed" alt="" coords="1175,5,1405,47"/>
+<area shape="rect" id="node9" href="$classQuantConnect_1_1Orders_1_1Fills_1_1FillModel.html#afa84c82a93805830970d5a4c15ed646c" title="Get the minimum and maximum price for this security in the last bar:" alt="" coords="570,189,765,231"/>
+<area shape="rect" id="node10" href="$classQuantConnect_1_1Securities_1_1SecurityCache.html#a2e22a721cbad979accb38e91dd640b8e" title="Get last data packet received for this security if any else null" alt="" coords="878,156,1065,197"/>
+<area shape="rect" id="node11" href="$classQuantConnect_1_1Orders_1_1Fills_1_1FillModel.html#a71f8f74b6d7f6180d711911667671c49" title="Get data types the Security is subscribed to" alt="" coords="863,221,1079,263"/>
+<area shape="rect" id="node12" href="$classQuantConnect_1_1Messages_1_1FillModel.html#ae9a5c5ace1eb050dd0d3d9c25fb1ba35" title="Returns a string message saying it was impossible to perform a fill for the given security symbol bec..." alt="" coords="1163,214,1417,270"/>
+</map>

@@ -1,0 +1,14 @@
+<map id="QuantConnect.Lean.Engine.DataFeeds.UniverseSelection.AddPendingInternalDataFeeds" name="QuantConnect.Lean.Engine.DataFeeds.UniverseSelection.AddPendingInternalDataFeeds">
+<area shape="rect" id="node1" title="Will add any pending internal currency subscriptions" alt="" coords="5,145,248,201"/>
+<area shape="rect" id="node2" href="$interfaceQuantConnect_1_1Lean_1_1Engine_1_1DataFeeds_1_1IDataFeedSubscriptionManager.html#a5d3bf0c3a3cda192ac4e78da3869cdcc" title="Adds a new Subscription to provide data for the specified security." alt="" coords="296,39,537,95"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Time.html#a50fc3d93661ea9b1506e9d6ab78bcabd" title="Determines the start time required to produce the requested number of bars and the given size" alt="" coords="312,119,521,161"/>
+<area shape="rect" id="node10" href="$classQuantConnect_1_1Logging_1_1Log.html#a4e55477fbc790846b74550a57198cea9" title="Log trace" alt="" coords="317,185,517,226"/>
+<area shape="rect" id="node12" href="$classQuantConnect_1_1Util_1_1LeanData.html#a285cd342950b1f06c6b8527e0087fde5" title="Helper method to determine if we should use strict end time" alt="" coords="311,250,522,291"/>
+<area shape="rect" id="node4" href="$classQuantConnect_1_1Securities_1_1SecurityExchangeHours.html#ae4d431df8172a13151fbc6dcad979492" title="Gets the local date time corresponding to the next market close following the specified time" alt="" coords="596,5,831,61"/>
+<area shape="rect" id="node5" href="$classQuantConnect_1_1Securities_1_1SecurityExchangeHours.html#a9938e951dadf16e7518f648ff9c4a040" title="Determines if the exchange will be open on the date specified by the local date time" alt="" coords="585,86,841,127"/>
+<area shape="rect" id="node8" href="$classQuantConnect_1_1Securities_1_1SecurityExchangeHours.html#af2deedeacdcb6bbe40f4874002cdbac3" title="Determines if the exchange is open at the specified local date time." alt="" coords="601,151,826,193"/>
+<area shape="rect" id="node6" href="$classQuantConnect_1_1Securities_1_1SecurityExchangeHours.html#a106e2dd187ab76452e14ac6a28f929aa" title="Helper to access the market hours field based on the day of week" alt="" coords="889,86,1176,127"/>
+<area shape="rect" id="node7" href="$classQuantConnect_1_1Securities_1_1LocalMarketHours.html#a1e9178f81413c7d1f032a003d74acecf" title="Gets a LocalMarketHours instance that is always closed" alt="" coords="1224,86,1455,127"/>
+<area shape="rect" id="node9" href="$classQuantConnect_1_1Securities_1_1LocalMarketHours.html#a97e5d374a28d55f3ebee72c328a0810f" title="Determines if the exchange is open at the specified time" alt="" coords="939,151,1127,193"/>
+<area shape="rect" id="node11" href="$interfaceQuantConnect_1_1Logging_1_1ILogHandler.html#a3fb71a33ac66129240b63f12b6fcda3b" title="Write debug message to log" alt="" coords="613,217,813,258"/>
+</map>

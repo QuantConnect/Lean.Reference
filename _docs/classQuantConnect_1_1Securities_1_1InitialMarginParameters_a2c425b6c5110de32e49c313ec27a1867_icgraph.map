@@ -1,0 +1,4 @@
+<map id="QuantConnect.Securities.InitialMarginParameters.ForUnderlying" name="QuantConnect.Securities.InitialMarginParameters.ForUnderlying">
+<area shape="rect" id="node1" title="Creates a new instance of InitialMarginParameters for the security&#39;s underlying" alt="" coords="309,13,583,54"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Securities_1_1Option_1_1FuturesOptionsMarginModel.html#a09b2e49acd90e71d44603228a56c2a34" title="The margin that must be held in order to increase the position by the provided quantity" alt="" coords="5,5,261,61"/>
+</map>

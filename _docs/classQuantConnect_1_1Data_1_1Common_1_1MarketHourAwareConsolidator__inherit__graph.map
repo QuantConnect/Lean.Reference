@@ -1,0 +1,5 @@
+<map id="QuantConnect.Data.Common.MarketHourAwareConsolidator" name="QuantConnect.Data.Common.MarketHourAwareConsolidator">
+<area shape="rect" id="node1" title="Consolidator for open markets bar only, extended hours bar are not consolidated." alt="" coords="5,155,227,196"/>
+<area shape="rect" id="node2" href="$interfaceQuantConnect_1_1Data_1_1Consolidators_1_1IDataConsolidator.html" title="Represents a type capable of taking BaseData updates and firing events containing new &#39;consolidated&#39; ..." alt="" coords="47,80,185,107"/>
+<area shape="rect" id="node3" title=" " alt="" coords="67,5,165,32"/>
+</map>

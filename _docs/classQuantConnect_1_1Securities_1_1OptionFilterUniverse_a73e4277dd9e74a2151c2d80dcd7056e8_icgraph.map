@@ -1,0 +1,4 @@
+<map id="QuantConnect.Securities.OptionFilterUniverse.ImpliedVolatility" name="QuantConnect.Securities.OptionFilterUniverse.ImpliedVolatility">
+<area shape="rect" id="node1" title="Applies the filter to the universe selecting the contracts with implied volatility between the given ..." alt="" coords="240,5,449,61"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Securities_1_1OptionFilterUniverse.html#a45361eeff00be3bd91bf3ef2569da14b" title="Applies the filter to the universe selecting the contracts with implied volatility between the given ..." alt="" coords="5,13,192,54"/>
+</map>

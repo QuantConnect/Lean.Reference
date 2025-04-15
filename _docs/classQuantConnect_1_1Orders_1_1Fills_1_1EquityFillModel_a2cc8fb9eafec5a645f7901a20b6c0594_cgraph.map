@@ -1,0 +1,17 @@
+<map id="QuantConnect.Orders.Fills.EquityFillModel.MarketOnOpenFill" name="QuantConnect.Orders.Fills.EquityFillModel.MarketOnOpenFill">
+<area shape="rect" id="node1" title="Market on Open Fill Model. Return an order event with the fill details" alt="" coords="5,250,248,291"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Securities_1_1SecurityExchange.html#a0cb909c2d8b9da2709749846b313e3bb" title="Check if this DateTime is open." alt="" coords="610,471,861,512"/>
+<area shape="rect" id="node4" href="$classQuantConnect_1_1Securities_1_1SecurityExchangeHours.html#a106e2dd187ab76452e14ac6a28f929aa" title="Helper to access the market hours field based on the day of week" alt="" coords="1183,139,1469,180"/>
+<area shape="rect" id="node7" href="$classQuantConnect_1_1Messages_1_1EquityFillModel.html#ad8245b1a00016bb5c2031ed19900b1b9" title="Returns a string message saying the last data (of the given tick type) has been used to fill" alt="" coords="296,151,561,192"/>
+<area shape="rect" id="node8" href="$classQuantConnect_1_1Messages_1_1EquityFillModel.html#a81541b06df74b83206fb0036f9da9e34" title="Returns a string message warnning the user that no trade information was available,..." alt="" coords="315,216,543,258"/>
+<area shape="rect" id="node9" href="$classQuantConnect_1_1Securities_1_1SecurityCache.html#a2e22a721cbad979accb38e91dd640b8e" title="Get last data packet received for this security if any else null" alt="" coords="335,282,522,323"/>
+<area shape="rect" id="node10" href="$classQuantConnect_1_1Securities_1_1LocalMarketHours.html#a0f389bbd5cc5666e8c60bf364ab08a34" title="Gets the market opening time of day" alt="" coords="306,86,551,127"/>
+<area shape="rect" id="node12" href="$classQuantConnect_1_1Orders_1_1Fills_1_1EquityFillModel.html#a5163fdfc6b5fe8d87eb03d5a4d29ecb1" title="Get data types the Security is subscribed to" alt="" coords="300,412,557,454"/>
+<area shape="rect" id="node13" href="$classQuantConnect_1_1Orders_1_1Fills_1_1FillModel.html#acc205b791cf6a99fa989502aff6b53b8" title="Determines if the exchange is open using the current time of the asset" alt="" coords="331,347,526,388"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Securities_1_1SecurityExchangeHours.html#af2deedeacdcb6bbe40f4874002cdbac3" title="Determines if the exchange is open at the specified local date time." alt="" coords="909,318,1135,359"/>
+<area shape="rect" id="node6" href="$classQuantConnect_1_1Securities_1_1LocalMarketHours.html#a97e5d374a28d55f3ebee72c328a0810f" title="Determines if the exchange is open at the specified time" alt="" coords="1232,318,1420,359"/>
+<area shape="rect" id="node5" href="$classQuantConnect_1_1Securities_1_1LocalMarketHours.html#a1e9178f81413c7d1f032a003d74acecf" title="Gets a LocalMarketHours instance that is always closed" alt="" coords="1517,139,1748,180"/>
+<area shape="rect" id="node11" href="$classQuantConnect_1_1Securities_1_1LocalMarketHours.html#a64d0be4e83db8aca6d9d3d158a56ef8c" title="Check the given segment is not part of the current previous segment" alt="" coords="622,85,849,141"/>
+<area shape="rect" id="node14" href="$classQuantConnect_1_1Securities_1_1Security.html#ab93a58a84a4aa1b19d0972faf6c056c4" title="Get the last price update set to the security if any else null" alt="" coords="642,406,829,447"/>
+<area shape="rect" id="node15" href="$classQuantConnect_1_1Securities_1_1SecurityExchange.html#a17daa159794484b17946fc540864800c" title="Determines if the exchange was open at any time between start and stop" alt="" coords="609,288,861,330"/>
+</map>

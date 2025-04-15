@@ -1,0 +1,8 @@
+<map id="QuantConnect.Scheduling.TimeMonitor.TimeMonitor" name="QuantConnect.Scheduling.TimeMonitor.TimeMonitor">
+<area shape="rect" id="node1" title="Creates a new instance" alt="" coords="5,71,199,112"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Time.html#a36d5c25a49b2628f102e3deb7f6ce23b" title="Helper method to adjust a waiting time, in milliseconds, so it&#39;s uneven with the second turn around" alt="" coords="247,5,472,47"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Scheduling_1_1TimeMonitor.html#a079a4c426a75cf6017218da16938fe4f" title="Process the TimeConsumer object in TimeConsumers list" alt="" coords="247,71,471,112"/>
+<area shape="rect" id="node6" href="$classQuantConnect_1_1Scheduling_1_1TimeMonitor.html#a8da391bbdf2effe26807280fd68b12c1" title="Remove all TimeConsumer objects where the Finished field is marked as true" alt="" coords="263,136,456,177"/>
+<area shape="rect" id="node4" href="$interfaceQuantConnect_1_1ITimeProvider.html#ae51737f869d879dfbb297496e4feb036" title="Gets the current time in UTC" alt="" coords="550,39,762,80"/>
+<area shape="rect" id="node5" href="$interfaceQuantConnect_1_1IIsolatorLimitResultProvider.html#a78addd1d9efec8e07e204ba1d4afc5f2" title="Requests additional time from the isolator result provider. This is intended to prevent IsWithinLimit..." alt="" coords="520,104,792,145"/>
+</map>

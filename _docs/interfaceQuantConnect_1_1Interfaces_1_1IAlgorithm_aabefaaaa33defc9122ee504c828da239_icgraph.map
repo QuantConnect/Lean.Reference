@@ -1,0 +1,4 @@
+<map id="QuantConnect.Interfaces.IAlgorithm.OnCommand" name="QuantConnect.Interfaces.IAlgorithm.OnCommand">
+<area shape="rect" id="node1" title="Generic untyped command call handler" alt="" coords="305,5,492,47"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Commands_1_1CallbackCommand.html#a3c6571a52cfe7e640ef6ba3e39aa5f65" title="Runs this command against the specified algorithm instance" alt="" coords="5,5,257,47"/>
+</map>

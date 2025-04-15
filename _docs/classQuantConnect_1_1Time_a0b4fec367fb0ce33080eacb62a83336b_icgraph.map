@@ -1,0 +1,8 @@
+<map id="QuantConnect.Time.DateTimeToUnixTimeStamp" name="QuantConnect.Time.DateTimeToUnixTimeStamp">
+<area shape="rect" id="node1" title="Convert a Datetime to Unix Timestamp" alt="" coords="671,116,889,157"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Api_1_1Api.html#a23ad4b44a409932c84e51e7c400c4057" title="Get a list of live running algorithms for user" alt="" coords="377,5,568,47"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Algorithm_1_1Framework_1_1Alphas_1_1Serialization_1_1SerializedInsight.html#a1351eb402776a7711c31492680ed2c0d" title="Initializes a new instance of the SerializedInsight &#160;class by copying the specified insight" alt="" coords="339,71,606,127"/>
+<area shape="rect" id="node4" href="$classQuantConnect_1_1Orders_1_1Serialization_1_1SerializedOrderEvent.html#ab778a830759f40e39bc5035b6aa1c145" title="Creates a new instances based on the provided order event and algorithm Id" alt="" coords="323,152,623,193"/>
+<area shape="rect" id="node5" href="$classQuantConnect_1_1Time.html#a8f3be0f6448ecbfa8b141ab5138abf3c" title="Get the current time as a unix timestamp" alt="" coords="357,218,588,245"/>
+<area shape="rect" id="node6" href="$classQuantConnect_1_1Api_1_1Authentication.html#aedf44cc6fa27cb4b648e619a079f2f9d" title="Create an authenticated link for the target endpoint using the optional given payload" alt="" coords="5,218,275,245"/>
+</map>

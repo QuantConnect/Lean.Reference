@@ -1,0 +1,4 @@
+<map id="QuantConnect.Lean.Engine.Setup.BaseSetupHandler.LoadBacktestJobCashAmount" name="QuantConnect.Lean.Engine.Setup.BaseSetupHandler.LoadBacktestJobCashAmount">
+<area shape="rect" id="node1" title="Sets the initial cash for the algorithm if set in the job packet." alt="" coords="321,5,596,61"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Lean_1_1Engine_1_1Setup_1_1BacktestingSetupHandler.html#a6fce75a853ba5e8baf5bda360fe6e77c" title="Setup the algorithm cash, dates and data subscriptions as desired." alt="" coords="5,13,273,54"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="QuantConnect.ToolBox.RandomDataGenerator.IRandomValueGenerator" name="QuantConnect.ToolBox.RandomDataGenerator.IRandomValueGenerator">
+<area shape="rect" id="node1" title="Defines a type capable of producing random values for use in random data generation" alt="" coords="5,5,285,47"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1ToolBox_1_1RandomDataGenerator_1_1RandomValueGenerator.html" title="Provides an implementation of IRandomValueGenerator that uses Random to generate random values" alt="" coords="7,95,283,136"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="QuantConnect.Lean.Engine.Server.LocalLeanManager.SetCommandHandler" name="QuantConnect.Lean.Engine.Server.LocalLeanManager.SetCommandHandler">
+<area shape="rect" id="node1" title="Set the command handler to use, protected for testing purposes" alt="" coords="5,5,285,61"/>
+<area shape="rect" id="node2" href="$interfaceQuantConnect_1_1Commands_1_1ICommandHandler.html#a725c2f2ac1e353ac19e232a414b8902c" title="Initializes this command queue for the specified job" alt="" coords="333,13,600,54"/>
+</map>

@@ -1,0 +1,9 @@
+<map id="QuantConnect.Util.LeanData.ParseKey" name="QuantConnect.Util.LeanData.ParseKey">
+<area shape="rect" id="node1" title="Helper to separate filename and entry from a given key for DataProviders" alt="" coords="332,191,543,233"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Lean_1_1Engine_1_1DataFeeds_1_1SingleEntryDataCacheProvider.html#a7e7ffcf59f44ba8bed833dd8a0a1edba" title="Fetch data from the cache" alt="" coords="25,5,265,61"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Data_1_1DiskDataCacheProvider.html#a2c2dccf7e03577cf34c0c3052333112a" title="Fetch data from the cache" alt="" coords="38,86,251,127"/>
+<area shape="rect" id="node4" href="$classQuantConnect_1_1Lean_1_1Engine_1_1DataFeeds_1_1ZipDataCacheProvider.html#a5bcc10f36090055956f4b95b942d6711" title="Does not attempt to retrieve any data" alt="" coords="5,151,284,193"/>
+<area shape="rect" id="node5" href="$classQuantConnect_1_1Lean_1_1Engine_1_1DataFeeds_1_1Transport_1_1RemoteFileSubscriptionStreamReader.html#a1fc214b62c9ae91d7fefef68d609e593" title="Initializes a new instance of the RemoteFileSubscriptionStreamReader class." alt="" coords="9,217,281,287"/>
+<area shape="rect" id="node6" href="$classQuantConnect_1_1Data_1_1DiskDataCacheProvider.html#a209da6283996c13620057520a6523db6" title="Store the data in the cache. Not implemented in this instance of the IDataCacheProvider" alt="" coords="38,311,251,353"/>
+<area shape="rect" id="node7" href="$classQuantConnect_1_1Lean_1_1Engine_1_1DataFeeds_1_1ZipDataCacheProvider.html#ab01c199eda16fc682569f0ff644e6fda" title="Store the data in the cache." alt="" coords="5,377,284,418"/>
+</map>

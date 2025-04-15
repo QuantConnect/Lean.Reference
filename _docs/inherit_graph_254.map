@@ -1,0 +1,4 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$interfaceQuantConnect_1_1Interfaces_1_1ITradeBuilder.html" title="Generates trades from executions and market price updates" alt="" coords="5,5,192,47"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Statistics_1_1TradeBuilder.html" title="The TradeBuilder class generates trades from executions and market price updates" alt="" coords="240,5,423,47"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="QuantConnect.Data.Auxiliary.IFactorProvider.GetPriceFactor" name="QuantConnect.Data.Auxiliary.IFactorProvider.GetPriceFactor">
+<area shape="rect" id="node1" title="Gets the price factor for the specified search date" alt="" coords="320,5,536,47"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Data_1_1Auxiliary_1_1PriceScalingExtensions.html#a5f610ba33e0da35608c550533398bbc0" title="Resolves the price scale for a date given a factor file and required settings" alt="" coords="5,5,272,47"/>
+</map>

@@ -1,0 +1,11 @@
+<map id="QuantConnect.Optimizer.LeanOptimizer.LeanOptimizer" name="QuantConnect.Optimizer.LeanOptimizer.LeanOptimizer">
+<area shape="rect" id="node1" title="Creates a new instance" alt="" coords="5,104,221,145"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Logging_1_1Log.html#af0e7955911bc7664b37661b2a303a9e3" title="Log error" alt="" coords="299,5,499,47"/>
+<area shape="rect" id="node4" href="$interfaceQuantConnect_1_1Optimizer_1_1Strategies_1_1IOptimizationStrategy.html#a73d3adcf516992b288b7b95efd21cf91" title="Initializes the strategy using generator, extremum settings and optimization parameters" alt="" coords="271,71,526,112"/>
+<area shape="rect" id="node5" href="$classQuantConnect_1_1Optimizer_1_1Objectives_1_1Target.html#a662cd59746bc4d34612692a7c17018a8" title="Creates a new instance" alt="" coords="269,136,528,177"/>
+<area shape="rect" id="node6" href="$classQuantConnect_1_1Optimizer_1_1LeanOptimizer.html#ac726237eef575d77acd4b9b5bee8548a" title="Triggers the optimization job end event" alt="" coords="291,201,507,243"/>
+<area shape="rect" id="node3" href="$interfaceQuantConnect_1_1Logging_1_1ILogHandler.html#a35373a0c5d76031fa5ccf5dc39e5c25d" title="Write error message to log" alt="" coords="593,5,793,47"/>
+<area shape="rect" id="node7" href="$classQuantConnect_1_1Optimizer_1_1LeanOptimizer.html#a83cee6f3b7bdafe24a0013cdaf6dd012" title="Sets the current optimization status" alt="" coords="576,168,811,209"/>
+<area shape="rect" id="node8" href="$classQuantConnect_1_1Logging_1_1Log.html#a4e55477fbc790846b74550a57198cea9" title="Log trace" alt="" coords="593,233,793,275"/>
+<area shape="rect" id="node9" href="$interfaceQuantConnect_1_1Logging_1_1ILogHandler.html#a3fb71a33ac66129240b63f12b6fcda3b" title="Write debug message to log" alt="" coords="859,233,1059,275"/>
+</map>

@@ -1,0 +1,12 @@
+<map id="QuantConnect.Interfaces.IFactorFileProvider.Get" name="QuantConnect.Interfaces.IFactorFileProvider.Get">
+<area shape="rect" id="node1" title="Gets a FactorFile&lt;T&gt; instance for the specified symbol, or null if not found" alt="" coords="629,213,816,254"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Lean_1_1Engine_1_1DataFeeds_1_1SubscriptionUtils.html#a1730082b174a831b7b6ae6f090a35cdb" title="Setups a new Subscription which will consume a blocking EnqueueableEnumerator&lt;T&gt; that will be feed by..." alt="" coords="329,45,581,101"/>
+<area shape="rect" id="node4" href="$classQuantConnect_1_1Lean_1_1Engine_1_1DataFeeds_1_1Enumerators_1_1DividendEventProvider.html#aa420c22da9f60c60151aeb7f852bc6d2" title="Initializes the factor file to use" alt="" coords="335,165,575,221"/>
+<area shape="rect" id="node7" href="$classQuantConnect_1_1Lean_1_1Engine_1_1DataFeeds_1_1Enumerators_1_1SplitEventProvider.html#aaae4fc6aca3810f9fe02f3ddd4bf1eff" title="Initializes the factor file to use" alt="" coords="331,245,579,301"/>
+<area shape="rect" id="node10" href="$classQuantConnect_1_1Data_1_1DividendYieldProvider.html#a54ffb9298a5466104298b532e27d4157" title="Generate the corporate events from the corporate factor file for the specified symbol" alt="" coords="330,326,581,367"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Lean_1_1Engine_1_1DataFeeds_1_1FileSystemDataFeed.html#ac148e78fc814fca88c70a1835be51a25" title="Creates a new subscription to provide data for the specified security." alt="" coords="5,5,281,61"/>
+<area shape="rect" id="node5" href="$classQuantConnect_1_1Lean_1_1Engine_1_1DataFeeds_1_1Enumerators_1_1LiveDividendEventProvider.html#a5841f67d571faf4a369f46af22a78c8c" title="Check for dividends and returns them" alt="" coords="10,85,277,141"/>
+<area shape="rect" id="node6" href="$classQuantConnect_1_1Lean_1_1Engine_1_1DataFeeds_1_1Enumerators_1_1DividendEventProvider.html#a6aef039a181ace000e16bc1fa5c487d9" title="Initializes this instance" alt="" coords="23,165,263,221"/>
+<area shape="rect" id="node8" href="$classQuantConnect_1_1Lean_1_1Engine_1_1DataFeeds_1_1Enumerators_1_1LiveSplitEventProvider.html#a4fea8416ece3268b8e5a991e66ae47bf" title="Check for dividends and returns them" alt="" coords="24,245,263,301"/>
+<area shape="rect" id="node9" href="$classQuantConnect_1_1Lean_1_1Engine_1_1DataFeeds_1_1Enumerators_1_1SplitEventProvider.html#abc76f36c6b39e05c7adef77b6432fa59" title="Initializes this instance" alt="" coords="19,325,267,381"/>
+</map>

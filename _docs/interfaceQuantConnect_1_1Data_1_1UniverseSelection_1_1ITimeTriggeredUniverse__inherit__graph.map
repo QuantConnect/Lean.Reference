@@ -1,0 +1,9 @@
+<map id="QuantConnect.Data.UniverseSelection.ITimeTriggeredUniverse" name="QuantConnect.Data.UniverseSelection.ITimeTriggeredUniverse">
+<area shape="rect" id="node1" title="A universe implementing this interface will NOT use it&#39;s SubscriptionDataConfig to generate data that..." alt="" coords="5,71,247,112"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Data_1_1UniverseSelection_1_1ContinuousContractUniverse.html" title="Continuous contract universe selection that based on the requested mapping mode will select each symb..." alt="" coords="295,5,567,47"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Data_1_1UniverseSelection_1_1ScheduledUniverse.html" title="Defines a user that is fired based on a specified IDateRule and ITimeRule" alt="" coords="325,71,536,112"/>
+<area shape="rect" id="node4" href="$classQuantConnect_1_1Data_1_1UniverseSelection_1_1UserDefinedUniverse.html" title="Represents the universe defined by the user&#39;s algorithm. This is the default universe where manually ..." alt="" coords="319,136,543,177"/>
+<area shape="rect" id="node5" href="$classQuantConnect_1_1Algorithm_1_1Framework_1_1Selection_1_1CustomUniverse.html" title="Defines a universe as a set of dynamically set symbols." alt="" coords="615,71,877,112"/>
+<area shape="rect" id="node6" href="$classQuantConnect_1_1Algorithm_1_1Framework_1_1Selection_1_1ManualUniverse.html" title="Defines a universe as a set of manually set symbols. This differs from UserDefinedUniverse in that th..." alt="" coords="615,136,877,177"/>
+<area shape="rect" id="node7" href="$classQuantConnect_1_1Algorithm_1_1Selection_1_1OptionContractUniverse.html" title="This universe will hold single option contracts and their underlying, managing removals and additions" alt="" coords="621,201,871,243"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="QuantConnect.Data.DataMonitor.OnNewDataRequest" name="QuantConnect.Data.DataMonitor.OnNewDataRequest">
+<area shape="rect" id="node1" title="Event handler for the IDataProvider.NewDataRequest event" alt="" coords="5,5,243,47"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Data_1_1DataMonitor.html#a80fe210c00f816556178165f13fc371c" title="Strips the given data folder path" alt="" coords="291,5,528,47"/>
+</map>

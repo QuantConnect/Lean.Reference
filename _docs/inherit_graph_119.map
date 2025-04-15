@@ -1,0 +1,5 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$classQuantConnect_1_1Data_1_1Consolidators_1_1BaseTimelessConsolidator.html" title=" " alt="" coords="5,5,252,61"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Data_1_1Consolidators_1_1RangeConsolidator.html" title="This consolidator can transform a stream of IBaseData instances into a stream of RangeBar" alt="" coords="300,13,547,54"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Data_1_1Consolidators_1_1ClassicRangeConsolidator.html" title="This consolidator can transform a stream of IBaseData instances into a stream of RangeBar...." alt="" coords="595,13,841,54"/>
+</map>

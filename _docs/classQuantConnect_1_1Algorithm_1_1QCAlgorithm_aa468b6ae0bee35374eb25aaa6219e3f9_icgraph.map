@@ -1,0 +1,4 @@
+<map id="QuantConnect.Algorithm.QCAlgorithm.SetBrokerageMessageHandler" name="QuantConnect.Algorithm.QCAlgorithm.SetBrokerageMessageHandler">
+<area shape="rect" id="node1" title="Sets the implementation used to handle messages from the brokerage. The default implementation will f..." alt="" coords="327,5,600,47"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Algorithm_1_1QCAlgorithm.html#a795145fca29aabc47ad556059c066694" title="Sets the implementation used to handle messages from the brokerage. The default implementation will f..." alt="" coords="5,5,279,47"/>
+</map>

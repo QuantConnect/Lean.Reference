@@ -1,0 +1,4 @@
+<map id="QuantConnect.Indicators.IndicatorDataPoint.ToString" name="QuantConnect.Indicators.IndicatorDataPoint.ToString">
+<area shape="rect" id="node1" title="Returns a string representation of this DataPoint instance using ISO8601 formatting for the date" alt="" coords="5,5,204,47"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Messages_1_1IndicatorDataPoint.html#a558530c09c678b97f2aabf0e496bd4bc" title="Parses a IndicatorDataPoint instance into a string message containing basic information about it" alt="" coords="252,5,496,47"/>
+</map>

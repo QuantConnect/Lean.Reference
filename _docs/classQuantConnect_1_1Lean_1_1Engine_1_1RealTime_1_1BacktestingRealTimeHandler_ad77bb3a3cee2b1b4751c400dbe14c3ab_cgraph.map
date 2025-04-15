@@ -1,0 +1,5 @@
+<map id="QuantConnect.Lean.Engine.RealTime.BacktestingRealTimeHandler.ScanPastEvents" name="QuantConnect.Lean.Engine.RealTime.BacktestingRealTimeHandler.ScanPastEvents">
+<area shape="rect" id="node1" title="Scan for past events that didn&#39;t fire because there was no data at the scheduled time." alt="" coords="5,35,287,91"/>
+<area shape="rect" id="node2" href="$interfaceQuantConnect_1_1Interfaces_1_1IAlgorithm.html#a8dc9d2dd57f952d4c9728ec78f391363" title="Set the DateTime Frontier: This is the master time and is" alt="" coords="382,5,569,47"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Lean_1_1Engine_1_1RealTime_1_1BacktestingRealTimeHandler.html#a77236800ce1e0bbe276e32fc212be441" title="Sorts the first element of the provided list and supposes the rest of the collection is sorted...." alt="" coords="335,71,616,127"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="QuantConnect.Data.IDataAggregator.Initialize" name="QuantConnect.Data.IDataAggregator.Initialize">
+<area shape="rect" id="node1" title="Initialize this instance" alt="" coords="311,5,573,47"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Lean_1_1Engine_1_1Setup_1_1BrokerageSetupHandler.html#a31fba19179b2197553a8f0152885886b" title="Primary entry point to setup a new algorithm" alt="" coords="5,5,263,47"/>
+</map>

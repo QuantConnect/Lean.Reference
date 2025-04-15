@@ -1,0 +1,4 @@
+<map id="QuantConnect.Securities.Option.OptionStrategies.Strangle" name="QuantConnect.Securities.Option.OptionStrategies.Strangle">
+<area shape="rect" id="node1" title="Method creates new Strangle strategy, that buying a call option and a put option with the same expira..." alt="" coords="269,13,505,54"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Securities_1_1Option_1_1OptionStrategies.html#a636d48e6703c2bc89176a346e8f4435d" title="Creates a Short Strangle strategy that consists of selling a call and a put, with the same expiration..." alt="" coords="5,5,221,61"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="QuantConnect.Data.UniverseSelection.Universe.CreateSecurity" name="QuantConnect.Data.UniverseSelection.Universe.CreateSecurity">
+<area shape="rect" id="node1" title="Creates and configures a security for the specified symbol" alt="" coords="308,13,552,54"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Data_1_1UniverseSelection_1_1UniverseDecorator.html#a0fc4a4f7f19285e23e6ed6bd3168d497" title="Creates and configures a security for the specified symbol" alt="" coords="5,5,260,61"/>
+</map>

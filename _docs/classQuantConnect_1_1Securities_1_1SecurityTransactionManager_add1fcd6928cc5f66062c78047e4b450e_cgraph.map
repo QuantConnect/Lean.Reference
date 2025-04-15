@@ -1,0 +1,5 @@
+<map id="QuantConnect.Securities.SecurityTransactionManager.GetOpenOrdersRemainingQuantity" name="QuantConnect.Securities.SecurityTransactionManager.GetOpenOrdersRemainingQuantity">
+<area shape="rect" id="node1" title="Gets the remaining quantity to be filled from open orders, i.e. order size minus quantity filled Howe..." alt="" coords="5,39,237,95"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Securities_1_1SecurityTransactionManager.html#a8a14c2ab9bf76272c84499cecb0e1ef7" title="Gets the remaining quantity to be filled from open orders, i.e. order size minus quantity filled" alt="" coords="285,5,517,61"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Securities_1_1SecurityTransactionManager.html#a40a5adc0c964d6f0f472f93fc56d4d53" title="Get an enumerable of open OrderTicket for the specified symbol" alt="" coords="565,39,797,95"/>
+</map>

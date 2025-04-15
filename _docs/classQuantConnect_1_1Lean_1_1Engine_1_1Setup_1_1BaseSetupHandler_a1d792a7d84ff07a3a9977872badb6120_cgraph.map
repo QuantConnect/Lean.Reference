@@ -1,0 +1,4 @@
+<map id="QuantConnect.Lean.Engine.Setup.BaseSetupHandler.LoadBacktestJobAccountCurrency" name="QuantConnect.Lean.Engine.Setup.BaseSetupHandler.LoadBacktestJobAccountCurrency">
+<area shape="rect" id="node1" title="Sets the account currency the algorithm should use if set in the job packet" alt="" coords="5,5,280,61"/>
+<area shape="rect" id="node2" href="$interfaceQuantConnect_1_1Interfaces_1_1IAlgorithm.html#a3a4982f7be3988ff9ee2658c8979bff4" title="Sets the account currency cash symbol this algorithm is to manage, as well as the starting cash in th..." alt="" coords="328,13,553,54"/>
+</map>

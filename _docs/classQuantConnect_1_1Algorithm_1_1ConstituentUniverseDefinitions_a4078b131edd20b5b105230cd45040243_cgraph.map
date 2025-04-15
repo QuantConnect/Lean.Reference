@@ -1,0 +1,4 @@
+<map id="QuantConnect.Algorithm.ConstituentUniverseDefinitions.AggressiveGrowth" name="QuantConnect.Algorithm.ConstituentUniverseDefinitions.AggressiveGrowth">
+<area shape="rect" id="node1" title="Universe which selects companies whose revenues and earnings have both been growing significantly fas..." alt="" coords="5,5,279,47"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1SecurityIdentifier.html#aa2b8c59064a75d90b2e530e829331de1" title="Generates a new SecurityIdentifier for a ConstituentsUniverseData. Note that the symbol ticker is cas..." alt="" coords="327,5,559,47"/>
+</map>

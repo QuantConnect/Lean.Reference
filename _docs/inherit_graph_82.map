@@ -1,0 +1,7 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$classQuantConnect_1_1Python_1_1BasePythonWrapper.html" title=" " alt="" coords="5,5,271,61"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Python_1_1BrokerageMessageHandlerPythonWrapper.html" title="Provides a wrapper for IBrokerageMessageHandler implementations written in python" alt="" coords="349,14,582,55"/>
+<area shape="rect" id="node3" href="$interfaceQuantConnect_1_1Brokerages_1_1IBrokerageMessageHandler.html" title="Provides an plugin point to allow algorithms to directly handle the messages that come from their bro..." alt="" coords="37,86,239,127"/>
+<area shape="rect" id="node4" href="$classQuantConnect_1_1Brokerages_1_1DefaultBrokerageMessageHandler.html" title="Provides a default implementation o IBrokerageMessageHandler that will forward messages as follows: I..." alt="" coords="343,83,588,125"/>
+<area shape="rect" id="node5" href="$classQuantConnect_1_1Brokerages_1_1DowngradeErrorCodeToWarningBrokerageMessageHandler.html" title="Provides an implementation of IBrokerageMessageHandler that converts specified error codes into warni..." alt="" coords="319,149,612,205"/>
+</map>

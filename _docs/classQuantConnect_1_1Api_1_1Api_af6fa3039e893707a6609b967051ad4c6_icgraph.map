@@ -1,0 +1,6 @@
+<map id="QuantConnect.Api.Api.FormatPathForDataRequest" name="QuantConnect.Api.Api.FormatPathForDataRequest">
+<area shape="rect" id="node1" title="Helper method to normalize path for api data requests" alt="" coords="567,39,781,80"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Api_1_1Api.html#a32bc619b1c67b6395b5c935346dbeddd" title="Get valid data entries for a given filepath from data/list" alt="" coords="317,5,519,47"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Api_1_1Api.html#a6081f6ee84c152dd58c28f2f37c1e572" title="Gets the link to the downloadable data." alt="" coords="317,71,519,112"/>
+<area shape="rect" id="node4" href="$classQuantConnect_1_1Api_1_1Api.html#a60628e17674db6908c75bbef8b6a362b" title="Method to purchase and download data from QuantConnect" alt="" coords="5,78,269,105"/>
+</map>

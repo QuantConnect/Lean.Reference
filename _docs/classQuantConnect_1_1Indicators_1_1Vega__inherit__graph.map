@@ -1,0 +1,6 @@
+<map id="QuantConnect.Indicators.Vega" name="QuantConnect.Indicators.Vega">
+<area shape="rect" id="node1" title="Option Vega indicator that calculate the Vega of an option" alt="" coords="5,244,224,271"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Indicators_1_1OptionGreeksIndicatorBase.html" title="To provide a base class for option greeks indicator" alt="" coords="15,169,215,196"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Indicators_1_1OptionIndicatorBase.html" title="To provide a base class for option indicator" alt="" coords="37,95,192,121"/>
+<area shape="rect" id="node4" href="$classQuantConnect_1_1Indicators_1_1MultiSymbolIndicator.html" title=" " alt="" coords="34,5,195,47"/>
+</map>

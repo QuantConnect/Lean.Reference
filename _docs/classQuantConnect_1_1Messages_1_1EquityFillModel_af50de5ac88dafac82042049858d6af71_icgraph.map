@@ -1,0 +1,4 @@
+<map id="QuantConnect.Messages.EquityFillModel.FilledWithOpenDueToUnfavorableGap" name="QuantConnect.Messages.EquityFillModel.FilledWithOpenDueToUnfavorableGap">
+<area shape="rect" id="node1" title="Returns a string message saying that the order was filled using the open price due to an unfavorable ..." alt="" coords="272,5,603,47"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Orders_1_1Fills_1_1EquityFillModel.html#a2b4a2286e47d3b55612f8ebbfe7beae9" title="Stop fill model implementation for Equity." alt="" coords="5,5,224,47"/>
+</map>

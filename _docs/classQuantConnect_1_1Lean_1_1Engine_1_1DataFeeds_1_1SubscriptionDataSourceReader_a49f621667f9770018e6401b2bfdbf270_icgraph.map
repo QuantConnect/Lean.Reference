@@ -1,0 +1,6 @@
+<map id="QuantConnect.Lean.Engine.DataFeeds.SubscriptionDataSourceReader.ForSource" name="QuantConnect.Lean.Engine.DataFeeds.SubscriptionDataSourceReader.ForSource">
+<area shape="rect" id="node1" title="Creates a new ISubscriptionDataSourceReader capable of handling the specified source" alt="" coords="360,107,611,163"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Lean_1_1Engine_1_1DataFeeds_1_1Enumerators_1_1Factories_1_1BaseDataCollectionSubscriptionEnumeratorFactory.html#aea4833b465fe3e59cfe765cb62c62317" title="Creates an enumerator to read the specified request" alt="" coords="5,5,312,76"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Lean_1_1Engine_1_1DataFeeds_1_1Enumerators_1_1Factories_1_1LiveCustomDataSubscriptionEnumeratorFactory.html#af7f6706f4e4329d8b000b703bd98c89a" title="Gets the ISubscriptionDataSourceReader for the specified source" alt="" coords="11,100,306,171"/>
+<area shape="rect" id="node4" href="$classQuantConnect_1_1Lean_1_1Engine_1_1DataFeeds_1_1IndexSubscriptionDataSourceReader.html#a00690b5e347e1e3c2f7239df484f6453" title="Reads the specified source" alt="" coords="37,195,280,251"/>
+</map>

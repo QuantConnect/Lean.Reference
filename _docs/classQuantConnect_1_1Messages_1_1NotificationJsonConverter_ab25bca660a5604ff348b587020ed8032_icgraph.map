@@ -1,0 +1,4 @@
+<map id="QuantConnect.Messages.NotificationJsonConverter.UnexpectedJsonObject" name="QuantConnect.Messages.NotificationJsonConverter.UnexpectedJsonObject">
+<area shape="rect" id="node1" title="String message saying the given object is unexpected" alt="" coords="304,5,567,47"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Notifications_1_1NotificationJsonConverter.html#a10aa3f8168741161b52246dea1ad1eb3" title="Reads the JSON representation of the object." alt="" coords="5,5,256,47"/>
+</map>

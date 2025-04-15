@@ -1,0 +1,6 @@
+<map id="QuantConnect.Indicators.AccumulationDistribution" name="QuantConnect.Indicators.AccumulationDistribution">
+<area shape="rect" id="node1" title="This indicator computes the Accumulation/Distribution (AD) The Accumulation/Distribution is calculate..." alt="" coords="115,155,302,196"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Indicators_1_1TradeBarIndicator.html" title="The TradeBarIndicator is an indicator that accepts TradeBar data as its input." alt="" coords="37,80,173,107"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Indicators_1_1IndicatorBase.html" title=" " alt="" coords="5,5,204,32"/>
+<area shape="rect" id="node4" href="$interfaceQuantConnect_1_1Indicators_1_1IIndicatorWarmUpPeriodProvider.html" title="Represents an indicator with a warm up period provider." alt="" coords="197,80,431,107"/>
+</map>

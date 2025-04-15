@@ -1,0 +1,4 @@
+<map id="QuantConnect.Securities.SecurityExchangeHours.GetFirstDailyMarketOpen" name="QuantConnect.Securities.SecurityExchangeHours.GetFirstDailyMarketOpen">
+<area shape="rect" id="node1" title="Gets the local date time corresponding to the first market open to the specified previous date" alt="" coords="264,5,495,61"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Util_1_1LeanData.html#a684e4331309b64aec17e6074ce456b2a" title="Helper method to return the start time and period of a bar the given point time should be part of" alt="" coords="5,13,216,54"/>
+</map>

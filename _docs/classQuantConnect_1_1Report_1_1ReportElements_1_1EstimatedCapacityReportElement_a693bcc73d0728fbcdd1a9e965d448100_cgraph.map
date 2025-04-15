@@ -1,0 +1,6 @@
+<map id="QuantConnect.Report.ReportElements.EstimatedCapacityReportElement.Render" name="QuantConnect.Report.ReportElements.EstimatedCapacityReportElement.Render">
+<area shape="rect" id="node1" title="Render element" alt="" coords="5,31,259,87"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Currencies.html#ac25d70952411dac69aff50e16b2680f2" title="Converts the string representation of number with currency in the format {currency}{value} to its dec..." alt="" coords="307,39,497,80"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Messages_1_1Currencies.html#a5e45ee5893aa9cc61b02c5a1cb51cab5" title="Returns a string message saying the given value cannot be converted to a decimal number" alt="" coords="545,5,805,47"/>
+<area shape="rect" id="node4" href="$classQuantConnect_1_1Currencies.html#adfe5757a88698f504c556254db30a240" title="Converts the string representation of number with currency in the format {currency}{value} to its dec..." alt="" coords="580,71,771,112"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="QuantConnect.Messages.UnsupportedOperandPythonExceptionInterpreter.InvalidObjectTypesForOperation" name="QuantConnect.Messages.UnsupportedOperandPythonExceptionInterpreter.InvalidObjectTypesForOperation">
+<area shape="rect" id="node1" title="Returns a message for invalid object types for operation" alt="" coords="323,5,625,61"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Exceptions_1_1UnsupportedOperandPythonExceptionInterpreter.html#ac9e6430b5e7d2237ed6f8579e5a2eeab" title="Interprets the specified exception into a new exception" alt="" coords="5,5,275,61"/>
+</map>

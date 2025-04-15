@@ -1,0 +1,14 @@
+<map id="QuantConnect.SymbolRepresentation.ParseOptionTickerOSI" name="QuantConnect.SymbolRepresentation.ParseOptionTickerOSI">
+<area shape="rect" id="node1" title="Parses the specified OSI options ticker into a Symbol object" alt="" coords="5,239,276,280"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1SecurityIdentifier.html#a0c21d7880c9fdd260883d11ea0c99a00" title="Helper overload that will search the mapfiles to resolve the first date. This implementation uses the..." alt="" coords="347,5,579,47"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1SecurityIdentifier.html#ad50a891c97cb0c084a9e2aa43607ed66" title="Generates a new SecurityIdentifier for a future" alt="" coords="347,71,579,112"/>
+<area shape="rect" id="node4" href="$classQuantConnect_1_1SecurityIdentifier.html#ade05a8e57b041ab484cf585be8d05699" title="Generates a new SecurityIdentifier for a INDEX security" alt="" coords="347,136,579,177"/>
+<area shape="rect" id="node5" href="$classQuantConnect_1_1SecurityIdentifier.html#a58becf4433a3155807bc4959679ccca7" title="Generates a new SecurityIdentifier for an option" alt="" coords="347,201,579,243"/>
+<area shape="rect" id="node6" href="$classQuantConnect_1_1Messages_1_1SymbolRepresentation.html#a8d380b10192958237185a7fa94eb3d43" title="Returns a string message saying the given ticker is not in the expected OSI format" alt="" coords="345,267,581,323"/>
+<area shape="rect" id="node7" href="$classQuantConnect_1_1Securities_1_1Option_1_1OptionSymbol.html#a8cce1d52c1926fdaafbe5aa2e1ee4d29" title="Maps the option ticker to it&#39;s underlying" alt="" coords="324,348,603,389"/>
+<area shape="rect" id="node10" href="$classQuantConnect_1_1SymbolRepresentation.html#a97704117def1a70989e5de3619c933e2" title="Function returns underlying name, expiration year, expiration month, expiration day for the future co..." alt="" coords="328,413,599,455"/>
+<area shape="rect" id="node11" href="$classQuantConnect_1_1SymbolRepresentation.html#a595675935788d53a5fa4130cc076615a" title="Tries to decompose the specified OSI options ticker into its components" alt="" coords="328,479,599,520"/>
+<area shape="rect" id="node8" href="$classQuantConnect_1_1Securities_1_1Future_1_1FuturesOptionsSymbolMappings.html#a739feea1e5e726c78e75fd6c58fa2d5e" title="Maps a futures options ticker to its underlying future&#39;s ticker" alt="" coords="651,294,932,350"/>
+<area shape="rect" id="node9" href="$classQuantConnect_1_1Securities_1_1IndexOption_1_1IndexOptionSymbol.html#ac516ce6e5976b125793890b240532f0a" title="Maps an index option ticker to its underlying index ticker" alt="" coords="673,374,910,430"/>
+<area shape="rect" id="node12" href="$classQuantConnect_1_1Parse.html#aac0a89458d90280d2b3b04afa9e197a2" title="Parses the provided value as a decimal using CultureInfo.InvariantCulture" alt="" coords="686,486,897,513"/>
+</map>

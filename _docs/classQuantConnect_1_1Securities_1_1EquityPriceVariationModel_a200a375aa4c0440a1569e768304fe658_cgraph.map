@@ -1,0 +1,4 @@
+<map id="QuantConnect.Securities.EquityPriceVariationModel.GetMinimumPriceVariation" name="QuantConnect.Securities.EquityPriceVariationModel.GetMinimumPriceVariation">
+<area shape="rect" id="node1" title="Get the minimum price variation from a security" alt="" coords="5,5,225,61"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Messages_1_1EquityPriceVariationModel.html#a2add662c4ba3a692514b4b6c7aefe263" title="Returns a string message saying the type of the given security was invalid" alt="" coords="273,13,556,54"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="QuantConnect.Interfaces.IBrokerageCashSynchronizer.PerformCashSync" name="QuantConnect.Interfaces.IBrokerageCashSynchronizer.PerformCashSync">
+<area shape="rect" id="node1" title="Synchronizes the cashbook with the brokerage account" alt="" coords="352,5,615,61"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Lean_1_1Engine_1_1TransactionHandlers_1_1BrokerageTransactionHandler.html#a83ff73d85287f4548bc40e7343d92173" title="Processes all synchronous events that must take place before the next time loop for the algorithm" alt="" coords="5,5,304,61"/>
+</map>

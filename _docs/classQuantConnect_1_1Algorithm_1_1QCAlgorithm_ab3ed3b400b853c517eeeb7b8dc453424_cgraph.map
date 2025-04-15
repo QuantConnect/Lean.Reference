@@ -1,0 +1,4 @@
+<map id="QuantConnect.Algorithm.QCAlgorithm.StopMarketOrder" name="QuantConnect.Algorithm.QCAlgorithm.StopMarketOrder">
+<area shape="rect" id="node1" title="Create a stop market order and return the newly created order id; or negative if the order is invalid" alt="" coords="5,5,279,47"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Algorithm_1_1QCAlgorithm.html#a411a8dbe5a53dfa489201ac899f6a331" title="Create a stop market order and return the newly created order id; or negative if the order is invalid" alt="" coords="327,5,600,47"/>
+</map>

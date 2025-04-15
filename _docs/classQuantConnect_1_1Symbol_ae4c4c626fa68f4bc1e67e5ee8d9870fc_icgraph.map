@@ -1,0 +1,6 @@
+<map id="QuantConnect.Symbol.GetOptionTypeFromUnderlying" name="QuantConnect.Symbol.GetOptionTypeFromUnderlying">
+<area shape="rect" id="node1" title="Determines the SecurityType based on the underlying Symbol&#39;s SecurityType" alt="" coords="327,71,564,112"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Algorithm_1_1QCAlgorithm.html#a3cea39b93f311bd9a9bff3231f6399c8" title="Creates and adds a new Option security to the algorithm. This method can be used to add options with ..." alt="" coords="5,5,279,47"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Symbol.html#a3b5e5fbb87c6afc36855665b85ac10ae" title="Simple method to create the canonical option symbol for any given underlying symbol" alt="" coords="35,71,249,112"/>
+<area shape="rect" id="node4" href="$classQuantConnect_1_1SecurityIdentifier.html#a82845310b39e03896ca25e0822141768" title="Generates a new SecurityIdentifier for an option" alt="" coords="26,136,258,177"/>
+</map>

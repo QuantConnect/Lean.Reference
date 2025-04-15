@@ -1,0 +1,6 @@
+<map id="QuantConnect.Securities.SecurityExchangeHours.GetNextMarketOpen" name="QuantConnect.Securities.SecurityExchangeHours.GetNextMarketOpen">
+<area shape="rect" id="node1" title="Gets the local date time corresponding to the next market open following the specified time" alt="" coords="671,45,905,101"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Securities_1_1SecurityExchangeHours.html#a7b750e8b832a93bcd107e56989a2a0d7" title="Gets the local date time corresponding to the previous market open to the specified time" alt="" coords="364,5,623,61"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1ToolBox_1_1RandomDataGenerator_1_1TickGenerator.html#a2eb293d4c6e4819a58f571c0880e3b43" title="Generates a random DateTime suitable for use as a tick&#39;s emit time. If the density provided is DataDe..." alt="" coords="370,85,617,141"/>
+<area shape="rect" id="node4" href="$classQuantConnect_1_1ToolBox_1_1RandomDataGenerator_1_1TickGenerator.html#a0b9b8cf4ffe26b9bfd7976671b9e3ddb" title="Generates and enumerates data points for current symbol" alt="" coords="5,93,316,134"/>
+</map>

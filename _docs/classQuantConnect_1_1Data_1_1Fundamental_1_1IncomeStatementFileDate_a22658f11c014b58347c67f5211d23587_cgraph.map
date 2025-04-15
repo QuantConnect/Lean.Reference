@@ -1,0 +1,4 @@
+<map id="QuantConnect.Data.Fundamental.IncomeStatementFileDate.GetPeriodValues" name="QuantConnect.Data.Fundamental.IncomeStatementFileDate.GetPeriodValues">
+<area shape="rect" id="node1" title="Gets a dictionary of period names and values for the field" alt="" coords="5,5,265,61"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Data_1_1UniverseSelection_1_1BaseFundamentalDataProvider.html#a034fa190537c61e409d68b8cc081b8f4" title="True if the given value is none" alt="" coords="313,5,604,61"/>
+</map>

@@ -1,0 +1,8 @@
+<map id="QuantConnect.Securities.SecurityCache.ProcessDataPoint" name="QuantConnect.Securities.SecurityCache.ProcessDataPoint">
+<area shape="rect" id="node1" title="Will consume the given data point updating the cache state and it&#39;s properties" alt="" coords="773,39,1007,80"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Securities_1_1SecurityCache.html#a306a1a4267b478aae7ddcbea69a16dcb" title="Add a new market data point to the local security cache for the current market price...." alt="" coords="533,5,719,47"/>
+<area shape="rect" id="node5" href="$classQuantConnect_1_1Securities_1_1SecurityCache.html#a3b47c0d4e8d5ea496539ce3fe0196dea" title="Add a list of market data points to the local security cache for the current market price." alt="" coords="527,71,725,112"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Securities_1_1Security.html#adaeacf247e436705df3ce4a3244ee073" title="Update any security properties based on the latest market data and time" alt="" coords="292,5,479,47"/>
+<area shape="rect" id="node4" href="$classQuantConnect_1_1Securities_1_1FuncSecuritySeeder.html#afca3381afc2708e86842ccb94918046d" title="Seed the security" alt="" coords="5,5,244,47"/>
+<area shape="rect" id="node6" href="$classQuantConnect_1_1Securities_1_1Security.html#a19ba1fec9b05070b151505158dfc5115" title="Updates all of the security properties, such as price/OHLCV/bid/ask based on the data provided...." alt="" coords="292,71,479,112"/>
+</map>

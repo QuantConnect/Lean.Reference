@@ -1,0 +1,5 @@
+<map id="QuantConnect.Python.MarginInterestRateModelPythonWrapper" name="QuantConnect.Python.MarginInterestRateModelPythonWrapper">
+<area shape="rect" id="node1" title="Wraps a PyObject object that represents a security&#39;s margin interest rate model" alt="" coords="101,95,344,136"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Python_1_1BasePythonWrapper.html" title=" " alt="" coords="5,5,216,47"/>
+<area shape="rect" id="node3" href="$interfaceQuantConnect_1_1Securities_1_1IMarginInterestRateModel.html" title="The responsability of this model is to apply margin interest rate cash flows to the portfolio" alt="" coords="241,13,431,39"/>
+</map>

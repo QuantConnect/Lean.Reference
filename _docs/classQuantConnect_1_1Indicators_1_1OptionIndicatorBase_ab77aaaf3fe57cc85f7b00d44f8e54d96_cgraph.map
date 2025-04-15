@@ -1,0 +1,4 @@
+<map id="QuantConnect.Indicators.OptionIndicatorBase.OptionIndicatorBase" name="QuantConnect.Indicators.OptionIndicatorBase.OptionIndicatorBase">
+<area shape="rect" id="node1" title="Initializes a new instance of the OptionIndicatorBase class" alt="" coords="5,5,296,47"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Indicators_1_1OptionIndicatorBase.html#ae4790451f49872719cd8361a78c338fd" title="Gets the option pricing model based on the option style, if not specified" alt="" coords="344,5,608,47"/>
+</map>

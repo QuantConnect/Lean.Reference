@@ -1,0 +1,4 @@
+<map id="QuantConnect.Securities.SecurityPortfolioManager.TryGetValue" name="QuantConnect.Securities.SecurityPortfolioManager.TryGetValue">
+<area shape="rect" id="node1" title="Attempt to get the value of the securities holding class if this symbol exists." alt="" coords="5,5,215,61"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Securities_1_1SecurityManager.html#af3ad97e370ceec706ac1afe70f7fbb42" title="Try and get this security object with matching symbol and return true on success." alt="" coords="263,13,476,54"/>
+</map>

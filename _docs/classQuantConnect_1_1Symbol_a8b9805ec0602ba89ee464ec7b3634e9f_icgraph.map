@@ -1,0 +1,7 @@
+<map id="QuantConnect.Symbol.HasCanonical" name="QuantConnect.Symbol.HasCanonical">
+<area shape="rect" id="node1" title="Determines whether the symbol has a canonical representation" alt="" coords="320,140,580,167"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Lean_1_1Engine_1_1DataFeeds_1_1Enumerators_1_1LiveDelistingEventProvider.html#a1a0ce3bb445db368355bfde0cc95cae2" title="Check for delistings" alt="" coords="5,5,272,61"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Lean_1_1Engine_1_1DataFeeds_1_1Enumerators_1_1LiveMappingEventProvider.html#a474ee205f82641cd2c62b1b40fcac16f" title="Check for new mappings" alt="" coords="6,85,271,141"/>
+<area shape="rect" id="node4" href="$classQuantConnect_1_1Lean_1_1Engine_1_1DataFeeds_1_1Enumerators_1_1LiveSplitEventProvider.html#a4fea8416ece3268b8e5a991e66ae47bf" title="Check for dividends and returns them" alt="" coords="19,165,258,221"/>
+<area shape="rect" id="node5" href="$classQuantConnect_1_1Lean_1_1Engine_1_1DataFeeds_1_1Enumerators_1_1LiveDividendEventProvider.html#a5841f67d571faf4a369f46af22a78c8c" title="Check for dividends and returns them" alt="" coords="5,245,272,301"/>
+</map>

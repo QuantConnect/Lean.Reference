@@ -1,0 +1,6 @@
+<map id="QuantConnect.Algorithm.Framework.Selection.EmaCrossUniverseSelectionModel" name="QuantConnect.Algorithm.Framework.Selection.EmaCrossUniverseSelectionModel">
+<area shape="rect" id="node1" title="Provides an implementation of FundamentalUniverseSelectionModel that subscribes to symbols with the l..." alt="" coords="5,244,315,285"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Algorithm_1_1Framework_1_1Selection_1_1FundamentalUniverseSelectionModel.html" title="Provides a base class for defining equity coarse/fine fundamental selection models" alt="" coords="47,155,273,196"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Algorithm_1_1Framework_1_1Selection_1_1UniverseSelectionModel.html" title="Provides a base class for universe selection models." alt="" coords="70,80,250,107"/>
+<area shape="rect" id="node4" href="$interfaceQuantConnect_1_1Algorithm_1_1Framework_1_1Selection_1_1IUniverseSelectionModel.html" title="Algorithm framework model that defines the universes to be used by an algorithm" alt="" coords="68,5,252,32"/>
+</map>

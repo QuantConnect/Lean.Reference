@@ -1,0 +1,4 @@
+<map id="QuantConnect.Lean.Engine.DataFeeds.Enumerators.Factories.CorporateEventEnumeratorFactory.CreateEnumerators" name="QuantConnect.Lean.Engine.DataFeeds.Enumerators.Factories.CorporateEventEnumeratorFactory.CreateEnumerators">
+<area shape="rect" id="node1" title="Creates a new AuxiliaryDataEnumerator that will hold the corporate event providers" alt="" coords="388,5,679,76"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Lean_1_1Engine_1_1DataFeeds_1_1Enumerators_1_1Factories_1_1SubscriptionData4a568ee5c9f97375f86b95c1bf15dad3.html#a7562f2a68eac96d5c3d28bc19706c6ff" title="Creates a SubscriptionDataReader to read the specified request" alt="" coords="5,5,340,76"/>
+</map>

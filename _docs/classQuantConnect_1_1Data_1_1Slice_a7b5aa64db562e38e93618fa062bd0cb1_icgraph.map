@@ -1,0 +1,4 @@
+<map id="QuantConnect.Data.Slice.Get&lt; T &gt;" name="QuantConnect.Data.Slice.Get&lt; T &gt;">
+<area shape="rect" id="node1" title="Gets the DataDictionary&lt;T&gt; for all data of the specified type" alt="" coords="241,5,429,47"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Data_1_1Slice.html#af4063c6c1341c1e5360733cfa9bd512b" title="Gets the data of the specified symbol and type." alt="" coords="5,5,193,47"/>
+</map>

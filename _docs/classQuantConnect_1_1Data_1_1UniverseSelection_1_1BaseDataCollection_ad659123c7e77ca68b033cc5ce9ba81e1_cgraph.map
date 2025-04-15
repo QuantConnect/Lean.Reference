@@ -1,0 +1,4 @@
+<map id="QuantConnect.Data.UniverseSelection.BaseDataCollection.Clone" name="QuantConnect.Data.UniverseSelection.BaseDataCollection.Clone">
+<area shape="rect" id="node1" title="Return a new instance clone of this object, used in fill forward" alt="" coords="5,13,260,54"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Data_1_1UniverseSelection_1_1BaseDataCollection.html#a5d425a0d9defce71ec8d0fc30917b7cf" title="Initializes a new default instance of the BaseDataCollection c;ass" alt="" coords="308,5,559,61"/>
+</map>

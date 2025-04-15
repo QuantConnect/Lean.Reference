@@ -1,0 +1,7 @@
+<map id="QuantConnect.Util.LeanData.GetDailyCalendar" name="QuantConnect.Util.LeanData.GetDailyCalendar">
+<area shape="rect" id="node1" title="Helper method to return the start time and period of a bar the given point time should be part of" alt="" coords="5,53,216,94"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Securities_1_1SecurityExchangeHours.html#a39384c1878afb5672cc8c35af28b4b6e" title="Gets the local date time corresponding to the first market open to the specified previous date" alt="" coords="264,5,495,61"/>
+<area shape="rect" id="node4" href="$classQuantConnect_1_1Securities_1_1SecurityExchangeHours.html#aa0dcf265a4e0cc5f9078c8f623258c7d" title="Gets the local date time corresponding to the last market close following the specified date" alt="" coords="264,85,495,141"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Securities_1_1SecurityExchangeHours.html#ab853277c0165a7e13660548cf0f585e4" title="Gets the local date time corresponding to the previous market open to the specified time" alt="" coords="543,5,801,61"/>
+<area shape="rect" id="node5" href="$classQuantConnect_1_1Securities_1_1SecurityExchangeHours.html#ae4d431df8172a13151fbc6dcad979492" title="Gets the local date time corresponding to the next market close following the specified time" alt="" coords="555,85,789,141"/>
+</map>

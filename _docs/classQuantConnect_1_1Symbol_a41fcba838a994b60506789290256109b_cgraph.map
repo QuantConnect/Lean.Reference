@@ -1,0 +1,11 @@
+<map id="QuantConnect.Symbol.CreateOption" name="QuantConnect.Symbol.CreateOption">
+<area shape="rect" id="node1" title="Provides a convenience method for creating an option Symbol using SecurityIdentifier." alt="" coords="5,35,220,76"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Symbol.html#a7518a1932d1babbff128f2ba9666a78b" title="Provides a convenience method for creating an option Symbol." alt="" coords="268,35,483,76"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1SecurityIdentifier.html#a0c21d7880c9fdd260883d11ea0c99a00" title="Helper overload that will search the mapfiles to resolve the first date. This implementation uses the..." alt="" coords="531,5,763,47"/>
+<area shape="rect" id="node4" href="$classQuantConnect_1_1Symbol.html#a59158f74116be3dad0ea0f3f3f134416" title="Initializes a new instance of the Symbol class" alt="" coords="537,71,757,98"/>
+<area shape="rect" id="node5" href="$classQuantConnect_1_1Symbol.html#a59b0795fa21f46c306deb5576fa03bb9" title="Centralized helper method to resolve alias for a symbol" alt="" coords="811,71,1037,98"/>
+<area shape="rect" id="node6" href="$classQuantConnect_1_1SymbolRepresentation.html#ad43ac907f6c19083821f58f21c6de017" title="Returns future symbol ticker from underlying and expiration date. Function can generate tickers of tw..." alt="" coords="1085,27,1356,68"/>
+<area shape="rect" id="node8" href="$classQuantConnect_1_1SymbolRepresentation.html#ab133044f5cf8c16e700190a2202b215e" title="Returns option symbol ticker in accordance with OSI symbology More information can be found at http:/..." alt="" coords="1085,96,1356,137"/>
+<area shape="rect" id="node7" href="$classQuantConnect_1_1Securities_1_1Future_1_1FuturesExpiryUtilityFunctions.html#a4ccb1e2f2fe40ff09785a74a02f26df1" title="Gets the number of months between the contract month and the expiry date." alt="" coords="1404,15,1759,71"/>
+<area shape="rect" id="node9" href="$classQuantConnect_1_1Messages_1_1SymbolRepresentation.html#a2c514157d8055cfa271ea3a7ca1ccde7" title="Returns a string message saying an unexpected security type was received by the given method name" alt="" coords="1453,95,1709,151"/>
+</map>

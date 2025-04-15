@@ -1,0 +1,4 @@
+<map id="QuantConnect.Securities.BuyingPowerModelExtensions.GetInitialMarginRequirement" name="QuantConnect.Securities.BuyingPowerModelExtensions.GetInitialMarginRequirement">
+<area shape="rect" id="node1" title="Gets the margin currently allocated to the specified holding" alt="" coords="5,5,251,61"/>
+<area shape="rect" id="node2" href="$interfaceQuantConnect_1_1Securities_1_1IBuyingPowerModel.html#ae4a939584ffb7a7d468023f57dba17be" title="The margin that must be held in order to increase the position by the provided quantity" alt="" coords="299,5,513,61"/>
+</map>

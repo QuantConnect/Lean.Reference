@@ -1,0 +1,9 @@
+<map id="QuantConnect.Orders.Slippage.ISlippageModel" name="QuantConnect.Orders.Slippage.ISlippageModel">
+<area shape="rect" id="node1" title="Represents a model that simulates market order slippage" alt="" coords="5,169,231,211"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Orders_1_1Slippage_1_1AlphaStreamsSlippageModel.html" title="Represents a slippage model that uses a constant percentage of slip" alt="" coords="279,5,504,47"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Orders_1_1Slippage_1_1ConstantSlippageModel.html" title="Represents a slippage model that uses a constant percentage of slip" alt="" coords="279,71,504,112"/>
+<area shape="rect" id="node4" href="$classQuantConnect_1_1Orders_1_1Slippage_1_1MarketImpactSlippageModel.html" title="Slippage model that mimic the effect brought by market impact, i.e. consume the volume listed in the ..." alt="" coords="279,136,504,177"/>
+<area shape="rect" id="node5" href="$classQuantConnect_1_1Orders_1_1Slippage_1_1NullSlippageModel.html" title="Null slippage model, which provider no slippage" alt="" coords="279,201,504,243"/>
+<area shape="rect" id="node6" href="$classQuantConnect_1_1Orders_1_1Slippage_1_1VolumeShareSlippageModel.html" title="Represents a slippage model that is calculated by multiplying the price impact constant by the square..." alt="" coords="279,267,504,308"/>
+<area shape="rect" id="node7" href="$classQuantConnect_1_1Python_1_1SlippageModelPythonWrapper.html" title="Wraps a PyObject object that represents a model that simulates market order slippage" alt="" coords="280,332,503,373"/>
+</map>

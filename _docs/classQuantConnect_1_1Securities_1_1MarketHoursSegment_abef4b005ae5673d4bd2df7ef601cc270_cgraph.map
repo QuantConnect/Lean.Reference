@@ -1,0 +1,4 @@
+<map id="QuantConnect.Securities.MarketHoursSegment.ClosedAllDay" name="QuantConnect.Securities.MarketHoursSegment.ClosedAllDay">
+<area shape="rect" id="node1" title="Gets a new market hours segment representing being open all day" alt="" coords="5,13,260,54"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Securities_1_1MarketHoursSegment.html#adff8e4c4358bab154e951a9a05714bd4" title="Initializes a new instance of the MarketHoursSegment class" alt="" coords="308,5,559,61"/>
+</map>

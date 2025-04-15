@@ -1,0 +1,4 @@
+<map id="QuantConnect.SeriesSampler.Sample" name="QuantConnect.SeriesSampler.Sample">
+<area shape="rect" id="node1" title="Samples the given series" alt="" coords="5,5,220,47"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1BaseSeries.html#a11d115d5750fb76ead9841a1242fdf3d" title="Return a new instance clone of this object" alt="" coords="268,5,463,47"/>
+</map>

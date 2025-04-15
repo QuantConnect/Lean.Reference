@@ -1,0 +1,6 @@
+<map id="QuantConnect.Securities.IDerivativeSecurity" name="QuantConnect.Securities.IDerivativeSecurity">
+<area shape="rect" id="node1" title="Defines a security as a derivative of another security" alt="" coords="5,39,192,80"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Securities_1_1Option_1_1Option.html" title="Option Security Object Implementation for Option Assets" alt="" coords="240,39,427,80"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Securities_1_1FutureOption_1_1FutureOption.html" title="Futures Options security" alt="" coords="475,5,669,47"/>
+<area shape="rect" id="node4" href="$classQuantConnect_1_1Securities_1_1IndexOption_1_1IndexOption.html" title="Index Options security" alt="" coords="479,71,665,112"/>
+</map>

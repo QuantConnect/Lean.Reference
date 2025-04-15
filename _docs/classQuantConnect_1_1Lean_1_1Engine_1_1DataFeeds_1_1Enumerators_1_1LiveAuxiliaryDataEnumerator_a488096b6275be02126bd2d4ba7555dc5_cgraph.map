@@ -1,0 +1,8 @@
+<map id="QuantConnect.Lean.Engine.DataFeeds.Enumerators.LiveAuxiliaryDataEnumerator.MoveNext" name="QuantConnect.Lean.Engine.DataFeeds.Enumerators.LiveAuxiliaryDataEnumerator.MoveNext">
+<area shape="rect" id="node1" title="Moves the LiveAuxiliaryDataEnumerator to the next item" alt="" coords="5,63,272,119"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Securities_1_1SecurityCache.html#a2e22a721cbad979accb38e91dd640b8e" title="Get last data packet received for this security if any else null" alt="" coords="350,5,537,47"/>
+<area shape="rect" id="node3" href="$interfaceQuantConnect_1_1ITimeProvider.html#ae51737f869d879dfbb297496e4feb036" title="Gets the current time in UTC" alt="" coords="337,71,549,112"/>
+<area shape="rect" id="node4" href="$classQuantConnect_1_1Lean_1_1Engine_1_1DataFeeds_1_1Enumerators_1_1AuxiliaryDataEnumerator.html#ab3e08b934825ed795455cd9e1e4bd846" title="Handle a new tradable date, drives the ITradableDateEventProvider instances" alt="" coords="320,137,567,193"/>
+<area shape="rect" id="node5" href="$classQuantConnect_1_1Lean_1_1Engine_1_1DataFeeds_1_1Enumerators_1_1AuxiliaryDataEnumerator.html#a3b993c67a7eb48d17b18dfc36f6e5914" title="Initializes the underlying tradable data event providers" alt="" coords="615,137,855,193"/>
+<area shape="rect" id="node6" href="$interfaceQuantConnect_1_1Lean_1_1Engine_1_1DataFeeds_1_1Enumerators_1_1ITradableDateEventProvider.html#a78c0f016437047bf20f15acbfa45b483" title="Initializes the event provider instance" alt="" coords="903,137,1144,193"/>
+</map>

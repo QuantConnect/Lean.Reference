@@ -1,0 +1,13 @@
+<map id="QuantConnect.Lean.Engine.Initializer.GetSystemHandlers" name="QuantConnect.Lean.Engine.Initializer.GetSystemHandlers">
+<area shape="rect" id="node1" title="Get and initializes System Handler" alt="" coords="5,181,221,223"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Lean_1_1Engine_1_1LeanEngineSystemHandlers.html#ab6dc3eec10dc442e3b625b8282cec7be" title="Creates a new instance of the LeanEngineSystemHandlers class from the specified composer using type n..." alt="" coords="269,144,597,185"/>
+<area shape="rect" id="node9" href="$classQuantConnect_1_1Lean_1_1Engine_1_1LeanEngineSystemHandlers.html#aeec8d5663f22422a0c85f80d2b1bc685" title="Initializes the Api, Messaging, and JobQueue components" alt="" coords="301,217,565,259"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Configuration_1_1Config.html#aaabf1286e33a675b2e116f3289981839" title="Get the matching config setting from the file searching for this key." alt="" coords="682,71,891,112"/>
+<area shape="rect" id="node8" href="$classQuantConnect_1_1Lean_1_1Engine_1_1LeanEngineSystemHandlers.html#a20a504006a941162d9b27ae61db6cdb1" title="Initializes a new instance of the LeanEngineSystemHandlers class with the specified handles" alt="" coords="645,137,928,193"/>
+<area shape="rect" id="node4" href="$classQuantConnect_1_1Configuration_1_1Config.html#a1504ca19b3759d008b090375ddf4ad10" title="Gets the currently selected environment. If sub&#45;environments are defined, they&#39;ll be returned as {env..." alt="" coords="976,5,1185,47"/>
+<area shape="rect" id="node5" href="$classQuantConnect_1_1Configuration_1_1Config.html#a9ed01bc116e8181a7557f3e668f34691" title="Gets the underlying JToken for the specified key" alt="" coords="976,71,1185,112"/>
+<area shape="rect" id="node6" href="$classQuantConnect_1_1Logging_1_1Log.html#a4e55477fbc790846b74550a57198cea9" title="Log trace" alt="" coords="981,136,1181,177"/>
+<area shape="rect" id="node7" href="$interfaceQuantConnect_1_1Logging_1_1ILogHandler.html#a3fb71a33ac66129240b63f12b6fcda3b" title="Write debug message to log" alt="" coords="1233,136,1433,177"/>
+<area shape="rect" id="node10" href="$interfaceQuantConnect_1_1Interfaces_1_1IJobQueueHandler.html#ab9aa1d09e0f00f4a7b1e8c886a5a2c4a" title="Initialize the internal state" alt="" coords="687,217,886,259"/>
+<area shape="rect" id="node11" href="$interfaceQuantConnect_1_1Interfaces_1_1IMessagingHandler.html#a7c0cef35d1c7867687097e2987c47640" title="Initialize the Messaging System Plugin." alt="" coords="683,283,890,324"/>
+</map>

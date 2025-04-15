@@ -1,0 +1,5 @@
+<map id="QuantConnect.Indicators.LinearWeightedMovingAverage" name="QuantConnect.Indicators.LinearWeightedMovingAverage">
+<area shape="rect" id="node1" title="Represents the traditional Weighted Moving Average indicator. The weight are linearly distributed acc..." alt="" coords="116,95,340,136"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Indicators_1_1WindowIndicator.html" title=" " alt="" coords="5,5,208,47"/>
+<area shape="rect" id="node3" href="$interfaceQuantConnect_1_1Indicators_1_1IIndicatorWarmUpPeriodProvider.html" title="Represents an indicator with a warm up period provider." alt="" coords="232,13,467,39"/>
+</map>

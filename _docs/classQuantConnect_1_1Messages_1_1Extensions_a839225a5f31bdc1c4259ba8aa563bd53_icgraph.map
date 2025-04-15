@@ -1,0 +1,5 @@
+<map id="QuantConnect.Messages.Extensions.ConvertToDelegateCannotConverPyObjectToType" name="QuantConnect.Messages.Extensions.ConvertToDelegateCannotConverPyObjectToType">
+<area shape="rect" id="node1" title="Returns a string message saying the given method cannot be used to convert a PyObject into the given ..." alt="" coords="256,39,596,80"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Extensions.html#a5737ea48d811cc3665a1bf061b573a4d" title="Convert a PyObject into a managed object" alt="" coords="10,5,203,47"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Extensions.html#a366a1e32540c66f0a95ae876ed53f8df" title="Tries to convert a PyObject into a managed object" alt="" coords="5,71,208,112"/>
+</map>

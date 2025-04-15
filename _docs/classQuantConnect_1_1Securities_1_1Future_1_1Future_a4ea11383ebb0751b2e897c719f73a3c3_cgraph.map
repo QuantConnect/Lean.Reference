@@ -1,0 +1,4 @@
+<map id="QuantConnect.Securities.Future.Future.SetLocalTimeKeeper" name="QuantConnect.Securities.Future.Future.SetLocalTimeKeeper">
+<area shape="rect" id="node1" title="Sets the LocalTimeKeeper to be used for this Security. This is the source of this instance&#39;s time." alt="" coords="5,13,251,54"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Securities_1_1Future_1_1FutureSettlementModel.html#a53afd09c25b64bcb11426ed05acd2866" title="Set the current datetime in terms of the exchange&#39;s local time zone" alt="" coords="299,5,523,61"/>
+</map>

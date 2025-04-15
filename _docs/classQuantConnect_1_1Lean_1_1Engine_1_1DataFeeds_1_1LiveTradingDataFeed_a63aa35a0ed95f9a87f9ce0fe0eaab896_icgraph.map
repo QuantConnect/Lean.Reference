@@ -1,0 +1,4 @@
+<map id="QuantConnect.Lean.Engine.DataFeeds.LiveTradingDataFeed.GetBaseDataExchange" name="QuantConnect.Lean.Engine.DataFeeds.LiveTradingDataFeed.GetBaseDataExchange">
+<area shape="rect" id="node1" title="Gets the BaseDataExchange to use" alt="" coords="288,5,523,61"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Lean_1_1Engine_1_1DataFeeds_1_1LiveTradingDataFeed.html#a8d32ebec20cb71766e6663e4aa1dd932" title="Initializes the data feed for the specified job and algorithm" alt="" coords="5,5,240,61"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="QuantConnect.Messages.RegisteredSecurityDataTypesProvider.TwoDifferentTypesDetectedForTheSameTypeName" name="QuantConnect.Messages.RegisteredSecurityDataTypesProvider.TwoDifferentTypesDetectedForTheSameTypeName">
+<area shape="rect" id="node1" title="Returns a string message saying two different types were detected trying to register the same type na..." alt="" coords="324,5,607,61"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Securities_1_1RegisteredSecurityDataTypesProvider.html#a72bf0e2c3d1b97ed5fe1a5561b252c65" title="Registers the specified type w/ the provider" alt="" coords="5,5,276,61"/>
+</map>

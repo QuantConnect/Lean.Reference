@@ -1,0 +1,7 @@
+<map id="QuantConnect.Exceptions.StackExceptionInterpreter.CreateFromAssemblies" name="QuantConnect.Exceptions.StackExceptionInterpreter.CreateFromAssemblies">
+<area shape="rect" id="node1" title="Creates a new StackExceptionInterpreter by loading implementations with default constructors from the..." alt="" coords="5,71,243,127"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Logging_1_1Log.html#ad908daef9d61532d7d60c9dcfb9a3e0c" title="Output to the console" alt="" coords="325,5,525,47"/>
+<area shape="rect" id="node4" href="$classQuantConnect_1_1Messages_1_1StackExceptionInterpreter.html#a10d960de7b95d979642f9d2f791406d3" title="Returns a message for a Loaded Exception Interpreter" alt="" coords="291,71,560,127"/>
+<area shape="rect" id="node5" href="$classQuantConnect_1_1Exceptions_1_1StackExceptionInterpreter.html#af3c1cd3b0571051db4b382a0276edf7c" title="Initializes a new instance of the StackExceptionInterpreter class" alt="" coords="310,151,541,207"/>
+<area shape="rect" id="node3" href="$interfaceQuantConnect_1_1Logging_1_1ILogHandler.html#a2c738b8e78dd5b54244bc68b969ba91d" title="Write debug message to log" alt="" coords="608,5,808,47"/>
+</map>

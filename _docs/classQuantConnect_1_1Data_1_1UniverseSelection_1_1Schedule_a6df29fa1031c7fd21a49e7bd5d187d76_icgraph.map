@@ -1,0 +1,4 @@
+<map id="QuantConnect.Data.UniverseSelection.Schedule.Clone" name="QuantConnect.Data.UniverseSelection.Schedule.Clone">
+<area shape="rect" id="node1" title="Creates a new instance holding the same schedule if any" alt="" coords="312,13,523,54"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Data_1_1UniverseSelection_1_1UniverseSettings.html#ac3df66142c7949af1d069384140932c6" title="Initializes a new instance of the UniverseSettings class" alt="" coords="5,5,264,61"/>
+</map>

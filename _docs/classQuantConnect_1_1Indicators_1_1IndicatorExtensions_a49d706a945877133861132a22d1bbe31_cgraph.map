@@ -1,0 +1,4 @@
+<map id="QuantConnect.Indicators.IndicatorExtensions.Over" name="QuantConnect.Indicators.IndicatorExtensions.Over">
+<area shape="rect" id="node1" title="Creates a new CompositeIndicator such that the result will be the ratio of the left to the right" alt="" coords="5,5,192,47"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Indicators_1_1IndicatorExtensions.html#adf59f2f54acfeee862d7b3c110368f3f" title="Creates a new CompositeIndicator such that the result will be the ratio of the left to the constant" alt="" coords="240,5,427,47"/>
+</map>

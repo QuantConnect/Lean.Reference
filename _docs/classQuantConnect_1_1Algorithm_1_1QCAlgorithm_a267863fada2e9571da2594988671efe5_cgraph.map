@@ -1,0 +1,4 @@
+<map id="QuantConnect.Algorithm.QCAlgorithm.SetHoldings" name="QuantConnect.Algorithm.QCAlgorithm.SetHoldings">
+<area shape="rect" id="node1" title="Automatically place a market order which will set the holdings to between 100% or &#45;100% of PORTFOLIO ..." alt="" coords="5,5,279,47"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Algorithm_1_1QCAlgorithm.html#abb7657d86b70dedf2174492558befed6" title="Calculate the order quantity to achieve target&#45;percent holdings." alt="" coords="327,5,600,47"/>
+</map>

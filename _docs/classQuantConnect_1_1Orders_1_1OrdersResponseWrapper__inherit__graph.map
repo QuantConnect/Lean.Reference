@@ -1,0 +1,5 @@
+<map id="QuantConnect.Orders.OrdersResponseWrapper" name="QuantConnect.Orders.OrdersResponseWrapper">
+<area shape="rect" id="node1" title="Collection container for a list of orders for a project" alt="" coords="5,155,213,196"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Api_1_1RestResponse.html" title="Base API response class for the QuantConnect API." alt="" coords="52,80,167,107"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Api_1_1StringRepresentation.html" title="Class to return the string representation of an API response class" alt="" coords="30,5,189,32"/>
+</map>

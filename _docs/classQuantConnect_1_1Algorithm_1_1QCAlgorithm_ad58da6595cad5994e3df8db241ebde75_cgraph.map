@@ -1,0 +1,4 @@
+<map id="QuantConnect.Algorithm.QCAlgorithm.Liquidate" name="QuantConnect.Algorithm.QCAlgorithm.Liquidate">
+<area shape="rect" id="node1" title="Liquidate all holdings and cancel open orders. Called at the end of day for tick&#45;strategies." alt="" coords="5,5,279,47"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Algorithm_1_1QCAlgorithm.html#a0a176aafa4bfff6cb26993422569cef3" title="Liquidate your portfolio holdings" alt="" coords="327,5,600,47"/>
+</map>

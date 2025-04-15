@@ -1,0 +1,4 @@
+<map id="QuantConnect.Messages.DefaultExerciseModel.ContractHoldingsAdjustmentFillTag" name="QuantConnect.Messages.DefaultExerciseModel.ContractHoldingsAdjustmentFillTag">
+<area shape="rect" id="node1" title="Returns a string message containing basic information such as if it&#39;s an assignment or an exercise,..." alt="" coords="280,5,587,61"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Orders_1_1OptionExercise_1_1DefaultExerciseModel.html#a11a78c1e45dcb0503484d19cd29abaea" title="Default option exercise model for the basic equity/index option security class." alt="" coords="5,5,232,61"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="QuantConnect.Securities.Option.OptionStrategies.BearCallLadder" name="QuantConnect.Securities.Option.OptionStrategies.BearCallLadder">
+<area shape="rect" id="node1" title="Method creates new Bear Call Ladder strategy, that consists of three calls with the same expiration b..." alt="" coords="260,5,472,61"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Securities_1_1Option_1_1OptionStrategies.html#afc291d4c3ba70a47b1b6b20268b2e3d3" title="Method creates new Bull Call Ladder strategy, that consists of three calls with the same expiration b..." alt="" coords="5,5,212,61"/>
+</map>

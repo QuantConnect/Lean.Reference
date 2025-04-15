@@ -1,0 +1,5 @@
+<map id="QuantConnect.Indicators.Variance.Reset" name="QuantConnect.Indicators.Variance.Reset">
+<area shape="rect" id="node1" title="Resets this indicator to its initial state" alt="" coords="481,5,668,47"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Indicators_1_1BollingerBands.html#a2b098acc1adc64abbdaef7585b8c83ca" title="Resets this indicator and all sub&#45;indicators (StandardDeviation, LowerBand, MiddleBand,..." alt="" coords="247,5,433,47"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Indicators_1_1SqueezeMomentum.html#ad0fc258e81ac153c80db7fa401384630" title="Resets the state of the indicator, including all sub&#45;indicators." alt="" coords="5,5,199,47"/>
+</map>

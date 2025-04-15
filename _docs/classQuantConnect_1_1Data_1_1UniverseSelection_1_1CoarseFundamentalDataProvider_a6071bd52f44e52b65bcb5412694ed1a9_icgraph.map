@@ -1,0 +1,4 @@
+<map id="QuantConnect.Data.UniverseSelection.CoarseFundamentalDataProvider.Read" name="QuantConnect.Data.UniverseSelection.CoarseFundamentalDataProvider.Read">
+<area shape="rect" id="node1" title="Reads the given line and returns a CoarseFundamentalSource with the information within it" alt="" coords="300,5,547,61"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Data_1_1UniverseSelection_1_1CoarseFundamentalDataProvider.html#a10da7f47da92820dc783dd24b2de9392" title="Will fetch the requested fundamental information for the requested time and symbol" alt="" coords="5,5,252,61"/>
+</map>

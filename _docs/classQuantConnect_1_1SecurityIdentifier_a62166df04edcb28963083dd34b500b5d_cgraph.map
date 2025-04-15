@@ -1,0 +1,4 @@
+<map id="QuantConnect.SecurityIdentifier.Ticker" name="QuantConnect.SecurityIdentifier.Ticker">
+<area shape="rect" id="node1" title="For the given symbol will resolve the ticker it used at the requested date" alt="" coords="5,5,237,47"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Data_1_1Auxiliary_1_1AuxiliaryDataKey.html#a581149f0149fb793872935e0d46f0eed" title="Helper method to create a new instance from a Symbol" alt="" coords="285,5,499,47"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="QuantConnect.Algorithm.Framework.Alphas.PearsonCorrelationPairsTradingAlphaModel.OnSecuritiesChanged" name="QuantConnect.Algorithm.Framework.Alphas.PearsonCorrelationPairsTradingAlphaModel.OnSecuritiesChanged">
+<area shape="rect" id="node1" title="Event fired each time the we add/remove securities from the data feed" alt="" coords="5,63,277,119"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Algorithm_1_1QCAlgorithm.html#a16bd52d937ab647c889e8d5f6577f744" title="Send a debug message to the web console:" alt="" coords="338,5,611,47"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Algorithm_1_1QCAlgorithm.html#a446a10e68319fdc3c0b2ed85d80f55f8" title="Get the history for all configured securities over the requested span. This will use the resolution a..." alt="" coords="338,71,611,112"/>
+<area shape="rect" id="node4" href="$classQuantConnect_1_1Algorithm_1_1Framework_1_1NotifiedSecurityChanges.html#a6b6766b327278d4264e6305cad32d189" title="Adds and removes the security changes to/from the collection" alt="" coords="325,136,624,177"/>
+<area shape="rect" id="node5" href="$classQuantConnect_1_1Algorithm_1_1Framework_1_1NotifiedSecurityChanges.html#a6f57a510560088d88b7b153bfca9f464" title="Invokes the provided add &#160;and remove &#160;functions for each" alt="" coords="672,136,935,177"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="DownloaderDataProviderArgumentParser.ParseArguments" name="DownloaderDataProviderArgumentParser.ParseArguments">
+<area shape="rect" id="node1" title="Parses the command&#45;line arguments and returns a dictionary containing parsed values." alt="" coords="5,5,255,47"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Configuration_1_1ApplicationParser.html#a38efbb8e19a1a7dcc289a47e11981030" title="This function will parse args based on options and will show application name, version,..." alt="" coords="303,5,512,47"/>
+</map>

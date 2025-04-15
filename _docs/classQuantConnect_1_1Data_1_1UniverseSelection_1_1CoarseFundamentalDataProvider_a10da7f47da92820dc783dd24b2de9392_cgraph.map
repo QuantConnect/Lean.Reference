@@ -1,0 +1,7 @@
+<map id="QuantConnect.Data.UniverseSelection.CoarseFundamentalDataProvider.Get&lt; T &gt;" name="QuantConnect.Data.UniverseSelection.CoarseFundamentalDataProvider.Get&lt; T &gt;">
+<area shape="rect" id="node1" title="Will fetch the requested fundamental information for the requested time and symbol" alt="" coords="5,45,252,101"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Data_1_1UniverseSelection_1_1BaseFundamentalDataProvider.html#a290bd9d7743c1cb4e4a399cb20f05db6" title="Get&#39;s the default value for the given T type" alt="" coords="300,5,591,61"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Data_1_1UniverseSelection_1_1CoarseFundamentalDataProvider.html#a6071bd52f44e52b65bcb5412694ed1a9" title="Reads the given line and returns a CoarseFundamentalSource with the information within it" alt="" coords="322,85,569,141"/>
+<area shape="rect" id="node4" href="$classQuantConnect_1_1SecurityIdentifier.html#a89ccb2161613f17d18ca3dc1e9eb3872" title="Parses the specified string into a SecurityIdentifier The string must be a 40 digit number...." alt="" coords="639,93,871,134"/>
+<area shape="rect" id="node5" href="$classQuantConnect_1_1SecurityIdentifier.html#a59bd74be4ec55a0e4631af9e10f65d7c" title="Attempts to parse the specified &#160;as a SecurityIdentifier." alt="" coords="919,93,1151,134"/>
+</map>

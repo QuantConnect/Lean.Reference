@@ -1,0 +1,4 @@
+<map id="QuantConnect.Data.Fundamental.FinancialStatementsPeriodEndingDate" name="QuantConnect.Data.Fundamental.FinancialStatementsPeriodEndingDate">
+<area shape="rect" id="node1" title="The exact date that is given in the financial statements for each quarter&#39;s end." alt="" coords="5,80,276,121"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Data_1_1Fundamental_1_1MultiPeriodField.html" title=" " alt="" coords="30,5,251,32"/>
+</map>

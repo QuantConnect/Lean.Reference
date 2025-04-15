@@ -1,0 +1,4 @@
+var interfaceQuantConnect_1_1Securities_1_1Option_1_1StrategyMatcher_1_1IOptionStrategyMatchObjectiveFunction =
+[
+    [ "ComputeScore", "interfaceQuantConnect_1_1Securities_1_1Option_1_1StrategyMatcher_1_1IOptionStrategyMatchObjectiveFunction.html#adf9508a566d6828eef1fe22a02d121da", null ]
+];

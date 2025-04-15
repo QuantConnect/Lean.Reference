@@ -1,0 +1,6 @@
+<map id="QuantConnect.Messages.DefaultBrokerageModel.InvalidSecurityTypeForLeverage" name="QuantConnect.Messages.DefaultBrokerageModel.InvalidSecurityTypeForLeverage">
+<area shape="rect" id="node1" title="Returns a string message saying the type of the given security is invalid" alt="" coords="323,63,581,119"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Brokerages_1_1BitfinexBrokerageModel.html#a5eb4c2e6a72bbc0053e89a2875f6f1a0" title="Bitfinex global leverage rule" alt="" coords="7,5,273,47"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Brokerages_1_1ZerodhaBrokerageModel.html#a188de666801674951ba24b5275293fa8" title="Zerodha global leverage rule" alt="" coords="5,71,275,112"/>
+<area shape="rect" id="node4" href="$classQuantConnect_1_1Brokerages_1_1SamcoBrokerageModel.html#a041af655688cc17ef8a89d483a5d8c47" title="Samco global leverage rule" alt="" coords="11,136,269,177"/>
+</map>

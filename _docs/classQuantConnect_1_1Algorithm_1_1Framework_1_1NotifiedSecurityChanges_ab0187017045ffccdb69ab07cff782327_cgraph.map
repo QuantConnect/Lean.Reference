@@ -1,0 +1,4 @@
+<map id="QuantConnect.Algorithm.Framework.NotifiedSecurityChanges.UpdateCollection&lt; TValue &gt;" name="QuantConnect.Algorithm.Framework.NotifiedSecurityChanges.UpdateCollection&lt; TValue &gt;">
+<area shape="rect" id="node1" title="Adds and removes the security changes to/from the collection" alt="" coords="5,5,304,61"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Algorithm_1_1Framework_1_1NotifiedSecurityChanges.html#a6f57a510560088d88b7b153bfca9f464" title="Invokes the provided add &#160;and remove &#160;functions for each" alt="" coords="352,13,615,54"/>
+</map>

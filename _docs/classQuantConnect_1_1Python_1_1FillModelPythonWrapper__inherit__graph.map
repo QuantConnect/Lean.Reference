@@ -1,0 +1,5 @@
+<map id="QuantConnect.Python.FillModelPythonWrapper" name="QuantConnect.Python.FillModelPythonWrapper">
+<area shape="rect" id="node1" title="Wraps a PyObject object that represents a model that simulates order fill events" alt="" coords="5,155,192,196"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Orders_1_1Fills_1_1FillModel.html" title="Provides a base class for all fill models" alt="" coords="58,80,139,107"/>
+<area shape="rect" id="node3" href="$interfaceQuantConnect_1_1Orders_1_1Fills_1_1IFillModel.html" title="Represents a model that simulates order fill events" alt="" coords="56,5,141,32"/>
+</map>

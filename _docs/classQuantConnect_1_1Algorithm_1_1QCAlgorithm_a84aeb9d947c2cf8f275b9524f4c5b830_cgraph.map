@@ -1,0 +1,4 @@
+<map id="QuantConnect.Algorithm.QCAlgorithm.RegisterIndicator&lt; T &gt;" name="QuantConnect.Algorithm.QCAlgorithm.RegisterIndicator&lt; T &gt;">
+<area shape="rect" id="node1" title="Registers the consolidator to receive automatic updates as well as configures the indicator to receiv..." alt="" coords="5,5,279,47"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Algorithm_1_1QCAlgorithm.html#a47eae84c2f0b8e98dbc61b555b645865" title="Creates a new Theta indicator for the symbol The indicator will be automatically updated on the symbo..." alt="" coords="327,13,608,39"/>
+</map>

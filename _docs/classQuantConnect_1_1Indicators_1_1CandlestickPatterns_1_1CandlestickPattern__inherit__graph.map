@@ -1,0 +1,65 @@
+<map id="QuantConnect.Indicators.CandlestickPatterns.CandlestickPattern" name="QuantConnect.Indicators.CandlestickPatterns.CandlestickPattern">
+<area shape="rect" id="node1" title="Abstract base class for a candlestick pattern indicator" alt="" coords="267,2054,497,2110"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Indicators_1_1CandlestickPatterns_1_1AbandonedBaby.html" title="Abandoned Baby candlestick pattern" alt="" coords="551,5,812,47"/>
+<area shape="rect" id="node4" href="$classQuantConnect_1_1Indicators_1_1CandlestickPatterns_1_1AdvanceBlock.html" title="Advance Block candlestick pattern" alt="" coords="558,71,805,112"/>
+<area shape="rect" id="node5" href="$classQuantConnect_1_1Indicators_1_1CandlestickPatterns_1_1BeltHold.html" title="Belt&#45;hold candlestick pattern indicator" alt="" coords="576,136,787,177"/>
+<area shape="rect" id="node6" href="$classQuantConnect_1_1Indicators_1_1CandlestickPatterns_1_1Breakaway.html" title="Breakaway candlestick pattern indicator" alt="" coords="568,201,795,243"/>
+<area shape="rect" id="node7" href="$classQuantConnect_1_1Indicators_1_1CandlestickPatterns_1_1ClosingMarubozu.html" title="Closing Marubozu candlestick pattern indicator" alt="" coords="548,267,815,308"/>
+<area shape="rect" id="node8" href="$classQuantConnect_1_1Indicators_1_1CandlestickPatterns_1_1ConcealedBabySwallow.html" title="Concealed Baby Swallow candlestick pattern" alt="" coords="570,333,793,389"/>
+<area shape="rect" id="node9" href="$classQuantConnect_1_1Indicators_1_1CandlestickPatterns_1_1Counterattack.html" title="Counterattack candlestick pattern" alt="" coords="558,413,805,455"/>
+<area shape="rect" id="node10" href="$classQuantConnect_1_1Indicators_1_1CandlestickPatterns_1_1DarkCloudCover.html" title="Dark Cloud Cover candlestick pattern" alt="" coords="551,479,812,520"/>
+<area shape="rect" id="node11" href="$classQuantConnect_1_1Indicators_1_1CandlestickPatterns_1_1Doji.html" title="Doji candlestick pattern indicator" alt="" coords="588,544,775,585"/>
+<area shape="rect" id="node12" href="$classQuantConnect_1_1Indicators_1_1CandlestickPatterns_1_1DojiStar.html" title="Doji Star candlestick pattern indicator" alt="" coords="578,609,785,651"/>
+<area shape="rect" id="node13" href="$classQuantConnect_1_1Indicators_1_1CandlestickPatterns_1_1DragonflyDoji.html" title="Dragonfly Doji candlestick pattern indicator" alt="" coords="559,675,803,716"/>
+<area shape="rect" id="node14" href="$classQuantConnect_1_1Indicators_1_1CandlestickPatterns_1_1Engulfing.html" title="Engulfing candlestick pattern" alt="" coords="574,740,789,781"/>
+<area shape="rect" id="node15" href="$classQuantConnect_1_1Indicators_1_1CandlestickPatterns_1_1EveningDojiStar.html" title="Evening Doji Star candlestick pattern" alt="" coords="552,805,811,847"/>
+<area shape="rect" id="node16" href="$classQuantConnect_1_1Indicators_1_1CandlestickPatterns_1_1EveningStar.html" title="Evening Star candlestick pattern" alt="" coords="565,871,798,912"/>
+<area shape="rect" id="node17" href="$classQuantConnect_1_1Indicators_1_1CandlestickPatterns_1_1GapSideBySideWhite.html" title="Up/Down&#45;gap side&#45;by&#45;side white lines candlestick pattern" alt="" coords="568,937,795,993"/>
+<area shape="rect" id="node18" href="$classQuantConnect_1_1Indicators_1_1CandlestickPatterns_1_1GravestoneDoji.html" title="Gravestone Doji candlestick pattern indicator" alt="" coords="553,1017,809,1059"/>
+<area shape="rect" id="node19" href="$classQuantConnect_1_1Indicators_1_1CandlestickPatterns_1_1Hammer.html" title="Hammer candlestick pattern indicator" alt="" coords="575,1083,787,1124"/>
+<area shape="rect" id="node20" href="$classQuantConnect_1_1Indicators_1_1CandlestickPatterns_1_1HangingMan.html" title="Hanging Man candlestick pattern indicator" alt="" coords="563,1148,800,1189"/>
+<area shape="rect" id="node21" href="$classQuantConnect_1_1Indicators_1_1CandlestickPatterns_1_1Harami.html" title="Harami candlestick pattern indicator" alt="" coords="580,1213,783,1255"/>
+<area shape="rect" id="node22" href="$classQuantConnect_1_1Indicators_1_1CandlestickPatterns_1_1HaramiCross.html" title="Harami Cross candlestick pattern indicator" alt="" coords="562,1279,801,1320"/>
+<area shape="rect" id="node23" href="$classQuantConnect_1_1Indicators_1_1CandlestickPatterns_1_1HighWaveCandle.html" title="High&#45;Wave Candle candlestick pattern indicator" alt="" coords="571,1345,792,1401"/>
+<area shape="rect" id="node24" href="$classQuantConnect_1_1Indicators_1_1CandlestickPatterns_1_1Hikkake.html" title="Hikkake candlestick pattern" alt="" coords="578,1425,785,1467"/>
+<area shape="rect" id="node25" href="$classQuantConnect_1_1Indicators_1_1CandlestickPatterns_1_1HikkakeModified.html" title="Hikkake Modified candlestick pattern" alt="" coords="550,1491,813,1532"/>
+<area shape="rect" id="node26" href="$classQuantConnect_1_1Indicators_1_1CandlestickPatterns_1_1HomingPigeon.html" title="Homing Pigeon candlestick pattern indicator" alt="" coords="556,1556,807,1597"/>
+<area shape="rect" id="node27" href="$classQuantConnect_1_1Indicators_1_1CandlestickPatterns_1_1IdenticalThreeCrows.html" title="Identical Three Crows candlestick pattern" alt="" coords="576,1622,787,1678"/>
+<area shape="rect" id="node28" href="$classQuantConnect_1_1Indicators_1_1CandlestickPatterns_1_1InNeck.html" title="In&#45;Neck candlestick pattern indicator" alt="" coords="581,1703,781,1744"/>
+<area shape="rect" id="node29" href="$classQuantConnect_1_1Indicators_1_1CandlestickPatterns_1_1InvertedHammer.html" title="Inverted Hammer candlestick pattern indicator" alt="" coords="577,1769,786,1825"/>
+<area shape="rect" id="node30" href="$classQuantConnect_1_1Indicators_1_1CandlestickPatterns_1_1Kicking.html" title="Kicking candlestick pattern" alt="" coords="580,1849,783,1891"/>
+<area shape="rect" id="node31" href="$classQuantConnect_1_1Indicators_1_1CandlestickPatterns_1_1KickingByLength.html" title="Kicking (bull/bear determined by the longer marubozu) candlestick pattern" alt="" coords="571,1915,791,1971"/>
+<area shape="rect" id="node32" href="$classQuantConnect_1_1Indicators_1_1CandlestickPatterns_1_1LadderBottom.html" title="Ladder Bottom candlestick pattern indicator" alt="" coords="558,1996,805,2037"/>
+<area shape="rect" id="node33" href="$classQuantConnect_1_1Indicators_1_1CandlestickPatterns_1_1LongLeggedDoji.html" title="Long Legged Doji candlestick pattern indicator" alt="" coords="552,2061,811,2103"/>
+<area shape="rect" id="node34" href="$classQuantConnect_1_1Indicators_1_1CandlestickPatterns_1_1LongLineCandle.html" title="Long Line Candle candlestick pattern indicator" alt="" coords="575,2127,788,2183"/>
+<area shape="rect" id="node35" href="$classQuantConnect_1_1Indicators_1_1CandlestickPatterns_1_1Marubozu.html" title="Marubozu candlestick pattern indicator" alt="" coords="572,2208,791,2249"/>
+<area shape="rect" id="node36" href="$classQuantConnect_1_1Indicators_1_1CandlestickPatterns_1_1MatchingLow.html" title="Matching Low candlestick pattern indicator" alt="" coords="561,2273,802,2315"/>
+<area shape="rect" id="node37" href="$classQuantConnect_1_1Indicators_1_1CandlestickPatterns_1_1MatHold.html" title="Mat Hold candlestick pattern" alt="" coords="576,2339,787,2380"/>
+<area shape="rect" id="node38" href="$classQuantConnect_1_1Indicators_1_1CandlestickPatterns_1_1MorningDojiStar.html" title="Morning Doji Star candlestick pattern" alt="" coords="551,2404,811,2445"/>
+<area shape="rect" id="node39" href="$classQuantConnect_1_1Indicators_1_1CandlestickPatterns_1_1MorningStar.html" title="Morning Star candlestick pattern" alt="" coords="564,2469,799,2511"/>
+<area shape="rect" id="node40" href="$classQuantConnect_1_1Indicators_1_1CandlestickPatterns_1_1OnNeck.html" title="On&#45;Neck candlestick pattern indicator" alt="" coords="578,2535,785,2576"/>
+<area shape="rect" id="node41" href="$classQuantConnect_1_1Indicators_1_1CandlestickPatterns_1_1Piercing.html" title="Piercing candlestick pattern" alt="" coords="578,2600,785,2641"/>
+<area shape="rect" id="node42" href="$classQuantConnect_1_1Indicators_1_1CandlestickPatterns_1_1RickshawMan.html" title="Rickshaw Man candlestick pattern" alt="" coords="559,2665,804,2707"/>
+<area shape="rect" id="node43" href="$classQuantConnect_1_1Indicators_1_1CandlestickPatterns_1_1RiseFallThreeMethods.html" title="Rising/Falling Three Methods candlestick pattern" alt="" coords="579,2731,784,2787"/>
+<area shape="rect" id="node44" href="$classQuantConnect_1_1Indicators_1_1CandlestickPatterns_1_1SeparatingLines.html" title="Separating Lines candlestick pattern indicator" alt="" coords="552,2812,811,2853"/>
+<area shape="rect" id="node45" href="$classQuantConnect_1_1Indicators_1_1CandlestickPatterns_1_1ShootingStar.html" title="Shooting Star candlestick pattern" alt="" coords="562,2877,801,2919"/>
+<area shape="rect" id="node46" href="$classQuantConnect_1_1Indicators_1_1CandlestickPatterns_1_1ShortLineCandle.html" title="Short Line Candle candlestick pattern indicator" alt="" coords="573,2943,789,2999"/>
+<area shape="rect" id="node47" href="$classQuantConnect_1_1Indicators_1_1CandlestickPatterns_1_1SpinningTop.html" title="Spinning Top candlestick pattern indicator" alt="" coords="565,3024,798,3065"/>
+<area shape="rect" id="node48" href="$classQuantConnect_1_1Indicators_1_1CandlestickPatterns_1_1StalledPattern.html" title="Stalled Pattern candlestick pattern" alt="" coords="558,3089,805,3131"/>
+<area shape="rect" id="node49" href="$classQuantConnect_1_1Indicators_1_1CandlestickPatterns_1_1StickSandwich.html" title="Stick Sandwich candlestick pattern indicator" alt="" coords="557,3155,806,3196"/>
+<area shape="rect" id="node50" href="$classQuantConnect_1_1Indicators_1_1CandlestickPatterns_1_1Takuri.html" title="Takuri (Dragonfly Doji with very long lower shadow) candlestick pattern indicator" alt="" coords="585,3220,778,3261"/>
+<area shape="rect" id="node51" href="$classQuantConnect_1_1Indicators_1_1CandlestickPatterns_1_1TasukiGap.html" title="Tasuki Gap candlestick pattern indicator" alt="" coords="570,3285,793,3327"/>
+<area shape="rect" id="node52" href="$classQuantConnect_1_1Indicators_1_1CandlestickPatterns_1_1ThreeBlackCrows.html" title="Three Black Crows candlestick pattern" alt="" coords="547,3351,815,3392"/>
+<area shape="rect" id="node53" href="$classQuantConnect_1_1Indicators_1_1CandlestickPatterns_1_1ThreeInside.html" title="Three Inside Up/Down candlestick pattern" alt="" coords="566,3416,797,3457"/>
+<area shape="rect" id="node54" href="$classQuantConnect_1_1Indicators_1_1CandlestickPatterns_1_1ThreeLineStrike.html" title="Three Line Strike candlestick pattern" alt="" coords="572,3482,791,3538"/>
+<area shape="rect" id="node55" href="$classQuantConnect_1_1Indicators_1_1CandlestickPatterns_1_1ThreeOutside.html" title="Three Outside Up/Down candlestick pattern" alt="" coords="560,3563,803,3604"/>
+<area shape="rect" id="node56" href="$classQuantConnect_1_1Indicators_1_1CandlestickPatterns_1_1ThreeStarsInSouth.html" title="Three Stars In The South candlestick pattern" alt="" coords="569,3629,794,3685"/>
+<area shape="rect" id="node57" href="$classQuantConnect_1_1Indicators_1_1CandlestickPatterns_1_1ThreeWhiteSoldiers.html" title="Three Advancing White Soldiers candlestick pattern" alt="" coords="566,3709,797,3765"/>
+<area shape="rect" id="node58" href="$classQuantConnect_1_1Indicators_1_1CandlestickPatterns_1_1Thrusting.html" title="Thrusting candlestick pattern indicator" alt="" coords="573,3789,789,3831"/>
+<area shape="rect" id="node59" href="$classQuantConnect_1_1Indicators_1_1CandlestickPatterns_1_1Tristar.html" title="Tristar candlestick pattern indicator" alt="" coords="584,3855,779,3896"/>
+<area shape="rect" id="node60" href="$classQuantConnect_1_1Indicators_1_1CandlestickPatterns_1_1TwoCrows.html" title="Two Crows candlestick pattern indicator" alt="" coords="571,3920,791,3961"/>
+<area shape="rect" id="node61" href="$classQuantConnect_1_1Indicators_1_1CandlestickPatterns_1_1UniqueThreeRiver.html" title="Unique Three River candlestick pattern" alt="" coords="545,3985,817,4027"/>
+<area shape="rect" id="node62" href="$classQuantConnect_1_1Indicators_1_1CandlestickPatterns_1_1UpDownGapThreeMethods.html" title="Up/Down Gap Three Methods candlestick pattern" alt="" coords="563,4051,799,4107"/>
+<area shape="rect" id="node63" href="$classQuantConnect_1_1Indicators_1_1CandlestickPatterns_1_1UpsideGapTwoCrows.html" title="Upside Gap Two Crows candlestick pattern" alt="" coords="568,4131,795,4187"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Indicators_1_1WindowIndicator.html" title=" " alt="" coords="5,2061,219,2103"/>
+</map>

@@ -1,0 +1,11 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" title=" " alt="" coords="5,242,84,269"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Brokerages_1_1BrokerageFactoryAttribute.html" title="Represents the brokerage factory type required to load a data queue handler" alt="" coords="144,5,339,47"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1DocumentationAttribute.html" title="Custom attribute used for documentation" alt="" coords="132,71,351,112"/>
+<area shape="rect" id="node4" href="$classQuantConnect_1_1Parameters_1_1ParameterAttribute.html" title="Specifies a field or property is a parameter that can be set from an AlgorithmNodePacket...." alt="" coords="143,136,339,177"/>
+<area shape="rect" id="node5" href="$classQuantConnect_1_1Python_1_1PandasColumnAttribute.html" title="Attribute to rename a property or field when converting an instance to a pandas DataFrame row." alt="" coords="135,201,348,243"/>
+<area shape="rect" id="node6" href="$classQuantConnect_1_1Python_1_1PandasIgnoreAttribute.html" title="Attribute to mark a property or field as ignored when converting an instance to a pandas DataFrame ro..." alt="" coords="135,267,348,308"/>
+<area shape="rect" id="node7" href="$classQuantConnect_1_1Python_1_1PandasIgnoreMembersAttribute.html" title="Attribute to indicate the pandas converter to ignore all members of the class when converting an inst..." alt="" coords="135,332,348,373"/>
+<area shape="rect" id="node8" href="$classQuantConnect_1_1Python_1_1PandasNonExpandableAttribute.html" title="Attribute to mark a class, field or property as non&#45;expandable by the pandas converter...." alt="" coords="135,397,348,439"/>
+<area shape="rect" id="node9" href="$classQuantConnect_1_1StubsIgnoreAttribute.html" title="P Custom attribute used for marking classes, methods, properties, etc. that should be ignored by the ..." alt="" coords="144,463,339,504"/>
+</map>

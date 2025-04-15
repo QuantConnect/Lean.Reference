@@ -1,0 +1,5 @@
+<map id="QuantConnect.Data.UniverseSelection.FutureUniverse.FutureUniverse" name="QuantConnect.Data.UniverseSelection.FutureUniverse.FutureUniverse">
+<area shape="rect" id="node1" title="Creates a new instance of the FutureUniverse class" alt="" coords="288,31,519,87"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Data_1_1UniverseSelection_1_1FutureUniverse.html#a45cbd0234e0e4153ccd04611682754fa" title="Creates a copy of the instance" alt="" coords="9,5,236,47"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Data_1_1UniverseSelection_1_1FutureUniverse.html#a0be98f3838e5ca2f9ae440d87aeece06" title="Reader converts each line of the data source into BaseData objects. Each data type creates its own fa..." alt="" coords="5,71,240,112"/>
+</map>

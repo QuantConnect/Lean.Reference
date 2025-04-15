@@ -1,0 +1,5 @@
+<map id="QuantConnect.Messages.SecurityPortfolioManager.TotalMarginInformation" name="QuantConnect.Messages.SecurityPortfolioManager.TotalMarginInformation">
+<area shape="rect" id="node1" title="Returns a string message saying the total margin information, this is, the total margin used as well ..." alt="" coords="613,13,903,54"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Securities_1_1SecurityPortfolioManager.html#a7eb96c8a566ea8780edbbad71794af25" title="Logs margin information for debugging" alt="" coords="352,5,565,61"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Lean_1_1Engine_1_1TransactionHandlers_1_1BrokerageTransactionHandler.html#ad7914edfb9b6e24fcbcd637e2c468cd5" title="Adds the specified order to be processed" alt="" coords="5,5,304,61"/>
+</map>

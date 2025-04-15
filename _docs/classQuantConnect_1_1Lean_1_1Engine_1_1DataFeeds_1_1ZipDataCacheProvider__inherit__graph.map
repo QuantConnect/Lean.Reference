@@ -1,0 +1,5 @@
+<map id="QuantConnect.Lean.Engine.DataFeeds.ZipDataCacheProvider" name="QuantConnect.Lean.Engine.DataFeeds.ZipDataCacheProvider">
+<area shape="rect" id="node1" title="File provider implements optimized zip archives caching facility. Cache is thread safe." alt="" coords="5,155,247,196"/>
+<area shape="rect" id="node2" href="$interfaceQuantConnect_1_1Interfaces_1_1IDataCacheProvider.html" title="Defines a cache for data" alt="" coords="51,80,201,107"/>
+<area shape="rect" id="node3" title=" " alt="" coords="77,5,175,32"/>
+</map>

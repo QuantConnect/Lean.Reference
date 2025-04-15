@@ -1,0 +1,4 @@
+<map id="QuantConnect.Extensions.OptionStyleToLower" name="QuantConnect.Extensions.OptionStyleToLower">
+<area shape="rect" id="node1" title="Converts the specified optionStyle &#160;value to its corresponding lower&#45;case string representation" alt="" coords="5,5,199,47"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Messages_1_1Extensions.html#a37e44815085255a3c70afce622df6793" title="Returns a string message saying the given OptionStyle was unexpected/unknown" alt="" coords="247,5,509,47"/>
+</map>

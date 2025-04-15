@@ -1,0 +1,4 @@
+var classQuantConnect_1_1Securities_1_1Option_1_1StrategyMatcher_1_1ConstantOptionStrategyLegReferenceValue =
+[
+    [ "Create", "classQuantConnect_1_1Securities_1_1Option_1_1StrategyMatcher_1_1ConstantOptionStrategyLegReferenceValue.html#a940bf9e687f7fa3739725a666f1c9dde", null ]
+];

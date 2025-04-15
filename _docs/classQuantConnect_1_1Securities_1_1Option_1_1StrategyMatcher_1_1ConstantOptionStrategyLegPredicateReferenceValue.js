@@ -1,0 +1,6 @@
+var classQuantConnect_1_1Securities_1_1Option_1_1StrategyMatcher_1_1ConstantOptionStrategyLegPredicateReferenceValue =
+[
+    [ "ConstantOptionStrategyLegPredicateReferenceValue", "classQuantConnect_1_1Securities_1_1Option_1_1StrategyMatcher_1_1ConstantOptionStrategyLegPredicateReferenceValue.html#a861cbba193ac470678481efb550d93ca", null ],
+    [ "Resolve", "classQuantConnect_1_1Securities_1_1Option_1_1StrategyMatcher_1_1ConstantOptionStrategyLegPredicateReferenceValue.html#a0d0493bf11d3a62b03f76220811416e8", null ],
+    [ "Target", "classQuantConnect_1_1Securities_1_1Option_1_1StrategyMatcher_1_1ConstantOptionStrategyLegPredicateReferenceValue.html#a4105e7da201d7d15d72640124fa1a088", null ]
+];

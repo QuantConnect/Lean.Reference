@@ -1,0 +1,4 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$interfaceQuantConnect_1_1IIsolatorLimitResultProvider.html" title="Provides an abstraction for managing isolator limit results. This is originally intended to be used b..." alt="" coords="5,5,209,47"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Lean_1_1Engine_1_1AlgorithmTimeLimitManager.html" title="Provides an implementation of IIsolatorLimitResultProvider that tracks the algorithm manager&#39;s time l..." alt="" coords="257,5,467,47"/>
+</map>

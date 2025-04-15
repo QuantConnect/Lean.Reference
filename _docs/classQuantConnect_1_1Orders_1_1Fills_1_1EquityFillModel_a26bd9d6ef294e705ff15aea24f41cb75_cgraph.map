@@ -1,0 +1,11 @@
+<map id="QuantConnect.Orders.Fills.EquityFillModel.LimitFill" name="QuantConnect.Orders.Fills.EquityFillModel.LimitFill">
+<area shape="rect" id="node1" title="Limit fill model implementation for Equity." alt="" coords="5,39,200,80"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Messages_1_1EquityFillModel.html#a0bd9c1a094cd9c39e104666b69821fc5" title="Returns a string message saying that the order was filled using the open price due to a favorable gap" alt="" coords="248,5,561,47"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Orders_1_1Fills_1_1FillModel.html#acc205b791cf6a99fa989502aff6b53b8" title="Determines if the exchange is open using the current time of the asset" alt="" coords="307,71,502,112"/>
+<area shape="rect" id="node4" href="$classQuantConnect_1_1Securities_1_1Security.html#ab93a58a84a4aa1b19d0972faf6c056c4" title="Get the last price update set to the security if any else null" alt="" coords="642,12,829,53"/>
+<area shape="rect" id="node5" href="$classQuantConnect_1_1Securities_1_1SecurityExchangeHours.html#af2deedeacdcb6bbe40f4874002cdbac3" title="Determines if the exchange is open at the specified local date time." alt="" coords="909,100,1135,141"/>
+<area shape="rect" id="node9" href="$classQuantConnect_1_1Securities_1_1SecurityExchange.html#a17daa159794484b17946fc540864800c" title="Determines if the exchange was open at any time between start and stop" alt="" coords="609,129,861,171"/>
+<area shape="rect" id="node6" href="$classQuantConnect_1_1Securities_1_1SecurityExchangeHours.html#a106e2dd187ab76452e14ac6a28f929aa" title="Helper to access the market hours field based on the day of week" alt="" coords="1183,67,1469,108"/>
+<area shape="rect" id="node8" href="$classQuantConnect_1_1Securities_1_1LocalMarketHours.html#a97e5d374a28d55f3ebee72c328a0810f" title="Determines if the exchange is open at the specified time" alt="" coords="1232,132,1420,173"/>
+<area shape="rect" id="node7" href="$classQuantConnect_1_1Securities_1_1LocalMarketHours.html#a1e9178f81413c7d1f032a003d74acecf" title="Gets a LocalMarketHours instance that is always closed" alt="" coords="1517,67,1748,108"/>
+</map>

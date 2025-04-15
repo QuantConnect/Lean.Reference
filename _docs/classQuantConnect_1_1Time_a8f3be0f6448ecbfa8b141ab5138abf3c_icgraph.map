@@ -1,0 +1,4 @@
+<map id="QuantConnect.Time.TimeStamp" name="QuantConnect.Time.TimeStamp">
+<area shape="rect" id="node1" title="Get the current time as a unix timestamp" alt="" coords="323,5,553,32"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Api_1_1Authentication.html#aedf44cc6fa27cb4b648e619a079f2f9d" title="Create an authenticated link for the target endpoint using the optional given payload" alt="" coords="5,5,275,32"/>
+</map>

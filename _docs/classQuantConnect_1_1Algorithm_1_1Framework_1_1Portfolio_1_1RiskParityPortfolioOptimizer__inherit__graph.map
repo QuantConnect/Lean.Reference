@@ -1,0 +1,4 @@
+<map id="QuantConnect.Algorithm.Framework.Portfolio.RiskParityPortfolioOptimizer" name="QuantConnect.Algorithm.Framework.Portfolio.RiskParityPortfolioOptimizer">
+<area shape="rect" id="node1" title="Provides an implementation of a risk parity portfolio optimizer that calculate the optimal weights wi..." alt="" coords="5,80,271,121"/>
+<area shape="rect" id="node2" href="$interfaceQuantConnect_1_1Algorithm_1_1Framework_1_1Portfolio_1_1IPortfolioOptimizer.html" title="Interface for portfolio optimization algorithms" alt="" coords="65,5,211,32"/>
+</map>

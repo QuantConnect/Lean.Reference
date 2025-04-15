@@ -1,0 +1,4 @@
+<map id="QuantConnect.Interfaces.IBrokerageFactory.CreateBrokerage" name="QuantConnect.Interfaces.IBrokerageFactory.CreateBrokerage">
+<area shape="rect" id="node1" title="Creates a new IBrokerage instance" alt="" coords="316,13,567,54"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Lean_1_1Engine_1_1Setup_1_1BrokerageSetupHandler.html#a529b1c1c922c29e088c66848847bbeda" title="Creates the brokerage as specified by the job packet" alt="" coords="5,5,268,61"/>
+</map>

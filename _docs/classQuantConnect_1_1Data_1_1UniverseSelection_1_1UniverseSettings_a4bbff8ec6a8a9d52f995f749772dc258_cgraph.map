@@ -1,0 +1,4 @@
+<map id="QuantConnect.Data.UniverseSelection.UniverseSettings.UniverseSettings" name="QuantConnect.Data.UniverseSelection.UniverseSettings.UniverseSettings">
+<area shape="rect" id="node1" title="Initializes a new instance of the UniverseSettings class" alt="" coords="5,5,264,61"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Data_1_1UniverseSelection_1_1Schedule.html#afd25e7b171d49703bb220bc38c6827a6" title="Set a IDateRule for this schedule" alt="" coords="312,13,523,54"/>
+</map>

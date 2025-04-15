@@ -1,0 +1,4 @@
+<map id="QuantConnect.Messages.Market.TriedToAddExistingMarketIdentifier" name="QuantConnect.Messages.Market.TriedToAddExistingMarketIdentifier">
+<area shape="rect" id="node1" title="Returns a string message saying it was attempted to add a market identifier that is already in use" alt="" coords="245,5,492,47"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Market.html#a53b9368c7c41e7fdbbd2fa329220c8ed" title="Adds the specified market to the map of available markets with the specified identifier." alt="" coords="5,13,197,39"/>
+</map>

@@ -1,0 +1,9 @@
+<map id="QuantConnect.Securities.Option.OptionStrategyPositionGroupBuyingPowerModel.GetMaintenanceMargin" name="QuantConnect.Securities.Option.OptionStrategyPositionGroupBuyingPowerModel.GetMaintenanceMargin">
+<area shape="rect" id="node1" title="Gets the margin currently allocated to the specified holding" alt="" coords="5,35,348,91"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Securities_1_1CashBook.html#a439b770734d62b9b60bd06a56fbdbb1c" title="Converts a quantity of source currency units into the account currency" alt="" coords="396,5,663,47"/>
+<area shape="rect" id="node5" href="$classQuantConnect_1_1Securities_1_1MaintenanceMarginParameters.html#ab4a4ed6148ee189e658151115d23f885" title="Creates a new instance of the MaintenanceMarginParameters class to compute the maintenance margin req..." alt="" coords="415,71,644,127"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Securities_1_1CashBook.html#a3a2cfc4aac92b0740a9bad6c94b42d3b" title="Converts a quantity of source currency units into the specified destination currency" alt="" coords="739,5,926,47"/>
+<area shape="rect" id="node4" href="$classQuantConnect_1_1Messages_1_1CashBook.html#a7668ed1e406e2948a4dc01b7b1049e20" title="Returns a string message saying the conversion rate for the given currency is not available" alt="" coords="1003,5,1227,47"/>
+<area shape="rect" id="node6" href="$classQuantConnect_1_1Securities_1_1SecurityHolding.html#a88902e4d2b5e59fd73934daa215efb0e" title="Gets the total value of the specified quantity &#160;of shares of this security in the account currency" alt="" coords="711,75,955,116"/>
+<area shape="rect" id="node7" href="$classQuantConnect_1_1Securities_1_1MaintenanceMarginParameters.html#a3b521ab6c4d52957d2f35b31be47ee5c" title="Initializes a new instance of the MaintenanceMarginParameters class" alt="" coords="718,141,947,197"/>
+</map>

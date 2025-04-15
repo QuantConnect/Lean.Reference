@@ -1,0 +1,8 @@
+<map id="QuantConnect.Util.LeanData.GenerateRelativeUniversesDirectory" name="QuantConnect.Util.LeanData.GenerateRelativeUniversesDirectory">
+<area shape="rect" id="node1" title="Generates the relative directory to the universe files for the specified symbol" alt="" coords="1148,50,1409,91"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Util_1_1LeanData.html#a42eec844dbd75694d08d649bfd0fa27f" title="Generates the directory to the universe files for the specified symbol" alt="" coords="889,50,1100,91"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Data_1_1UniverseSelection_1_1BaseChainUniverseData.html#ad0b416bec61d51105f802c1d064e87ee" title="Generates the file path for a universe data file based on the given symbol and date...." alt="" coords="593,43,841,99"/>
+<area shape="rect" id="node4" href="$classQuantConnect_1_1Data_1_1UniverseSelection_1_1BaseChainUniverseData.html#aee5784fc5b04e5de029f181452f58d6b" title="Return the URL string source of the file. This will be converted to a stream" alt="" coords="297,5,545,61"/>
+<area shape="rect" id="node5" href="$classDataUniverseDownloaderGetParameters.html#a68fc04119c509dc2aba0be0e5f7f38f5" title="Gets the file name where the universe data will be saved." alt="" coords="300,86,543,127"/>
+<area shape="rect" id="node6" href="$classQuantConnect_1_1Data_1_1UniverseSelection_1_1UniverseExtensions.html#a1580570889a163a79e8951fa6d9ec401" title="Processes the universe download based on parameters." alt="" coords="5,79,249,135"/>
+</map>

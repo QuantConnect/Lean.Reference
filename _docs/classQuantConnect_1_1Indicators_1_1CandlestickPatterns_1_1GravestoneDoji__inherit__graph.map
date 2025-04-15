@@ -1,0 +1,5 @@
+<map id="QuantConnect.Indicators.CandlestickPatterns.GravestoneDoji" name="QuantConnect.Indicators.CandlestickPatterns.GravestoneDoji">
+<area shape="rect" id="node1" title="Gravestone Doji candlestick pattern indicator" alt="" coords="5,169,261,211"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Indicators_1_1CandlestickPatterns_1_1CandlestickPattern.html" title="Abstract base class for a candlestick pattern indicator" alt="" coords="61,95,205,121"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Indicators_1_1WindowIndicator.html" title=" " alt="" coords="27,5,240,47"/>
+</map>

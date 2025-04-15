@@ -1,0 +1,4 @@
+<map id="QuantConnect.Python.PandasConverter.GetIndicatorDataFrame" name="QuantConnect.Python.PandasConverter.GetIndicatorDataFrame">
+<area shape="rect" id="node1" title="Converts a dictionary with a list of IndicatorDataPoint in a pandas.DataFrame" alt="" coords="5,5,247,47"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Messages_1_1PandasConverter.html#a1688f62e87fb2c77b73068a50e7d72fe" title="Returns a string message saying ConvertToDictionary() method cannot be used to convert the given sour..." alt="" coords="295,5,553,47"/>
+</map>

@@ -1,0 +1,10 @@
+<map id="QuantConnect.Algorithm.QCAlgorithm.OnEndOfTimeStep" name="QuantConnect.Algorithm.QCAlgorithm.OnEndOfTimeStep">
+<area shape="rect" id="node1" title="Invoked at the end of every time step. This allows the algorithm to process events before advancing t..." alt="" coords="5,169,279,211"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Algorithm_1_1QCAlgorithm.html#a101da8582e6819d82780f37a3b3162e0" title="Add specified data to our data subscriptions. QuantConnect will funnel this data to the handle data r..." alt="" coords="327,5,600,47"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Algorithm_1_1QCAlgorithm.html#a16bd52d937ab647c889e8d5f6577f744" title="Send a debug message to the web console:" alt="" coords="327,71,600,112"/>
+<area shape="rect" id="node4" href="$classQuantConnect_1_1Algorithm_1_1QCAlgorithm.html#a446a10e68319fdc3c0b2ed85d80f55f8" title="Get the history for all configured securities over the requested span. This will use the resolution a..." alt="" coords="327,136,600,177"/>
+<area shape="rect" id="node5" href="$classQuantConnect_1_1Securities_1_1UniverseManager.html#abe6979bdb54d3053fff0552cff794b45" title="Will trigger collection changed event if required" alt="" coords="340,201,587,243"/>
+<area shape="rect" id="node7" href="$classQuantConnect_1_1Securities_1_1UniverseManager.html#af60ce15a9fe3719dcca8f1cf5d346a2a" title="Gets the value associated with the specified key." alt="" coords="354,267,573,308"/>
+<area shape="rect" id="node8" href="$classQuantConnect_1_1Securities_1_1SecurityManager.html#af3ad97e370ceec706ac1afe70f7fbb42" title="Try and get this security object with matching symbol and return true on success." alt="" coords="357,332,570,373"/>
+<area shape="rect" id="node6" href="$classQuantConnect_1_1Securities_1_1UniverseManager.html#aa10596cb0fc9f25ebd3ed9c6d0de5d4b" title="Event invocator for the CollectionChanged event" alt="" coords="648,194,871,250"/>
+</map>

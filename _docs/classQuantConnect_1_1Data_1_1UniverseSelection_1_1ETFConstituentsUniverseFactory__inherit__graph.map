@@ -1,0 +1,4 @@
+<map id="QuantConnect.Data.UniverseSelection.ETFConstituentsUniverseFactory" name="QuantConnect.Data.UniverseSelection.ETFConstituentsUniverseFactory">
+<area shape="rect" id="node1" title="Creates a universe based on an ETF&#39;s holdings at a given date" alt="" coords="5,95,256,151"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Data_1_1UniverseSelection_1_1ConstituentsUniverse.html" title=" " alt="" coords="26,5,235,47"/>
+</map>

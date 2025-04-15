@@ -1,0 +1,5 @@
+<map id="QuantConnect.Data.Fundamental.PurchaseOfPPECashFlowStatement" name="QuantConnect.Data.Fundamental.PurchaseOfPPECashFlowStatement">
+<area shape="rect" id="node1" title="The amount of capital outlays undertaken to increase, construct or improve capital assets...." alt="" coords="5,155,256,196"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Data_1_1Fundamental_1_1MultiPeriodField.html" title="Abstract base class for multi&#45;period fields" alt="" coords="67,80,194,107"/>
+<area shape="rect" id="node3" title=" " alt="" coords="52,5,209,32"/>
+</map>

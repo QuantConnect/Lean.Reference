@@ -1,0 +1,4 @@
+<map id="QuantConnect.Data.UniverseSelection.ContinuousContractUniverse.GetSubscriptionRequests" name="QuantConnect.Data.UniverseSelection.ContinuousContractUniverse.GetSubscriptionRequests">
+<area shape="rect" id="node1" title="Gets the subscription requests to be added for the specified security" alt="" coords="5,5,281,61"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Data_1_1UniverseSelection_1_1ContinuousContractUniverse.html#a93d7d4b0b7b8d47824e2bd54ad5b0c5d" title="Helper method to add and get the required configurations associated with a continuous universe" alt="" coords="329,5,605,61"/>
+</map>

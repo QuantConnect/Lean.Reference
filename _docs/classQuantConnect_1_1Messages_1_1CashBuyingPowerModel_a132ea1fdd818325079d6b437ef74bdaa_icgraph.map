@@ -1,0 +1,5 @@
+<map id="QuantConnect.Messages.CashBuyingPowerModel.ZeroContractMultiplier" name="QuantConnect.Messages.CashBuyingPowerModel.ZeroContractMultiplier">
+<area shape="rect" id="node1" title="Returns a string mesasge saying the contract multiplier for the given security is zero" alt="" coords="643,13,941,54"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Securities_1_1CashBuyingPowerModel.html#a3098b5ecbdc50ae031e8d5716f036724" title="Get the maximum market order quantity to obtain a position with a given buying power percentage...." alt="" coords="323,5,595,61"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Securities_1_1CashBuyingPowerModel.html#ae2182361668bcb0b67727ea2e077423a" title="Check if there is sufficient buying power to execute this order." alt="" coords="5,5,275,61"/>
+</map>

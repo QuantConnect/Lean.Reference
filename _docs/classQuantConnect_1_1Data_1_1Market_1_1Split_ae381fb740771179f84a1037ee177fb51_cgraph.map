@@ -1,0 +1,4 @@
+<map id="QuantConnect.Data.Market.Split.Clone" name="QuantConnect.Data.Market.Split.Clone">
+<area shape="rect" id="node1" title="Return a new instance clone of this object, used in fill forward" alt="" coords="5,5,208,47"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Data_1_1Market_1_1Split.html#a141611a089ae9ec531bfc7c3a970404c" title="Initializes a new instance of the Split class" alt="" coords="256,5,459,47"/>
+</map>

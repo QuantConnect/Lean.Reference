@@ -1,0 +1,5 @@
+<map id="QuantConnect.Python.MarginCallModelPythonWrapper" name="QuantConnect.Python.MarginCallModelPythonWrapper">
+<area shape="rect" id="node1" title="Provides a margin call model that wraps a PyObject object that represents the model responsible for p..." alt="" coords="69,95,281,136"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Python_1_1BasePythonWrapper.html" title=" " alt="" coords="5,5,171,47"/>
+<area shape="rect" id="node3" href="$interfaceQuantConnect_1_1Securities_1_1IMarginCallModel.html" title="Represents the model responsible for picking which orders should be executed during a margin call" alt="" coords="195,13,331,39"/>
+</map>

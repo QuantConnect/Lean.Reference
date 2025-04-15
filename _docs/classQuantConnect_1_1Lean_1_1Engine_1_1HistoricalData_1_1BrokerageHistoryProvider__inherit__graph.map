@@ -1,0 +1,7 @@
+<map id="QuantConnect.Lean.Engine.HistoricalData.BrokerageHistoryProvider" name="QuantConnect.Lean.Engine.HistoricalData.BrokerageHistoryProvider">
+<area shape="rect" id="node1" title="Provides an implementation of IHistoryProvider that relies on a brokerage connection to retrieve hist..." alt="" coords="5,304,237,360"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Lean_1_1Engine_1_1HistoricalData_1_1SynchronizingHistoryProvider.html" title="Provides an abstract implementation of IHistoryProvider which provides synchronization of multiple hi..." alt="" coords="14,229,229,256"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Data_1_1HistoryProviderBase.html" title="Provides a base type for all history providers" alt="" coords="44,155,199,181"/>
+<area shape="rect" id="node4" href="$interfaceQuantConnect_1_1Interfaces_1_1IHistoryProvider.html" title="Provides historical data to an algorithm at runtime" alt="" coords="58,80,185,107"/>
+<area shape="rect" id="node5" href="$interfaceQuantConnect_1_1Interfaces_1_1IDataProviderEvents.html" title="Events related to data providers" alt="" coords="44,5,199,32"/>
+</map>

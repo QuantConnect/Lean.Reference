@@ -1,0 +1,4 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$interfaceQuantConnect_1_1IDataDownloader.html" title="Data Downloader Interface for pulling data from a remote source." alt="" coords="5,20,236,47"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1DownloaderDataProvider_1_1Launcher_1_1Models_1_1BrokerageDataDownloader.html" title="Class for downloading data from a brokerage." alt="" coords="284,5,543,61"/>
+</map>

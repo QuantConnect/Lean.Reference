@@ -1,0 +1,4 @@
+<map id="QuantConnect.Messages.TrailingStopOrder.ToString" name="QuantConnect.Messages.TrailingStopOrder.ToString">
+<area shape="rect" id="node1" title="Parses a TrailingStopOrder into a string" alt="" coords="265,5,500,47"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Orders_1_1TrailingStopOrder.html#aa2f63e3225e17cf067b1fb3516734cc6" title="Returns a string that represents the current object." alt="" coords="5,5,217,47"/>
+</map>

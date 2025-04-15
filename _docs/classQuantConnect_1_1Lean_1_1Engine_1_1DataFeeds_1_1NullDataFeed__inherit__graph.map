@@ -1,0 +1,4 @@
+<map id="QuantConnect.Lean.Engine.DataFeeds.NullDataFeed" name="QuantConnect.Lean.Engine.DataFeeds.NullDataFeed">
+<area shape="rect" id="node1" title="Null data feed implementation. DataManager" alt="" coords="5,80,207,121"/>
+<area shape="rect" id="node2" href="$interfaceQuantConnect_1_1Lean_1_1Engine_1_1DataFeeds_1_1IDataFeed.html" title="Datafeed interface for creating custom datafeed sources." alt="" coords="62,5,150,32"/>
+</map>

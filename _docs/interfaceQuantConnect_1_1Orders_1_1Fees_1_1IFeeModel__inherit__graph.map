@@ -1,0 +1,30 @@
+<map id="QuantConnect.Orders.Fees.IFeeModel" name="QuantConnect.Orders.Fees.IFeeModel">
+<area shape="rect" id="node1" title="Represents a model the simulates order fees" alt="" coords="5,593,204,635"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Orders_1_1Fees_1_1AxosFeeModel.html" title="Provides an implementation of FeeModel that models Axos order fees" alt="" coords="252,528,451,569"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Orders_1_1Fees_1_1FeeModel.html" title="Base class for any order fee model" alt="" coords="252,593,451,635"/>
+<area shape="rect" id="node26" href="$classQuantConnect_1_1Orders_1_1Fees_1_1IndiaFeeModel.html" title="Provides the default implementation of IFeeModel Refer to https://www.samco.in/technology/brokerage_c..." alt="" coords="252,1181,451,1223"/>
+<area shape="rect" id="node4" href="$classQuantConnect_1_1Orders_1_1Fees_1_1AlpacaFeeModel.html" title="Represents the fee model specific to Alpaca trading platform." alt="" coords="515,5,713,47"/>
+<area shape="rect" id="node5" href="$classQuantConnect_1_1Orders_1_1Fees_1_1AlphaStreamsFeeModel.html" title="Provides an implementation of FeeModel that models order fees that alpha stream clients pay/receive" alt="" coords="515,71,713,112"/>
+<area shape="rect" id="node6" href="$classQuantConnect_1_1Orders_1_1Fees_1_1BinanceFeeModel.html" title="Provides an implementation of FeeModel that models Binance order fees" alt="" coords="515,136,713,177"/>
+<area shape="rect" id="node9" href="$classQuantConnect_1_1Orders_1_1Fees_1_1BitfinexFeeModel.html" title="Provides an implementation of FeeModel that models Bitfinex order fees" alt="" coords="515,201,713,243"/>
+<area shape="rect" id="node10" href="$classQuantConnect_1_1Orders_1_1Fees_1_1CharlesSchwabFeeModel.html" title="Represents a fee model specific to Charles Schwab." alt="" coords="515,267,713,308"/>
+<area shape="rect" id="node11" href="$classQuantConnect_1_1Orders_1_1Fees_1_1CoinbaseFeeModel.html" title="Represents a fee model specific to Coinbase. This class extends the base fee model." alt="" coords="515,332,713,373"/>
+<area shape="rect" id="node13" href="$classQuantConnect_1_1Orders_1_1Fees_1_1ConstantFeeModel.html" title="Provides an order fee model that always returns the same order fee." alt="" coords="515,397,713,439"/>
+<area shape="rect" id="node14" href="$classQuantConnect_1_1Orders_1_1Fees_1_1ExanteFeeModel.html" title="Provides an implementation of FeeModel that models Exante order fees. According to: https://support...." alt="" coords="515,463,713,504"/>
+<area shape="rect" id="node15" href="$classQuantConnect_1_1Orders_1_1Fees_1_1EzeFeeModel.html" title="Eze fee model implementation" alt="" coords="515,528,713,569"/>
+<area shape="rect" id="node16" href="$classQuantConnect_1_1Orders_1_1Fees_1_1FTXFeeModel.html" title="Provides an implementation of FeeModel that models FTX order fees https://help.ftx...." alt="" coords="515,593,713,635"/>
+<area shape="rect" id="node18" href="$classQuantConnect_1_1Orders_1_1Fees_1_1FxcmFeeModel.html" title="Provides an implementation of FeeModel that models FXCM order fees" alt="" coords="515,659,713,700"/>
+<area shape="rect" id="node19" href="$classQuantConnect_1_1Orders_1_1Fees_1_1InteractiveBrokersFeeModel.html" title="Provides the default implementation of IFeeModel" alt="" coords="512,724,716,765"/>
+<area shape="rect" id="node20" href="$classQuantConnect_1_1Orders_1_1Fees_1_1KrakenFeeModel.html" title="Provides an implementation of FeeModel that models Kraken order fees" alt="" coords="515,789,713,831"/>
+<area shape="rect" id="node21" href="$classQuantConnect_1_1Orders_1_1Fees_1_1RBIFeeModel.html" title="Provides an implementation of FeeModel that models RBI order fees" alt="" coords="515,855,713,896"/>
+<area shape="rect" id="node22" href="$classQuantConnect_1_1Orders_1_1Fees_1_1TDAmeritradeFeeModel.html" title="Provides an implementation of FeeModel that models TDAmeritrade order fees" alt="" coords="515,920,713,961"/>
+<area shape="rect" id="node23" href="$classQuantConnect_1_1Orders_1_1Fees_1_1TradeStationFeeModel.html" title="Represents a fee model specific to TradeStation." alt="" coords="515,985,713,1027"/>
+<area shape="rect" id="node24" href="$classQuantConnect_1_1Orders_1_1Fees_1_1WolverineFeeModel.html" title="Provides an implementation of FeeModel that models Wolverine order fees" alt="" coords="515,1051,713,1092"/>
+<area shape="rect" id="node25" href="$classQuantConnect_1_1Python_1_1FeeModelPythonWrapper.html" title="Provides an order fee model that wraps a PyObject object that represents a model that simulates order..." alt="" coords="499,1116,729,1157"/>
+<area shape="rect" id="node7" href="$classQuantConnect_1_1Orders_1_1Fees_1_1BinanceCoinFuturesFeeModel.html" title="Provides an implementation of FeeModel that models Binance Coin Futures order fees" alt="" coords="777,104,992,145"/>
+<area shape="rect" id="node8" href="$classQuantConnect_1_1Orders_1_1Fees_1_1BinanceFuturesFeeModel.html" title="Provides an implementation of FeeModel that models Binance Futures order fees" alt="" coords="785,169,984,211"/>
+<area shape="rect" id="node12" href="$classQuantConnect_1_1Orders_1_1Fees_1_1GDAXFeeModel.html" title="Provides an implementation of FeeModel that models GDAX order fees" alt="" coords="785,332,984,373"/>
+<area shape="rect" id="node17" href="$classQuantConnect_1_1Orders_1_1Fees_1_1FTXUSFeeModel.html" title="Provides an implementation of FeeModel that models FTX order fees https://help.ftx...." alt="" coords="785,593,984,635"/>
+<area shape="rect" id="node27" href="$classQuantConnect_1_1Orders_1_1Fees_1_1SamcoFeeModel.html" title="Provides the default implementation of IFeeModel Refer to https://www.samco.in/technology/brokerage_c..." alt="" coords="515,1181,713,1223"/>
+<area shape="rect" id="node28" href="$classQuantConnect_1_1Orders_1_1Fees_1_1ZerodhaFeeModel.html" title="Provides the default implementation of IFeeModel Refer to https://www.samco.in/technology/brokerage_c..." alt="" coords="515,1247,713,1288"/>
+</map>

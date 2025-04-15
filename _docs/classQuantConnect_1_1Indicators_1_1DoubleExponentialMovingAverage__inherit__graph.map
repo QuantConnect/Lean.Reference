@@ -1,0 +1,5 @@
+<map id="QuantConnect.Indicators.DoubleExponentialMovingAverage" name="QuantConnect.Indicators.DoubleExponentialMovingAverage">
+<area shape="rect" id="node1" title="This indicator computes the Double Exponential Moving Average (DEMA). The Double Exponential Moving A..." alt="" coords="89,95,336,136"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Indicators_1_1IndicatorBase.html" title=" " alt="" coords="5,5,188,47"/>
+<area shape="rect" id="node3" href="$interfaceQuantConnect_1_1Indicators_1_1IIndicatorWarmUpPeriodProvider.html" title="Represents an indicator with a warm up period provider." alt="" coords="213,13,447,39"/>
+</map>

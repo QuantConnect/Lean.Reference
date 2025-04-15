@@ -1,0 +1,5 @@
+<map id="QuantConnect.Algorithm.QCAlgorithm.MarketOnOpenOrder" name="QuantConnect.Algorithm.QCAlgorithm.MarketOnOpenOrder">
+<area shape="rect" id="node1" title="Market on open order implementation: Send a market order when the exchange opens" alt="" coords="327,39,600,80"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Algorithm_1_1QCAlgorithm.html#a4ab4dc751784f9b81aa68918c37bc5f1" title="Market on open order implementation: Send a market order when the exchange opens" alt="" coords="5,5,279,47"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Algorithm_1_1QCAlgorithm.html#a741fed77f0c320fdec734f00457634f4" title="Market order implementation: Send a market order and wait for it to be filled." alt="" coords="5,71,279,112"/>
+</map>

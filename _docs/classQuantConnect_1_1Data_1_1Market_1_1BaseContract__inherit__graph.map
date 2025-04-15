@@ -1,0 +1,6 @@
+<map id="QuantConnect.Data.Market.BaseContract" name="QuantConnect.Data.Market.BaseContract">
+<area shape="rect" id="node1" title="Defines a base for a single contract, like an option or future contract" alt="" coords="119,80,321,121"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Data_1_1Market_1_1FuturesContract.html" title="Defines a single futures contract at a specific expiration" alt="" coords="5,169,208,211"/>
+<area shape="rect" id="node4" href="$classQuantConnect_1_1Data_1_1Market_1_1OptionContract.html" title="Defines a single option contract at a specific expiration and strike price" alt="" coords="232,169,435,211"/>
+<area shape="rect" id="node2" href="$interfaceQuantConnect_1_1Data_1_1ISymbolProvider.html" title="Base data with a symbol" alt="" coords="155,5,285,32"/>
+</map>

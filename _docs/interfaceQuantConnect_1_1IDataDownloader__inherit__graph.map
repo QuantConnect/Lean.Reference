@@ -1,0 +1,4 @@
+<map id="QuantConnect.IDataDownloader" name="QuantConnect.IDataDownloader">
+<area shape="rect" id="node1" title="Data Downloader Interface for pulling data from a remote source." alt="" coords="19,5,250,32"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1DownloaderDataProvider_1_1Launcher_1_1Models_1_1BrokerageDataDownloader.html" title="Class for downloading data from a brokerage." alt="" coords="5,80,264,136"/>
+</map>

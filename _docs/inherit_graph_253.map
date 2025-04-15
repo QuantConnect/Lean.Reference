@@ -1,0 +1,4 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$interfaceQuantConnect_1_1Interfaces_1_1ITimeKeeper.html" title="Interface implemented by TimeKeeper" alt="" coords="5,5,192,47"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1TimeKeeper.html" title="Provides a means of centralizing time for various time zones." alt="" coords="240,13,436,39"/>
+</map>

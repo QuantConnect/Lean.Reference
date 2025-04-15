@@ -1,0 +1,5 @@
+<map id="QuantConnect.Brokerages.BitfinexBrokerageModel.CanUpdateOrder" name="QuantConnect.Brokerages.BitfinexBrokerageModel.CanUpdateOrder">
+<area shape="rect" id="node1" title="Checks whether an order can be updated or not in the Bitfinex brokerage model" alt="" coords="5,13,296,54"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Brokerages_1_1DefaultBrokerageModel.html#aab045cb269fc0ddda72e6c05c280c2d3" title="Checks if the order quantity is valid, it means, the order size is bigger than the minimum size allow..." alt="" coords="344,5,567,61"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Messages_1_1DefaultBrokerageModel.html#ad5fe70a9d5974d5c9fb72a7cf4b0cdb0" title="Returns a string message saying the quantity given was invalid for the given security" alt="" coords="615,13,883,54"/>
+</map>

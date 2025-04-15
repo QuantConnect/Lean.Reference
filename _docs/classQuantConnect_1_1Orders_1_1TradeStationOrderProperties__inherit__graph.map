@@ -1,0 +1,5 @@
+<map id="QuantConnect.Orders.TradeStationOrderProperties" name="QuantConnect.Orders.TradeStationOrderProperties">
+<area shape="rect" id="node1" title="Represents the properties of an order in TradeStation." alt="" coords="5,155,205,196"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Orders_1_1OrderProperties.html" title="Contains additional properties and settings for an order" alt="" coords="43,80,167,107"/>
+<area shape="rect" id="node3" href="$interfaceQuantConnect_1_1Interfaces_1_1IOrderProperties.html" title="Contains additional properties and settings for an order" alt="" coords="41,5,169,32"/>
+</map>

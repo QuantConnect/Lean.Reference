@@ -1,0 +1,4 @@
+<map id="QuantConnect.Securities.Security.SetLeverage" name="QuantConnect.Securities.Security.SetLeverage">
+<area shape="rect" id="node1" title="Set the leverage parameter for this security" alt="" coords="5,5,192,47"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Securities_1_1BuyingPowerModel.html#a44ce05fdd67c9c4230e4dfb91cfd5e6b" title="Sets the leverage for the applicable securities, i.e, equities" alt="" coords="240,5,472,47"/>
+</map>

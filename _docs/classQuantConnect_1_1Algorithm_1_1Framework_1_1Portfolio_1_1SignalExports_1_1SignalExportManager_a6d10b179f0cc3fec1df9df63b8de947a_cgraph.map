@@ -1,0 +1,5 @@
+<map id="QuantConnect.Algorithm.Framework.Portfolio.SignalExports.SignalExportManager.SetTargetPortfolioFromPortfolio" name="QuantConnect.Algorithm.Framework.Portfolio.SignalExports.SignalExportManager.SetTargetPortfolioFromPortfolio">
+<area shape="rect" id="node1" title="Sets the portfolio targets from the algorihtm&#39;s Portfolio and sends them with the algorithm being ran..." alt="" coords="5,45,292,101"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Algorithm_1_1Framework_1_1Portfolio_1_1SignalExports_1_1SignalExportManager.html#a20c21ff33837ce151cb8cb8634616b11" title="Obtains an array of portfolio targets from algorithm&#39;s Portfolio and returns them...." alt="" coords="340,5,603,61"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Algorithm_1_1Framework_1_1Portfolio_1_1SignalExports_1_1SignalExportManager.html#a1dac6122132390e39aa8f6d5bcc41dcc" title="Sets the portfolio targets with the given entries and sends them with the algorithm being ran to the ..." alt="" coords="340,85,603,141"/>
+</map>

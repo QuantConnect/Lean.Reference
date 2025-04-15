@@ -1,0 +1,7 @@
+<map id="QuantConnect.Lean.Engine.DataFeeds.Enumerators.DividendEventProvider.GetEvents" name="QuantConnect.Lean.Engine.DataFeeds.Enumerators.DividendEventProvider.GetEvents">
+<area shape="rect" id="node1" title="Check for dividends and returns them" alt="" coords="5,63,245,119"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Data_1_1Market_1_1Dividend.html#ac669caaf83f5589055b1d5d1613f2432" title="Initializes a new instance of the Dividend class" alt="" coords="299,37,501,79"/>
+<area shape="rect" id="node5" href="$classQuantConnect_1_1Data_1_1Auxiliary_1_1MapFile.html#a0450eb9556a318d62727d594e8570e25" title="Determines if there&#39;s data for the requested date" alt="" coords="293,103,507,144"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Data_1_1Market_1_1Dividend.html#ac02eaa3d154f125b0d692577a3dbc264" title="Computes the price factor ratio given the previous day&#39;s closing price and the p" alt="" coords="555,5,773,47"/>
+<area shape="rect" id="node4" href="$classQuantConnect_1_1Data_1_1Market_1_1Dividend.html#a89b737fb76db1dfaeaa3cd942f3065a5" title="Initializes a new instance of the Dividend class" alt="" coords="563,71,765,112"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="QuantConnect.Securities.Future.MarginRequirementsEntry.Create" name="QuantConnect.Securities.Future.MarginRequirementsEntry.Create">
+<area shape="rect" id="node1" title="Creates a new instance of MarginRequirementsEntry from the specified csv line" alt="" coords="5,5,244,61"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Logging_1_1Log.html#a4e55477fbc790846b74550a57198cea9" title="Log trace" alt="" coords="292,13,492,54"/>
+<area shape="rect" id="node3" href="$interfaceQuantConnect_1_1Logging_1_1ILogHandler.html#a3fb71a33ac66129240b63f12b6fcda3b" title="Write debug message to log" alt="" coords="540,13,740,54"/>
+</map>

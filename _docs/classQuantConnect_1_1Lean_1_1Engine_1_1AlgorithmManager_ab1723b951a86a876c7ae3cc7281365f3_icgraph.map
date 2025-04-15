@@ -1,0 +1,4 @@
+<map id="QuantConnect.Lean.Engine.AlgorithmManager.HandleSplits" name="QuantConnect.Lean.Engine.AlgorithmManager.HandleSplits">
+<area shape="rect" id="node1" title="Helper method to apply a split to an algorithm instance" alt="" coords="255,5,483,47"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Lean_1_1Engine_1_1AlgorithmManager.html#a1a51d2e48b1be28cb89347a0123c19fd" title="Launch the algorithm manager to run this strategy" alt="" coords="5,5,207,47"/>
+</map>

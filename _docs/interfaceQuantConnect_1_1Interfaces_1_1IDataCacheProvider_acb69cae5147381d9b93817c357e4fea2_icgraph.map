@@ -1,0 +1,4 @@
+<map id="QuantConnect.Interfaces.IDataCacheProvider.Fetch" name="QuantConnect.Interfaces.IDataCacheProvider.Fetch">
+<area shape="rect" id="node1" title="Fetch data from the cache" alt="" coords="401,13,591,54"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Lean_1_1Engine_1_1DataFeeds_1_1Transport_1_1LocalFileSubscriptionStreamReader.html#a885fc00d8d3d06aefae651109361ee60" title="Initializes a new instance of the LocalFileSubscriptionStreamReader class." alt="" coords="5,5,353,61"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="QuantConnect.Python.OptionAssignmentModelPythonWrapper" name="QuantConnect.Python.OptionAssignmentModelPythonWrapper">
+<area shape="rect" id="node1" title="Python wrapper for custom option assignment models" alt="" coords="98,95,337,136"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Python_1_1BasePythonWrapper.html" title=" " alt="" coords="5,5,211,47"/>
+<area shape="rect" id="node3" href="$interfaceQuantConnect_1_1Securities_1_1Option_1_1IOptionAssignmentModel.html" title="The option assignment model emulates exercising of short option positions in the portfolio." alt="" coords="235,13,421,39"/>
+</map>

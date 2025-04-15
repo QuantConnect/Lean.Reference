@@ -1,0 +1,14 @@
+var classQuantConnect_1_1Data_1_1Fundamental_1_1GainLossonFinancialInstrumentsDesignatedasCashFlowHedgesIncomeStatement =
+[
+    [ "GainLossonFinancialInstrumentsDesignatedasCashFlowHedgesIncomeStatement", "classQuantConnect_1_1Data_1_1Fundamental_1_1GainLossonFinancialInstrumentsDesignatedasCashFlowHedgesIncomeStatement.html#af2060494ddb6710b536e2dba354e2b87", null ],
+    [ "GainLossonFinancialInstrumentsDesignatedasCashFlowHedgesIncomeStatement", "classQuantConnect_1_1Data_1_1Fundamental_1_1GainLossonFinancialInstrumentsDesignatedasCashFlowHedgesIncomeStatement.html#a24d074ce035a3851d29276f74534bbc3", null ],
+    [ "GetPeriodValues", "classQuantConnect_1_1Data_1_1Fundamental_1_1GainLossonFinancialInstrumentsDesignatedasCashFlowHedgesIncomeStatement.html#ab2739e9a0f038aff214ce7799d4a9b93", null ],
+    [ "GetPeriodValue", "classQuantConnect_1_1Data_1_1Fundamental_1_1GainLossonFinancialInstrumentsDesignatedasCashFlowHedgesIncomeStatement.html#a68d6fb156a164aaadc9ebcd5422d6e22", null ],
+    [ "DefaultPeriod", "classQuantConnect_1_1Data_1_1Fundamental_1_1GainLossonFinancialInstrumentsDesignatedasCashFlowHedgesIncomeStatement.html#a389a2b8c9f4557f361c14d706cc7b3dc", null ],
+    [ "ThreeMonths", "classQuantConnect_1_1Data_1_1Fundamental_1_1GainLossonFinancialInstrumentsDesignatedasCashFlowHedgesIncomeStatement.html#a88f4e7806ae0a0ae402b85fc3ddd8caa", null ],
+    [ "SixMonths", "classQuantConnect_1_1Data_1_1Fundamental_1_1GainLossonFinancialInstrumentsDesignatedasCashFlowHedgesIncomeStatement.html#a6e723294e1a2fb0238d64c8c9c51dcc7", null ],
+    [ "NineMonths", "classQuantConnect_1_1Data_1_1Fundamental_1_1GainLossonFinancialInstrumentsDesignatedasCashFlowHedgesIncomeStatement.html#a81aaeb4e845df096ef3ae90a4ed380d4", null ],
+    [ "TwelveMonths", "classQuantConnect_1_1Data_1_1Fundamental_1_1GainLossonFinancialInstrumentsDesignatedasCashFlowHedgesIncomeStatement.html#aee6d7cc637d7051c3879f4b95041b3fc", null ],
+    [ "HasValue", "classQuantConnect_1_1Data_1_1Fundamental_1_1GainLossonFinancialInstrumentsDesignatedasCashFlowHedgesIncomeStatement.html#aeb8935b96872ab071c56add159ddc436", null ],
+    [ "Value", "classQuantConnect_1_1Data_1_1Fundamental_1_1GainLossonFinancialInstrumentsDesignatedasCashFlowHedgesIncomeStatement.html#a52cba14a921c98a71b62a6a8041480ca", null ]
+];

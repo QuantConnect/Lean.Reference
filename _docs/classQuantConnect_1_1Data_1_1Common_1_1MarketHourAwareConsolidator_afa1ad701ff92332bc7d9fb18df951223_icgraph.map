@@ -1,0 +1,5 @@
+<map id="QuantConnect.Data.Common.MarketHourAwareConsolidator.UseStrictEndTime" name="QuantConnect.Data.Common.MarketHourAwareConsolidator.UseStrictEndTime">
+<area shape="rect" id="node1" title="Useful for testing" alt="" coords="652,5,901,61"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Data_1_1Common_1_1MarketHourAwareConsolidator.html#a4c25267f3235115e0930b33f6a7883bf" title="Perform late initialization based on the datas symbol" alt="" coords="324,13,604,54"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Data_1_1Common_1_1MarketHourAwareConsolidator.html#ada2633845f46ba47d02bc3d8d696383f" title="Updates this consolidator with the specified data" alt="" coords="5,13,276,54"/>
+</map>

@@ -1,0 +1,9 @@
+<map id="QuantConnect.Securities.SecurityCache" name="QuantConnect.Securities.SecurityCache">
+<area shape="rect" id="node1" title="Base class caching spot for security data and any other temporary properties." alt="" coords="5,169,192,211"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Securities_1_1Cfd_1_1CfdCache.html" title="CFD specific caching support" alt="" coords="240,5,427,47"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Securities_1_1Equity_1_1EquityCache.html" title="Equity cache override." alt="" coords="240,71,427,112"/>
+<area shape="rect" id="node4" href="$classQuantConnect_1_1Securities_1_1Forex_1_1ForexCache.html" title="Forex specific caching support" alt="" coords="240,136,427,177"/>
+<area shape="rect" id="node5" href="$classQuantConnect_1_1Securities_1_1Future_1_1FutureCache.html" title="Future specific caching support" alt="" coords="240,201,427,243"/>
+<area shape="rect" id="node6" href="$classQuantConnect_1_1Securities_1_1Index_1_1IndexCache.html" title="INDEX specific caching support" alt="" coords="240,267,427,308"/>
+<area shape="rect" id="node7" href="$classQuantConnect_1_1Securities_1_1Option_1_1OptionCache.html" title="Option specific caching support" alt="" coords="240,332,427,373"/>
+</map>

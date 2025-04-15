@@ -1,0 +1,4 @@
+<map id="QuantConnect.Lean.Engine.DataFeeds.Enumerators.LiveSubscriptionEnumerator" name="QuantConnect.Lean.Engine.DataFeeds.Enumerators.LiveSubscriptionEnumerator">
+<area shape="rect" id="node1" title="Enumerator that will subscribe through the provided data queue handler and refresh the subscription i..." alt="" coords="5,80,295,136"/>
+<area shape="rect" id="node2" title=" " alt="" coords="53,5,247,32"/>
+</map>

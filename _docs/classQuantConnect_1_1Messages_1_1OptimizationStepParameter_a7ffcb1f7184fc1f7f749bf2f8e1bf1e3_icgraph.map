@@ -1,0 +1,4 @@
+<map id="QuantConnect.Messages.OptimizationStepParameter.NonPositiveStepValue" name="QuantConnect.Messages.OptimizationStepParameter.NonPositiveStepValue">
+<area shape="rect" id="node1" title="Returns a string message saying the step should be positive value" alt="" coords="343,13,613,54"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Optimizer_1_1Parameters_1_1OptimizationStepParameter.html#a7f39fe3d07e5fab65a21718213b3831b" title="Create an instance of OptimizationParameter based on configuration" alt="" coords="5,5,295,61"/>
+</map>

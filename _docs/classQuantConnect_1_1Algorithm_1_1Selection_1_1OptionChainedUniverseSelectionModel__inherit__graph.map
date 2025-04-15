@@ -1,0 +1,5 @@
+<map id="QuantConnect.Algorithm.Selection.OptionChainedUniverseSelectionModel" name="QuantConnect.Algorithm.Selection.OptionChainedUniverseSelectionModel">
+<area shape="rect" id="node1" title="This universe selection model will chain to the security changes of a given Universe selection output..." alt="" coords="5,155,281,196"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Algorithm_1_1Framework_1_1Selection_1_1UniverseSelectionModel.html" title="Provides a base class for universe selection models." alt="" coords="53,80,233,107"/>
+<area shape="rect" id="node3" href="$interfaceQuantConnect_1_1Algorithm_1_1Framework_1_1Selection_1_1IUniverseSelectionModel.html" title="Algorithm framework model that defines the universes to be used by an algorithm" alt="" coords="51,5,235,32"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="QuantConnect.Algorithm.Framework.Alphas.Insight.SetPeriodAndCloseTime" name="QuantConnect.Algorithm.Framework.Alphas.Insight.SetPeriodAndCloseTime">
+<area shape="rect" id="node1" title="Sets the insight period and close times if they have not already been set." alt="" coords="5,5,280,47"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Messages_1_1Insight.html#a40db1f4f4c23b57da3c365aee2830a9a" title="Returns a string message saying the Insight&#39;s GeneratedTimeUtc property must be set before calling Se..." alt="" coords="328,5,563,47"/>
+</map>

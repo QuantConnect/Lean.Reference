@@ -1,0 +1,6 @@
+<map id="QuantConnect.Data.Custom.Intrinio.IntrinioEconomicData" name="QuantConnect.Data.Custom.Intrinio.IntrinioEconomicData">
+<area shape="rect" id="node1" title="Access the massive repository of economic data from the Federal Reserve Economic Data system via the ..." alt="" coords="5,229,217,271"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Data_1_1BaseData.html" title="Abstract base data class of QuantConnect. It is intended to be extended to define generic user custom..." alt="" coords="69,155,154,181"/>
+<area shape="rect" id="node3" href="$interfaceQuantConnect_1_1Data_1_1IBaseData.html" title="Base Data Class: Type, Timestamp, Key – Base Features." alt="" coords="67,80,156,107"/>
+<area shape="rect" id="node4" href="$interfaceQuantConnect_1_1Data_1_1ISymbolProvider.html" title="Base data with a symbol" alt="" coords="47,5,176,32"/>
+</map>

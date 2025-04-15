@@ -1,0 +1,4 @@
+<map id="QuantConnect.Indicators.RollingWindow.GetEnumerator" name="QuantConnect.Indicators.RollingWindow.GetEnumerator">
+<area shape="rect" id="node1" title="Returns an enumerator that iterates through the collection." alt="" coords="268,5,489,47"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Indicators_1_1IndicatorBase.html#a973422589e984752a6a7a76332e3f032" title="Returns an enumerator that iterates through the history window." alt="" coords="5,5,220,47"/>
+</map>

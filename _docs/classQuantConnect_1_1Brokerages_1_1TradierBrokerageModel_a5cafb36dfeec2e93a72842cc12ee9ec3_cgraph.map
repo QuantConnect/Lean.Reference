@@ -1,0 +1,11 @@
+<map id="QuantConnect.Brokerages.TradierBrokerageModel.CanSubmitOrder" name="QuantConnect.Brokerages.TradierBrokerageModel.CanSubmitOrder">
+<area shape="rect" id="node1" title="Returns true if the brokerage could accept this order. This takes into account order type,..." alt="" coords="5,71,288,112"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Brokerages_1_1TradierBrokerageModel.html#a16fcd860e1d830e23658480625c26c2e" title="Returns true if the brokerage would be able to execute this order at this time assuming market prices..." alt="" coords="336,37,624,79"/>
+<area shape="rect" id="node9" href="$classQuantConnect_1_1Messages_1_1DefaultBrokerageModel.html#a772b06f7270c604cc7386874e827dc84" title="Returns a string message saying the type of the given order is unsupported by the given brokerage mod..." alt="" coords="339,103,621,144"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Securities_1_1Security.html#ab93a58a84a4aa1b19d0972faf6c056c4" title="Get the last price update set to the security if any else null" alt="" coords="705,5,891,47"/>
+<area shape="rect" id="node4" href="$classQuantConnect_1_1Securities_1_1SecurityExchange.html#a17daa159794484b17946fc540864800c" title="Determines if the exchange was open at any time between start and stop" alt="" coords="672,71,924,112"/>
+<area shape="rect" id="node5" href="$classQuantConnect_1_1Securities_1_1SecurityExchangeHours.html#af2deedeacdcb6bbe40f4874002cdbac3" title="Determines if the exchange is open at the specified local date time." alt="" coords="972,71,1197,112"/>
+<area shape="rect" id="node6" href="$classQuantConnect_1_1Securities_1_1SecurityExchangeHours.html#a106e2dd187ab76452e14ac6a28f929aa" title="Helper to access the market hours field based on the day of week" alt="" coords="1245,37,1532,79"/>
+<area shape="rect" id="node8" href="$classQuantConnect_1_1Securities_1_1LocalMarketHours.html#a97e5d374a28d55f3ebee72c328a0810f" title="Determines if the exchange is open at the specified time" alt="" coords="1295,103,1483,144"/>
+<area shape="rect" id="node7" href="$classQuantConnect_1_1Securities_1_1LocalMarketHours.html#a1e9178f81413c7d1f032a003d74acecf" title="Gets a LocalMarketHours instance that is always closed" alt="" coords="1580,37,1811,79"/>
+</map>

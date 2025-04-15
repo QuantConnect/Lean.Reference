@@ -1,0 +1,4 @@
+<map id="QuantConnect.Extensions.DefaultOptionStyle" name="QuantConnect.Extensions.DefaultOptionStyle">
+<area shape="rect" id="node1" title="Gets the default OptionStyle for the provided SecurityType" alt="" coords="5,5,199,47"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Messages_1_1Extensions.html#a7f1dcc052104456548ff0ac4cad0efb2" title="Returns a string message saying the given security type has no default OptionStyle,..." alt="" coords="247,5,513,47"/>
+</map>

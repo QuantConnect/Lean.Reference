@@ -1,0 +1,4 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$interfaceQuantConnect_1_1Interfaces_1_1IPrimaryExchangeProvider.html" title="Primary Exchange Provider interface" alt="" coords="5,5,200,47"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Data_1_1Auxiliary_1_1MapFilePrimaryExchangeProvider.html" title="Implementation of IPrimaryExchangeProvider from map files." alt="" coords="248,5,489,47"/>
+</map>

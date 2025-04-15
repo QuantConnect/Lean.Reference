@@ -1,0 +1,7 @@
+<map id="QuantConnect.Interfaces.IDataQueueHandler" name="QuantConnect.Interfaces.IDataQueueHandler">
+<area shape="rect" id="node1" title="Task requestor interface with cloud system" alt="" coords="152,71,339,112"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Lean_1_1Engine_1_1DataFeeds_1_1DataQueueHandlerManager.html" title="This is an implementation of IDataQueueHandler used to handle multiple live datafeeds" alt="" coords="387,5,663,47"/>
+<area shape="rect" id="node4" href="$classQuantConnect_1_1Lean_1_1Engine_1_1DataFeeds_1_1Queues_1_1FakeDataQueue.html" title="This is an implementation of IDataQueueHandler used for testing. FakeHistoryProvider" alt="" coords="399,71,650,112"/>
+<area shape="rect" id="node5" href="$classQuantConnect_1_1Lean_1_1Engine_1_1DataFeeds_1_1Queues_1_1LiveDataQueue.html" title="Live Data Queue is the cut out implementation of how to bind a custom live data source" alt="" coords="401,136,649,177"/>
+<area shape="rect" id="node2" title=" " alt="" coords="5,78,104,105"/>
+</map>

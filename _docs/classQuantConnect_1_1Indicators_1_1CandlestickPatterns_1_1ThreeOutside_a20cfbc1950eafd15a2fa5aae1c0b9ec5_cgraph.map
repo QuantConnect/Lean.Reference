@@ -1,0 +1,4 @@
+<map id="QuantConnect.Indicators.CandlestickPatterns.ThreeOutside.ComputeNextValue" name="QuantConnect.Indicators.CandlestickPatterns.ThreeOutside.ComputeNextValue">
+<area shape="rect" id="node1" title="Computes the next value of this indicator from the given state" alt="" coords="5,5,252,61"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Indicators_1_1CandlestickPatterns_1_1CandlestickPattern.html#a4ffcf1c3b910415989e6d399b917f499" title="Returns the candle color of a candle" alt="" coords="300,5,531,61"/>
+</map>

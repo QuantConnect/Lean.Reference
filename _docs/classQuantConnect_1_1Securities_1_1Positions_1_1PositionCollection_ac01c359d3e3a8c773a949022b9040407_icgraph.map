@@ -1,0 +1,4 @@
+<map id="QuantConnect.Securities.Positions.PositionCollection.Clear" name="QuantConnect.Securities.Positions.PositionCollection.Clear">
+<area shape="rect" id="node1" title="Clears this collection of all positions" alt="" coords="283,13,523,54"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Securities_1_1Positions_1_1SecurityPositionGroupResolver.html#a3affcd421f38d27a0177211e130d2664" title="Resolves the position groups that exist within the specified collection of positions." alt="" coords="5,5,235,61"/>
+</map>

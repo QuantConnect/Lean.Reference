@@ -1,0 +1,4 @@
+<map id="QuantConnect.Optimizer.Objectives.Target.ToString" name="QuantConnect.Optimizer.Objectives.Target.ToString">
+<area shape="rect" id="node1" title="Pretty representation of this optimization target" alt="" coords="5,5,264,47"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Messages_1_1Target.html#a7487c7c5d495a878cfe6852aa2600947" title="Parses a Target object into a string message" alt="" coords="312,5,543,47"/>
+</map>

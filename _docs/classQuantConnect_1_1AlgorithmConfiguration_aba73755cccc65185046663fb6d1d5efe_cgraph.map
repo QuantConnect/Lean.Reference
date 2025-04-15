@@ -1,0 +1,6 @@
+<map id="QuantConnect.AlgorithmConfiguration.Create" name="QuantConnect.AlgorithmConfiguration.Create">
+<area shape="rect" id="node1" title="Provides a convenience method for creating a AlgorithmConfiguration for a given algorithm." alt="" coords="5,71,279,112"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1AlgorithmConfiguration.html#acae427443084fddc6c1148d880f8b667" title="Initializes a new empty instance of the AlgorithmConfiguration class" alt="" coords="327,5,600,47"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Brokerages_1_1BrokerageModel.html#a0763b18b34681f1d464f9912a029b164" title="Gets the corresponding BrokerageName for the specified IBrokerageModel" alt="" coords="333,71,593,112"/>
+<area shape="rect" id="node4" href="$interfaceQuantConnect_1_1Interfaces_1_1IAlgorithm.html#ae5db8706f9e73ad244c276e4c78962c1" title="Gets a read&#45;only dictionary with all current parameters" alt="" coords="368,136,559,177"/>
+</map>

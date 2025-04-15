@@ -1,0 +1,4 @@
+<map id="QuantConnect.Securities.ContractSecurityFilterUniverse&lt; T, TData &gt;" name="QuantConnect.Securities.ContractSecurityFilterUniverse&lt; T, TData &gt;">
+<area shape="rect" id="node1" title="Base class for contract symbols filtering universes. Used by OptionFilterUniverse and FutureFilterUni..." alt="" coords="5,95,227,151"/>
+<area shape="rect" id="node2" href="$interfaceQuantConnect_1_1Securities_1_1IDerivativeSecurityFilterUniverse.html" title=" " alt="" coords="26,5,206,47"/>
+</map>

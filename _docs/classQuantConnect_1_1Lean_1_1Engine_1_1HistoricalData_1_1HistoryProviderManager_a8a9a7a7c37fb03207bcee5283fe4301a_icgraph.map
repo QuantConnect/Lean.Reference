@@ -1,0 +1,5 @@
+<map id="QuantConnect.Lean.Engine.HistoricalData.HistoryProviderManager.Initialize" name="QuantConnect.Lean.Engine.HistoricalData.HistoryProviderManager.Initialize">
+<area shape="rect" id="node1" title="Initializes this history provider to work for the specified job" alt="" coords="445,5,665,61"/>
+<area shape="rect" id="node2" href="$classProgram.html#a9fcf1ef5c265aa471a7b8d45bc0fb193" title="Initializes various configurations for the application. This method sets up logging,..." alt="" coords="167,20,397,47"/>
+<area shape="rect" id="node3" href="$classProgram.html#ada72f8d1518f89bc2e6ad807d5059564" title="The main entry point for the application." alt="" coords="5,20,119,47"/>
+</map>

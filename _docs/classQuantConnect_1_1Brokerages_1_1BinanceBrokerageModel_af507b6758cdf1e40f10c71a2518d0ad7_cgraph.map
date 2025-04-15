@@ -1,0 +1,8 @@
+<map id="QuantConnect.Brokerages.BinanceBrokerageModel.CanSubmitOrder" name="QuantConnect.Brokerages.BinanceBrokerageModel.CanSubmitOrder">
+<area shape="rect" id="node1" title="Returns true if the brokerage could accept this order. This takes into account order type,..." alt="" coords="5,144,296,185"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Messages_1_1DefaultBrokerageModel.html#aad3e16239c7c0b54a9585f33b58b7b67" title="Returns a string message saying the given order size (quantity * price) was invalid for the given sec..." alt="" coords="374,5,613,47"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Messages_1_1DefaultBrokerageModel.html#a772b06f7270c604cc7386874e827dc84" title="Returns a string message saying the type of the given order is unsupported by the given brokerage mod..." alt="" coords="353,71,634,112"/>
+<area shape="rect" id="node4" href="$classQuantConnect_1_1Messages_1_1BinanceBrokerageModel.html#a759434942acff17386c5527ed66532a7" title="Returns a string message saying the type of the given order is unsupported for the symbol of the give..." alt="" coords="353,137,634,193"/>
+<area shape="rect" id="node5" href="$classQuantConnect_1_1Messages_1_1BinanceBrokerageModel.html#af90138c1faee5ae6bdbe400af228f2f4" title="Returns a string message saying the type of the given order is unsupported for the symbol of the give..." alt="" coords="353,217,634,273"/>
+<area shape="rect" id="node6" href="$classQuantConnect_1_1Messages_1_1DefaultBrokerageModel.html#a1b9fa7f8e1c87b388c646fcef6cdb389" title="Retunrns a string message saying the type of the given security is not supported by the given brokera..." alt="" coords="344,297,643,339"/>
+</map>

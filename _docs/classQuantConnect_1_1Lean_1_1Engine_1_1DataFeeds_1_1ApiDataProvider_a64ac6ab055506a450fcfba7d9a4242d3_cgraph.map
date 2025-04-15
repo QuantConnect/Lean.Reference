@@ -1,0 +1,7 @@
+<map id="QuantConnect.Lean.Engine.DataFeeds.ApiDataProvider.DownloadData" name="QuantConnect.Lean.Engine.DataFeeds.ApiDataProvider.DownloadData">
+<area shape="rect" id="node1" title="Attempt to download data using the Api for and return a FileStream of that data." alt="" coords="5,39,305,80"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Logging_1_1Log.html#ad908daef9d61532d7d60c9dcfb9a3e0c" title="Output to the console" alt="" coords="353,5,553,47"/>
+<area shape="rect" id="node4" href="$classQuantConnect_1_1Logging_1_1Log.html#a4e55477fbc790846b74550a57198cea9" title="Log trace" alt="" coords="353,71,553,112"/>
+<area shape="rect" id="node3" href="$interfaceQuantConnect_1_1Logging_1_1ILogHandler.html#a2c738b8e78dd5b54244bc68b969ba91d" title="Write debug message to log" alt="" coords="601,5,801,47"/>
+<area shape="rect" id="node5" href="$interfaceQuantConnect_1_1Logging_1_1ILogHandler.html#a3fb71a33ac66129240b63f12b6fcda3b" title="Write debug message to log" alt="" coords="601,71,801,112"/>
+</map>

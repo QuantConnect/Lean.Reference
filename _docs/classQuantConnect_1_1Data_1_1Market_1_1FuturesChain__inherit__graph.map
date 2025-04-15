@@ -1,0 +1,4 @@
+<map id="QuantConnect.Data.Market.FuturesChain" name="QuantConnect.Data.Market.FuturesChain">
+<area shape="rect" id="node1" title="Represents an entire chain of futures contracts for a single underlying This type is IEnumerable&lt;Futu..." alt="" coords="11,95,213,136"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Data_1_1Market_1_1BaseChain.html" title=" " alt="" coords="5,5,219,47"/>
+</map>

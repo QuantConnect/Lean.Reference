@@ -1,0 +1,5 @@
+<map id="QuantConnect.Securities.IDerivativeSecurityFilter&lt; T &gt;" name="QuantConnect.Securities.IDerivativeSecurityFilter&lt; T &gt;">
+<area shape="rect" id="node1" title="Filters a set of derivative symbols using the underlying price data." alt="" coords="5,39,224,80"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Securities_1_1EmptyContractFilter.html" title="Derivate security universe selection filter which will always return empty" alt="" coords="299,5,497,47"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Securities_1_1FuncSecurityDerivativeFilter.html" title="Provides a functional implementation of IDerivativeSecurityFilter&lt;T&gt;" alt="" coords="272,71,524,112"/>
+</map>

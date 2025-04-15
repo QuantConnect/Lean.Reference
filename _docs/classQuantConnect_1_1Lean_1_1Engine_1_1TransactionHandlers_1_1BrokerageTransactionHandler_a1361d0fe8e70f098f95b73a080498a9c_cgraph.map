@@ -1,0 +1,5 @@
+<map id="QuantConnect.Lean.Engine.TransactionHandlers.BrokerageTransactionHandler.AddOpenOrder" name="QuantConnect.Lean.Engine.TransactionHandlers.BrokerageTransactionHandler.AddOpenOrder">
+<area shape="rect" id="node1" title="Register an already open Order" alt="" coords="5,45,304,101"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Securities_1_1SecurityTransactionManager.html#a260230753eb25337bda131851610275a" title="Get a new group order manager id, and increment the internal counter." alt="" coords="352,5,584,61"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Securities_1_1SecurityTransactionManager.html#a470623a731aa5e8e241518af157c9ffe" title="Get a new order id, and increment the internal counter." alt="" coords="352,85,584,141"/>
+</map>

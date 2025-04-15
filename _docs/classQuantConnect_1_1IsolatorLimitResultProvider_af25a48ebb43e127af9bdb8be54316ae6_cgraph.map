@@ -1,0 +1,4 @@
+<map id="QuantConnect.IsolatorLimitResultProvider.Consume" name="QuantConnect.IsolatorLimitResultProvider.Consume">
+<area shape="rect" id="node1" title="Executes the provided code block and while the code block is running, continually consume from the li..." alt="" coords="5,5,205,47"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Scheduling_1_1TimeMonitor.html#ac8d131520f9527b7ecebddb5f11c1c3a" title="Adds a new time consumer element to be monitored" alt="" coords="253,5,447,47"/>
+</map>

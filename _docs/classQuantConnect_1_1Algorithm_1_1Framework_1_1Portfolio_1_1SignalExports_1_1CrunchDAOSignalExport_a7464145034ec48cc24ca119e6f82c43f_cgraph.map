@@ -1,0 +1,6 @@
+<map id="QuantConnect.Algorithm.Framework.Portfolio.SignalExports.CrunchDAOSignalExport.Send" name="QuantConnect.Algorithm.Framework.Portfolio.SignalExports.CrunchDAOSignalExport.Send">
+<area shape="rect" id="node1" title="Verifies every holding is a stock, creates a message with the desired positions using the expected Cr..." alt="" coords="5,43,293,99"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Algorithm_1_1Framework_1_1Portfolio_1_1SignalExports_1_1CrunchDAOSignalExport.html#ab99efe31937cc5fbf895a46b1402c84c" title="Converts the list of holdings into a CSV format string" alt="" coords="341,5,629,61"/>
+<area shape="rect" id="node4" href="$interfaceQuantConnect_1_1Interfaces_1_1IAlgorithm.html#a63cc959667fa0f4dfd13048a9b7dac94" title="Send debug message" alt="" coords="392,86,579,127"/>
+<area shape="rect" id="node3" href="$interfaceQuantConnect_1_1Interfaces_1_1IAlgorithm.html#a7b8af1af90d91f0702ae39686c073dce" title="Send an error message for the algorithm" alt="" coords="677,13,864,54"/>
+</map>

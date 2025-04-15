@@ -1,0 +1,12 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$interfaceQuantConnect_1_1Commands_1_1ICommand.html" title="Represents a command that can be run against a single algorithm" alt="" coords="5,209,272,235"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Commands_1_1BaseCommand.html" title="Base command implementation" alt="" coords="320,201,548,243"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Commands_1_1AddSecurityCommand.html" title="Represents a command to add a security to the algorithm" alt="" coords="615,5,837,47"/>
+<area shape="rect" id="node4" href="$classQuantConnect_1_1Commands_1_1AlgorithmStatusCommand.html" title="Represents a command that will change the algorithm&#39;s status" alt="" coords="596,71,856,112"/>
+<area shape="rect" id="node6" href="$classQuantConnect_1_1Commands_1_1CallbackCommand.html" title="Algorithm callback command type" alt="" coords="600,136,852,177"/>
+<area shape="rect" id="node7" href="$classQuantConnect_1_1Commands_1_1CancelOrderCommand.html" title="Represents a command to cancel a specific order by id" alt="" coords="606,201,846,243"/>
+<area shape="rect" id="node8" href="$classQuantConnect_1_1Commands_1_1LiquidateCommand.html" title="Represents a command that will liquidate the entire algorithm" alt="" coords="598,267,854,308"/>
+<area shape="rect" id="node9" href="$classQuantConnect_1_1Commands_1_1OrderCommand.html" title="Represents a command to submit an order to the algorithm" alt="" coords="610,332,842,373"/>
+<area shape="rect" id="node10" href="$classQuantConnect_1_1Commands_1_1UpdateOrderCommand.html" title="Represents a command to update an order by id" alt="" coords="605,397,847,439"/>
+<area shape="rect" id="node5" href="$classQuantConnect_1_1Commands_1_1QuitCommand.html" title="Represents a command that will terminate the algorithm" alt="" coords="904,71,1127,112"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="QuantConnect.Orders.ComboLegLimitOrder.Clone" name="QuantConnect.Orders.ComboLegLimitOrder.Clone">
+<area shape="rect" id="node1" title="Creates a deep&#45;copy clone of this order" alt="" coords="5,39,216,80"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Orders_1_1Order.html#a7e89368b886aff5b24cd3e5b42d7a103" title="Copies base Order properties to the specified order" alt="" coords="264,39,468,80"/>
+<area shape="rect" id="node3" href="$interfaceQuantConnect_1_1Interfaces_1_1IOrderProperties.html#a683b82212fc9f952e098f8eb4e634643" title="Returns a new instance clone of this object" alt="" coords="523,5,710,47"/>
+<area shape="rect" id="node4" href="$classQuantConnect_1_1Orders_1_1OrderSubmissionData.html#a98b3dd7d7d7198d062b6b005b45c0161" title="Return a new instance clone of this object" alt="" coords="516,71,717,112"/>
+</map>

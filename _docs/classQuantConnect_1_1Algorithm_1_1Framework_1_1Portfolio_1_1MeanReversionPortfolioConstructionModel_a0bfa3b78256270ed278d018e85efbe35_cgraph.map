@@ -1,0 +1,6 @@
+<map id="QuantConnect.Algorithm.Framework.Portfolio.MeanReversionPortfolioConstructionModel.DetermineTargetPercent" name="QuantConnect.Algorithm.Framework.Portfolio.MeanReversionPortfolioConstructionModel.DetermineTargetPercent">
+<area shape="rect" id="node1" title="Will determine the target percent for each insight" alt="" coords="5,45,324,101"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Algorithm_1_1Framework_1_1Portfolio_1_1MeanReversionPortfolioConstructionModel.html#aefdddfe8a6ef1a2fc3dba3a6d985e133" title="Get price relatives with reference level of SMA" alt="" coords="372,5,691,61"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Algorithm_1_1Framework_1_1Portfolio_1_1MeanReversionPortfolioConstructionModel.html#a831bb23d8ac08bce7be46fbb5f4f048a" title="Normalize the updated portfolio into weight vector: v_{t+1} = arg min || v &#45; v_{t+1} || ^ 2" alt="" coords="372,85,691,141"/>
+<area shape="rect" id="node4" href="$classQuantConnect_1_1Algorithm_1_1Framework_1_1Portfolio_1_1MeanReversionPortfolioConstructionModel.html#a231b4219b9b67a64b310f7a3b937cc05" title="Cumulative Sum of a given sequence" alt="" coords="739,85,1057,141"/>
+</map>

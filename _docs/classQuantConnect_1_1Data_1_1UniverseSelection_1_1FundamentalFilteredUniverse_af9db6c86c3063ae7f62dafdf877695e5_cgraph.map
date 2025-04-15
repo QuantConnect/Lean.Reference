@@ -1,0 +1,5 @@
+<map id="QuantConnect.Data.UniverseSelection.FundamentalFilteredUniverse.FundamentalFilteredUniverse" name="QuantConnect.Data.UniverseSelection.FundamentalFilteredUniverse.FundamentalFilteredUniverse">
+<area shape="rect" id="node1" title="Initializes a new instance of the FundamentalFilteredUniverse class" alt="" coords="5,35,288,91"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Data_1_1Fundamental_1_1Fundamental.html#ad702991b6e1340973391f2428e46108c" title="Creates a new empty instance" alt="" coords="336,5,579,47"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Data_1_1UniverseSelection_1_1Universe.html#a567d9f5a05e310cbd91e68299ef7f1d6" title="Event invocator for the SelectionChanged event" alt="" coords="344,71,571,127"/>
+</map>

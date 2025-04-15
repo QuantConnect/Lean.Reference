@@ -1,0 +1,4 @@
+<map id="QuantConnect.Messages.RBIBrokerageModel.UnsupportedOrderType" name="QuantConnect.Messages.RBIBrokerageModel.UnsupportedOrderType">
+<area shape="rect" id="node1" title="Returns a message for an unsupported order type in RBI Brokerage Model" alt="" coords="315,5,589,47"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Brokerages_1_1RBIBrokerageModel.html#a0d2fcf15ff4420059756f5ca495dd5a7" title="Returns true if the brokerage could accept this order. This takes into account order type,..." alt="" coords="5,5,267,47"/>
+</map>

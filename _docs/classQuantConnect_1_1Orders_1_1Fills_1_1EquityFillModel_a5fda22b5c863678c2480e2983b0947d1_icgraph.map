@@ -1,0 +1,5 @@
+<map id="QuantConnect.Orders.Fills.EquityFillModel.GetPrices" name="QuantConnect.Orders.Fills.EquityFillModel.GetPrices">
+<area shape="rect" id="node1" title="Get the minimum and maximum price for this security in the last bar:" alt="" coords="556,13,751,54"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Orders_1_1Fills_1_1EquityFillModel.html#adb326cecae735cb81b52bb8f895bf9f3" title="This is required due to a limitation in PythonNet to resolved overriden methods. GetPrices" alt="" coords="260,5,508,61"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Orders_1_1Fills_1_1EquityFillModel.html#a22aa83d2e8118b75f3d5a8416bc4542f" title="Default stop limit fill model implementation in base class security. (Stop Limit Order Type)" alt="" coords="5,13,212,54"/>
+</map>

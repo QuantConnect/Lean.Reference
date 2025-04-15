@@ -1,0 +1,5 @@
+<map id="QuantConnect.Indicators.CandlestickPatterns.ClosingMarubozu" name="QuantConnect.Indicators.CandlestickPatterns.ClosingMarubozu">
+<area shape="rect" id="node1" title="Closing Marubozu candlestick pattern indicator" alt="" coords="5,169,272,211"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Indicators_1_1CandlestickPatterns_1_1CandlestickPattern.html" title="Abstract base class for a candlestick pattern indicator" alt="" coords="67,95,211,121"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Indicators_1_1WindowIndicator.html" title=" " alt="" coords="32,5,245,47"/>
+</map>

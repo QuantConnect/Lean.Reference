@@ -1,0 +1,4 @@
+<map id="QuantConnect.Python.BrokerageModelPythonWrapper.GetBuyingPowerModel" name="QuantConnect.Python.BrokerageModelPythonWrapper.GetBuyingPowerModel">
+<area shape="rect" id="node1" title="Gets a new buying power model for the security, returning the default model with the security&#39;s confi..." alt="" coords="367,5,680,47"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Python_1_1BrokerageModelPythonWrapper.html#aa38b7b3e9e38d0292e97053f62bb15f7" title="Gets a new buying power model for the security" alt="" coords="5,5,319,47"/>
+</map>

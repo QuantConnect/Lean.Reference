@@ -1,0 +1,6 @@
+<map id="QuantConnect.Data.Common.MarketHourAwareConsolidator.MarketHourAwareConsolidator" name="QuantConnect.Data.Common.MarketHourAwareConsolidator.MarketHourAwareConsolidator">
+<area shape="rect" id="node1" title="Initializes a new instance of the MarketHourAwareConsolidator class." alt="" coords="5,45,275,101"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Data_1_1Common_1_1MarketHourAwareConsolidator.html#adf1097cc47d0d5dd84d2cb3988f50c2a" title="Determines a bar start time and period" alt="" coords="331,5,590,61"/>
+<area shape="rect" id="node4" href="$classQuantConnect_1_1Data_1_1Common_1_1MarketHourAwareConsolidator.html#a4e6165cde35cafe70a47b03ac2c4d123" title="Will forward the underlying consolidated bar to consumers on this object" alt="" coords="323,85,599,141"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Util_1_1LeanData.html#a333e4bd6d612caca6773226d353cec49" title="Helper method to return the start time and period of a bar the given point time should be part of" alt="" coords="647,13,857,54"/>
+</map>

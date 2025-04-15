@@ -1,0 +1,5 @@
+<map id="QuantConnect.Orders.Order.CreateOrder" name="QuantConnect.Orders.Order.CreateOrder">
+<area shape="rect" id="node1" title="Creates an Order to match the specified request" alt="" coords="699,13,903,54"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Lean_1_1Engine_1_1TransactionHandlers_1_1BrokerageTransactionHandler.html#a68f215fe79ea4c800a036e7169b8b0a4" title="Add an order to collection and return the unique order id or negative if an error." alt="" coords="352,5,651,61"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Lean_1_1Engine_1_1TransactionHandlers_1_1BrokerageTransactionHandler.html#ad7914edfb9b6e24fcbcd637e2c468cd5" title="Adds the specified order to be processed" alt="" coords="5,5,304,61"/>
+</map>

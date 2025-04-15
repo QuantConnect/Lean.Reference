@@ -1,0 +1,5 @@
+<map id="QuantConnect.Python.BasePythonWrapper.GetProperty" name="QuantConnect.Python.BasePythonWrapper.GetProperty">
+<area shape="rect" id="node1" title="Gets the Python instance property with the specified name" alt="" coords="307,43,509,84"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Indicators_1_1PythonIndicator.html#a06aca444f3f477a92d080e4955dda742" title="Computes the next value of this indicator from the given state" alt="" coords="5,5,259,47"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Python_1_1BasePythonWrapper.html#a9368f5133f0c7b51036ad3dbe32d916f" title="Gets the Python instance property with the specified name" alt="" coords="13,71,251,127"/>
+</map>

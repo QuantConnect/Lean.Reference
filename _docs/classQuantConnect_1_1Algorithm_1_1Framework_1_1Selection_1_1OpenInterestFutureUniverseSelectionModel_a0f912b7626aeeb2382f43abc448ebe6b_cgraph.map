@@ -1,0 +1,5 @@
+<map id="QuantConnect.Algorithm.Framework.Selection.OpenInterestFutureUniverseSelectionModel.Filter" name="QuantConnect.Algorithm.Framework.Selection.OpenInterestFutureUniverseSelectionModel.Filter">
+<area shape="rect" id="node1" title="Defines the future chain universe filter" alt="" coords="5,45,275,101"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Securities_1_1ContractSecurityFilterUniverse.html#afd19f07e15021e294e3d72a992b4f634" title="Explicitly sets the selected contract symbols for this universe. This overrides and and all other met..." alt="" coords="345,5,570,61"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Algorithm_1_1Framework_1_1Selection_1_1OpenInterestFutureUniverseSelectionModel.html#ae9418efd87ce6f9862d30f4513fe9a56" title="Filters a set of contracts based on open interest." alt="" coords="323,85,592,141"/>
+</map>

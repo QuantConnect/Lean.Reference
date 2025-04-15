@@ -1,0 +1,5 @@
+<map id="QuantConnect.Indicators.PythonIndicator" name="QuantConnect.Indicators.PythonIndicator">
+<area shape="rect" id="node1" title="Provides a wrapper for IndicatorBase&lt;IBaseData&gt; implementations written in python" alt="" coords="139,80,325,121"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Indicators_1_1IndicatorBase.html" title=" " alt="" coords="5,5,213,32"/>
+<area shape="rect" id="node3" href="$interfaceQuantConnect_1_1Indicators_1_1IIndicatorWarmUpPeriodProvider.html" title="Represents an indicator with a warm up period provider." alt="" coords="237,5,472,32"/>
+</map>

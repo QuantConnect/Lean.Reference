@@ -1,0 +1,5 @@
+<map id="QuantConnect.Data.Consolidators.IDataConsolidator.Reset" name="QuantConnect.Data.Consolidators.IDataConsolidator.Reset">
+<area shape="rect" id="node1" title="Resets the consolidator" alt="" coords="315,39,561,80"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Data_1_1Consolidators_1_1SequentialConsolidator.html#a22c9a19fd9ae60d3ad56c0d7c43c48e3" title="Resets the consolidator" alt="" coords="13,5,259,47"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Data_1_1Common_1_1MarketHourAwareConsolidator.html#a2597636fe255c0dd919997d54c762a2e" title="Resets the consolidator" alt="" coords="5,71,267,112"/>
+</map>

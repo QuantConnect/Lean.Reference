@@ -1,0 +1,4 @@
+<map id="QuantConnect.Algorithm.Framework.Portfolio.PortfolioTargetCollection.Contains" name="QuantConnect.Algorithm.Framework.Portfolio.PortfolioTargetCollection.Contains">
+<area shape="rect" id="node1" title="Determines whether the specified symbol/target pair exists in this collection" alt="" coords="5,5,268,61"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Algorithm_1_1Framework_1_1Portfolio_1_1PortfolioTargetCollection.html#ae93c0177e59e8f737ff5527bb1afb711" title="Determines whether or not the specified target exists in this collection. NOTE: This checks for the e..." alt="" coords="316,5,579,61"/>
+</map>

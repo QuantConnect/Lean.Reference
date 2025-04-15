@@ -1,0 +1,10 @@
+<map id="QuantConnect.Data.Consolidators.IDataConsolidator" name="QuantConnect.Data.Consolidators.IDataConsolidator">
+<area shape="rect" id="node1" title="Represents a type capable of taking BaseData updates and firing events containing new &#39;consolidated&#39; ..." alt="" coords="152,169,399,211"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Data_1_1Common_1_1MarketHourAwareConsolidator.html" title="Consolidator for open markets bar only, extended hours bar are not consolidated." alt="" coords="459,5,681,47"/>
+<area shape="rect" id="node4" href="$classQuantConnect_1_1Data_1_1Consolidators_1_1BaseTimelessConsolidator.html" title="Represents a timeless consolidator which depends on the given values. This consolidator is meant to c..." alt="" coords="447,71,693,112"/>
+<area shape="rect" id="node5" href="$classQuantConnect_1_1Data_1_1Consolidators_1_1DataConsolidator.html" title="Represents a type that consumes BaseData instances and fires an event with consolidated and/or aggreg..." alt="" coords="447,136,693,177"/>
+<area shape="rect" id="node6" href="$classQuantConnect_1_1Data_1_1Consolidators_1_1RenkoConsolidator.html" title="Provides a type safe wrapper on the RenkoConsolidator class. This just allows us to define our select..." alt="" coords="447,201,693,243"/>
+<area shape="rect" id="node7" href="$classQuantConnect_1_1Data_1_1Consolidators_1_1SequentialConsolidator.html" title="This consolidator wires up the events on its First and Second consolidators such that data flows from..." alt="" coords="447,267,693,308"/>
+<area shape="rect" id="node8" href="$classQuantConnect_1_1Python_1_1DataConsolidatorPythonWrapper.html" title="Provides an Data Consolidator that wraps a PyObject object that represents a custom Python consolidat..." alt="" coords="468,332,672,373"/>
+<area shape="rect" id="node2" title=" " alt="" coords="5,177,104,203"/>
+</map>

@@ -1,0 +1,8 @@
+<map id="QuantConnect.Securities.IChainUniverseData" name="QuantConnect.Securities.IChainUniverseData">
+<area shape="rect" id="node1" title="Base interface intended for chain universe data to have some of their symbol properties accessible di..." alt="" coords="320,39,507,80"/>
+<area shape="rect" id="node4" href="$classQuantConnect_1_1Data_1_1UniverseSelection_1_1BaseChainUniverseData.html" title="Represents a chain universe. Intended as a base for options and futures universe data." alt="" coords="555,39,799,80"/>
+<area shape="rect" id="node2" href="$interfaceQuantConnect_1_1Data_1_1IBaseData.html" title="Base Data Class: Type, Timestamp, Key – Base Features." alt="" coords="183,46,272,73"/>
+<area shape="rect" id="node3" href="$interfaceQuantConnect_1_1Data_1_1ISymbolProvider.html" title="Base data with a symbol" alt="" coords="5,46,135,73"/>
+<area shape="rect" id="node5" href="$classQuantConnect_1_1Data_1_1UniverseSelection_1_1FutureUniverse.html" title="Represents a universe of futures data" alt="" coords="847,5,1057,47"/>
+<area shape="rect" id="node6" href="$classQuantConnect_1_1Data_1_1UniverseSelection_1_1OptionUniverse.html" title="Represents a universe of options data" alt="" coords="847,71,1057,112"/>
+</map>

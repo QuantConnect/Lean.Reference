@@ -1,0 +1,4 @@
+<map id="QuantConnect.Orders.TrailingStopOrder.GetDefaultTag" name="QuantConnect.Orders.TrailingStopOrder.GetDefaultTag">
+<area shape="rect" id="node1" title="Gets the default tag for this order" alt="" coords="5,5,217,47"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Messages_1_1TrailingStopOrder.html#a85b0795bef9427e17e6e99be7868e677" title="Returns a tag message for the given TrailingStopOrder" alt="" coords="265,5,500,47"/>
+</map>

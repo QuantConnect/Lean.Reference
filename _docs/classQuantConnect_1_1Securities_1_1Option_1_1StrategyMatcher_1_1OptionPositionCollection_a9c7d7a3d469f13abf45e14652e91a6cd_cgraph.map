@@ -1,0 +1,4 @@
+<map id="QuantConnect.Securities.Option.StrategyMatcher.OptionPositionCollection.FromPositions" name="QuantConnect.Securities.Option.StrategyMatcher.OptionPositionCollection.FromPositions">
+<area shape="rect" id="node1" title="Creates a new OptionPositionCollection from the specified enumerable of positions" alt="" coords="5,5,240,61"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Securities_1_1Option_1_1StrategyMatcher_1_1OptionPositionCollection.html#aa851b9f933cdba8c7c5d0b1146e92a7d" title="Creates a new collection that is the result of adding the specified positions &#160;to this collection." alt="" coords="288,5,511,61"/>
+</map>

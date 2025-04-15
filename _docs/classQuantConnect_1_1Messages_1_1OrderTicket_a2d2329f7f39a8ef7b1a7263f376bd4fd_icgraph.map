@@ -1,0 +1,4 @@
+<map id="QuantConnect.Messages.OrderTicket.CancelRequestAlreadySubmitted" name="QuantConnect.Messages.OrderTicket.CancelRequestAlreadySubmitted">
+<area shape="rect" id="node1" title="Returns a string message saying the order associated with the given ticket has already received a can..." alt="" coords="255,5,533,47"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Orders_1_1OrderTicket.html#a6dbcbd2804e71318e7dadcfd2947209c" title="Submits a new request to cancel this order" alt="" coords="5,5,207,47"/>
+</map>

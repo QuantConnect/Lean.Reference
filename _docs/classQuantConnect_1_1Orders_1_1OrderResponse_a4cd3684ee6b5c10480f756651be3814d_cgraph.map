@@ -1,0 +1,5 @@
+<map id="QuantConnect.Orders.OrderResponse.MissingSecurity" name="QuantConnect.Orders.OrderResponse.MissingSecurity">
+<area shape="rect" id="node1" title="Helper method to create an error response due to a missing security" alt="" coords="5,39,207,80"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Orders_1_1OrderResponse.html#a14ded2753785926becc5e7f8e5a02a09" title="Helper method to create an error response from a request" alt="" coords="265,5,467,47"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Messages_1_1OrderResponse.html#ab8e8f45c263cf3264595777f4ef91266" title="Returns a string message saying the user has not requested data for the symbol of the given request...." alt="" coords="255,71,477,112"/>
+</map>

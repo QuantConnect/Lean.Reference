@@ -1,0 +1,26 @@
+var dir_ab031ee45ee80ed4dc1837874ad02678 =
+[
+    [ "BaseDataConsolidator.cs", "BaseDataConsolidator_8cs_source.html", null ],
+    [ "BaseTimelessConsolidator.cs", "BaseTimelessConsolidator_8cs_source.html", null ],
+    [ "Calendar.cs", "Calendar_8cs_source.html", null ],
+    [ "CalendarType.cs", "CalendarType_8cs_source.html", null ],
+    [ "ClassicRangeConsolidator.cs", "ClassicRangeConsolidator_8cs_source.html", null ],
+    [ "ClassicRenkoConsolidator.cs", "ClassicRenkoConsolidator_8cs_source.html", null ],
+    [ "DataConsolidator.cs", "DataConsolidator_8cs_source.html", null ],
+    [ "DynamicDataConsolidator.cs", "DynamicDataConsolidator_8cs_source.html", null ],
+    [ "FilteredIdentityDataConsolidator.cs", "FilteredIdentityDataConsolidator_8cs_source.html", null ],
+    [ "IDataConsolidator.cs", "IDataConsolidator_8cs_source.html", null ],
+    [ "IdentityDataConsolidator.cs", "IdentityDataConsolidator_8cs_source.html", null ],
+    [ "MarketHourAwareConsolidator.cs", "MarketHourAwareConsolidator_8cs_source.html", null ],
+    [ "OpenInterestConsolidator.cs", "OpenInterestConsolidator_8cs_source.html", null ],
+    [ "PeriodCountConsolidatorBase.cs", "PeriodCountConsolidatorBase_8cs_source.html", null ],
+    [ "QuoteBarConsolidator.cs", "QuoteBarConsolidator_8cs_source.html", null ],
+    [ "RangeConsolidator.cs", "RangeConsolidator_8cs_source.html", null ],
+    [ "RenkoConsolidator.cs", "RenkoConsolidator_8cs_source.html", null ],
+    [ "SequentialConsolidator.cs", "SequentialConsolidator_8cs_source.html", null ],
+    [ "TickConsolidator.cs", "TickConsolidator_8cs_source.html", null ],
+    [ "TickQuoteBarConsolidator.cs", "TickQuoteBarConsolidator_8cs_source.html", null ],
+    [ "TradeBarConsolidator.cs", "TradeBarConsolidator_8cs_source.html", null ],
+    [ "TradeBarConsolidatorBase.cs", "TradeBarConsolidatorBase_8cs_source.html", null ],
+    [ "VolumeRenkoConsolidator.cs", "VolumeRenkoConsolidator_8cs_source.html", null ]
+];

@@ -1,0 +1,4 @@
+<map id="QuantConnect.Data.UniverseSelection.BaseFundamentalDataProvider.GetDefault&lt; T &gt;" name="QuantConnect.Data.UniverseSelection.BaseFundamentalDataProvider.GetDefault&lt; T &gt;">
+<area shape="rect" id="node1" title="Get&#39;s the default value for the given T type" alt="" coords="300,5,591,61"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Data_1_1UniverseSelection_1_1CoarseFundamentalDataProvider.html#a10da7f47da92820dc783dd24b2de9392" title="Will fetch the requested fundamental information for the requested time and symbol" alt="" coords="5,5,252,61"/>
+</map>

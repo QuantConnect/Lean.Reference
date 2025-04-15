@@ -1,0 +1,4 @@
+<map id="QuantConnect.Lean.Engine.DataFeeds.Enumerators.Factories.LiveCustomDataSubscriptionEnumeratorFactory" name="QuantConnect.Lean.Engine.DataFeeds.Enumerators.Factories.LiveCustomDataSubscriptionEnumeratorFactory">
+<area shape="rect" id="node1" title="Provides an implementation of ISubscriptionEnumeratorFactory to handle live custom data." alt="" coords="5,80,292,151"/>
+<area shape="rect" id="node2" href="$interfaceQuantConnect_1_1Data_1_1ISubscriptionEnumeratorFactory.html" title="Create an IEnumerator&lt;BaseData&gt;" alt="" coords="34,5,263,32"/>
+</map>

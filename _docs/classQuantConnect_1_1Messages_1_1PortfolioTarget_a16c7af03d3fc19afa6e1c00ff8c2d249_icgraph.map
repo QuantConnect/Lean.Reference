@@ -1,0 +1,4 @@
+<map id="QuantConnect.Messages.PortfolioTarget.UnableToComputeOrderQuantityDueToNullResult" name="QuantConnect.Messages.PortfolioTarget.UnableToComputeOrderQuantityDueToNullResult">
+<area shape="rect" id="node1" title="Returns a string message saying it was impossible to compute the order quantity of the given symbol...." alt="" coords="316,5,593,61"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Algorithm_1_1Framework_1_1Portfolio_1_1PortfolioTarget.html#a6e9c9bbcf5f629f8c686bab23c542db0" title="Creates a new target for the specified percent" alt="" coords="5,13,268,54"/>
+</map>

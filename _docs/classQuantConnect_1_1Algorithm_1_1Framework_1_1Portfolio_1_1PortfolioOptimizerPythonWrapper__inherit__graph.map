@@ -1,0 +1,5 @@
+<map id="QuantConnect.Algorithm.Framework.Portfolio.PortfolioOptimizerPythonWrapper" name="QuantConnect.Algorithm.Framework.Portfolio.PortfolioOptimizerPythonWrapper">
+<area shape="rect" id="node1" title="Python wrapper for custom portfolio optimizer" alt="" coords="27,95,327,136"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Python_1_1BasePythonWrapper.html" title=" " alt="" coords="5,5,171,47"/>
+<area shape="rect" id="node3" href="$interfaceQuantConnect_1_1Algorithm_1_1Framework_1_1Portfolio_1_1IPortfolioOptimizer.html" title="Interface for portfolio optimization algorithms" alt="" coords="195,13,341,39"/>
+</map>

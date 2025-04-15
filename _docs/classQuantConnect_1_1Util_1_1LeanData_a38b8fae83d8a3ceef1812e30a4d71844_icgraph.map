@@ -1,0 +1,7 @@
+<map id="QuantConnect.Util.LeanData.IsValidConfiguration" name="QuantConnect.Util.LeanData.IsValidConfiguration">
+<area shape="rect" id="node1" title="Helper method to determine if a configuration set is valid" alt="" coords="624,86,835,127"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Lean_1_1Engine_1_1DataFeeds_1_1FileSystemDataFeed.html#ac148e78fc814fca88c70a1835be51a25" title="Creates a new subscription to provide data for the specified security." alt="" coords="282,5,558,61"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1ToolBox_1_1TickAggregator.html#a5be5829fd394af9b7a45864fb4935efe" title="Creates the correct TickAggregator instances for the specified tick types and resolution...." alt="" coords="320,86,520,127"/>
+<area shape="rect" id="node4" href="$classQuantConnect_1_1Lean_1_1Engine_1_1DataFeeds_1_1DataManager.html#a44a6ceb7e171992b862532e0f63b9aa7" title="Get the data feed types for a given SecurityType Resolution" alt="" coords="264,152,576,208"/>
+<area shape="rect" id="node5" href="$classQuantConnect_1_1Lean_1_1Engine_1_1DataFeeds_1_1DataManager.html#ae3335b4baef65a2485d4c16a65067a2e" title="Creates and adds a list of SubscriptionDataConfig for a given symbol and configuration...." alt="" coords="5,159,216,201"/>
+</map>

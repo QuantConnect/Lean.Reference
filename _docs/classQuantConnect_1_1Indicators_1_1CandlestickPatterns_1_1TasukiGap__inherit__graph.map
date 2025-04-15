@@ -1,0 +1,5 @@
+<map id="QuantConnect.Indicators.CandlestickPatterns.TasukiGap" name="QuantConnect.Indicators.CandlestickPatterns.TasukiGap">
+<area shape="rect" id="node1" title="Tasuki Gap candlestick pattern indicator" alt="" coords="5,169,228,211"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Indicators_1_1CandlestickPatterns_1_1CandlestickPattern.html" title="Abstract base class for a candlestick pattern indicator" alt="" coords="45,95,189,121"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Indicators_1_1WindowIndicator.html" title=" " alt="" coords="10,5,223,47"/>
+</map>

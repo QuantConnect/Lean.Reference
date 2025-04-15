@@ -1,0 +1,6 @@
+<map id="QuantConnect.Python.PythonInitializer.AddAlgorithmLocationPath" name="QuantConnect.Python.PythonInitializer.AddAlgorithmLocationPath">
+<area shape="rect" id="node1" title="Adds the algorithm location to the python path. This will make sure that AddPythonPaths keeps the alg..." alt="" coords="5,39,264,80"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Python_1_1PythonInitializer.html#a5ccedf0b270fcb07bf84e10e9b9e29d7" title="Adds directories to the python path at runtime" alt="" coords="312,5,524,47"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Logging_1_1Log.html#af0e7955911bc7664b37661b2a303a9e3" title="Log error" alt="" coords="318,71,518,112"/>
+<area shape="rect" id="node4" href="$interfaceQuantConnect_1_1Logging_1_1ILogHandler.html#a35373a0c5d76031fa5ccf5dc39e5c25d" title="Write error message to log" alt="" coords="572,71,772,112"/>
+</map>

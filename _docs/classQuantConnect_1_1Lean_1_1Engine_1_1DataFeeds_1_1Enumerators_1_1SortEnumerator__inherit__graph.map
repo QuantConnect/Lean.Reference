@@ -1,0 +1,5 @@
+<map id="QuantConnect.Lean.Engine.DataFeeds.Enumerators.SortEnumerator&lt; TKey &gt;" name="QuantConnect.Lean.Engine.DataFeeds.Enumerators.SortEnumerator&lt; TKey &gt;">
+<area shape="rect" id="node1" title="Provides an enumerator for sorting collections of BaseData objects based on a specified property...." alt="" coords="46,80,330,136"/>
+<area shape="rect" id="node2" title=" " alt="" coords="5,5,200,32"/>
+<area shape="rect" id="node3" title=" " alt="" coords="224,5,323,32"/>
+</map>

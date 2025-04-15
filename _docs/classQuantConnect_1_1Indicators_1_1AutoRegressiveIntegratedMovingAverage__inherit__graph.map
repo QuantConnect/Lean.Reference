@@ -1,0 +1,6 @@
+<map id="QuantConnect.Indicators.AutoRegressiveIntegratedMovingAverage" name="QuantConnect.Indicators.AutoRegressiveIntegratedMovingAverage">
+<area shape="rect" id="node1" title="An Autoregressive Intergrated Moving Average (ARIMA) is a time series model which can be used to desc..." alt="" coords="93,169,332,225"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Indicators_1_1TimeSeriesIndicator.html" title="The base class for any Time Series&#45;type indicator, containing methods common to most of such models." alt="" coords="137,95,289,121"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Indicators_1_1IndicatorBase.html" title=" " alt="" coords="5,5,188,47"/>
+<area shape="rect" id="node4" href="$interfaceQuantConnect_1_1Indicators_1_1IIndicatorWarmUpPeriodProvider.html" title="Represents an indicator with a warm up period provider." alt="" coords="213,13,447,39"/>
+</map>

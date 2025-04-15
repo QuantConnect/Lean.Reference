@@ -1,0 +1,8 @@
+<map id="QuantConnect.Securities.BuyingPowerModel.GetBuyingPower" name="QuantConnect.Securities.BuyingPowerModel.GetBuyingPower">
+<area shape="rect" id="node1" title="Gets the buying power available for a trade" alt="" coords="5,130,264,171"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Securities_1_1BuyingPowerModel.html#acee98f5dcfa62192bbc96f94824dbe50" title="Gets the margin cash available for a trade" alt="" coords="312,93,601,134"/>
+<area shape="rect" id="node6" href="$classQuantConnect_1_1Securities_1_1BuyingPowerParameters.html#adddffe381bc8344f9f1a1d9403f4a5c5" title="Creates the result using the specified buying power in units of the account currency" alt="" coords="343,159,570,215"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Securities_1_1BuyingPowerModel.html#a662d7e6905d1818ee738b142a05399af" title="The margin that must be held in order to increase the position by the provided quantity" alt="" coords="651,5,907,61"/>
+<area shape="rect" id="node4" href="$classQuantConnect_1_1Securities_1_1BuyingPowerModel.html#abc9f513ca08c05a31651d5e9dd5d9e9c" title="Gets the margin currently allocated to the specified holding" alt="" coords="649,85,908,141"/>
+<area shape="rect" id="node5" href="$classQuantConnect_1_1Securities_1_1SecurityPortfolioManager.html#a7b65859fe3cd9c77ec7175c78ff08835" title="Gets the remaining margin on the account in the account&#39;s currency for the given total portfolio valu..." alt="" coords="672,165,885,221"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="QuantConnect.ExtendedDictionary.Remove" name="QuantConnect.ExtendedDictionary.Remove">
+<area shape="rect" id="node1" title="Removes the value with the specified Symbol" alt="" coords="300,5,548,47"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1ExtendedDictionary.html#a859314a103eaf00d59aeb3cd1862174a" title="Removes and returns an element from a dictionary having the given Symbol." alt="" coords="5,5,252,47"/>
+</map>

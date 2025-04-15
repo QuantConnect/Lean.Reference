@@ -1,0 +1,4 @@
+<map id="QuantConnect.Packets.BacktestResultPacket" name="QuantConnect.Packets.BacktestResultPacket">
+<area shape="rect" id="node1" title="Backtest result packet: send backtest information to GUI for user consumption." alt="" coords="5,80,233,121"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Packets_1_1Packet.html" title="Base class for packet messaging system" alt="" coords="87,5,151,32"/>
+</map>

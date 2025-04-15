@@ -1,0 +1,4 @@
+<map id="QuantConnect.Securities.SecurityTransactionManager.GetOrderTicket" name="QuantConnect.Securities.SecurityTransactionManager.GetOrderTicket">
+<area shape="rect" id="node1" title="Gets the order ticket for the specified order id. Returns null if not found" alt="" coords="5,5,237,61"/>
+<area shape="rect" id="node2" href="$interfaceQuantConnect_1_1Securities_1_1IOrderProvider.html#a299559676284f079d519275b43523a5e" title="Gets the order ticket for the specified order id. Returns null if not found" alt="" coords="285,13,503,54"/>
+</map>

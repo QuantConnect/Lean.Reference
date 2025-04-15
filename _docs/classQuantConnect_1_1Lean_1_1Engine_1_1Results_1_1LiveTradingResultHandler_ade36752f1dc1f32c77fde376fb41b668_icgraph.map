@@ -1,0 +1,4 @@
+<map id="QuantConnect.Lean.Engine.Results.LiveTradingResultHandler.DebugMessage" name="QuantConnect.Lean.Engine.Results.LiveTradingResultHandler.DebugMessage">
+<area shape="rect" id="node1" title="Send a live trading debug message to the live console." alt="" coords="296,5,539,61"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Lean_1_1Engine_1_1Results_1_1LiveTradingResultHandler.html#aab3caeb98b4c3334e459e39a10b918ab" title="New order event for the algorithm" alt="" coords="5,5,248,61"/>
+</map>

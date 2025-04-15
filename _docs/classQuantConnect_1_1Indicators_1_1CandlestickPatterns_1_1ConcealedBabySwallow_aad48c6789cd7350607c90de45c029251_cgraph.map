@@ -1,0 +1,4 @@
+<map id="QuantConnect.Indicators.CandlestickPatterns.ConcealedBabySwallow.ConcealedBabySwallow" name="QuantConnect.Indicators.CandlestickPatterns.ConcealedBabySwallow.ConcealedBabySwallow">
+<area shape="rect" id="node1" title="Initializes a new instance of the ConcealedBabySwallow class using the specified name." alt="" coords="5,5,272,61"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Indicators_1_1CandlestickPatterns_1_1CandleSettings.html#a1e65d2caf61e018e94574519fee75620" title="Returns the candle setting for the requested type" alt="" coords="320,13,600,54"/>
+</map>

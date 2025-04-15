@@ -1,0 +1,5 @@
+<map id="QuantConnect.Data.Fundamental.TradingGainLossIncomeStatement" name="QuantConnect.Data.Fundamental.TradingGainLossIncomeStatement">
+<area shape="rect" id="node1" title="A broker&#45;dealer or other financial entity may buy and sell securities exclusively for its own account..." alt="" coords="5,155,249,196"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Data_1_1Fundamental_1_1MultiPeriodField.html" title="Abstract base class for multi&#45;period fields" alt="" coords="64,80,191,107"/>
+<area shape="rect" id="node3" title=" " alt="" coords="49,5,206,32"/>
+</map>

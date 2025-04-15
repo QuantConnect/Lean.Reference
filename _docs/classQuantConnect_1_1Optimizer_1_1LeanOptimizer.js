@@ -1,0 +1,25 @@
+var classQuantConnect_1_1Optimizer_1_1LeanOptimizer =
+[
+    [ "LeanOptimizer", "classQuantConnect_1_1Optimizer_1_1LeanOptimizer.html#af23ab5e44d7c347f756d9e5bdc29f138", null ],
+    [ "Start", "classQuantConnect_1_1Optimizer_1_1LeanOptimizer.html#a321cfa525d8bfa2ea6e23ea02f216988", null ],
+    [ "TriggerOnEndEvent", "classQuantConnect_1_1Optimizer_1_1LeanOptimizer.html#ac726237eef575d77acd4b9b5bee8548a", null ],
+    [ "RunLean", "classQuantConnect_1_1Optimizer_1_1LeanOptimizer.html#aad5dabf947af5bac0021f5e30ef93169", null ],
+    [ "GetBacktestName", "classQuantConnect_1_1Optimizer_1_1LeanOptimizer.html#a49ea144395e46e109291dc669db7ef94", null ],
+    [ "NewResult", "classQuantConnect_1_1Optimizer_1_1LeanOptimizer.html#a2e91182cc5f20d5006644c133d92e414", null ],
+    [ "Dispose", "classQuantConnect_1_1Optimizer_1_1LeanOptimizer.html#a3e9cfdfebb5dd12b0e7fdbbae869779b", null ],
+    [ "GetCurrentEstimate", "classQuantConnect_1_1Optimizer_1_1LeanOptimizer.html#ad20b4d21f2cb41507562da2eb7eb6cca", null ],
+    [ "GetRuntimeStatistics", "classQuantConnect_1_1Optimizer_1_1LeanOptimizer.html#a26a7caa48bec6fad83277bb708196523", null ],
+    [ "GetLogDetails", "classQuantConnect_1_1Optimizer_1_1LeanOptimizer.html#a6511970d731c216ab0fcb793ba49579a", null ],
+    [ "AbortLean", "classQuantConnect_1_1Optimizer_1_1LeanOptimizer.html#aa016090335b8d6d32335dda10889428d", null ],
+    [ "SendUpdate", "classQuantConnect_1_1Optimizer_1_1LeanOptimizer.html#a8c742f651b7a2e7adb3204ce544801a2", null ],
+    [ "SetOptimizationStatus", "classQuantConnect_1_1Optimizer_1_1LeanOptimizer.html#a83cee6f3b7bdafe24a0013cdaf6dd012", null ],
+    [ "CompletedBacktests", "classQuantConnect_1_1Optimizer_1_1LeanOptimizer.html#abce49300d3d62a64aef7ab432efd3e52", null ],
+    [ "Disposed", "classQuantConnect_1_1Optimizer_1_1LeanOptimizer.html#a19ffda0ca706443c9b9ee4216f20b0b7", null ],
+    [ "Status", "classQuantConnect_1_1Optimizer_1_1LeanOptimizer.html#a7b8af042091fd4a3737fcf0cdc8cbd76", null ],
+    [ "OptimizationTarget", "classQuantConnect_1_1Optimizer_1_1LeanOptimizer.html#ad158fd4df3c1d0789722bc2bf209a0ba", null ],
+    [ "RunningParameterSetForBacktest", "classQuantConnect_1_1Optimizer_1_1LeanOptimizer.html#a1a7904a04a1107e679f9e4416a1194d9", null ],
+    [ "PendingParameterSet", "classQuantConnect_1_1Optimizer_1_1LeanOptimizer.html#ada38dd64c502d6b111a0437d8a58095a", null ],
+    [ "Strategy", "classQuantConnect_1_1Optimizer_1_1LeanOptimizer.html#a5077b84e9f6556f7d2d03a19cc06ca04", null ],
+    [ "NodePacket", "classQuantConnect_1_1Optimizer_1_1LeanOptimizer.html#abbb97b05ea6a119d8d8d000f61470591", null ],
+    [ "Ended", "classQuantConnect_1_1Optimizer_1_1LeanOptimizer.html#a1b496683d478a345869a0f8e36dbc528", null ]
+];

@@ -1,0 +1,4 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$classQuantConnect_1_1Data_1_1Market_1_1BaseChain.html" title=" " alt="" coords="5,5,213,61"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Data_1_1Market_1_1OptionChain.html" title="Represents an entire chain of option contracts for a single underlying security. This type is IEnumer..." alt="" coords="261,13,464,54"/>
+</map>

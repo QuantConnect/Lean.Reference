@@ -1,0 +1,6 @@
+<map id="QuantConnect.ISeriesPoint" name="QuantConnect.ISeriesPoint">
+<area shape="rect" id="node1" title="Single chart series point/bar data." alt="" coords="112,5,307,32"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Candlestick.html" title="Single candlestick for a candlestick chart" alt="" coords="5,80,200,107"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1ChartPoint.html" title="Single Chart Point Value Type for QCAlgorithm.Plot();" alt="" coords="224,80,411,107"/>
+<area shape="rect" id="node4" href="$classQuantConnect_1_1ScatterChartPoint.html" title="A chart point for a scatter series plot" alt="" coords="218,155,417,196"/>
+</map>

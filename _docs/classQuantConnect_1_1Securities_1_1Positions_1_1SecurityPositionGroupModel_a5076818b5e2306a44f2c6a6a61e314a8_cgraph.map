@@ -1,0 +1,4 @@
+<map id="QuantConnect.Securities.Positions.SecurityPositionGroupModel.TryCreatePositionGroup" name="QuantConnect.Securities.Positions.SecurityPositionGroupModel.TryCreatePositionGroup">
+<area shape="rect" id="node1" title="Creates a position group for the specified order, pulling" alt="" coords="5,5,235,61"/>
+<area shape="rect" id="node2" href="$interfaceQuantConnect_1_1Securities_1_1Positions_1_1IPositionGroupResolver.html#ad16e3d1e297f0cc3cd5048b4ca242ad5" title="Attempts to group the specified positions into a new IPositionGroup using an appropriate IPositionGro..." alt="" coords="283,5,523,61"/>
+</map>

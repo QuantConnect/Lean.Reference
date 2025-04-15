@@ -1,0 +1,14 @@
+<map id="QuantConnect.Data.UniverseSelection.BaseDataCollection" name="QuantConnect.Data.UniverseSelection.BaseDataCollection">
+<area shape="rect" id="node1" title="This type exists for transport of data as a single packet" alt="" coords="565,104,780,145"/>
+<area shape="rect" id="node6" href="$classQuantConnect_1_1Data_1_1Fundamental_1_1FundamentalUniverse.html" title="Lean fundamentals universe data class" alt="" coords="829,23,1071,64"/>
+<area shape="rect" id="node8" href="$classQuantConnect_1_1Data_1_1UniverseSelection_1_1BaseChainUniverseData.html" title="Represents a chain universe. Intended as a base for options and futures universe data." alt="" coords="828,104,1072,145"/>
+<area shape="rect" id="node11" href="$classQuantConnect_1_1Data_1_1UniverseSelection_1_1ETFConstituentUniverse.html" title="ETF constituent data" alt="" coords="829,201,1071,243"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Data_1_1BaseData.html" title="Abstract base data class of QuantConnect. It is intended to be extended to define generic user custom..." alt="" coords="376,86,461,113"/>
+<area shape="rect" id="node3" href="$interfaceQuantConnect_1_1Data_1_1IBaseData.html" title="Base Data Class: Type, Timestamp, Key – Base Features." alt="" coords="183,86,272,113"/>
+<area shape="rect" id="node4" href="$interfaceQuantConnect_1_1Data_1_1ISymbolProvider.html" title="Base data with a symbol" alt="" coords="5,86,135,113"/>
+<area shape="rect" id="node5" title=" " alt="" coords="320,137,517,163"/>
+<area shape="rect" id="node7" href="$classQuantConnect_1_1Data_1_1Fundamental_1_1Fundamentals.html" title="Lean fundamentals universe data class" alt="" coords="1120,5,1363,47"/>
+<area shape="rect" id="node9" href="$classQuantConnect_1_1Data_1_1UniverseSelection_1_1FutureUniverse.html" title="Represents a universe of futures data" alt="" coords="1136,71,1347,112"/>
+<area shape="rect" id="node10" href="$classQuantConnect_1_1Data_1_1UniverseSelection_1_1OptionUniverse.html" title="Represents a universe of options data" alt="" coords="1136,136,1347,177"/>
+<area shape="rect" id="node12" href="$classQuantConnect_1_1Data_1_1UniverseSelection_1_1ETFConstituentData.html" title="ETF Constituent data" alt="" coords="1133,201,1349,243"/>
+</map>

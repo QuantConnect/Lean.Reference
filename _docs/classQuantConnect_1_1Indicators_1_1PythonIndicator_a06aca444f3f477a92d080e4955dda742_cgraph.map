@@ -1,0 +1,5 @@
+<map id="QuantConnect.Indicators.PythonIndicator.ComputeNextValue" name="QuantConnect.Indicators.PythonIndicator.ComputeNextValue">
+<area shape="rect" id="node1" title="Computes the next value of this indicator from the given state" alt="" coords="5,39,259,80"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Python_1_1BasePythonWrapper.html#a2c51b928b086cb03f4456ad72a351e5e" title="Gets the Python instance property with the specified name" alt="" coords="314,5,517,47"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Python_1_1BasePythonWrapper.html#a05fa6adc417fbc2930f9bb95c91af17a" title="Invokes the specified method with the specified arguments" alt="" coords="307,71,524,112"/>
+</map>

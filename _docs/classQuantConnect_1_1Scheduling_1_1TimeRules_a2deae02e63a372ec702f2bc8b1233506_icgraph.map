@@ -1,0 +1,4 @@
+<map id="QuantConnect.Scheduling.TimeRules.BeforeMarketClose" name="QuantConnect.Scheduling.TimeRules.BeforeMarketClose">
+<area shape="rect" id="node1" title="Specifies an event should fire at the market close +&#45; minutesBeforeClose" alt="" coords="260,5,479,47"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Scheduling_1_1TimeRules.html#a7f695b64a51ca1d190e205f977e8e60d" title="Specifies an event should fire at the market close +&#45; minutesAfterClose" alt="" coords="5,5,212,47"/>
+</map>

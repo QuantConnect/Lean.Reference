@@ -1,0 +1,6 @@
+<map id="QuantConnect.Lean.Engine.LeanEngineAlgorithmHandlers.LeanEngineAlgorithmHandlers" name="QuantConnect.Lean.Engine.LeanEngineAlgorithmHandlers.LeanEngineAlgorithmHandlers">
+<area shape="rect" id="node1" title="Initializes a new instance of the LeanEngineAlgorithmHandlers class from the specified handlers" alt="" coords="588,31,843,87"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Lean_1_1Engine_1_1LeanEngineAlgorithmHandlers.html#a9737f33c09743080ebc70bcd06241110" title="Creates a new instance of the LeanEngineAlgorithmHandlers class from the specified composer using typ..." alt="" coords="284,31,540,87"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Lean_1_1Engine_1_1Initializer.html#a8b5510189c94accd341087b4d8d1c796" title="Get and initializes Algorithm Handler" alt="" coords="5,5,236,47"/>
+<area shape="rect" id="node4" href="$classQuantConnect_1_1Research_1_1QuantBook.html#a239bcca3c726a8cc25b9a6a3cd0c244f" title="QuantBook constructor. Provides access to data for quantitative analysis" alt="" coords="10,71,231,112"/>
+</map>

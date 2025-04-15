@@ -1,0 +1,6 @@
+<map id="QuantConnect.Indicators.ImpliedVolatility.ComputeIndicator" name="QuantConnect.Indicators.ImpliedVolatility.ComputeIndicator">
+<area shape="rect" id="node1" title="Computes the next value" alt="" coords="5,71,252,112"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Indicators_1_1ImpliedVolatility.html#a7468dfc30aa8277dcac64c0068617a17" title="Computes the IV of the option" alt="" coords="322,5,527,47"/>
+<area shape="rect" id="node3" href="$interfaceQuantConnect_1_1Data_1_1IDividendYieldModel.html#acd84f1438fd20ae6501928f357adb725" title="Get dividend yield by a given date of a given symbol" alt="" coords="317,71,532,112"/>
+<area shape="rect" id="node4" href="$interfaceQuantConnect_1_1Data_1_1IRiskFreeInterestRateModel.html#aa7dfabf2595f0e70086b46c699983232" title="Get interest rate by a given date" alt="" coords="300,136,549,177"/>
+</map>

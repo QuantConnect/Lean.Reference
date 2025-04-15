@@ -1,0 +1,9 @@
+<map id="QuantConnect.Securities.Option.OptionSymbol.IsStandard" name="QuantConnect.Securities.Option.OptionSymbol.IsStandard">
+<area shape="rect" id="node1" title="Returns true if the option is a standard contract that expires 3rd Friday of the month" alt="" coords="555,166,789,207"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Securities_1_1Option_1_1OptionSymbol.html#a75217e30f16bc69188675c474bb703b0" title="Returns the last trading date for the option contract" alt="" coords="256,5,497,61"/>
+<area shape="rect" id="node4" href="$classQuantConnect_1_1Securities_1_1Option_1_1OptionSymbol.html#ade0fec32933ccfe29a37c3cfda2563fe" title="Returns the settlement date time of the option contract." alt="" coords="247,85,507,141"/>
+<area shape="rect" id="node5" href="$classQuantConnect_1_1Securities_1_1OptionFilterUniverse.html#a954c7f72326b4a248dd5a8be194cc971" title="Determine if the given Option contract symbol is standard" alt="" coords="262,166,491,207"/>
+<area shape="rect" id="node6" href="$classQuantConnect_1_1Securities_1_1Option_1_1OptionSymbol.html#a111001806cbc9bd5c096d716de9cc622" title="Returns true if the option is a standard contract that expires 3rd Friday of the month" alt="" coords="259,232,494,288"/>
+<area shape="rect" id="node7" href="$classQuantConnect_1_1Securities_1_1Option_1_1OptionSymbol.html#a1fb22470f1ace3a13ddf091ec0832fe4" title="Returns true if the option is a weekly contract that expires on Friday , except 3rd Friday of the mon..." alt="" coords="265,313,489,354"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Extensions.html#a0ffdbe5701923c4217f90dd5fbe87641" title="Gets the delisting date for the provided Symbol" alt="" coords="5,13,199,54"/>
+</map>

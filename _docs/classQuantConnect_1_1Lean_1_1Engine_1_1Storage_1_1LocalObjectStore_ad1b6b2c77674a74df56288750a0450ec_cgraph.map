@@ -1,0 +1,15 @@
+<map id="QuantConnect.Lean.Engine.Storage.LocalObjectStore.GetFilePath" name="QuantConnect.Lean.Engine.Storage.LocalObjectStore.GetFilePath">
+<area shape="rect" id="node1" title="Returns the file path for the specified path" alt="" coords="5,173,269,215"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Lean_1_1Engine_1_1Storage_1_1LocalObjectStore.html#a52e8e88b7d73e2d4f088d3ff71a7c301" title="Determines whether the store contains data for the specified path" alt="" coords="317,56,588,97"/>
+<area shape="rect" id="node4" href="$classQuantConnect_1_1Lean_1_1Engine_1_1Storage_1_1LocalObjectStore.html#a401003a1ad65a8cb163d7aa1162e98c0" title="Get&#39;s a file path for a given path. Internal use only because it does not guarantee the existence of ..." alt="" coords="1215,115,1477,156"/>
+<area shape="rect" id="node5" href="$classQuantConnect_1_1Lean_1_1Engine_1_1Storage_1_1FileHandler.html#a29dd5ac902556340f99beb85648c9e12" title="Create the requested directory path" alt="" coords="325,173,581,215"/>
+<area shape="rect" id="node6" href="$classQuantConnect_1_1Lean_1_1Engine_1_1Storage_1_1FileHandler.html#abce4d1ac31ea0570c4462902a59246b3" title="True if the given directory exists" alt="" coords="327,239,579,280"/>
+<area shape="rect" id="node7" href="$classQuantConnect_1_1Lean_1_1Engine_1_1Storage_1_1LocalObjectStore.html#a0bae70bb60e5691f9d65f7e981d9c9b0" title="Saves the object data for the specified path" alt="" coords="323,304,582,345"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Lean_1_1Engine_1_1Storage_1_1FileHandler.html#ab15499e563b744ff777f29ffae0ef97f" title="True if the given file path exists" alt="" coords="655,5,857,47"/>
+<area shape="rect" id="node8" href="$classQuantConnect_1_1Lean_1_1Engine_1_1Storage_1_1LocalObjectStore.html#a093750ac2ce0b349d77f3a80f4d5e2e7" title="Won&#39;t trigger persist nor will check storage write permissions, useful on initialization since it all..." alt="" coords="636,283,876,339"/>
+<area shape="rect" id="node9" href="$classQuantConnect_1_1Lean_1_1Engine_1_1Storage_1_1LocalObjectStore.html#a97abc3229c26b0c287cdb79018ae4f89" title="Validates storage limits are respected on a new save operation" alt="" coords="924,258,1167,314"/>
+<area shape="rect" id="node10" href="$classQuantConnect_1_1Logging_1_1Log.html#af0e7955911bc7664b37661b2a303a9e3" title="Log error" alt="" coords="1246,192,1446,233"/>
+<area shape="rect" id="node12" href="$classQuantConnect_1_1Lean_1_1Engine_1_1Storage_1_1LocalObjectStore.html#afa028c51997b389b10f3d33ec455c74d" title="Event invocator for the ErrorRaised event" alt="" coords="1227,258,1465,314"/>
+<area shape="rect" id="node13" href="$classQuantConnect_1_1Lean_1_1Engine_1_1Storage_1_1FileHandler.html#abed98fbebe3d07969e4907d896a5ad2b" title="Will try to fetch the given file length, will return 0 if it doesn&#39;t exist" alt="" coords="1237,338,1455,394"/>
+<area shape="rect" id="node11" href="$interfaceQuantConnect_1_1Logging_1_1ILogHandler.html#a35373a0c5d76031fa5ccf5dc39e5c25d" title="Write error message to log" alt="" coords="1525,192,1725,233"/>
+</map>

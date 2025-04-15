@@ -1,0 +1,4 @@
+<map id="QuantConnect.Interfaces.IAlgorithm.Initialize" name="QuantConnect.Interfaces.IAlgorithm.Initialize">
+<area shape="rect" id="node1" title="Initialise the Algorithm and Prepare Required Data:" alt="" coords="288,13,475,54"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Lean_1_1Engine_1_1TransactionHandlers_1_1BacktestingTransactionHandler.html#a31f9373626983ba2f3a8d4f00b1546a1" title="Creates a new BacktestingTransactionHandler using the BacktestingBrokerage" alt="" coords="5,5,240,61"/>
+</map>

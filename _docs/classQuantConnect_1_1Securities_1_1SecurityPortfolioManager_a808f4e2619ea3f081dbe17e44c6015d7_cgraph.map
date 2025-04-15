@@ -1,0 +1,7 @@
+<map id="QuantConnect.Securities.SecurityPortfolioManager.ApplySplit" name="QuantConnect.Securities.SecurityPortfolioManager.ApplySplit">
+<area shape="rect" id="node1" title="Applies a split to the portfolio" alt="" coords="5,108,261,149"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Securities_1_1Cash.html#af5a7561893cf6fa38c3ee83d434fe32d" title="Adds the specified amount of currency to this Cash instance and returns the new total...." alt="" coords="343,5,530,47"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Securities_1_1Security.html#ab93a58a84a4aa1b19d0972faf6c056c4" title="Get the last price update set to the security if any else null" alt="" coords="343,71,530,112"/>
+<area shape="rect" id="node4" href="$classQuantConnect_1_1Securities_1_1SecurityPortfolioManager.html#a752342997e11998f5c14f238c2ad4b5d" title="Will flag the current TotalPortfolioValue as invalid so it is recalculated when gotten" alt="" coords="309,137,564,193"/>
+<area shape="rect" id="node5" href="$classQuantConnect_1_1Securities_1_1SecurityHolding.html#a577d8ef814d6d8a1958453357ac2903d" title="Set the quantity of holdings and their average price after processing a portfolio fill." alt="" coords="333,217,540,259"/>
+</map>

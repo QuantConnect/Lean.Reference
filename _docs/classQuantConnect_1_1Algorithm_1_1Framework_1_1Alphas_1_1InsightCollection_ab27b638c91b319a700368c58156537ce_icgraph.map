@@ -1,0 +1,5 @@
+<map id="QuantConnect.Algorithm.Framework.Alphas.InsightCollection.Remove" name="QuantConnect.Algorithm.Framework.Alphas.InsightCollection.Remove">
+<area shape="rect" id="node1" title="Removes the first occurrence of a specific object from the T:System.Collections.Generic...." alt="" coords="341,50,604,91"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Algorithm_1_1Framework_1_1Alphas_1_1InsightCollection.html#a032b6852139ad13b87be2dd28e3b603f" title="Remove all expired insights from the collection and retuns them" alt="" coords="6,5,293,61"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Algorithm_1_1Framework_1_1Alphas_1_1InsightCollection.html#aa7ea83a1b6fbaa706aadedecb63a840a" title="Will remove insights from the complete insight collection" alt="" coords="5,86,293,127"/>
+</map>

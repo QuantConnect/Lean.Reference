@@ -1,0 +1,4 @@
+<map id="QuantConnect.Util.DoubleUnixSecondsDateTimeJsonConverter" name="QuantConnect.Util.DoubleUnixSecondsDateTimeJsonConverter">
+<area shape="rect" id="node1" title="Defines a JsonConverter that serializes DateTime use the number of whole and fractional seconds since..." alt="" coords="5,95,267,136"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Util_1_1TypeChangeJsonConverter.html" title=" " alt="" coords="40,5,232,47"/>
+</map>

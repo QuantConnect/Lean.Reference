@@ -1,0 +1,7 @@
+<map id="QuantConnect.Securities.Positions.PositionGroupBuyingPowerModel.GetOrderFeeInAccountCurrency" name="QuantConnect.Securities.Positions.PositionGroupBuyingPowerModel.GetOrderFeeInAccountCurrency">
+<area shape="rect" id="node1" title="Helper function to compute the order fees associated with executing market orders for the specified p..." alt="" coords="5,5,316,61"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Securities_1_1Positions_1_1PositionGroupBuyingPowerModel.html#aa1af0926a15a0ee69add961a20e47f8b" title="Helper function to convert a CashAmount to the account currency" alt="" coords="364,5,595,61"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Securities_1_1CashBook.html#a439b770734d62b9b60bd06a56fbdbb1c" title="Converts a quantity of source currency units into the account currency" alt="" coords="643,13,909,54"/>
+<area shape="rect" id="node4" href="$classQuantConnect_1_1Securities_1_1CashBook.html#a3a2cfc4aac92b0740a9bad6c94b42d3b" title="Converts a quantity of source currency units into the specified destination currency" alt="" coords="957,13,1144,54"/>
+<area shape="rect" id="node5" href="$classQuantConnect_1_1Messages_1_1CashBook.html#a7668ed1e406e2948a4dc01b7b1049e20" title="Returns a string message saying the conversion rate for the given currency is not available" alt="" coords="1192,13,1416,54"/>
+</map>

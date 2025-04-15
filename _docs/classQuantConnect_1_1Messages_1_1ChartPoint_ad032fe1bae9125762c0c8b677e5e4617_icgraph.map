@@ -1,0 +1,4 @@
+<map id="QuantConnect.Messages.ChartPoint.ToString" name="QuantConnect.Messages.ChartPoint.ToString">
+<area shape="rect" id="node1" title="Parses a given ChartPoint object into a string message" alt="" coords="244,5,467,47"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1ChartPoint.html#a3d10b160f05eaf5f4bc0e5adae978971" title="Provides a readable string representation of this instance." alt="" coords="5,5,196,47"/>
+</map>

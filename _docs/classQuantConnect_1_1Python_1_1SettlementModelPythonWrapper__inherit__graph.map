@@ -1,0 +1,5 @@
+<map id="QuantConnect.Python.SettlementModelPythonWrapper" name="QuantConnect.Python.SettlementModelPythonWrapper">
+<area shape="rect" id="node1" title="Provides an implementation of ISettlementModel that wraps a PyObject object" alt="" coords="57,95,295,136"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Python_1_1BasePythonWrapper.html" title=" " alt="" coords="5,5,171,47"/>
+<area shape="rect" id="node3" href="$interfaceQuantConnect_1_1Securities_1_1ISettlementModel.html" title="Represents the model responsible for applying cash settlement rules" alt="" coords="195,13,333,39"/>
+</map>

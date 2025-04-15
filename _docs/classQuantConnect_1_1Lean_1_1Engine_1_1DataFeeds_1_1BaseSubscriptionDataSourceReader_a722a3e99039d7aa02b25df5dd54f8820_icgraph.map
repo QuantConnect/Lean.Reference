@@ -1,0 +1,7 @@
+<map id="QuantConnect.Lean.Engine.DataFeeds.BaseSubscriptionDataSourceReader.CreateStreamReader" name="QuantConnect.Lean.Engine.DataFeeds.BaseSubscriptionDataSourceReader.CreateStreamReader">
+<area shape="rect" id="node1" title="Creates a new IStreamReader for the specified subscriptionDataSource" alt="" coords="323,125,573,181"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Lean_1_1Engine_1_1DataFeeds_1_1ZipEntryNameSubscriptionDataSourceReader.html#ae2ba56b015a913c678e9c87e37df9b4a" title="Reads the specified source" alt="" coords="5,5,275,61"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Lean_1_1Engine_1_1DataFeeds_1_1CollectionSubscriptionDataSourceReader.html#a1199aa83652a26b23433cdabb9964f91" title="Reads the specified source" alt="" coords="20,85,260,141"/>
+<area shape="rect" id="node4" href="$classQuantConnect_1_1Lean_1_1Engine_1_1DataFeeds_1_1IndexSubscriptionDataSourceReader.html#a00690b5e347e1e3c2f7239df484f6453" title="Reads the specified source" alt="" coords="19,165,261,221"/>
+<area shape="rect" id="node5" href="$classQuantConnect_1_1Lean_1_1Engine_1_1DataFeeds_1_1TextSubscriptionDataSourceReader.html#ac3d0be11cf0a59efc44c8b41053675a2" title="Reads the specified source" alt="" coords="23,245,257,301"/>
+</map>

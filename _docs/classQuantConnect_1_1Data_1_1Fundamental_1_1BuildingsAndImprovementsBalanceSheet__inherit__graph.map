@@ -1,0 +1,5 @@
+<map id="QuantConnect.Data.Fundamental.BuildingsAndImprovementsBalanceSheet" name="QuantConnect.Data.Fundamental.BuildingsAndImprovementsBalanceSheet">
+<area shape="rect" id="node1" title="Fixed assets that specifically deal with the facilities a company owns. Include the improvements asso..." alt="" coords="5,155,296,196"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Data_1_1Fundamental_1_1MultiPeriodField.html" title="Abstract base class for multi&#45;period fields" alt="" coords="87,80,214,107"/>
+<area shape="rect" id="node3" title=" " alt="" coords="72,5,229,32"/>
+</map>

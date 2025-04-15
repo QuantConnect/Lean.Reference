@@ -1,0 +1,4 @@
+<map id="QuantConnect.Scheduling.IDateRule" name="QuantConnect.Scheduling.IDateRule">
+<area shape="rect" id="node1" title="Specifies dates that events should be fired, used in conjunction with the ITimeRule" alt="" coords="5,5,199,47"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Scheduling_1_1FuncDateRule.html" title="Uses a function to define an enumerable of dates over a requested start/end period" alt="" coords="5,95,199,136"/>
+</map>

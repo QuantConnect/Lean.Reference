@@ -1,0 +1,5 @@
+<map id="QuantConnect.Data.UniverseSelection.OptionUniverse.OptionUniverse" name="QuantConnect.Data.UniverseSelection.OptionUniverse.OptionUniverse">
+<area shape="rect" id="node1" title="Creates a new instance of the OptionUniverse class" alt="" coords="291,31,525,87"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Data_1_1UniverseSelection_1_1OptionUniverse.html#afe301821e533129031a3a7f65eb610d7" title="Creates a copy of the instance" alt="" coords="10,5,238,47"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Data_1_1UniverseSelection_1_1OptionUniverse.html#a9c722865b50f2840c0cd33a88a0ef629" title="Reader converts each line of the data source into BaseData objects. Each data type creates its own fa..." alt="" coords="5,71,243,112"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="QuantConnect.Report.ReportElements.ParametersReportElement" name="QuantConnect.Report.ReportElements.ParametersReportElement">
+<area shape="rect" id="node1" title="Class for creating a two column table for the Algorithm&#39;s Parameters in a report" alt="" coords="5,155,264,196"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Report_1_1ReportElements_1_1ReportElement.html" title="Common interface for template elements of the report" alt="" coords="75,80,194,107"/>
+<area shape="rect" id="node3" title="Common interface for template elements of the report" alt="" coords="73,5,196,32"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="QuantConnect.Data.Auxiliary.FactorFileZipHelper.GetRelativeFactorFilePath" name="QuantConnect.Data.Auxiliary.FactorFileZipHelper.GetRelativeFactorFilePath">
+<area shape="rect" id="node1" title="Constructs the factor file path for the specified market and security type" alt="" coords="289,5,517,61"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Data_1_1Auxiliary_1_1FactorFileZipHelper.html#a1e9d778dad81407e94c6b51c184602c2" title="Gets the factor file zip filename for the specified date" alt="" coords="5,5,241,61"/>
+</map>

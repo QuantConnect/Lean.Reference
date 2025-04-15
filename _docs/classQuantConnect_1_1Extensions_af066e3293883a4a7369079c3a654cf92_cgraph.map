@@ -1,0 +1,4 @@
+<map id="QuantConnect.Extensions.ToHigherResolutionEquivalent" name="QuantConnect.Extensions.ToHigherResolutionEquivalent">
+<area shape="rect" id="node1" title="Converts the specified time span into a resolution enum value. If an exact match is not found and req..." alt="" coords="5,5,223,47"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Messages_1_1Extensions.html#a1cdb2abb0daeb21d2269c92f682c3438" title="Returns a string message saying it was not able to exactly convert the given time span to resolution" alt="" coords="271,5,552,47"/>
+</map>

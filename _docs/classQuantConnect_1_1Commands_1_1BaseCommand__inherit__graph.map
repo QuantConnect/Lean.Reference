@@ -1,0 +1,12 @@
+<map id="QuantConnect.Commands.BaseCommand" name="QuantConnect.Commands.BaseCommand">
+<area shape="rect" id="node1" title="Base command implementation" alt="" coords="147,201,375,243"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Commands_1_1AddSecurityCommand.html" title="Represents a command to add a security to the algorithm" alt="" coords="442,5,663,47"/>
+<area shape="rect" id="node4" href="$classQuantConnect_1_1Commands_1_1AlgorithmStatusCommand.html" title="Represents a command that will change the algorithm&#39;s status" alt="" coords="423,71,683,112"/>
+<area shape="rect" id="node6" href="$classQuantConnect_1_1Commands_1_1CallbackCommand.html" title="Algorithm callback command type" alt="" coords="427,136,679,177"/>
+<area shape="rect" id="node7" href="$classQuantConnect_1_1Commands_1_1CancelOrderCommand.html" title="Represents a command to cancel a specific order by id" alt="" coords="433,201,673,243"/>
+<area shape="rect" id="node8" href="$classQuantConnect_1_1Commands_1_1LiquidateCommand.html" title="Represents a command that will liquidate the entire algorithm" alt="" coords="425,267,681,308"/>
+<area shape="rect" id="node9" href="$classQuantConnect_1_1Commands_1_1OrderCommand.html" title="Represents a command to submit an order to the algorithm" alt="" coords="437,332,669,373"/>
+<area shape="rect" id="node10" href="$classQuantConnect_1_1Commands_1_1UpdateOrderCommand.html" title="Represents a command to update an order by id" alt="" coords="431,397,674,439"/>
+<area shape="rect" id="node2" href="$interfaceQuantConnect_1_1Commands_1_1ICommand.html" title="Represents a command that can be run against a single algorithm" alt="" coords="5,209,99,235"/>
+<area shape="rect" id="node5" href="$classQuantConnect_1_1Commands_1_1QuitCommand.html" title="Represents a command that will terminate the algorithm" alt="" coords="731,71,953,112"/>
+</map>

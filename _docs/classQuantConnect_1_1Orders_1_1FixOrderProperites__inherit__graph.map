@@ -1,0 +1,6 @@
+<map id="QuantConnect.Orders.FixOrderProperites" name="QuantConnect.Orders.FixOrderProperites">
+<area shape="rect" id="node1" title="FIX (Financial Information Exchange) order properties" alt="" coords="5,155,225,196"/>
+<area shape="rect" id="node4" href="$classQuantConnect_1_1Orders_1_1TradingTechnologiesOrderProperties.html" title="Trading Technologies order properties" alt="" coords="9,244,221,285"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Orders_1_1OrderProperties.html" title="Contains additional properties and settings for an order" alt="" coords="53,80,177,107"/>
+<area shape="rect" id="node3" href="$interfaceQuantConnect_1_1Interfaces_1_1IOrderProperties.html" title="Contains additional properties and settings for an order" alt="" coords="51,5,179,32"/>
+</map>

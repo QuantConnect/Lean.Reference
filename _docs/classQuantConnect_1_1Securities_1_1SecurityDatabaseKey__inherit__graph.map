@@ -1,0 +1,4 @@
+<map id="QuantConnect.Securities.SecurityDatabaseKey" name="QuantConnect.Securities.SecurityDatabaseKey">
+<area shape="rect" id="node1" title="Represents the key to a single entry in the MarketHoursDatabase or the SymbolPropertiesDatabase" alt="" coords="23,95,209,136"/>
+<area shape="rect" id="node2" title=" " alt="" coords="5,5,227,47"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="QuantConnect.Messages.SecurityDatabaseKey.KeyNotInExpectedFormat" name="QuantConnect.Messages.SecurityDatabaseKey.KeyNotInExpectedFormat">
+<area shape="rect" id="node1" title="Returns a string message saying the specified and given key was not in the expected format" alt="" coords="876,13,1151,54"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Securities_1_1SecurityDatabaseKey.html#ae682eebcb9d2338775666e080dd36c4b" title="Parses the specified string as a SecurityDatabaseKey" alt="" coords="629,13,828,54"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Util_1_1MarketHoursDatabaseJsonConverter_1_1MarketHoursDatabaseJson.html#a3b3b52eb2ec7d15ce103438fb6482497" title="Converts this json representation to the MarketHoursDatabase type" alt="" coords="320,5,581,61"/>
+<area shape="rect" id="node4" href="$classQuantConnect_1_1Util_1_1MarketHoursDatabaseJsonConverter.html#a65ce75d27f6c6d2a33b08dd2dee8206a" title="Converts the input value to be deserialized" alt="" coords="5,13,272,54"/>
+</map>

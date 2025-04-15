@@ -1,0 +1,5 @@
+<map id="QuantConnect.Orders.OrderResponse.InvalidStatus" name="QuantConnect.Orders.OrderResponse.InvalidStatus">
+<area shape="rect" id="node1" title="Helper method to create an error response due to an invalid order status" alt="" coords="5,39,207,80"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Orders_1_1OrderResponse.html#a14ded2753785926becc5e7f8e5a02a09" title="Helper method to create an error response from a request" alt="" coords="265,5,467,47"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Messages_1_1OrderResponse.html#a8ae7c0646a3b48d88c73a93859b3ec88" title="Returns a string message saying it was impossible to udpate the order with the id from the given requ..." alt="" coords="255,71,477,112"/>
+</map>

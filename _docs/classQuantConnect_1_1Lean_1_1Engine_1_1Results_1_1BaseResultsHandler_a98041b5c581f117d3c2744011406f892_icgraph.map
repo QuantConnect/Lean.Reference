@@ -1,0 +1,6 @@
+<map id="QuantConnect.Lean.Engine.Results.BaseResultsHandler.StoreOrderEvents" name="QuantConnect.Lean.Engine.Results.BaseResultsHandler.StoreOrderEvents">
+<area shape="rect" id="node1" title="Stores the order events" alt="" coords="913,5,1156,61"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Lean_1_1Engine_1_1Results_1_1BacktestingResultHandler.html#a74a19763b6875568fa5e01b06aa0add8" title="Save the snapshot of the total results to storage." alt="" coords="619,5,865,61"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Lean_1_1Engine_1_1Results_1_1BacktestingResultHandler.html#a8db34b43d11199d7ee2d0c9f8e6a4b27" title="Send a final analysis result back to the IDE." alt="" coords="324,5,571,61"/>
+<area shape="rect" id="node4" href="$classQuantConnect_1_1Lean_1_1Engine_1_1Results_1_1BacktestingResultHandler.html#a9e84a017be2f946f4c63bfab39c3a4a1" title="Terminate the result thread and apply any required exit procedures like sending final results." alt="" coords="5,13,276,54"/>
+</map>

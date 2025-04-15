@@ -1,0 +1,6 @@
+<map id="QuantConnect.Data.Consolidators.VolumeRenkoConsolidator.Update" name="QuantConnect.Data.Consolidators.VolumeRenkoConsolidator.Update">
+<area shape="rect" id="node1" title="Updates this consolidator with the specified data" alt="" coords="5,71,252,112"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Data_1_1Consolidators_1_1VolumeRenkoConsolidator.html#ab4a6f51c6ddf663322d7d701af749403" title="Event invocator for the DataConsolidated event. This should be invoked by derived classes when they h..." alt="" coords="300,5,631,47"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Data_1_1Market_1_1VolumeRenkoBar.html#aca9de23a7dda30e72e20879f07e07f2e" title="Create a new VolumeRenkoBar with previous information rollover" alt="" coords="364,71,567,112"/>
+<area shape="rect" id="node4" href="$classQuantConnect_1_1Data_1_1Market_1_1VolumeRenkoBar.html#abe570f20d2d971219606cfa4287585bb" title="Updates this VolumeRenkoBar with the specified values and returns whether or not this bar is closed" alt="" coords="364,136,567,177"/>
+</map>

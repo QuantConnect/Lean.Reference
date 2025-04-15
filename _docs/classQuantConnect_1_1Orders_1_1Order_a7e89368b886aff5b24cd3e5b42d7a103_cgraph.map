@@ -1,0 +1,5 @@
+<map id="QuantConnect.Orders.Order.CopyTo" name="QuantConnect.Orders.Order.CopyTo">
+<area shape="rect" id="node1" title="Copies base Order properties to the specified order" alt="" coords="5,39,209,80"/>
+<area shape="rect" id="node2" href="$interfaceQuantConnect_1_1Interfaces_1_1IOrderProperties.html#a683b82212fc9f952e098f8eb4e634643" title="Returns a new instance clone of this object" alt="" coords="265,5,451,47"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Orders_1_1OrderSubmissionData.html#a98b3dd7d7d7198d062b6b005b45c0161" title="Return a new instance clone of this object" alt="" coords="257,71,459,112"/>
+</map>

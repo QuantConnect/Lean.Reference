@@ -1,0 +1,4 @@
+<map id="QuantConnect.Algorithm.Framework.Alphas.Serialization.InsightJsonConverter" name="QuantConnect.Algorithm.Framework.Alphas.Serialization.InsightJsonConverter">
+<area shape="rect" id="node1" title="Defines how insights should be serialized to json" alt="" coords="5,95,296,136"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Util_1_1TypeChangeJsonConverter.html" title=" " alt="" coords="45,5,257,47"/>
+</map>

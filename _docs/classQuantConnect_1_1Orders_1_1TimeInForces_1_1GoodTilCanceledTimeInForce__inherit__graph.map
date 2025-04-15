@@ -1,0 +1,5 @@
+<map id="QuantConnect.Orders.TimeInForces.GoodTilCanceledTimeInForce" name="QuantConnect.Orders.TimeInForces.GoodTilCanceledTimeInForce">
+<area shape="rect" id="node1" title="Good Til Canceled Time In Force &#45; order does never expires" alt="" coords="5,155,228,211"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Orders_1_1TimeInForce.html" title="Time In Force &#45; defines the length of time over which an order will continue working before it is can..." alt="" coords="65,80,168,107"/>
+<area shape="rect" id="node3" href="$interfaceQuantConnect_1_1Interfaces_1_1ITimeInForceHandler.html" title="Handles the time in force for an order" alt="" coords="38,5,195,32"/>
+</map>

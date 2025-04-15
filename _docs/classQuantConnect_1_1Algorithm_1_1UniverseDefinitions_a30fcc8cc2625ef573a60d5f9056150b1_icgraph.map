@@ -1,0 +1,5 @@
+<map id="QuantConnect.Algorithm.UniverseDefinitions.ETF" name="QuantConnect.Algorithm.UniverseDefinitions.ETF">
+<area shape="rect" id="node1" title="Creates a universe for the constituents of the provided etfTicker" alt="" coords="364,50,608,91"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Algorithm_1_1Framework_1_1Selection_1_1ETFConstituentsUniverseSelectionModel.html#a40bf007bf630977f6c37a3a228d60bee" title="Creates a new ETF constituents universe using this class&#39;s selection function" alt="" coords="5,5,316,61"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Algorithm_1_1UniverseDefinitions.html#a3447cb623cf9c6bac59ff2f625b9c660" title="Creates a universe for the constituents of the provided etfTicker" alt="" coords="39,86,283,127"/>
+</map>

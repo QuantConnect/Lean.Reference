@@ -1,0 +1,9 @@
+<map id="QuantConnect.Orders.Slippage.VolumeShareSlippageModel.GetSlippageApproximation" name="QuantConnect.Orders.Slippage.VolumeShareSlippageModel.GetSlippageApproximation">
+<area shape="rect" id="node1" title="Slippage Model. Return a decimal cash slippage approximation on the order." alt="" coords="5,137,292,193"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Logging_1_1Log.html#af0e7955911bc7664b37661b2a303a9e3" title="Log error" alt="" coords="385,5,585,47"/>
+<area shape="rect" id="node4" href="$classQuantConnect_1_1Securities_1_1Security.html#ab93a58a84a4aa1b19d0972faf6c056c4" title="Get the last price update set to the security if any else null" alt="" coords="392,71,579,112"/>
+<area shape="rect" id="node5" href="$classQuantConnect_1_1Messages_1_1VolumeShareSlippageModel.html#adf1b544fc64e2ff56d0a433f457f2465" title="Returns a message for an invalid market data type in Volume Share Slippage Model" alt="" coords="361,137,609,193"/>
+<area shape="rect" id="node6" href="$classQuantConnect_1_1Messages_1_1VolumeShareSlippageModel.html#abc595b7a20083c824c9f46478fb2bf6d" title="Returns a message for a negative or zero bar volume in Volume Share Slippage Model" alt="" coords="354,217,617,273"/>
+<area shape="rect" id="node7" href="$classQuantConnect_1_1Messages_1_1VolumeShareSlippageModel.html#a93c7b493153f0d3319ea499218e95e99" title="Returns a message for a volume not reported for market data type in Volume Share Slippage Model" alt="" coords="340,297,631,353"/>
+<area shape="rect" id="node3" href="$interfaceQuantConnect_1_1Logging_1_1ILogHandler.html#a35373a0c5d76031fa5ccf5dc39e5c25d" title="Write error message to log" alt="" coords="679,5,879,47"/>
+</map>

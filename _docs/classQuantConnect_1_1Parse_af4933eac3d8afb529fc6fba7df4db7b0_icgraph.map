@@ -1,0 +1,4 @@
+<map id="QuantConnect.Parse.Int" name="QuantConnect.Parse.Int">
+<area shape="rect" id="node1" title="Parses the provided value as a int using CultureInfo.InvariantCulture" alt="" coords="260,13,435,39"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Data_1_1Custom_1_1FxcmVolume.html#a509354c7f32d1e25a4e38ff2fcb9e2fb" title="Reader converts each line of the data source into BaseData objects. Each data type creates its own fa..." alt="" coords="5,5,212,47"/>
+</map>

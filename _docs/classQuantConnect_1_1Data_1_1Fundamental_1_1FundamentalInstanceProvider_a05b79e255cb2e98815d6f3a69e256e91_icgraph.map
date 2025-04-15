@@ -1,0 +1,5 @@
+<map id="QuantConnect.Data.Fundamental.FundamentalInstanceProvider.Get" name="QuantConnect.Data.Fundamental.FundamentalInstanceProvider.Get">
+<area shape="rect" id="node1" title="Get&#39;s the fundamental instance provider for the requested symbol" alt="" coords="595,5,837,47"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Data_1_1Fundamental_1_1FineFundamental.html#a0d6c80007f94158738be9614291683d1" title="Creates a new empty instance" alt="" coords="296,5,547,47"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Data_1_1Fundamental_1_1FineFundamental.html#a8fddf996b2afbadde0a595320dec1849" title="Clones this fine data instance" alt="" coords="5,5,248,47"/>
+</map>

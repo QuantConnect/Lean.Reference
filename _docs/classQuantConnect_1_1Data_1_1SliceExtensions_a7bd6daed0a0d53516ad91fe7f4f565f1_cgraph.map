@@ -1,0 +1,5 @@
+<map id="QuantConnect.Data.SliceExtensions.TryGet" name="QuantConnect.Data.SliceExtensions.TryGet">
+<area shape="rect" id="node1" title="Tries to get the data for the specified symbol and type" alt="" coords="5,5,264,47"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Data_1_1Slice.html#a8855014b38a903318a2dba1badfcccc7" title="Gets the data of the specified type." alt="" coords="312,13,523,39"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Data_1_1Slice.html#a62e6d49b177aa978c8ccc702cd5144f8" title="Gets the data of the specified type." alt="" coords="571,5,759,47"/>
+</map>

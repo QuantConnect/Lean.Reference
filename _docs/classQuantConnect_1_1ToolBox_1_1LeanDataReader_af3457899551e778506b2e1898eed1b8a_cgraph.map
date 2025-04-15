@@ -1,0 +1,8 @@
+<map id="QuantConnect.ToolBox.LeanDataReader.LeanDataReader" name="QuantConnect.ToolBox.LeanDataReader.LeanDataReader">
+<area shape="rect" id="node1" title="The LeanDataReader constructor" alt="" coords="5,54,216,95"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Util_1_1LeanData.html#a3614005931e0b85e86179d828e7bfca1" title="Generate&#39;s the zip entry name to hold the specified data." alt="" coords="264,17,475,58"/>
+<area shape="rect" id="node4" href="$classQuantConnect_1_1Util_1_1LeanData.html#a6c106a884e3c8562732737244a1fc45d" title="Generates the full zip file path rooted in the dataDirectory" alt="" coords="264,86,475,127"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Securities_1_1Future_1_1FuturesExpiryUtilityFunctions.html#a4ccb1e2f2fe40ff09785a74a02f26df1" title="Gets the number of months between the contract month and the expiry date." alt="" coords="523,5,877,61"/>
+<area shape="rect" id="node5" href="$classQuantConnect_1_1Util_1_1LeanData.html#a7a375e870b2ab7451dba45e61c7135df" title="Generates the relative zip directory for the specified symbol/resolution" alt="" coords="580,86,820,127"/>
+<area shape="rect" id="node6" href="$classQuantConnect_1_1Util_1_1LeanData.html#ae798d44930bdd36039812c9390e33af9" title="Generates the zip file name for the specified date of data." alt="" coords="595,151,805,193"/>
+</map>

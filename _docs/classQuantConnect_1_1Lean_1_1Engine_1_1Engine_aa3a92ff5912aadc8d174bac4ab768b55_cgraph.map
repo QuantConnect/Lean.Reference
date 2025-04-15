@@ -1,0 +1,20 @@
+<map id="QuantConnect.Lean.Engine.Engine.Run" name="QuantConnect.Lean.Engine.Engine.Run">
+<area shape="rect" id="node1" title="Runs a single backtest/live job from the job queue" alt="" coords="5,397,207,438"/>
+<area shape="rect" id="node2" href="$interfaceQuantConnect_1_1Lean_1_1Engine_1_1Setup_1_1ISetupHandler.html#a9e7b363111fc95e378fdf1d1d6fb6194" title="Create a new instance of an algorithm from a physical dll path." alt="" coords="255,5,521,61"/>
+<area shape="rect" id="node3" href="$interfaceQuantConnect_1_1Lean_1_1Engine_1_1Setup_1_1ISetupHandler.html#aeba7fc76bbc7ac408786712a3a799520" title="Creates the brokerage as specified by the job packet" alt="" coords="255,86,521,127"/>
+<area shape="rect" id="node4" href="$classQuantConnect_1_1Logging_1_1Log.html#af0e7955911bc7664b37661b2a303a9e3" title="Log error" alt="" coords="288,151,488,193"/>
+<area shape="rect" id="node6" href="$classQuantConnect_1_1Securities_1_1SymbolPropertiesDatabase.html#aee26fb588793fd311c44eb8b2909cc33" title="Gets the instance of the SymbolPropertiesDatabase class produced by reading in the symbol properties ..." alt="" coords="270,217,506,273"/>
+<area shape="rect" id="node10" href="$interfaceQuantConnect_1_1Interfaces_1_1IDataPermissionManager.html#a74abfa3e9a8ba9b5a7e553ba37e2a11f" title="Initialize the data permission manager" alt="" coords="265,298,511,339"/>
+<area shape="rect" id="node11" href="$interfaceQuantConnect_1_1Interfaces_1_1IObjectStore.html#afa9634ec4d439d7fb16afd8991a8582e" title="Initializes the object store" alt="" coords="295,363,481,405"/>
+<area shape="rect" id="node12" href="$interfaceQuantConnect_1_1Lean_1_1Engine_1_1DataFeeds_1_1IDataFeed.html#aeb0198d0ba07365fc573b91906f60b58" title="Initializes the data feed for the specified job and algorithm" alt="" coords="277,429,499,470"/>
+<area shape="rect" id="node13" href="$interfaceQuantConnect_1_1Interfaces_1_1IApi.html#a9965690950daa9b55649eaad89d65782" title="Set the algorithm status from the worker to update the UX e.g. if there was an error." alt="" coords="295,494,481,535"/>
+<area shape="rect" id="node14" href="$interfaceQuantConnect_1_1Interfaces_1_1IMessagingHandler.html#a686db79ad36c05d7583df3955cfc9905" title="Set the user communication channel" alt="" coords="255,559,521,601"/>
+<area shape="rect" id="node15" href="$classQuantConnect_1_1Lean_1_1Engine_1_1DataFeeds_1_1TextSubscriptionDataSourceReader.html#a95a27756051a765ceb9346613dfe5dd6" title="Set the cache size to use" alt="" coords="271,625,505,681"/>
+<area shape="rect" id="node16" href="$classQuantConnect_1_1Logging_1_1Log.html#a4e55477fbc790846b74550a57198cea9" title="Log trace" alt="" coords="595,665,795,706"/>
+<area shape="rect" id="node18" href="$interfaceQuantConnect_1_1Lean_1_1Engine_1_1Setup_1_1ISetupHandler.html#a7f8c928ceab0502370bcb802cbb709a3" title="Primary entry point to setup a new algorithm" alt="" coords="287,757,489,798"/>
+<area shape="rect" id="node5" href="$interfaceQuantConnect_1_1Logging_1_1ILogHandler.html#a35373a0c5d76031fa5ccf5dc39e5c25d" title="Write error message to log" alt="" coords="595,151,795,193"/>
+<area shape="rect" id="node7" href="$classQuantConnect_1_1Globals.html#ae01b5c94ef475a21ab1a62fe1b04ea5c" title="Helper method that will build a data folder path checking if it exists on the cache folder else will ..." alt="" coords="598,221,793,262"/>
+<area shape="rect" id="node8" href="$classQuantConnect_1_1Securities_1_1SymbolPropertiesDatabase.html#a1658f93bf0dce7022bb7584e1a95cc7a" title="Initialize a new instance of SymbolPropertiesDatabase using the given file" alt="" coords="569,287,821,343"/>
+<area shape="rect" id="node9" href="$classQuantConnect_1_1Messages_1_1SymbolPropertiesDatabase.html#a6abceae517a349a28223bfc2dc9106d7" title="Returns a string saying a duplicated key was found while processing the given file" alt="" coords="869,287,1109,343"/>
+<area shape="rect" id="node17" href="$interfaceQuantConnect_1_1Logging_1_1ILogHandler.html#a3fb71a33ac66129240b63f12b6fcda3b" title="Write debug message to log" alt="" coords="889,665,1089,706"/>
+</map>

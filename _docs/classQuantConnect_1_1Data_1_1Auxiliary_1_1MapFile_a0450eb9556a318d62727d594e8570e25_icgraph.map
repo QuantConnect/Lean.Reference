@@ -1,0 +1,7 @@
+<map id="QuantConnect.Data.Auxiliary.MapFile.HasData" name="QuantConnect.Data.Auxiliary.MapFile.HasData">
+<area shape="rect" id="node1" title="Determines if there&#39;s data for the requested date" alt="" coords="328,133,541,174"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Lean_1_1Engine_1_1DataFeeds_1_1Enumerators_1_1DividendEventProvider.html#a885746f584223943fd87dee40c528fe4" title="Check for dividends and returns them" alt="" coords="23,5,263,61"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Lean_1_1Engine_1_1DataFeeds_1_1Enumerators_1_1SplitEventProvider.html#a6e4842496889d67a17c6844c70201a24" title="Check for new splits" alt="" coords="19,85,267,141"/>
+<area shape="rect" id="node4" href="$classQuantConnect_1_1Lean_1_1Engine_1_1DataFeeds_1_1Enumerators_1_1MappingEventProvider.html#a40907ad3241f52cdf880c8d64982f5bc" title="Check for new mappings" alt="" coords="5,165,280,221"/>
+<area shape="rect" id="node5" href="$classQuantConnect_1_1Lean_1_1Engine_1_1DataFeeds_1_1Enumerators_1_1MappingEventProvider.html#af71da3b51ab48d4d71081f3467058609" title="Initializes this instance" alt="" coords="5,245,280,301"/>
+</map>

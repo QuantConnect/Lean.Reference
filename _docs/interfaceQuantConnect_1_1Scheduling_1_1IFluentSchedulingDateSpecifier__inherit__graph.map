@@ -1,0 +1,4 @@
+<map id="QuantConnect.Scheduling.IFluentSchedulingDateSpecifier" name="QuantConnect.Scheduling.IFluentSchedulingDateSpecifier">
+<area shape="rect" id="node1" title="Specifies the date rule component of a scheduled event" alt="" coords="5,5,231,47"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Scheduling_1_1FluentScheduledEventBuilder.html" title="Provides a builder class to allow for fluent syntax when constructing new events" alt="" coords="11,95,225,136"/>
+</map>

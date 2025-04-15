@@ -1,0 +1,5 @@
+<map id="QuantConnect.Brokerages.IConnectionHandler" name="QuantConnect.Brokerages.IConnectionHandler">
+<area shape="rect" id="node1" title="Provides handling of a brokerage or data feed connection" alt="" coords="5,80,200,121"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Brokerages_1_1DefaultConnectionHandler.html" title="A default implementation of IConnectionHandler which signals disconnection if no data is received for..." alt="" coords="5,169,200,211"/>
+<area shape="rect" id="node2" title=" " alt="" coords="53,5,152,32"/>
+</map>

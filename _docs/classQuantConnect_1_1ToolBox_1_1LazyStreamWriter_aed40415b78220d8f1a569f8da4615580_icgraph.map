@@ -1,0 +1,5 @@
+<map id="QuantConnect.ToolBox.LazyStreamWriter.WriteLine" name="QuantConnect.ToolBox.LazyStreamWriter.WriteLine">
+<area shape="rect" id="node1" title="Wraps the WriteLine method of the StreamWriter." alt="" coords="332,53,535,94"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1ToolBox_1_1AlgoSeekFuturesConverter_1_1AlgoSeekFuturesProcessor.html#a82ea2dc8cfa86ba3e93301f4d1093ea1" title="Create a new AlgoSeekFuturesProcessor for enquing consolidated bars and flushing them to disk" alt="" coords="5,5,284,61"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1ToolBox_1_1AlgoSeekFuturesConverter_1_1AlgoSeekFuturesProcessor.html#a3ad452d64aa1404d16821cef5d35c0ba" title="Write the in memory queues to the disk." alt="" coords="5,85,284,141"/>
+</map>

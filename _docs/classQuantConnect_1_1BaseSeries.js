@@ -1,0 +1,25 @@
+var classQuantConnect_1_1BaseSeries =
+[
+    [ "BaseSeries", "classQuantConnect_1_1BaseSeries.html#a1fd4d27dc496b9211dac6571ca658669", null ],
+    [ "BaseSeries", "classQuantConnect_1_1BaseSeries.html#ad94b2f6291c064c333b134722fd9e1fe", null ],
+    [ "BaseSeries", "classQuantConnect_1_1BaseSeries.html#a2f24dacc386f4ffc7a2c170b1625b938", null ],
+    [ "BaseSeries", "classQuantConnect_1_1BaseSeries.html#ad8d4ef28ede5f1f44c657a326a20a41f", null ],
+    [ "BaseSeries", "classQuantConnect_1_1BaseSeries.html#ab53fd83c40f0573ff8e42eb3cccc3c32", null ],
+    [ "AddPoint", "classQuantConnect_1_1BaseSeries.html#a16109d08f951b56153adb901b7f7cbdb", null ],
+    [ "AddPoint", "classQuantConnect_1_1BaseSeries.html#acf3bef4dbe9e97e34d6d1feffc36ad9c", null ],
+    [ "GetUpdates", "classQuantConnect_1_1BaseSeries.html#aa1e101cd6d5d3dd91857721d411e0894", null ],
+    [ "Purge", "classQuantConnect_1_1BaseSeries.html#a3714819f9b573c8285f307015b9912cf", null ],
+    [ "ConsolidateChartPoints", "classQuantConnect_1_1BaseSeries.html#a63f9559b3f67a80f1d35653f9c9da081", null ],
+    [ "Clone", "classQuantConnect_1_1BaseSeries.html#a11d115d5750fb76ead9841a1242fdf3d", null ],
+    [ "CloneValues", "classQuantConnect_1_1BaseSeries.html#a5fd7549cbb9bf6ad7a9ac0ad271c8307", null ],
+    [ "GetValues< T >", "classQuantConnect_1_1BaseSeries.html#ab7a7743cd64dd1146165493108538b88", null ],
+    [ "Create", "classQuantConnect_1_1BaseSeries.html#aa0b83590a7b01d3ccba6f3347150a63f", null ],
+    [ "Name", "classQuantConnect_1_1BaseSeries.html#a00366cf49c4b74256ce03d0c82d53e05", null ],
+    [ "Unit", "classQuantConnect_1_1BaseSeries.html#a9fc9d57b6afa80f0b059aed31c3fc465", null ],
+    [ "Index", "classQuantConnect_1_1BaseSeries.html#a3542b8ebbd4b09b2b22f66ecf1696ebf", null ],
+    [ "IndexName", "classQuantConnect_1_1BaseSeries.html#a6eeb59112b0014c8af9b18874fdca3c5", null ],
+    [ "ZIndex", "classQuantConnect_1_1BaseSeries.html#a4f1cdbd7ed88864b8b1480d49928c1e3", null ],
+    [ "SeriesType", "classQuantConnect_1_1BaseSeries.html#a4d5ef7e013ba72888178c8b4f358bbb8", null ],
+    [ "Tooltip", "classQuantConnect_1_1BaseSeries.html#a076b519911d1965958c6c5b3de04c62c", null ],
+    [ "Values", "classQuantConnect_1_1BaseSeries.html#a773ca9ff73b3e405fa463ac5bc0d2da3", null ]
+];

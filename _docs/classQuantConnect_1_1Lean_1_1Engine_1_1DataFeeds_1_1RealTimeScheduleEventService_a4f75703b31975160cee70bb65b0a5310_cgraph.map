@@ -1,0 +1,4 @@
+<map id="QuantConnect.Lean.Engine.DataFeeds.RealTimeScheduleEventService.RealTimeScheduleEventService" name="QuantConnect.Lean.Engine.DataFeeds.RealTimeScheduleEventService.RealTimeScheduleEventService">
+<area shape="rect" id="node1" title="Creates a new instance" alt="" coords="5,5,285,61"/>
+<area shape="rect" id="node2" href="$interfaceQuantConnect_1_1ITimeProvider.html#ae51737f869d879dfbb297496e4feb036" title="Gets the current time in UTC" alt="" coords="333,13,545,54"/>
+</map>

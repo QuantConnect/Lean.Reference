@@ -1,0 +1,4 @@
+<map id="QuantConnect.Algorithm.QCAlgorithm.IsMarketOpen" name="QuantConnect.Algorithm.QCAlgorithm.IsMarketOpen">
+<area shape="rect" id="node1" title="Determines if the exchange for the specified symbol is open at the current time." alt="" coords="5,5,279,47"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Securities_1_1SecurityManager.html#af3ad97e370ceec706ac1afe70f7fbb42" title="Try and get this security object with matching symbol and return true on success." alt="" coords="327,5,540,47"/>
+</map>

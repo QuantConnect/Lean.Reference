@@ -1,0 +1,4 @@
+<map id="QuantConnect.Securities.Option.OptionStrategies.ShortStraddle" name="QuantConnect.Securities.Option.OptionStrategies.ShortStraddle">
+<area shape="rect" id="node1" title="Creates a Short Straddle strategy that consists of selling a call and a put, both with the same strik..." alt="" coords="5,5,221,61"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Securities_1_1Option_1_1OptionStrategies.html#ae6282614d3654c2c332152159036c5fc" title="Method creates new Straddle strategy, that is a combination of buying a call and buying a put,..." alt="" coords="269,13,505,54"/>
+</map>

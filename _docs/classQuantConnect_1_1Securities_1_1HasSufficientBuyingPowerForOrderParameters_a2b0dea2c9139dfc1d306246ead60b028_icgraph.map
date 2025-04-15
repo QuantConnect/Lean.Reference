@@ -1,0 +1,6 @@
+<map id="QuantConnect.Securities.HasSufficientBuyingPowerForOrderParameters.Sufficient" name="QuantConnect.Securities.HasSufficientBuyingPowerForOrderParameters.Sufficient">
+<area shape="rect" id="node1" title="Creates a new result indicating that there is sufficient buying power for the contemplated order" alt="" coords="323,85,572,141"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Securities_1_1NullBuyingPowerModel.html#a4e5b94c8824e6620b2920f21459d3f08" title="Check if there is sufficient buying power to execute this order." alt="" coords="9,5,271,61"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Securities_1_1CashBuyingPowerModel.html#ae2182361668bcb0b67727ea2e077423a" title="Check if there is sufficient buying power to execute this order." alt="" coords="5,85,275,141"/>
+<area shape="rect" id="node4" href="$classQuantConnect_1_1Securities_1_1BuyingPowerModel.html#a0140983f8f8ab4d126538464a6e24bb1" title="Check if there is sufficient buying power to execute this order." alt="" coords="21,165,259,221"/>
+</map>

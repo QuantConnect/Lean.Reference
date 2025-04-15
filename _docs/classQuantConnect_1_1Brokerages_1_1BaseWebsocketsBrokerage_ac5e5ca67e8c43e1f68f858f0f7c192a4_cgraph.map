@@ -1,0 +1,4 @@
+<map id="QuantConnect.Brokerages.BaseWebsocketsBrokerage.ConnectSync" name="QuantConnect.Brokerages.BaseWebsocketsBrokerage.ConnectSync">
+<area shape="rect" id="node1" title="Start websocket connect" alt="" coords="5,5,291,47"/>
+<area shape="rect" id="node2" href="$interfaceQuantConnect_1_1Brokerages_1_1IWebSocket.html#aa280ffe91f772cf1cdd047a645ad92ae" title="Wraps Connect method" alt="" coords="339,5,533,47"/>
+</map>

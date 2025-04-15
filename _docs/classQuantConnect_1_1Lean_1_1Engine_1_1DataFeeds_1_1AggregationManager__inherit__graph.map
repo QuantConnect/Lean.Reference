@@ -1,0 +1,5 @@
+<map id="QuantConnect.Lean.Engine.DataFeeds.AggregationManager" name="QuantConnect.Lean.Engine.DataFeeds.AggregationManager">
+<area shape="rect" id="node1" title="Aggregates ticks and bars based on given subscriptions. Current implementation is based on IDataConso..." alt="" coords="5,155,236,196"/>
+<area shape="rect" id="node2" href="$interfaceQuantConnect_1_1Data_1_1IDataAggregator.html" title="Aggregates ticks and bars based on given subscriptions." alt="" coords="56,80,185,107"/>
+<area shape="rect" id="node3" title=" " alt="" coords="71,5,170,32"/>
+</map>

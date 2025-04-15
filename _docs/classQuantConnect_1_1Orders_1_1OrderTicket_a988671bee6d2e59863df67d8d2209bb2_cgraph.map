@@ -1,0 +1,4 @@
+<map id="QuantConnect.Orders.OrderTicket.UpdateStopTrailingAmount" name="QuantConnect.Orders.OrderTicket.UpdateStopTrailingAmount">
+<area shape="rect" id="node1" title="Submits an UpdateOrderRequest with the SecurityTransactionManager to update the ticker with stop trai..." alt="" coords="5,5,244,47"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Orders_1_1OrderTicket.html#a3a2f8f85b1192c0a8ff3b1059a1e5b3f" title="Submits an UpdateOrderRequest with the SecurityTransactionManager to update the ticket with data spec..." alt="" coords="292,5,493,47"/>
+</map>

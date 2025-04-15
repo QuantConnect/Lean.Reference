@@ -1,0 +1,4 @@
+<map id="QuantConnect.Algorithm.QCAlgorithm.GetDataFrame" name="QuantConnect.Algorithm.QCAlgorithm.GetDataFrame">
+<area shape="rect" id="node1" title="Converts an enumerable of Slice into a Python Pandas data frame" alt="" coords="5,5,279,47"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Python_1_1PandasConverter.html#a6f3760d582f672fa35d523ec47a4c159" title="Converts an enumerable of Slice in a pandas.DataFrame" alt="" coords="327,5,540,47"/>
+</map>

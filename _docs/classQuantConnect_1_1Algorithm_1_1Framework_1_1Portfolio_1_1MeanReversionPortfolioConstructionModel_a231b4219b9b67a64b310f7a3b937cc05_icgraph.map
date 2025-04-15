@@ -1,0 +1,5 @@
+<map id="QuantConnect.Algorithm.Framework.Portfolio.MeanReversionPortfolioConstructionModel.CumulativeSum" name="QuantConnect.Algorithm.Framework.Portfolio.MeanReversionPortfolioConstructionModel.CumulativeSum">
+<area shape="rect" id="node1" title="Cumulative Sum of a given sequence" alt="" coords="739,5,1057,61"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Algorithm_1_1Framework_1_1Portfolio_1_1MeanReversionPortfolioConstructionModel.html#a831bb23d8ac08bce7be46fbb5f4f048a" title="Normalize the updated portfolio into weight vector: v_{t+1} = arg min || v &#45; v_{t+1} || ^ 2" alt="" coords="372,5,691,61"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Algorithm_1_1Framework_1_1Portfolio_1_1MeanReversionPortfolioConstructionModel.html#a0bfa3b78256270ed278d018e85efbe35" title="Will determine the target percent for each insight" alt="" coords="5,5,324,61"/>
+</map>

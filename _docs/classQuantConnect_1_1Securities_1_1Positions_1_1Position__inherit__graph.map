@@ -1,0 +1,4 @@
+<map id="QuantConnect.Securities.Positions.Position" name="QuantConnect.Securities.Positions.Position">
+<area shape="rect" id="node1" title="Defines a quantity of a security&#39;s holdings for inclusion in a position group" alt="" coords="5,80,192,121"/>
+<area shape="rect" id="node2" href="$interfaceQuantConnect_1_1Securities_1_1Positions_1_1IPosition.html" title="Defines a position for inclusion in a group" alt="" coords="59,5,138,32"/>
+</map>

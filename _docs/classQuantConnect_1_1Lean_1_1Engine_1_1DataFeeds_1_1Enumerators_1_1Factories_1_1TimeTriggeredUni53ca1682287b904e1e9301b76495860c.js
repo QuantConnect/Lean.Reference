@@ -1,0 +1,5 @@
+var classQuantConnect_1_1Lean_1_1Engine_1_1DataFeeds_1_1Enumerators_1_1Factories_1_1TimeTriggeredUni53ca1682287b904e1e9301b76495860c =
+[
+    [ "TimeTriggeredUniverseSubscriptionEnumeratorFactory", "classQuantConnect_1_1Lean_1_1Engine_1_1DataFeeds_1_1Enumerators_1_1Factories_1_1TimeTriggeredUni53ca1682287b904e1e9301b76495860c.html#a52bc6a88e3a5d32ed4af902d6d15e30f", null ],
+    [ "CreateEnumerator", "classQuantConnect_1_1Lean_1_1Engine_1_1DataFeeds_1_1Enumerators_1_1Factories_1_1TimeTriggeredUni53ca1682287b904e1e9301b76495860c.html#a4232335c78032449f5f5fd42f845fe50", null ]
+];

@@ -1,0 +1,5 @@
+<map id="QuantConnect.Securities.SecurityExchangeHours.GetNextMarketClose" name="QuantConnect.Securities.SecurityExchangeHours.GetNextMarketClose">
+<area shape="rect" id="node1" title="Gets the local date time corresponding to the next market close following the specified time" alt="" coords="5,5,240,61"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Securities_1_1SecurityExchangeHours.html#a106e2dd187ab76452e14ac6a28f929aa" title="Helper to access the market hours field based on the day of week" alt="" coords="288,13,575,54"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Securities_1_1LocalMarketHours.html#a1e9178f81413c7d1f032a003d74acecf" title="Gets a LocalMarketHours instance that is always closed" alt="" coords="623,13,853,54"/>
+</map>

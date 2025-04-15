@@ -1,0 +1,4 @@
+<map id="QuantConnect.Messages.CashBook.ToString" name="QuantConnect.Messages.CashBook.ToString">
+<area shape="rect" id="node1" title="Parses the given CashBook into a string mesage with basic information about it" alt="" coords="240,5,459,47"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Securities_1_1CashBook.html#a78885b0627fa3f61005d78ccef888ed9" title="Returns a string that represents the current object." alt="" coords="5,5,192,47"/>
+</map>

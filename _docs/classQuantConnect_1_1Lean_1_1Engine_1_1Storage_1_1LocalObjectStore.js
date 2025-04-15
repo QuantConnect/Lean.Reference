@@ -1,0 +1,26 @@
+var classQuantConnect_1_1Lean_1_1Engine_1_1Storage_1_1LocalObjectStore =
+[
+    [ "Initialize", "classQuantConnect_1_1Lean_1_1Engine_1_1Storage_1_1LocalObjectStore.html#ab3fb265fac0cbcba5e7a179a71d31df0", null ],
+    [ "StorageRoot", "classQuantConnect_1_1Lean_1_1Engine_1_1Storage_1_1LocalObjectStore.html#a9367c722981665d9d0e5cf26984d7367", null ],
+    [ "Clear", "classQuantConnect_1_1Lean_1_1Engine_1_1Storage_1_1LocalObjectStore.html#a8e88395bbb30ef2c13e7e04cfc44db80", null ],
+    [ "ContainsKey", "classQuantConnect_1_1Lean_1_1Engine_1_1Storage_1_1LocalObjectStore.html#a52e8e88b7d73e2d4f088d3ff71a7c301", null ],
+    [ "ReadBytes", "classQuantConnect_1_1Lean_1_1Engine_1_1Storage_1_1LocalObjectStore.html#ac468e2a9a3199114b08ea9da55988b10", null ],
+    [ "SaveBytes", "classQuantConnect_1_1Lean_1_1Engine_1_1Storage_1_1LocalObjectStore.html#a0bae70bb60e5691f9d65f7e981d9c9b0", null ],
+    [ "InternalSaveBytes", "classQuantConnect_1_1Lean_1_1Engine_1_1Storage_1_1LocalObjectStore.html#a093750ac2ce0b349d77f3a80f4d5e2e7", null ],
+    [ "IsWithinStorageLimit", "classQuantConnect_1_1Lean_1_1Engine_1_1Storage_1_1LocalObjectStore.html#a97abc3229c26b0c287cdb79018ae4f89", null ],
+    [ "Delete", "classQuantConnect_1_1Lean_1_1Engine_1_1Storage_1_1LocalObjectStore.html#a7246466806cc97528e7718458e788b78", null ],
+    [ "GetFilePath", "classQuantConnect_1_1Lean_1_1Engine_1_1Storage_1_1LocalObjectStore.html#ad1b6b2c77674a74df56288750a0450ec", null ],
+    [ "Dispose", "classQuantConnect_1_1Lean_1_1Engine_1_1Storage_1_1LocalObjectStore.html#acd30a65be419703f48dc1f24b1fdcdb5", null ],
+    [ "GetEnumerator", "classQuantConnect_1_1Lean_1_1Engine_1_1Storage_1_1LocalObjectStore.html#ad8613db8a0c4f8cebd76bcc2b64de8ec", null ],
+    [ "PathForKey", "classQuantConnect_1_1Lean_1_1Engine_1_1Storage_1_1LocalObjectStore.html#a401003a1ad65a8cb163d7aa1162e98c0", null ],
+    [ "PersistData", "classQuantConnect_1_1Lean_1_1Engine_1_1Storage_1_1LocalObjectStore.html#ad996578710d9cce84fc9af79d6ee86cb", null ],
+    [ "OnErrorRaised", "classQuantConnect_1_1Lean_1_1Engine_1_1Storage_1_1LocalObjectStore.html#afa028c51997b389b10f3d33ec455c74d", null ],
+    [ "NoReadPermissionsError", "classQuantConnect_1_1Lean_1_1Engine_1_1Storage_1_1LocalObjectStore.html#a83265e385e5c0cd23ad739644ee79cd8", null ],
+    [ "NoWritePermissionsError", "classQuantConnect_1_1Lean_1_1Engine_1_1Storage_1_1LocalObjectStore.html#aa3d3257cd275838b25ee8438d8726f11", null ],
+    [ "DefaultObjectStore", "classQuantConnect_1_1Lean_1_1Engine_1_1Storage_1_1LocalObjectStore.html#a72a6bbe0963291f6e394d254b1d21589", null ],
+    [ "Controls", "classQuantConnect_1_1Lean_1_1Engine_1_1Storage_1_1LocalObjectStore.html#ab42c094ca3d5a660aa7a9832a44942ab", null ],
+    [ "AlgorithmStorageRoot", "classQuantConnect_1_1Lean_1_1Engine_1_1Storage_1_1LocalObjectStore.html#ad4a376df0c494b5ac53f933fc658f9be", null ],
+    [ "FileHandler", "classQuantConnect_1_1Lean_1_1Engine_1_1Storage_1_1LocalObjectStore.html#a475c178788961ad35382932960a793da", null ],
+    [ "Keys", "classQuantConnect_1_1Lean_1_1Engine_1_1Storage_1_1LocalObjectStore.html#acfd54ab0dfd7b0e045a70638da9ff04f", null ],
+    [ "ErrorRaised", "classQuantConnect_1_1Lean_1_1Engine_1_1Storage_1_1LocalObjectStore.html#a7b09b93986ee9ab09e2e03caadecf2f0", null ]
+];

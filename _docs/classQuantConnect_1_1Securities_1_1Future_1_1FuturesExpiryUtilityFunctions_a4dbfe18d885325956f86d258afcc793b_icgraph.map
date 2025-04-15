@@ -1,0 +1,4 @@
+<map id="QuantConnect.Securities.Future.FuturesExpiryUtilityFunctions.AddBusinessDays" name="QuantConnect.Securities.Future.FuturesExpiryUtilityFunctions.AddBusinessDays">
+<area shape="rect" id="node1" title="Method to retrieve n^th succeeding/preceding business day for a given day" alt="" coords="316,5,579,61"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Securities_1_1Future_1_1FuturesExpiryUtilityFunctions.html#a2faa025cfb79f45e8738b8f8e9343d7a" title="Method to retrieve n^th succeeding/preceding business day for a given day if there was a holiday on t..." alt="" coords="5,5,268,61"/>
+</map>

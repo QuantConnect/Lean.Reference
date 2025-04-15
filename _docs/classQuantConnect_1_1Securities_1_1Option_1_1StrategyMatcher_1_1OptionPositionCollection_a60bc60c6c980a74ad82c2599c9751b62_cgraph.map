@@ -1,0 +1,4 @@
+<map id="QuantConnect.Securities.Option.StrategyMatcher.OptionPositionCollection.Slice" name="QuantConnect.Securities.Option.StrategyMatcher.OptionPositionCollection.Slice">
+<area shape="rect" id="node1" title="Slices this collection, returning a new collection containing only positions matching the specified c..." alt="" coords="5,5,228,61"/>
+<area shape="rect" id="node2" href="$structQuantConnect_1_1Securities_1_1Option_1_1StrategyMatcher_1_1OptionPosition.html#a66ee39bd985f59ba9bb0822b9b600640" title="Gets a new OptionPosition with zero Quantity" alt="" coords="276,5,499,61"/>
+</map>

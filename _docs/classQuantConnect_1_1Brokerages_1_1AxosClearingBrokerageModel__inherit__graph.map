@@ -1,0 +1,5 @@
+<map id="QuantConnect.Brokerages.AxosClearingBrokerageModel" name="QuantConnect.Brokerages.AxosClearingBrokerageModel">
+<area shape="rect" id="node1" title="Provides the Axos clearing brokerage model specific properties" alt="" coords="5,155,219,196"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Brokerages_1_1DefaultBrokerageModel.html" title="Provides a default implementation of IBrokerageModel that allows all orders and uses the default tran..." alt="" coords="24,80,200,107"/>
+<area shape="rect" id="node3" href="$interfaceQuantConnect_1_1Brokerages_1_1IBrokerageModel.html" title="Models brokerage transactions, fees, and order" alt="" coords="46,5,178,32"/>
+</map>

@@ -1,0 +1,9 @@
+<map id="QuantConnect.Indicators.IndicatorDataPoint" name="QuantConnect.Indicators.IndicatorDataPoint">
+<area shape="rect" id="node1" title="Represents a piece of data at a specific time" alt="" coords="576,90,763,131"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Data_1_1BaseData.html" title="Abstract base data class of QuantConnect. It is intended to be extended to define generic user custom..." alt="" coords="381,5,467,32"/>
+<area shape="rect" id="node3" href="$interfaceQuantConnect_1_1Data_1_1IBaseData.html" title="Base Data Class: Type, Timestamp, Key – Base Features." alt="" coords="183,5,272,32"/>
+<area shape="rect" id="node4" href="$interfaceQuantConnect_1_1Data_1_1ISymbolProvider.html" title="Base data with a symbol" alt="" coords="5,5,135,32"/>
+<area shape="rect" id="node5" title=" " alt="" coords="327,57,521,98"/>
+<area shape="rect" id="node6" title=" " alt="" coords="320,122,528,163"/>
+<area shape="rect" id="node7" title=" " alt="" coords="371,188,477,215"/>
+</map>

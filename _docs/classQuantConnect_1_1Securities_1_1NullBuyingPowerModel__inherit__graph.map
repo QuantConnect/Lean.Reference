@@ -1,0 +1,5 @@
+<map id="QuantConnect.Securities.NullBuyingPowerModel" name="QuantConnect.Securities.NullBuyingPowerModel">
+<area shape="rect" id="node1" title="Provides a buying power model considers that there is sufficient buying power for all orders" alt="" coords="5,155,192,196"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Securities_1_1BuyingPowerModel.html" title="Provides a base class for all buying power models" alt="" coords="25,80,172,107"/>
+<area shape="rect" id="node3" href="$interfaceQuantConnect_1_1Securities_1_1IBuyingPowerModel.html" title="Represents a security&#39;s model of buying power" alt="" coords="23,5,174,32"/>
+</map>

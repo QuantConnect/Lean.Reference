@@ -1,0 +1,4 @@
+<map id="QuantConnect.ToolBox.LazyStreamWriter.Flush" name="QuantConnect.ToolBox.LazyStreamWriter.Flush">
+<area shape="rect" id="node1" title="Wraps the StreamWriter.Flush() method" alt="" coords="332,13,535,54"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1ToolBox_1_1AlgoSeekFuturesConverter_1_1AlgoSeekFuturesProcessor.html#a3ad452d64aa1404d16821cef5d35c0ba" title="Write the in memory queues to the disk." alt="" coords="5,5,284,61"/>
+</map>

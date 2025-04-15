@@ -1,0 +1,4 @@
+<map id="QuantConnect.Securities.BuyingPowerModelExtensions.AboveMinimumOrderMarginPortfolioPercentage" name="QuantConnect.Securities.BuyingPowerModelExtensions.AboveMinimumOrderMarginPortfolioPercentage">
+<area shape="rect" id="node1" title="Helper method to determine if the requested quantity is above the algorithm minimum order margin port..." alt="" coords="5,5,299,61"/>
+<area shape="rect" id="node2" href="$interfaceQuantConnect_1_1Securities_1_1IBuyingPowerModel.html#ae4a939584ffb7a7d468023f57dba17be" title="The margin that must be held in order to increase the position by the provided quantity" alt="" coords="347,5,561,61"/>
+</map>

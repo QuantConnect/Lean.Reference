@@ -1,0 +1,10 @@
+<map id="QuantConnect.Securities.SecurityPortfolioManager.LogMarginInformation" name="QuantConnect.Securities.SecurityPortfolioManager.LogMarginInformation">
+<area shape="rect" id="node1" title="Logs margin information for debugging" alt="" coords="5,181,219,237"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Securities_1_1Positions_1_1SecurityPositionGroupModel.html#ab38609d426f6ebc69ed07a547e13b933" title="Gets or creates the default position group for the specified security" alt="" coords="297,5,531,61"/>
+<area shape="rect" id="node4" href="$interfaceQuantConnect_1_1Securities_1_1Positions_1_1IPositionGroupBuyingPowerModel.html#a9c767ae84e3cee14b9593e38bc1635be" title="Computes the amount of buying power reserved by the provided position group" alt="" coords="267,86,561,157"/>
+<area shape="rect" id="node5" href="$classQuantConnect_1_1Messages_1_1SecurityPortfolioManager.html#af8fa8cb531c89c8eb38bb9c366c0ec89" title="Returns a string message saying the order request margin information, this is, the margin used and th..." alt="" coords="279,181,549,237"/>
+<area shape="rect" id="node6" href="$classQuantConnect_1_1Messages_1_1SecurityPortfolioManager.html#ac2e9147f06aa3e5a1f5cecb0d516f51c" title="Returns a string message saying the total margin information, this is, the total margin used as well ..." alt="" coords="269,262,559,303"/>
+<area shape="rect" id="node7" href="$classQuantConnect_1_1Logging_1_1Log.html#a4e55477fbc790846b74550a57198cea9" title="Log trace" alt="" coords="314,327,514,369"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Securities_1_1Positions_1_1SecurityPositionGroupModel.html#aa11cb32493bfdcda2a5cee4b34c725e6" title="Creates a PositionGroupKey for the security&#39;s default position group" alt="" coords="609,5,839,61"/>
+<area shape="rect" id="node8" href="$interfaceQuantConnect_1_1Logging_1_1ILogHandler.html#a3fb71a33ac66129240b63f12b6fcda3b" title="Write debug message to log" alt="" coords="624,327,824,369"/>
+</map>

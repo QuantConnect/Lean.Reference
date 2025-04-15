@@ -1,0 +1,4 @@
+<map id="QuantConnect.Algorithm.QCAlgorithm.Symbol" name="QuantConnect.Algorithm.QCAlgorithm.Symbol">
+<area shape="rect" id="node1" title="Converts the string &#39;ticker&#39; symbol into a full Symbol object This requires that the string &#39;ticker&#39; ..." alt="" coords="327,5,600,47"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Algorithm_1_1QCAlgorithm.html#a091fba2e75c493178894d0447edcaff3" title="AddData a new user defined data source, requiring only the minimum config options...." alt="" coords="5,5,279,47"/>
+</map>

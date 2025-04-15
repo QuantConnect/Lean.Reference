@@ -1,0 +1,6 @@
+<map id="QuantConnect.Orders.Fills.FillModel.GetPrices" name="QuantConnect.Orders.Fills.FillModel.GetPrices">
+<area shape="rect" id="node1" title="Get the minimum and maximum price for this security in the last bar:" alt="" coords="5,39,200,80"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Securities_1_1SecurityCache.html#a2e22a721cbad979accb38e91dd640b8e" title="Get last data packet received for this security if any else null" alt="" coords="263,5,449,47"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Orders_1_1Fills_1_1FillModel.html#a71f8f74b6d7f6180d711911667671c49" title="Get data types the Security is subscribed to" alt="" coords="248,71,464,112"/>
+<area shape="rect" id="node4" href="$classQuantConnect_1_1Messages_1_1FillModel.html#ae9a5c5ace1eb050dd0d3d9c25fb1ba35" title="Returns a string message saying it was impossible to perform a fill for the given security symbol bec..." alt="" coords="512,63,767,119"/>
+</map>

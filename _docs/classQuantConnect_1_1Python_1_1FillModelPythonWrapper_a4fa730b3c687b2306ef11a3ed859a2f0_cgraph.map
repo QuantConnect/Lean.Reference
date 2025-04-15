@@ -1,0 +1,4 @@
+<map id="QuantConnect.Python.FillModelPythonWrapper.FillModelPythonWrapper" name="QuantConnect.Python.FillModelPythonWrapper.FillModelPythonWrapper">
+<area shape="rect" id="node1" title="Constructor for initialising the FillModelPythonWrapper class with wrapped PyObject object" alt="" coords="5,5,229,61"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Orders_1_1Fills_1_1FillModel.html#a9e54387daacc230f2584e2966ec6ac8f" title="Used to set the FillModelPythonWrapper instance if any" alt="" coords="277,13,484,54"/>
+</map>

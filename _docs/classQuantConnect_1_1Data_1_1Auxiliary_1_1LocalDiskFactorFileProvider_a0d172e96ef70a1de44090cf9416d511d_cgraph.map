@@ -1,0 +1,5 @@
+<map id="QuantConnect.Data.Auxiliary.LocalDiskFactorFileProvider.Get" name="QuantConnect.Data.Auxiliary.LocalDiskFactorFileProvider.Get">
+<area shape="rect" id="node1" title="Gets a FactorFile&lt;T&gt; instance for the specified symbol, or null if not found" alt="" coords="5,39,232,80"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Data_1_1Auxiliary_1_1AuxiliaryDataKey.html#a581149f0149fb793872935e0d46f0eed" title="Helper method to create a new instance from a Symbol" alt="" coords="280,5,493,47"/>
+<area shape="rect" id="node3" href="$interfaceQuantConnect_1_1Interfaces_1_1IMapFileProvider.html#af101e9f85e8c2beafb76f586f35a3833" title="Gets a MapFileResolver representing all the map files for the specified market" alt="" coords="293,71,480,112"/>
+</map>

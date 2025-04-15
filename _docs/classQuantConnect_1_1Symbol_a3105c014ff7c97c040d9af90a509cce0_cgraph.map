@@ -1,0 +1,6 @@
+<map id="QuantConnect.Symbol.operator string" name="QuantConnect.Symbol.operator string">
+<area shape="rect" id="node1" title="Returns the symbol&#39;s string ticker" alt="" coords="5,5,232,47"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Symbol.html#a3c54bbbf67e90444df99f3d80ed1c3a2" title="Returns a string that represents the current object." alt="" coords="280,13,503,39"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1SymbolCache.html#a57e097effb7b510a77d3ce51f8feadbc" title="Gets the string ticker symbol that is mapped to the specified Symbol" alt="" coords="551,5,761,47"/>
+<area shape="rect" id="node4" href="$classQuantConnect_1_1SecurityIdentifier.html#a2bad64d68f0d388b0598ab60bf862631" title="Returns a string that represents the current object." alt="" coords="809,5,1041,47"/>
+</map>

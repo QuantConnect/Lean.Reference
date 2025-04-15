@@ -1,0 +1,4 @@
+<map id="QuantConnect.Api.Estimate" name="QuantConnect.Api.Estimate">
+<area shape="rect" id="node1" title="Estimate response packet from the QuantConnect.com API." alt="" coords="5,80,207,107"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Api_1_1StringRepresentation.html" title="Class to return the string representation of an API response class" alt="" coords="27,5,185,32"/>
+</map>

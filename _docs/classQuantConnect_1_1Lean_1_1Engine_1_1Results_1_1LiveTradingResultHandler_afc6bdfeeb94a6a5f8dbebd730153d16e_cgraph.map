@@ -1,0 +1,8 @@
+<map id="QuantConnect.Lean.Engine.Results.LiveTradingResultHandler.SetAlgorithm" name="QuantConnect.Lean.Engine.Results.LiveTradingResultHandler.SetAlgorithm">
+<area shape="rect" id="node1" title="Set the algorithm of the result handler after its been initialized." alt="" coords="5,159,248,215"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Lean_1_1Engine_1_1Results_1_1LiveTradingResultHandler.html#ac48cb983b3ac3db97f7196d48ef5b145" title="Handles updates to the algorithm&#39;s name" alt="" coords="296,5,539,61"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Lean_1_1Engine_1_1Results_1_1LiveTradingResultHandler.html#ae97c3424c0f8fefa607640c292ef86ac" title="Handles updates to the algorithm&#39;s tags" alt="" coords="296,85,539,141"/>
+<area shape="rect" id="node4" href="$classQuantConnect_1_1Currencies.html#a2a7c85f9abe93db2a30c36612098e30e" title="Gets the currency symbol for the specified currency code" alt="" coords="322,166,513,207"/>
+<area shape="rect" id="node5" href="$classQuantConnect_1_1Lean_1_1Engine_1_1Results_1_1LiveTradingResultHandler.html#aac147351fa9b6f1e2da0440961784bc7" title="Send a list of secutity types that the algorithm trades to the browser to show the market clock &#45; is ..." alt="" coords="296,232,539,288"/>
+<area shape="rect" id="node6" href="$interfaceQuantConnect_1_1Interfaces_1_1IAlgorithm.html#a62e53d043b4301648e7c61be45b1b33f" title="Sets the statistics service instance to be used by the algorithm" alt="" coords="306,313,529,354"/>
+</map>

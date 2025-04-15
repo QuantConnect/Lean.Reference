@@ -1,0 +1,4 @@
+<map id="QuantConnect.Data.Common.MarketHourAwareConsolidator.Scan" name="QuantConnect.Data.Common.MarketHourAwareConsolidator.Scan">
+<area shape="rect" id="node1" title="Scans this consolidator to see if it should emit a bar due to time passing" alt="" coords="5,5,260,47"/>
+<area shape="rect" id="node2" href="$interfaceQuantConnect_1_1Data_1_1Consolidators_1_1IDataConsolidator.html#af6eb1305b4c3fdee605386ee16474145" title="Scans this consolidator to see if it should emit a bar due to time passing" alt="" coords="308,5,555,47"/>
+</map>

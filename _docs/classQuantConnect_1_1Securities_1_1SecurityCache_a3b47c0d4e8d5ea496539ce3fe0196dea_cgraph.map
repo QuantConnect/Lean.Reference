@@ -1,0 +1,5 @@
+<map id="QuantConnect.Securities.SecurityCache.AddDataList" name="QuantConnect.Securities.SecurityCache.AddDataList">
+<area shape="rect" id="node1" title="Add a list of market data points to the local security cache for the current market price." alt="" coords="5,39,204,80"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Securities_1_1SecurityCache.html#a50f2c7ac45a816c462ec67e944a6100e" title="Will consume the given data point updating the cache state and it&#39;s properties" alt="" coords="252,5,485,47"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Securities_1_1SecurityCache.html#ad09a4e89a3ce0df01d5f8042e02e74c5" title="Stores the specified data list in the cache WITHOUT updating any of the cache properties,..." alt="" coords="275,71,462,112"/>
+</map>

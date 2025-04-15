@@ -1,0 +1,4 @@
+<map id="QuantConnect.Lean.Engine.DataFeeds.WorkScheduling.WorkScheduler" name="QuantConnect.Lean.Engine.DataFeeds.WorkScheduling.WorkScheduler">
+<area shape="rect" id="node1" title="Base work scheduler abstraction" alt="" coords="5,5,305,47"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Lean_1_1Engine_1_1DataFeeds_1_1WorkScheduling_1_1WeightedWorkScheduler.html" title="This singleton class will create a thread pool to processes work that will be prioritized based on it..." alt="" coords="23,95,287,151"/>
+</map>

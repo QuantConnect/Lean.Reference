@@ -1,0 +1,4 @@
+<map id="QuantConnect.Securities.Positions.ReservedBuyingPowerForPositionGroup.operator ReservedBuyingPowerForPositionGroup" name="QuantConnect.Securities.Positions.ReservedBuyingPowerForPositionGroup.operator ReservedBuyingPowerForPositionGroup">
+<area shape="rect" id="node1" title="Implicit operator to decimal to remove noise" alt="" coords="5,5,288,76"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Securities_1_1Positions_1_1ReservedBuyingPowerForPositionGroup.html#a159d24ff2d6b86e0d5e51d5a3d20e6f0" title="Initializes a new instance of the ReservedBuyingPowerForPosition class" alt="" coords="336,5,619,76"/>
+</map>

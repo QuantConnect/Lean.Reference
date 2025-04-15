@@ -1,0 +1,4 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$interfaceQuantConnect_1_1Interfaces_1_1IAlgorithmSettings.html" title="User settings for the algorithm which can be changed in the IAlgorithm.Initialize method" alt="" coords="5,5,192,47"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1AlgorithmSettings.html" title="This class includes user settings for the algorithm which can be changed in the IAlgorithm...." alt="" coords="240,13,475,39"/>
+</map>

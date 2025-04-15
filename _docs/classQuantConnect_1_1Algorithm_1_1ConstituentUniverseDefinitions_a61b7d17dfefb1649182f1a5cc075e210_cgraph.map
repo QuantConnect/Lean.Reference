@@ -1,0 +1,4 @@
+<map id="QuantConnect.Algorithm.ConstituentUniverseDefinitions.HealthcareProvidersAndServices" name="QuantConnect.Algorithm.ConstituentUniverseDefinitions.HealthcareProvidersAndServices">
+<area shape="rect" id="node1" title="Morningstar HealthcareProvidersAndServices industry group MorningstarIndustryGroupCode" alt="" coords="5,5,292,61"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1SecurityIdentifier.html#aa2b8c59064a75d90b2e530e829331de1" title="Generates a new SecurityIdentifier for a ConstituentsUniverseData. Note that the symbol ticker is cas..." alt="" coords="340,13,572,54"/>
+</map>

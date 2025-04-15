@@ -1,0 +1,4 @@
+<map id="QuantConnect.TradingCalendar.GetDaysByType" name="QuantConnect.TradingCalendar.GetDaysByType">
+<area shape="rect" id="node1" title="Method returns TradingDay of the specified type (TradingDayType) that contains trading events associa..." alt="" coords="5,5,232,47"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1TradingCalendar.html#a19bc334560ed02a1cadae0f8752728c9" title="Method returns TradingDay that contains trading events associated with the range of dates" alt="" coords="280,5,507,47"/>
+</map>

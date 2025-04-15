@@ -1,0 +1,9 @@
+<map id="QuantConnect.SymbolRepresentation.TryDecomposeOptionTickerOSI" name="QuantConnect.SymbolRepresentation.TryDecomposeOptionTickerOSI">
+<area shape="rect" id="node1" title="Tries to decompose the specified OSI options ticker into its components" alt="" coords="609,104,880,145"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Symbol.html#acacd8a6cadeae009b6a87fa19fd54b03" title="Provides a convenience method for creating an option Symbol from its SecurityIdentifier and alias." alt="" coords="319,5,533,47"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1SymbolRepresentation.html#a176a0a2bf45c68b4279ff806a295862a" title="Parses the specified OSI options ticker into a Symbol object" alt="" coords="291,71,561,112"/>
+<area shape="rect" id="node4" href="$classQuantConnect_1_1SymbolRepresentation.html#aada063db88f8a709b9b9433e8750b145" title="Tries to decompose the specified OSI options ticker into its components" alt="" coords="291,136,561,177"/>
+<area shape="rect" id="node5" href="$classQuantConnect_1_1Data_1_1UniverseSelection_1_1BaseChainUniverseData.html#aad3bf260f0bb421f4f62f6ebeaebc2f5" title="Reader converts each line of the data source into BaseData objects. Each data type creates its own fa..." alt="" coords="302,202,550,258"/>
+<area shape="rect" id="node6" href="$classQuantConnect_1_1Data_1_1UniverseSelection_1_1FutureUniverse.html#a0be98f3838e5ca2f9ae440d87aeece06" title="Reader converts each line of the data source into BaseData objects. Each data type creates its own fa..." alt="" coords="7,176,241,217"/>
+<area shape="rect" id="node7" href="$classQuantConnect_1_1Data_1_1UniverseSelection_1_1OptionUniverse.html#a9c722865b50f2840c0cd33a88a0ef629" title="Reader converts each line of the data source into BaseData objects. Each data type creates its own fa..." alt="" coords="5,241,243,283"/>
+</map>

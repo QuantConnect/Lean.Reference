@@ -1,0 +1,4 @@
+<map id="QuantConnect.Packets.AlgorithmNameUpdatePacket" name="QuantConnect.Packets.AlgorithmNameUpdatePacket">
+<area shape="rect" id="node1" title="Packet to communicate updates to the algorithm&#39;s name" alt="" coords="5,80,240,121"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Packets_1_1Packet.html" title="Base class for packet messaging system" alt="" coords="91,5,155,32"/>
+</map>

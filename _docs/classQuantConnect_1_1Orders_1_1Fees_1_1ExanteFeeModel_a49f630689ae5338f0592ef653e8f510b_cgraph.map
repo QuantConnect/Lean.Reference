@@ -1,0 +1,4 @@
+<map id="QuantConnect.Orders.Fees.ExanteFeeModel.GetOrderFee" name="QuantConnect.Orders.Fees.ExanteFeeModel.GetOrderFee">
+<area shape="rect" id="node1" title="Gets the order fee associated with the specified order." alt="" coords="5,5,221,47"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Messages_1_1FeeModel.html#a72db7d0812a3cb2351eeb5ee7e9d7dc0" title="Returns a string message saying the type of the given security is unsupported" alt="" coords="269,5,501,47"/>
+</map>

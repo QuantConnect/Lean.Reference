@@ -1,0 +1,6 @@
+<map id="QuantConnect.SymbolRepresentation.TryDecomposeOptionTickerOSI" name="QuantConnect.SymbolRepresentation.TryDecomposeOptionTickerOSI">
+<area shape="rect" id="node1" title="Tries to decompose the specified OSI options ticker into its components" alt="" coords="5,50,276,91"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Securities_1_1IndexOption_1_1IndexOptionSymbol.html#ac516ce6e5976b125793890b240532f0a" title="Maps an index option ticker to its underlying index ticker" alt="" coords="341,5,578,61"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1SymbolRepresentation.html#a595675935788d53a5fa4130cc076615a" title="Tries to decompose the specified OSI options ticker into its components" alt="" coords="324,86,595,127"/>
+<area shape="rect" id="node4" href="$classQuantConnect_1_1Parse.html#aac0a89458d90280d2b3b04afa9e197a2" title="Parses the provided value as a decimal using CultureInfo.InvariantCulture" alt="" coords="643,93,853,120"/>
+</map>

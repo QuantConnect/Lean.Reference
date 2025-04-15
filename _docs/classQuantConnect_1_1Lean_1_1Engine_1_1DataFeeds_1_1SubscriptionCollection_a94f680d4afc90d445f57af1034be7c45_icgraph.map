@@ -1,0 +1,5 @@
+<map id="QuantConnect.Lean.Engine.DataFeeds.SubscriptionCollection.TryGetValue" name="QuantConnect.Lean.Engine.DataFeeds.SubscriptionCollection.TryGetValue">
+<area shape="rect" id="node1" title="Attempts to retrieve the subscription with the specified configuration" alt="" coords="667,5,911,61"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Lean_1_1Engine_1_1DataFeeds_1_1DataManager.html#a8c9d8428b36caced3c728a037a425114" title="Adds a new Subscription to provide data for the specified security." alt="" coords="328,13,619,54"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Lean_1_1Engine_1_1DataFeeds_1_1DataManager.html#acf9050df1be040d4259dc9a89c2cb740" title="Creates a new instance of the DataManager" alt="" coords="5,13,280,54"/>
+</map>

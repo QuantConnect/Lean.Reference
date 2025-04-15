@@ -1,0 +1,4 @@
+<map id="QuantConnect.Orders.StopLimitOrder" name="QuantConnect.Orders.StopLimitOrder">
+<area shape="rect" id="node1" title="Stop Market Order Type Definition" alt="" coords="5,80,200,121"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Orders_1_1Order.html" title="Order struct for placing new trade" alt="" coords="73,5,132,32"/>
+</map>

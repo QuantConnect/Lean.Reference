@@ -1,0 +1,6 @@
+<map id="QuantConnect.Benchmarks.SecurityBenchmark.CreateInstance" name="QuantConnect.Benchmarks.SecurityBenchmark.CreateInstance">
+<area shape="rect" id="node1" title="Helper function that will create a security with the given SecurityManager for a specific symbol and ..." alt="" coords="5,50,256,91"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Securities_1_1SecurityManager.html#a3ac388b31cf00c501b738b751427b883" title="Creates a new benchmark security" alt="" coords="318,5,570,61"/>
+<area shape="rect" id="node4" href="$classQuantConnect_1_1Benchmarks_1_1SecurityBenchmark.html#a45a12b43bac87b210770258630e56622" title="Initializes a new instance of the SecurityBenchmark class" alt="" coords="304,86,584,127"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Securities_1_1SecurityService.html#aa449d8886d5728a00e44b9aea24ad036" title="Creates a new security" alt="" coords="632,5,876,61"/>
+</map>

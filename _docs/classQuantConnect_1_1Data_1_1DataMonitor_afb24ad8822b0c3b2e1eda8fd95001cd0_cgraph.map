@@ -1,0 +1,4 @@
+<map id="QuantConnect.Data.DataMonitor.Dispose" name="QuantConnect.Data.DataMonitor.Dispose">
+<area shape="rect" id="node1" title="Disposes this object" alt="" coords="5,5,243,47"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Data_1_1DataMonitor.html#a35d0e80a7db93f8464c6467553b8e5a8" title="Terminates the data monitor generating a final report" alt="" coords="291,13,553,39"/>
+</map>

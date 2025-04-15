@@ -1,0 +1,5 @@
+<map id="QuantConnect.Lean.Engine.DataFeeds.Enumerators.DividendEventProvider.InitializeFactorFile" name="QuantConnect.Lean.Engine.DataFeeds.Enumerators.DividendEventProvider.InitializeFactorFile">
+<area shape="rect" id="node1" title="Initializes the factor file to use" alt="" coords="320,45,560,101"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Lean_1_1Engine_1_1DataFeeds_1_1Enumerators_1_1LiveDividendEventProvider.html#a5841f67d571faf4a369f46af22a78c8c" title="Check for dividends and returns them" alt="" coords="5,5,272,61"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Lean_1_1Engine_1_1DataFeeds_1_1Enumerators_1_1DividendEventProvider.html#a6aef039a181ace000e16bc1fa5c487d9" title="Initializes this instance" alt="" coords="19,85,259,141"/>
+</map>

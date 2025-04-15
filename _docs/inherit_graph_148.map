@@ -1,0 +1,5 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$classQuantConnect_1_1Data_1_1DataHistory.html" title=" " alt="" coords="5,39,236,80"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Research_1_1FutureHistory.html" title="Class to manage information from History Request of Futures" alt="" coords="285,5,508,47"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Research_1_1OptionHistory.html" title="Class to manage information from History Request of Options" alt="" coords="284,71,509,112"/>
+</map>

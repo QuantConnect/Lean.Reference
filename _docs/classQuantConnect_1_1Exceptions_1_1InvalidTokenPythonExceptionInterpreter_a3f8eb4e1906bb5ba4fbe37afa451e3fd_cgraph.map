@@ -1,0 +1,4 @@
+<map id="QuantConnect.Exceptions.InvalidTokenPythonExceptionInterpreter.Interpret" name="QuantConnect.Exceptions.InvalidTokenPythonExceptionInterpreter.Interpret">
+<area shape="rect" id="node1" title="Interprets the specified exception into a new exception" alt="" coords="5,5,289,61"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Messages_1_1InvalidTokenPythonExceptionInterpreter.html#a5895df8040ef719aea30fbf06900a0c4" title="Returns a string message saying: Tring to include an invalid token/character in any statement throws ..." alt="" coords="337,5,577,61"/>
+</map>

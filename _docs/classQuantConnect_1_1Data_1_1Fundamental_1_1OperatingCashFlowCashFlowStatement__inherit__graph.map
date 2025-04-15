@@ -1,0 +1,5 @@
+<map id="QuantConnect.Data.Fundamental.OperatingCashFlowCashFlowStatement" name="QuantConnect.Data.Fundamental.OperatingCashFlowCashFlowStatement">
+<area shape="rect" id="node1" title="The net cash from (used in) all of the entity&#39;s operating activities, including those of discontinued..." alt="" coords="5,155,285,196"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Data_1_1Fundamental_1_1MultiPeriodField.html" title="Abstract base class for multi&#45;period fields" alt="" coords="82,80,209,107"/>
+<area shape="rect" id="node3" title=" " alt="" coords="67,5,224,32"/>
+</map>

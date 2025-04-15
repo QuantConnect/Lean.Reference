@@ -1,0 +1,5 @@
+<map id="QuantConnect.Lean.Engine.HistoricalData.SynchronizingHistoryProvider.GetSecurityExchange" name="QuantConnect.Lean.Engine.HistoricalData.SynchronizingHistoryProvider.GetSecurityExchange">
+<area shape="rect" id="node1" title="Retrieves the appropriate SecurityExchange based on the data type and symbol." alt="" coords="591,5,848,61"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Lean_1_1Engine_1_1HistoricalData_1_1SynchronizingHistoryProvider.html#a409b17176bc2f0a6d2209167f54fec7e" title="Creates a subscription to process the history request" alt="" coords="285,5,543,61"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Lean_1_1Engine_1_1HistoricalData_1_1BrokerageHistoryProvider.html#a9cf173b48c88a0a8568f1bf9dbdd2573" title="Gets the history for the requested securities" alt="" coords="5,5,237,61"/>
+</map>

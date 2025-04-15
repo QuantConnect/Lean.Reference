@@ -1,0 +1,5 @@
+<map id="QuantConnect.Data.Fundamental.NetBusinessPurchaseAndSaleCashFlowStatement" name="QuantConnect.Data.Fundamental.NetBusinessPurchaseAndSaleCashFlowStatement">
+<area shape="rect" id="node1" title="The net change between Purchases/Sales of Business." alt="" coords="5,155,284,211"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Data_1_1Fundamental_1_1MultiPeriodField.html" title="Abstract base class for multi&#45;period fields" alt="" coords="81,80,208,107"/>
+<area shape="rect" id="node3" title=" " alt="" coords="66,5,223,32"/>
+</map>

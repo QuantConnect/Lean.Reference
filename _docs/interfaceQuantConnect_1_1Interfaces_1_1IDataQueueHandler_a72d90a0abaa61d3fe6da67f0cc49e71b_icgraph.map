@@ -1,0 +1,5 @@
+<map id="QuantConnect.Interfaces.IDataQueueHandler.Unsubscribe" name="QuantConnect.Interfaces.IDataQueueHandler.Unsubscribe">
+<area shape="rect" id="node1" title="Removes the specified configuration" alt="" coords="343,50,576,91"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Lean_1_1Engine_1_1DataFeeds_1_1Enumerators_1_1LiveSubscriptionEnumerator.html#ad81c4ca05a41ad0c25a407e89ffd69c9" title="Creates a new instance" alt="" coords="5,5,295,61"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Extensions.html#a674c79af6833da7c65bde4f8bca3b317" title="Helper method to unsubscribe a given configuration, handling any required mapping" alt="" coords="53,86,247,127"/>
+</map>

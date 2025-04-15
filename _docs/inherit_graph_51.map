@@ -1,0 +1,26 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" title=" " alt="" coords="5,718,119,745"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Api_1_1LiveAlgorithmResultsJsonConverter.html" title="Custom JsonConverter for LiveResults data for live algorithms" alt="" coords="181,5,416,47"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Api_1_1OptimizationBacktestJsonConverter.html" title="Json converter for OptimizationBacktest which creates a light weight easy to consume serialized versi..." alt="" coords="185,71,412,112"/>
+<area shape="rect" id="node4" href="$classQuantConnect_1_1Api_1_1ParameterSetJsonConverter.html" title="Json converter for ParameterSet which creates a light weight easy to consume serialized version" alt="" coords="193,136,404,177"/>
+<area shape="rect" id="node5" href="$classQuantConnect_1_1Api_1_1Serialization_1_1ProductJsonConverter.html" title="Provides an implementation of JsonConverter that can deserialize Product" alt="" coords="185,201,413,243"/>
+<area shape="rect" id="node6" href="$classQuantConnect_1_1ChartSeriesJsonConverter.html" title="Convert a Chart Series to and from JSON" alt="" coords="202,267,395,308"/>
+<area shape="rect" id="node7" href="$classQuantConnect_1_1DefaultConverter.html" title="Helper json converter to use the default json converter, breaking inheritance json converter" alt="" coords="183,333,414,359"/>
+<area shape="rect" id="node8" href="$classQuantConnect_1_1Notifications_1_1NotificationJsonConverter.html" title="Defines a JsonConverter to be used when deserializing to the Notification class." alt="" coords="197,384,401,425"/>
+<area shape="rect" id="node9" href="$classQuantConnect_1_1Optimizer_1_1Parameters_1_1OptimizationParameterJsonConverter.html" title="Override OptimizationParameter deserialization method. Can handle OptimizationStepParameter instances" alt="" coords="167,449,431,491"/>
+<area shape="rect" id="node10" href="$classQuantConnect_1_1Orders_1_1OrderJsonConverter.html" title="Provides an implementation of JsonConverter that can deserialize Orders" alt="" coords="198,515,399,556"/>
+<area shape="rect" id="node11" href="$classQuantConnect_1_1Orders_1_1ReadOrdersResponseJsonConverter.html" title="Api orders read response json converter" alt="" coords="189,580,408,621"/>
+<area shape="rect" id="node12" href="$classQuantConnect_1_1Orders_1_1TimeInForceJsonConverter.html" title="Provides an implementation of JsonConverter that can deserialize TimeInForce objects" alt="" coords="199,645,398,687"/>
+<area shape="rect" id="node13" href="$classQuantConnect_1_1Report_1_1NullResultValueTypeJsonConverter.html" title="Removes null values in the Result object&#39;s x,y values so that deserialization can occur without excep..." alt="" coords="169,711,428,752"/>
+<area shape="rect" id="node14" href="$classQuantConnect_1_1Report_1_1OrderTypeNormalizingJsonConverter.html" title="Normalizes the &quot;Type&quot; field to a value that will allow for successful deserialization in the OrderJso..." alt="" coords="187,776,410,817"/>
+<area shape="rect" id="node15" href="$classQuantConnect_1_1ScatterChartPointJsonConverter.html" title="ScatterChartPoint json converter" alt="" coords="199,841,398,883"/>
+<area shape="rect" id="node16" href="$classQuantConnect_1_1SymbolJsonConverter.html" title="Defines a JsonConverter to be used when deserializing to the Symbol class." alt="" coords="169,907,428,934"/>
+<area shape="rect" id="node17" href="$classQuantConnect_1_1SymbolValueJsonConverter.html" title="Defines a JsonConverter to be used when you only want to serialize the Symbol.Value property instead ..." alt="" coords="197,959,400,1000"/>
+<area shape="rect" id="node18" href="$classQuantConnect_1_1Util_1_1CandlestickJsonConverter.html" title="Candlestick Json Converter" alt="" coords="188,1024,409,1065"/>
+<area shape="rect" id="node19" href="$classQuantConnect_1_1Util_1_1ChartPointJsonConverter.html" title="Json Converter for ChartPoint which handles special reading" alt="" coords="192,1089,405,1131"/>
+<area shape="rect" id="node20" href="$classQuantConnect_1_1Util_1_1JsonRoundingConverter.html" title="Helper JsonConverter that will round decimal and double types, to FractionalDigits fractional digits" alt="" coords="182,1155,415,1196"/>
+<area shape="rect" id="node21" href="$classQuantConnect_1_1Util_1_1NullStringValueConverter.html" title="Converts the string &quot;null&quot; into a new instance of T. This converter only handles deserialization conc..." alt="" coords="194,1220,403,1261"/>
+<area shape="rect" id="node22" href="$classQuantConnect_1_1Util_1_1SeriesJsonConverter.html" title="Json Converter for Series which handles special Pie Series serialization case" alt="" coords="206,1285,391,1327"/>
+<area shape="rect" id="node23" href="$classQuantConnect_1_1Util_1_1SingleValueListConverter.html" title="Reads json and always produces a List, even if the input has just an object" alt="" coords="206,1351,391,1392"/>
+<area shape="rect" id="node24" href="$classQuantConnect_1_1Util_1_1TypeChangeJsonConverter.html" title="Provides a base class for a JsonConverter that serializes a an input type as some other output type" alt="" coords="187,1416,411,1457"/>
+</map>

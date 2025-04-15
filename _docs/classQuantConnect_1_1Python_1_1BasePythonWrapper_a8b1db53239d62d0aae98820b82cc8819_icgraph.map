@@ -1,0 +1,9 @@
+<map id="QuantConnect.Python.BasePythonWrapper.GetMethod" name="QuantConnect.Python.BasePythonWrapper.GetMethod">
+<area shape="rect" id="node1" title="Gets the Python instances method with the specified name and caches it" alt="" coords="396,217,595,258"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Python_1_1BasePythonWrapper.html#a05fa6adc417fbc2930f9bb95c91af17a" title="Invokes the specified method with the specified arguments" alt="" coords="57,5,296,61"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Python_1_1BasePythonWrapper.html#a86bbd0a69ec3954946b69c5d0c707ecd" title="Invokes the specified method with the specified arguments" alt="" coords="57,85,296,141"/>
+<area shape="rect" id="node4" href="$classQuantConnect_1_1Python_1_1BasePythonWrapper.html#a18c5f7faba1dd61848633e36fda57028" title="Invokes the specified method with the specified arguments and iterates over the returned values" alt="" coords="21,165,332,221"/>
+<area shape="rect" id="node5" href="$classQuantConnect_1_1Python_1_1BasePythonWrapper.html#a2ae68f46f18550d4715e689a4ca59cc4" title="Invokes the specified method with the specified arguments and iterates over the returned values" alt="" coords="31,246,323,317"/>
+<area shape="rect" id="node6" href="$classQuantConnect_1_1Python_1_1BasePythonWrapper.html#a4159383c139b03fe9297fbf012dc47ab" title="Invokes the specified method with the specified arguments and wraps the result by calling the given f..." alt="" coords="19,341,334,397"/>
+<area shape="rect" id="node7" href="$classQuantConnect_1_1Python_1_1BasePythonWrapper.html#a2c87ebcd848a9ef436cef00fe7493679" title="Invokes the specified method with the specified arguments and out parameters" alt="" coords="5,421,348,477"/>
+</map>

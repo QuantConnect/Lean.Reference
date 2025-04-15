@@ -1,0 +1,4 @@
+<map id="QuantConnect.Util.RateLimit.LeakyBucket.TryConsume" name="QuantConnect.Util.RateLimit.LeakyBucket.TryConsume">
+<area shape="rect" id="node1" title="Attempts to consume the specified number of tokens from the bucket. If the requested number of tokens..." alt="" coords="265,5,477,47"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Util_1_1RateLimit_1_1LeakyBucket.html#af38d9ac405bd0caf7ac0e9b255702f7d" title="Blocks until the specified number of tokens are available for consumption and then consumes that numb..." alt="" coords="5,5,217,47"/>
+</map>

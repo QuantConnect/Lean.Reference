@@ -1,0 +1,4 @@
+<map id="QuantConnect.Indicators.IndicatorDataPoint.GetSource" name="QuantConnect.Indicators.IndicatorDataPoint.GetSource">
+<area shape="rect" id="node1" title="This function is purposefully not implemented." alt="" coords="5,5,220,47"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Messages_1_1IndicatorDataPoint.html#ae43e0ddb975913a0e98d2d423c7f1573" title="Returns a string message saying the given method cannot be called on this type" alt="" coords="268,5,512,47"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="QuantConnect.Time.EachDay" name="QuantConnect.Time.EachDay">
+<area shape="rect" id="node1" title="Define an enumerable date range and return each date as a datetime object in the date range" alt="" coords="5,13,217,39"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Time.html#ac31dec6d3e0b8f5c110a12ade7200933" title="Define an enumerable date time range using the given time step" alt="" coords="265,5,484,47"/>
+</map>

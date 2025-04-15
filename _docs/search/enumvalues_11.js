@@ -1,0 +1,26 @@
+var searchData=
+[
+  ['raw_18530',['Raw',['../namespaceQuantConnect.html#a6f53e46e29d5c0897c2f2d173912a92ba65e65c8ab0d8609ce12fc68a03cb8e00',1,'QuantConnect']]],
+  ['rbi_18531',['RBI',['../namespaceQuantConnect_1_1Brokerages.html#af1d558797abc5053058f84d04daf7620ab2ca61baaf396ddd8a09456d7f920b73',1,'QuantConnect::Brokerages']]],
+  ['realbody_18532',['RealBody',['../namespaceQuantConnect_1_1Indicators_1_1CandlestickPatterns.html#a2ef3ee806ef9077bc8a6722679e6728aa4183882d37d47be1e31ca439f23746e7',1,'QuantConnect::Indicators::CandlestickPatterns']]],
+  ['reconnect_18533',['Reconnect',['../namespaceQuantConnect_1_1Brokerages.html#af5ad00115642f9ab37dadbdfa057510aa880b8461cba2e295e1828be8d6eedb0a',1,'QuantConnect::Brokerages']]],
+  ['recovery_18534',['Recovery',['../namespaceQuantConnect_1_1Report.html#a0b3c3c82db76cb19c3363011e9080b7aad8afbc541b39d23648c823057cffe3a5',1,'QuantConnect::Report']]],
+  ['regressionalgorithm_18535',['RegressionAlgorithm',['../namespaceQuantConnect_1_1Packets.html#abb2413d53d09020615ad387eb8a6be41ad350e387c604ed726f931e657f92ecd9',1,'QuantConnect::Packets']]],
+  ['regular_18536',['Regular',['../namespaceQuantConnect_1_1Data_1_1Auxiliary.html#abb0998c726200b5f7708f3aa8b87dcb0ad2203cb1237cb6460cbad94564e39345',1,'QuantConnect.Data.Auxiliary.Regular()'],['../namespaceQuantConnect_1_1Data_1_1Auxiliary.html#a8e5cbf235575412762ac344523508413ad2203cb1237cb6460cbad94564e39345',1,'QuantConnect.Data.Auxiliary.Regular()']]],
+  ['remotefile_18537',['RemoteFile',['../namespaceQuantConnect.html#a789541fda48e7bd2329118c598693b91a1ceeb9c6e32cd0a463ce3d73c05133f4',1,'QuantConnect']]],
+  ['removed_18538',['Removed',['../namespaceQuantConnect.html#a8285e9871e5bc2963f8f5fb5ff9fa864a93f07b720ebf7d1246512569761a5804',1,'QuantConnect']]],
+  ['reopeningprints_18539',['ReOpeningPrints',['../namespaceQuantConnect_1_1Data_1_1Auxiliary.html#a8e5cbf235575412762ac344523508413ae45c1168a2529c97f0f58f946ffddd53',1,'QuantConnect::Data::Auxiliary']]],
+  ['republishedlimituplimitdownpriceband_18540',['RepublishedLimitUpLimitDownPriceBand',['../namespaceQuantConnect_1_1Data_1_1Auxiliary.html#abb0998c726200b5f7708f3aa8b87dcb0a98e73205387ee9c0790e5b0a991adf36',1,'QuantConnect::Data::Auxiliary']]],
+  ['requestcanceled_18541',['RequestCanceled',['../namespaceQuantConnect_1_1Orders.html#a4abb693051568883a5e26c730ce20ab2a1a816592286f73ef46ba3b41838f8afc',1,'QuantConnect::Orders']]],
+  ['research_18542',['Research',['../namespaceQuantConnect_1_1Api.html#aff077cc5959749276b378211c056c987af027f27d0d548351e4d362e9b90678a9',1,'QuantConnect.Api.Research()'],['../namespaceQuantConnect.html#a11f3427843701b79418a4a1bc919215eaf027f27d0d548351e4d362e9b90678a9',1,'QuantConnect.Research()']]],
+  ['researchnode_18543',['ResearchNode',['../namespaceQuantConnect_1_1Api.html#abb8d23a9a1ba89d2e7cb728b6ca8f505a0d4067ae10aa8ee64f50a996f1ccc645',1,'QuantConnect.Api.ResearchNode()'],['../namespaceQuantConnect_1_1Packets.html#abb2413d53d09020615ad387eb8a6be41a0d4067ae10aa8ee64f50a996f1ccc645',1,'QuantConnect.Packets.ResearchNode()']]],
+  ['rest_18544',['Rest',['../namespaceQuantConnect.html#a789541fda48e7bd2329118c598693b91a55276c10d84e1df7713b441e76e141f9',1,'QuantConnect']]],
+  ['resume_18545',['Resume',['../namespaceQuantConnect_1_1Data_1_1Auxiliary.html#abb0998c726200b5f7708f3aa8b87dcb0af1cefec9e2196c672a622347f1fbc325',1,'QuantConnect::Data::Auxiliary']]],
+  ['right_18546',['Right',['../namespaceQuantConnect_1_1Securities_1_1Option_1_1StrategyMatcher.html#a98a563283f7abd848ffe3e32d7d5dfaea92b09c7c48c520c3c55e497875da437c',1,'QuantConnect::Securities::Option::StrategyMatcher']]],
+  ['rising_18547',['Rising',['../namespaceQuantConnect_1_1Data_1_1Market.html#a8662dcb50a60a50391c55ff142715101a4475404a8e17049853e83d014a833ca1',1,'QuantConnect::Data::Market']]],
+  ['roc_18548',['Roc',['../namespaceQuantConnect_1_1Data_1_1Custom_1_1Intrinio.html#a5ddcf6a633cf1a130357b1a449369bf7a8b280b9f59529aa41c3f84dcfbe0884d',1,'QuantConnect::Data::Custom::Intrinio']]],
+  ['rule155_18549',['Rule155',['../namespaceQuantConnect_1_1Data_1_1Auxiliary.html#a8e5cbf235575412762ac344523508413a304a3e572ad807cd63e91921290be03b',1,'QuantConnect::Data::Auxiliary']]],
+  ['running_18550',['Running',['../namespaceQuantConnect.html#abbad02007d97da37e50e4b8cb8b52151a5bda814c4aedb126839228f1a3d92f09',1,'QuantConnect.Running()'],['../namespaceQuantConnect_1_1Optimizer.html#a48cc13d0101ce380ec6a45c9fd77270ba5bda814c4aedb126839228f1a3d92f09',1,'QuantConnect.Optimizer.Running()']]],
+  ['runtimeerror_18551',['RuntimeError',['../namespaceQuantConnect.html#abbad02007d97da37e50e4b8cb8b52151aa334b8fdd25f8fb3e632228494604ee1',1,'QuantConnect.RuntimeError()'],['../namespaceQuantConnect_1_1Packets.html#abb2413d53d09020615ad387eb8a6be41aa334b8fdd25f8fb3e632228494604ee1',1,'QuantConnect.Packets.RuntimeError()']]],
+  ['russiainvadesukraine_18552',['RussiaInvadesUkraine',['../namespaceQuantConnect_1_1Report.html#a0b3c3c82db76cb19c3363011e9080b7aa61be472280280c489e980a0f05f9bbf4',1,'QuantConnect::Report']]]
+];

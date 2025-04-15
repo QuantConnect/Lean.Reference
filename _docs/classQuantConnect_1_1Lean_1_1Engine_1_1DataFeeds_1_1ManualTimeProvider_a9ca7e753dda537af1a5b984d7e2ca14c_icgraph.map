@@ -1,0 +1,7 @@
+<map id="QuantConnect.Lean.Engine.DataFeeds.ManualTimeProvider.SetCurrentTimeUtc" name="QuantConnect.Lean.Engine.DataFeeds.ManualTimeProvider.SetCurrentTimeUtc">
+<area shape="rect" id="node1" title="Sets the current time interpreting the specified time as a UTC time" alt="" coords="681,43,936,99"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Lean_1_1Engine_1_1DataFeeds_1_1ManualTimeProvider.html#a7cbad73e327055aac4a325885b8f5c04" title="Sets the current time interpeting the specified time as a local time using the time zone used at inst..." alt="" coords="359,5,614,61"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Lean_1_1Engine_1_1DataFeeds_1_1SubscriptionSynchronizer.html#ae9504f467b97f2c077ee537be1fa5f9d" title="Syncs the specified subscriptions. The frontier time used for synchronization is managed internally a..." alt="" coords="340,86,633,127"/>
+<area shape="rect" id="node4" href="$classQuantConnect_1_1Lean_1_1Engine_1_1DataFeeds_1_1Synchronizer.html#a1ec5e796dd6d363541a45e88cbf773e5" title="Returns an enumerable which provides the data to stream to the algorithm" alt="" coords="19,53,279,94"/>
+<area shape="rect" id="node5" href="$classQuantConnect_1_1Lean_1_1Engine_1_1DataFeeds_1_1LiveSynchronizer.html#aacd62be7b0b00fd14204f99b2f0b734c" title="Returns an enumerable which provides the data to stream to the algorithm" alt="" coords="5,118,292,159"/>
+</map>

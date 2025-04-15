@@ -1,0 +1,10 @@
+<map id="QuantConnect.Orders.Fills.FillModel.MarketOnCloseFill" name="QuantConnect.Orders.Fills.FillModel.MarketOnCloseFill">
+<area shape="rect" id="node1" title="Market on Close Fill Model. Return an order event with the fill details" alt="" coords="5,93,208,134"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Securities_1_1SecurityExchangeHours.html#ae4d431df8172a13151fbc6dcad979492" title="Gets the local date time corresponding to the next market close following the specified time" alt="" coords="265,5,499,61"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Orders_1_1Fills_1_1FillModel.html#ab0bcff6c774940b6b9403373586c3f55" title="This is required due to a limitation in PythonNet to resolved overriden methods. GetPrices" alt="" coords="256,85,508,141"/>
+<area shape="rect" id="node8" href="$classQuantConnect_1_1Messages_1_1FillModel.html#a2f7f7fe8da5a204dc9301ee121b7c5a5" title="Returns a string message saying the market never closes for the given symbol, and that an order of th..." alt="" coords="279,166,485,207"/>
+<area shape="rect" id="node4" href="$classQuantConnect_1_1Orders_1_1Fills_1_1FillModel.html#afa84c82a93805830970d5a4c15ed646c" title="Get the minimum and maximum price for this security in the last bar:" alt="" coords="556,93,751,134"/>
+<area shape="rect" id="node5" href="$classQuantConnect_1_1Securities_1_1SecurityCache.html#a2e22a721cbad979accb38e91dd640b8e" title="Get last data packet received for this security if any else null" alt="" coords="813,59,1000,101"/>
+<area shape="rect" id="node6" href="$classQuantConnect_1_1Orders_1_1Fills_1_1FillModel.html#a71f8f74b6d7f6180d711911667671c49" title="Get data types the Security is subscribed to" alt="" coords="799,125,1015,166"/>
+<area shape="rect" id="node7" href="$classQuantConnect_1_1Messages_1_1FillModel.html#ae9a5c5ace1eb050dd0d3d9c25fb1ba35" title="Returns a string message saying it was impossible to perform a fill for the given security symbol bec..." alt="" coords="1063,117,1317,173"/>
+</map>

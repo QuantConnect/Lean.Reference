@@ -1,0 +1,5 @@
+<map id="QuantConnect.Data.Fundamental.ChangeInLossAndLossAdjustmentExpenseReservesCashFlowStatement" name="QuantConnect.Data.Fundamental.ChangeInLossAndLossAdjustmentExpenseReservesCashFlowStatement">
+<area shape="rect" id="node1" title="The net change during the reporting period in the reserve account established to account for expected..." alt="" coords="5,155,301,211"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Data_1_1Fundamental_1_1MultiPeriodField.html" title="Abstract base class for multi&#45;period fields" alt="" coords="90,80,217,107"/>
+<area shape="rect" id="node3" title=" " alt="" coords="75,5,232,32"/>
+</map>

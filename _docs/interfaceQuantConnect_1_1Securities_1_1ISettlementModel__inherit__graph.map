@@ -1,0 +1,8 @@
+<map id="QuantConnect.Securities.ISettlementModel" name="QuantConnect.Securities.ISettlementModel">
+<area shape="rect" id="node1" title="Represents the model responsible for applying cash settlement rules" alt="" coords="5,71,192,112"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Python_1_1SettlementModelPythonWrapper.html" title="Provides an implementation of ISettlementModel that wraps a PyObject object" alt="" coords="240,5,479,47"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Securities_1_1DelayedSettlementModel.html" title="Represents the model responsible for applying cash settlement rules" alt="" coords="265,71,453,112"/>
+<area shape="rect" id="node4" href="$classQuantConnect_1_1Securities_1_1ImmediateSettlementModel.html" title="Represents the model responsible for applying cash settlement rules" alt="" coords="257,136,462,177"/>
+<area shape="rect" id="node5" href="$classQuantConnect_1_1Securities_1_1AccountCurrencyImmediateSettlementModel.html" title="Represents the model responsible for applying cash settlement rules" alt="" coords="527,103,841,144"/>
+<area shape="rect" id="node6" href="$classQuantConnect_1_1Securities_1_1Future_1_1FutureSettlementModel.html" title="Settlement model which can handle daily profit and loss settlement" alt="" coords="574,168,794,209"/>
+</map>

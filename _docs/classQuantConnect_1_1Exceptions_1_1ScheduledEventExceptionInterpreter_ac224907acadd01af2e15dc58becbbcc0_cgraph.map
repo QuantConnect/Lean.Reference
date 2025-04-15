@@ -1,0 +1,5 @@
+<map id="QuantConnect.Exceptions.ScheduledEventExceptionInterpreter.Interpret" name="QuantConnect.Exceptions.ScheduledEventExceptionInterpreter.Interpret">
+<area shape="rect" id="node1" title="Interprets the specified exception into a new exception" alt="" coords="5,35,268,91"/>
+<area shape="rect" id="node2" href="$interfaceQuantConnect_1_1Exceptions_1_1IExceptionInterpreter.html#ad18e241b161bc780ef4c55ae0dc1def4" title="Interprets the specified exception into a new exception" alt="" coords="338,5,557,47"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Messages_1_1ScheduledEventExceptionInterpreter.html#af0225ad7c515bb4622940f3b383d479e" title="Returns a string message with the given event name" alt="" coords="316,71,579,127"/>
+</map>

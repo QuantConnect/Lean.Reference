@@ -1,0 +1,7 @@
+<map id="QuantConnect.Securities.Option.StrategyMatcher.OptionPositionCollection.Slice" name="QuantConnect.Securities.Option.StrategyMatcher.OptionPositionCollection.Slice">
+<area shape="rect" id="node1" title="Slices this collection, returning a new collection containing only positions with the specified right" alt="" coords="5,45,228,101"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Securities_1_1Option_1_1StrategyMatcher_1_1OptionPositionCollection.html#a06fa8f3ac9c5dd1bf10cb298b4f8b9d5" title="Creates a new collection that is the result of adding the specified position &#160;to this collection." alt="" coords="276,5,499,61"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Securities_1_1Option_1_1StrategyMatcher_1_1OptionPositionCollection.html#a7374937ba2611edf5b89a211c9adf1a7" title="Creates a new collection that is the result of removing the specified position" alt="" coords="276,85,499,141"/>
+<area shape="rect" id="node4" href="$structQuantConnect_1_1Securities_1_1Option_1_1StrategyMatcher_1_1OptionPosition.html#ad51fe2a0a6720a620321665eae64cfe8" title="Creates a new OptionPosition instance with negative Quantity" alt="" coords="547,85,769,141"/>
+<area shape="rect" id="node5" href="$structQuantConnect_1_1Securities_1_1Option_1_1StrategyMatcher_1_1OptionPosition.html#a9176892195863bf2182eabb3d9941262" title="Initializes a new instance of the OptionPosition structure" alt="" coords="817,85,1040,141"/>
+</map>

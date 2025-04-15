@@ -1,0 +1,6 @@
+<map id="QuantConnect.Data.UniverseSelection.ConstituentsUniverseData" name="QuantConnect.Data.UniverseSelection.ConstituentsUniverseData">
+<area shape="rect" id="node1" title="Custom base data class used for ConstituentsUniverse" alt="" coords="5,229,263,271"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Data_1_1BaseData.html" title="Abstract base data class of QuantConnect. It is intended to be extended to define generic user custom..." alt="" coords="91,155,177,181"/>
+<area shape="rect" id="node3" href="$interfaceQuantConnect_1_1Data_1_1IBaseData.html" title="Base Data Class: Type, Timestamp, Key – Base Features." alt="" coords="89,80,179,107"/>
+<area shape="rect" id="node4" href="$interfaceQuantConnect_1_1Data_1_1ISymbolProvider.html" title="Base data with a symbol" alt="" coords="69,5,199,32"/>
+</map>

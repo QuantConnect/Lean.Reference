@@ -1,0 +1,4 @@
+<map id="QuantConnect.Python.BuyingPowerModelPythonWrapper.SetLeverage" name="QuantConnect.Python.BuyingPowerModelPythonWrapper.SetLeverage">
+<area shape="rect" id="node1" title="Sets the leverage for the applicable securities, i.e, equities" alt="" coords="5,13,292,54"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Python_1_1BasePythonWrapper.html#a05fa6adc417fbc2930f9bb95c91af17a" title="Invokes the specified method with the specified arguments" alt="" coords="340,5,607,61"/>
+</map>

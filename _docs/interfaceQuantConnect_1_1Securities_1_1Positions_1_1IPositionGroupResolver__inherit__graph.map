@@ -1,0 +1,6 @@
+<map id="QuantConnect.Securities.Positions.IPositionGroupResolver" name="QuantConnect.Securities.Positions.IPositionGroupResolver">
+<area shape="rect" id="node1" title="Resolves position groups from a collection of positions." alt="" coords="5,93,243,134"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Securities_1_1Positions_1_1CompositePositionGroupResolver.html" title="Provides an implementation of IPositionGroupResolver that invokes multiple wrapped implementations in..." alt="" coords="291,5,537,61"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Securities_1_1Positions_1_1OptionStrategyPositionGroupResolver.html" title="Class in charge of resolving option strategy groups which will use the OptionStrategyPositionGroupBuy..." alt="" coords="297,85,531,141"/>
+<area shape="rect" id="node4" href="$classQuantConnect_1_1Securities_1_1Positions_1_1SecurityPositionGroupResolver.html" title="Provides an implementation of IPositionGroupResolver that places all positions into a default group o..." alt="" coords="299,165,529,221"/>
+</map>

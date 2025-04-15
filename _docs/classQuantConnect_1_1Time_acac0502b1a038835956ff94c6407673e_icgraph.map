@@ -1,0 +1,7 @@
+<map id="QuantConnect.Time.EachDay" name="QuantConnect.Time.EachDay">
+<area shape="rect" id="node1" title="Define an enumerable date range and return each date as a datetime object in the date range" alt="" coords="293,115,505,142"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Scheduling_1_1DateRules.html#a96da1217828682719aa151331ee10137" title="Specifies an event should fire on each of the specified days of week" alt="" coords="29,5,222,47"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Scheduling_1_1DateRules.html#a50ef0351aa84d629ccb3d6f850f8b2f8" title="Specifies an event should fire every day" alt="" coords="29,71,222,112"/>
+<area shape="rect" id="node4" href="$classQuantConnect_1_1Data_1_1RiskFreeInterestRateModelExtensions.html#a488707333bf1b3fc664ae1ad9c67480f" title="Gets the average risk free annual return rate" alt="" coords="5,137,245,193"/>
+<area shape="rect" id="node5" href="$classQuantConnect_1_1Time.html#a5d72b5ccc603db0d8cf79df21b2f28bf" title="Could of the number of tradeable dates within this period." alt="" coords="16,217,235,259"/>
+</map>

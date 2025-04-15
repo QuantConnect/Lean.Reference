@@ -1,0 +1,5 @@
+<map id="QuantConnect.Data.Fundamental.EarningReports" name="QuantConnect.Data.Fundamental.EarningReports">
+<area shape="rect" id="node1" title="Definition of the EarningReports class" alt="" coords="5,169,248,211"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Data_1_1Fundamental_1_1FundamentalTimeDependentProperty.html" title="Simple base class shared by top layer fundamental properties which depend on a time provider" alt="" coords="21,80,232,121"/>
+<area shape="rect" id="node3" title=" " alt="" coords="48,5,205,32"/>
+</map>

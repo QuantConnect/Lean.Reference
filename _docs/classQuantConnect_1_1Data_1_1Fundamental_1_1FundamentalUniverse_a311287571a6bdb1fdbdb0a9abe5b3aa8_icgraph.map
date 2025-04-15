@@ -1,0 +1,13 @@
+<map id="QuantConnect.Data.Fundamental.FundamentalUniverse.USA" name="QuantConnect.Data.Fundamental.FundamentalUniverse.USA">
+<area shape="rect" id="node1" title="Creates a new fundamental universe for the USA market" alt="" coords="969,225,1212,267"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Algorithm_1_1QCAlgorithm.html#aeac560d821c1d05c6af8864ec7075a72" title="Creates a new universe and adds it to the algorithm. This is for coarse fundamental US Equity data an..." alt="" coords="648,192,921,233"/>
+<area shape="rect" id="node11" href="$classQuantConnect_1_1Algorithm_1_1UniverseDefinitions.html#a6a68caa183a8ba32d48c3fde0519e3d1" title="Creates a new coarse universe that contains the top count of stocks by daily dollar volume" alt="" coords="663,257,907,299"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Algorithm_1_1QCAlgorithm.html#a0f7ec3a574e47b4ac26448590c4ef685" title="Creates and adds a new single Option contract to the algorithm" alt="" coords="327,72,600,113"/>
+<area shape="rect" id="node6" href="$classQuantConnect_1_1Algorithm_1_1QCAlgorithm.html#afcdaf47586751fe6105f43d044b7cf70" title="Set a required SecurityType&#45;symbol and resolution for algorithm" alt="" coords="5,136,279,177"/>
+<area shape="rect" id="node7" href="$classQuantConnect_1_1Algorithm_1_1QCAlgorithm.html#a0975c880f61504fffaf9f1554bda2d4d" title="Creates a new universe and adds it to the algorithm. This is for coarse and fine fundamental US Equit..." alt="" coords="327,192,600,233"/>
+<area shape="rect" id="node8" href="$classQuantConnect_1_1Algorithm_1_1QCAlgorithm.html#a975ad7e9fe2cf71b44d700d56305d0d4" title="Called by setup handlers after Initialize and allows the algorithm a chance to organize the data gath..." alt="" coords="327,257,600,299"/>
+<area shape="rect" id="node10" href="$classQuantConnect_1_1Algorithm_1_1QCAlgorithm.html#a2522d3da5e22e9da677d3be34717f70a" title="Used to send data updates to algorithm framework models" alt="" coords="327,323,600,364"/>
+<area shape="rect" id="node4" href="$classQuantConnect_1_1Algorithm_1_1QCAlgorithm.html#ada6451c3b45f03209b586c6bc661ccb0" title="Adds a future option contract to the algorithm." alt="" coords="5,5,279,47"/>
+<area shape="rect" id="node5" href="$classQuantConnect_1_1Algorithm_1_1QCAlgorithm.html#a87673f13f7831209b9cea29f860d63c3" title="Adds an index option contract to the algorithm." alt="" coords="5,71,279,112"/>
+<area shape="rect" id="node9" href="$classQuantConnect_1_1Algorithm_1_1QCAlgorithm.html#ad8a5d8d6d6fd62a8a3962f0649567804" title="Called by setup handlers after Initialize and allows the algorithm a chance to organize the data gath..." alt="" coords="5,257,279,299"/>
+</map>

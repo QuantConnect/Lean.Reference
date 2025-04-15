@@ -1,0 +1,4 @@
+<map id="QuantConnect.Symbol.GetOptionTypeFromUnderlying" name="QuantConnect.Symbol.GetOptionTypeFromUnderlying">
+<area shape="rect" id="node1" title="Determines the SecurityType based on the underlying Symbol&#39;s SecurityType GetUnderlyingFromOptionType..." alt="" coords="5,5,243,47"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Messages_1_1Symbol.html#a604fb150ddce6c70a3086aff44b8e9a9" title="Returns a string message saying no option type exists for the given underlying SecurityType" alt="" coords="291,5,531,47"/>
+</map>

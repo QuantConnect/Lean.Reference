@@ -1,0 +1,4 @@
+<map id="QuantConnect.Securities.OptionFilterUniverse.D" name="QuantConnect.Securities.OptionFilterUniverse.D">
+<area shape="rect" id="node1" title="Applies the filter to the universe selecting the contracts with Delta between the given range...." alt="" coords="5,5,192,47"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Securities_1_1OptionFilterUniverse.html#a15e2e47a7372d5556a147a7f2cf722b5" title="Applies the filter to the universe selecting the contracts with Delta between the given range" alt="" coords="240,5,435,47"/>
+</map>

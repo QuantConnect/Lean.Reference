@@ -1,0 +1,10 @@
+<map id="QuantConnect.Algorithm.QCAlgorithm.AddData" name="QuantConnect.Algorithm.QCAlgorithm.AddData">
+<area shape="rect" id="node1" title="AddData a new user defined data source, requiring only the minimum config options...." alt="" coords="5,104,279,145"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Algorithm_1_1QCAlgorithm.html#a8f307e6b81e88cf3bc5ba788a74fbf17" title="AddData a new user defined data source, requiring only the minimum config options...." alt="" coords="327,5,600,47"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1SecurityIdentifier.html#a02ca750115844561c001c2346fbafc00" title="Generates a new SecurityIdentifier for a custom security with the option of providing the first date" alt="" coords="347,71,579,112"/>
+<area shape="rect" id="node5" href="$classQuantConnect_1_1Algorithm_1_1QCAlgorithm.html#aa13b5a2143a58f5fda30bda0bbc9bff1" title="Converts the string &#39;ticker&#39; symbol into a full Symbol object This requires that the string &#39;ticker&#39; ..." alt="" coords="327,136,600,177"/>
+<area shape="rect" id="node7" href="$classQuantConnect_1_1SymbolCache.html#a131a5bb015b9a603328d0eddfe90c610" title="Gets the Symbol object that is mapped to the specified string ticker symbol" alt="" coords="941,195,1151,236"/>
+<area shape="rect" id="node4" href="$classQuantConnect_1_1SecurityIdentifier.html#a19e1f9da410608020d74ed9e7d283575" title="Generates the Symbol property for QuantConnect.SecurityType.Base security identifiers" alt="" coords="648,71,880,112"/>
+<area shape="rect" id="node6" href="$classQuantConnect_1_1SymbolCache.html#a16ba0efea4bf17d7a83e417a86beb1b5" title="Gets the Symbol object that is mapped to the specified string ticker symbol" alt="" coords="659,136,869,177"/>
+<area shape="rect" id="node8" href="$classQuantConnect_1_1Messages_1_1SymbolCache.html#adb5f5ff865e0cfbd0810684f9811b3eb" title="Returns a string message saying the given ticker could not be localized" alt="" coords="928,129,1164,171"/>
+</map>

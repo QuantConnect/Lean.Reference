@@ -1,0 +1,17 @@
+<map id="QuantConnect.Benchmarks.SecurityBenchmark.CreateInstance" name="QuantConnect.Benchmarks.SecurityBenchmark.CreateInstance">
+<area shape="rect" id="node1" title="Helper function that will create a security with the given SecurityManager for a specific symbol and ..." alt="" coords="343,457,593,498"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Brokerages_1_1BinanceCoinFuturesBrokerageModel.html#addeb13fd25cf94c48a7a11d82bf0ca29" title="Get the benchmark for this model" alt="" coords="19,5,281,61"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Brokerages_1_1BinanceFuturesBrokerageModel.html#a85ddb3370bb87da9d57f80e78835736c" title="Get the benchmark for this model" alt="" coords="34,85,266,141"/>
+<area shape="rect" id="node4" href="$classQuantConnect_1_1Brokerages_1_1ExanteBrokerageModel.html#ae5cd590d0fdd7dfc5ef760fa6c7bc6dd" title="Get the benchmark for this model" alt="" coords="13,166,287,207"/>
+<area shape="rect" id="node5" href="$classQuantConnect_1_1Brokerages_1_1BitfinexBrokerageModel.html#ada402f643eed2b416ef4dcb44ec4e590" title="Get the benchmark for this model" alt="" coords="11,231,289,273"/>
+<area shape="rect" id="node6" href="$classQuantConnect_1_1Brokerages_1_1BinanceBrokerageModel.html#a89a19635165af08e3a577176abcdea1b" title="Get the benchmark for this model" alt="" coords="9,297,291,338"/>
+<area shape="rect" id="node7" href="$classQuantConnect_1_1Brokerages_1_1FTXBrokerageModel.html#a7200682c4a7f306776d64d2d54d08a8a" title="Get the benchmark for this model" alt="" coords="23,362,277,403"/>
+<area shape="rect" id="node8" href="$classQuantConnect_1_1Brokerages_1_1CoinbaseBrokerageModel.html#a00c8c3442d08d5b67a28b74fa69e844c" title="Get the benchmark for this model" alt="" coords="5,427,295,469"/>
+<area shape="rect" id="node9" href="$classBybitBrokerageModel.html#a55fbedf16cdfaf9c1ea460b8a1efc7e7" title="Get the benchmark for this model" alt="" coords="19,493,281,520"/>
+<area shape="rect" id="node10" href="$classQuantConnect_1_1Brokerages_1_1OandaBrokerageModel.html#a41cbe04ef0c5a37e82d1c9b3fd974722" title="Get the benchmark for this model" alt="" coords="15,545,285,586"/>
+<area shape="rect" id="node11" href="$classQuantConnect_1_1Brokerages_1_1FxcmBrokerageModel.html#a5db2ee76363919bea66190ace81d018c" title="Get the benchmark for this model" alt="" coords="17,610,283,651"/>
+<area shape="rect" id="node12" href="$classQuantConnect_1_1Brokerages_1_1SamcoBrokerageModel.html#a40db495005f47223a19c9d3e5d398f86" title="Get the benchmark for this model" alt="" coords="13,675,287,717"/>
+<area shape="rect" id="node13" href="$classQuantConnect_1_1Brokerages_1_1KrakenBrokerageModel.html#a4b93fc0168cb99b913882fdbbe161697" title="Get the benchmark for this model" alt="" coords="13,741,287,782"/>
+<area shape="rect" id="node14" href="$classQuantConnect_1_1Brokerages_1_1DefaultBrokerageModel.html#a03eb687e29db2af6b437286581e5584e" title="Get the benchmark for this model" alt="" coords="11,806,289,847"/>
+<area shape="rect" id="node15" href="$classQuantConnect_1_1Algorithm_1_1QCAlgorithm.html#ab6ee2c4e0a8649563da1bb28d3f65736" title="Sets the benchmark used for computing statistics of the algorithm to the specified symbol" alt="" coords="13,871,287,913"/>
+</map>

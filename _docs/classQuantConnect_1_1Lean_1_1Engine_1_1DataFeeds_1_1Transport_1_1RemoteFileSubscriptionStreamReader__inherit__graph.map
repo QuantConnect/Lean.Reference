@@ -1,0 +1,5 @@
+<map id="QuantConnect.Lean.Engine.DataFeeds.Transport.RemoteFileSubscriptionStreamReader" name="QuantConnect.Lean.Engine.DataFeeds.Transport.RemoteFileSubscriptionStreamReader">
+<area shape="rect" id="node1" title="Represents a stream reader capabable of downloading a remote file and then reading it from disk" alt="" coords="5,155,239,211"/>
+<area shape="rect" id="node2" href="$interfaceQuantConnect_1_1Interfaces_1_1IStreamReader.html" title="Defines a transport mechanism for data from its source into various reader methods" alt="" coords="63,80,181,107"/>
+<area shape="rect" id="node3" title=" " alt="" coords="73,5,171,32"/>
+</map>

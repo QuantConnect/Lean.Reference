@@ -1,0 +1,5 @@
+<map id="QuantConnect.Data.Fundamental.AmortizationOfSecuritiesCashFlowStatement" name="QuantConnect.Data.Fundamental.AmortizationOfSecuritiesCashFlowStatement">
+<area shape="rect" id="node1" title="Represents amortization of the allocation of a lump sum amount to different time periods,..." alt="" coords="5,155,253,211"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Data_1_1Fundamental_1_1MultiPeriodField.html" title="Abstract base class for multi&#45;period fields" alt="" coords="66,80,193,107"/>
+<area shape="rect" id="node3" title=" " alt="" coords="51,5,208,32"/>
+</map>

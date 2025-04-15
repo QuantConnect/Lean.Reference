@@ -1,0 +1,8 @@
+<map id="QuantConnect.Securities.SecurityExchangeHours.SecurityExchangeHours" name="QuantConnect.Securities.SecurityExchangeHours.SecurityExchangeHours">
+<area shape="rect" id="node1" title="Initializes a new instance of the SecurityExchangeHours class" alt="" coords="900,71,1133,127"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Securities_1_1SecurityExchangeHours.html#af6f527fdfc92b5801026340fd4114a4a" title="Gets a SecurityExchangeHours instance that is always open" alt="" coords="591,79,852,120"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Data_1_1BaseDataRequest.html#a435b16af060ec9c8cfa178dd7f0501c8" title="Initializes the base data request" alt="" coords="287,5,503,47"/>
+<area shape="rect" id="node4" href="$classQuantConnect_1_1Algorithm_1_1Framework_1_1Selection_1_1ManualUniverseSelectionModel.html#afab31f93eab86e8e9866bd124778366e" title="Creates the universes for this algorithm. Called at algorithm start." alt="" coords="247,71,543,127"/>
+<area shape="rect" id="node5" href="$classQuantConnect_1_1Securities_1_1MarketHoursDatabase.html#a3668df8d1cc8dff6cb12a96c957c04b7" title="Convenience method for the common custom data case. Sets the entry for the specified symbol using Sec..." alt="" coords="281,151,508,207"/>
+<area shape="rect" id="node6" href="$classQuantConnect_1_1Extensions.html#a6e7b57a65d282b02a39d8232be71f4e0" title="Helper method to get a market hours entry" alt="" coords="5,159,199,200"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="QuantConnect.Securities.FuncSecurityInitializer" name="QuantConnect.Securities.FuncSecurityInitializer">
+<area shape="rect" id="node1" title="Provides a functional implementation of ISecurityInitializer" alt="" coords="5,80,192,121"/>
+<area shape="rect" id="node2" href="$interfaceQuantConnect_1_1Securities_1_1ISecurityInitializer.html" title="Represents a type capable of initializing a new security" alt="" coords="29,5,169,32"/>
+</map>

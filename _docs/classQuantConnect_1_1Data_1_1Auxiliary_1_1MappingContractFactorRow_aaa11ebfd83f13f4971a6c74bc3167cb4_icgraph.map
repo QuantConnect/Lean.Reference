@@ -1,0 +1,5 @@
+<map id="QuantConnect.Data.Auxiliary.MappingContractFactorRow.Parse" name="QuantConnect.Data.Auxiliary.MappingContractFactorRow.Parse">
+<area shape="rect" id="node1" title="Parses the lines as factor files rows while properly handling inf entries" alt="" coords="607,5,845,47"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Data_1_1Auxiliary_1_1PriceScalingExtensions.html#a240991703a0e981444c9947f3330d66b" title="Parses the contents as a FactorFile, if error returns a new empty factor file" alt="" coords="320,5,559,47"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Data_1_1Auxiliary_1_1FactorFileZipHelper.html#a7421a7e86d841da71394504ce13f3eaf" title="Reads the zip bytes as text and parses as FactorFileRows to create FactorFiles" alt="" coords="5,5,272,47"/>
+</map>

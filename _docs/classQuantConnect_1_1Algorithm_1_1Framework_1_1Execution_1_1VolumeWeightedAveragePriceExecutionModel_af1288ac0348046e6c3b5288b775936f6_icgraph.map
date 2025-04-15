@@ -1,0 +1,4 @@
+<map id="QuantConnect.Algorithm.Framework.Execution.VolumeWeightedAveragePriceExecutionModel.IsSafeToRemove" name="QuantConnect.Algorithm.Framework.Execution.VolumeWeightedAveragePriceExecutionModel.IsSafeToRemove">
+<area shape="rect" id="node1" title="Determines if it&#39;s safe to remove the associated symbol data" alt="" coords="337,5,621,61"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Algorithm_1_1Framework_1_1Execution_1_1VolumeWeightedAveragePriceExecutionModel.html#a970c49505f897a28edf696861bb15dd7" title="Event fired each time the we add/remove securities from the data feed" alt="" coords="5,5,289,61"/>
+</map>

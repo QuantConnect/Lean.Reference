@@ -1,0 +1,6 @@
+<map id="QuantConnect.Interfaces.IAlgorithm.Symbol" name="QuantConnect.Interfaces.IAlgorithm.Symbol">
+<area shape="rect" id="node1" title="Converts the string &#39;ticker&#39; symbol into a full Symbol object This requires that the string &#39;ticker&#39; ..." alt="" coords="609,53,796,94"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Lean_1_1Engine_1_1Setup_1_1BrokerageSetupHandler.html#a4eaa335733d5c20c1c91a21356a1529f" title="Get the open orders from a brokerage. Adds Orders.Order and Orders.OrderTicket to the transaction han..." alt="" coords="315,5,557,61"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Lean_1_1Engine_1_1Setup_1_1BrokerageSetupHandler.html#abcd444fc0f3eca0af0470d9f963a5efd" title="Loads existing holdings and orders" alt="" coords="311,85,561,141"/>
+<area shape="rect" id="node4" href="$classQuantConnect_1_1Lean_1_1Engine_1_1Setup_1_1BrokerageSetupHandler.html#a31fba19179b2197553a8f0152885886b" title="Primary entry point to setup a new algorithm" alt="" coords="5,93,263,134"/>
+</map>

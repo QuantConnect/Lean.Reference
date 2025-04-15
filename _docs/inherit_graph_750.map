@@ -1,0 +1,4 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$classQuantConnect_1_1Util_1_1TypeChangeJsonConverter.html" title=" " alt="" coords="5,5,229,61"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Util_1_1DoubleUnixSecondsDateTimeJsonConverter.html" title="Defines a JsonConverter that serializes DateTime use the number of whole and fractional seconds since..." alt="" coords="277,13,539,54"/>
+</map>

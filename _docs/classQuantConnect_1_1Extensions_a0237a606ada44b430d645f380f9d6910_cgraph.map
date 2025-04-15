@@ -1,0 +1,4 @@
+<map id="QuantConnect.Extensions.GetZeroPriceMessage" name="QuantConnect.Extensions.GetZeroPriceMessage">
+<area shape="rect" id="node1" title="Extension method to get security price is 0 messages for users" alt="" coords="5,5,199,47"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Messages_1_1Extensions.html#a622aaf47cd1dc4480983046fe89aa234" title="Returns a string message saying the security does not have an accurate price as it has not yet receiv..." alt="" coords="247,5,509,47"/>
+</map>

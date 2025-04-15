@@ -1,0 +1,12 @@
+<map id="QuantConnect.Report.Report.Report" name="QuantConnect.Report.Report.Report">
+<area shape="rect" id="node1" title="Create beautiful HTML and PDF Reports based on backtest and live data." alt="" coords="5,159,217,200"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Report_1_1ResultsUtil.html#aa3025f7eaad4f511960c2d6c9c2dd028" title="Get the points, from the Series name given, in Strategy Equity chart" alt="" coords="280,5,493,47"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Report_1_1PortfolioLooper.html#a7890d0a50af6d8c64a10865f34206496" title="Gets the point in time portfolio over multiple deployments" alt="" coords="277,71,497,112"/>
+<area shape="rect" id="node4" href="$classQuantConnect_1_1Logging_1_1Log.html#a4e55477fbc790846b74550a57198cea9" title="Log trace" alt="" coords="561,123,761,164"/>
+<area shape="rect" id="node6" href="$classQuantConnect_1_1Configuration_1_1Config.html#aaabf1286e33a675b2e116f3289981839" title="Get the matching config setting from the file searching for this key." alt="" coords="282,188,491,229"/>
+<area shape="rect" id="node9" href="$classQuantConnect_1_1Report_1_1Report.html#a7cc83a0abe180e6a54810016f3f902fd" title="Gets the regex pattern in the given input string" alt="" coords="281,253,493,295"/>
+<area shape="rect" id="node10" href="$classQuantConnect_1_1Report_1_1PointInTimePortfolio.html#a73f07b83eb8db75f9e451ec2c5a45004" title="Filters out any empty holdings from the current Holdings" alt="" coords="265,319,508,360"/>
+<area shape="rect" id="node5" href="$interfaceQuantConnect_1_1Logging_1_1ILogHandler.html#a3fb71a33ac66129240b63f12b6fcda3b" title="Write debug message to log" alt="" coords="813,123,1013,164"/>
+<area shape="rect" id="node7" href="$classQuantConnect_1_1Configuration_1_1Config.html#a1504ca19b3759d008b090375ddf4ad10" title="Gets the currently selected environment. If sub&#45;environments are defined, they&#39;ll be returned as {env..." alt="" coords="556,188,765,229"/>
+<area shape="rect" id="node8" href="$classQuantConnect_1_1Configuration_1_1Config.html#a9ed01bc116e8181a7557f3e668f34691" title="Gets the underlying JToken for the specified key" alt="" coords="556,253,765,295"/>
+</map>

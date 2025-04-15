@@ -1,0 +1,4 @@
+<map id="QuantConnect.Messages.OrderRequest.ToString" name="QuantConnect.Messages.OrderRequest.ToString">
+<area shape="rect" id="node1" title="Parses the given order request into a string message containing basic information about it" alt="" coords="255,5,477,47"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Orders_1_1OrderRequest.html#aacdf86ad5a0b6d475020f7edbe803550" title="Returns a string that represents the current object." alt="" coords="5,5,207,47"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="QuantConnect.Lean.Engine.Storage.FileHandler.DirectoryExists" name="QuantConnect.Lean.Engine.Storage.FileHandler.DirectoryExists">
+<area shape="rect" id="node1" title="True if the given directory exists" alt="" coords="319,39,571,80"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Lean_1_1Engine_1_1Storage_1_1LocalObjectStore.html#ad1b6b2c77674a74df56288750a0450ec" title="Returns the file path for the specified path" alt="" coords="6,5,270,47"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Lean_1_1Engine_1_1Storage_1_1LocalObjectStore.html#ad996578710d9cce84fc9af79d6ee86cb" title="Overridable persistence function" alt="" coords="5,71,271,112"/>
+</map>

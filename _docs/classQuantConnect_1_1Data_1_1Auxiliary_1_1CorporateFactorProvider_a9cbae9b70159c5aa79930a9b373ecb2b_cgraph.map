@@ -1,0 +1,12 @@
+<map id="QuantConnect.Data.Auxiliary.CorporateFactorProvider.Apply" name="QuantConnect.Data.Auxiliary.CorporateFactorProvider.Apply">
+<area shape="rect" id="node1" title="Creates a new factor file with the specified data applied. Only Dividend and Split data types will be..." alt="" coords="5,86,224,127"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Data_1_1Auxiliary_1_1CorporateFactorRow.html#ac1198e3deb4f45d2db190fae4aee973a" title="Applies the dividend to this factor file row. This dividend date must be on or before the factor file..." alt="" coords="289,13,502,54"/>
+<area shape="rect" id="node7" href="$classQuantConnect_1_1Data_1_1Auxiliary_1_1CorporateFactorProvider.html#a211368136ba270e319c82dbff57ff067" title="Creates a new instance" alt="" coords="272,79,519,135"/>
+<area shape="rect" id="node8" href="$classQuantConnect_1_1Data_1_1Auxiliary_1_1CorporateFactorProvider.html#aa39afcb8c1ed7ee8fe9029b450d24e90" title="Gets all of the splits and dividends represented by this factor file" alt="" coords="275,159,516,215"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Securities_1_1SecurityExchangeHours.html#a519ce4d354a2675d9da3447ff538df23" title="Gets the previous trading day" alt="" coords="567,5,825,61"/>
+<area shape="rect" id="node4" href="$classQuantConnect_1_1Securities_1_1SecurityExchangeHours.html#a9938e951dadf16e7518f648ff9c4a040" title="Determines if the exchange will be open on the date specified by the local date time" alt="" coords="873,13,1129,54"/>
+<area shape="rect" id="node5" href="$classQuantConnect_1_1Securities_1_1SecurityExchangeHours.html#a106e2dd187ab76452e14ac6a28f929aa" title="Helper to access the market hours field based on the day of week" alt="" coords="1177,13,1464,54"/>
+<area shape="rect" id="node6" href="$classQuantConnect_1_1Securities_1_1LocalMarketHours.html#a1e9178f81413c7d1f032a003d74acecf" title="Gets a LocalMarketHours instance that is always closed" alt="" coords="1512,13,1743,54"/>
+<area shape="rect" id="node9" href="$classQuantConnect_1_1Logging_1_1Log.html#a4e55477fbc790846b74550a57198cea9" title="Log trace" alt="" coords="596,166,796,207"/>
+<area shape="rect" id="node10" href="$interfaceQuantConnect_1_1Logging_1_1ILogHandler.html#a3fb71a33ac66129240b63f12b6fcda3b" title="Write debug message to log" alt="" coords="901,166,1101,207"/>
+</map>

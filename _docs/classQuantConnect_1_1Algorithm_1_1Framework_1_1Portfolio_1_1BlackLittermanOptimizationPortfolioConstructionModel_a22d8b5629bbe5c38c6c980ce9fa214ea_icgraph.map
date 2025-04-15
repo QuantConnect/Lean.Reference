@@ -1,0 +1,4 @@
+<map id="QuantConnect.Algorithm.Framework.Portfolio.BlackLittermanOptimizationPortfolioConstructionModel.GetEquilibriumReturns" name="QuantConnect.Algorithm.Framework.Portfolio.BlackLittermanOptimizationPortfolioConstructionModel.GetEquilibriumReturns">
+<area shape="rect" id="node1" title="Calculate equilibrium returns and covariance" alt="" coords="415,5,765,61"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Algorithm_1_1Framework_1_1Portfolio_1_1BlackLittermanOptimizationPortfolioConstructionModel.html#a605934b812085557cae3adad3bf62c00" title="Will determine the target percent for each insight" alt="" coords="5,5,367,61"/>
+</map>

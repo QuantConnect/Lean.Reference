@@ -1,0 +1,4 @@
+<map id="QuantConnect.Securities.Security.Add" name="QuantConnect.Securities.Security.Add">
+<area shape="rect" id="node1" title="Adds the specified custom property. This allows us to use the security object as a dynamic object for..." alt="" coords="5,5,192,47"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Securities_1_1Security.html#af0012f68bb120e83270e85f90bb02a1d" title="Sets the specified custom property. This allows us to use the security object as a dynamic object for..." alt="" coords="240,5,427,47"/>
+</map>

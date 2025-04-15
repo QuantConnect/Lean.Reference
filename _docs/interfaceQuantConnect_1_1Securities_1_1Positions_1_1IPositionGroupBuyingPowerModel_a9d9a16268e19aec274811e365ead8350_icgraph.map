@@ -1,0 +1,4 @@
+<map id="QuantConnect.Securities.Positions.IPositionGroupBuyingPowerModel.GetMaintenanceMargin" name="QuantConnect.Securities.Positions.IPositionGroupBuyingPowerModel.GetMaintenanceMargin">
+<area shape="rect" id="node1" title="Gets the margin currently allocated to the specified holding" alt="" coords="383,5,641,61"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Securities_1_1Positions_1_1PositionGroupBuyingPowerModelExtensions.html#a9b0698ffdd6b43aff8cd68559654dc35" title="Gets the margin currently allocated to the specified position group" alt="" coords="5,5,335,61"/>
+</map>

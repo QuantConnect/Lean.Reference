@@ -1,0 +1,6 @@
+<map id="QuantConnect.Time.GetSecondUnevenWait" name="QuantConnect.Time.GetSecondUnevenWait">
+<area shape="rect" id="node1" title="Helper method to adjust a waiting time, in milliseconds, so it&#39;s uneven with the second turn around" alt="" coords="321,71,547,112"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Brokerages_1_1DefaultConnectionHandler.html#a741233b19b5f305f405018a7b24f4600" title="Initializes the connection handler" alt="" coords="13,5,266,47"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Lean_1_1Engine_1_1Results_1_1LiveTradingResultHandler.html#a50f62a662e8a77e1c0fbf1720aa1716f" title="Live trading result handler thread." alt="" coords="5,71,273,112"/>
+<area shape="rect" id="node4" href="$classQuantConnect_1_1Scheduling_1_1TimeMonitor.html#a4b1e73743eb0a2739a90f74ef21df533" title="Creates a new instance" alt="" coords="43,136,236,177"/>
+</map>

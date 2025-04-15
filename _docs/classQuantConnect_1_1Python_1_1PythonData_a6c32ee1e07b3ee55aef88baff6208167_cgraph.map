@@ -1,0 +1,8 @@
+<map id="QuantConnect.Python.PythonData.Reader" name="QuantConnect.Python.PythonData.Reader">
+<area shape="rect" id="node1" title="Generic Reader Implementation for Python Custom Data." alt="" coords="5,39,217,80"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Python_1_1PythonData.html#a535c288f57a8a212b0bd7b28fa4617a9" title="Constructor for initializing the PythonData class" alt="" coords="265,5,477,47"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Data_1_1DynamicData.html#ac37b26cff252702587c0c362e099f9ec" title="Sets the property with the specified name to the value. This is a case&#45;insensitve search." alt="" coords="266,71,477,112"/>
+<area shape="rect" id="node4" href="$classQuantConnect_1_1SymbolCache.html#a16ba0efea4bf17d7a83e417a86beb1b5" title="Gets the Symbol object that is mapped to the specified string ticker symbol" alt="" coords="525,71,736,112"/>
+<area shape="rect" id="node5" href="$classQuantConnect_1_1SymbolCache.html#a131a5bb015b9a603328d0eddfe90c610" title="Gets the Symbol object that is mapped to the specified string ticker symbol" alt="" coords="797,37,1007,79"/>
+<area shape="rect" id="node6" href="$classQuantConnect_1_1Messages_1_1SymbolCache.html#adb5f5ff865e0cfbd0810684f9811b3eb" title="Returns a string message saying the given ticker could not be localized" alt="" coords="784,103,1020,144"/>
+</map>

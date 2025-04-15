@@ -1,0 +1,5 @@
+<map id="QuantConnect.Optimizer.Strategies.IOptimizationStrategy.GetTotalBacktestEstimate" name="QuantConnect.Optimizer.Strategies.IOptimizationStrategy.GetTotalBacktestEstimate">
+<area shape="rect" id="node1" title="Estimates amount of parameter sets that can be run" alt="" coords="571,5,849,61"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Optimizer_1_1LeanOptimizer.html#ad20b4d21f2cb41507562da2eb7eb6cca" title="Returns the current optimization status and strategy estimates" alt="" coords="304,13,523,54"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Optimizer_1_1Launcher_1_1ConsoleLeanOptimizer.html#a727f46a7d9abd51ec8cec50bdde59711" title="Sends an update of the current optimization status to the user" alt="" coords="5,13,256,54"/>
+</map>

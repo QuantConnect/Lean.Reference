@@ -1,0 +1,5 @@
+<map id="QuantConnect.Orders.StopMarketOrder.ToString" name="QuantConnect.Orders.StopMarketOrder.ToString">
+<area shape="rect" id="node1" title="Returns a string that represents the current object." alt="" coords="5,5,200,47"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Messages_1_1StopMarketOrder.html#a3e6f53599169498cf0eefac4a2dba6ee" title="Parses a given StopMarketOrder object into a string message" alt="" coords="248,5,464,47"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Currencies.html#a2a7c85f9abe93db2a30c36612098e30e" title="Gets the currency symbol for the specified currency code" alt="" coords="512,5,703,47"/>
+</map>

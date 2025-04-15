@@ -1,0 +1,7 @@
+<map id="QuantConnect.SeriesSampler.SampleChart" name="QuantConnect.SeriesSampler.SampleChart">
+<area shape="rect" id="node1" title="Samples the given chart" alt="" coords="5,39,220,80"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Chart.html#a09a7ec253a93c5ed26a8bea179aa682e" title="Return a new empty instance clone of this object" alt="" coords="278,5,473,47"/>
+<area shape="rect" id="node4" href="$classQuantConnect_1_1SeriesSampler.html#a59632b69ae393277db27fa9c5433909a" title="Samples the given series" alt="" coords="268,71,483,112"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Chart.html#a4c472ccda43f4b353177a5703553d734" title="Default constructor for chart:" alt="" coords="532,13,724,39"/>
+<area shape="rect" id="node5" href="$classQuantConnect_1_1BaseSeries.html#a11d115d5750fb76ead9841a1242fdf3d" title="Return a new instance clone of this object" alt="" coords="531,71,725,112"/>
+</map>

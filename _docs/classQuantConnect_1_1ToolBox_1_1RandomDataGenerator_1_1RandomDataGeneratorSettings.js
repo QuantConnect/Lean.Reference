@@ -1,0 +1,25 @@
+var classQuantConnect_1_1ToolBox_1_1RandomDataGenerator_1_1RandomDataGeneratorSettings =
+[
+    [ "FromCommandLineArguments", "classQuantConnect_1_1ToolBox_1_1RandomDataGenerator_1_1RandomDataGeneratorSettings.html#a6add0bb74fcd7a041336b7cbaac7f807", null ],
+    [ "Start", "classQuantConnect_1_1ToolBox_1_1RandomDataGenerator_1_1RandomDataGeneratorSettings.html#a9babd357e1b0193bf7ebf2a087298bdf", null ],
+    [ "End", "classQuantConnect_1_1ToolBox_1_1RandomDataGenerator_1_1RandomDataGeneratorSettings.html#a76752bb562563a325078038a7e8a6b15", null ],
+    [ "SecurityType", "classQuantConnect_1_1ToolBox_1_1RandomDataGenerator_1_1RandomDataGeneratorSettings.html#a9e406f1d66f211317f58db3d535ddffc", null ],
+    [ "DataDensity", "classQuantConnect_1_1ToolBox_1_1RandomDataGenerator_1_1RandomDataGeneratorSettings.html#aa1a2c684cbf6e7dd5730d1b41f1369ee", null ],
+    [ "Resolution", "classQuantConnect_1_1ToolBox_1_1RandomDataGenerator_1_1RandomDataGeneratorSettings.html#a52f3374bf98788b6a572bb57d650bd65", null ],
+    [ "Market", "classQuantConnect_1_1ToolBox_1_1RandomDataGenerator_1_1RandomDataGeneratorSettings.html#a0598b10dc2a86a4343e524acd2740beb", null ],
+    [ "IncludeCoarse", "classQuantConnect_1_1ToolBox_1_1RandomDataGenerator_1_1RandomDataGeneratorSettings.html#a0b25a283f478ae1a4d2fbe0a78efbfe6", null ],
+    [ "SymbolCount", "classQuantConnect_1_1ToolBox_1_1RandomDataGenerator_1_1RandomDataGeneratorSettings.html#a44ee189af3ae41541fc6f68ec13f25e9", null ],
+    [ "QuoteTradeRatio", "classQuantConnect_1_1ToolBox_1_1RandomDataGenerator_1_1RandomDataGeneratorSettings.html#a7d5a5d6547fa186eaf0e7e3b6f6fb4a0", null ],
+    [ "RandomSeed", "classQuantConnect_1_1ToolBox_1_1RandomDataGenerator_1_1RandomDataGeneratorSettings.html#a0f29f2e5653715e021347801e1a8fc80", null ],
+    [ "RandomSeedSet", "classQuantConnect_1_1ToolBox_1_1RandomDataGenerator_1_1RandomDataGeneratorSettings.html#abc9bb0f89b7ee0a76bb4036b61a6b2a9", null ],
+    [ "HasIpoPercentage", "classQuantConnect_1_1ToolBox_1_1RandomDataGenerator_1_1RandomDataGeneratorSettings.html#a5fe71a5fcbbb795236f48e14db152f9b", null ],
+    [ "HasRenamePercentage", "classQuantConnect_1_1ToolBox_1_1RandomDataGenerator_1_1RandomDataGeneratorSettings.html#ae8ea2f6486f848031ec1e687d85e89f1", null ],
+    [ "HasSplitsPercentage", "classQuantConnect_1_1ToolBox_1_1RandomDataGenerator_1_1RandomDataGeneratorSettings.html#aaef7002a46140ba90f75cc5e36ef091d", null ],
+    [ "MonthSplitPercentage", "classQuantConnect_1_1ToolBox_1_1RandomDataGenerator_1_1RandomDataGeneratorSettings.html#a3e0803fb58e2d9c1df50f128c1995a13", null ],
+    [ "HasDividendsPercentage", "classQuantConnect_1_1ToolBox_1_1RandomDataGenerator_1_1RandomDataGeneratorSettings.html#a41782fc63cae4d751bce6310dae59c53", null ],
+    [ "DividendEveryQuarterPercentage", "classQuantConnect_1_1ToolBox_1_1RandomDataGenerator_1_1RandomDataGeneratorSettings.html#abfc6989f6e0b196c802cd1360622b680", null ],
+    [ "OptionPriceEngineName", "classQuantConnect_1_1ToolBox_1_1RandomDataGenerator_1_1RandomDataGeneratorSettings.html#adb227dd4c97faae272588f74e062e9e0", null ],
+    [ "ChainSymbolCount", "classQuantConnect_1_1ToolBox_1_1RandomDataGenerator_1_1RandomDataGeneratorSettings.html#a0f65c61f4df46883e46666de9de3da22", null ],
+    [ "VolatilityModelResolution", "classQuantConnect_1_1ToolBox_1_1RandomDataGenerator_1_1RandomDataGeneratorSettings.html#ae91864cc1b97d1f85f1bd85177ebb0ec", null ],
+    [ "Tickers", "classQuantConnect_1_1ToolBox_1_1RandomDataGenerator_1_1RandomDataGeneratorSettings.html#aff5350046c40bcb91b68e4e79d95bd0a", null ]
+];

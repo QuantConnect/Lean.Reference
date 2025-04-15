@@ -1,0 +1,5 @@
+<map id="QuantConnect.Lean.Engine.Storage.LocalObjectStore.InternalSaveBytes" name="QuantConnect.Lean.Engine.Storage.LocalObjectStore.InternalSaveBytes">
+<area shape="rect" id="node1" title="Won&#39;t trigger persist nor will check storage write permissions, useful on initialization since it all..." alt="" coords="624,5,864,61"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Lean_1_1Engine_1_1Storage_1_1LocalObjectStore.html#a0bae70bb60e5691f9d65f7e981d9c9b0" title="Saves the object data for the specified path" alt="" coords="317,13,576,54"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Lean_1_1Engine_1_1Storage_1_1LocalObjectStore.html#ad1b6b2c77674a74df56288750a0450ec" title="Returns the file path for the specified path" alt="" coords="5,13,269,54"/>
+</map>

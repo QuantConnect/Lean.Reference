@@ -1,0 +1,4 @@
+<map id="QuantConnect.Util.MarketHoursDatabaseJsonConverter.MarketHoursDatabaseJson.Convert" name="QuantConnect.Util.MarketHoursDatabaseJsonConverter.MarketHoursDatabaseJson.Convert">
+<area shape="rect" id="node1" title="Converts this json representation to the MarketHoursDatabase type" alt="" coords="320,5,581,61"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Util_1_1MarketHoursDatabaseJsonConverter.html#a65ce75d27f6c6d2a33b08dd2dee8206a" title="Converts the input value to be deserialized" alt="" coords="5,13,272,54"/>
+</map>

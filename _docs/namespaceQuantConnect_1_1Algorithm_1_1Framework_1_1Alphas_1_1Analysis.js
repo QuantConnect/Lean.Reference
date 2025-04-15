@@ -1,0 +1,4 @@
+var namespaceQuantConnect_1_1Algorithm_1_1Framework_1_1Alphas_1_1Analysis =
+[
+    [ "InsightManager", "classQuantConnect_1_1Algorithm_1_1Framework_1_1Alphas_1_1Analysis_1_1InsightManager.html", "classQuantConnect_1_1Algorithm_1_1Framework_1_1Alphas_1_1Analysis_1_1InsightManager" ]
+];

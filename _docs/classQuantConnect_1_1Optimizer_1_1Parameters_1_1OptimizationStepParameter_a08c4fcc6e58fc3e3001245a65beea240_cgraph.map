@@ -1,0 +1,4 @@
+<map id="QuantConnect.Optimizer.Parameters.OptimizationStepParameter.OptimizationStepParameter" name="QuantConnect.Optimizer.Parameters.OptimizationStepParameter.OptimizationStepParameter">
+<area shape="rect" id="node1" title="Create an instance of OptimizationParameter based on configuration" alt="" coords="5,5,295,61"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Messages_1_1OptimizationStepParameter.html#ae90fa7054db8c661f150e4863a3e2e07" title="Returns a string message saying the step range is invalid" alt="" coords="343,13,613,54"/>
+</map>

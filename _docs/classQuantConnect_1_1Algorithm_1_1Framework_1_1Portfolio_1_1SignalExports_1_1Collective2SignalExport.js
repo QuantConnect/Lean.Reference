@@ -1,0 +1,12 @@
+var classQuantConnect_1_1Algorithm_1_1Framework_1_1Portfolio_1_1SignalExports_1_1Collective2SignalExport =
+[
+    [ "C2ExchangeSymbol", "classQuantConnect_1_1Algorithm_1_1Framework_1_1Portfolio_1_1SignalExports_1_1Collective2SignalExport_1_1C2ExchangeSymbol.html", "classQuantConnect_1_1Algorithm_1_1Framework_1_1Portfolio_1_1SignalExports_1_1Collective2SignalExport_1_1C2ExchangeSymbol" ],
+    [ "Collective2Position", "classQuantConnect_1_1Algorithm_1_1Framework_1_1Portfolio_1_1SignalExports_1_1Collective2SignalExport_1_1Collective2Position.html", "classQuantConnect_1_1Algorithm_1_1Framework_1_1Portfolio_1_1SignalExports_1_1Collective2SignalExport_1_1Collective2Position" ],
+    [ "Collective2SignalExport", "classQuantConnect_1_1Algorithm_1_1Framework_1_1Portfolio_1_1SignalExports_1_1Collective2SignalExport.html#acd69baaaaef06486082d13197ddf5e7c", null ],
+    [ "Send", "classQuantConnect_1_1Algorithm_1_1Framework_1_1Portfolio_1_1SignalExports_1_1Collective2SignalExport.html#ae72a36410f161dff06b714c17837a623", null ],
+    [ "ConvertHoldingsToCollective2", "classQuantConnect_1_1Algorithm_1_1Framework_1_1Portfolio_1_1SignalExports_1_1Collective2SignalExport.html#a87920e10ff6ced2b1299745f8ddb5aa3", null ],
+    [ "ConvertPercentageToQuantity", "classQuantConnect_1_1Algorithm_1_1Framework_1_1Portfolio_1_1SignalExports_1_1Collective2SignalExport.html#a068778469a955aa908e2657d2ed1b1a3", null ],
+    [ "CreateMessage", "classQuantConnect_1_1Algorithm_1_1Framework_1_1Portfolio_1_1SignalExports_1_1Collective2SignalExport.html#a1dca5321c04de88e12c83a7435465da7", null ],
+    [ "Destination", "classQuantConnect_1_1Algorithm_1_1Framework_1_1Portfolio_1_1SignalExports_1_1Collective2SignalExport.html#a15263617de3e8ee27907db60564dd50b", null ],
+    [ "Name", "classQuantConnect_1_1Algorithm_1_1Framework_1_1Portfolio_1_1SignalExports_1_1Collective2SignalExport.html#ac9eaf6b4786bf263f4db2fb89fde995e", null ]
+];

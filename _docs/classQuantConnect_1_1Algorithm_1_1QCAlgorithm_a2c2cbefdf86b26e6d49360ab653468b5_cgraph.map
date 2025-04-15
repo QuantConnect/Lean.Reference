@@ -1,0 +1,5 @@
+<map id="QuantConnect.Algorithm.QCAlgorithm.AddData" name="QuantConnect.Algorithm.QCAlgorithm.AddData">
+<area shape="rect" id="node1" title="AddData a new user defined data source including symbol properties and exchange hours,..." alt="" coords="5,39,279,80"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Algorithm_1_1QCAlgorithm.html#a8f307e6b81e88cf3bc5ba788a74fbf17" title="AddData a new user defined data source, requiring only the minimum config options...." alt="" coords="327,5,600,47"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1SecurityIdentifier.html#a19e1f9da410608020d74ed9e7d283575" title="Generates the Symbol property for QuantConnect.SecurityType.Base security identifiers" alt="" coords="347,71,579,112"/>
+</map>

@@ -1,0 +1,13 @@
+<map id="QuantConnect.Securities.BuyingPowerModel" name="QuantConnect.Securities.BuyingPowerModel">
+<area shape="rect" id="node1" title="Provides a base class for all buying power models" alt="" coords="204,104,391,145"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Securities_1_1CashBuyingPowerModel.html" title="Represents a buying power model for cash accounts" alt="" coords="448,5,635,47"/>
+<area shape="rect" id="node4" href="$classQuantConnect_1_1Securities_1_1ConstantBuyingPowerModel.html" title="Provides an implementation of IBuyingPowerModel that uses an absurdly low margin requirement to ensur..." alt="" coords="439,71,644,112"/>
+<area shape="rect" id="node5" href="$classQuantConnect_1_1Securities_1_1NullBuyingPowerModel.html" title="Provides a buying power model considers that there is sufficient buying power for all orders" alt="" coords="448,136,635,177"/>
+<area shape="rect" id="node6" href="$classQuantConnect_1_1Securities_1_1SecurityMarginModel.html" title="Represents a simple, constant margin model by specifying the percentages of required margin." alt="" coords="448,201,635,243"/>
+<area shape="rect" id="node2" href="$interfaceQuantConnect_1_1Securities_1_1IBuyingPowerModel.html" title="Represents a security&#39;s model of buying power" alt="" coords="5,111,156,138"/>
+<area shape="rect" id="node7" href="$classQuantConnect_1_1Securities_1_1CryptoFuture_1_1CryptoFutureMarginModel.html" title="The crypto future margin model which supports both Coin and USDT futures" alt="" coords="692,103,971,144"/>
+<area shape="rect" id="node8" href="$classQuantConnect_1_1Securities_1_1Future_1_1FutureMarginModel.html" title="Represents a simple margin model for margin futures. Margin file contains Initial and Maintenance mar..." alt="" coords="735,168,928,209"/>
+<area shape="rect" id="node10" href="$classQuantConnect_1_1Securities_1_1Option_1_1OptionMarginModel.html" title="Represents a simple option margin model." alt="" coords="733,233,930,275"/>
+<area shape="rect" id="node11" href="$classQuantConnect_1_1Securities_1_1PatternDayTradingMarginModel.html" title="Represents a simple margining model where margin/leverage depends on market state (open or close)...." alt="" coords="718,299,945,340"/>
+<area shape="rect" id="node9" href="$classQuantConnect_1_1Securities_1_1Option_1_1FuturesOptionsMarginModel.html" title="Defines a margin model for future options (an option with a future as its underlying)...." alt="" coords="1019,168,1271,209"/>
+</map>

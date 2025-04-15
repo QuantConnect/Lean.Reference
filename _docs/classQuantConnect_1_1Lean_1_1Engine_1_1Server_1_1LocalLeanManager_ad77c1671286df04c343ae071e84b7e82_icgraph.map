@@ -1,0 +1,4 @@
+<map id="QuantConnect.Lean.Engine.Server.LocalLeanManager.SetCommandHandler" name="QuantConnect.Lean.Engine.Server.LocalLeanManager.SetCommandHandler">
+<area shape="rect" id="node1" title="Set the command handler to use, protected for testing purposes" alt="" coords="359,5,639,61"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Lean_1_1Engine_1_1Server_1_1LocalLeanManager.html#ae286dde049e77cf50a112f355bddb124" title="This method is called after algorithm initialization" alt="" coords="5,13,311,54"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="QuantConnect.Orders.OrderEvent.Clone" name="QuantConnect.Orders.OrderEvent.Clone">
+<area shape="rect" id="node1" title="Returns a clone of the current object." alt="" coords="236,5,437,47"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Statistics_1_1TradeBuilder.html#a9370ab6378df6a1ce480526a0f3aee81" title="Processes a new fill, eventually creating new trades" alt="" coords="5,5,188,47"/>
+</map>

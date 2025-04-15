@@ -1,0 +1,4 @@
+<map id="QuantConnect.Util.RateLimit.FixedIntervalRefillStrategy.FixedIntervalRefillStrategy" name="QuantConnect.Util.RateLimit.FixedIntervalRefillStrategy.FixedIntervalRefillStrategy">
+<area shape="rect" id="node1" title="Initializes a new instance of the FixedIntervalRefillStrategy class." alt="" coords="5,5,236,61"/>
+<area shape="rect" id="node2" href="$interfaceQuantConnect_1_1ITimeProvider.html#ae51737f869d879dfbb297496e4feb036" title="Gets the current time in UTC" alt="" coords="284,13,496,54"/>
+</map>

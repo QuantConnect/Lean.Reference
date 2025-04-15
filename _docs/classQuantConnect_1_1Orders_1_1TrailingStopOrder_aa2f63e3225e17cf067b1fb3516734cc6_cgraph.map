@@ -1,0 +1,5 @@
+<map id="QuantConnect.Orders.TrailingStopOrder.ToString" name="QuantConnect.Orders.TrailingStopOrder.ToString">
+<area shape="rect" id="node1" title="Returns a string that represents the current object." alt="" coords="5,5,217,47"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Messages_1_1TrailingStopOrder.html#af95304fd1641aaa40dff52fcda79fa8e" title="Parses a TrailingStopOrder into a string" alt="" coords="265,5,500,47"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Currencies.html#a2a7c85f9abe93db2a30c36612098e30e" title="Gets the currency symbol for the specified currency code" alt="" coords="548,5,739,47"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="QuantConnect.Orders.OrderResponse.InvalidNewStatus" name="QuantConnect.Orders.OrderResponse.InvalidNewStatus">
+<area shape="rect" id="node1" title="Helper method to create an error response due to the &quot;New&quot; order status" alt="" coords="5,39,208,80"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Orders_1_1OrderResponse.html#a14ded2753785926becc5e7f8e5a02a09" title="Helper method to create an error response from a request" alt="" coords="267,5,468,47"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Messages_1_1OrderResponse.html#a474f52384b8fae5ed2340395878fe2ec" title="Returns a string message saying it was impossible to update or cancel the order with the id from the ..." alt="" coords="256,71,479,112"/>
+</map>

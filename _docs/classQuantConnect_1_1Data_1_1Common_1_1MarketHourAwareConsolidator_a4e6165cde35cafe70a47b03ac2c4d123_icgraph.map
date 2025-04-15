@@ -1,0 +1,5 @@
+<map id="QuantConnect.Data.Common.MarketHourAwareConsolidator.ForwardConsolidatedBar" name="QuantConnect.Data.Common.MarketHourAwareConsolidator.ForwardConsolidatedBar">
+<area shape="rect" id="node1" title="Will forward the underlying consolidated bar to consumers on this object" alt="" coords="329,35,605,91"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Data_1_1Common_1_1MarketHourAwareConsolidator.html#a4b643af1dc67366abcfacb950e65b400" title="Performs application&#45;defined tasks associated with freeing, releasing, or resetting unmanaged resourc..." alt="" coords="5,5,281,47"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Data_1_1Common_1_1MarketHourAwareConsolidator.html#a3781c22982094f1f129715a99de246e5" title="Initializes a new instance of the MarketHourAwareConsolidator class." alt="" coords="9,71,278,127"/>
+</map>

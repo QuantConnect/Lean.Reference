@@ -1,0 +1,7 @@
+<map id="QuantConnect.Securities.SecurityDatabaseKey.SecurityDatabaseKey" name="QuantConnect.Securities.SecurityDatabaseKey.SecurityDatabaseKey">
+<area shape="rect" id="node1" title="Initializes a new instance of the SecurityDatabaseKey class" alt="" coords="967,31,1183,87"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Securities_1_1SecurityDatabaseKey.html#a7c4012abe05887161ae53bc931d403c2" title="Based on this entry will initializes the generic market and security type instance of the SecurityDat..." alt="" coords="629,5,919,47"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Securities_1_1SecurityDatabaseKey.html#ae682eebcb9d2338775666e080dd36c4b" title="Parses the specified string as a SecurityDatabaseKey" alt="" coords="675,71,873,112"/>
+<area shape="rect" id="node4" href="$classQuantConnect_1_1Util_1_1MarketHoursDatabaseJsonConverter_1_1MarketHoursDatabaseJson.html#a3b3b52eb2ec7d15ce103438fb6482497" title="Converts this json representation to the MarketHoursDatabase type" alt="" coords="320,63,581,119"/>
+<area shape="rect" id="node5" href="$classQuantConnect_1_1Util_1_1MarketHoursDatabaseJsonConverter.html#a65ce75d27f6c6d2a33b08dd2dee8206a" title="Converts the input value to be deserialized" alt="" coords="5,71,272,112"/>
+</map>

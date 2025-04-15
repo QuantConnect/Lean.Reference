@@ -1,0 +1,4 @@
+<map id="QuantConnect.Lean.Engine.DataFeeds.Enumerators.ScheduledEnumerator" name="QuantConnect.Lean.Engine.DataFeeds.Enumerators.ScheduledEnumerator">
+<area shape="rect" id="node1" title="This enumerator will filter out data of the underlying enumerator based on a provided schedule...." alt="" coords="5,80,255,136"/>
+<area shape="rect" id="node2" title=" " alt="" coords="33,5,227,32"/>
+</map>

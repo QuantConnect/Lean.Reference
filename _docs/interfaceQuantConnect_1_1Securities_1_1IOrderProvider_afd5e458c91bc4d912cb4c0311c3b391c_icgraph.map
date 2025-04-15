@@ -1,0 +1,4 @@
+<map id="QuantConnect.Securities.IOrderProvider.GetOrderTickets" name="QuantConnect.Securities.IOrderProvider.GetOrderTickets">
+<area shape="rect" id="node1" title="Gets and enumerable of OrderTicket matching the specified filter" alt="" coords="285,13,509,54"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Securities_1_1SecurityTransactionManager.html#aedeea5fa3f097e78159e948516c428b9" title="Gets an enumerable of OrderTicket matching the specified filter" alt="" coords="5,5,237,61"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="QuantConnect.Algorithm.QCAlgorithm.ZZ" name="QuantConnect.Algorithm.QCAlgorithm.ZZ">
+<area shape="rect" id="node1" title="Creates a ZigZag indicator for the specified symbol, with adjustable sensitivity and minimum trend le..." alt="" coords="5,13,296,39"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Algorithm_1_1QCAlgorithm.html#a46d89a30b7e0513cf7a4ac77f3ca3fe5" title="Creates a new name for an indicator created with the convenience functions (SMA, EMA,..." alt="" coords="344,5,617,47"/>
+</map>

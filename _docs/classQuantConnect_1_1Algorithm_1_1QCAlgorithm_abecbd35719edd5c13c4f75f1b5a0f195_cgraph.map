@@ -1,0 +1,4 @@
+<map id="QuantConnect.Algorithm.QCAlgorithm.CIK" name="QuantConnect.Algorithm.QCAlgorithm.CIK">
+<area shape="rect" id="node1" title="Converts a CIK identifier into Symbol array" alt="" coords="5,13,300,39"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Securities_1_1SecurityDefinitionSymbolResolver.html#a14b2795d91b0adf4f4ca08e95091c818" title="Get&#39;s the CIK value associated with the given Symbol" alt="" coords="348,5,617,47"/>
+</map>

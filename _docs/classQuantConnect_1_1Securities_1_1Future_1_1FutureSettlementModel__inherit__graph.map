@@ -1,0 +1,5 @@
+<map id="QuantConnect.Securities.Future.FutureSettlementModel" name="QuantConnect.Securities.Future.FutureSettlementModel">
+<area shape="rect" id="node1" title="Settlement model which can handle daily profit and loss settlement" alt="" coords="5,155,225,196"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Securities_1_1ImmediateSettlementModel.html" title="Represents the model responsible for applying cash settlement rules" alt="" coords="13,80,218,107"/>
+<area shape="rect" id="node3" href="$interfaceQuantConnect_1_1Securities_1_1ISettlementModel.html" title="Represents the model responsible for applying cash settlement rules" alt="" coords="46,5,185,32"/>
+</map>

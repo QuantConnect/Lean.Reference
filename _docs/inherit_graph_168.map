@@ -1,0 +1,8 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$classQuantConnect_1_1Python_1_1BasePythonWrapper.html" title=" " alt="" coords="5,5,252,61"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Python_1_1RiskFreeInterestRateModelPythonWrapper.html" title="Wraps a PyObject object that represents a risk&#45;free interest rate model" alt="" coords="300,13,571,54"/>
+<area shape="rect" id="node3" href="$interfaceQuantConnect_1_1Data_1_1IRiskFreeInterestRateModel.html" title="Represents a model that provides risk free interest rate data" alt="" coords="22,114,235,155"/>
+<area shape="rect" id="node4" href="$classQuantConnect_1_1Data_1_1ConstantRiskFreeRateInterestRateModel.html" title="Constant risk free rate interest rate model" alt="" coords="321,78,549,119"/>
+<area shape="rect" id="node5" href="$classQuantConnect_1_1Data_1_1FuncRiskFreeRateInterestRateModel.html" title="Constant risk free rate interest rate model" alt="" coords="330,143,541,185"/>
+<area shape="rect" id="node6" href="$classQuantConnect_1_1Data_1_1InterestRateProvider.html" title="Fed US Primary Credit Rate at given date" alt="" coords="334,209,537,250"/>
+</map>

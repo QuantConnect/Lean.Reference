@@ -1,0 +1,11 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$classQuantConnect_1_1Securities_1_1SecurityExchange.html" title="Base exchange class providing information and helper tools for reading the current exchange situation" alt="" coords="5,235,192,276"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Securities_1_1Cfd_1_1CfdExchange.html" title="CFD exchange class &#45; information and helper tools for CFD exchange properties" alt="" coords="275,5,462,47"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Securities_1_1Crypto_1_1CryptoExchange.html" title="Crypto exchange class &#45; information and helper tools for Crypto exchange properties" alt="" coords="275,71,462,112"/>
+<area shape="rect" id="node4" href="$classQuantConnect_1_1Securities_1_1CryptoFuture_1_1CryptoFutureExchange.html" title="Crypto future exchange class &#45; information and helper tools for Crypto future exchange properties" alt="" coords="240,136,497,177"/>
+<area shape="rect" id="node5" href="$classQuantConnect_1_1Securities_1_1Equity_1_1EquityExchange.html" title="Equity exchange information" alt="" coords="275,201,462,243"/>
+<area shape="rect" id="node6" href="$classQuantConnect_1_1Securities_1_1Forex_1_1ForexExchange.html" title="Forex exchange class &#45; information and helper tools for forex exchange properties" alt="" coords="275,267,462,308"/>
+<area shape="rect" id="node7" href="$classQuantConnect_1_1Securities_1_1Future_1_1FutureExchange.html" title="Future exchange class &#45; information and helper tools for future exchange properties" alt="" coords="275,332,462,373"/>
+<area shape="rect" id="node8" href="$classQuantConnect_1_1Securities_1_1Index_1_1IndexExchange.html" title="INDEX exchange class &#45; information and helper tools for Index exchange properties" alt="" coords="275,397,462,439"/>
+<area shape="rect" id="node9" href="$classQuantConnect_1_1Securities_1_1Option_1_1OptionExchange.html" title="Option exchange class &#45; information and helper tools for option exchange properties" alt="" coords="275,463,462,504"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="QuantConnect.ToolBox.RandomDataGenerator.OptionPriceModelPriceGenerator.NextValue" name="QuantConnect.ToolBox.RandomDataGenerator.OptionPriceModelPriceGenerator.NextValue">
+<area shape="rect" id="node1" title="For Black&#45;Scholes&#45;Merton model price calculation relies IOptionPriceModel of the security" alt="" coords="5,5,273,61"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Data_1_1Market_1_1OptionContract.html#aab49e02bac9783eac5ad2d6e12bc8a29" title="Creates a OptionContract" alt="" coords="321,13,524,54"/>
+</map>

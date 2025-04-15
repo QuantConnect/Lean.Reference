@@ -1,0 +1,4 @@
+<map id="QuantConnect.Lean.Engine.HistoricalData.SynchronizingHistoryProvider.GetSecurityExchange" name="QuantConnect.Lean.Engine.HistoricalData.SynchronizingHistoryProvider.GetSecurityExchange">
+<area shape="rect" id="node1" title="Retrieves the appropriate SecurityExchange based on the data type and symbol." alt="" coords="5,5,263,61"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Securities_1_1MarketHoursDatabase.html#ab10d5242b6fcbe4d9f7aacd800e0efea" title="Convenience method for retrieving exchange hours from market hours database using a subscription conf..." alt="" coords="311,13,605,54"/>
+</map>

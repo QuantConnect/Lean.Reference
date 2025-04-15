@@ -1,0 +1,11 @@
+<map id="QuantConnect.Securities.UniverseManager.TryGetValue" name="QuantConnect.Securities.UniverseManager.TryGetValue">
+<area shape="rect" id="node1" title="Gets the value associated with the specified key." alt="" coords="648,169,867,211"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Algorithm_1_1QCAlgorithm.html#a0f7ec3a574e47b4ac26448590c4ef685" title="Creates and adds a new single Option contract to the algorithm" alt="" coords="327,71,600,112"/>
+<area shape="rect" id="node6" href="$classQuantConnect_1_1Algorithm_1_1QCAlgorithm.html#ad83209d9da7b1bf084694f3f9092f0ad" title="Adds a new universe that creates options of the security by monitoring any changes in the Universe th..." alt="" coords="327,136,600,177"/>
+<area shape="rect" id="node7" href="$classQuantConnect_1_1Algorithm_1_1QCAlgorithm.html#a726d08cd0cd7a6f1b7ce9a912d7d89b1" title="Invoked at the end of every time step. This allows the algorithm to process events before advancing t..." alt="" coords="327,201,600,243"/>
+<area shape="rect" id="node9" href="$classQuantConnect_1_1Research_1_1QuantBook.html#a9c6829f944fce7f66a72fa0d9b64f7b8" title="Gets OptionHistory object for a given symbol, date and resolution" alt="" coords="353,267,574,308"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Algorithm_1_1QCAlgorithm.html#ada6451c3b45f03209b586c6bc661ccb0" title="Adds a future option contract to the algorithm." alt="" coords="5,5,279,47"/>
+<area shape="rect" id="node4" href="$classQuantConnect_1_1Algorithm_1_1QCAlgorithm.html#a87673f13f7831209b9cea29f860d63c3" title="Adds an index option contract to the algorithm." alt="" coords="5,71,279,112"/>
+<area shape="rect" id="node5" href="$classQuantConnect_1_1Algorithm_1_1QCAlgorithm.html#afcdaf47586751fe6105f43d044b7cf70" title="Set a required SecurityType&#45;symbol and resolution for algorithm" alt="" coords="5,136,279,177"/>
+<area shape="rect" id="node8" href="$classQuantConnect_1_1Algorithm_1_1QCAlgorithm.html#ad8a5d8d6d6fd62a8a3962f0649567804" title="Called by setup handlers after Initialize and allows the algorithm a chance to organize the data gath..." alt="" coords="5,201,279,243"/>
+</map>

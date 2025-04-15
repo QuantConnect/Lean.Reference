@@ -1,0 +1,4 @@
+<map id="QuantConnect.Data.Common.MarketHourAwareConsolidator.Dispose" name="QuantConnect.Data.Common.MarketHourAwareConsolidator.Dispose">
+<area shape="rect" id="node1" title="Performs application&#45;defined tasks associated with freeing, releasing, or resetting unmanaged resourc..." alt="" coords="5,13,281,54"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Data_1_1Common_1_1MarketHourAwareConsolidator.html#a4e6165cde35cafe70a47b03ac2c4d123" title="Will forward the underlying consolidated bar to consumers on this object" alt="" coords="329,5,605,61"/>
+</map>

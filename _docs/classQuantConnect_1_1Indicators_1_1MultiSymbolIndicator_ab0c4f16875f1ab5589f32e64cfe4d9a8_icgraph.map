@@ -1,0 +1,4 @@
+<map id="QuantConnect.Indicators.MultiSymbolIndicator.ComputeIndicator" name="QuantConnect.Indicators.MultiSymbolIndicator.ComputeIndicator">
+<area shape="rect" id="node1" title="Computes the next value of this indicator from the given state. This will be called only when the ind..." alt="" coords="296,5,519,61"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Indicators_1_1MultiSymbolIndicator.html#a8832604f5ac1faa595402831dac02db7" title="Checks and computes the indicator if the input data matches. This method ensures the input data point..." alt="" coords="5,5,248,61"/>
+</map>

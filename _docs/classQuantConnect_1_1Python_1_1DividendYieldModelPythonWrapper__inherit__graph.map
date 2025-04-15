@@ -1,0 +1,5 @@
+<map id="QuantConnect.Python.DividendYieldModelPythonWrapper" name="QuantConnect.Python.DividendYieldModelPythonWrapper">
+<area shape="rect" id="node1" title="Wraps a PyObject object that represents a dividend yield model" alt="" coords="75,95,300,136"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Python_1_1BasePythonWrapper.html" title=" " alt="" coords="5,5,180,47"/>
+<area shape="rect" id="node3" href="$interfaceQuantConnect_1_1Data_1_1IDividendYieldModel.html" title="Represents a model that provides dividend yield data" alt="" coords="204,13,360,39"/>
+</map>

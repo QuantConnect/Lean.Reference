@@ -1,0 +1,4 @@
+<map id="QuantConnect.Messages.PortfolioTarget.SymbolNotFound" name="QuantConnect.Messages.PortfolioTarget.SymbolNotFound">
+<area shape="rect" id="node1" title="Returns a string message saying the given symbol was not found in the portfolio" alt="" coords="316,5,559,47"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Algorithm_1_1Framework_1_1Portfolio_1_1PortfolioTarget.html#a6e9c9bbcf5f629f8c686bab23c542db0" title="Creates a new target for the specified percent" alt="" coords="5,5,268,47"/>
+</map>

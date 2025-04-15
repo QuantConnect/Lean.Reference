@@ -1,0 +1,4 @@
+<map id="QuantConnect.Messages.StopLimitOrder.ToString" name="QuantConnect.Messages.StopLimitOrder.ToString">
+<area shape="rect" id="node1" title="Parses the given StopLimitOrder object into a string message" alt="" coords="248,5,464,47"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Orders_1_1StopLimitOrder.html#a34270af16a9a5abfd50a0e57f026daae" title="Returns a string that represents the current object." alt="" coords="5,5,200,47"/>
+</map>

@@ -1,0 +1,11 @@
+<map id="QuantConnect.Lean.Engine.DataFeeds.SubscriptionData.Create" name="QuantConnect.Lean.Engine.DataFeeds.SubscriptionData.Create">
+<area shape="rect" id="node1" title="Clones the data, computes the utc emit time and performs exchange round down behavior,..." alt="" coords="5,136,259,177"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Data_1_1BaseData.html#af8622cdfef34470fda9fd08d2f4c02b7" title="Return a new instance clone of this object, used in fill forward" alt="" coords="357,5,577,47"/>
+<area shape="rect" id="node5" href="$classQuantConnect_1_1TimeZoneOffsetProvider.html#a9d630077c5043b0ed30219686cf60338" title="Converts the specified local time to UTC. This function will advance this offset provider" alt="" coords="356,71,579,112"/>
+<area shape="rect" id="node7" href="$classQuantConnect_1_1Util_1_1LeanData.html#a333e4bd6d612caca6773226d353cec49" title="Helper method to return the start time and period of a bar the given point time should be part of" alt="" coords="362,136,573,177"/>
+<area shape="rect" id="node8" href="$classQuantConnect_1_1Lean_1_1Engine_1_1DataFeeds_1_1SubscriptionData.html#a37b6b43caa475f27a3775a3b3241a8de" title="Initializes a new instance of the SubscriptionData class" alt="" coords="307,201,628,243"/>
+<area shape="rect" id="node9" href="$classQuantConnect_1_1Util_1_1LeanData.html#a45d5455942a1261f332547548a7682d9" title="Helper method to determine if we should use strict end time" alt="" coords="362,267,573,308"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Data_1_1BaseData.html#af973f9d8b7c0726fed42fa03ccd5f963" title="Return a new instance clone of this object, used in fill forward" alt="" coords="677,5,897,47"/>
+<area shape="rect" id="node4" href="$classQuantConnect_1_1Util_1_1ObjectActivator.html#abcd1c91f67b9d78743601743d663cd10" title="Clones the specified instance using reflection" alt="" coords="947,5,1133,47"/>
+<area shape="rect" id="node6" href="$classQuantConnect_1_1TimeZoneOffsetProvider.html#a0fa8c04313b1edd87eb5908e7cca1b5a" title="Gets the offset in ticks from this time zone to UTC, such that UTC time + offset = local time" alt="" coords="676,71,899,112"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="QuantConnect.Securities.Option.StrategyMatcher.IOptionStrategyMatchObjectiveFunction" name="QuantConnect.Securities.Option.StrategyMatcher.IOptionStrategyMatchObjectiveFunction">
+<area shape="rect" id="node1" title="Evaluates the provided match to assign an objective score. Higher scores are better." alt="" coords="5,13,240,69"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Securities_1_1Option_1_1StrategyMatcher_1_1UnmatchedPositionCountOptionStrategyMatchObjectiveFunction.html" title="Provides an implementation of IOptionStrategyMatchObjectiveFunction that evaluates the number of unma..." alt="" coords="288,5,600,76"/>
+</map>

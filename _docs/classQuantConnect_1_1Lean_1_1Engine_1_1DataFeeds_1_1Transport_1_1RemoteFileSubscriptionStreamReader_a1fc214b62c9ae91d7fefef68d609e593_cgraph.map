@@ -1,0 +1,6 @@
+<map id="QuantConnect.Lean.Engine.DataFeeds.Transport.RemoteFileSubscriptionStreamReader.RemoteFileSubscriptionStreamReader" name="QuantConnect.Lean.Engine.DataFeeds.Transport.RemoteFileSubscriptionStreamReader.RemoteFileSubscriptionStreamReader">
+<area shape="rect" id="node1" title="Initializes a new instance of the RemoteFileSubscriptionStreamReader class." alt="" coords="5,56,277,127"/>
+<area shape="rect" id="node2" href="$interfaceQuantConnect_1_1Interfaces_1_1IDownloadProvider.html#a6b4ffdc99d64bac5f1ae9347b61dba87" title="Method for downloading data for an algorithm that can be read from a stream" alt="" coords="325,5,576,47"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Util_1_1LeanData.html#aa0422b9219f3a9b439f75df1c071142d" title="Helper to separate filename and entry from a given key for DataProviders" alt="" coords="345,71,556,112"/>
+<area shape="rect" id="node4" href="$interfaceQuantConnect_1_1Interfaces_1_1IDataCacheProvider.html#a89c8507892da14b1b3c59f953596f879" title="Store the data in the cache" alt="" coords="357,136,545,177"/>
+</map>

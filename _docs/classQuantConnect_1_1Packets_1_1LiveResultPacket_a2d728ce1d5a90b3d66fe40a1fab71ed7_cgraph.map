@@ -1,0 +1,4 @@
+<map id="QuantConnect.Packets.LiveResultPacket.CreateEmpty" name="QuantConnect.Packets.LiveResultPacket.CreateEmpty">
+<area shape="rect" id="node1" title="Creates an empty result packet, useful when the algorithm fails to initialize" alt="" coords="5,5,204,47"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Packets_1_1LiveResultPacket.html#a2dbdc62c9e0daeb42dfef8ed28e2efea" title="Default constructor for JSON Serialization" alt="" coords="252,5,471,47"/>
+</map>

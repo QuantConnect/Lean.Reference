@@ -1,0 +1,6 @@
+<map id="QuantConnect.Securities.Option.IOptionAssignmentModel" name="QuantConnect.Securities.Option.IOptionAssignmentModel">
+<area shape="rect" id="node1" title="The option assignment model emulates exercising of short option positions in the portfolio." alt="" coords="5,71,239,112"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Python_1_1OptionAssignmentModelPythonWrapper.html" title="Python wrapper for custom option assignment models" alt="" coords="306,5,545,47"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Securities_1_1Option_1_1DefaultOptionAssignmentModel.html" title="The option assignment model emulates exercising of short option positions in the portfolio...." alt="" coords="287,71,564,112"/>
+<area shape="rect" id="node4" href="$classQuantConnect_1_1Securities_1_1Option_1_1NullOptionAssignmentModel.html" title="The null option assignment model, that will disable automatic order assignment" alt="" coords="298,136,553,177"/>
+</map>

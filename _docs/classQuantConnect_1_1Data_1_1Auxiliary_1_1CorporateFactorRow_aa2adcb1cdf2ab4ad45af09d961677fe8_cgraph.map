@@ -1,0 +1,7 @@
+<map id="QuantConnect.Data.Auxiliary.CorporateFactorRow.GetSplit" name="QuantConnect.Data.Auxiliary.CorporateFactorRow.GetSplit">
+<area shape="rect" id="node1" title="Creates a new split from this factor file row and the one chronologically in front of it This split m..." alt="" coords="5,13,219,54"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Securities_1_1SecurityExchangeHours.html#a4477fb584df63bf4353438275aa8f678" title="Gets the next trading day" alt="" coords="267,5,501,61"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Securities_1_1SecurityExchangeHours.html#a9938e951dadf16e7518f648ff9c4a040" title="Determines if the exchange will be open on the date specified by the local date time" alt="" coords="549,13,805,54"/>
+<area shape="rect" id="node4" href="$classQuantConnect_1_1Securities_1_1SecurityExchangeHours.html#a106e2dd187ab76452e14ac6a28f929aa" title="Helper to access the market hours field based on the day of week" alt="" coords="853,13,1140,54"/>
+<area shape="rect" id="node5" href="$classQuantConnect_1_1Securities_1_1LocalMarketHours.html#a1e9178f81413c7d1f032a003d74acecf" title="Gets a LocalMarketHours instance that is always closed" alt="" coords="1188,13,1419,54"/>
+</map>

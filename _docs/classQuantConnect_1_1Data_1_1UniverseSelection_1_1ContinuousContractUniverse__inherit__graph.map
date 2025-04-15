@@ -1,0 +1,6 @@
+<map id="QuantConnect.Data.UniverseSelection.ContinuousContractUniverse" name="QuantConnect.Data.UniverseSelection.ContinuousContractUniverse">
+<area shape="rect" id="node1" title="Continuous contract universe selection that based on the requested mapping mode will select each symb..." alt="" coords="5,155,277,196"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Data_1_1UniverseSelection_1_1Universe.html" title="Provides a base class for all universes to derive from." alt="" coords="25,80,105,107"/>
+<area shape="rect" id="node3" title=" " alt="" coords="16,5,115,32"/>
+<area shape="rect" id="node4" href="$interfaceQuantConnect_1_1Data_1_1UniverseSelection_1_1ITimeTriggeredUniverse.html" title="A universe implementing this interface will NOT use it&#39;s SubscriptionDataConfig to generate data that..." alt="" coords="130,80,307,107"/>
+</map>

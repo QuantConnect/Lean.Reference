@@ -1,0 +1,10 @@
+<map id="QuantConnect.Holding.Holding" name="QuantConnect.Holding.Holding">
+<area shape="rect" id="node1" title="Create a simple JSON holdings from a Security holding class." alt="" coords="5,42,228,69"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Currencies.html#a2a7c85f9abe93db2a30c36612098e30e" title="Gets the currency symbol for the specified currency code" alt="" coords="291,5,481,47"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Symbol.html#a59158f74116be3dad0ea0f3f3f134416" title="Initializes a new instance of the Symbol class" alt="" coords="276,71,496,98"/>
+<area shape="rect" id="node4" href="$classQuantConnect_1_1Symbol.html#a59b0795fa21f46c306deb5576fa03bb9" title="Centralized helper method to resolve alias for a symbol" alt="" coords="544,71,771,98"/>
+<area shape="rect" id="node5" href="$classQuantConnect_1_1SymbolRepresentation.html#ad43ac907f6c19083821f58f21c6de017" title="Returns future symbol ticker from underlying and expiration date. Function can generate tickers of tw..." alt="" coords="819,27,1089,68"/>
+<area shape="rect" id="node7" href="$classQuantConnect_1_1SymbolRepresentation.html#ab133044f5cf8c16e700190a2202b215e" title="Returns option symbol ticker in accordance with OSI symbology More information can be found at http:/..." alt="" coords="819,96,1089,137"/>
+<area shape="rect" id="node6" href="$classQuantConnect_1_1Securities_1_1Future_1_1FuturesExpiryUtilityFunctions.html#a4ccb1e2f2fe40ff09785a74a02f26df1" title="Gets the number of months between the contract month and the expiry date." alt="" coords="1137,15,1492,71"/>
+<area shape="rect" id="node8" href="$classQuantConnect_1_1Messages_1_1SymbolRepresentation.html#a2c514157d8055cfa271ea3a7ca1ccde7" title="Returns a string message saying an unexpected security type was received by the given method name" alt="" coords="1187,95,1443,151"/>
+</map>

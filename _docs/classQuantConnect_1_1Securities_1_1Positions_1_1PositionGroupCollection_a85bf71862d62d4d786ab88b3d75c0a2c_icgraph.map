@@ -1,0 +1,6 @@
+<map id="QuantConnect.Securities.Positions.PositionGroupCollection.Add" name="QuantConnect.Securities.Positions.PositionGroupCollection.Add">
+<area shape="rect" id="node1" title="Creates a new PositionGroupCollection that contains all of the position groups in this collection in ..." alt="" coords="593,53,864,94"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Securities_1_1Positions_1_1PositionGroupCollection.html#abf491aa5af8196cb93e0d45fc6760dd4" title="Merges this position group collection with the provided other &#160;collection." alt="" coords="300,5,545,61"/>
+<area shape="rect" id="node4" href="$classQuantConnect_1_1Securities_1_1Positions_1_1PositionGroupCollection.html#ae80c9238ea31e07dbf4b20562c92d6aa" title="Initializes a new instance of the PositionGroupCollection class" alt="" coords="300,85,545,141"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Securities_1_1Positions_1_1CompositePositionGroupResolver.html#ab466b234a0a959beab71c31aec6081f7" title="Resolves the optimal set of IPositionGroup from the provided positions . Implementations are required..." alt="" coords="5,5,252,61"/>
+</map>

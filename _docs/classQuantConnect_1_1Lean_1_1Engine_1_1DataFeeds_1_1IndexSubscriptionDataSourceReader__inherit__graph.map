@@ -1,0 +1,5 @@
+<map id="QuantConnect.Lean.Engine.DataFeeds.IndexSubscriptionDataSourceReader" name="QuantConnect.Lean.Engine.DataFeeds.IndexSubscriptionDataSourceReader">
+<area shape="rect" id="node1" title="This ISubscriptionDataSourceReader implementation supports the FileFormat.Index and IndexedBaseData t..." alt="" coords="5,169,248,225"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Lean_1_1Engine_1_1DataFeeds_1_1BaseSubscriptionDataSourceReader.html" title="A base class for implementations of the ISubscriptionDataSourceReader" alt="" coords="22,80,231,121"/>
+<area shape="rect" id="node3" href="$interfaceQuantConnect_1_1Lean_1_1Engine_1_1DataFeeds_1_1ISubscriptionDataSourceReader.html" title="Represents a type responsible for accepting an input SubscriptionDataSource and returning an enumerab..." alt="" coords="13,5,240,32"/>
+</map>

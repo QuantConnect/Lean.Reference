@@ -1,0 +1,5 @@
+<map id="QuantConnect.Securities.IOrderProvider.GetOrderById" name="QuantConnect.Securities.IOrderProvider.GetOrderById">
+<area shape="rect" id="node1" title="Get the order by its id" alt="" coords="575,13,781,54"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Securities_1_1SecurityTransactionManager.html#a4d0d724ca30fc6e1b35ab18e4d691cc9" title="Get the order by its id" alt="" coords="295,5,527,61"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Lean_1_1Engine_1_1Results_1_1RegressionResultHandler.html#ade01ef7b4dd4b2f6cc5d74017fb6c21b" title="Log the order and order event to the dedicated log file for this regression algorithm" alt="" coords="5,5,247,61"/>
+</map>

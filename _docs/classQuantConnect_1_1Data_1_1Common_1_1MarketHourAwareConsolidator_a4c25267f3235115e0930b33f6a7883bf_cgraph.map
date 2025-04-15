@@ -1,0 +1,8 @@
+<map id="QuantConnect.Data.Common.MarketHourAwareConsolidator.Initialize" name="QuantConnect.Data.Common.MarketHourAwareConsolidator.Initialize">
+<area shape="rect" id="node1" title="Perform late initialization based on the datas symbol" alt="" coords="5,103,285,144"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Securities_1_1MarketHoursDatabase.html#aa01232d91c17c556b18ea8f1f7fabcd0" title="Gets the instance of the MarketHoursDatabase class produced by reading in the market hours data found..." alt="" coords="341,55,575,111"/>
+<area shape="rect" id="node5" href="$classQuantConnect_1_1Data_1_1Common_1_1MarketHourAwareConsolidator.html#afa1ad701ff92332bc7d9fb18df951223" title="Useful for testing" alt="" coords="333,135,583,191"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Securities_1_1MarketHoursDatabase.html#a6fdcc5f6d09cc11743e258e570d0a9eb" title="Reads the specified file as a market hours database instance" alt="" coords="631,5,857,47"/>
+<area shape="rect" id="node4" href="$classQuantConnect_1_1Globals.html#ae01b5c94ef475a21ab1a62fe1b04ea5c" title="Helper method that will build a data folder path checking if it exists on the cache folder else will ..." alt="" coords="647,71,841,112"/>
+<area shape="rect" id="node6" href="$classQuantConnect_1_1Util_1_1LeanData.html#a285cd342950b1f06c6b8527e0087fde5" title="Helper method to determine if we should use strict end time" alt="" coords="639,143,849,184"/>
+</map>

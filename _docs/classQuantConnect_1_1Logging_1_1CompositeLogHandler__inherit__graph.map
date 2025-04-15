@@ -1,0 +1,5 @@
+<map id="QuantConnect.Logging.CompositeLogHandler" name="QuantConnect.Logging.CompositeLogHandler">
+<area shape="rect" id="node1" title="Provides an ILogHandler implementation that composes multiple handlers" alt="" coords="5,155,248,196"/>
+<area shape="rect" id="node2" href="$interfaceQuantConnect_1_1Logging_1_1ILogHandler.html" title="Interface for redirecting log output" alt="" coords="77,80,177,107"/>
+<area shape="rect" id="node3" title=" " alt="" coords="77,5,176,32"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="QuantConnect.Algorithm.QCAlgorithm.RSI" name="QuantConnect.Algorithm.QCAlgorithm.RSI">
+<area shape="rect" id="node1" title="Creates a new RelativeStrengthIndex indicator. This will produce an oscillator that ranges from 0 to ..." alt="" coords="5,13,300,39"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Algorithm_1_1QCAlgorithm.html#a46d89a30b7e0513cf7a4ac77f3ca3fe5" title="Creates a new name for an indicator created with the convenience functions (SMA, EMA,..." alt="" coords="348,5,621,47"/>
+</map>

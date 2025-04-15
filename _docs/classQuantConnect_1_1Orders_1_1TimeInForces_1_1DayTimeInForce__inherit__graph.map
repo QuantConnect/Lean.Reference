@@ -1,0 +1,5 @@
+<map id="QuantConnect.Orders.TimeInForces.DayTimeInForce" name="QuantConnect.Orders.TimeInForces.DayTimeInForce">
+<area shape="rect" id="node1" title="Day Time In Force &#45; order expires at market close" alt="" coords="5,155,204,196"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Orders_1_1TimeInForce.html" title="Time In Force &#45; defines the length of time over which an order will continue working before it is can..." alt="" coords="53,80,156,107"/>
+<area shape="rect" id="node3" href="$interfaceQuantConnect_1_1Interfaces_1_1ITimeInForceHandler.html" title="Handles the time in force for an order" alt="" coords="26,5,183,32"/>
+</map>

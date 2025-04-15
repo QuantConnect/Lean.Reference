@@ -1,0 +1,12 @@
+<map id="QuantConnect.ToolBox.RandomDataGenerator.TickGenerator.GenerateTicks" name="QuantConnect.ToolBox.RandomDataGenerator.TickGenerator.GenerateTicks">
+<area shape="rect" id="node1" title="Generates and enumerates data points for current symbol" alt="" coords="5,141,316,182"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1ToolBox_1_1RandomDataGenerator_1_1TickGenerator.html#add49bca2ace14885762625ceabb135ad" title="Generates a random Tick that is at most the specified maximumPercentDeviation &#160;away from the previous..." alt="" coords="364,31,639,73"/>
+<area shape="rect" id="node4" href="$classQuantConnect_1_1ToolBox_1_1RandomDataGenerator_1_1TickGenerator.html#a2eb293d4c6e4819a58f571c0880e3b43" title="Generates a random DateTime suitable for use as a tick&#39;s emit time. If the density provided is DataDe..." alt="" coords="378,133,625,189"/>
+<area shape="rect" id="node9" href="$classQuantConnect_1_1Logging_1_1Log.html#a4e55477fbc790846b74550a57198cea9" title="Log trace" alt="" coords="401,214,601,255"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1ToolBox_1_1RandomDataGenerator_1_1TickGenerator.html#ad231079c0ec92a6a6cfb7176e0159346" title="Generates a random Tick that is at most the specified maximumPercentDeviation &#160;away from the previous..." alt="" coords="711,5,957,61"/>
+<area shape="rect" id="node5" href="$classQuantConnect_1_1Securities_1_1MarketHoursDatabase.html#ab10d5242b6fcbe4d9f7aacd800e0efea" title="Convenience method for retrieving exchange hours from market hours database using a subscription conf..." alt="" coords="687,86,981,127"/>
+<area shape="rect" id="node6" href="$classQuantConnect_1_1Securities_1_1SecurityExchangeHours.html#a180c418cdce27edaa7d55170a225761e" title="Gets the local date time corresponding to the next market open following the specified time" alt="" coords="717,152,951,208"/>
+<area shape="rect" id="node7" href="$classQuantConnect_1_1Securities_1_1SecurityExchangeHours.html#a106e2dd187ab76452e14ac6a28f929aa" title="Helper to access the market hours field based on the day of week" alt="" coords="1029,159,1316,201"/>
+<area shape="rect" id="node8" href="$classQuantConnect_1_1Securities_1_1LocalMarketHours.html#a1e9178f81413c7d1f032a003d74acecf" title="Gets a LocalMarketHours instance that is always closed" alt="" coords="1364,159,1595,201"/>
+<area shape="rect" id="node10" href="$interfaceQuantConnect_1_1Logging_1_1ILogHandler.html#a3fb71a33ac66129240b63f12b6fcda3b" title="Write debug message to log" alt="" coords="734,233,934,274"/>
+</map>

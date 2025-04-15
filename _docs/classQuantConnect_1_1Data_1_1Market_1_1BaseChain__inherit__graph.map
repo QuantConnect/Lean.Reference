@@ -1,0 +1,7 @@
+<map id="QuantConnect.Data.Market.BaseChain&lt; T, TContractsCollection &gt;" name="QuantConnect.Data.Market.BaseChain&lt; T, TContractsCollection &gt;">
+<area shape="rect" id="node1" title="Base representation of an entire chain of contracts for a single underlying security...." alt="" coords="5,229,276,271"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Data_1_1BaseData.html" title="Abstract base data class of QuantConnect. It is intended to be extended to define generic user custom..." alt="" coords="29,155,114,181"/>
+<area shape="rect" id="node3" href="$interfaceQuantConnect_1_1Data_1_1IBaseData.html" title="Base Data Class: Type, Timestamp, Key – Base Features." alt="" coords="27,80,116,107"/>
+<area shape="rect" id="node4" href="$interfaceQuantConnect_1_1Data_1_1ISymbolProvider.html" title="Base data with a symbol" alt="" coords="7,5,136,32"/>
+<area shape="rect" id="node5" title=" " alt="" coords="139,155,281,181"/>
+</map>

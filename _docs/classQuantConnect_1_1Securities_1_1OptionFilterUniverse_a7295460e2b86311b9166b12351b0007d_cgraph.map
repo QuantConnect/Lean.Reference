@@ -1,0 +1,4 @@
+<map id="QuantConnect.Securities.OptionFilterUniverse.OI" name="QuantConnect.Securities.OptionFilterUniverse.OI">
+<area shape="rect" id="node1" title="Applies the filter to the universe selecting the contracts with open interest between the given range..." alt="" coords="5,5,192,47"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Securities_1_1OptionFilterUniverse.html#a61c9161fd5971ab92a4f6d48dd2f0b24" title="Applies the filter to the universe selecting the contracts with open interest between the given range" alt="" coords="240,5,484,47"/>
+</map>

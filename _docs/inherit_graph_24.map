@@ -1,0 +1,9 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$classQuantConnect_1_1Python_1_1BasePythonWrapper.html" title=" " alt="" coords="5,5,280,47"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Algorithm_1_1Framework_1_1Portfolio_1_1PortfolioOptimizerPythonWrapper.html" title="Python wrapper for custom portfolio optimizer" alt="" coords="337,5,637,47"/>
+<area shape="rect" id="node3" href="$interfaceQuantConnect_1_1Algorithm_1_1Framework_1_1Portfolio_1_1IPortfolioOptimizer.html" title="Interface for portfolio optimization algorithms" alt="" coords="11,152,274,193"/>
+<area shape="rect" id="node4" href="$classQuantConnect_1_1Algorithm_1_1Framework_1_1Portfolio_1_1MaximumSharpeRatioPortfolioOptimizer.html" title="Provides an implementation of a portfolio optimizer that maximizes the portfolio Sharpe Ratio...." alt="" coords="347,71,628,127"/>
+<area shape="rect" id="node5" href="$classQuantConnect_1_1Algorithm_1_1Framework_1_1Portfolio_1_1MinimumVariancePortfolioOptimizer.html" title="Provides an implementation of a minimum variance portfolio optimizer that calculate the optimal weigh..." alt="" coords="328,152,647,193"/>
+<area shape="rect" id="node6" href="$classQuantConnect_1_1Algorithm_1_1Framework_1_1Portfolio_1_1RiskParityPortfolioOptimizer.html" title="Provides an implementation of a risk parity portfolio optimizer that calculate the optimal weights wi..." alt="" coords="355,217,620,259"/>
+<area shape="rect" id="node7" href="$classQuantConnect_1_1Algorithm_1_1Framework_1_1Portfolio_1_1UnconstrainedMeanVariancePortfolioOptimizer.html" title="Provides an implementation of a portfolio optimizer with unconstrained mean variance." alt="" coords="354,283,621,339"/>
+</map>

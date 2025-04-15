@@ -1,0 +1,5 @@
+<map id="QuantConnect.Securities.Option.IOptionPriceModel" name="QuantConnect.Securities.Option.IOptionPriceModel">
+<area shape="rect" id="node1" title="Defines a model used to calculate the theoretical price of an option contract." alt="" coords="5,39,193,80"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Securities_1_1Option_1_1CurrentPriceOptionPriceModel.html" title="Provides a default implementation of IOptionPriceModel that does not compute any greeks and uses the ..." alt="" coords="241,5,505,47"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Securities_1_1Option_1_1QLOptionPriceModel.html" title="Provides QuantLib(QL) implementation of IOptionPriceModel to support major option pricing models,..." alt="" coords="273,71,474,112"/>
+</map>

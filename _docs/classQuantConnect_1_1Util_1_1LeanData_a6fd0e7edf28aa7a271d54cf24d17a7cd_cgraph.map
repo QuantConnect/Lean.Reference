@@ -1,0 +1,7 @@
+<map id="QuantConnect.Util.LeanData.TryParsePath" name="QuantConnect.Util.LeanData.TryParsePath">
+<area shape="rect" id="node1" title="Parses file name into a Security and DateTime" alt="" coords="5,71,216,112"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Parse.html#a059d312ae5ffeb051e50a1464236116c" title="Parses the provided value as a System.DateTime using System.DateTime.ParseExact(string,..." alt="" coords="264,5,485,47"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Logging_1_1Log.html#ad908daef9d61532d7d60c9dcfb9a3e0c" title="Output to the console" alt="" coords="275,71,475,112"/>
+<area shape="rect" id="node5" href="$classQuantConnect_1_1Util_1_1LeanData.html#a2fa1266f0243ee3d323c572c78291184" title="Matches a data path security type with the SecurityType" alt="" coords="269,136,480,177"/>
+<area shape="rect" id="node4" href="$interfaceQuantConnect_1_1Logging_1_1ILogHandler.html#a2c738b8e78dd5b54244bc68b969ba91d" title="Write debug message to log" alt="" coords="533,71,733,112"/>
+</map>

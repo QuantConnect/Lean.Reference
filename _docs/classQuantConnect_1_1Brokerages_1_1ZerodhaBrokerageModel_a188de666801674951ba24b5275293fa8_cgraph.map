@@ -1,0 +1,4 @@
+<map id="QuantConnect.Brokerages.ZerodhaBrokerageModel.GetLeverage" name="QuantConnect.Brokerages.ZerodhaBrokerageModel.GetLeverage">
+<area shape="rect" id="node1" title="Zerodha global leverage rule" alt="" coords="5,13,275,54"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Messages_1_1DefaultBrokerageModel.html#acff8666f85c6f2e7801e861b6bd9dfeb" title="Returns a string message saying the type of the given security is invalid" alt="" coords="323,5,581,61"/>
+</map>

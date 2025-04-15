@@ -1,0 +1,4 @@
+<map id="QuantConnect.Messages.Market.InvalidMarketIdentifier" name="QuantConnect.Messages.Market.InvalidMarketIdentifier">
+<area shape="rect" id="node1" title="Returns a string message saying the market identifier is limited to positive values less than the giv..." alt="" coords="245,5,481,47"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Market.html#a53b9368c7c41e7fdbbd2fa329220c8ed" title="Adds the specified market to the map of available markets with the specified identifier." alt="" coords="5,13,197,39"/>
+</map>

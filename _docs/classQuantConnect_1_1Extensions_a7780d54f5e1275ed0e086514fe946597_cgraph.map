@@ -1,0 +1,4 @@
+<map id="QuantConnect.Extensions.TryGetLiveSubscriptionSymbol" name="QuantConnect.Extensions.TryGetLiveSubscriptionSymbol">
+<area shape="rect" id="node1" title="Helper method to determine symbol for a live subscription" alt="" coords="5,5,225,47"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Symbol.html#a1f3c25223fd9a7b753a4f84ece6469ab" title="Method returns true, if symbol is a derivative canonical symbol" alt="" coords="273,13,520,39"/>
+</map>

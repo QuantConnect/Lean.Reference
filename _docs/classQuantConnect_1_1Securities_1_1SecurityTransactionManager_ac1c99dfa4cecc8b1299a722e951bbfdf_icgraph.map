@@ -1,0 +1,6 @@
+<map id="QuantConnect.Securities.SecurityTransactionManager.SetLiveMode" name="QuantConnect.Securities.SecurityTransactionManager.SetLiveMode">
+<area shape="rect" id="node1" title="Set live mode state of the algorithm" alt="" coords="917,5,1148,61"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Algorithm_1_1QCAlgorithm.html#a9901b7d411298d0b1b7ccc480477d99c" title="Set live mode state of the algorithm run: Public setter for the algorithm property LiveMode." alt="" coords="596,13,869,54"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Algorithm_1_1QCAlgorithm.html#ae26809cf17dd004b076d8cc563862770" title="Sets the algorithm running mode" alt="" coords="275,13,548,54"/>
+<area shape="rect" id="node4" href="$classQuantConnect_1_1Research_1_1QuantBook.html#a239bcca3c726a8cc25b9a6a3cd0c244f" title="QuantBook constructor. Provides access to data for quantitative analysis" alt="" coords="5,13,227,54"/>
+</map>

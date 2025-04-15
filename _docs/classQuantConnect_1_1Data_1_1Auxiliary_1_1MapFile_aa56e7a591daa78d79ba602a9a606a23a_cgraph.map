@@ -1,0 +1,7 @@
+<map id="QuantConnect.Data.Auxiliary.MapFile.WriteToCsv" name="QuantConnect.Data.Auxiliary.MapFile.WriteToCsv">
+<area shape="rect" id="node1" title="Writes the map file to a CSV file" alt="" coords="5,71,219,112"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Data_1_1Auxiliary_1_1MapFile.html#aeeaf8823a4b232998622b92569ad425c" title="Constructs the map file path for the specified market and symbol" alt="" coords="267,5,500,47"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Data_1_1Auxiliary_1_1MapFile.html#afe0986cb5b9fcda105f900f5fc1290e3" title="Reads and writes each MapFileRow" alt="" coords="277,71,490,112"/>
+<area shape="rect" id="node4" href="$classQuantConnect_1_1Logging_1_1Log.html#a4e55477fbc790846b74550a57198cea9" title="Log trace" alt="" coords="283,136,483,177"/>
+<area shape="rect" id="node5" href="$interfaceQuantConnect_1_1Logging_1_1ILogHandler.html#a3fb71a33ac66129240b63f12b6fcda3b" title="Write debug message to log" alt="" coords="548,136,748,177"/>
+</map>

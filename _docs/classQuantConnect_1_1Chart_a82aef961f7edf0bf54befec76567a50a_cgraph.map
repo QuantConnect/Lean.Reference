@@ -1,0 +1,4 @@
+<map id="QuantConnect.Chart.TryAddAndGetSeries" name="QuantConnect.Chart.TryAddAndGetSeries">
+<area shape="rect" id="node1" title="Gets Series if already present in chart, else will add a new series and return it" alt="" coords="5,5,207,47"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1BaseSeries.html#a11d115d5750fb76ead9841a1242fdf3d" title="Return a new instance clone of this object" alt="" coords="255,5,449,47"/>
+</map>

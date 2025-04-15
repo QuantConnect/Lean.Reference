@@ -1,0 +1,4 @@
+<map id="QuantConnect.Algorithm.Framework.Portfolio.MeanVarianceOptimizationPortfolioConstructionModel.ShouldCreateTargetForInsight" name="QuantConnect.Algorithm.Framework.Portfolio.MeanVarianceOptimizationPortfolioConstructionModel.ShouldCreateTargetForInsight">
+<area shape="rect" id="node1" title="Method that will determine if the portfolio construction model should create a target for this insigh..." alt="" coords="5,5,344,61"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Algorithm_1_1Framework_1_1Portfolio_1_1PortfolioConstructionModel.html#a29a0ac2fb589b9cf737b0fe6220d89c0" title="Helper class that can be used by the different IPortfolioConstructionModel implementations to filter ..." alt="" coords="392,5,655,61"/>
+</map>

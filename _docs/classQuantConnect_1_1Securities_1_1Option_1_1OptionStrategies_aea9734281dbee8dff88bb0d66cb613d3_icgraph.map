@@ -1,0 +1,4 @@
+<map id="QuantConnect.Securities.Option.OptionStrategies.JellyRoll" name="QuantConnect.Securities.Option.OptionStrategies.JellyRoll">
+<area shape="rect" id="node1" title="Creates new Jelly Roll strategy which combines a long call calendar spread and a short put calendar s..." alt="" coords="269,13,504,54"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Securities_1_1Option_1_1OptionStrategies.html#aeca4904d4ac08fdf672bb6a1e4af778b" title="Creates new Short Jelly Roll strategy which combines a long call calendar spread and a short put cale..." alt="" coords="5,5,221,61"/>
+</map>

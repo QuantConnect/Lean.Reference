@@ -1,0 +1,4 @@
+<map id="QuantConnect.Statistics.Statistics.TrackingError" name="QuantConnect.Statistics.Statistics.TrackingError">
+<area shape="rect" id="node1" title="Tracking error volatility (TEV) statistic &#45; a measure of how closely a portfolio follows the index to..." alt="" coords="5,5,188,47"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Statistics_1_1Statistics.html#a351c06d27f5c5fed38d503c7f965978f" title="Annualized variance statistic calculation using the daily performance variance and trading days per y..." alt="" coords="236,5,423,47"/>
+</map>

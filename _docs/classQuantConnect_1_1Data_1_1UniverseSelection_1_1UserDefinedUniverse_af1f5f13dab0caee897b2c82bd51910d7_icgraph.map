@@ -1,0 +1,7 @@
+<map id="QuantConnect.Data.UniverseSelection.UserDefinedUniverse.Add" name="QuantConnect.Data.UniverseSelection.UserDefinedUniverse.Add">
+<area shape="rect" id="node1" title="Adds the specified Symbol to this universe" alt="" coords="648,71,901,112"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Algorithm_1_1QCAlgorithm.html#a0f7ec3a574e47b4ac26448590c4ef685" title="Creates and adds a new single Option contract to the algorithm" alt="" coords="327,71,600,112"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Algorithm_1_1QCAlgorithm.html#ada6451c3b45f03209b586c6bc661ccb0" title="Adds a future option contract to the algorithm." alt="" coords="5,5,279,47"/>
+<area shape="rect" id="node4" href="$classQuantConnect_1_1Algorithm_1_1QCAlgorithm.html#a87673f13f7831209b9cea29f860d63c3" title="Adds an index option contract to the algorithm." alt="" coords="5,71,279,112"/>
+<area shape="rect" id="node5" href="$classQuantConnect_1_1Algorithm_1_1QCAlgorithm.html#afcdaf47586751fe6105f43d044b7cf70" title="Set a required SecurityType&#45;symbol and resolution for algorithm" alt="" coords="5,136,279,177"/>
+</map>

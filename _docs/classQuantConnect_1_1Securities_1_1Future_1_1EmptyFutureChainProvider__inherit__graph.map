@@ -1,0 +1,4 @@
+<map id="QuantConnect.Securities.Future.EmptyFutureChainProvider" name="QuantConnect.Securities.Future.EmptyFutureChainProvider">
+<area shape="rect" id="node1" title="An implementation of IFutureChainProvider that always returns an empty list of contracts" alt="" coords="5,80,247,121"/>
+<area shape="rect" id="node2" href="$interfaceQuantConnect_1_1Interfaces_1_1IFutureChainProvider.html" title="Provides the full future chain for a given underlying." alt="" coords="47,5,205,32"/>
+</map>

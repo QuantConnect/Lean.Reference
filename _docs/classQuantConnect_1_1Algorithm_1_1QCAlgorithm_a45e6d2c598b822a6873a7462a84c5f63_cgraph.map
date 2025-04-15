@@ -1,0 +1,4 @@
+<map id="QuantConnect.Algorithm.QCAlgorithm.AddUniverse&lt; T &gt;" name="QuantConnect.Algorithm.QCAlgorithm.AddUniverse&lt; T &gt;">
+<area shape="rect" id="node1" title="Creates a new universe and adds it to the algorithm. This will use the default universe settings spec..." alt="" coords="5,5,279,47"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Algorithm_1_1QCAlgorithm.html#a87bda1157d5f5aab555484711c5ed8a6" title="Creates a new universe and adds it to the algorithm. This will use the default universe settings spec..." alt="" coords="327,5,600,47"/>
+</map>

@@ -1,0 +1,9 @@
+<map id="QuantConnect.Lean.Engine.DataFeeds.LiveTradingDataFeed.Initialize" name="QuantConnect.Lean.Engine.DataFeeds.LiveTradingDataFeed.Initialize">
+<area shape="rect" id="node1" title="Initializes the data feed for the specified job and algorithm" alt="" coords="5,123,240,179"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Lean_1_1Engine_1_1DataFeeds_1_1LiveTradingDataFeed.html#a63aa35a0ed95f9a87f9ce0fe0eaab896" title="Gets the BaseDataExchange to use" alt="" coords="299,5,533,61"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Lean_1_1Engine_1_1DataFeeds_1_1LiveTradingDataFeed.html#a91e3497e9f5c6573677894a0785c0cd6" title="Gets the IDataQueueHandler to use by default DataQueueHandlerManager" alt="" coords="299,85,533,141"/>
+<area shape="rect" id="node4" href="$interfaceQuantConnect_1_1Interfaces_1_1IDataQueueHandler.html#a236f0be67ed1e9e5f51c9f0b621c9798" title="Sets the job we&#39;re subscribing for" alt="" coords="319,166,513,207"/>
+<area shape="rect" id="node5" href="$classQuantConnect_1_1Lean_1_1Engine_1_1DataFeeds_1_1BaseDataExchange.html#aae9be9f12dc1557bc1ebd5d2658e843a" title="Begins consumption of the wrapped IDataQueueHandler on a separate thread" alt="" coords="288,231,544,273"/>
+<area shape="rect" id="node6" href="$classQuantConnect_1_1Logging_1_1Log.html#a4e55477fbc790846b74550a57198cea9" title="Log trace" alt="" coords="592,231,792,273"/>
+<area shape="rect" id="node7" href="$interfaceQuantConnect_1_1Logging_1_1ILogHandler.html#a3fb71a33ac66129240b63f12b6fcda3b" title="Write debug message to log" alt="" coords="840,231,1040,273"/>
+</map>

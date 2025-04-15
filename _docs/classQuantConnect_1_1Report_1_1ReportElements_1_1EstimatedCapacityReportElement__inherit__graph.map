@@ -1,0 +1,5 @@
+<map id="QuantConnect.Report.ReportElements.EstimatedCapacityReportElement" name="QuantConnect.Report.ReportElements.EstimatedCapacityReportElement">
+<area shape="rect" id="node1" title="Capacity Estimation Report Element" alt="" coords="5,155,259,211"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Report_1_1ReportElements_1_1ReportElement.html" title="Common interface for template elements of the report" alt="" coords="73,80,191,107"/>
+<area shape="rect" id="node3" title="Common interface for template elements of the report" alt="" coords="71,5,193,32"/>
+</map>

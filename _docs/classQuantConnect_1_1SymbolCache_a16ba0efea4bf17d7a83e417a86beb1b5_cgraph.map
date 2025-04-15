@@ -1,0 +1,5 @@
+<map id="QuantConnect.SymbolCache.GetSymbol" name="QuantConnect.SymbolCache.GetSymbol">
+<area shape="rect" id="node1" title="Gets the Symbol object that is mapped to the specified string ticker symbol" alt="" coords="5,39,216,80"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1SymbolCache.html#a131a5bb015b9a603328d0eddfe90c610" title="Gets the Symbol object that is mapped to the specified string ticker symbol" alt="" coords="277,5,487,47"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Messages_1_1SymbolCache.html#adb5f5ff865e0cfbd0810684f9811b3eb" title="Returns a string message saying the given ticker could not be localized" alt="" coords="264,71,500,112"/>
+</map>

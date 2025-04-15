@@ -1,0 +1,5 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" title=" " alt="" coords="5,46,175,73"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Time_1_1MonthYearJsonConverter.html" title="Helper method to deserialize month/year" alt="" coords="223,5,445,47"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Util_1_1DateTimeJsonConverter.html" title="Provides a json converter that allows defining the date time format used" alt="" coords="229,71,439,112"/>
+</map>

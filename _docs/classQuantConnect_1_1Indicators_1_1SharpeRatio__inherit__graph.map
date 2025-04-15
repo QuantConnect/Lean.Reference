@@ -1,0 +1,6 @@
+<map id="QuantConnect.Indicators.SharpeRatio" name="QuantConnect.Indicators.SharpeRatio">
+<area shape="rect" id="node1" title="Calculation of the Sharpe Ratio (SR) developed by William F. Sharpe." alt="" coords="119,95,306,136"/>
+<area shape="rect" id="node4" href="$classQuantConnect_1_1Indicators_1_1SortinoRatio.html" title="Calculation of the Sortino Ratio, a modification of the SharpeRatio." alt="" coords="119,184,306,225"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Indicators_1_1IndicatorBase.html" title=" " alt="" coords="5,5,188,47"/>
+<area shape="rect" id="node3" href="$interfaceQuantConnect_1_1Indicators_1_1IIndicatorWarmUpPeriodProvider.html" title="Represents an indicator with a warm up period provider." alt="" coords="213,13,447,39"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="QuantConnect.Scheduling.DateRules" name="QuantConnect.Scheduling.DateRules">
+<area shape="rect" id="node1" title="Helper class used to provide better syntax when defining date rules" alt="" coords="5,80,199,121"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Scheduling_1_1BaseScheduleRules.html" title="Base rule scheduler" alt="" coords="27,5,177,32"/>
+</map>

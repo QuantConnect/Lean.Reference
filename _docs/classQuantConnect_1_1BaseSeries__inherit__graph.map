@@ -1,0 +1,5 @@
+<map id="QuantConnect.BaseSeries" name="QuantConnect.BaseSeries">
+<area shape="rect" id="node1" title="Chart Series Object &#45; Series data and properties for a chart:" alt="" coords="107,5,298,32"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1CandlestickSeries.html" title="Candlestick Chart Series Object &#45; Series data and properties for a candlestick chart" alt="" coords="5,80,200,121"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Series.html" title="Chart Series Object &#45; Series data and properties for a chart:" alt="" coords="225,87,383,114"/>
+</map>

@@ -1,0 +1,11 @@
+<map id="QuantConnect.Optimizer.Launcher.ConsoleLeanOptimizer.RunLean" name="QuantConnect.Optimizer.Launcher.ConsoleLeanOptimizer.RunLean">
+<area shape="rect" id="node1" title="Handles starting Lean for a given parameter set" alt="" coords="5,71,252,112"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Optimizer_1_1LeanOptimizer.html#a2e91182cc5f20d5006644c133d92e414" title="Handles a new backtest json result matching a requested backtest id" alt="" coords="300,71,516,112"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Logging_1_1Log.html#af0e7955911bc7664b37661b2a303a9e3" title="Log error" alt="" coords="601,5,801,47"/>
+<area shape="rect" id="node5" href="$interfaceQuantConnect_1_1Optimizer_1_1Strategies_1_1IOptimizationStrategy.html#a6b6ab4de2703e1a30e680c8bdefe3d5f" title="Callback when lean compute job completed." alt="" coords="564,71,839,112"/>
+<area shape="rect" id="node6" href="$classQuantConnect_1_1Optimizer_1_1LeanOptimizer.html#ac726237eef575d77acd4b9b5bee8548a" title="Triggers the optimization job end event" alt="" coords="593,136,809,177"/>
+<area shape="rect" id="node4" href="$interfaceQuantConnect_1_1Logging_1_1ILogHandler.html#a35373a0c5d76031fa5ccf5dc39e5c25d" title="Write error message to log" alt="" coords="904,5,1104,47"/>
+<area shape="rect" id="node7" href="$classQuantConnect_1_1Optimizer_1_1LeanOptimizer.html#a83cee6f3b7bdafe24a0013cdaf6dd012" title="Sets the current optimization status" alt="" coords="887,103,1121,144"/>
+<area shape="rect" id="node8" href="$classQuantConnect_1_1Logging_1_1Log.html#a4e55477fbc790846b74550a57198cea9" title="Log trace" alt="" coords="904,168,1104,209"/>
+<area shape="rect" id="node9" href="$interfaceQuantConnect_1_1Logging_1_1ILogHandler.html#a3fb71a33ac66129240b63f12b6fcda3b" title="Write debug message to log" alt="" coords="1169,168,1369,209"/>
+</map>

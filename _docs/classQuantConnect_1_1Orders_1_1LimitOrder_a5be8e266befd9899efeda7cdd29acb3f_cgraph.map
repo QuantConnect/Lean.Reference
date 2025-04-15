@@ -1,0 +1,5 @@
+<map id="QuantConnect.Orders.LimitOrder.ToString" name="QuantConnect.Orders.LimitOrder.ToString">
+<area shape="rect" id="node1" title="Returns a string that represents the current object." alt="" coords="5,5,204,47"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Messages_1_1LimitOrder.html#a052b06dbd95da9ae9fc58079dbf3ce7a" title="Parses a Limit order to a string message with basic information about it" alt="" coords="252,5,472,47"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Currencies.html#a2a7c85f9abe93db2a30c36612098e30e" title="Gets the currency symbol for the specified currency code" alt="" coords="520,5,711,47"/>
+</map>

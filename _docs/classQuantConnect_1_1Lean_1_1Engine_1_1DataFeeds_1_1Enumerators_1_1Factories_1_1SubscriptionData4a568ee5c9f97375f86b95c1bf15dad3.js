@@ -1,0 +1,6 @@
+var classQuantConnect_1_1Lean_1_1Engine_1_1DataFeeds_1_1Enumerators_1_1Factories_1_1SubscriptionData4a568ee5c9f97375f86b95c1bf15dad3 =
+[
+    [ "SubscriptionDataReaderSubscriptionEnumeratorFactory", "classQuantConnect_1_1Lean_1_1Engine_1_1DataFeeds_1_1Enumerators_1_1Factories_1_1SubscriptionData4a568ee5c9f97375f86b95c1bf15dad3.html#adb059d36550a2b2c2ee924f4c4b271c2", null ],
+    [ "CreateEnumerator", "classQuantConnect_1_1Lean_1_1Engine_1_1DataFeeds_1_1Enumerators_1_1Factories_1_1SubscriptionData4a568ee5c9f97375f86b95c1bf15dad3.html#a7562f2a68eac96d5c3d28bc19706c6ff", null ],
+    [ "Dispose", "classQuantConnect_1_1Lean_1_1Engine_1_1DataFeeds_1_1Enumerators_1_1Factories_1_1SubscriptionData4a568ee5c9f97375f86b95c1bf15dad3.html#ae21d84b1e5329af24ee57257500d2152", null ]
+];

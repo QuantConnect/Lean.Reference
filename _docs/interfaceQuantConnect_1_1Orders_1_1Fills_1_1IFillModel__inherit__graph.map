@@ -1,0 +1,10 @@
+<map id="QuantConnect.Orders.Fills.IFillModel" name="QuantConnect.Orders.Fills.IFillModel">
+<area shape="rect" id="node1" title="Represents a model that simulates order fill events" alt="" coords="5,71,200,112"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Orders_1_1Fills_1_1FillModel.html" title="Provides a base class for all fill models" alt="" coords="248,71,443,112"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Orders_1_1Fills_1_1EquityFillModel.html" title="Represents the fill model used to simulate order fills for equities" alt="" coords="491,5,685,47"/>
+<area shape="rect" id="node4" href="$classQuantConnect_1_1Orders_1_1Fills_1_1ImmediateFillModel.html" title="Represents the default fill model used to simulate order fills" alt="" coords="491,71,685,112"/>
+<area shape="rect" id="node8" href="$classQuantConnect_1_1Python_1_1FillModelPythonWrapper.html" title="Wraps a PyObject object that represents a model that simulates order fill events" alt="" coords="495,136,681,177"/>
+<area shape="rect" id="node5" href="$classQuantConnect_1_1Orders_1_1Fills_1_1FutureFillModel.html" title="Represents the fill model used to simulate order fills for futures" alt="" coords="733,39,928,80"/>
+<area shape="rect" id="node7" href="$classQuantConnect_1_1Orders_1_1Fills_1_1LatestPriceFillModel.html" title="This fill model is provided for cases where the trade/quote distinction should be ignored and the fil..." alt="" coords="733,104,928,145"/>
+<area shape="rect" id="node6" href="$classQuantConnect_1_1Orders_1_1Fills_1_1FutureOptionFillModel.html" title="Represents the default fill model used to simulate order fills for future options" alt="" coords="976,39,1171,80"/>
+</map>

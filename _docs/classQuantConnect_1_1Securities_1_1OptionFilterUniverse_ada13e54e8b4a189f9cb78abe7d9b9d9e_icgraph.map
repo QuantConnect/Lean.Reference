@@ -1,0 +1,4 @@
+<map id="QuantConnect.Securities.OptionFilterUniverse.Gamma" name="QuantConnect.Securities.OptionFilterUniverse.Gamma">
+<area shape="rect" id="node1" title="Applies the filter to the universe selecting the contracts with Gamma between the given range" alt="" coords="240,5,452,47"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Securities_1_1OptionFilterUniverse.html#a3e2736713afd7dbb6eace0a23738ff3c" title="Applies the filter to the universe selecting the contracts with Gamma between the given range...." alt="" coords="5,5,192,47"/>
+</map>

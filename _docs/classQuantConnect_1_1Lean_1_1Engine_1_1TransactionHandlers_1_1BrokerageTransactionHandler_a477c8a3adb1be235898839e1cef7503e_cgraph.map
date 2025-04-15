@@ -1,0 +1,8 @@
+<map id="QuantConnect.Lean.Engine.TransactionHandlers.BrokerageTransactionHandler.Run" name="QuantConnect.Lean.Engine.TransactionHandlers.BrokerageTransactionHandler.Run">
+<area shape="rect" id="node1" title="Primary thread entry point to launch the transaction thread." alt="" coords="5,85,304,141"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Lean_1_1Engine_1_1TransactionHandlers_1_1BrokerageTransactionHandler.html#aba770aab9844310dafb4fb7c7794adc9" title="Handles a generic order request" alt="" coords="352,5,651,61"/>
+<area shape="rect" id="node4" href="$classQuantConnect_1_1Lean_1_1Engine_1_1TransactionHandlers_1_1BrokerageTransactionHandler.html#abd6ad9f599d8b799f22df59a1d6bd1c9" title="Processes asynchronous events on the transaction handler&#39;s thread" alt="" coords="352,85,651,141"/>
+<area shape="rect" id="node5" href="$classQuantConnect_1_1Logging_1_1Log.html#a4e55477fbc790846b74550a57198cea9" title="Log trace" alt="" coords="401,166,601,207"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Orders_1_1OrderRequest.html#aed73f8f311c9224866211078cd6caef1" title="Sets the Response for this request" alt="" coords="699,13,900,54"/>
+<area shape="rect" id="node6" href="$interfaceQuantConnect_1_1Logging_1_1ILogHandler.html#a3fb71a33ac66129240b63f12b6fcda3b" title="Write debug message to log" alt="" coords="699,166,899,207"/>
+</map>

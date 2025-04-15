@@ -1,0 +1,6 @@
+<map id="QuantConnect.Securities.Option.StrategyMatcher.OptionStrategyMatcherOptions.ForDefinitions" name="QuantConnect.Securities.Option.StrategyMatcher.OptionStrategyMatcherOptions.ForDefinitions">
+<area shape="rect" id="node1" title="Creates a new OptionStrategyMatcherOptions with the specified definitions , with no limits of maximum..." alt="" coords="560,45,835,101"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Securities_1_1Option_1_1StrategyMatcher_1_1OptionStrategyDefinition.html#ab0096b8b2b6f16d9a3f6be118f967b4a" title="Determines all possible matches for this definition using the provided positions ...." alt="" coords="289,45,512,101"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Securities_1_1Option_1_1StrategyMatcher_1_1OptionStrategyDefinition.html#a7c5acb1e3f0c11b05f71169ca131f0cc" title="Determines all possible matches for this definition using the provided positions ...." alt="" coords="12,5,235,61"/>
+<area shape="rect" id="node4" href="$classQuantConnect_1_1Securities_1_1Option_1_1StrategyMatcher_1_1OptionStrategyDefinition.html#a2f9a0b5c5dc7a4748da852b3ede9d82d" title="Attempts to match the positions to this definition exactly once, by evaluating the enumerable and tak..." alt="" coords="5,85,241,141"/>
+</map>

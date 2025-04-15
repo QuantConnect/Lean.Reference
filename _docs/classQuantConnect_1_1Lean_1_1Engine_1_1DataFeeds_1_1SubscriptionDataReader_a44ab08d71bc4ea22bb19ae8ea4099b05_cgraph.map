@@ -1,0 +1,15 @@
+<map id="QuantConnect.Lean.Engine.DataFeeds.SubscriptionDataReader.Initialize" name="QuantConnect.Lean.Engine.DataFeeds.SubscriptionDataReader.Initialize">
+<area shape="rect" id="node1" title="Initializes the SubscriptionDataReader instance" alt="" coords="5,266,260,322"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Logging_1_1Log.html#af0e7955911bc7664b37661b2a303a9e3" title="Log error" alt="" coords="335,23,535,64"/>
+<area shape="rect" id="node4" href="$classQuantConnect_1_1Configuration_1_1Config.html#aaabf1286e33a675b2e116f3289981839" title="Get the matching config setting from the file searching for this key." alt="" coords="331,120,540,161"/>
+<area shape="rect" id="node9" href="$classQuantConnect_1_1Lean_1_1Engine_1_1DataFeeds_1_1SubscriptionDataReader.html#a86fa4369f370341a85cd65f06420a942" title="Event invocator for the InvalidConfigurationDetected event" alt="" coords="308,186,563,242"/>
+<area shape="rect" id="node10" href="$classQuantConnect_1_1Lean_1_1Engine_1_1DataFeeds_1_1SubscriptionDataReader.html#a4e21097a57805d51f897753a5d4dc28a" title="Event invocator for the NumericalPrecisionLimited event" alt="" coords="308,266,563,322"/>
+<area shape="rect" id="node11" href="$classQuantConnect_1_1Lean_1_1Engine_1_1DataFeeds_1_1SubscriptionDataReader.html#ac013090daa1a9330d28e53bdf801e429" title="Event invocator for the StartDateLimited event" alt="" coords="308,346,563,402"/>
+<area shape="rect" id="node12" href="$classQuantConnect_1_1Data_1_1BaseData.html#a238a7416420cbc91734fd14c70d77e83" title="Indicates if there is support for mapping" alt="" coords="325,427,545,468"/>
+<area shape="rect" id="node13" href="$classQuantConnect_1_1Data_1_1Custom_1_1Tiingo_1_1Tiingo.html#aaabe0084337b4f8fca8f5609ddab6f40" title="Sets the Tiingo API token." alt="" coords="332,492,539,533"/>
+<area shape="rect" id="node3" href="$interfaceQuantConnect_1_1Logging_1_1ILogHandler.html#a35373a0c5d76031fa5ccf5dc39e5c25d" title="Write error message to log" alt="" coords="615,5,815,47"/>
+<area shape="rect" id="node5" href="$classQuantConnect_1_1Configuration_1_1Config.html#a1504ca19b3759d008b090375ddf4ad10" title="Gets the currently selected environment. If sub&#45;environments are defined, they&#39;ll be returned as {env..." alt="" coords="611,71,820,112"/>
+<area shape="rect" id="node6" href="$classQuantConnect_1_1Configuration_1_1Config.html#a9ed01bc116e8181a7557f3e668f34691" title="Gets the underlying JToken for the specified key" alt="" coords="611,136,820,177"/>
+<area shape="rect" id="node7" href="$classQuantConnect_1_1Logging_1_1Log.html#a4e55477fbc790846b74550a57198cea9" title="Log trace" alt="" coords="615,201,815,243"/>
+<area shape="rect" id="node8" href="$interfaceQuantConnect_1_1Logging_1_1ILogHandler.html#a3fb71a33ac66129240b63f12b6fcda3b" title="Write debug message to log" alt="" coords="868,201,1068,243"/>
+</map>

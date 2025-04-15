@@ -1,0 +1,4 @@
+<map id="QuantConnect.Brokerages.CrossZero.CrossZeroFirstOrderRequest" name="QuantConnect.Brokerages.CrossZero.CrossZeroFirstOrderRequest">
+<area shape="rect" id="node1" title="Represents a first request to cross zero order." alt="" coords="15,5,237,61"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Brokerages_1_1CrossZero_1_1CrossZeroSecondOrderRequest.html" title="Represents a second request to cross zero order." alt="" coords="5,109,247,165"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="QuantConnect.Securities.Positions.PositionGroupCollection.CombineWith" name="QuantConnect.Securities.Positions.PositionGroupCollection.CombineWith">
+<area shape="rect" id="node1" title="Merges this position group collection with the provided other &#160;collection." alt="" coords="300,5,545,61"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Securities_1_1Positions_1_1CompositePositionGroupResolver.html#ab466b234a0a959beab71c31aec6081f7" title="Resolves the optimal set of IPositionGroup from the provided positions . Implementations are required..." alt="" coords="5,5,252,61"/>
+</map>

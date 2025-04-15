@@ -1,0 +1,4 @@
+<map id="QuantConnect.Securities.SecurityPortfolioManager.GetBuyingPower" name="QuantConnect.Securities.SecurityPortfolioManager.GetBuyingPower">
+<area shape="rect" id="node1" title="Gets the margin available for trading a specific symbol in a specific direction. Alias for GetMarginR..." alt="" coords="5,5,219,61"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Securities_1_1SecurityPortfolioManager.html#a7b65859fe3cd9c77ec7175c78ff08835" title="Gets the remaining margin on the account in the account&#39;s currency for the given total portfolio valu..." alt="" coords="267,5,480,61"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="QuantConnect.Compression.Unzip" name="QuantConnect.Compression.Unzip">
+<area shape="rect" id="node1" title="Unzips the specified zip file to the specified directory" alt="" coords="320,104,527,145"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1ToolBox_1_1LeanDataReader.html#acfe04bd1df4b418f463dcb012488d725" title="Enumerate over the tick zip file and return a list of BaseData." alt="" coords="37,5,241,47"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Data_1_1Auxiliary_1_1FactorFileZipHelper.html#a7421a7e86d841da71394504ce13f3eaf" title="Reads the zip bytes as text and parses as FactorFileRows to create FactorFiles" alt="" coords="5,71,272,112"/>
+<area shape="rect" id="node4" href="$classQuantConnect_1_1Data_1_1Auxiliary_1_1MapFileZipHelper.html#addbc1f8e2623082a454f745ce9a1ed33" title="Reads the zip bytes as text and parses as MapFileRows to create MapFiles" alt="" coords="16,136,261,177"/>
+<area shape="rect" id="node5" href="$classQuantConnect_1_1Compression.html#a9c2c91ed6c5cf93d88e591f9eec9d080" title="Streams a local zip file using a streamreader. Important: the caller must call Dispose() on the retur..." alt="" coords="35,201,242,243"/>
+</map>

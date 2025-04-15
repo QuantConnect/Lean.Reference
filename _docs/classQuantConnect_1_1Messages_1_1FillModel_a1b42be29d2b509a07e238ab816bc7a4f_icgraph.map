@@ -1,0 +1,4 @@
+<map id="QuantConnect.Messages.FillModel.FilledAtStalePrice" name="QuantConnect.Messages.FillModel.FilledAtStalePrice">
+<area shape="rect" id="node1" title="Returns a string message warning saying the order was filled at stale price" alt="" coords="248,5,455,47"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Orders_1_1Fills_1_1FutureFillModel.html#a7bc1214a98a1f4ef4920db58e1d3af15" title="Default market fill model for the base security class. Fills at the last traded price." alt="" coords="5,5,200,47"/>
+</map>

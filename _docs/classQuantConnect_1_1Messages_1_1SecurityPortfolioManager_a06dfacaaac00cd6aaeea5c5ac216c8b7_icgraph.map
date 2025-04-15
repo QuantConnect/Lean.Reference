@@ -1,0 +1,4 @@
+<map id="QuantConnect.Messages.SecurityPortfolioManager.AccountCurrencyAlreadySet" name="QuantConnect.Messages.SecurityPortfolioManager.AccountCurrencyAlreadySet">
+<area shape="rect" id="node1" title="Returns a string message saying the AccountCurrency has already been set and that the new value for t..." alt="" coords="264,5,511,61"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Securities_1_1SecurityPortfolioManager.html#ace04c1c80ebeef4a75f6fc0bdb7aa215" title="Sets the account currency cash symbol this algorithm is to manage, as well as the starting cash in th..." alt="" coords="5,5,216,61"/>
+</map>

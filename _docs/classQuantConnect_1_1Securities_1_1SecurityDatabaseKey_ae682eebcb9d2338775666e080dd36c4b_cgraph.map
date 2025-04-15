@@ -1,0 +1,5 @@
+<map id="QuantConnect.Securities.SecurityDatabaseKey.Parse" name="QuantConnect.Securities.SecurityDatabaseKey.Parse">
+<area shape="rect" id="node1" title="Parses the specified string as a SecurityDatabaseKey" alt="" coords="5,43,204,84"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Messages_1_1SecurityDatabaseKey.html#aae62e52eb34820d4192847dfceba6562" title="Returns a string message saying the specified and given key was not in the expected format" alt="" coords="252,5,527,47"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Securities_1_1SecurityDatabaseKey.html#a709d4b45aad5fb375b354f9e514b620e" title="Initializes a new instance of the SecurityDatabaseKey class" alt="" coords="281,71,497,127"/>
+</map>

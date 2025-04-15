@@ -1,0 +1,5 @@
+<map id="QuantConnect.Algorithm.QCAlgorithm.SetPortfolioConstruction" name="QuantConnect.Algorithm.QCAlgorithm.SetPortfolioConstruction">
+<area shape="rect" id="node1" title="Sets the portfolio construction model" alt="" coords="327,39,600,80"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Algorithm_1_1QCAlgorithm.html#a373d444cdc75004141f693cca0b10b1e" title="QCAlgorithm Base Class Constructor &#45; Initialize the underlying QCAlgorithm components...." alt="" coords="5,5,279,47"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Algorithm_1_1QCAlgorithm.html#ad12a45863e2e60e1ae09ab309362d35e" title="Sets the portfolio construction model" alt="" coords="5,71,279,112"/>
+</map>

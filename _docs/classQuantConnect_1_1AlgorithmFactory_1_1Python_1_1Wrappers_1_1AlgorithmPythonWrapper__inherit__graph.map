@@ -1,0 +1,7 @@
+<map id="QuantConnect.AlgorithmFactory.Python.Wrappers.AlgorithmPythonWrapper" name="QuantConnect.AlgorithmFactory.Python.Wrappers.AlgorithmPythonWrapper">
+<area shape="rect" id="node1" title="Creates and wraps the algorithm written in python." alt="" coords="13,169,315,211"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Python_1_1BasePythonWrapper.html" title=" " alt="" coords="5,80,171,121"/>
+<area shape="rect" id="node3" href="$interfaceQuantConnect_1_1Interfaces_1_1IAlgorithm.html" title="Interface for QuantConnect algorithm implementations. All algorithms must implement these basic membe..." alt="" coords="195,87,285,114"/>
+<area shape="rect" id="node4" href="$interfaceQuantConnect_1_1Interfaces_1_1ISecurityInitializerProvider.html" title="Reduced interface which provides an instance which implements ISecurityInitializer" alt="" coords="33,5,228,32"/>
+<area shape="rect" id="node5" href="$interfaceQuantConnect_1_1Interfaces_1_1IAccountCurrencyProvider.html" title="A reduced interface for an account currency provider" alt="" coords="253,5,443,32"/>
+</map>

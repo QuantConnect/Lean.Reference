@@ -1,0 +1,5 @@
+<map id="QuantConnect.Interfaces.IAlgorithm.SetStatisticsService" name="QuantConnect.Interfaces.IAlgorithm.SetStatisticsService">
+<area shape="rect" id="node1" title="Sets the statistics service instance to be used by the algorithm" alt="" coords="300,53,523,94"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Lean_1_1Engine_1_1Results_1_1BacktestingResultHandler.html#a187cf964394ce96cafca9a1048e9b143" title="Set the Algorithm instance for ths result." alt="" coords="5,5,252,61"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Lean_1_1Engine_1_1Results_1_1LiveTradingResultHandler.html#afc6bdfeeb94a6a5f8dbebd730153d16e" title="Set the algorithm of the result handler after its been initialized." alt="" coords="7,85,250,141"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="QuantConnect.Orders.OrderResponse.InvalidStatus" name="QuantConnect.Orders.OrderResponse.InvalidStatus">
+<area shape="rect" id="node1" title="Helper method to create an error response due to an invalid order status" alt="" coords="699,53,900,94"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Lean_1_1Engine_1_1TransactionHandlers_1_1BrokerageTransactionHandler.html#afb049bcccdaba6992bd31bf91280d9a9" title="Remove this order from outstanding queue: user is requesting a cancel." alt="" coords="352,5,651,61"/>
+<area shape="rect" id="node4" href="$classQuantConnect_1_1Lean_1_1Engine_1_1TransactionHandlers_1_1BrokerageTransactionHandler.html#a1a38e71d6ea75fe654d365cb6b7501d2" title="Update an order yet to be filled such as stop or limit orders." alt="" coords="352,85,651,141"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Lean_1_1Engine_1_1TransactionHandlers_1_1BrokerageTransactionHandler.html#ad7914edfb9b6e24fcbcd637e2c468cd5" title="Adds the specified order to be processed" alt="" coords="5,45,304,101"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="QuantConnect.Algorithm.Framework.Execution.StandardDeviationExecutionModel.IsSafeToRemove" name="QuantConnect.Algorithm.Framework.Execution.StandardDeviationExecutionModel.IsSafeToRemove">
+<area shape="rect" id="node1" title="Determines if it&#39;s safe to remove the associated symbol data" alt="" coords="327,5,600,61"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Algorithm_1_1Framework_1_1Execution_1_1StandardDeviationExecutionModel.html#a1a2dd6f4723485a0932dafc265bd053b" title="Event fired each time the we add/remove securities from the data feed" alt="" coords="5,5,279,61"/>
+</map>

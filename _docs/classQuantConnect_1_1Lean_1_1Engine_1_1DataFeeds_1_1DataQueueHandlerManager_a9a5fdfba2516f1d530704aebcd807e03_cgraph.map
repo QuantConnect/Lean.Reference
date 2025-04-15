@@ -1,0 +1,9 @@
+<map id="QuantConnect.Lean.Engine.DataFeeds.DataQueueHandlerManager.Subscribe" name="QuantConnect.Lean.Engine.DataFeeds.DataQueueHandlerManager.Subscribe">
+<area shape="rect" id="node1" title="Subscribe to the specified configuration" alt="" coords="5,137,284,193"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Securities_1_1MarketHoursDatabase.html#aa01232d91c17c556b18ea8f1f7fabcd0" title="Gets the instance of the MarketHoursDatabase class produced by reading in the market hours data found..." alt="" coords="362,30,597,86"/>
+<area shape="rect" id="node5" href="$classQuantConnect_1_1Securities_1_1MarketHoursDatabase.html#ab10d5242b6fcbe4d9f7aacd800e0efea" title="Convenience method for retrieving exchange hours from market hours database using a subscription conf..." alt="" coords="332,111,627,152"/>
+<area shape="rect" id="node6" href="$interfaceQuantConnect_1_1ITimeProvider.html#ae51737f869d879dfbb297496e4feb036" title="Gets the current time in UTC" alt="" coords="373,176,585,217"/>
+<area shape="rect" id="node7" href="$classQuantConnect_1_1Util_1_1LeanData.html#a285cd342950b1f06c6b8527e0087fde5" title="Helper method to determine if we should use strict end time" alt="" coords="374,241,585,283"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Securities_1_1MarketHoursDatabase.html#a6fdcc5f6d09cc11743e258e570d0a9eb" title="Reads the specified file as a market hours database instance" alt="" coords="675,5,901,47"/>
+<area shape="rect" id="node4" href="$classQuantConnect_1_1Globals.html#ae01b5c94ef475a21ab1a62fe1b04ea5c" title="Helper method that will build a data folder path checking if it exists on the cache folder else will ..." alt="" coords="691,71,885,112"/>
+</map>

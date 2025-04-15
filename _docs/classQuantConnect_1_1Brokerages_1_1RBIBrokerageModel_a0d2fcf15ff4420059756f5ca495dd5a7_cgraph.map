@@ -1,0 +1,7 @@
+<map id="QuantConnect.Brokerages.RBIBrokerageModel.CanSubmitOrder" name="QuantConnect.Brokerages.RBIBrokerageModel.CanSubmitOrder">
+<area shape="rect" id="node1" title="Returns true if the brokerage could accept this order. This takes into account order type,..." alt="" coords="5,86,267,127"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Brokerages_1_1DefaultBrokerageModel.html#aab045cb269fc0ddda72e6c05c280c2d3" title="Checks if the order quantity is valid, it means, the order size is bigger than the minimum size allow..." alt="" coords="353,5,575,61"/>
+<area shape="rect" id="node4" href="$classQuantConnect_1_1Messages_1_1RBIBrokerageModel.html#a27e1bc035234715a4679ee1674e40a07" title="Returns a message for an unsupported order type in RBI Brokerage Model" alt="" coords="327,86,601,127"/>
+<area shape="rect" id="node5" href="$classQuantConnect_1_1Messages_1_1DefaultBrokerageModel.html#a1b9fa7f8e1c87b388c646fcef6cdb389" title="Retunrns a string message saying the type of the given security is not supported by the given brokera..." alt="" coords="315,151,613,193"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Messages_1_1DefaultBrokerageModel.html#ad5fe70a9d5974d5c9fb72a7cf4b0cdb0" title="Returns a string message saying the quantity given was invalid for the given security" alt="" coords="661,13,929,54"/>
+</map>

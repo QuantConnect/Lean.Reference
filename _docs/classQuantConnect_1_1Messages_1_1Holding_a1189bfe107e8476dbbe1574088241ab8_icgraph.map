@@ -1,0 +1,4 @@
+<map id="QuantConnect.Messages.Holding.ToString" name="QuantConnect.Messages.Holding.ToString">
+<area shape="rect" id="node1" title="Parses a Holding object into a string message" alt="" coords="277,5,519,47"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Holding.html#a3762384977e9e425ec940d70a4964ebe" title="Writes out the properties of this instance to string" alt="" coords="5,13,229,39"/>
+</map>

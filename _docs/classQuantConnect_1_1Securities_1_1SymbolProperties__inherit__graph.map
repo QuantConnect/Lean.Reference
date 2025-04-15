@@ -1,0 +1,5 @@
+<map id="QuantConnect.Securities.SymbolProperties" name="QuantConnect.Securities.SymbolProperties">
+<area shape="rect" id="node1" title="Represents common properties for a specific security, uniquely identified by market,..." alt="" coords="29,5,215,47"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Securities_1_1Option_1_1OptionSymbolProperties.html" title="Represents common properties for a specific option contract" alt="" coords="9,95,235,136"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Securities_1_1IndexOption_1_1IndexOptionSymbolProperties.html" title="Index Option Symbol Properties" alt="" coords="5,184,239,240"/>
+</map>

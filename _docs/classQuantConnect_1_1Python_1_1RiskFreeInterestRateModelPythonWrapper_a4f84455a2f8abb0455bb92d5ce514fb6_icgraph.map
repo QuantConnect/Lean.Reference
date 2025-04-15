@@ -1,0 +1,5 @@
+<map id="QuantConnect.Python.RiskFreeInterestRateModelPythonWrapper.RiskFreeInterestRateModelPythonWrapper" name="QuantConnect.Python.RiskFreeInterestRateModelPythonWrapper.RiskFreeInterestRateModelPythonWrapper">
+<area shape="rect" id="node1" title="Constructor for initializing the RiskFreeInterestRateModelPythonWrapper class with wrapped PyObject o..." alt="" coords="648,5,947,61"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Python_1_1RiskFreeInterestRateModelPythonWrapper.html#a653eec3adbed98348467c9c5981d703d" title="Converts a PyObject object into a IRiskFreeInterestRateModel object, wrapping it if necessary" alt="" coords="327,5,600,61"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Algorithm_1_1QCAlgorithm.html#a01ebef6e6fba212b01fe747b8a77499f" title="Sets the risk free interest rate model to be used in the algorithm" alt="" coords="5,13,279,54"/>
+</map>

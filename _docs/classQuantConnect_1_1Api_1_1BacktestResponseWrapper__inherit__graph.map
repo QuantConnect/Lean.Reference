@@ -1,0 +1,5 @@
+<map id="QuantConnect.Api.BacktestResponseWrapper" name="QuantConnect.Api.BacktestResponseWrapper">
+<area shape="rect" id="node1" title="Wrapper class for Backtest/* endpoints JSON response Currently used by Backtest/Read and Backtest/Cre..." alt="" coords="5,155,205,196"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Api_1_1RestResponse.html" title="Base API response class for the QuantConnect API." alt="" coords="48,80,163,107"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Api_1_1StringRepresentation.html" title="Class to return the string representation of an API response class" alt="" coords="26,5,185,32"/>
+</map>

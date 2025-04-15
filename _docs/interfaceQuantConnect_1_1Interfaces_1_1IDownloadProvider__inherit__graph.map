@@ -1,0 +1,4 @@
+<map id="QuantConnect.Interfaces.IDownloadProvider" name="QuantConnect.Interfaces.IDownloadProvider">
+<area shape="rect" id="node1" title="Wrapper on the API for downloading data for an algorithm." alt="" coords="5,5,192,47"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Api_1_1Api.html" title="QuantConnect.com Interaction Via API." alt="" coords="17,95,181,121"/>
+</map>

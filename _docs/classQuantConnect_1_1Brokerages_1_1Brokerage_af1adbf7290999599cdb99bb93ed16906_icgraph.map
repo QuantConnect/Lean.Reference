@@ -1,0 +1,4 @@
+<map id="QuantConnect.Brokerages.Brokerage.OnOrderIdChangedEvent" name="QuantConnect.Brokerages.Brokerage.OnOrderIdChangedEvent">
+<area shape="rect" id="node1" title="Event invocator for the OrderIdChanged event" alt="" coords="280,13,532,54"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Brokerages_1_1Brokerage.html#af5619808bb527e226c7ad3ef2eecc150" title="Attempts to handle any remaining orders that cross the zero boundary." alt="" coords="5,5,232,61"/>
+</map>

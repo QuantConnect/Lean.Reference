@@ -1,0 +1,10 @@
+<map id="QuantConnect.Brokerages.Brokerage.TryCrossZeroPositionOrder" name="QuantConnect.Brokerages.Brokerage.TryCrossZeroPositionOrder">
+<area shape="rect" id="node1" title="Attempts to place an order that may cross the zero position. If the order needs to be split into two ..." alt="" coords="5,104,271,145"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Brokerages_1_1Brokerage.html#abf8144ed2721830702537394947eb72c" title="Gets the position that might result given the specified order direction and the current holdings quan..." alt="" coords="357,5,560,47"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Brokerages_1_1Brokerage.html#a811fd60a40633f4e51fb7e8d85c98fef" title="Event invocator for the OrderFilled event" alt="" coords="361,71,556,112"/>
+<area shape="rect" id="node7" href="$classQuantConnect_1_1Brokerages_1_1BrokerageExtensions.html#a59d79c1126d8f1cad70f5029c020d7f4" title="Determines if executing the specified order will cross the zero holdings threshold." alt="" coords="319,136,599,177"/>
+<area shape="rect" id="node8" href="$classQuantConnect_1_1Brokerages_1_1Brokerage.html#a85164c57e2887c97ec0acca8084adf3f" title="Places an order that crosses zero (transitions from a short position to a long position or vice versa..." alt="" coords="344,201,573,243"/>
+<area shape="rect" id="node4" href="$classQuantConnect_1_1Brokerages_1_1Brokerage.html#ae7499c6cef985b52effb93373f5706fd" title="Event invocator for the OrderFilled event" alt="" coords="647,71,841,112"/>
+<area shape="rect" id="node5" href="$classQuantConnect_1_1Logging_1_1Log.html#af0e7955911bc7664b37661b2a303a9e3" title="Log error" alt="" coords="889,71,1089,112"/>
+<area shape="rect" id="node6" href="$interfaceQuantConnect_1_1Logging_1_1ILogHandler.html#a35373a0c5d76031fa5ccf5dc39e5c25d" title="Write error message to log" alt="" coords="1137,71,1337,112"/>
+</map>

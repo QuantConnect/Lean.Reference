@@ -1,0 +1,5 @@
+<map id="QuantConnect.Brokerages.DefaultBrokerageModel.GetLeverage" name="QuantConnect.Brokerages.DefaultBrokerageModel.GetLeverage">
+<area shape="rect" id="node1" title="Gets the brokerage&#39;s leverage for the specified security" alt="" coords="597,13,860,54"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Brokerages_1_1DefaultBrokerageModel.html#a28e0a72db7adb42e45e80bdea86bc997" title="Gets a new buying power model for the security, returning the default model with the security&#39;s confi..." alt="" coords="301,5,549,61"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Brokerages_1_1DefaultBrokerageModel.html#a2a061767a10c19adecd598b2f85fc8f5" title="Gets a new buying power model for the security" alt="" coords="5,5,253,61"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="QuantConnect.Candlestick" name="QuantConnect.Candlestick">
+<area shape="rect" id="node1" title="Single candlestick for a candlestick chart" alt="" coords="5,80,200,107"/>
+<area shape="rect" id="node2" href="$interfaceQuantConnect_1_1ISeriesPoint.html" title="Single chart series point/bar data." alt="" coords="53,5,152,32"/>
+</map>

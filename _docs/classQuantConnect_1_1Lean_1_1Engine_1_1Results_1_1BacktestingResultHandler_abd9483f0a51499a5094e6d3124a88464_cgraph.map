@@ -1,0 +1,5 @@
+<map id="QuantConnect.Lean.Engine.Results.BacktestingResultHandler.RuntimeError" name="QuantConnect.Lean.Engine.Results.BacktestingResultHandler.RuntimeError">
+<area shape="rect" id="node1" title="Send a runtime error message back to the browser highlighted with in red" alt="" coords="5,35,252,91"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Lean_1_1Engine_1_1Results_1_1BaseResultsHandler.html#a780512313b3f4907dae0d7ece190d949" title="Purge/clear any outstanding messages in message queue." alt="" coords="300,5,587,47"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Lean_1_1Engine_1_1Results_1_1BaseResultsHandler.html#a4820dd4d9928b45f83f686ee1bb8fbbf" title="Sets the algorithm state data" alt="" coords="329,71,558,127"/>
+</map>

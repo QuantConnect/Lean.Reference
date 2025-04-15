@@ -1,0 +1,4 @@
+<map id="QuantConnect.Lean.Engine.DataFeeds.LiveTimeProvider" name="QuantConnect.Lean.Engine.DataFeeds.LiveTimeProvider">
+<area shape="rect" id="node1" title="Live time provide which supports an initial warmup period using the given time provider SubscriptionF..." alt="" coords="5,80,215,121"/>
+<area shape="rect" id="node2" href="$interfaceQuantConnect_1_1ITimeProvider.html" title="Provides access to the current time in UTC. This doesn&#39;t necessarily need to be wall&#45;clock time,..." alt="" coords="53,5,167,32"/>
+</map>

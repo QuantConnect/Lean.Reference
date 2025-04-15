@@ -1,0 +1,4 @@
+<map id="QuantConnect.Report.DeedleUtil.PercentChange" name="QuantConnect.Report.DeedleUtil.PercentChange">
+<area shape="rect" id="node1" title="Calculates the percentage change from the previous value to the current" alt="" coords="320,13,531,54"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Report_1_1ReportElements_1_1SharpeRatioReportElement.html#aa368719bc7cafa325431b1aaacdfd850" title="The generated output string to be injected" alt="" coords="5,5,272,61"/>
+</map>

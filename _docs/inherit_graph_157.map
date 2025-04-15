@@ -1,0 +1,10 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$classQuantConnect_1_1Data_1_1Fundamental_1_1MultiPeriodField.html" title=" " alt="" coords="5,201,248,243"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Data_1_1Fundamental_1_1BalanceSheetFileDate.html" title="Filing date of the Balance Sheet" alt="" coords="310,5,553,47"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Data_1_1Fundamental_1_1CashFlowFileDate.html" title="Filing date of the Cash Flow Statement." alt="" coords="310,71,553,112"/>
+<area shape="rect" id="node4" href="$classQuantConnect_1_1Data_1_1Fundamental_1_1EarningReportsFileDate.html" title="Specific date on which a company released its filing to the public." alt="" coords="310,136,553,177"/>
+<area shape="rect" id="node5" href="$classQuantConnect_1_1Data_1_1Fundamental_1_1EarningReportsPeriodEndingDate.html" title="The exact date that is given in the financial statements for each quarter&#39;s end." alt="" coords="310,201,553,243"/>
+<area shape="rect" id="node6" href="$classQuantConnect_1_1Data_1_1Fundamental_1_1FinancialStatementsFileDate.html" title="Specific date on which a company released its filing to the public." alt="" coords="310,267,553,308"/>
+<area shape="rect" id="node7" href="$classQuantConnect_1_1Data_1_1Fundamental_1_1FinancialStatementsPeriodEndingDate.html" title="The exact date that is given in the financial statements for each quarter&#39;s end." alt="" coords="296,332,567,373"/>
+<area shape="rect" id="node8" href="$classQuantConnect_1_1Data_1_1Fundamental_1_1IncomeStatementFileDate.html" title="Filing date of the Income Statement." alt="" coords="310,397,553,439"/>
+</map>

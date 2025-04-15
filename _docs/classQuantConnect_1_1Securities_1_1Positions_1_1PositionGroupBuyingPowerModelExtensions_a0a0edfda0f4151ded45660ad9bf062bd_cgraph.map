@@ -1,0 +1,4 @@
+<map id="QuantConnect.Securities.Positions.PositionGroupBuyingPowerModelExtensions.HasSufficientBuyingPowerForOrder" name="QuantConnect.Securities.Positions.PositionGroupBuyingPowerModelExtensions.HasSufficientBuyingPowerForOrder">
+<area shape="rect" id="node1" title="Check if there is sufficient buying power for the position group to execute this order." alt="" coords="5,5,268,76"/>
+<area shape="rect" id="node2" href="$interfaceQuantConnect_1_1Securities_1_1Positions_1_1IPositionGroupBuyingPowerModel.html#a2b0692994e7940735ce13a21234f61c1" title="Check if there is sufficient buying power for the position group to execute this order." alt="" coords="316,5,593,76"/>
+</map>

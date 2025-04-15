@@ -1,0 +1,5 @@
+<map id="QuantConnect.Compression.UnzipToFolder" name="QuantConnect.Compression.UnzipToFolder">
+<area shape="rect" id="node1" title="Unzip the given byte array and return the created file names." alt="" coords="260,39,467,80"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Api_1_1Api.html#a1b18264dc686c3b32cd089bb3cdaf731" title="Download the object store files associated with the given organization ID and key" alt="" coords="13,5,204,47"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Compression.html#aa0445b795ad8317fd28ce7e18cb95ddf" title="Unzip a local file and return the created file names" alt="" coords="5,71,212,112"/>
+</map>

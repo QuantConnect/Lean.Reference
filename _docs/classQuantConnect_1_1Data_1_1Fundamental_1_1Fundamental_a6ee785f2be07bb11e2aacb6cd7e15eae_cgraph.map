@@ -1,0 +1,6 @@
+<map id="QuantConnect.Data.Fundamental.Fundamental.Reader" name="QuantConnect.Data.Fundamental.Fundamental.Reader">
+<area shape="rect" id="node1" title="Will read a new instance from the given line" alt="" coords="5,39,248,80"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Data_1_1Fundamental_1_1Fundamental.html#ad702991b6e1340973391f2428e46108c" title="Creates a new empty instance" alt="" coords="296,5,539,47"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1SecurityIdentifier.html#a89ccb2161613f17d18ca3dc1e9eb3872" title="Parses the specified string into a SecurityIdentifier The string must be a 40 digit number...." alt="" coords="301,71,533,112"/>
+<area shape="rect" id="node4" href="$classQuantConnect_1_1SecurityIdentifier.html#a59bd74be4ec55a0e4631af9e10f65d7c" title="Attempts to parse the specified &#160;as a SecurityIdentifier." alt="" coords="587,71,819,112"/>
+</map>

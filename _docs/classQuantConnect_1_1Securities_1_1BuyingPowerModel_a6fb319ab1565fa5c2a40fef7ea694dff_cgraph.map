@@ -1,0 +1,6 @@
+<map id="QuantConnect.Securities.BuyingPowerModel.GetAmountToOrder" name="QuantConnect.Securities.BuyingPowerModel.GetAmountToOrder">
+<area shape="rect" id="node1" title="Helper function that determines the amount to order to get to a given target safely...." alt="" coords="5,93,280,134"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Securities_1_1BuyingPowerModel.html#a662d7e6905d1818ee738b142a05399af" title="The margin that must be held in order to increase the position by the provided quantity" alt="" coords="348,5,604,61"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Messages_1_1BuyingPowerModel.html#a2d2fb1d6840c4c102f305f30718de6e0" title="Returns a string message saying the margin is being adjusted in the wrong direction...." alt="" coords="347,85,605,141"/>
+<area shape="rect" id="node4" href="$classQuantConnect_1_1Messages_1_1BuyingPowerModel.html#ae120457deee17faca7051591968b866a" title="Returns a string message containing basic information related with the underlying security such as th..." alt="" coords="328,165,624,221"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="QuantConnect.Messages.StackExceptionInterpreter.LoadedExceptionInterpreter" name="QuantConnect.Messages.StackExceptionInterpreter.LoadedExceptionInterpreter">
+<area shape="rect" id="node1" title="Returns a message for a Loaded Exception Interpreter" alt="" coords="643,5,912,61"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Exceptions_1_1StackExceptionInterpreter.html#a921c0014f3619855026760f77afead7a" title="Creates a new StackExceptionInterpreter by loading implementations with default constructors from the..." alt="" coords="357,5,595,61"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1AlgorithmFactory_1_1Python_1_1Wrappers_1_1AlgorithmPythonWrapper.html#afed905ab2f0a474c9a3b48cef697b942" title="AlgorithmPythonWrapper constructor. Creates and wraps the algorithm written in python." alt="" coords="5,5,309,61"/>
+</map>

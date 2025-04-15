@@ -1,0 +1,26 @@
+var classQuantConnect_1_1Securities_1_1SecurityExchangeHours =
+[
+    [ "SecurityExchangeHours", "classQuantConnect_1_1Securities_1_1SecurityExchangeHours.html#a215edeaa42c95736dc83e5b21123d70d", null ],
+    [ "AlwaysOpen", "classQuantConnect_1_1Securities_1_1SecurityExchangeHours.html#af6f527fdfc92b5801026340fd4114a4a", null ],
+    [ "IsOpen", "classQuantConnect_1_1Securities_1_1SecurityExchangeHours.html#af2deedeacdcb6bbe40f4874002cdbac3", null ],
+    [ "IsOpen", "classQuantConnect_1_1Securities_1_1SecurityExchangeHours.html#aed0ab6a599e3b21b5da170054848b541", null ],
+    [ "IsDateOpen", "classQuantConnect_1_1Securities_1_1SecurityExchangeHours.html#a9938e951dadf16e7518f648ff9c4a040", null ],
+    [ "GetFirstDailyMarketOpen", "classQuantConnect_1_1Securities_1_1SecurityExchangeHours.html#a39384c1878afb5672cc8c35af28b4b6e", null ],
+    [ "GetPreviousMarketOpen", "classQuantConnect_1_1Securities_1_1SecurityExchangeHours.html#ab853277c0165a7e13660548cf0f585e4", null ],
+    [ "GetPreviousMarketOpen", "classQuantConnect_1_1Securities_1_1SecurityExchangeHours.html#a7b750e8b832a93bcd107e56989a2a0d7", null ],
+    [ "GetNextMarketOpen", "classQuantConnect_1_1Securities_1_1SecurityExchangeHours.html#a180c418cdce27edaa7d55170a225761e", null ],
+    [ "GetLastDailyMarketClose", "classQuantConnect_1_1Securities_1_1SecurityExchangeHours.html#aa0dcf265a4e0cc5f9078c8f623258c7d", null ],
+    [ "GetNextMarketClose", "classQuantConnect_1_1Securities_1_1SecurityExchangeHours.html#ae4d431df8172a13151fbc6dcad979492", null ],
+    [ "GetNextMarketClose", "classQuantConnect_1_1Securities_1_1SecurityExchangeHours.html#a636e9018a2d6568c1df49cad1716bad6", null ],
+    [ "GetMarketHours", "classQuantConnect_1_1Securities_1_1SecurityExchangeHours.html#a106e2dd187ab76452e14ac6a28f929aa", null ],
+    [ "GetPreviousTradingDay", "classQuantConnect_1_1Securities_1_1SecurityExchangeHours.html#a519ce4d354a2675d9da3447ff538df23", null ],
+    [ "GetNextTradingDay", "classQuantConnect_1_1Securities_1_1SecurityExchangeHours.html#a4477fb584df63bf4353438275aa8f678", null ],
+    [ "MarketHours", "classQuantConnect_1_1Securities_1_1SecurityExchangeHours.html#a972ed9aea5ca3ccac86bfc3754c6c20d", null ],
+    [ "EarlyCloses", "classQuantConnect_1_1Securities_1_1SecurityExchangeHours.html#a5aae47b5a73caaa99c4ff287d42e4131", null ],
+    [ "LateOpens", "classQuantConnect_1_1Securities_1_1SecurityExchangeHours.html#ac0f478e5c0e8c0f173ff9b909a5cbb2b", null ],
+    [ "TimeZone", "classQuantConnect_1_1Securities_1_1SecurityExchangeHours.html#a637b907b061b91668563a16c2a8d59ed", null ],
+    [ "Holidays", "classQuantConnect_1_1Securities_1_1SecurityExchangeHours.html#a63ba7e02276891f4268bd978d92b64d9", null ],
+    [ "BankHolidays", "classQuantConnect_1_1Securities_1_1SecurityExchangeHours.html#a877cbc9f1a009756e537bb905c65cfa4", null ],
+    [ "RegularMarketDuration", "classQuantConnect_1_1Securities_1_1SecurityExchangeHours.html#a47e8d7bee3c3acd3a6b14383c3f2f9d5", null ],
+    [ "IsMarketAlwaysOpen", "classQuantConnect_1_1Securities_1_1SecurityExchangeHours.html#a656a4e98bbf3489755f1bad104ad987c", null ]
+];

@@ -1,0 +1,5 @@
+<map id="QuantConnect.Data.Fundamental.NormalizedIncomeAsReportedIncomeStatement" name="QuantConnect.Data.Fundamental.NormalizedIncomeAsReportedIncomeStatement">
+<area shape="rect" id="node1" title="Earnings adjusted for items that are irregular or unusual in nature, and/or are non&#45;recurring...." alt="" coords="5,155,273,211"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Data_1_1Fundamental_1_1MultiPeriodField.html" title="Abstract base class for multi&#45;period fields" alt="" coords="76,80,203,107"/>
+<area shape="rect" id="node3" title=" " alt="" coords="61,5,218,32"/>
+</map>

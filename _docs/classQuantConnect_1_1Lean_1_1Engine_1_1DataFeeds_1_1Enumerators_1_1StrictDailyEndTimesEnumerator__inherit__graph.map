@@ -1,0 +1,4 @@
+<map id="QuantConnect.Lean.Engine.DataFeeds.Enumerators.StrictDailyEndTimesEnumerator" name="QuantConnect.Lean.Engine.DataFeeds.Enumerators.StrictDailyEndTimesEnumerator">
+<area shape="rect" id="node1" title="Enumerator that will handle adjusting daily strict end times if appropriate" alt="" coords="5,80,256,136"/>
+<area shape="rect" id="node2" title=" " alt="" coords="33,5,228,32"/>
+</map>

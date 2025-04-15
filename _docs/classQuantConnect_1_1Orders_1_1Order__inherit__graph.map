@@ -1,0 +1,16 @@
+<map id="QuantConnect.Orders.Order" name="QuantConnect.Orders.Order">
+<area shape="rect" id="node1" title="Order struct for placing new trade" alt="" coords="5,339,207,366"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Orders_1_1ComboOrder.html" title="Combo order type" alt="" coords="255,71,465,112"/>
+<area shape="rect" id="node6" href="$classQuantConnect_1_1Orders_1_1LimitIfTouchedOrder.html" title="In effect, a LimitIfTouchedOrder behaves opposite to the StopLimitOrder; after a trigger price is tou..." alt="" coords="261,136,459,177"/>
+<area shape="rect" id="node7" href="$classQuantConnect_1_1Orders_1_1LimitOrder.html" title="Limit order type definition" alt="" coords="261,201,459,243"/>
+<area shape="rect" id="node8" href="$classQuantConnect_1_1Orders_1_1MarketOnCloseOrder.html" title="Market on close order type &#45; submits a market order on exchange close" alt="" coords="255,267,465,308"/>
+<area shape="rect" id="node9" href="$classQuantConnect_1_1Orders_1_1MarketOnOpenOrder.html" title="Market on Open order type, submits a market order when the exchange opens" alt="" coords="255,332,465,373"/>
+<area shape="rect" id="node10" href="$classQuantConnect_1_1Orders_1_1MarketOrder.html" title="Market order type definition" alt="" coords="255,397,465,439"/>
+<area shape="rect" id="node11" href="$classQuantConnect_1_1Orders_1_1OptionExerciseOrder.html" title="Option exercise order type definition" alt="" coords="256,463,464,504"/>
+<area shape="rect" id="node12" href="$classQuantConnect_1_1Orders_1_1StopLimitOrder.html" title="Stop Market Order Type Definition" alt="" coords="263,528,457,569"/>
+<area shape="rect" id="node13" href="$classQuantConnect_1_1Orders_1_1StopMarketOrder.html" title="Stop Market Order Type Definition" alt="" coords="263,593,457,635"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Orders_1_1ComboLegLimitOrder.html" title="Combo leg limit order type" alt="" coords="514,5,725,47"/>
+<area shape="rect" id="node4" href="$classQuantConnect_1_1Orders_1_1ComboLimitOrder.html" title="Combo limit order type" alt="" coords="514,71,725,112"/>
+<area shape="rect" id="node5" href="$classQuantConnect_1_1Orders_1_1ComboMarketOrder.html" title="Combo market order type" alt="" coords="514,136,725,177"/>
+<area shape="rect" id="node14" href="$classQuantConnect_1_1Orders_1_1TrailingStopOrder.html" title="Trailing Stop Order Type Definition" alt="" coords="513,593,725,635"/>
+</map>

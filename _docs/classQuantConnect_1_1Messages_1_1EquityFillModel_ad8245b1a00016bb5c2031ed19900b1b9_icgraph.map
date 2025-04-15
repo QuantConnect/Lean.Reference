@@ -1,0 +1,5 @@
+<map id="QuantConnect.Messages.EquityFillModel.FilledWithLastTickTypeData" name="QuantConnect.Messages.EquityFillModel.FilledWithLastTickTypeData">
+<area shape="rect" id="node1" title="Returns a string message saying the last data (of the given tick type) has been used to fill" alt="" coords="297,39,563,80"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Orders_1_1Fills_1_1EquityFillModel.html#aca188cd71e166416b2dc8b39b9c10311" title="Market on Close Fill Model. Return an order event with the fill details" alt="" coords="5,5,249,47"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Orders_1_1Fills_1_1EquityFillModel.html#a2cc8fb9eafec5a645f7901a20b6c0594" title="Market on Open Fill Model. Return an order event with the fill details" alt="" coords="6,71,249,112"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="QuantConnect.Python.SignalExportTargetPythonWrapper" name="QuantConnect.Python.SignalExportTargetPythonWrapper">
+<area shape="rect" id="node1" title="Provides an implementation of ISignalExportTarget that wraps a PyObject object" alt="" coords="76,169,283,211"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Python_1_1BasePythonWrapper.html" title=" " alt="" coords="5,80,172,121"/>
+<area shape="rect" id="node3" href="$interfaceQuantConnect_1_1Interfaces_1_1ISignalExportTarget.html" title="Interface to send positions holdings to different 3rd party API&#39;s" alt="" coords="196,87,344,114"/>
+<area shape="rect" id="node4" title=" " alt="" coords="221,5,319,32"/>
+</map>

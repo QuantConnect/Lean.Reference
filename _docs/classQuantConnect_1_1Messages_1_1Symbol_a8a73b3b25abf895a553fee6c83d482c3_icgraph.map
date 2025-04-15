@@ -1,0 +1,5 @@
+<map id="QuantConnect.Messages.Symbol.SecurityTypeCannotBeMapped" name="QuantConnect.Messages.Symbol.SecurityTypeCannotBeMapped">
+<area shape="rect" id="node1" title="Returns a string message saying the given security can not be mapped" alt="" coords="547,29,787,71"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Symbol.html#a13e0f04010a2d52bb7fc2000e5929394" title="Creates new symbol with updated mapped symbol. Symbol Mapping: When symbols change over time (e...." alt="" coords="280,29,499,71"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Data_1_1HistoryExtensions.html#a3b6a56b1bd013e0178ae4d01775fc68b" title="Split HistoryRequest on several request with update mapped symbol." alt="" coords="5,22,232,78"/>
+</map>

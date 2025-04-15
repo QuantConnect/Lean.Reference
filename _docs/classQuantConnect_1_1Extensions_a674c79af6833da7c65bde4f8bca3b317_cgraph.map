@@ -1,0 +1,4 @@
+<map id="QuantConnect.Extensions.UnsubscribeWithMapping" name="QuantConnect.Extensions.UnsubscribeWithMapping">
+<area shape="rect" id="node1" title="Helper method to unsubscribe a given configuration, handling any required mapping" alt="" coords="5,5,199,47"/>
+<area shape="rect" id="node2" href="$interfaceQuantConnect_1_1Interfaces_1_1IDataQueueHandler.html#a72d90a0abaa61d3fe6da67f0cc49e71b" title="Removes the specified configuration" alt="" coords="247,5,480,47"/>
+</map>

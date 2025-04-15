@@ -1,0 +1,5 @@
+<map id="QuantConnect.Securities.BuyingPowerParameters.ResultInAccountCurrency" name="QuantConnect.Securities.BuyingPowerParameters.ResultInAccountCurrency">
+<area shape="rect" id="node1" title="Creates the result using the specified buying power in units of the account currency" alt="" coords="344,31,571,87"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Securities_1_1CashBuyingPowerModel.html#aae57275da7a6487578fabb9efccb4473" title="Gets the buying power available for a trade" alt="" coords="5,5,296,47"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Securities_1_1BuyingPowerModel.html#a7b18b0d8ef69d3097f4fd1694cd5c260" title="Gets the buying power available for a trade" alt="" coords="21,71,280,112"/>
+</map>

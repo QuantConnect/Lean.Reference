@@ -1,0 +1,11 @@
+<map id="QuantConnect.Securities.SecurityTransactionManager.ProcessRequest" name="QuantConnect.Securities.SecurityTransactionManager.ProcessRequest">
+<area shape="rect" id="node1" title="Processes the order request" alt="" coords="5,109,264,165"/>
+<area shape="rect" id="node2" href="$interfaceQuantConnect_1_1Securities_1_1IOrderProcessor.html#a153e85c4defb70ea096de8e35c340f4e" title="Adds the specified order to be processed" alt="" coords="334,5,521,47"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Securities_1_1SecurityTransactionManager.html#acdba6b5b86c1de4968b5b21752292dd9" title="Sets the order id for the specified submit request" alt="" coords="312,71,543,127"/>
+<area shape="rect" id="node5" href="$classQuantConnect_1_1Orders_1_1OrderResponse.html#aee85b2e31d5c1887ec0cfa15568777c9" title="Returns a string that represents the current object." alt="" coords="327,152,528,193"/>
+<area shape="rect" id="node7" href="$classQuantConnect_1_1Orders_1_1OrderResponse.html#af8bdc5b0fd7d8e5929a659099d1d939f" title="Helper method to create an error response due to algorithm still in warmup mode" alt="" coords="327,217,528,259"/>
+<area shape="rect" id="node4" href="$classQuantConnect_1_1Securities_1_1SecurityTransactionManager.html#a470623a731aa5e8e241518af157c9ffe" title="Get a new order id, and increment the internal counter." alt="" coords="591,71,823,127"/>
+<area shape="rect" id="node6" href="$classQuantConnect_1_1Messages_1_1OrderResponse.html#aa0c4af569013ec9ebaed20d28708ed0d" title="Parses the given order response into a string message containing basic information about it" alt="" coords="595,152,818,193"/>
+<area shape="rect" id="node8" href="$classQuantConnect_1_1Orders_1_1OrderResponse.html#a14ded2753785926becc5e7f8e5a02a09" title="Helper method to create an error response from a request" alt="" coords="606,217,807,259"/>
+<area shape="rect" id="node9" href="$classQuantConnect_1_1Messages_1_1OrderResponse.html#adf822bd611fdfdf041194a195b2d2150" title="Returns a string message saying the given order request operation is not allowed in Initialize or dur..." alt="" coords="595,283,818,324"/>
+</map>

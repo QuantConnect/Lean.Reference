@@ -1,0 +1,6 @@
+<map id="QuantConnect.Indicators.CandlestickPatterns.CandlestickPattern.GetCandleGapDown" name="QuantConnect.Indicators.CandlestickPatterns.CandlestickPattern.GetCandleGapDown">
+<area shape="rect" id="node1" title="Returns true if the candle is lower than the previous one" alt="" coords="281,85,512,141"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Indicators_1_1CandlestickPatterns_1_1Kicking.html#a9e497c51b89b917eef298e156a7e3995" title="Computes the next value of this indicator from the given state" alt="" coords="16,5,223,61"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Indicators_1_1CandlestickPatterns_1_1KickingByLength.html#aad33096770b350b145966d0b00e93e12" title="Computes the next value of this indicator from the given state" alt="" coords="9,85,229,141"/>
+<area shape="rect" id="node4" href="$classQuantConnect_1_1Indicators_1_1CandlestickPatterns_1_1AbandonedBaby.html#a6e8c7a84bd31b12311ba57d9743eaf71" title="Computes the next value of this indicator from the given state" alt="" coords="5,165,233,221"/>
+</map>

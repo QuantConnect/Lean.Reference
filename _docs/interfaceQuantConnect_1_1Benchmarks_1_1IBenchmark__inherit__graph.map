@@ -1,0 +1,6 @@
+<map id="QuantConnect.Benchmarks.IBenchmark" name="QuantConnect.Benchmarks.IBenchmark">
+<area shape="rect" id="node1" title="Specifies how to compute a benchmark for an algorithm" alt="" coords="5,71,208,112"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Benchmarks_1_1FuncBenchmark.html" title="Creates a benchmark defined by a function" alt="" coords="275,5,478,47"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Benchmarks_1_1SecurityBenchmark.html" title="Creates a benchmark defined by the closing price of a Security instance" alt="" coords="275,71,478,112"/>
+<area shape="rect" id="node4" href="$classQuantConnect_1_1Python_1_1BenchmarkPythonWrapper.html" title="Provides an implementation of IBenchmark that wraps a PyObject object" alt="" coords="256,136,497,177"/>
+</map>

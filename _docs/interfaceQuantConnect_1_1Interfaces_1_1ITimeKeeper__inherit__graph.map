@@ -1,0 +1,5 @@
+<map id="QuantConnect.Interfaces.ITimeKeeper" name="QuantConnect.Interfaces.ITimeKeeper">
+<area shape="rect" id="node1" title="Interface implemented by TimeKeeper" alt="" coords="39,5,225,47"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1TimeKeeper.html" title="Provides a means of centralizing time for various time zones." alt="" coords="34,95,230,121"/>
+<area shape="rect" id="node3" title="Time keeper specialization to keep time for a subscription both in data and exchange time zones...." alt="" coords="5,169,259,211"/>
+</map>

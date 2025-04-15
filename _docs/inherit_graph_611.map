@@ -1,0 +1,5 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$interfaceQuantConnect_1_1Securities_1_1Option_1_1StrategyMatcher_1_1IOptionStrategyDefinitionEnumerator.html" title="Enumerates OptionStrategyDefinition for the purposes of providing a bias towards definitions that are..." alt="" coords="5,45,232,101"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Securities_1_1Option_1_1StrategyMatcher_1_1DescendingByLegCountOptionStrategyDefinitionEnumerator.html" title="Provides an implementation of IOptionStrategyDefinitionEnumerator that enumerates definitions requiri..." alt="" coords="280,5,617,61"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Securities_1_1Option_1_1StrategyMatcher_1_1IdentityOptionStrategyDefinitionEnumerator.html" title="Provides a default implementation of IOptionStrategyDefinitionEnumerator that enumerates definitions ..." alt="" coords="319,85,578,141"/>
+</map>

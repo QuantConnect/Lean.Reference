@@ -1,0 +1,4 @@
+<map id="QuantConnect.Util.LeanData.SetStrictEndTimes" name="QuantConnect.Util.LeanData.SetStrictEndTimes">
+<area shape="rect" id="node1" title="Helper method that if appropiate, will set the Time and EndTime of the given data point to it&#39;s daily..." alt="" coords="304,13,515,54"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Lean_1_1Engine_1_1DataFeeds_1_1Enumerators_1_1StrictDailyEndTimesEnumerator.html#a3999ce01b214b32d39ed3043d6b0f8e5" title="Move to the next date" alt="" coords="5,5,256,61"/>
+</map>

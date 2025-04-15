@@ -1,0 +1,4 @@
+<map id="QuantConnect.AlgorithmFactory.Loader.TryCreateAlgorithmInstance" name="QuantConnect.AlgorithmFactory.Loader.TryCreateAlgorithmInstance">
+<area shape="rect" id="node1" title="Creates a new instance of the specified class in the library, safely." alt="" coords="304,13,555,54"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1AlgorithmFactory_1_1Loader.html#a5a1e4e66c9ccc9eeda579831ed8ae89a" title="Creates a new instance of the class in the library, safely." alt="" coords="5,5,256,61"/>
+</map>

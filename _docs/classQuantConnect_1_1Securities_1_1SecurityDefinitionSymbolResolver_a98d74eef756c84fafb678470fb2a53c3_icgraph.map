@@ -1,0 +1,4 @@
+<map id="QuantConnect.Securities.SecurityDefinitionSymbolResolver.GetInstance" name="QuantConnect.Securities.SecurityDefinitionSymbolResolver.GetInstance">
+<area shape="rect" id="node1" title="Gets the single instance of the symbol resolver" alt="" coords="327,5,573,61"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Algorithm_1_1QCAlgorithm.html#a373d444cdc75004141f693cca0b10b1e" title="QCAlgorithm Base Class Constructor &#45; Initialize the underlying QCAlgorithm components...." alt="" coords="5,13,279,54"/>
+</map>

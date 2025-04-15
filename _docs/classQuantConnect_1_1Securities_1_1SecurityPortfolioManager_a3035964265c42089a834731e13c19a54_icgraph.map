@@ -1,0 +1,5 @@
+<map id="QuantConnect.Securities.SecurityPortfolioManager.ApplyDividend" name="QuantConnect.Securities.SecurityPortfolioManager.ApplyDividend">
+<area shape="rect" id="node1" title="Applies a dividend to the portfolio" alt="" coords="560,5,787,61"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Lean_1_1Engine_1_1AlgorithmManager.html#a02a0ac8ada5d5bae842b39947cad34e6" title="Helper method to apply a dividend to an algorithm instance" alt="" coords="255,13,512,54"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Lean_1_1Engine_1_1AlgorithmManager.html#a1a51d2e48b1be28cb89347a0123c19fd" title="Launch the algorithm manager to run this strategy" alt="" coords="5,13,207,54"/>
+</map>

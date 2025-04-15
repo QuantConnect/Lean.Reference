@@ -1,0 +1,5 @@
+<map id="QuantConnect.Lean.Engine.DataFeeds.Enumerators.LiveDelistingEventProvider" name="QuantConnect.Lean.Engine.DataFeeds.Enumerators.LiveDelistingEventProvider">
+<area shape="rect" id="node1" title="Delisting event provider implementation which will source the delisting date based on new map files" alt="" coords="5,155,272,211"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Lean_1_1Engine_1_1DataFeeds_1_1Enumerators_1_1DelistingEventProvider.html" title="Event provider who will emit Delisting events" alt="" coords="53,80,224,107"/>
+<area shape="rect" id="node3" href="$interfaceQuantConnect_1_1Lean_1_1Engine_1_1DataFeeds_1_1Enumerators_1_1ITradableDateEventProvider.html" title="Interface for event providers for new tradable dates" alt="" coords="37,5,240,32"/>
+</map>

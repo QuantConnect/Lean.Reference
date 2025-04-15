@@ -1,0 +1,11 @@
+<map id="QuantConnect.Lean.Engine.TransactionHandlers.BacktestingTransactionHandler.WaitForOrderSubmission" name="QuantConnect.Lean.Engine.TransactionHandlers.BacktestingTransactionHandler.WaitForOrderSubmission">
+<area shape="rect" id="node1" title="For backtesting we will submit the order ourselves" alt="" coords="5,75,316,131"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Logging_1_1Log.html#af0e7955911bc7664b37661b2a303a9e3" title="Log error" alt="" coords="413,25,613,67"/>
+<area shape="rect" id="node4" href="$classQuantConnect_1_1Lean_1_1Engine_1_1TransactionHandlers_1_1BrokerageTransactionHandler.html#a477c8a3adb1be235898839e1cef7503e" title="Primary thread entry point to launch the transaction thread." alt="" coords="364,111,663,167"/>
+<area shape="rect" id="node3" href="$interfaceQuantConnect_1_1Logging_1_1ILogHandler.html#a35373a0c5d76031fa5ccf5dc39e5c25d" title="Write error message to log" alt="" coords="760,5,960,47"/>
+<area shape="rect" id="node5" href="$classQuantConnect_1_1Lean_1_1Engine_1_1TransactionHandlers_1_1BrokerageTransactionHandler.html#aba770aab9844310dafb4fb7c7794adc9" title="Handles a generic order request" alt="" coords="711,71,1009,127"/>
+<area shape="rect" id="node7" href="$classQuantConnect_1_1Lean_1_1Engine_1_1TransactionHandlers_1_1BrokerageTransactionHandler.html#abd6ad9f599d8b799f22df59a1d6bd1c9" title="Processes asynchronous events on the transaction handler&#39;s thread" alt="" coords="711,151,1009,207"/>
+<area shape="rect" id="node8" href="$classQuantConnect_1_1Logging_1_1Log.html#a4e55477fbc790846b74550a57198cea9" title="Log trace" alt="" coords="760,232,960,273"/>
+<area shape="rect" id="node6" href="$classQuantConnect_1_1Orders_1_1OrderRequest.html#aed73f8f311c9224866211078cd6caef1" title="Sets the Response for this request" alt="" coords="1057,79,1259,120"/>
+<area shape="rect" id="node9" href="$interfaceQuantConnect_1_1Logging_1_1ILogHandler.html#a3fb71a33ac66129240b63f12b6fcda3b" title="Write debug message to log" alt="" coords="1058,232,1258,273"/>
+</map>

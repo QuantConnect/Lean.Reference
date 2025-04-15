@@ -1,0 +1,5 @@
+<map id="QuantConnect.Data.Fundamental.PaymentstoSuppliersforGoodsandServicesCashFlowStatement" name="QuantConnect.Data.Fundamental.PaymentstoSuppliersforGoodsandServicesCashFlowStatement">
+<area shape="rect" id="node1" title="Cash paid to suppliers when purchasing goods or services by the company, in the direct cash flow." alt="" coords="5,155,303,211"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Data_1_1Fundamental_1_1MultiPeriodField.html" title="Abstract base class for multi&#45;period fields" alt="" coords="91,80,217,107"/>
+<area shape="rect" id="node3" title=" " alt="" coords="75,5,233,32"/>
+</map>

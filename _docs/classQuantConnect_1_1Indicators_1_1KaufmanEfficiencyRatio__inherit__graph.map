@@ -1,0 +1,5 @@
+<map id="QuantConnect.Indicators.KaufmanEfficiencyRatio" name="QuantConnect.Indicators.KaufmanEfficiencyRatio">
+<area shape="rect" id="node1" title="This indicator computes the Kaufman Efficiency Ratio (KER). The Kaufman Efficiency Ratio is calculate..." alt="" coords="32,95,219,136"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Indicators_1_1KaufmanAdaptiveMovingAverage.html" title="This indicator computes the Kaufman Adaptive Moving Average (KAMA). The Kaufman Adaptive Moving Avera..." alt="" coords="5,184,245,225"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Indicators_1_1WindowIndicator.html" title=" " alt="" coords="24,5,227,47"/>
+</map>

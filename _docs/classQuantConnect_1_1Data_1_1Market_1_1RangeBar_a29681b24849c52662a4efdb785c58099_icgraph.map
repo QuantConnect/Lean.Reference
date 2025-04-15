@@ -1,0 +1,5 @@
+<map id="QuantConnect.Data.Market.RangeBar.Update" name="QuantConnect.Data.Market.RangeBar.Update">
+<area shape="rect" id="node1" title="Updates this RangeBar with the specified values" alt="" coords="316,39,519,80"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Data_1_1Consolidators_1_1ClassicRangeConsolidator.html#a96d5c4b2ef7c073ec33d77e769fa3f10" title="Updates the current RangeBar being created with the given data. Additionally, if it&#39;s the case,..." alt="" coords="5,5,268,47"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Data_1_1Consolidators_1_1RangeConsolidator.html#a3bf4ba4ffb0136a57ebf62de8857a526" title="Updates the current RangeBar being created with the given data. Additionally, if it&#39;s the case,..." alt="" coords="13,71,260,112"/>
+</map>

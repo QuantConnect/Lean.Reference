@@ -1,0 +1,4 @@
+<map id="QuantConnect.Data.UniverseSelection.Universe.PerformSelection" name="QuantConnect.Data.UniverseSelection.Universe.PerformSelection">
+<area shape="rect" id="node1" title="Performs universe selection using the data specified" alt="" coords="308,13,568,54"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Lean_1_1Engine_1_1DataFeeds_1_1UniverseSelection.html#a7e4844c9b81427d9dbbd768efd24abff" title="Applies universe selection the the data feed and algorithm" alt="" coords="5,5,260,61"/>
+</map>

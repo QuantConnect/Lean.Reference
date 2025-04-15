@@ -1,0 +1,4 @@
+<map id="QuantConnect.Securities.Option.StrategyMatcher.OptionStrategyDefinitionMatch.RemoveFrom" name="QuantConnect.Securities.Option.StrategyMatcher.OptionStrategyDefinitionMatch.RemoveFrom">
+<area shape="rect" id="node1" title="Deducts the matched positions from the specified positions &#160;taking into account the multiplier" alt="" coords="5,5,276,61"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Securities_1_1Option_1_1StrategyMatcher_1_1OptionPositionCollection.html#a77bb3dfa80d0c3dae876401793e42f49" title="Creates a new collection that is the result of removing the specified positions" alt="" coords="324,5,563,61"/>
+</map>

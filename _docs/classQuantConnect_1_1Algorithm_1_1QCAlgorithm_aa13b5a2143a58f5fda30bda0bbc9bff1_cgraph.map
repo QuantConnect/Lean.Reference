@@ -1,0 +1,6 @@
+<map id="QuantConnect.Algorithm.QCAlgorithm.Symbol" name="QuantConnect.Algorithm.QCAlgorithm.Symbol">
+<area shape="rect" id="node1" title="Converts the string &#39;ticker&#39; symbol into a full Symbol object This requires that the string &#39;ticker&#39; ..." alt="" coords="5,39,279,80"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1SymbolCache.html#a16ba0efea4bf17d7a83e417a86beb1b5" title="Gets the Symbol object that is mapped to the specified string ticker symbol" alt="" coords="327,39,537,80"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1SymbolCache.html#a131a5bb015b9a603328d0eddfe90c610" title="Gets the Symbol object that is mapped to the specified string ticker symbol" alt="" coords="598,5,809,47"/>
+<area shape="rect" id="node4" href="$classQuantConnect_1_1Messages_1_1SymbolCache.html#adb5f5ff865e0cfbd0810684f9811b3eb" title="Returns a string message saying the given ticker could not be localized" alt="" coords="585,71,821,112"/>
+</map>

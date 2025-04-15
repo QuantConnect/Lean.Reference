@@ -1,0 +1,4 @@
+<map id="QuantConnect.Python.BasePythonWrapper.PythonRuntimeChecker.ConvertAndDispose&lt; T &gt;" name="QuantConnect.Python.BasePythonWrapper.PythonRuntimeChecker.ConvertAndDispose&lt; T &gt;">
+<area shape="rect" id="node1" title="Converts the given PyObject into the provided T &#160;type, generating an exception with a user&#45;friendly m..." alt="" coords="5,5,285,61"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Python_1_1BasePythonWrapper_1_1PythonRuntimeChecker.html#a207aa854ec7dfa2321c3e8dceb581260" title="Converts the given PyObject into the provided T &#160;type, generating an exception with a user&#45;friendly m..." alt="" coords="333,5,613,61"/>
+</map>

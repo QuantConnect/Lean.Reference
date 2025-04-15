@@ -1,0 +1,7 @@
+<map id="QuantConnect.Lean.Engine.Results.LiveTradingResultHandler.RuntimeError" name="QuantConnect.Lean.Engine.Results.LiveTradingResultHandler.RuntimeError">
+<area shape="rect" id="node1" title="Send a runtime error back to the users browser and highlight it red." alt="" coords="5,45,248,101"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Lean_1_1Engine_1_1Results_1_1LiveTradingResultHandler.html#adeaafc20650418f6a8fb789a2f02a926" title="Save an algorithm message to the log store. Uses a different timestamped method of adding messaging t..." alt="" coords="296,5,539,61"/>
+<area shape="rect" id="node5" href="$classQuantConnect_1_1Lean_1_1Engine_1_1Results_1_1BaseResultsHandler.html#a4820dd4d9928b45f83f686ee1bb8fbbf" title="Sets the algorithm state data" alt="" coords="303,85,532,141"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Logging_1_1Log.html#ad908daef9d61532d7d60c9dcfb9a3e0c" title="Output to the console" alt="" coords="587,13,787,54"/>
+<area shape="rect" id="node4" href="$interfaceQuantConnect_1_1Logging_1_1ILogHandler.html#a2c738b8e78dd5b54244bc68b969ba91d" title="Write debug message to log" alt="" coords="835,13,1035,54"/>
+</map>

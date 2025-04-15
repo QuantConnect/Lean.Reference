@@ -1,0 +1,6 @@
+<map id="QuantConnect.Data.Channel.Equals" name="QuantConnect.Data.Channel.Equals">
+<area shape="rect" id="node1" title="Determines whether the specified object is equal to the current object." alt="" coords="5,5,216,47"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Data_1_1Channel.html#a052ce192fc715f848271cc24872e8f72" title="Indicates whether the current object is equal to another object of the same type." alt="" coords="264,5,475,47"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Symbol.html#a7e35e01237b07491f85af730a04d7a16" title="Determines whether the specified T:System.Object is equal to the current T:System...." alt="" coords="523,13,737,39"/>
+<area shape="rect" id="node4" href="$classQuantConnect_1_1SecurityIdentifier.html#ab488583adab72515b2242de5bb81cddf" title="Indicates whether the current object is equal to another object of the same type." alt="" coords="785,5,1017,47"/>
+</map>

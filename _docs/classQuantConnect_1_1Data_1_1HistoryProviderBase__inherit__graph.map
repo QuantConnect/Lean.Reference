@@ -1,0 +1,11 @@
+<map id="QuantConnect.Data.HistoryProviderBase" name="QuantConnect.Data.HistoryProviderBase">
+<area shape="rect" id="node1" title="Provides a base type for all history providers" alt="" coords="383,116,583,157"/>
+<area shape="rect" id="node4" href="$classQuantConnect_1_1Lean_1_1Engine_1_1HistoricalData_1_1FakeHistoryProvider.html" title="Provides FAKE implementation of IHistoryProvider used for testing. FakeDataQueue" alt="" coords="635,5,884,47"/>
+<area shape="rect" id="node5" href="$classQuantConnect_1_1Lean_1_1Engine_1_1HistoricalData_1_1HistoryProviderManager.html" title="Provides an implementation of IHistoryProvider which acts as a wrapper to use multiple history provid..." alt="" coords="649,71,869,127"/>
+<area shape="rect" id="node6" href="$classQuantConnect_1_1Lean_1_1Engine_1_1HistoricalData_1_1SineHistoryProvider.html" title="Implements a History provider that always return a IEnumerable of Slice with prices following a sine ..." alt="" coords="635,152,883,193"/>
+<area shape="rect" id="node7" href="$classQuantConnect_1_1Lean_1_1Engine_1_1HistoricalData_1_1SynchronizingHistoryProvider.html" title="Provides an abstract implementation of IHistoryProvider which provides synchronization of multiple hi..." alt="" coords="631,218,888,274"/>
+<area shape="rect" id="node2" href="$interfaceQuantConnect_1_1Interfaces_1_1IHistoryProvider.html" title="Provides historical data to an algorithm at runtime" alt="" coords="208,123,335,150"/>
+<area shape="rect" id="node3" href="$interfaceQuantConnect_1_1Interfaces_1_1IDataProviderEvents.html" title="Events related to data providers" alt="" coords="5,123,160,150"/>
+<area shape="rect" id="node8" href="$classQuantConnect_1_1Lean_1_1Engine_1_1HistoricalData_1_1BrokerageHistoryProvider.html" title="Provides an implementation of IHistoryProvider that relies on a brokerage connection to retrieve hist..." alt="" coords="936,178,1168,234"/>
+<area shape="rect" id="node9" href="$classQuantConnect_1_1Lean_1_1Engine_1_1HistoricalData_1_1SubscriptionDataReaderHistoryProvider.html" title="Provides an implementation of IHistoryProvider that uses BaseData instances to retrieve historical da..." alt="" coords="937,258,1167,314"/>
+</map>

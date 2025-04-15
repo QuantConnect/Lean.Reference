@@ -1,0 +1,8 @@
+<map id="QuantConnect.Securities.IVolatilityModel" name="QuantConnect.Securities.IVolatilityModel">
+<area shape="rect" id="node1" title="Represents a model that computes the volatility of a security" alt="" coords="5,104,192,145"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Securities_1_1Volatility_1_1BaseVolatilityModel.html" title="Represents a base model that computes the volatility of a security" alt="" coords="240,104,452,145"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Python_1_1VolatilityModelPythonWrapper.html" title="Provides a volatility model that wraps a PyObject object that represents a model that computes the vo..." alt="" coords="541,5,766,47"/>
+<area shape="rect" id="node4" href="$classQuantConnect_1_1Securities_1_1IndicatorVolatilityModel.html" title="Provides an implementation of IVolatilityModel that uses an indicator to compute its value" alt="" coords="560,71,747,112"/>
+<area shape="rect" id="node5" href="$classQuantConnect_1_1Securities_1_1RelativeStandardDeviationVolatilityModel.html" title="Provides an implementation of IVolatilityModel that computes the relative standard deviation as the v..." alt="" coords="506,136,801,177"/>
+<area shape="rect" id="node6" href="$classQuantConnect_1_1Securities_1_1StandardDeviationOfReturnsVolatilityModel.html" title="Provides an implementation of IVolatilityModel that computes the annualized sample standard deviation..." alt="" coords="500,201,807,243"/>
+</map>

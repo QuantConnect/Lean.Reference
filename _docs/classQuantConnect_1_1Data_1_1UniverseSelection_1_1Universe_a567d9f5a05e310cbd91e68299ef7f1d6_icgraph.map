@@ -1,0 +1,7 @@
+<map id="QuantConnect.Data.UniverseSelection.Universe.OnSelectionChanged" name="QuantConnect.Data.UniverseSelection.Universe.OnSelectionChanged">
+<area shape="rect" id="node1" title="Event invocator for the SelectionChanged event" alt="" coords="659,85,885,141"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Data_1_1UniverseSelection_1_1FineFundamentalFilteredUniverse.html#a216d74171d5be15bbf04af7576ebf2e7" title="Initializes a new instance of the FineFundamentalFilteredUniverse class" alt="" coords="308,5,611,61"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Data_1_1UniverseSelection_1_1FundamentalFilteredUniverse.html#aa2a40a8cf2dd6f7b4ab9bf40968a0168" title="Initializes a new instance of the FundamentalFilteredUniverse class" alt="" coords="318,85,601,141"/>
+<area shape="rect" id="node4" href="$classQuantConnect_1_1Data_1_1UniverseSelection_1_1Universe.html#a34a60454813c0283f0ba287dd09fe018" title="Performs universe selection using the data specified" alt="" coords="329,166,589,207"/>
+<area shape="rect" id="node5" href="$classQuantConnect_1_1Lean_1_1Engine_1_1DataFeeds_1_1UniverseSelection.html#a7e4844c9b81427d9dbbd768efd24abff" title="Applies universe selection the the data feed and algorithm" alt="" coords="5,159,260,215"/>
+</map>

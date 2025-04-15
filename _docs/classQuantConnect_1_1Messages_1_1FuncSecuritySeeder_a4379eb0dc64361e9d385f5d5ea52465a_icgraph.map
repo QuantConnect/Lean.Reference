@@ -1,0 +1,4 @@
+<map id="QuantConnect.Messages.FuncSecuritySeeder.UnableToSecurityPrice" name="QuantConnect.Messages.FuncSecuritySeeder.UnableToSecurityPrice">
+<area shape="rect" id="node1" title="Returns a string message saying it was impossible to seed price for the given security" alt="" coords="292,5,560,47"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Securities_1_1FuncSecuritySeeder.html#afca3381afc2708e86842ccb94918046d" title="Seed the security" alt="" coords="5,5,244,47"/>
+</map>

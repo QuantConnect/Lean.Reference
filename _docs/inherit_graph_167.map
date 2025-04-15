@@ -1,0 +1,7 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$classQuantConnect_1_1Python_1_1BasePythonWrapper.html" title=" " alt="" coords="5,5,236,61"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Python_1_1DividendYieldModelPythonWrapper.html" title="Wraps a PyObject object that represents a dividend yield model" alt="" coords="284,14,509,55"/>
+<area shape="rect" id="node3" href="$interfaceQuantConnect_1_1Data_1_1IDividendYieldModel.html" title="Represents a model that provides dividend yield data" alt="" coords="13,86,228,127"/>
+<area shape="rect" id="node4" href="$classQuantConnect_1_1Data_1_1ConstantDividendYieldModel.html" title="Constant dividend yield model" alt="" coords="291,83,502,125"/>
+<area shape="rect" id="node5" href="$classQuantConnect_1_1Data_1_1DividendYieldProvider.html" title="Estimated annualized continuous dividend yield at given date" alt="" coords="291,149,502,190"/>
+</map>

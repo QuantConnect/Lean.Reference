@@ -1,0 +1,4 @@
+<map id="QuantConnect.Data.Fundamental.EarningReportsPeriodType" name="QuantConnect.Data.Fundamental.EarningReportsPeriodType">
+<area shape="rect" id="node1" title="The nature of the period covered by an individual set of financial results. The output can be: Quarte..." alt="" coords="5,80,248,121"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Data_1_1Fundamental_1_1MultiPeriodField.html" title=" " alt="" coords="29,5,224,32"/>
+</map>

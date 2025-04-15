@@ -1,0 +1,5 @@
+<map id="QuantConnect.Indicators.Correlation.ComputeIndicator" name="QuantConnect.Indicators.Correlation.ComputeIndicator">
+<area shape="rect" id="node1" title="Computes the correlation value usuing symbols values correlation values assing into _correlation prop..." alt="" coords="5,13,220,54"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Extensions.html#a6efe780386ade38c19c4eeb361d16bd6" title="Casts the specified input value to a decimal while acknowledging the overflow conditions" alt="" coords="268,13,461,54"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Messages_1_1Extensions.html#ad9f31f67e35d185b59453c62860cd879" title="Returns a string message saying it is impossible to cast the given non&#45;finite floating&#45;point value as..." alt="" coords="509,5,791,61"/>
+</map>

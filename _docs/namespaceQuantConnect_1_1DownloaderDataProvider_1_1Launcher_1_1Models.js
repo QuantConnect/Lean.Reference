@@ -1,0 +1,5 @@
+var namespaceQuantConnect_1_1DownloaderDataProvider_1_1Launcher_1_1Models =
+[
+    [ "Constants", "namespaceQuantConnect_1_1DownloaderDataProvider_1_1Launcher_1_1Models_1_1Constants.html", "namespaceQuantConnect_1_1DownloaderDataProvider_1_1Launcher_1_1Models_1_1Constants" ],
+    [ "BrokerageDataDownloader", "classQuantConnect_1_1DownloaderDataProvider_1_1Launcher_1_1Models_1_1BrokerageDataDownloader.html", "classQuantConnect_1_1DownloaderDataProvider_1_1Launcher_1_1Models_1_1BrokerageDataDownloader" ]
+];

@@ -1,0 +1,5 @@
+<map id="QuantConnect.Data.Fundamental.NetIncomeDiscontinuousOperationsIncomeStatement" name="QuantConnect.Data.Fundamental.NetIncomeDiscontinuousOperationsIncomeStatement">
+<area shape="rect" id="node1" title="To be classified as discontinued operations, if both of the following conditions are met: 1: The oper..." alt="" coords="5,155,261,211"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Data_1_1Fundamental_1_1MultiPeriodField.html" title="Abstract base class for multi&#45;period fields" alt="" coords="70,80,197,107"/>
+<area shape="rect" id="node3" title=" " alt="" coords="55,5,212,32"/>
+</map>

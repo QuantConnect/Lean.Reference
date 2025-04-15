@@ -1,0 +1,7 @@
+<map id="QuantConnect.Lean.Engine.Setup.BrokerageSetupHandler.GetOpenOrders" name="QuantConnect.Lean.Engine.Setup.BrokerageSetupHandler.GetOpenOrders">
+<area shape="rect" id="node1" title="Get the open orders from a brokerage. Adds Orders.Order and Orders.OrderTicket to the transaction han..." alt="" coords="5,63,248,119"/>
+<area shape="rect" id="node2" href="$interfaceQuantConnect_1_1Interfaces_1_1IBrokerage.html#a7000d38d5bc4cab41a8e6a7bbd2e8c8f" title="Gets all open orders on the account" alt="" coords="298,5,494,47"/>
+<area shape="rect" id="node3" href="$interfaceQuantConnect_1_1Interfaces_1_1IAlgorithm.html#a02804905423f5ada9758dbb92f4e1f10" title="Converts the string &#39;ticker&#39; symbol into a full Symbol object This requires that the string &#39;ticker&#39; ..." alt="" coords="303,71,489,112"/>
+<area shape="rect" id="node4" href="$classQuantConnect_1_1Logging_1_1Log.html#a4e55477fbc790846b74550a57198cea9" title="Log trace" alt="" coords="296,136,496,177"/>
+<area shape="rect" id="node5" href="$interfaceQuantConnect_1_1Logging_1_1ILogHandler.html#a3fb71a33ac66129240b63f12b6fcda3b" title="Write debug message to log" alt="" coords="544,136,744,177"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="QuantConnect.Algorithm.QCAlgorithm.GetDataFrame" name="QuantConnect.Algorithm.QCAlgorithm.GetDataFrame">
+<area shape="rect" id="node1" title="Converts an enumerable of Slice into a Python Pandas data frame" alt="" coords="327,39,600,80"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Algorithm_1_1QCAlgorithm.html#a80b86c4d204ee2a9b90628ddc9a765b9" title="Gets the historical data for the specified symbol. The exact number of bars will be returned...." alt="" coords="5,5,279,47"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Research_1_1QuantBook.html#aec46e9c9aa3c06089616c69f4eb777b7" title="Will return the universe selection data and will optionally perform selection" alt="" coords="31,71,253,112"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="QuantConnect.Api.ReadChartResponse" name="QuantConnect.Api.ReadChartResponse">
+<area shape="rect" id="node1" title="Class for wrapping Read Chart response" alt="" coords="5,155,216,196"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Api_1_1RestResponse.html" title="Base API response class for the QuantConnect API." alt="" coords="53,80,168,107"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Api_1_1StringRepresentation.html" title="Class to return the string representation of an API response class" alt="" coords="31,5,190,32"/>
+</map>

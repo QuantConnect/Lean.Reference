@@ -1,0 +1,4 @@
+<map id="QuantConnect.Securities.ContractSecurityFilterUniverse.AdjustExpirationReferenceDate" name="QuantConnect.Securities.ContractSecurityFilterUniverse.AdjustExpirationReferenceDate">
+<area shape="rect" id="node1" title="Adjust the reference date used for expiration filtering. By default it just returns the same date." alt="" coords="333,13,560,69"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Securities_1_1ContractSecurityFilterUniverse.html#a4d453d09500c1671dceddf7355deec8c" title="Applies filter selecting options contracts based on a range of expiration dates relative to the curre..." alt="" coords="5,5,285,76"/>
+</map>

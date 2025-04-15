@@ -1,0 +1,6 @@
+<map id="QuantConnect.Messages.Symbol.NoUnderlyingForOption" name="QuantConnect.Messages.Symbol.NoUnderlyingForOption">
+<area shape="rect" id="node1" title="Returns a string message saying no underlying type exists for the given option SecurityType" alt="" coords="825,5,1065,47"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Symbol.html#a286d1c5264b2903fce067284095c5c2a" title="Determines the underlying SecurityType based on the option Symbol&#39;s SecurityType GetOptionTypeFromUnd..." alt="" coords="512,5,777,47"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Util_1_1LeanDataPathComponents.html#a0d24d06405609c2f8b3107c6b41ba57d" title="Parses the specified path into a new instance of the LeanDataPathComponents class" alt="" coords="257,5,464,47"/>
+<area shape="rect" id="node4" href="$classQuantConnect_1_1ToolBox_1_1LeanParser.html#abd1bb9fca7f05ea516d50523b8218593" title="Parses the specified input stream into an enumerable of data" alt="" coords="5,5,209,47"/>
+</map>

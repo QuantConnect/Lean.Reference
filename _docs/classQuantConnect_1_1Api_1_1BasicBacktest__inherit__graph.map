@@ -1,0 +1,7 @@
+<map id="QuantConnect.Api.BasicBacktest" name="QuantConnect.Api.BasicBacktest">
+<area shape="rect" id="node1" title="Base class for backtest result object response" alt="" coords="100,155,335,181"/>
+<area shape="rect" id="node4" href="$classQuantConnect_1_1Api_1_1Backtest.html" title="Results object class. Results are exhaust from backtest or live algorithms running in LEAN" alt="" coords="5,237,205,263"/>
+<area shape="rect" id="node5" href="$classQuantConnect_1_1Api_1_1BacktestSummary.html" title="Result object class for the List Backtest response from the API" alt="" coords="229,229,429,271"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Api_1_1RestResponse.html" title="Base API response class for the QuantConnect API." alt="" coords="160,80,275,107"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Api_1_1StringRepresentation.html" title="Class to return the string representation of an API response class" alt="" coords="138,5,297,32"/>
+</map>

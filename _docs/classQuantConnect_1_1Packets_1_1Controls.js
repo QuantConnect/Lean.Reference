@@ -1,0 +1,25 @@
+var classQuantConnect_1_1Packets_1_1Controls =
+[
+    [ "Controls", "classQuantConnect_1_1Packets_1_1Controls.html#ac5ee3b976bdfed8d5d09c87d4f87ac36", null ],
+    [ "MaximumRuntimeMinutes", "classQuantConnect_1_1Packets_1_1Controls.html#ae48e27036697f867acc52931fbe47e16", null ],
+    [ "MinuteLimit", "classQuantConnect_1_1Packets_1_1Controls.html#a4bf8fc3920427b18b48682ab1d39244d", null ],
+    [ "SecondLimit", "classQuantConnect_1_1Packets_1_1Controls.html#a50f2cce68829f5cf1550f5f983a34071", null ],
+    [ "TickLimit", "classQuantConnect_1_1Packets_1_1Controls.html#a323c0aa83de24bf3070aac1601236bc5", null ],
+    [ "RamAllocation", "classQuantConnect_1_1Packets_1_1Controls.html#a8434e6e682611e3d3a6a36a33fc6d606", null ],
+    [ "CpuAllocation", "classQuantConnect_1_1Packets_1_1Controls.html#a81c58b8477103df46c129e0305c222d9", null ],
+    [ "LiveLogLimit", "classQuantConnect_1_1Packets_1_1Controls.html#a56d9d922de21c2d1ec27d64026467e32", null ],
+    [ "BacktestLogLimit", "classQuantConnect_1_1Packets_1_1Controls.html#a00d26d892dd8f5c00b00e89f5966b6cd", null ],
+    [ "DailyLogLimit", "classQuantConnect_1_1Packets_1_1Controls.html#a6e6ef5c13d2aa0ae2958ca147f1d12b6", null ],
+    [ "RemainingLogAllowance", "classQuantConnect_1_1Packets_1_1Controls.html#ae902cbe56b258ce7edaafdf1406f3ad1", null ],
+    [ "BacktestingMaxInsights", "classQuantConnect_1_1Packets_1_1Controls.html#a8c22619754b0964c52fbe9dca286dc1a", null ],
+    [ "BacktestingMaxOrders", "classQuantConnect_1_1Packets_1_1Controls.html#a7ac759400305ec76986df09145d8f5fb", null ],
+    [ "MaximumDataPointsPerChartSeries", "classQuantConnect_1_1Packets_1_1Controls.html#a5ded19248734c289a79c753d298be632", null ],
+    [ "MaximumChartSeries", "classQuantConnect_1_1Packets_1_1Controls.html#a9a0786442f94b3feef3f2a2791f01459", null ],
+    [ "SecondTimeOut", "classQuantConnect_1_1Packets_1_1Controls.html#a50c78e6f43b68a7e25b7d54dba320d33", null ],
+    [ "TrainingLimits", "classQuantConnect_1_1Packets_1_1Controls.html#a265f7a157ad7c2e19b218856463e2740", null ],
+    [ "StorageLimit", "classQuantConnect_1_1Packets_1_1Controls.html#a1dd0c5bb5743cb69f33341c300462e18", null ],
+    [ "StorageFileCount", "classQuantConnect_1_1Packets_1_1Controls.html#a314ecc63870bf875bb7fe35d32dd4997", null ],
+    [ "StoragePermissions", "classQuantConnect_1_1Packets_1_1Controls.html#af82547e1dbcb8bc653450a770a8fdb36", null ],
+    [ "PersistenceIntervalSeconds", "classQuantConnect_1_1Packets_1_1Controls.html#a6b7b6674a6a6c18529838384cad6c3ac", null ],
+    [ "CreditCost", "classQuantConnect_1_1Packets_1_1Controls.html#a846af2e1beb693bd6e59c6482616bdfc", null ]
+];

@@ -1,0 +1,9 @@
+<map id="QuantConnect.Securities.SecurityManager.CreateSecurity" name="QuantConnect.Securities.SecurityManager.CreateSecurity">
+<area shape="rect" id="node1" title="Creates a new security" alt="" coords="673,163,904,204"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Algorithm_1_1QCAlgorithm.html#a0f7ec3a574e47b4ac26448590c4ef685" title="Creates and adds a new single Option contract to the algorithm" alt="" coords="339,72,613,113"/>
+<area shape="rect" id="node5" href="$classQuantConnect_1_1Algorithm_1_1QCAlgorithm.html#afcdaf47586751fe6105f43d044b7cf70" title="Set a required SecurityType&#45;symbol and resolution for algorithm" alt="" coords="5,136,279,177"/>
+<area shape="rect" id="node6" href="$classQuantConnect_1_1Report_1_1PortfolioLooperAlgorithm.html#a88248cf95bee5a163b9581961df1409d" title="Initializes all the proper Securities from the orders provided by the user" alt="" coords="366,192,586,233"/>
+<area shape="rect" id="node7" href="$classQuantConnect_1_1ToolBox_1_1RandomDataGenerator_1_1RandomDataGenerator.html#ada63eccf46a461c8a094c51c75eb0a28" title="Starts data generation" alt="" coords="327,257,625,299"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Algorithm_1_1QCAlgorithm.html#ada6451c3b45f03209b586c6bc661ccb0" title="Adds a future option contract to the algorithm." alt="" coords="5,5,279,47"/>
+<area shape="rect" id="node4" href="$classQuantConnect_1_1Algorithm_1_1QCAlgorithm.html#a87673f13f7831209b9cea29f860d63c3" title="Adds an index option contract to the algorithm." alt="" coords="5,71,279,112"/>
+</map>

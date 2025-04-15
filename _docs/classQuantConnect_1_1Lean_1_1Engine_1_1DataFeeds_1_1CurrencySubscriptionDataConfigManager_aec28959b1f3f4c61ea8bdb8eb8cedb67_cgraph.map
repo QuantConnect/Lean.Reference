@@ -1,0 +1,4 @@
+<map id="QuantConnect.Lean.Engine.DataFeeds.CurrencySubscriptionDataConfigManager.UpdatePendingSubscriptionDataConfigs" name="QuantConnect.Lean.Engine.DataFeeds.CurrencySubscriptionDataConfigManager.UpdatePendingSubscriptionDataConfigs">
+<area shape="rect" id="node1" title="Will update pending currency SubscriptionDataConfig" alt="" coords="5,5,339,76"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Lean_1_1Engine_1_1DataFeeds_1_1CurrencySubscriptionDataConfigManager.html#a39c7f60689862cf7a9b7877b6a1c69f7" title="Checks the current SubscriptionDataConfig and adds new necessary currency pair feeds to provide real ..." alt="" coords="387,5,723,76"/>
+</map>

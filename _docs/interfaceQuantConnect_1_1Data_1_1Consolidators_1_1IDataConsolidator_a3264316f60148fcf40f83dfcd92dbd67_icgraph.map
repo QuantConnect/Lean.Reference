@@ -1,0 +1,8 @@
+<map id="QuantConnect.Data.Consolidators.IDataConsolidator.Update" name="QuantConnect.Data.Consolidators.IDataConsolidator.Update">
+<area shape="rect" id="node1" title="Updates this consolidator with the specified data" alt="" coords="380,151,627,193"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1ToolBox_1_1AlgoSeekFuturesConverter_1_1AlgoSeekFuturesProcessor.html#a0febf12b8533c9644f597bdd879e6ecc" title="Process the tick; add to the con" alt="" coords="29,5,308,61"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Data_1_1Consolidators_1_1SequentialConsolidator.html#aad1044676f058aea343ef20d90f2b159" title="Creates a new consolidator that will pump date through the first, and then the output of the first in..." alt="" coords="5,86,332,127"/>
+<area shape="rect" id="node4" href="$classQuantConnect_1_1ToolBox_1_1TickAggregator.html#a5c1c3756a78e6b125f83b1a95e46291d" title="Updates the consolidator with the specified bar." alt="" coords="69,151,269,193"/>
+<area shape="rect" id="node5" href="$classQuantConnect_1_1Data_1_1Consolidators_1_1SequentialConsolidator.html#a1b2999c893aa7d70b37a69eac64835e7" title="Updates this consolidator with the specified data" alt="" coords="45,217,292,258"/>
+<area shape="rect" id="node6" href="$classQuantConnect_1_1Data_1_1Common_1_1MarketHourAwareConsolidator.html#ada2633845f46ba47d02bc3d8d696383f" title="Updates this consolidator with the specified data" alt="" coords="33,282,304,323"/>
+</map>

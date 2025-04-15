@@ -1,0 +1,5 @@
+<map id="QuantConnect.Orders.OrderTicket.InvalidSubmitRequest" name="QuantConnect.Orders.OrderTicket.InvalidSubmitRequest">
+<area shape="rect" id="node1" title="Creates a new OrderTicket that represents trying to submit a new order that had errors embodied in th..." alt="" coords="5,39,213,80"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Orders_1_1OrderTicket.html#a98ce7c56ada5180837251daf129901be" title="Initializes a new instance of the OrderTicket class" alt="" coords="261,5,463,47"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Orders_1_1OrderRequest.html#aed73f8f311c9224866211078cd6caef1" title="Sets the Response for this request" alt="" coords="261,71,463,112"/>
+</map>

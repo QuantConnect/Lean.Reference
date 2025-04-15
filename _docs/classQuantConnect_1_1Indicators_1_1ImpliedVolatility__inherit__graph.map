@@ -1,0 +1,5 @@
+<map id="QuantConnect.Indicators.ImpliedVolatility" name="QuantConnect.Indicators.ImpliedVolatility">
+<area shape="rect" id="node1" title="Implied Volatility indicator that calculate the IV of an option using Black&#45;Scholes Model" alt="" coords="5,169,192,211"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Indicators_1_1OptionIndicatorBase.html" title="To provide a base class for option indicator" alt="" coords="21,95,176,121"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Indicators_1_1MultiSymbolIndicator.html" title=" " alt="" coords="18,5,179,47"/>
+</map>

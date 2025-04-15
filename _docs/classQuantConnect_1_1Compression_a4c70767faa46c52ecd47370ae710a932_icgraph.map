@@ -1,0 +1,4 @@
+<map id="QuantConnect.Compression.ZipBytesAsync" name="QuantConnect.Compression.ZipBytesAsync">
+<area shape="rect" id="node1" title="Performs an in memory zip of the specified bytes in the target stream" alt="" coords="260,5,467,47"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Compression.html#aae9cacdc499c6a1e6a6700d2abac7842" title="Performs an in memory zip of the specified bytes" alt="" coords="5,5,212,47"/>
+</map>

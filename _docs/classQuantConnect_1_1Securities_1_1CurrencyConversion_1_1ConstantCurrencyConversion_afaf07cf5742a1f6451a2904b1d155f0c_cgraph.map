@@ -1,0 +1,4 @@
+<map id="QuantConnect.Securities.CurrencyConversion.ConstantCurrencyConversion.Null" name="QuantConnect.Securities.CurrencyConversion.ConstantCurrencyConversion.Null">
+<area shape="rect" id="node1" title="Returns an instance of ConstantCurrencyConversion that represents a null conversion" alt="" coords="5,5,279,61"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Securities_1_1CurrencyConversion_1_1ConstantCurrencyConversion.html#a3a640cbf99977dfe3ef0c631fd8ae6aa" title="Initializes a new instance of the ConstantCurrencyConversion class." alt="" coords="327,5,615,61"/>
+</map>

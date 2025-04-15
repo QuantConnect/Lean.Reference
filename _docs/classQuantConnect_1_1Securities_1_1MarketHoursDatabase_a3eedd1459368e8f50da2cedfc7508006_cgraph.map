@@ -1,0 +1,4 @@
+<map id="QuantConnect.Securities.MarketHoursDatabase.TryGetEntry" name="QuantConnect.Securities.MarketHoursDatabase.TryGetEntry">
+<area shape="rect" id="node1" title="Tries to get the entry for the specified market/symbol/security&#45;type" alt="" coords="5,20,252,61"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Securities_1_1BaseSecurityDatabase.html#a5388d4cc32413627c4b2574c40f227a0" title="Gets the correct string symbol to use as a database key" alt="" coords="300,5,603,76"/>
+</map>

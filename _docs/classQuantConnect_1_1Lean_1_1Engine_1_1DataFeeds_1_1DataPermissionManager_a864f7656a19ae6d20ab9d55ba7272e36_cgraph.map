@@ -1,0 +1,6 @@
+<map id="QuantConnect.Lean.Engine.DataFeeds.DataPermissionManager.Initialize" name="QuantConnect.Lean.Engine.DataFeeds.DataPermissionManager.Initialize">
+<area shape="rect" id="node1" title="Initialize the data permission manager" alt="" coords="5,43,264,99"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Lean_1_1Engine_1_1DataFeeds_1_1DataChannelProvider.html#aa890df7d867f8b6d1efbef217948c791" title="Initializes the instance with an algorithm node packet" alt="" coords="312,5,548,61"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Logging_1_1Log.html#a4e55477fbc790846b74550a57198cea9" title="Log trace" alt="" coords="330,86,530,127"/>
+<area shape="rect" id="node4" href="$interfaceQuantConnect_1_1Logging_1_1ILogHandler.html#a3fb71a33ac66129240b63f12b6fcda3b" title="Write debug message to log" alt="" coords="596,86,796,127"/>
+</map>

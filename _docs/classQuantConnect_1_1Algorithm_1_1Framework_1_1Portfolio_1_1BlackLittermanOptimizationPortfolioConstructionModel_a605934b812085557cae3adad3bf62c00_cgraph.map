@@ -1,0 +1,5 @@
+<map id="QuantConnect.Algorithm.Framework.Portfolio.BlackLittermanOptimizationPortfolioConstructionModel.DetermineTargetPercent" name="QuantConnect.Algorithm.Framework.Portfolio.BlackLittermanOptimizationPortfolioConstructionModel.DetermineTargetPercent">
+<area shape="rect" id="node1" title="Will determine the target percent for each insight" alt="" coords="5,45,367,101"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Algorithm_1_1Framework_1_1Portfolio_1_1BlackLittermanOptimizationPortfolioConstructionModel.html#a22d8b5629bbe5c38c6c980ce9fa214ea" title="Calculate equilibrium returns and covariance" alt="" coords="415,5,765,61"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Algorithm_1_1Framework_1_1Portfolio_1_1BlackLittermanOptimizationPortfolioConstructionModel.html#af0bb98e469f3f784fab4d46a19723b61" title="Generate views from multiple alpha models" alt="" coords="448,85,732,141"/>
+</map>

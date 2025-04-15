@@ -1,0 +1,4 @@
+<map id="QuantConnect.Securities.Option.ConstantQLRiskFreeRateEstimator" name="QuantConnect.Securities.Option.ConstantQLRiskFreeRateEstimator">
+<area shape="rect" id="node1" title="Class implements default flat risk free curve, implementing IQLRiskFreeRateEstimator." alt="" coords="5,80,236,136"/>
+<area shape="rect" id="node2" href="$interfaceQuantConnect_1_1Securities_1_1Option_1_1IQLRiskFreeRateEstimator.html" title="Defines QuantLib risk free rate estimator for option pricing model." alt="" coords="25,5,217,32"/>
+</map>

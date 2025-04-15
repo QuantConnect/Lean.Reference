@@ -1,0 +1,4 @@
+<map id="QuantConnect.Messages.GroupOrderExtensions.InsufficientBuyingPowerForOrders" name="QuantConnect.Messages.GroupOrderExtensions.InsufficientBuyingPowerForOrders">
+<area shape="rect" id="node1" title="Returns a string message saying there is insufficient buying power to complete the given orders" alt="" coords="299,5,549,61"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Orders_1_1GroupOrderExtensions.html#a47402588b3427831fc1f143c08863dea" title="Returns an error string message saying there is insufficient buying power for the given orders associ..." alt="" coords="5,13,251,54"/>
+</map>

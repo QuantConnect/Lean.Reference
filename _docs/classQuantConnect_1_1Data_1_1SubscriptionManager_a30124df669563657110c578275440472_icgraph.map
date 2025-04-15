@@ -1,0 +1,6 @@
+<map id="QuantConnect.Data.SubscriptionManager.AddConsolidator" name="QuantConnect.Data.SubscriptionManager.AddConsolidator">
+<area shape="rect" id="node1" title="Add a consolidator for the symbol" alt="" coords="404,79,637,120"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Data_1_1SubscriptionManager.html#aa2034d1091ab4ad767a309464627d8fc" title="Add a custom python consolidator for the symbol" alt="" coords="64,5,297,47"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Algorithm_1_1Framework_1_1Alphas_1_1EmaCrossAlphaModel_1_1SymbolData.html#afd6f27259aac1fc4e453aaab31e51823" title="Initializes an instance of the class SymbolData with the given arguments" alt="" coords="31,71,331,127"/>
+<area shape="rect" id="node4" href="$classQuantConnect_1_1Algorithm_1_1Framework_1_1Alphas_1_1MacdAlphaModel_1_1SymbolData.html#ae7da29d45ecf4119217196c2b54f93de" title="Initializes an instance of the SymbolData class with the given arguments" alt="" coords="5,152,356,193"/>
+</map>

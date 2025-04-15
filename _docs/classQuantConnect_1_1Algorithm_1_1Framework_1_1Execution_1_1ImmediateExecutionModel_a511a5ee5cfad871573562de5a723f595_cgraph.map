@@ -1,0 +1,5 @@
+<map id="QuantConnect.Algorithm.Framework.Execution.ImmediateExecutionModel.Execute" name="QuantConnect.Algorithm.Framework.Execution.ImmediateExecutionModel.Execute">
+<area shape="rect" id="node1" title="Immediately submits orders for the specified portfolio targets." alt="" coords="5,39,324,80"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Orders_1_1OrderSizing.html#a842c9dd8cdb14899938bf6b75b159f24" title="Gets the remaining quantity to be ordered to reach the specified target quantity." alt="" coords="403,5,615,47"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Algorithm_1_1QCAlgorithm.html#ad9061f61a3835394d616c79d7e602cc8" title="Market order implementation: Send a market order and wait for it to be filled." alt="" coords="372,71,645,112"/>
+</map>

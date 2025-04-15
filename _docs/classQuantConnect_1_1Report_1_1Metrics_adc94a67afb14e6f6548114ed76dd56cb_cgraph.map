@@ -1,0 +1,6 @@
+<map id="QuantConnect.Report.Metrics.Exposure" name="QuantConnect.Report.Metrics.Exposure">
+<area shape="rect" id="node1" title="Strategy long/short exposure by asset class" alt="" coords="5,5,223,47"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Report_1_1PortfolioLooper.html#a7890d0a50af6d8c64a10865f34206496" title="Gets the point in time portfolio over multiple deployments" alt="" coords="271,5,491,47"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1Logging_1_1Log.html#a4e55477fbc790846b74550a57198cea9" title="Log trace" alt="" coords="539,5,739,47"/>
+<area shape="rect" id="node4" href="$interfaceQuantConnect_1_1Logging_1_1ILogHandler.html#a3fb71a33ac66129240b63f12b6fcda3b" title="Write debug message to log" alt="" coords="787,5,987,47"/>
+</map>

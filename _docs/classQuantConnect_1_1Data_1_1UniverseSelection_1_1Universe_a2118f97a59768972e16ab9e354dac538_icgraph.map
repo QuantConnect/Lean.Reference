@@ -1,0 +1,4 @@
+<map id="QuantConnect.Data.UniverseSelection.Universe.ContainsMember" name="QuantConnect.Data.UniverseSelection.Universe.ContainsMember">
+<area shape="rect" id="node1" title="Determines whether or not the specified symbol is currently a member of this universe" alt="" coords="360,5,619,47"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Data_1_1UniverseSelection_1_1UniverseExtensions.html#a1a0e2b94227485c3063471397d35c20c" title="Creates a new universe that restricts the universe selection data to symbols that passed the first un..." alt="" coords="5,5,312,47"/>
+</map>

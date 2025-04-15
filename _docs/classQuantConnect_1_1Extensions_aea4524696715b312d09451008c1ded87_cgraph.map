@@ -1,0 +1,4 @@
+<map id="QuantConnect.Extensions.ProtobufSerialize" name="QuantConnect.Extensions.ProtobufSerialize">
+<area shape="rect" id="node1" title="Serialize a list of ticks using protobuf" alt="" coords="5,5,199,47"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Extensions.html#a238334913328e063ce8412f87a043ab1" title="Will return a memory stream using the RecyclableMemoryStreamManager instance." alt="" coords="247,5,440,47"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="QuantConnect.Algorithm.QCAlgorithm.AddUniverse" name="QuantConnect.Algorithm.QCAlgorithm.AddUniverse">
+<area shape="rect" id="node1" title="Adds the universe to the algorithm" alt="" coords="5,5,279,47"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Securities_1_1UniverseManager.html#aa27b02b5154e353f41f29d0b280f938e" title="Adds an item to the T:System.Collections.Generic.ICollection`1." alt="" coords="327,5,513,47"/>
+</map>

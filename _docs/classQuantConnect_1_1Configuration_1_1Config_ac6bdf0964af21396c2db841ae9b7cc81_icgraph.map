@@ -1,0 +1,5 @@
+<map id="QuantConnect.Configuration.Config.SetConfigurationFile" name="QuantConnect.Configuration.Config.SetConfigurationFile">
+<area shape="rect" id="node1" title="Set configuration file on&#45;fly" alt="" coords="488,13,697,54"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Configuration_1_1Config.html#a0e4793a3679d8f215ebfdbece7d87304" title="Merge CLI arguments with configuration file + load custom config file via CLI arg" alt="" coords="167,5,440,61"/>
+<area shape="rect" id="node3" href="$classProgram.html#ada72f8d1518f89bc2e6ad807d5059564" title="The main entry point for the application." alt="" coords="5,20,119,47"/>
+</map>

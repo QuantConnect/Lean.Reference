@@ -1,0 +1,5 @@
+<map id="QuantConnect.Data.Fundamental.FundamentalUniverse.Reader" name="QuantConnect.Data.Fundamental.FundamentalUniverse.Reader">
+<area shape="rect" id="node1" title="Will read a new instance from the given line" alt="" coords="5,5,248,47"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1SecurityIdentifier.html#a89ccb2161613f17d18ca3dc1e9eb3872" title="Parses the specified string into a SecurityIdentifier The string must be a 40 digit number...." alt="" coords="296,5,528,47"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1SecurityIdentifier.html#a59bd74be4ec55a0e4631af9e10f65d7c" title="Attempts to parse the specified &#160;as a SecurityIdentifier." alt="" coords="576,5,808,47"/>
+</map>

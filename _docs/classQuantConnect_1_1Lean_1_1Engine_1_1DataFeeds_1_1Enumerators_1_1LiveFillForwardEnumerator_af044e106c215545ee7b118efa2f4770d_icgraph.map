@@ -1,0 +1,4 @@
+<map id="QuantConnect.Lean.Engine.DataFeeds.Enumerators.LiveFillForwardEnumerator.GetMaximumDataTimeout" name="QuantConnect.Lean.Engine.DataFeeds.Enumerators.LiveFillForwardEnumerator.GetMaximumDataTimeout">
+<area shape="rect" id="node1" title="Helper method to know how much we should wait before fill forwarding a bar in live trading" alt="" coords="380,5,707,61"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Lean_1_1Engine_1_1DataFeeds_1_1Enumerators_1_1LiveFillForwardEnumerator.html#a57d430964541dc36b8fcc983f580c463" title="Initializes a new instance of the LiveFillForwardEnumerator class that accepts a reference to the fil..." alt="" coords="5,5,332,61"/>
+</map>

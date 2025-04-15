@@ -1,0 +1,16 @@
+<map id="QuantConnect.SecurityIdentifier.ToString" name="QuantConnect.SecurityIdentifier.ToString">
+<area shape="rect" id="node1" title="Returns a string that represents the current object." alt="" coords="955,185,1187,227"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1SecurityIdentifier.html#ad3b399b38ae519650ec764caabad7cfa" title="Compares the current instance with another object of the same type and returns an integer that indica..." alt="" coords="641,55,873,96"/>
+<area shape="rect" id="node4" href="$classQuantConnect_1_1Util_1_1SecurityIdentifierJsonConverter.html#a81dd6bb01b2869a1a6ee7b3a197fd062" title="Converts as security identifier to a string" alt="" coords="644,120,869,161"/>
+<area shape="rect" id="node5" href="$classQuantConnect_1_1SymbolCache.html#a57e097effb7b510a77d3ce51f8feadbc" title="Gets the string ticker symbol that is mapped to the specified Symbol" alt="" coords="651,185,862,227"/>
+<area shape="rect" id="node13" href="$classQuantConnect_1_1Algorithm_1_1Framework_1_1Alphas_1_1Serialization_1_1SerializedInsight.html#a1351eb402776a7711c31492680ed2c0d" title="Initializes a new instance of the SerializedInsight &#160;class by copying the specified insight" alt="" coords="623,251,890,307"/>
+<area shape="rect" id="node14" href="$classQuantConnect_1_1Orders_1_1Serialization_1_1SerializedOrderEvent.html#ab778a830759f40e39bc5035b6aa1c145" title="Creates a new instances based on the provided order event and algorithm Id" alt="" coords="607,332,907,373"/>
+<area shape="rect" id="node3" href="$classQuantConnect_1_1SecurityIdentifier.html#ab9032cfe7a19882ddef6f5233dd09ae0" title="Compares the current instance with another object of the same type and returns an integer that indica..." alt="" coords="327,55,559,96"/>
+<area shape="rect" id="node6" href="$classQuantConnect_1_1Symbol.html#a3c54bbbf67e90444df99f3d80ed1c3a2" title="Returns a string that represents the current object." alt="" coords="331,193,554,219"/>
+<area shape="rect" id="node7" href="$classQuantConnect_1_1Algorithm_1_1QCAlgorithm.html#a9c7ada35b14342f6e65d869d482af918" title="Creates a new name for an indicator created with the convenience functions (SMA, EMA,..." alt="" coords="5,5,279,47"/>
+<area shape="rect" id="node8" href="$classQuantConnect_1_1Lean_1_1Engine_1_1RealTime_1_1ScheduledEventFactory.html#a2a548ebf5457bc6d9ae25dd28f2a3dcd" title="Creates a new ScheduledEvent that will fire before market close by the specified time" alt="" coords="21,71,263,127"/>
+<area shape="rect" id="node9" href="$classQuantConnect_1_1Algorithm_1_1QCAlgorithm.html#a162e101f2df8722dbb5788b504ec562a" title="End of a trading day event handler. This method is called at the end of the algorithm day (or multipl..." alt="" coords="5,152,279,193"/>
+<area shape="rect" id="node10" href="$classQuantConnect_1_1Symbol.html#a3105c014ff7c97c040d9af90a509cce0" title="Returns the symbol&#39;s string ticker" alt="" coords="29,217,255,259"/>
+<area shape="rect" id="node11" href="$classQuantConnect_1_1Symbol.html#a57cd4801d0cbe4b260b9a47fdae295a1" title="Equals operator" alt="" coords="18,283,266,310"/>
+<area shape="rect" id="node12" href="$classQuantConnect_1_1Securities_1_1Security.html#a9dfff4b4f8b5951f83589ede12d80c84" title="Returns a string that represents the current object." alt="" coords="49,335,235,376"/>
+</map>

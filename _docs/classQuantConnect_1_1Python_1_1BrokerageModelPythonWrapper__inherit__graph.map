@@ -1,0 +1,5 @@
+<map id="QuantConnect.Python.BrokerageModelPythonWrapper" name="QuantConnect.Python.BrokerageModelPythonWrapper">
+<area shape="rect" id="node1" title="Provides an implementation of IBrokerageModel that wraps a PyObject object" alt="" coords="58,95,291,136"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Python_1_1BasePythonWrapper.html" title=" " alt="" coords="5,5,171,47"/>
+<area shape="rect" id="node3" href="$interfaceQuantConnect_1_1Brokerages_1_1IBrokerageModel.html" title="Models brokerage transactions, fees, and order" alt="" coords="195,13,327,39"/>
+</map>

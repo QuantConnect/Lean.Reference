@@ -1,0 +1,4 @@
+<map id="QuantConnect.Interfaces.IAlgorithm.AddOptionContract" name="QuantConnect.Interfaces.IAlgorithm.AddOptionContract">
+<area shape="rect" id="node1" title="Creates and adds a new single Option contract to the algorithm" alt="" coords="275,5,492,47"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Extensions.html#ad5dd976799decc110d468ff697b3f4e6" title="Gets the security for the specified symbol from the algorithm&#39;s securities collection...." alt="" coords="5,5,227,47"/>
+</map>

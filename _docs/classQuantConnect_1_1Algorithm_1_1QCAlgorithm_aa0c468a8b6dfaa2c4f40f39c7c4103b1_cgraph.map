@@ -1,0 +1,4 @@
+<map id="QuantConnect.Algorithm.QCAlgorithm.EMA" name="QuantConnect.Algorithm.QCAlgorithm.EMA">
+<area shape="rect" id="node1" title="Creates an ExponentialMovingAverage indicator for the symbol. The indicator will be automatically upd..." alt="" coords="5,20,308,47"/>
+<area shape="rect" id="node2" href="$classQuantConnect_1_1Indicators_1_1ExponentialMovingAverage.html#a64fd3c50320dde387ae2b01ec6ff4162" title="Calculates the default smoothing factor for an ExponentialMovingAverage indicator" alt="" coords="356,5,631,61"/>
+</map>
